@@ -1,0 +1,22 @@
+# Marsh Hong Kong Finance Manager - Contractor 6 months at Marsh
+
+| Field | Details |
+|-------|---------|
+| Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Hong Kong, Hong Kong |
+| Category | Corporate Finance |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Hong-Kong---Taikoo/Marsh-Hong-Kong-Finance-Manager---Contractor-6-months_R_338837) |
+
+## About This Role
+
+This corporate finance position at Marsh was posted on 2026-02-04.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
