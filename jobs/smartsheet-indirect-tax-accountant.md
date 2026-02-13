@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Indirect Tax Accountant at Smartsheet
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Smartsheet](https://scoutify.ai/companies/smartsheet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | San José, San José, Costa Rica |
 | Category | Corporate Finance |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/7592404) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Smartsheet was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

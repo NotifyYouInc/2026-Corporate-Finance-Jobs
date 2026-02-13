@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Accounts Payable Manager at Roc Nation
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Roc Nation](https://scoutify.ai/companies/livenation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York, US |
 | Category | Corporate Finance |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/RNExternalSite/job/New-York-NY-USA/Accounts-Payable-Manager_JR-87127-1) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Roc Nation was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

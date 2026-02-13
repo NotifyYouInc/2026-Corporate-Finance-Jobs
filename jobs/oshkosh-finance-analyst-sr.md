@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Finance Analyst Sr at Oshkosh
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Ogden, Utah, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Ogden-Utah-United-States/Finance-Analyst-Sr_R44291) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Oshkosh was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Financial Analyst at Invenergy
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Invenergy](https://scoutify.ai/companies/invenergyllc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Financial-Analyst_R10366-1) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Invenergy was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

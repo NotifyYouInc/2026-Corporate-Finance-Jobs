@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Financial Analyst (Financial Analyst) at Boeing
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | 2 locations |
 | Category | Corporate Finance |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Financial-Analyst--Financial-Analyst-_JR2026495184-1) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Boeing was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

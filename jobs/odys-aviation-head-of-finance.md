@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Head of Finance  at Odys Aviation
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Odys Aviation](https://scoutify.ai/companies/odys-aviation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Long Beach, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/odys-aviation/e7855389-fd59-42b7-ac1f-e3db97cd333e) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Odys Aviation was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

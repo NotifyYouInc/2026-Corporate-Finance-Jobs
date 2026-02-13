@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Commercial Finance Manager at Playson
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Playson](https://scoutify.ai/companies/playson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Not specified |
 | Category | Corporate Finance |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/playson/f080bdef-a8f3-4c9f-9ae5-8c0770ccdc21) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Playson was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

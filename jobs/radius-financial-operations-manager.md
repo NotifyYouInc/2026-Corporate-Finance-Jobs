@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Financial Operations Manager at Radius
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Crewe, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000107571447-financial-operations-manager) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Radius was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

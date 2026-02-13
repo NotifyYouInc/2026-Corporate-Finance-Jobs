@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Senior Sales Compensation Analyst at Workato
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Philippines |
 | Category | Corporate Finance |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8399715002) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Workato was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

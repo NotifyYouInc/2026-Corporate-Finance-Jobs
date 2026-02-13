@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Assistant Controller, Fund Administration at Armanino
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Not specified |
 | Category | Corporate Finance |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Irvine-California/Assistant-Controller--Fund-Administration_JR103568) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Armanino was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

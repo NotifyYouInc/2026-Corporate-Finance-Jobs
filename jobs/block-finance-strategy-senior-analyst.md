@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Finance & Strategy Senior Analyst at Block
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5095828008?gh_jid=5095828008) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Block was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# FINOPS ANALYST II | IT STRATEGY & FINOPS at Inter Carreiras
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Corporate Finance |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4655667005?gh_jid=4655667005) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Inter Carreiras was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

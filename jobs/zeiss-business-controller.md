@@ -1,16 +1,16 @@
-# Strategic Finance Manager at Achieve
+# Business Controller at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011527946-strategic-finance-manager) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Taipei/Business-Controller_JR_1047144) |
 
 ## About This Role
 
-This corporate finance position at Achieve was posted on 2026-02-05.
+This corporate finance position at Zeiss was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
