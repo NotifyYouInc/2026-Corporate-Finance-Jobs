@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107242801-accounts-payable-specialist-p2p) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107700768-accounts-payable-specialist-p2p) |
 
 ## About This Role
 
-This corporate finance position at Eurofins Scientific was posted on 2026-02-04.
+This corporate finance position at Eurofins Scientific was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

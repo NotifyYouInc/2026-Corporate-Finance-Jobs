@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011514876-senior-financial-analyst-oncology-12-month-contract) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011573292-senior-financial-analyst-oncology-12-month-contract) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-04.
+This corporate finance position at AbbVie was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
