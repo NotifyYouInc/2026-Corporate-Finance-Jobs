@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000107432100-financial-accountant-day-1-hmo-mid-shift) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000108155655-financial-accountant-day-1-hmo-mid-shift) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-02-05.
+This corporate finance position at IQ-EQ was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

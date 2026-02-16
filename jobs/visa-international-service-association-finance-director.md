@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107472205-finance-director) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108233761-finance-director) |
 
 ## About This Role
 
-This corporate finance position at Visa International Service Association was posted on 2026-02-05.
+This corporate finance position at Visa International Service Association was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

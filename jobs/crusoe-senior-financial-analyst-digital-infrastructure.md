@@ -1,16 +1,16 @@
-# Senior Financial Analyst, Digital Infrastructure at Crusoe
+# Senior Financial Analyst - Digital Infrastructure at Crusoe
 
 | Field | Details |
 |-------|---------|
 | Company | [Crusoe](https://scoutify.ai/companies/crusoe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/1eda2eff-c7f1-4153-8b77-1e0712462bba) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/83e56eed-2381-4cde-bbe7-18d002309050) |
 
 ## About This Role
 
-This corporate finance position at Crusoe was posted on 2026-02-04.
+This corporate finance position at Crusoe was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

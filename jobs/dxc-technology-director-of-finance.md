@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Madrid, ES |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---MZ---WARSAW/Director-of-Finance_51572179) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---MD---LAS-ROZAS/Director-of-Finance_51572460) |
 
 ## About This Role
 
-This corporate finance position at DXC Technology was posted on 2026-02-05.
+This corporate finance position at DXC Technology was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

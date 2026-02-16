@@ -5,12 +5,12 @@
 | Company | [Contilia](https://scoutify.ai/companies/contilia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Essen, North Rhine-Westphalia, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Contilia1/744000107484015-controller-mwd) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Contilia1/744000108158725-controller-mwd) |
 
 ## About This Role
 
-This corporate finance position at Contilia was posted on 2026-02-05.
+This corporate finance position at Contilia was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
