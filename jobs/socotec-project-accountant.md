@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000107327732-project-accountant) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000108297687-project-accountant) |
 
 ## About This Role
 
-This corporate finance position at SOCOTEC was posted on 2026-02-04.
+This corporate finance position at SOCOTEC was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 9 locations |
+| Location | 10 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/San-Francisco-CA/Portfolio-Manager---Institutional-Client-Group---Technology_2025-0029547) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/San-Francisco-CA/Portfolio-Manager---Institutional-Client-Group---Technology_2026-0002416) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-02-05.
+This corporate finance position at U.S. Bank was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

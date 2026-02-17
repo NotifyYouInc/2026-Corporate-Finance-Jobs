@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Product Marketing Management |
+| Category | Corporate Finance |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7019975) |
 
 ## About This Role
 
-This product marketing management position at Adyen was posted on 2026-02-06.
+This corporate finance position at Adyen was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

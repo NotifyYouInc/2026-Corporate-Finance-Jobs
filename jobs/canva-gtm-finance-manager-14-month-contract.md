@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Product Marketing Management |
+| Location | 3 locations |
+| Category | Corporate Finance |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000848942-gtm-finance-manager-14-month-contract) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000848937-gtm-finance-manager-14-month-contract) |
 
 ## About This Role
 
-This product marketing management position at Canva was posted on 2026-02-06.
+This corporate finance position at Canva was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
