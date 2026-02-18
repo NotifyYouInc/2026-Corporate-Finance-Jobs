@@ -5,12 +5,12 @@
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shenzhen, Guangdong, China |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Shenzhen/Accountant_WD215235) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Shenzhen/Accountant_WD213347) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-02-09.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

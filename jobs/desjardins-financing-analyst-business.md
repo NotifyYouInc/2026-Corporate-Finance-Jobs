@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, CA |
+| Location | Brossard, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Ontario/Analyste--Conseil--Financement--Entreprise_R2601548) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Brossard/Analyste--Financement--Entreprises--Commercial_R2601531-1) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-02-06.
+This corporate finance position at Desjardins was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

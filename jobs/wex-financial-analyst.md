@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 7 locations |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/Financial-Analyst_R20170) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/Financial-Analyst_R20890-1) |
 
 ## About This Role
 
-This corporate finance position at Wex was posted on 2026-02-03.
+This corporate finance position at Wex was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

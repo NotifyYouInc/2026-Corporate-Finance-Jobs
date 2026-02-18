@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Lilongwe, Central Region, Malawi |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Manila-Philippines/Finance-Manager_Requisition-2026200220) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Lilongwe-Malawi/Finance-Manager_Requisition-2026200214) |
 
 ## About This Role
 
-This corporate finance position at Fhi 360 was posted on 2026-02-06.
+This corporate finance position at Fhi 360 was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

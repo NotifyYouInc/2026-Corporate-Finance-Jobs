@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000108124235-accountant-3-fund-accounting) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000108183391-accountant-3-fund-accounting) |
 
 ## About This Role
 
