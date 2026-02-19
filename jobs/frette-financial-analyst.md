@@ -5,12 +5,12 @@
 | Company | [Frette](https://scoutify.ai/companies/frette?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Frette/3743990011500446-financial-analyst) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Frette/3743990011640101-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Frette was posted on 2026-02-03.
+This corporate finance position at Frette was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

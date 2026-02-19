@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madrid, ES |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---MD---LAS-ROZAS/Director-of-Finance_51572460) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/Director-of-Finance_51572546) |
 
 ## About This Role
 
-This corporate finance position at DXC Technology was posted on 2026-02-09.
+This corporate finance position at DXC Technology was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

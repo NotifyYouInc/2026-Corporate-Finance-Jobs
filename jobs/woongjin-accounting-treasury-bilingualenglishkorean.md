@@ -6,7 +6,7 @@
 | Location | New Jersey, US |
 | Category | Corporate Finance |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000108323630-accounting-treasury-bilingualenglishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000108577199-accounting-treasury-bilingualenglishkorean) |
 
 ## About This Role
 

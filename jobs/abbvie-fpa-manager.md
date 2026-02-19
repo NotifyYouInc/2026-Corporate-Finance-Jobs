@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011566196-fpa-manager) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011640996-fpa-manager) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-06.
+This corporate finance position at AbbVie was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

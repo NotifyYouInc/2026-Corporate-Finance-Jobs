@@ -1,4 +1,4 @@
-# IN-Senior Associate –Internal Audit-Internal audit services_Advisory_Bangalore at PwC
+# IN_Senior Associate –Internal Audit-Internal audit services_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Internal-Audit-Internal-audit-services-Advisory-Bangalore_703849WD-1) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Internal-Audit-Internal-audit-services-Advisory-Bangalore_703909WD-1) |
 
 ## About This Role
 

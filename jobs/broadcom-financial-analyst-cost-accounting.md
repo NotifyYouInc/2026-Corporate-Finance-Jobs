@@ -5,12 +5,12 @@
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Penang, MY |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Malaysia-Penang-B-1--2/Financial-Analyst--Cost-Accounting-_R025088-1) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Malaysia-Penang-B-1--2/Financial-Analyst--Cost-Accounting-_R025129-1) |
 
 ## About This Role
 
-This corporate finance position at Broadcom was posted on 2026-02-09.
+This corporate finance position at Broadcom was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

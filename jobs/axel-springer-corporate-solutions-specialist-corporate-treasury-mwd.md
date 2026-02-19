@@ -5,12 +5,12 @@
 | Company | [Axel Springer Corporate Solutions](https://scoutify.ai/companies/axelspringercorporatesolutions?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000107462385-specialist-corporate-treasury-mwd) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000108758974-specialist-corporate-treasury-mwd) |
 
 ## About This Role
 
-This corporate finance position at Axel Springer Corporate Solutions was posted on 2026-02-05.
+This corporate finance position at Axel Springer Corporate Solutions was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Dubai/Document-Controller_R177280) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Dubai/Document-Controller_R176951-2) |
 
 ## About This Role
 
-This corporate finance position at Parsons was posted on 2026-02-09.
+This corporate finance position at Parsons was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

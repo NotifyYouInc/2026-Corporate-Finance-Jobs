@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000107512544-project-finance-director) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000108921335-project-finance-director) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-02-05.
+This corporate finance position at Veolia was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 
