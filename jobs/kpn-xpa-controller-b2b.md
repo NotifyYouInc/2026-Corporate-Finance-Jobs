@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000107716175-xpa-controller-b2b) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000108942405-xpa-controller-b2b) |
 
 ## About This Role
 
-This corporate finance position at KPN was posted on 2026-02-06.
+This corporate finance position at KPN was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

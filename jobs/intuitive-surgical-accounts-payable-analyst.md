@@ -6,7 +6,7 @@
 | Location | Parvomay, Plovdiv, Bulgaria |
 | Category | Corporate Finance |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000108698136-accounts-payable-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000108723100-accounts-payable-analyst) |
 
 ## About This Role
 

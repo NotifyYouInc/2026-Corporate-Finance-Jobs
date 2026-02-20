@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnesota, US |
+| Location | Mississippi, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Construction-Surety-Underwriter---Financial-Analyst--Associate-Account-Executive-_R-49093) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/MS---Flowood/Construction-Surety-Underwriter---Financial-Analyst--Associate-Account-Executive-_R-49206) |
 
 ## About This Role
 
-This corporate finance position at Travelers was posted on 2026-02-09.
+This corporate finance position at Travelers was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

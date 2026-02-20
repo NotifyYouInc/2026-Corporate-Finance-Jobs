@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8399715002) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8420030002) |
 
 ## About This Role
 
-This corporate finance position at Workato was posted on 2026-02-05.
+This corporate finance position at Workato was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

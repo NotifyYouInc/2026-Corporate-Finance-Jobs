@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Derivative-Portfolio-Manager_2026-0001959) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/Derivative-Portfolio-Manager_2026-0003346) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-02-05.
+This corporate finance position at U.S. Bank was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

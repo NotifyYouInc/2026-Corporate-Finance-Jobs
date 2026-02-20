@@ -5,12 +5,12 @@
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000108546075-director-global-treasury-services) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000108727495-director-global-treasury-services) |
 
 ## About This Role
 
-This corporate finance position at Ocorian was posted on 2026-02-10.
+This corporate finance position at Ocorian was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

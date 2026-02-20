@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000108141475-transport-center-controller-full-time-permanent-ctoc-spain) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000108952745-transport-center-controller-full-time-permanent-ctoc-spain) |
 
 ## About This Role
 
-This corporate finance position at H&M Group was posted on 2026-02-09.
+This corporate finance position at H&M Group was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

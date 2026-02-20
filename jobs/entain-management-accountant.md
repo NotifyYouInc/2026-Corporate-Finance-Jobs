@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000108459130-management-accountant) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000108785765-management-accountant) |
 
 ## About This Role
 
-This corporate finance position at Entain was posted on 2026-02-10.
+This corporate finance position at Entain was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

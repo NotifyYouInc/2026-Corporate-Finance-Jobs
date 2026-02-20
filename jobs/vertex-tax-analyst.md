@@ -1,0 +1,22 @@
+# Tax Analyst at Vertex
+
+| Field | Details |
+|-------|---------|
+| Company | [Vertex](https://scoutify.ai/companies/vertexinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://vertexinc.wd1.myworkdayjobs.com/VertexInc/job/Remote---GBR/Tax-Analyst_JR102422) |
+
+## About This Role
+
+This corporate finance position at Vertex was posted on 2026-02-12.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

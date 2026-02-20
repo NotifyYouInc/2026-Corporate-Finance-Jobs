@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Fund-Accounting--Alternatives--Associate-2_R-783370-1) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Fund-Accounting--Alternatives--Associate-2_R-783373) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-02-10.
+This corporate finance position at State Street was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

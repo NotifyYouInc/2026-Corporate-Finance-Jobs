@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Santa Monica, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000107406715-corporate-fpa-manager) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000109088475-corporate-fpa-manager) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-02-05.
+This corporate finance position at Red Bull was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

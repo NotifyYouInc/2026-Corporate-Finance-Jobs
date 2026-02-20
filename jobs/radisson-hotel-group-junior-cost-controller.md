@@ -6,7 +6,7 @@
 | Location | Beirut, Beyrouth, Lebanon |
 | Category | Corporate Finance |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000108699088-junior-cost-controller) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000108727806-junior-cost-controller) |
 
 ## About This Role
 

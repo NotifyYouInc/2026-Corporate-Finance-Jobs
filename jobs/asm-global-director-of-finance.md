@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Grand Rapids, Michigan, United States |
+| Location | Toledo, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Grand-Rapids-MI/Director-of-Finance_R100119888) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Toledo-OH/Director-of-Finance_R100120014) |
 
 ## About This Role
 
-This corporate finance position at ASM Global was posted on 2026-02-10.
+This corporate finance position at ASM Global was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

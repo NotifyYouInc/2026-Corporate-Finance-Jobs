@@ -5,12 +5,12 @@
 | Company | [Boldyn Networks](https://scoutify.ai/companies/baicommunications?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://baicommunications.wd3.myworkdayjobs.com/external/job/Irvine/Senior-Accountant_JR1295) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://baicommunications.wd3.myworkdayjobs.com/external/job/Irvine/Senior-Accountant_JR1371) |
 
 ## About This Role
 
-This corporate finance position at Boldyn Networks was posted on 2026-02-11.
+This corporate finance position at Boldyn Networks was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

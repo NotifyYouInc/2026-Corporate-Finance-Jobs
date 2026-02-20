@@ -6,7 +6,7 @@
 | Location | Munich, Bavaria, Germany |
 | Category | Corporate Finance |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000108695003-project-manager-controlling) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000108767976-project-manager-controlling) |
 
 ## About This Role
 
