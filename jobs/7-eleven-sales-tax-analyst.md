@@ -5,12 +5,12 @@
 | Company | [7-Eleven](https://scoutify.ai/companies/my7elevenhr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Sales-Tax-Analyst_R26_856) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Sales-Tax-Analyst_R26_974) |
 
 ## About This Role
 
-This corporate finance position at 7-Eleven was posted on 2026-02-10.
+This corporate finance position at 7-Eleven was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

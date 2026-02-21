@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108695528-treasury-management-system-coordinator) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000109154045-treasury-management-system-coordinator) |
 
 ## About This Role
 
-This corporate finance position at Syngenta was posted on 2026-02-11.
+This corporate finance position at Syngenta was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

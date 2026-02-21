@@ -1,16 +1,16 @@
-# Financial Analyst (m/f/d) at ib vogt
+# Financial Analyst (m/f/d)  at ib vogt
 
 | Field | Details |
 |-------|---------|
 | Company | [ib vogt](https://scoutify.ai/companies/ibvogt?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ib-vogt-GmbH/744000108551149-financial-analyst-mfd) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ib-vogt-GmbH/744000109173421-financial-analyst-mfd) |
 
 ## About This Role
 
-This corporate finance position at ib vogt was posted on 2026-02-10.
+This corporate finance position at ib vogt was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

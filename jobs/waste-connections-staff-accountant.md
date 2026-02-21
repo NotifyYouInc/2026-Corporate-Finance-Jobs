@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Papillion, Nebraska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/3050-Papillion-Sanitation/Staff-Accountant_R-96332) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/3050-Papillion-Sanitation/Staff-Accountant_R-96362) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-02-11.
+This corporate finance position at Waste Connections was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

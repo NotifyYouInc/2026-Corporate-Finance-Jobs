@@ -5,12 +5,12 @@
 | Company | [Deciphera Pharmaceuticals](https://scoutify.ai/companies/decipherapharmaceuticals?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Zug, Zug, Switzerland |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DecipheraPharmaceuticals1/744000108828805-accounting-directorinternational-controller) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DecipheraPharmaceuticals1/744000109273545-accounting-directorinternational-controller) |
 
 ## About This Role
 
-This corporate finance position at Deciphera Pharmaceuticals was posted on 2026-02-11.
+This corporate finance position at Deciphera Pharmaceuticals was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

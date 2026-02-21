@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Redondo Beach, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Accountant_R10222368) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Accountant_R10222630) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-02-11.
+This corporate finance position at Northrop Grumman was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 
