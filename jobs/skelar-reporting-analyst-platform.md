@@ -1,16 +1,16 @@
-# Financial Controller (HUB Role) at ACCOR
+# Reporting Analyst - Platform at SKELAR
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000108882915-financial-controller-hub-role) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/0e7f98cc-27fb-42a3-aa38-99c06415742e) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-12.
+This corporate finance position at SKELAR was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

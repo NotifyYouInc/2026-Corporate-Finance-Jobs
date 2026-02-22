@@ -1,16 +1,16 @@
-# Financial Controller (HUB Role) at ACCOR
+# Indirect Tax Analyst at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Cork, Munster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000108882915-financial-controller-hub-role) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645981-1418/indirect-tax-analyst?team=CORSV) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-12.
+This corporate finance position at Apple was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

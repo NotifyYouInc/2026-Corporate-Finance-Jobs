@@ -1,16 +1,16 @@
-# Financial Controller (HUB Role) at ACCOR
+# Financial Analyst at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000108882915-financial-controller-hub-role) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Tokyo-Japan/Financial-Analyst_R1528933) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-12.
+This corporate finance position at IQVIA was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 
