@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Commercial Controller at HARMAN International
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | 2 locations |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/HU_Szekesfehervar_Aszalvolgyi-ut-5/Commercial-Controller_R-51190-2026-1) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at HARMAN International was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

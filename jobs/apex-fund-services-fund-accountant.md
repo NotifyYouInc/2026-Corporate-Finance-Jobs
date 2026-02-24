@@ -1,16 +1,16 @@
-# Revenue Analyst at Hewlett Packard Enterprise
+# Fund Accountant at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
-| Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Karnataka, IN |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Revenue-Analyst_1192319) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Fund-Accountant_JR-0017814) |
 
 ## About This Role
 
-This corporate finance position at Hewlett Packard Enterprise was posted on 2026-02-13.
+This corporate finance position at Apex Fund Services was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

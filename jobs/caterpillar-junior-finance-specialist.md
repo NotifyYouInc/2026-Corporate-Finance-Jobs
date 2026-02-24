@@ -1,16 +1,16 @@
-# Financial Planning and Analysis Specialist at ABB
+# Junior Finance Specialist at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Corporate Finance |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning-and-Analysis-Specialist_JR00025242) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Dubai-United-Arab-Emirates/Junior-Finance-Specialist_R0000350644) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-02-17.
+This corporate finance position at Caterpillar was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

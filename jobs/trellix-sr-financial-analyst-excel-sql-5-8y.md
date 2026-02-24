@@ -1,16 +1,16 @@
-# Revenue Analyst at Hewlett Packard Enterprise
+# Sr. Financial Analyst - Excel | SQL |  5-8y at Trellix
 
 | Field | Details |
 |-------|---------|
-| Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Karnataka, IN |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Revenue-Analyst_1192319) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/India-Bangalore/Sr-Financial-Analyst---Excel---SQL----5-8y_JR0037065) |
 
 ## About This Role
 
-This corporate finance position at Hewlett Packard Enterprise was posted on 2026-02-13.
+This corporate finance position at Trellix was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

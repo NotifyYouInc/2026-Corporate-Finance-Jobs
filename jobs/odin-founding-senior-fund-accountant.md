@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Founding Senior Fund Accountant at Odin
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [Odin](https://scoutify.ai/companies/odin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/odin/b669b4e8-2c32-4647-9983-a880e0a26755) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at Odin was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

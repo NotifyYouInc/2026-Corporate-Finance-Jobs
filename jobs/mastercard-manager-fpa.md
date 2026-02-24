@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Manager, FP&A at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Miami-Florida/Manager--FP-A_R-270804) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at Mastercard was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

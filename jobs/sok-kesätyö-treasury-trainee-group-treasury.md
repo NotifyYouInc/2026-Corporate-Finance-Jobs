@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Kesätyö: Treasury Trainee, Group Treasury at Sok
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [Sok](https://scoutify.ai/companies/sok?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Helsinki, Uusimaa, Finland |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://sok.wd502.myworkdayjobs.com/s-ryhman-avoimet-tyopaikat/job/NORTH-EUROPEAN-OIL-TRADE/Kesty--Treasury-Trainee--Group-Treasury_R-36707) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at Sok was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

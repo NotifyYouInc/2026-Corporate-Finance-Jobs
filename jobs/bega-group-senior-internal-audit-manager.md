@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Senior Internal Audit Manager at Bega Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [Bega Group](https://scoutify.ai/companies/bega-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Not specified |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://begacheese.wd3.myworkdayjobs.com/bega_careers/job/Docklands-VIC/Senior-Internal-Audit-Manager_JR-6832) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at Bega Group was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

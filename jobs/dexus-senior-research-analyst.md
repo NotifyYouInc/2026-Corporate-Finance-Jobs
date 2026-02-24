@@ -1,16 +1,16 @@
-# Financial Planning and Analysis Specialist at ABB
+# Senior Research Analyst at Dexus
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Company | [Dexus](https://scoutify.ai/companies/dexus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning-and-Analysis-Specialist_JR00025242) |
+| Apply | [View on company site](https://dexus.wd3.myworkdayjobs.com/dexuscareers/job/Sydney-QQT/Senior-Research-Analyst_R0005716) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-02-17.
+This corporate finance position at Dexus was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

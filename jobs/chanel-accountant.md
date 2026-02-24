@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Accountant at Chanel
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [Chanel](https://scoutify.ai/companies/cc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Bangkok/Accountant_JOBREQ00109989) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at Chanel was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

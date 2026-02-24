@@ -1,16 +1,16 @@
-# Fund Accounting (Alternatives) Associate 2 at State Street
+# Fund Transfer Pricing - Assistant Vice President at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | India |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Drogheda-Ireland/Fund-Accounting--Alternatives--Associate-2_R-783374) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Fund-Transfer-Pricing---Assistant-Vice-President_R-783513) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-02-13.
+This corporate finance position at State Street was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

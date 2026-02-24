@@ -1,16 +1,16 @@
-# Financial Planning and Analysis Specialist at ABB
+# PROCESS DELIVERY SPECIALIST-RECORD TO REPORT at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | India |
 | Category | Corporate Finance |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning-and-Analysis-Specialist_JR00025242) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94468) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-02-17.
+This corporate finance position at IBM was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Financial Planning and Analysis Specialist at ABB
+# Manager, Finance and Administration at RHB
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Vientiane, Vientiane Prefecture, Laos |
 | Category | Corporate Finance |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning-and-Analysis-Specialist_JR00025242) |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Vientiane/Manager--Finance-and-Administration_JR005077) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-02-17.
+This corporate finance position at RHB was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

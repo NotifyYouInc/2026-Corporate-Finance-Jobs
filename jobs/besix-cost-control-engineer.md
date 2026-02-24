@@ -1,16 +1,16 @@
-# Financial Planning and Analysis Specialist at ABB
+# Cost Control Engineer at BESIX
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Company | [BESIX](https://scoutify.ai/companies/besix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Corporate Finance |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning-and-Analysis-Specialist_JR00025242) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BESIX/744000109644015-cost-control-engineer) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-02-17.
+This corporate finance position at BESIX was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

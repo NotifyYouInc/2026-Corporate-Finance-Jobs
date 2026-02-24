@@ -1,16 +1,16 @@
-# Financial Planning and Analysis Specialist at ABB
+# Finance Executive (Accounts Payable) at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Malaysia |
 | Category | Corporate Finance |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning-and-Analysis-Specialist_JR00025242) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/cb913dc6-4a85-4a45-bfcd-e6afbca97be7) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-02-17.
+This corporate finance position at Bjak was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

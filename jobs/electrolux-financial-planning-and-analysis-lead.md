@@ -1,12 +1,12 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Financial Planning and Analysis Lead at Electrolux
 
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Miami/FP-A-Lead_JR75913-1) |
 
 ## About This Role
 

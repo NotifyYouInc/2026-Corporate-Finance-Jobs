@@ -1,16 +1,16 @@
-# Financial Planning and Analysis Specialist at ABB
+# Project Accountant at Fulton Hogan
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Company | [Fulton Hogan](https://scoutify.ai/companies/fulton-hogan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Tasmania, AU |
 | Category | Corporate Finance |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning-and-Analysis-Specialist_JR00025242) |
+| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Mowbray/Project-Accountant_R24341-1) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-02-17.
+This corporate finance position at Fulton Hogan was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

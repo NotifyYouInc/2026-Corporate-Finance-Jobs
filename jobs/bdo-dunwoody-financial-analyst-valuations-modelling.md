@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Financial-Analyst--Valuations---Modelling_JR5829) |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Financial-Analyst--Valuations---Modelling_JR5831) |
 
 ## About This Role
 

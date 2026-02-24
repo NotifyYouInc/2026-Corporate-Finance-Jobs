@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Plant Controller at Aptiv
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Guadalupe, Nuevo León, Mexico |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Guadalupe-Mexico/Plant-Controller_J000693282-1) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at Aptiv was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

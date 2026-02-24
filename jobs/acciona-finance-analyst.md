@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Finance Analyst at Acciona
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Sydney/Finance-Analyst_20092259) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at Acciona was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

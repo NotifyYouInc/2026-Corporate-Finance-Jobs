@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Associate - Content Finance & Strategy - India at Netflix
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [Netflix](https://scoutify.ai/companies/netflix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://netflix.wd1.myworkdayjobs.com/Netflix/job/Mumbai/Associate---Content-Finance---Strategy---India_JR38955) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at Netflix was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

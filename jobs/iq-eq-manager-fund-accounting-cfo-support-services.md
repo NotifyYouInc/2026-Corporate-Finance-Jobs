@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Manager - Fund Accounting (CFO Support Services)  at IQ-EQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000109588606-manager-fund-accounting-cfo-support-services) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at IQ-EQ was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

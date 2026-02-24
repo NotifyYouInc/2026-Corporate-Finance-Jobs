@@ -1,16 +1,16 @@
-# Manager, Internal Audit at Nvidia
+# Cyber Assurance Specialist- Internal Audit at GE HealthCare
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Manager--Internal-Audit_JR2012185) |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IL03-01-Chicago-500-W-Monroe-St/Cyber-Assurance-Specialist--Internal-Audit_R4036449-1) |
 
 ## About This Role
 
-This corporate finance position at Nvidia was posted on 2026-02-16.
+This corporate finance position at GE HealthCare was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# GBFS CoE Accountant at PPG Industries
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Shah Alam, Selangor, Malaysia |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MYS---Shah-Alam-Office/GBFS-CoE-Accountant_JR2516261) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at PPG Industries was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

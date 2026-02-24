@@ -1,16 +1,16 @@
-# Freight Pay & Audit Analyst at Electrolux
+# Head of Finance Technology at DeepL
 
 | Field | Details |
 |-------|---------|
-| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Company | [DeepL](https://scoutify.ai/companies/deepl?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Freight-Pay---Audit-Analyst_JR75174-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deepl/05aa07f1-f747-45cc-96c0-1b7c6301e76a) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-02-16.
+This corporate finance position at DeepL was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
