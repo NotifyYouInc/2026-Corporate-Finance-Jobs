@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Vice-Prsident-ou-Vice-Prsidente--Structure-et-syndication-de-March-des-capitaux_R2601097) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Dveloppement-des-affaires--Solutions-de-placement--Rseau-des-caisses_R2602295) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-02-05.
+This corporate finance position at Desjardins was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Banyan Software](https://scoutify.ai/companies/banyan-software?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/banyansoftware/jobs/5006919007) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/banyansoftware/jobs/5053322007) |
 
 ## About This Role
 
-This corporate finance position at Banyan Software was posted on 2026-02-10.
+This corporate finance position at Banyan Software was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

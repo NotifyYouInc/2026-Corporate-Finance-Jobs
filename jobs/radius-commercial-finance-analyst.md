@@ -5,12 +5,12 @@
 | Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Crewe, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000107789875-commercial-finance-analyst) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000109784475-commercial-finance-analyst) |
 
 ## About This Role
 
-This corporate finance position at Radius was posted on 2026-02-06.
+This corporate finance position at Radius was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

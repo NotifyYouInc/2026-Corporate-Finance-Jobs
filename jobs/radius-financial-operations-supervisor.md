@@ -5,12 +5,12 @@
 | Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000108783911-financial-operations-supervisor) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000109784405-financial-operations-supervisor) |
 
 ## About This Role
 
-This corporate finance position at Radius was posted on 2026-02-11.
+This corporate finance position at Radius was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

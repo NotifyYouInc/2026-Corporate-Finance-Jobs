@@ -5,12 +5,12 @@
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Frisco, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000108281275-vice-president-investor-relations-strategic-partnerships) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000109825767-vice-president-investor-relations-strategic-partnerships) |
 
 ## About This Role
 
-This corporate finance position at Public Storage was posted on 2026-02-09.
+This corporate finance position at Public Storage was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

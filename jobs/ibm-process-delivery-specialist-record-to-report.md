@@ -6,7 +6,7 @@
 | Location | India |
 | Category | Corporate Finance |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94468) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93095) |
 
 ## About This Role
 

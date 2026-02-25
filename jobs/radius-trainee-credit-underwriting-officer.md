@@ -1,0 +1,22 @@
+# Trainee Credit Underwriting Officer at Radius
+
+| Field | Details |
+|-------|---------|
+| Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | York, England, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000109785765-trainee-credit-underwriting-officer) |
+
+## About This Role
+
+This corporate finance position at Radius was posted on 2026-02-17.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

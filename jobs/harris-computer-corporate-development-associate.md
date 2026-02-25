@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Ontario, CA |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/London-United-Kingdom/Corporate-Development-Associate_R0039923) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Corporate-Development-Associate_R0039954) |
 
 ## About This Role
 
-This corporate finance position at Harris Computer was posted on 2026-02-04.
+This corporate finance position at Harris Computer was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 
