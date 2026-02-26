@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/APS-Middle-Office---Senior-Associate_R-781581) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/APS-Middle-Office---Senior-Associate_R-781590-1) |
 
 ## About This Role
 

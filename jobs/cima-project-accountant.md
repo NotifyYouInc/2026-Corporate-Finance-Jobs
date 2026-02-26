@@ -5,12 +5,12 @@
 | Company | [CIMA+](https://scoutify.ai/companies/cima?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000109818586-project-accountant) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000109987656-project-accountant) |
 
 ## About This Role
 
-This corporate finance position at CIMA+ was posted on 2026-02-17.
+This corporate finance position at CIMA+ was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/GCM-Client-Administrator-II_R82010-2) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Minneapolis-MN/GCM-Client-Administrator-II_R82476-2) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-02-17.
+This corporate finance position at M&T Bank was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Western Cape, ZA |
+| Location | George, Western Cape, South Africa |
 | Category | Corporate Finance |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Bellville/Private-Wealth-Advisor_R46598) |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/George/Private-Wealth-Advisor_R43892-2) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000107451806-dc-controller-3pl) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000110084205-dc-controller-3pl) |
 
 ## About This Role
 
-This corporate finance position at H&M Group was posted on 2026-02-05.
+This corporate finance position at H&M Group was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
