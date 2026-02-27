@@ -5,12 +5,12 @@
 | Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Lead-Financial-Analyst_R38536) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Lead-Financial-Analyst_R38567) |
 
 ## About This Role
 
-This corporate finance position at Duke Energy was posted on 2026-02-18.
+This corporate finance position at Duke Energy was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-15 |
-| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Financial-Analyst_R196112) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Grants-Financial-Analyst_R186687) |
 
 ## About This Role
 
-This corporate finance position at Corewell Health was posted on 2026-02-15.
+This corporate finance position at Corewell Health was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

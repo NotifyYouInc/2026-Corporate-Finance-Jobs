@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Aurora, Colorado, United States |
+| Location | Van Nuys, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Aurora-CO/Credit-Specialist_R-133628-1) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Van-Nuys-CA/Credit-Specialist_R-133700) |
 
 ## About This Role
 
-This corporate finance position at Ferguson was posted on 2026-02-17.
+This corporate finance position at Ferguson was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

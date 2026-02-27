@@ -5,12 +5,12 @@
 | Company | [Concord Hospitality Enterprises Company](https://scoutify.ai/companies/concord-hospitality-enterprises-company?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://recruiting.ultipro.com/con1029chec/JobBoard/1d42a8b7-7823-4daa-bbbd-97ab3ca103de/OpportunityDetail?opportunityId=38211598-fc19-4548-ae34-2158ed10098a) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://recruiting.ultipro.com/con1029chec/JobBoard/1d42a8b7-7823-4daa-bbbd-97ab3ca103de/OpportunityDetail?opportunityId=83822a36-b705-46bc-a162-5754a0607c31) |
 
 ## About This Role
 
-This corporate finance position at Concord Hospitality Enterprises Company was posted on 2026-02-17.
+This corporate finance position at Concord Hospitality Enterprises Company was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

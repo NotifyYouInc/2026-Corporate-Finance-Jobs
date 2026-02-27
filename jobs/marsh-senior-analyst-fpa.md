@@ -5,12 +5,12 @@
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Bogota---Eldorado/Senior-Analyst---FP-A_R_331979) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Mexico-City---Tamarindos/Senior-Analyst---FP-A_R_326170) |
 
 ## About This Role
 
-This corporate finance position at Marsh was posted on 2026-02-10.
+This corporate finance position at Marsh was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

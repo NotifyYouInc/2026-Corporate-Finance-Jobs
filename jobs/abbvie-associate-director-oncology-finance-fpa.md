@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Illinois, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011731337-associate-director-oncology-finance-fpa) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011756776-associate-director-oncology-finance-fpa) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-18.
+This corporate finance position at AbbVie was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

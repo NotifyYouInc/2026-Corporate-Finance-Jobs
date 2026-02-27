@@ -1,16 +1,16 @@
-#   CONTRÔLEUR DE GESTION (H/F) CDD at Veolia
+# Contrôleur de gestion H/F - CDD at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | France |
+| Location | Rillieux-la-Pape, Rhône-Alpes, France |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000109766725-controleur-de-gestion-hf-cdd) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110204372-controleur-de-gestion-hf-cdd) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-02-17.
+This corporate finance position at Veolia was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
