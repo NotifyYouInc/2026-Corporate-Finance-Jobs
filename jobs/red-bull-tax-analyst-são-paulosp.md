@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000110029520-tax-analyst-sao-paulosp) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000110458384-tax-analyst-sao-paulosp) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-02-18.
+This corporate finance position at Red Bull was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

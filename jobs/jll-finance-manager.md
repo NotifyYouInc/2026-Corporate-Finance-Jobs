@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Finance-Manager_REQ483283) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Pittsburgh-PA/Finance-Manager_REQ488208) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-02-10.
+This corporate finance position at JLL was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011764136-finance-business-partner) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011776738-finance-business-partner) |
 
 ## About This Role
 
-This corporate finance position at Harvard University was posted on 2026-02-19.
+This corporate finance position at Harvard University was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

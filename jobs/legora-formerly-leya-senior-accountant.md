@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/legora/53d9f5fe-bdf8-4f85-b543-f23ec7f0f5c6) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/90f87fea-c8c8-40e9-81f6-ff9ea625ab72) |
 
 ## About This Role
 
-This corporate finance position at Legora (formerly Leya) was posted on 2026-02-12.
+This corporate finance position at Legora (formerly Leya) was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edison, New Jersey, United States |
+| Location | Miramar, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Edison-New-Jersey-United-States-of-America/Customer-Operations-Associate_WD30262168) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Miramar-Florida-United-States-of-America/Customer-Operations-Associate_WD30262463) |
 
 ## About This Role
 
-This corporate finance position at Johnson Controls was posted on 2026-02-18.
+This corporate finance position at Johnson Controls was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

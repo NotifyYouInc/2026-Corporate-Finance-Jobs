@@ -5,12 +5,12 @@
 | Company | [Truewerk](https://scoutify.ai/companies/truewerk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Truewerk/744000109791595-senior-inventory-accountant-apparel) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Truewerk/744000110480811-senior-inventory-accountant-apparel) |
 
 ## About This Role
 
-This corporate finance position at Truewerk was posted on 2026-02-17.
+This corporate finance position at Truewerk was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

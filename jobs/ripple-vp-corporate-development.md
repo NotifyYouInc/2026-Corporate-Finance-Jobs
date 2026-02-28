@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | New York, US |
 | Category | Corporate Finance |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7622906?gh_jid=7622906) |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7622908?gh_jid=7622908) |
 
 ## About This Role
 
