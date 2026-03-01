@@ -1,16 +1,16 @@
-# Finance Executive (Accounts Payable) at Bjak
+# Financial Analyst at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Karnataka, IN |
 | Category | Corporate Finance |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f57155a7-9f88-4a17-a4a3-c08ea0cd41d8) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Analyst_JR00025241-1) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-02-21.
+This corporate finance position at ABB was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

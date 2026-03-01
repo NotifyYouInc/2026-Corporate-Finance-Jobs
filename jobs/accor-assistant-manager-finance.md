@@ -1,16 +1,16 @@
-# Finance Executive (Accounts Payable) at Bjak
+# Assistant Manager- Finance at ACCOR
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Kathmandu, Bagmati Province, Nepal |
 | Category | Corporate Finance |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f57155a7-9f88-4a17-a4a3-c08ea0cd41d8) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110541986-assistant-manager-finance) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-02-21.
+This corporate finance position at ACCOR was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

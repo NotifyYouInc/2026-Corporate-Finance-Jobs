@@ -1,16 +1,16 @@
-# Finance Executive (Accounts Payable) at Bjak
+# Finance Operations Supervisor at ShotVet
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Company | [ShotVet](https://scoutify.ai/companies/shotvet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Florida, US |
 | Category | Corporate Finance |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f57155a7-9f88-4a17-a4a3-c08ea0cd41d8) |
+| Apply | [View on company site](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d3eed879-7036-446c-a124-43283087f62e&jobId=9201007753619_1) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-02-21.
+This corporate finance position at ShotVet was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

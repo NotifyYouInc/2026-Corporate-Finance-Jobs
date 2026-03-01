@@ -1,16 +1,16 @@
-# Finance Executive (Accounts Payable) at Bjak
+# IBD - FIG UK - Associate at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f57155a7-9f88-4a17-a4a3-c08ea0cd41d8) |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/IBD---FIG-UK---Associate_JR026597-1) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-02-21.
+This corporate finance position at Morgan Stanley was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

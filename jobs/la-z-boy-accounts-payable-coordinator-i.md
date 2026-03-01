@@ -1,16 +1,16 @@
-# Finance Executive (Accounts Payable) at Bjak
+# Accounts Payable Coordinator I at La-Z-Boy
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Company | [La-Z-Boy](https://scoutify.ai/companies/lazboy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Monroe, Louisiana, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f57155a7-9f88-4a17-a4a3-c08ea0cd41d8) |
+| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Monroe-MI/Accounts-Payable-Coordinator-I_JR131669) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-02-21.
+This corporate finance position at La-Z-Boy was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

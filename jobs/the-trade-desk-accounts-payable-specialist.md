@@ -1,16 +1,16 @@
-# Finance Executive (Accounts Payable) at Bjak
+# Accounts Payable Specialist at The Trade Desk
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f57155a7-9f88-4a17-a4a3-c08ea0cd41d8) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5055421007) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-02-21.
+This corporate finance position at The Trade Desk was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

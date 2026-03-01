@@ -1,16 +1,16 @@
-# Finance Executive (Accounts Payable) at Bjak
+# Controller at Base Power
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Company | [Base Power](https://scoutify.ai/companies/base-power?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f57155a7-9f88-4a17-a4a3-c08ea0cd41d8) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/base-power/8c6e8a36-4929-4f91-b805-fac80abad509) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-02-21.
+This corporate finance position at Base Power was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

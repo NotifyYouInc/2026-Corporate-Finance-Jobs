@@ -1,16 +1,16 @@
-# Finance Executive (Accounts Payable) at Bjak
+# Senior Manager, Global Tax at Solenis
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Wilmington, North Carolina, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f57155a7-9f88-4a17-a4a3-c08ea0cd41d8) |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Wilmington-Delaware-United-States-of-America/Senior-Manager--Global-Tax_R0027673) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-02-21.
+This corporate finance position at Solenis was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

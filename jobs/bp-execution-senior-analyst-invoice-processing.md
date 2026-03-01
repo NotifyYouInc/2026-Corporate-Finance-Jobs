@@ -1,16 +1,16 @@
-# Finance Executive (Accounts Payable) at Bjak
+# Execution Senior Analyst, Invoice Processing at BP
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f57155a7-9f88-4a17-a4a3-c08ea0cd41d8) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Execution-Senior-Analyst--Invoice-Processing_RQ107061) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-02-21.
+This corporate finance position at BP was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 
