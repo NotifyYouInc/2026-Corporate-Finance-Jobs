@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Senior Financial Analyst - Group FP&A at Ghobash Group
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Ghobash Group](https://scoutify.ai/companies/ghobashgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000110675385-senior-financial-analyst-group-fpa) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Ghobash Group was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

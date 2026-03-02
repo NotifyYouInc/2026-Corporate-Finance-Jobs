@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Accountant at Northern Trust
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | India |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Accountant_R152058-1) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Northern Trust was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

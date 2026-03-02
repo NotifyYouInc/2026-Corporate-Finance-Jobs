@@ -1,16 +1,16 @@
-# General Accounting Data Processing (AR) at Woongjin
+# Quantity Surveyor - Surfacing at Fulton Hogan
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Company | [Fulton Hogan](https://scoutify.ai/companies/fulton-hogan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Christchurch, Canterbury, New Zealand |
 | Category | Corporate Finance |
 | Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000110544585-general-accounting-data-processing-ar) |
+| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Christchurch/Quantity-Surveyor---Surfacing_R24376-1) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-02-22.
+This corporate finance position at Fulton Hogan was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Manager, Accounting at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Manager--Accounting_JR2012992) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Nvidia was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

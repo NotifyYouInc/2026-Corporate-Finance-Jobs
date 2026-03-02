@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Senior Analyst - MO at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad/Senior-Analyst---MO_JR-0020895) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Apex Fund Services was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Assistant Accountant at Tigerbrands
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Tigerbrands](https://scoutify.ai/companies/tigerbrands?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Gauteng, ZA |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://tigerbrands.wd103.myworkdayjobs.com/tigerbrands/job/Corporate-Services-Bryanston/Assistant-Accountant_JR001635) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Tigerbrands was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# MGR/AVP, Relationship Manager - Wealth Banking at UOB Group
+# China CFF Sr. Analyst/Accountant at Air Products
 
 | Field | Details |
 |-------|---------|
-| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Kuala-Lumpur-City-Area/MGR-AVP--Relationship-Manager---Wealth-Banking_JR79454-1) |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/China-CFF-Sr-Analyst-Accountant_JR-2026-19412) |
 
 ## About This Role
 
-This corporate finance position at UOB Group was posted on 2026-02-23.
+This corporate finance position at Air Products was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

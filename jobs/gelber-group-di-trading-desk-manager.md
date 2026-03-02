@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# DI Trading Desk Manager at Gelber Group
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Gelber Group](https://scoutify.ai/companies/gelbergroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4656678006) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Gelber Group was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

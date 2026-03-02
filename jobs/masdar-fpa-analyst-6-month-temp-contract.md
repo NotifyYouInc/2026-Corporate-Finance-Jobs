@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# FP&A Analyst (6-Month temp contract) at Masdar
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Masdar](https://scoutify.ai/companies/masdar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Masdar/744000110671055-fpa-analyst-6-month-temp-contract) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Masdar was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

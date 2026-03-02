@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Product Control Associate at ATLAS SP
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [ATLAS SP](https://scoutify.ai/companies/atlassp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Raleigh, North Carolina, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/atlassp/jobs/5057620007) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at ATLAS SP was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

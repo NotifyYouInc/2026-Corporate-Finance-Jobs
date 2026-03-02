@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Head of Bookkeeping at Wix.com
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000110552424-head-of-bookkeeping) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Wix.com was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

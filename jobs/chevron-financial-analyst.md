@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Financial Analyst at Chevron
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Perth, Western Australia, Australia |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Perth-Western-Australia-Australia/Financial-Analyst_R000068924) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Chevron was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

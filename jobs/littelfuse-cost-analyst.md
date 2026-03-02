@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Cost Analyst at Littelfuse
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Littelfuse](https://scoutify.ai/companies/littelfuse?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Croatia |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Lipa-SBU/Cost-Analyst_JR-110762-1) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Littelfuse was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

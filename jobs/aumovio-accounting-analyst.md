@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Accounting Analyst at Aumovio
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000110560615-accounting-analyst) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Aumovio was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# FinOps Analyst - AR (German), Global Account Receivables at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3186707/finops-analyst-ar-german-global-account-receivables) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Amazon was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Accounting Manager at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | San Jose, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7608648488621181189/detail) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at TikTok was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

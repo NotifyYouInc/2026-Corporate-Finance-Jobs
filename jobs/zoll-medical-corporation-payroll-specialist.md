@@ -1,16 +1,16 @@
-# General Accounting Data Processing (AR) at Woongjin
+# Payroll  Specialist at ZOLL Medical Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Company | [ZOLL Medical Corporation](https://scoutify.ai/companies/zoll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Israel |
 | Category | Corporate Finance |
 | Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000110544585-general-accounting-data-processing-ar) |
+| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/IL-Caesarea/Payroll--Specialist_R18312) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-02-22.
+This corporate finance position at ZOLL Medical Corporation was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

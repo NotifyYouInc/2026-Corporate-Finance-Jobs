@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Senior Finance Manager, GI Revenue Forecasting at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011795756-senior-finance-manager-gi-revenue-forecasting) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at AbbVie was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

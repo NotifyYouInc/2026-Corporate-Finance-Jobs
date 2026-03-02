@@ -1,16 +1,16 @@
-# General Accounting Data Processing (AR) at Woongjin
+# Actuarial Analyst- Pricing (Homeowners) at Porch Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Company | [Porch Group](https://scoutify.ai/companies/porch-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | India |
 | Category | Corporate Finance |
 | Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000110544585-general-accounting-data-processing-ar) |
+| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/IN-Remote/Actuarial-Analyst--Pricing--Homeowners-_JR101087) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-02-22.
+This corporate finance position at Porch Group was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

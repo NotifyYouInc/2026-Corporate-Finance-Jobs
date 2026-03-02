@@ -1,16 +1,16 @@
-# Hotel Accountant at ACCOR
+# Home-Based Senior Accounting Specialist at Delegate CX
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Philippines |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110670380-hotel-accountant) |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Work-From-Home--PH/Home-Based-Senior-Accounting-Specialist_JR103863) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-23.
+This corporate finance position at Delegate CX was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

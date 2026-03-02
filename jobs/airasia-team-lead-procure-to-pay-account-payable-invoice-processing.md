@@ -1,16 +1,16 @@
-# MGR/AVP, Relationship Manager - Wealth Banking at UOB Group
+# Team Lead, Procure to Pay (Account Payable Invoice Processing) at Airasia
 
 | Field | Details |
 |-------|---------|
-| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Kuala-Lumpur-City-Area/MGR-AVP--Relationship-Manager---Wealth-Banking_JR79454-1) |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur---RedQ/Team-Lead--Procure-to-Pay--Account-Payable-Invoice-Processing-_JR0034058) |
 
 ## About This Role
 
-This corporate finance position at UOB Group was posted on 2026-02-23.
+This corporate finance position at Airasia was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

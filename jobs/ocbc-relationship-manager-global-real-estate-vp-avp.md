@@ -1,16 +1,16 @@
-# General Accounting Data Processing (AR) at Woongjin
+# Relationship Manager, Global Real Estate (VP/ AVP) at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
 | Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000110544585-general-accounting-data-processing-ar) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Relationship-Manager--Global-Real-Estate--VP--AVP-_JR00005733) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-02-22.
+This corporate finance position at OCBC was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

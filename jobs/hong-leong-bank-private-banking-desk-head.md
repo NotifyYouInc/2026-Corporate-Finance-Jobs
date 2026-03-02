@@ -1,16 +1,16 @@
-# MGR/AVP, Relationship Manager - Wealth Banking at UOB Group
+# Private Banking Desk Head at Hong Leong Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Kuala-Lumpur-City-Area/MGR-AVP--Relationship-Manager---Wealth-Banking_JR79454-1) |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Private-Banking-Desk-Head_JR0000023531) |
 
 ## About This Role
 
-This corporate finance position at UOB Group was posted on 2026-02-23.
+This corporate finance position at Hong Leong Bank was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

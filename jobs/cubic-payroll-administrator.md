@@ -1,16 +1,16 @@
-# General Accounting Data Processing (AR) at Woongjin
+# Payroll Administrator at Cubic
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Company | [Cubic](https://scoutify.ai/companies/cubic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
 | Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000110544585-general-accounting-data-processing-ar) |
+| Apply | [View on company site](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Hyderabad-Telangana/Payroll-Administrator_REQ_47944-1) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-02-22.
+This corporate finance position at Cubic was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

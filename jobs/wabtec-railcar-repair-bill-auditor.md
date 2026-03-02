@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Norcross, Georgia, United States |
+| Location | Fort Worth, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011778466-railcar-repair-bill-auditor) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011778965-railcar-repair-bill-auditor) |
 
 ## About This Role
 

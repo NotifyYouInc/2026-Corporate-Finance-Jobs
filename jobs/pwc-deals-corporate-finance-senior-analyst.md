@@ -1,16 +1,16 @@
-# General Accounting Data Processing (AR) at Woongjin
+# Deals - Corporate Finance - Senior Analyst at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Corporate Finance |
 | Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000110544585-general-accounting-data-processing-ar) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Auckland---NZL/Deals---Corporate-Finance---Senior-Analyst_707815WD) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-02-22.
+This corporate finance position at PwC was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 
