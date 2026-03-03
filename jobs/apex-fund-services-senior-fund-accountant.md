@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Senior-Fund-Accountant_JR-0020339) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Senior-Fund-Accountant_JR-0020526) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-02-23.
+This corporate finance position at Apex Fund Services was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

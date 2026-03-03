@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gatineau, Quebec, Canada |
+| Location | Victoriaville, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Gatineau/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2602364) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Victoriaville/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2601174) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-02-17.
+This corporate finance position at Desjardins was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

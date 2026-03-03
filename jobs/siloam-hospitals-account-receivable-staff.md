@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Siloam Hospitals](https://scoutify.ai/companies/siloamhospitals?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jambi, ID |
+| Location | Indonesia |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000000881134-account-receivable-staff) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000000888902-account-receivable-staff) |
 
 ## About This Role
 
-This corporate finance position at Siloam Hospitals was posted on 2026-02-19.
+This corporate finance position at Siloam Hospitals was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

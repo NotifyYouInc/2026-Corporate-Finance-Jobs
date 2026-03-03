@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Guadalajara-Jalisco/Senior-Financial-Analyst_1203431) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sunnyvale-California-United-States-of-America/Senior-Financial-Analyst_1202351) |
 
 ## About This Role
 
-This corporate finance position at Hewlett Packard Enterprise was posted on 2026-02-20.
+This corporate finance position at Hewlett Packard Enterprise was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

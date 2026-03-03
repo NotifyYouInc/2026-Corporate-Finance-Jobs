@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northmarq](https://scoutify.ai/companies/northmarq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5124374008) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5129836008) |
 
 ## About This Role
 
-This corporate finance position at Northmarq was posted on 2026-02-18.
+This corporate finance position at Northmarq was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

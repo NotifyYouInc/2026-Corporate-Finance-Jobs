@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Huntsville, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Manufacturing-Operation-Financial-Analyst_R-00175174) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Manufacturing-Operation-Financial-Analyst_R-00176634) |
 
 ## About This Role
 
-This corporate finance position at Leidos was posted on 2026-02-04.
+This corporate finance position at Leidos was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

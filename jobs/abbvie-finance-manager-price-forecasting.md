@@ -6,7 +6,7 @@
 | Location | Illinois, US |
 | Category | Corporate Finance |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011795676-finance-manager-price-forecasting) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011802379-finance-manager-price-forecasting) |
 
 ## About This Role
 
