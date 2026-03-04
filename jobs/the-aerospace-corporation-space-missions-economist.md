@@ -5,12 +5,12 @@
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Greenbelt, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Greenbelt-MD/Space-Missions-Economist_R014594) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Greenbelt-MD/Space-Missions-Economist_R014627) |
 
 ## About This Role
 
-This corporate finance position at The Aerospace Corporation was posted on 2026-02-20.
+This corporate finance position at The Aerospace Corporation was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

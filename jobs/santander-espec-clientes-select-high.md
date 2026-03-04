@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Petrópolis, Rio de Janeiro, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Clientes-Select-High_Req1536611-1) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PETROPOLIS/Espec-Clientes-Select-High_Req1544923-1) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-02-23.
+This corporate finance position at Santander was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

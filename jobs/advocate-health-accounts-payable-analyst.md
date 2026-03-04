@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Illinois, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Charlotte-NC---4400-Golf-Acres-Dr/Accounts-Payable-Analyst_R206430) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/AAO-Oak-Brook---2025-Windsor-Dr/Accounts-Payable-Analyst_R204402) |
 
 ## About This Role
 
-This corporate finance position at Advocate Health was posted on 2026-02-17.
+This corporate finance position at Advocate Health was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

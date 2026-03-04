@@ -1,16 +1,16 @@
-# VP Financial Advisor at Wealth Enhancement Group
+# VP, Financial Advisor at Wealth Enhancement Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hartford, Connecticut, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Hartford-CT/VP-Financial-Advisor_R-102239) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Atlanta-GA/VP--Financial-Advisor_R-102238) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-02-19.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

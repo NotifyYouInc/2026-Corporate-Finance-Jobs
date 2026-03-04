@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000110251346-junior-payment-analyst) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000111151035-junior-payment-analyst) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-02-19.
+This corporate finance position at SGS was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

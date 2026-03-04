@@ -1,16 +1,16 @@
-# Sr Financial Analyst at NBCUniversal
+# Sr. Financial Analyst at NBCUniversal
 
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000110295029-sr-financial-analyst) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000111210655-sr-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-02-20.
+This corporate finance position at NBCUniversal was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

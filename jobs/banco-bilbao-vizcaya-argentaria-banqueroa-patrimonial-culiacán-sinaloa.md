@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tijuana, Baja California, Mexico |
+| Location | Sinaloa, MX |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Baja-California-Tijuana-22014/Banquero-a-Patrimonial--Culiacn--Sinaloa-_JR00096321) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/CULIACAN-OFNA-PRINCIPAL/Banquero-a-Patrimonial--Culiacn--Sinaloa-_JR00094329) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-23.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/PH-GBS-Manila/Accounts-Receivable-Analyst_JR-40104905-1) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/PH-GBS-Manila/Accounts-Receivable-Analyst_JR-40105372-1) |
 
 ## About This Role
 
-This corporate finance position at Goodyear was posted on 2026-02-05.
+This corporate finance position at Goodyear was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

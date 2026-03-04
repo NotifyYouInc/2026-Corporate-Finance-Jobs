@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011721097-head-pricing-and-specialty-care) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011829456-head-pricing-and-specialty-care) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-17.
+This corporate finance position at AbbVie was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

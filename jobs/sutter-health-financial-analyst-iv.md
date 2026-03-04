@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Oakland, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/San-Francisco/Financial-Analyst-IV_R-121858-1) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Oakland/Financial-Analyst-IV_R-123579) |
 
 ## About This Role
 
-This corporate finance position at Sutter Health was posted on 2026-02-09.
+This corporate finance position at Sutter Health was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

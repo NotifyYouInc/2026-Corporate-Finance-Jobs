@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110618632-senior-accountant-general-ledger-r2r) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111285190-senior-accountant-general-ledger-r2r) |
 
 ## About This Role
 
-This corporate finance position at ServiceNow was posted on 2026-02-23.
+This corporate finance position at ServiceNow was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

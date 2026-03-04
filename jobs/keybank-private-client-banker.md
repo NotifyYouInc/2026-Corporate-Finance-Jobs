@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Connecticut, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Colorado-Springs-CO/Private-Client-Banker_R-37932) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Putnam-CT/Private-Client-Banker_R-38069) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-02-17.
+This corporate finance position at KeyBank was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
