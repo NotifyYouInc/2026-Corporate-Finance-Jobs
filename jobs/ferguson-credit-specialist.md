@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Van Nuys, California, United States |
+| Location | Birmingham, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Van-Nuys-CA/Credit-Specialist_R-133700) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Birmingham-AL/Credit-Specialist_R-133940) |
 
 ## About This Role
 
-This corporate finance position at Ferguson was posted on 2026-02-19.
+This corporate finance position at Ferguson was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

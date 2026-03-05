@@ -5,12 +5,12 @@
 | Company | [Brownhealth](https://scoutify.ai/companies/brownhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Providence, Rhode Island, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Brown-University-Health/Claims-Follow-Up-Rep-TC_JR-105981) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Brown-University-Health/Claims-Follow-Up-Rep-TC_JR-106182) |
 
 ## About This Role
 
-This corporate finance position at Brownhealth was posted on 2026-02-19.
+This corporate finance position at Brownhealth was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

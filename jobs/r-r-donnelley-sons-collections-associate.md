@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Columbus, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000111189325-collections-associate) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000111442595-collections-associate) |
 
 ## About This Role
 
-This corporate finance position at R R Donnelley & Sons was posted on 2026-02-24.
+This corporate finance position at R R Donnelley & Sons was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

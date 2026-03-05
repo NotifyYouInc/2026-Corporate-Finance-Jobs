@@ -5,12 +5,12 @@
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director--Accounts-Receivable_R039387) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director--Accounts-Receivable_R040686) |
 
 ## About This Role
 
-This corporate finance position at Ensemble Health Partners was posted on 2026-02-04.
+This corporate finance position at Ensemble Health Partners was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

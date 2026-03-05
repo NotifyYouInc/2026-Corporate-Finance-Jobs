@@ -6,7 +6,7 @@
 | Location | Dalton, Georgia, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111210384-billing-settlement-staff-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111422666-billing-settlement-staff-bilingual-englishkorean) |
 
 ## About This Role
 

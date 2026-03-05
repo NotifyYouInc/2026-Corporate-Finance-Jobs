@@ -1,16 +1,16 @@
-# Analista Fiscal - São Paulo/SP at Red Bull
+# Analista Fiscal (São Paulo/SP) at Red Bull
 
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000110824863-analista-fiscal-sao-paulosp) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000111456068-analista-fiscal-sao-paulosp) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-02-23.
+This corporate finance position at Red Bull was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

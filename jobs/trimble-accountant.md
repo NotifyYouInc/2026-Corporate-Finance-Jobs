@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Mexicali, Baja California, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Poland---Cracow/Accountant_R54036) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Mexico---Mexicali/Accountant_R53547) |
 
 ## About This Role
 
-This corporate finance position at Trimble was posted on 2026-02-09.
+This corporate finance position at Trimble was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

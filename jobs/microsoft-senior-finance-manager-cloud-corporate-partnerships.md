@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556759698) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556803720) |
 
 ## About This Role
 
-This corporate finance position at Microsoft was posted on 2026-02-24.
+This corporate finance position at Microsoft was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Senior Lifestyle](https://scoutify.ai/companies/seniorlifestyle?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorLifestyle1/744000110199365-asset-manager) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorLifestyle1/744000111480773-asset-manager) |
 
 ## About This Role
 
-This corporate finance position at Senior Lifestyle was posted on 2026-02-19.
+This corporate finance position at Senior Lifestyle was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

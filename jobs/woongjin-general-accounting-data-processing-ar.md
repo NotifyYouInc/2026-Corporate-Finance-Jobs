@@ -6,7 +6,7 @@
 | Location | New Jersey, US |
 | Category | Corporate Finance |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111209628-general-accounting-data-processing-ar) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111421765-general-accounting-data-processing-ar) |
 
 ## About This Role
 

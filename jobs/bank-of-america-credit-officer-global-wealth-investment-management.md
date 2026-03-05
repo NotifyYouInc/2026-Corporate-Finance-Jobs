@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Credit-Officer--Global-Wealth---Investment-Management_26006057-2) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Los-Angeles/Credit-Officer--Global-Wealth---Investment-Management_26006303) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-02-24.
+This corporate finance position at Bank of America was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

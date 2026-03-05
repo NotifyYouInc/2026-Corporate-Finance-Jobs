@@ -6,7 +6,7 @@
 | Location | Hazleton, Pennsylvania, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111210240-account-lead-logistic-operation-support-bilingual-english-korena) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111422945-account-lead-logistic-operation-support-bilingual-english-korena) |
 
 ## About This Role
 

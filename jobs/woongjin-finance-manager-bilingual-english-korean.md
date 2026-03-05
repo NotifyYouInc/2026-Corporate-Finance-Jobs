@@ -6,7 +6,7 @@
 | Location | Irvine, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111209434-finance-manager-bilingual-english-korean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111418832-finance-manager-bilingual-english-korean) |
 
 ## About This Role
 

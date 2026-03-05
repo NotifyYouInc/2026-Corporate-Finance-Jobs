@@ -5,12 +5,12 @@
 | Company | [Indigo Books & Music](https://scoutify.ai/companies/indigobooksmusic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000109989345-senior-financial-internal-audit-analyst) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000111430348-senior-financial-internal-audit-analyst) |
 
 ## About This Role
 
-This corporate finance position at Indigo Books & Music was posted on 2026-02-18.
+This corporate finance position at Indigo Books & Music was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000111172305-accounts-administrator) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000111460075-accounts-administrator) |
 
 ## About This Role
 
-This corporate finance position at The Wonderful Company was posted on 2026-02-24.
+This corporate finance position at The Wonderful Company was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

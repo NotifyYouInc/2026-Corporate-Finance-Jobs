@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Shanghai/Senior-Underwriter--Energy_JR2600900) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Sydney/Senior-Underwriter--Energy_JR2504815) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-02-25.
+This corporate finance position at AIG was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Denton, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111209615-accounting-manager-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111421655-accounting-manager-bilingual-englishkorean) |
 
 ## About This Role
 

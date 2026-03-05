@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Banquero-a-Privado-JR-UHN-Metro-Sur--Ciudad-de-Mxico--Cuauhtmoc-_JR00096875) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Banquero-a-Privado-JR-UHN-Metro-Sur--Ciudad-de-Mxico--Cuauhtmoc-_JR00096959) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-24.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

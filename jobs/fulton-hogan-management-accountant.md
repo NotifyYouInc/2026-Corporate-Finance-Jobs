@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fulton Hogan](https://scoutify.ai/companies/fulton-hogan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | South Africa |
+| Location | Invercargill, Southland, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/SA-Dulwich/Management-Accountant_R23032-2) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Invercargill/Management-Accountant_R24473-1) |
 
 ## About This Role
 
-This corporate finance position at Fulton Hogan was posted on 2026-02-10.
+This corporate finance position at Fulton Hogan was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
