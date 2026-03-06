@@ -5,12 +5,12 @@
 | Company | [Mercer Advisors](https://scoutify.ai/companies/merceradvisors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/merceradvisors/jobs/5126641008) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/merceradvisors/jobs/5134575008) |
 
 ## About This Role
 
-This corporate finance position at Mercer Advisors was posted on 2026-02-23.
+This corporate finance position at Mercer Advisors was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

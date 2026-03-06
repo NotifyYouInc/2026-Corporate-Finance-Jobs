@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Birmingham, Alabama, United States |
+| Location | Beaverton, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000110017142-credit-manager) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000111713305-credit-manager) |
 
 ## About This Role
 
-This corporate finance position at REXEL was posted on 2026-02-18.
+This corporate finance position at REXEL was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Shah Alam, Selangor, Malaysia |
 | Category | Corporate Finance |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000111484035-accountant-ap-tax) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000111674277-accountant-ap-tax) |
 
 ## About This Role
 

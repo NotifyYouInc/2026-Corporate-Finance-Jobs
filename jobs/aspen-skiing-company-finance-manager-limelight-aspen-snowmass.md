@@ -5,12 +5,12 @@
 | Company | [Aspen Skiing Company](https://scoutify.ai/companies/aspenskiingcompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Colorado, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000111176725-finance-manager-limelight-aspen-snowmass) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000111672135-finance-manager-limelight-aspen-snowmass) |
 
 ## About This Role
 
-This corporate finance position at Aspen Skiing Company was posted on 2026-02-24.
+This corporate finance position at Aspen Skiing Company was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

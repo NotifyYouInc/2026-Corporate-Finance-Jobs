@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | Kitchener, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/3050-Papillion-Sanitation/Assistant-Controller_R-96230) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/7121-Kitchener-139/Assistant-Controller_R-96740) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-02-13.
+This corporate finance position at Waste Connections was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

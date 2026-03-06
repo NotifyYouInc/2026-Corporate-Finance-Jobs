@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Fort Lauderdale, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000108297687-project-accountant) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000111702555-project-accountant) |
 
 ## About This Role
 
-This corporate finance position at SOCOTEC was posted on 2026-02-09.
+This corporate finance position at SOCOTEC was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

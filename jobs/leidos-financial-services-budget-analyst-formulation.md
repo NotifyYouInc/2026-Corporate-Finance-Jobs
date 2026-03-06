@@ -1,16 +1,16 @@
-# Financial Services Budget Analyst- Formulation at Leidos
+# Financial Services Budget Analyst - Formulation at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maryland, US |
+| Location | McLean, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/9663-White-Hall-MD-Home-Office/Financial-Services-Budget-Analyst--Formulation_R-00175834) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Financial-Services-Budget-Analyst---Formulation_R-00177063) |
 
 ## About This Role
 
-This corporate finance position at Leidos was posted on 2026-02-11.
+This corporate finance position at Leidos was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

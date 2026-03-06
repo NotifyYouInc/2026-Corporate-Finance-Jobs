@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-Vigie-financire_R2602239) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-en-performance-financire-et-budget_R2602698) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-02-19.
+This corporate finance position at Desjardins was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

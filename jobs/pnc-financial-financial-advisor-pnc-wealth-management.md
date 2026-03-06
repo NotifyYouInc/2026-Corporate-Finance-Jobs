@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hilliard, Ohio, United States |
+| Location | Richardson, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Hilliard/Financial-Advisor---PNC-Wealth-Management_R213128-1) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Richardson-75080/Financial-Advisor---PNC-Wealth-Management_R213071-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-02-25.
+This corporate finance position at PNC Financial was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

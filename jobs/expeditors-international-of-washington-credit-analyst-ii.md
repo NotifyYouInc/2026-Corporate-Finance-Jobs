@@ -6,7 +6,7 @@
 | Location | Scottsdale, Arizona, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000111484903-credit-analyst-ii) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000111700600-credit-analyst-ii) |
 
 ## About This Role
 

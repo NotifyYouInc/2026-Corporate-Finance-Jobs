@@ -1,16 +1,16 @@
-# Manager, Cloud FinOps (IGT 1) at IFS
+# Manager - Cloud FinOps (IGT 1) at IFS
 
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110312685-manager-cloud-finops-igt-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000111763775-manager-cloud-finops-igt-1) |
 
 ## About This Role
 
-This corporate finance position at IFS was posted on 2026-02-20.
+This corporate finance position at IFS was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

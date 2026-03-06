@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Annecy, Rhône-Alpes, France |
+| Location | Cergy, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000110803535-comptable-gerance-hf) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000111665150-comptable-gerance-hf) |
 
 ## About This Role
 
-This corporate finance position at Evoriel was posted on 2026-02-23.
+This corporate finance position at Evoriel was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

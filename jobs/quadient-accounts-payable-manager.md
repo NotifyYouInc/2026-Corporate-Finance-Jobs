@@ -5,12 +5,12 @@
 | Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milford, Connecticut, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000110216873-accounts-payable-manager) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000111698835-accounts-payable-manager) |
 
 ## About This Role
 
-This corporate finance position at Quadient was posted on 2026-02-19.
+This corporate finance position at Quadient was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

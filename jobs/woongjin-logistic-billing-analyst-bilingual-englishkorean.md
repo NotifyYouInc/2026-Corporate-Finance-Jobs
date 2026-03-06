@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111423066-logistic-billing-analyst-bilingual-englishkorean) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111668956-logistic-billing-analyst-bilingual-englishkorean) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-02-25.
+This corporate finance position at Woongjin was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

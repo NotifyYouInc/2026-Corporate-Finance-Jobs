@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Banquero-a-Patrimonial-Polanco--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00089037) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Banquero-a-Patrimonial-Polanco--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00097106) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-23.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Shah Alam, Selangor, Malaysia |
 | Category | Corporate Finance |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000111483935-accountant-cost) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000111675346-accountant-cost) |
 
 ## About This Role
 

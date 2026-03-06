@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Financial-Analyst_R10223063) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Financial-Analyst_R10224247) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-02-17.
+This corporate finance position at Northrop Grumman was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
