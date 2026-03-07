@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Myers, Florida, United States |
+| Location | Haryana, IN |
 | Category | Corporate Finance |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Sr-Accountant_108194) |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Sr-Accountant_108195) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000110392087-controls-analyst) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000111889445-controls-analyst) |
 
 ## About This Role
 
-This corporate finance position at Anglo American was posted on 2026-02-20.
+This corporate finance position at Anglo American was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

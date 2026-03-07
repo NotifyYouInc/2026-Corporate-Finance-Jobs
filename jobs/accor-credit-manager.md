@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hawaii, US |
+| Location | Bermuda |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000109613362-credit-manager) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000111950300-credit-manager) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-17.
+This corporate finance position at ACCOR was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

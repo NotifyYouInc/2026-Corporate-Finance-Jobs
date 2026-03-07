@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Jersey, US |
+| Location | Pasadena, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-NJ-CHR-101-STE-201/Associate-I--Production-Operations_JR0304741) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-CA-PAS-2923-STE-190/Associate-I--Production-Operations_JR0304707) |
 
 ## About This Role
 
-This corporate finance position at Fidelity National Information Services was posted on 2026-02-25.
+This corporate finance position at Fidelity National Information Services was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

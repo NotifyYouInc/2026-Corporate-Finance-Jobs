@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108256622-finance-business-partner) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000111929516-finance-business-partner) |
 
 ## About This Role
 
-This corporate finance position at Informa was posted on 2026-02-09.
+This corporate finance position at Informa was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

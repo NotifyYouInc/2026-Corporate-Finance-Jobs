@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000109588606-manager-fund-accounting-cfo-support-services) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000111932435-manager-fund-accounting-cfo-support-services) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-02-16.
+This corporate finance position at IQ-EQ was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

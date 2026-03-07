@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Piracicaba, São Paulo, Brazil |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Assistente-de-Suporte-ao-Negcio_R0000348738) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Assistente-de-Suporte-ao-Negcio_R0000354295) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-02-25.
+This corporate finance position at Caterpillar was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000110195615-corporate-accounting-manager-fund-services) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000111876721-corporate-accounting-manager-fund-services) |
 
 ## About This Role
 
-This corporate finance position at Ocorian was posted on 2026-02-19.
+This corporate finance position at Ocorian was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

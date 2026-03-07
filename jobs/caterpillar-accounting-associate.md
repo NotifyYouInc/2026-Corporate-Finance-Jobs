@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Location | Seguin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accounting-Associate_R0000353172) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Seguin-Texas/Accounting-Associate_R0000353946) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-02-25.
+This corporate finance position at Caterpillar was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

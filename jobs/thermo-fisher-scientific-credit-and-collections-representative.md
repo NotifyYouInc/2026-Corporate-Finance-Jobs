@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Credit-and-Collections-Representative_R-01342280) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Credit-and-Collections-Representative_R-01344401) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-02-26.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

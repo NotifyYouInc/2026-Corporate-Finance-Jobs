@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Illinois, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011881916-manager-sop-dashboard-finance-planning-systems) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011899336-manager-sop-dashboard-finance-planning-systems) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-26.
+This corporate finance position at AbbVie was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

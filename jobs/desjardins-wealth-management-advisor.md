@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Laval, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Rglement-des-successions_R2602625-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Laval/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2602997) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-02-25.
+This corporate finance position at Desjardins was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

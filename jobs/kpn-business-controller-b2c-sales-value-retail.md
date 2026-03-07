@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000109189526-business-controller-b2c-sales-value-retail) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000111869692-business-controller-b2c-sales-value-retail) |
 
 ## About This Role
 
-This corporate finance position at KPN was posted on 2026-02-13.
+This corporate finance position at KPN was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

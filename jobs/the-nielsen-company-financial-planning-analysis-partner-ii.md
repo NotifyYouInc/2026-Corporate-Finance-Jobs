@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011758386-financial-planning-analysis-partner-ii) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011902756-financial-planning-analysis-partner-ii) |
 
 ## About This Role
 
-This corporate finance position at The Nielsen Company was posted on 2026-02-19.
+This corporate finance position at The Nielsen Company was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

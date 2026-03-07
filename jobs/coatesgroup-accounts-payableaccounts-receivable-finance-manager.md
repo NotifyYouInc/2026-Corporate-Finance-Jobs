@@ -5,12 +5,12 @@
 | Company | [Coatesgroup](https://scoutify.ai/companies/coatesgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.lever.co/coatesgroup/6cfe31af-46b6-4f1a-935f-268a50a155ca) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.lever.co/coatesgroup/7a533ffa-f6a0-4258-a541-e4737c7c8bb3) |
 
 ## About This Role
 
-This corporate finance position at Coatesgroup was posted on 2026-02-20.
+This corporate finance position at Coatesgroup was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

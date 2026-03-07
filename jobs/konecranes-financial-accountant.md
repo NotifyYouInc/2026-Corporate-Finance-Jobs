@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000107299156-financial-accountant) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000111875592-financial-accountant) |
 
 ## About This Role
 
-This corporate finance position at Konecranes was posted on 2026-02-04.
+This corporate finance position at Konecranes was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

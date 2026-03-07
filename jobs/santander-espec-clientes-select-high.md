@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brazil |
+| Location | Curitiba, Paraná, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/BELEM/Espec-Clientes-Select-High_Req1539046-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PLAT-VG---CURITIBA/Espec-Clientes-Select-High_Req1542396) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-02-26.
+This corporate finance position at Santander was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

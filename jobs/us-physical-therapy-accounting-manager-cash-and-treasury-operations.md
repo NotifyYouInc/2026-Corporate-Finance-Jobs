@@ -5,12 +5,12 @@
 | Company | [U.S. Physical Therapy](https://scoutify.ai/companies/usphysicaltherapy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990011795876-accounting-manager-cash-and-treasury-operations) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990011898887-accounting-manager-cash-and-treasury-operations) |
 
 ## About This Role
 
-This corporate finance position at U.S. Physical Therapy was posted on 2026-02-23.
+This corporate finance position at U.S. Physical Therapy was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

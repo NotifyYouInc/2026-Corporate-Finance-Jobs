@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Evanston, Illinois, United States |
+| Location | Wayne, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/EVANSTON-IL/Associate-Bank-Financial-Advisor_R-524266) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WAYNE-PA/Associate-Bank-Financial-Advisor_R-524740) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-02-26.
+This corporate finance position at Wells Fargo was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
