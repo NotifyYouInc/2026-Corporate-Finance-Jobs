@@ -1,16 +1,16 @@
-# Finance Business Partner at AbbVie
+# BU Controlling _ MA at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011895968-finance-business-partner) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111986105-bu-controlling-ma) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-27.
+This corporate finance position at Robert Bosch was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

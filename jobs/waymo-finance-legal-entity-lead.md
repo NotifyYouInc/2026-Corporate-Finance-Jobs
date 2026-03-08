@@ -1,16 +1,16 @@
-# Finance Business Partner at AbbVie
+# Finance Legal Entity Lead at Waymo
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Mountain View, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011895968-finance-business-partner) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=7651177) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-27.
+This corporate finance position at Waymo was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Finance Business Partner at AbbVie
+# GL - Accountant at Take Two
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Company | [Take Two](https://scoutify.ai/companies/taketwo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011895968-finance-business-partner) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/taketwo/jobs/7647632) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-27.
+This corporate finance position at Take Two was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Financial Controller at ACCOR
+# Supply Chain Inventory Controller at Michelin
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jordan |
+| Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Corporate Finance |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000111991135-financial-controller) |
+| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Colombo/Supply-Chain-Inventory-Controller_R-2026002761-1) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-28.
+This corporate finance position at Michelin was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

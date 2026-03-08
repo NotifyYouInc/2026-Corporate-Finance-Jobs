@@ -1,16 +1,16 @@
-# Financial Controller at ACCOR
+# Office Manager - BMW OF FAIRFAX at Sonic Automotive
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jordan |
+| Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Fairfax, Virginia, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000111991135-financial-controller) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000111994847-office-manager-bmw-of-fairfax) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-28.
+This corporate finance position at Sonic Automotive was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

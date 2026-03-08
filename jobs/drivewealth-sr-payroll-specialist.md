@@ -1,16 +1,16 @@
-# Finance Business Partner at AbbVie
+# Sr. Payroll Specialist at DriveWealth
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Company | [DriveWealth](https://scoutify.ai/companies/drivewealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011895968-finance-business-partner) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/drivewealth/jobs/7648486003?gh_jid=7648486003) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-27.
+This corporate finance position at DriveWealth was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

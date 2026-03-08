@@ -6,7 +6,7 @@
 | Location | Cleveland, Ohio, United States |
 | Category | Corporate Finance |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000111872136-collections-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000111904095-collections-specialist) |
 
 ## About This Role
 
