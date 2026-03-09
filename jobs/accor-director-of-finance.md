@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Sepang, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000108572256-director-of-finance) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000112076218-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-10.
+This corporate finance position at ACCOR was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fulton Hogan](https://scoutify.ai/companies/fulton-hogan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Invercargill, Southland, New Zealand |
+| Location | Dunedin, Otago, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Invercargill/Management-Accountant_R24473-1) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Dunedin/Management-Accountant_R24494-2) |
 
 ## About This Role
 
-This corporate finance position at Fulton Hogan was posted on 2026-02-26.
+This corporate finance position at Fulton Hogan was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

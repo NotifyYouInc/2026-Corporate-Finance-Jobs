@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8403325002) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8298838002) |
 
 ## About This Role
 
-This corporate finance position at WPP was posted on 2026-02-19.
+This corporate finance position at WPP was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denton, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111890683-accounting-manager-bilingual-englishkorean) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111950725-accounting-manager-bilingual-englishkorean) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-02-27.
+This corporate finance position at Woongjin was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

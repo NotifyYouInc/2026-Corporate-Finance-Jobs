@@ -5,12 +5,12 @@
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | China |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/HONG-KONG-SAR-China/ACCOUNTANT_JR125721) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/HONG-KONG-SAR-China/ACCOUNTANT_JR125812-2) |
 
 ## About This Role
 
-This corporate finance position at Richemont was posted on 2026-02-26.
+This corporate finance position at Richemont was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

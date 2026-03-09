@@ -5,12 +5,12 @@
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000108443845-fpa-analyst) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000112074266-fpa-analyst) |
 
 ## About This Role
 
-This corporate finance position at Carousell was posted on 2026-02-10.
+This corporate finance position at Carousell was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
