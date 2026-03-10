@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Pennsylvania, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Portland-Maine-United-States-of-America/Intern_JR030681-2) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Wilkes-Barre-Pennsylvania-United-States-of-America/Intern_JR031217) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-02-27.
+This corporate finance position at Morgan Stanley was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

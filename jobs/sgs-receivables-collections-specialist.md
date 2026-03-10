@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000111902705-receivables-collections-specialist) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000112284355-receivables-collections-specialist) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-02-27.
+This corporate finance position at SGS was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

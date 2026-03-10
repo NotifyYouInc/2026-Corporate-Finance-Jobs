@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tempe, Arizona, United States |
+| Location | Rockville, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/Advisor-Licensing-Program_R-048118) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Rockville-MD---Field-Mgmt/Advisor-Licensing-Program_R-049210-2) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-02-17.
+This corporate finance position at LPL Financial Holdings was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

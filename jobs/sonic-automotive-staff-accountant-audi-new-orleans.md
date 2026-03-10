@@ -5,12 +5,12 @@
 | Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Metairie, Louisiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000110254545-staff-accountant-audi-new-orleans) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000112275688-staff-accountant-audi-new-orleans) |
 
 ## About This Role
 
-This corporate finance position at Sonic Automotive was posted on 2026-02-19.
+This corporate finance position at Sonic Automotive was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

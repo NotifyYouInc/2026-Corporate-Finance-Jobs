@@ -5,12 +5,12 @@
 | Company | [Pilmico](https://scoutify.ai/companies/pilmico?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000108351809-financial-planning-supervisor) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000112340087-financial-planning-supervisor) |
 
 ## About This Role
 
-This corporate finance position at Pilmico was posted on 2026-02-10.
+This corporate finance position at Pilmico was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

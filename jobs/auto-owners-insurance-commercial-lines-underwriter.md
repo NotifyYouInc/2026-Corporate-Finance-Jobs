@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto-Owners Insurance](https://scoutify.ai/companies/aoins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Tallahassee, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Charlotte-NC/Commercial-Lines-Underwriter_R_11155) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Tallahassee-FL/Commercial-Lines-Underwriter_R_13228) |
 
 ## About This Role
 
-This corporate finance position at Auto-Owners Insurance was posted on 2026-02-27.
+This corporate finance position at Auto-Owners Insurance was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

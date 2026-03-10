@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newport Beach, California, United States |
+| Location | Rockville, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Newport-Beach-CA---Field-Mgmt/Senior-Financial-Representative_R-048981-2) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Rockville-MD---Field-Mgmt/Senior-Financial-Representative_R-048210-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-02-27.
+This corporate finance position at LPL Financial Holdings was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

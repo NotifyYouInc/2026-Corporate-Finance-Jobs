@@ -5,12 +5,12 @@
 | Company | [Hunter Douglas](https://scoutify.ai/companies/hunter-douglas?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7637608003?gh_jid=7637608003) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7649296003?gh_jid=7649296003) |
 
 ## About This Role
 
-This corporate finance position at Hunter Douglas was posted on 2026-02-19.
+This corporate finance position at Hunter Douglas was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

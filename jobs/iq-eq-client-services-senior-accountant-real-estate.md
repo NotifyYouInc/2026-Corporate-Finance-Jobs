@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000112040917-client-services-senior-accountant-real-estate) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000112333637-client-services-senior-accountant-real-estate) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-03-01.
+This corporate finance position at IQ-EQ was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tennessee, US |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Tennessee/Portfolio-Manager-III---NextGear-Capital_R202673537) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Texas/Portfolio-Manager-III---NextGear-Capital_R202673946) |
 
 ## About This Role
 
-This corporate finance position at Cox was posted on 2026-02-19.
+This corporate finance position at Cox was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
