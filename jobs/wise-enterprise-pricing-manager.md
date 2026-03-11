@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000111872225-enterprise-pricing-manager) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000112516534-enterprise-pricing-manager) |
 
 ## About This Role
 
-This corporate finance position at WISE was posted on 2026-02-27.
+This corporate finance position at WISE was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

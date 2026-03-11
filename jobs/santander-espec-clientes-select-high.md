@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Curitiba, Paraná, Brazil |
+| Location | Petrolina, Pernambuco, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PLAT-VG---CURITIBA/Espec-Clientes-Select-High_Req1542396) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PETROLINA/Espec-Clientes-Select-High_Req1549947-1) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-02-27.
+This corporate finance position at Santander was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

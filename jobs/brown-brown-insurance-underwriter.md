@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | Indiana, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Irvine-CA-USA/Underwriter_R26_0000000682) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Ft-Wayne-IN-USA/Underwriter_R26_0000000832) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-02-20.
+This corporate finance position at Brown & Brown Insurance was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

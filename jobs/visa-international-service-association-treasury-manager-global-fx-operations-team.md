@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Foster City, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108647865-treasury-manager-global-fx-operations-team) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112558305-treasury-manager-global-fx-operations-team) |
 
 ## About This Role
 
-This corporate finance position at Visa International Service Association was posted on 2026-02-11.
+This corporate finance position at Visa International Service Association was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

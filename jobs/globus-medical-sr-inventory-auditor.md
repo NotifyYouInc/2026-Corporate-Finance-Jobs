@@ -5,12 +5,12 @@
 | Company | [Globus Medical](https://scoutify.ai/companies/globusmedical?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pennsylvania, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Pennsylvania---Collegeville/Sr-Inventory-Auditor_JR105884) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Pennsylvania---Collegeville/Sr-Inventory-Auditor_JR105946) |
 
 ## About This Role
 
-This corporate finance position at Globus Medical was posted on 2026-02-23.
+This corporate finance position at Globus Medical was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

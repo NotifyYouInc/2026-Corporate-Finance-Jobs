@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rockville, Maryland, United States |
+| Location | Lynnwood, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Rockville-MD---Field-Mgmt/Advisor-Licensing-Program_R-049210-2) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Remote-Washington/Advisor-Licensing-Program_R-049225-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-03-02.
+This corporate finance position at LPL Financial Holdings was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

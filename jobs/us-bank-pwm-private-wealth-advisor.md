@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | San Diego, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tampa-FL/PWM-Private-Wealth-Advisor_2025-0021241) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/San-Diego-CA/PWM-Private-Wealth-Advisor_2026-0004550-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-02.
+This corporate finance position at U.S. Bank was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

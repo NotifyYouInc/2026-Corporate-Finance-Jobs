@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | Illinois, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Kansas-City-Plant---Kansas-City-Kansas/Cost-Analyst_R0443479-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Caseyville-Plant---Caseyville-Illinois/Cost-Analyst_R0447179-1) |
 
 ## About This Role
 
-This corporate finance position at Tyson Foods was posted on 2026-02-17.
+This corporate finance position at Tyson Foods was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

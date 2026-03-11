@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Cambridge, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Investment-Advisor_R-0000161073) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAMBRIDGE-Ontario-Canada/Investment-Advisor_R-0000162062) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-02-25.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

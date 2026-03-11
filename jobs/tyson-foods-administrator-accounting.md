@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tennessee, US |
+| Location | Michigan, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Newbern-Plant---Newbern-Tennessee/Administrator-Accounting_R0446028) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Zeeland-Plant---Zeeland-Michigan/Administrator-Accounting_R0446060) |
 
 ## About This Role
 
-This corporate finance position at Tyson Foods was posted on 2026-02-25.
+This corporate finance position at Tyson Foods was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

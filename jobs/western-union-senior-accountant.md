@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/ARG---Buenos-Aires/Senior-Accountant_JR0129130-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/USA---CO---Denver/Senior-Accountant_JR0128620) |
 
 ## About This Role
 
-This corporate finance position at Western Union was posted on 2026-02-09.
+This corporate finance position at Western Union was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hong-Kong-Area/Accountant_JR10384083-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tokyo/Accountant_JR10392508) |
 
 ## About This Role
 
-This corporate finance position at Airbus was posted on 2026-03-02.
+This corporate finance position at Airbus was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

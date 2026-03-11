@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | New Jersey, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Buenos-Aires---Retiro/Finance-Director_R-10388013) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Finance-Director_R-10389214) |
 
 ## About This Role
 
-This corporate finance position at Fiserv was posted on 2026-02-27.
+This corporate finance position at Fiserv was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

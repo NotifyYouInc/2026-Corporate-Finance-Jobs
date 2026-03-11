@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Ontario, CA |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Mumbai-Vikroli/Accounts-Receivable_R0040099) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Accounts-Receivable_R0040382) |
 
 ## About This Role
 
-This corporate finance position at Harris Computer was posted on 2026-02-19.
+This corporate finance position at Harris Computer was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Barrie, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Senior-Accountant--Canadian-Tax-Services_JR5904) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Barrie/Senior-Accountant--Canadian-Tax-Services_JR5936) |
 
 ## About This Role
 
-This corporate finance position at BDO Dunwoody was posted on 2026-02-27.
+This corporate finance position at BDO Dunwoody was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000110390975-accounting-analyst) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000112523275-accounting-analyst) |
 
 ## About This Role
 
-This corporate finance position at Coface was posted on 2026-02-20.
+This corporate finance position at Coface was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

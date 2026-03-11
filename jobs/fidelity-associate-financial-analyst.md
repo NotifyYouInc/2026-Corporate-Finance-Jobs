@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Westlake, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Associate-Financial-Analyst_2123326-2) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Financial-Analyst_2124088-1) |
 
 ## About This Role
 
-This corporate finance position at Fidelity was posted on 2026-02-13.
+This corporate finance position at Fidelity was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

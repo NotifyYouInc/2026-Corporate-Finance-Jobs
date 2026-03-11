@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/Financial-Analyst_25105531) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Gurugram/Financial-Analyst_25106216-1) |
 
 ## About This Role
 
-This corporate finance position at Syneoshealth was posted on 2026-02-26.
+This corporate finance position at Syneoshealth was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

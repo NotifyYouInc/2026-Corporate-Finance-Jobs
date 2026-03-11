@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Birmingham, Alabama, United States |
+| Location | Fort Worth, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BIRMINGHAM-MI/Senior-Lead-Commercial-Banking-Relationship-Manager_R-516576) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/FORT-WORTH-TX/Senior-Lead-Commercial-Banking-Relationship-Manager_R-523184) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-02.
+This corporate finance position at Wells Fargo was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

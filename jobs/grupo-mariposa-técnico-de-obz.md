@@ -5,12 +5,12 @@
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990011877366-tecnico-de-obz) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990011946436-tecnico-de-obz) |
 
 ## About This Role
 
-This corporate finance position at Grupo Mariposa was posted on 2026-02-26.
+This corporate finance position at Grupo Mariposa was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

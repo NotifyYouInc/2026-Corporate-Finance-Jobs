@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107615107-director-corporate-development-and-ma) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112532328-director-corporate-development-and-ma) |
 
 ## About This Role
 
-This corporate finance position at Visa International Service Association was posted on 2026-02-05.
+This corporate finance position at Visa International Service Association was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rockville, Maryland, United States |
+| Location | Lynnwood, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Rockville-MD---Field-Mgmt/Financial-Representative_R-049211) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Remote-Washington/Financial-Representative_R-049224-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-03-02.
+This corporate finance position at LPL Financial Holdings was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
