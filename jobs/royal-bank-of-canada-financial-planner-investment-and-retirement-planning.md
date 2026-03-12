@@ -1,16 +1,16 @@
-# Financial Planner Investment and Retirement Planning at Royal Bank of Canada
+# Financial Planner, Investment and Retirement Planning at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, CA |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HANOVER-Ontario-Canada/Financial-Planner-Investment-and-Retirement-Planning_R-0000161537-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/681-MAIN-STVANCOUVER/Financial-Planner--Investment-and-Retirement-Planning_R-0000162298) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-02-26.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

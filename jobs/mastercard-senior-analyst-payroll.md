@@ -1,16 +1,16 @@
-# Senior Analyst - Payroll at Mastercard
+# Senior Analyst, Payroll at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | O'Fallon, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Analyst---Payroll_R-271014) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Analyst--Payroll_R-272061-1) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-02-23.
+This corporate finance position at Mastercard was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

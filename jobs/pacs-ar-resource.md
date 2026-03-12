@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oregon, US |
+| Location | Pennsylvania, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---Oregon/AR-Resource_JR162974) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---Pennsylvania/AR-Resource_JR163435) |
 
 ## About This Role
 
-This corporate finance position at Pacs was posted on 2026-02-27.
+This corporate finance position at Pacs was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

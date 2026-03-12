@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Corporate-Treasury_R-270339) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Corporate-Treasury_R-271829) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-02-18.
+This corporate finance position at Mastercard was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

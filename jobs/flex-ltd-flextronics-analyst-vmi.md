@@ -1,16 +1,16 @@
-# Analyst - VMI at FLEX LTD. Flextronics
+# Analyst- VMI at FLEX LTD. Flextronics
 
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Analyst---VMI_WD215515) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Analyst--VMI_WD216626) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-02-27.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tacoma, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000110446395-consumer-benefits-coordinator) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000112753759-consumer-benefits-coordinator) |
 
 ## About This Role
 
-This corporate finance position at Dungarvin was posted on 2026-02-20.
+This corporate finance position at Dungarvin was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

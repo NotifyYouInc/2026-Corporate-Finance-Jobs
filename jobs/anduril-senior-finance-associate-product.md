@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5068680007?gh_jid=5068680007) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5069859007?gh_jid=5069859007) |
 
 ## About This Role
 

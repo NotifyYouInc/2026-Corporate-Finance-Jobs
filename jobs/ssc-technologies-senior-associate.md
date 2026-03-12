@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Evansville, Indiana, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Evansville-IN/Senior-Associate_R41484) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate_R40979) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-03-03.
+This corporate finance position at SS&C Technologies was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

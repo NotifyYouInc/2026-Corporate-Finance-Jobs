@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000112510643-manager-finance-enterprise-technologies) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000112777287-manager-finance-enterprise-technologies) |
 
 ## About This Role
 
-This corporate finance position at Intuitive Surgical was posted on 2026-03-03.
+This corporate finance position at Intuitive Surgical was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Goiânia, Goiás, Brazil |
+| Location | Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110422756-especialista-de-credito-e-cobranca-campo) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000112740937-especialista-de-credito-e-cobranca-campo) |
 
 ## About This Role
 
-This corporate finance position at Syngenta was posted on 2026-02-20.
+This corporate finance position at Syngenta was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

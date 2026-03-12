@@ -5,12 +5,12 @@
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/f97b56ae-e483-44ac-b25c-db883905fa62) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/17091dc5-27e1-4170-a6d3-fbee9ba5a6b4) |
 
 ## About This Role
 
-This corporate finance position at Metriport was posted on 2026-02-10.
+This corporate finance position at Metriport was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

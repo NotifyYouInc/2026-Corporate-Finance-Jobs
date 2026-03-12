@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Associate-Manager--Financial-Accounting-and-Control_R0115000-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Associate-Manager--Financial-Accounting-and-Control_R0117536) |
 
 ## About This Role
 
-This corporate finance position at LSEG was posted on 2026-03-04.
+This corporate finance position at LSEG was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

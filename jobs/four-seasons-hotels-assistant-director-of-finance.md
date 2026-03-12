@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Alexandria, Alexandria, Egypt |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Alexandria/Assistant-Director-of-Finance_REQ10372844-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Houston/Assistant-Director-of-Finance_REQ10373057-1) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-02-26.
+This corporate finance position at Four Seasons Hotels was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

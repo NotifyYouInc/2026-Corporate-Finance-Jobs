@@ -5,12 +5,12 @@
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Akron, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-OH-Akron-Corp-Hdqtrs/Financial-Analyst_JR-40106226) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-OH-Akron-Corp-Hdqtrs/Financial-Analyst_JR-40106053) |
 
 ## About This Role
 
-This corporate finance position at Goodyear was posted on 2026-02-26.
+This corporate finance position at Goodyear was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

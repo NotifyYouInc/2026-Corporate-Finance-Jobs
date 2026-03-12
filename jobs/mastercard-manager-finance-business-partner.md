@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia-Bldg-978/Manager--Finance-Business-Partner_R-271709-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Manager--Finance-Business-Partner_R-270211) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-03-03.
+This corporate finance position at Mastercard was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

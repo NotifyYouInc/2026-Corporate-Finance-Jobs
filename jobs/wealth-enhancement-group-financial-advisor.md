@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oregon, US |
+| Location | Lee's Summit, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Clackamas-OR/Financial-Advisor_R-102250) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Lees-Summit-MO/Financial-Advisor_R-101947) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-02-26.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

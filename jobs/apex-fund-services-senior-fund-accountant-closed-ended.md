@@ -5,12 +5,12 @@
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Senior-Fund-Accountant---Closed-Ended_JR-0019282) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad/Senior-Fund-Accountant---Closed-Ended_JR-0019151) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-02-23.
+This corporate finance position at Apex Fund Services was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

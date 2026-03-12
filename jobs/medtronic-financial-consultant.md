@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Financial-Consultant_R60776-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Financial-Consultant_R58832-2) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-03-03.
+This corporate finance position at Medtronic was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

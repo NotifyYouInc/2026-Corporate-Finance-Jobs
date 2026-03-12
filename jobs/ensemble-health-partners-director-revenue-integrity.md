@@ -5,12 +5,12 @@
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director--Revenue-Integrity_R039542) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director--Revenue-Integrity_R039183) |
 
 ## About This Role
 
-This corporate finance position at Ensemble Health Partners was posted on 2026-03-03.
+This corporate finance position at Ensemble Health Partners was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

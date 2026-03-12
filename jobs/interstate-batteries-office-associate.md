@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Interstate Batteries](https://scoutify.ai/companies/interstate-batteries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Altoona, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-TX-Houston/Office-Associate_REQ-8595) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-IA-Altoona/Office-Associate_REQ-8701) |
 
 ## About This Role
 
-This corporate finance position at Interstate Batteries was posted on 2026-02-26.
+This corporate finance position at Interstate Batteries was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
