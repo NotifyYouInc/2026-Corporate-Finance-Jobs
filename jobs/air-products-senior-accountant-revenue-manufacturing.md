@@ -5,12 +5,12 @@
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Kuala-Lumpur-MY-HQ-0M25/Senior-Accountant--Revenue---Manufacturing_JR-2026-19286) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Kuala-Lumpur-MY-HQ-0M25/Senior-Accountant--Revenue---Manufacturing_JR-2026-19584) |
 
 ## About This Role
 
-This corporate finance position at Air Products was posted on 2026-02-04.
+This corporate finance position at Air Products was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

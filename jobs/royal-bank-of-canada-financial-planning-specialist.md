@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Waterloo, Ontario, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WATERLOO-Ontario-Canada/Financial-Planning-Specialist_R-0000158508-2) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/REGINA-Saskatchewan-Canada/Financial-Planning-Specialist_R-0000162141-2) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-02-04.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lviv, Lviv, Ukraine |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000112745287-cloud-finops-analyst) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000112991343-cloud-finops-analyst) |
 
 ## About This Role
 
-This corporate finance position at Gameloft was posted on 2026-03-04.
+This corporate finance position at Gameloft was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

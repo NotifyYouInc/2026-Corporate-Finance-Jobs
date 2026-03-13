@@ -1,16 +1,16 @@
-# Auxiliar Crédito Y Cobranza at United Parcel Service (UPS)
+# Auxiliar Crédito y Cobranza at United Parcel Service (UPS)
 
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/MX---EUGENIA-OPERATING-BUILDING-MXMCT/Auxiliar-Crdito-Y-Cobranza_R26004300) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/MX---EUGENIA-OPERATING-BUILDING-MXMCT/Auxiliar-Crdito-y-Cobranza_R26007474) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-02-19.
+This corporate finance position at United Parcel Service (UPS) was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerity Partners](https://scoutify.ai/companies/ceritypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Los-Angeles-CA/Wealth-Advisor_R538) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Boston-MA/Wealth-Advisor_R549) |
 
 ## About This Role
 
-This corporate finance position at Cerity Partners was posted on 2026-02-26.
+This corporate finance position at Cerity Partners was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

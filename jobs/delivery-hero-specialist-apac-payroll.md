@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111211205-specialist-apac-payroll) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113086187-specialist-apac-payroll) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-02-25.
+This corporate finance position at Delivery Hero was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

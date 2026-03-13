@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000112229590-executive-financial-planner) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000112959838-executive-financial-planner) |
 
 ## About This Role
 
-This corporate finance position at Standard Bank was posted on 2026-03-02.
+This corporate finance position at Standard Bank was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

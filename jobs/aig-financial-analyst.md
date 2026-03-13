@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Parsippany, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/IN-Jeffersonville/Financial-Analyst_JR2504411) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NJ-Parsippany/Financial-Analyst_JR2600219) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-02-04.
+This corporate finance position at AIG was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

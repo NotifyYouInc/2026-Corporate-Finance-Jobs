@@ -5,12 +5,12 @@
 | Company | [Sibelco](https://scoutify.ai/companies/sibelco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bilbao, Basque Country, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://sibelco.wd502.myworkdayjobs.com/sibelco-careers/job/Bilbao-HQ-Office/Controller-Credit---Collection_J015558) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://sibelco.wd502.myworkdayjobs.com/sibelco-careers/job/Bilbao-HQ-Office/Controller-Credit---Collection_J016490-1) |
 
 ## About This Role
 
-This corporate finance position at Sibelco was posted on 2026-02-09.
+This corporate finance position at Sibelco was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | Basel, Basel-City, Switzerland |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Irvine/Financial-Analyst_31142610-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Financial-Analyst_31143733) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-02-20.
+This corporate finance position at Abbott was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

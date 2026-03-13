@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toledo, Ohio, United States |
+| Location | Lubbock, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Toledo-OH/Director-of-Finance_R100120014) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Lubbock-TX/Director-of-Finance_R100120806) |
 
 ## About This Role
 
-This corporate finance position at ASM Global was posted on 2026-02-12.
+This corporate finance position at ASM Global was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

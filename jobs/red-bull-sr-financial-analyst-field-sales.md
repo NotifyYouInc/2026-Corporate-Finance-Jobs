@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santa Monica, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000107633130-sr-financial-analyst-field-sales) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000113025677-sr-financial-analyst-field-sales) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-02-06.
+This corporate finance position at Red Bull was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

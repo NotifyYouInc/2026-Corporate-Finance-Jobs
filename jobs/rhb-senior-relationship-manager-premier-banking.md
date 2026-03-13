@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Selangor, MY |
+| Location | Pahang, MY |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Selangor/Senior-Relationship-Manager--Premier-Banking_JR005199) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Pahang/Senior-Relationship-Manager--Premier-Banking_JR005218) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-03-04.
+This corporate finance position at RHB was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

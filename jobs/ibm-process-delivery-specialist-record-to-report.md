@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Karnataka, IN |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95475) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90724) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-02-24.
+This corporate finance position at IBM was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
