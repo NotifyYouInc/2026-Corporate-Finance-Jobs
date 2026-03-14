@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-1255-W-North-Ave/Analyst-2--Finance_R431603) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Schaumburg-1475-E-Woodfield-Rd/Analyst-2--Finance_R432519) |
 
 ## About This Role
 
-This corporate finance position at Comcast was posted on 2026-02-27.
+This corporate finance position at Comcast was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

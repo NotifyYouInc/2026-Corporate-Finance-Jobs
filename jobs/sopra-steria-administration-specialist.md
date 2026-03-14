@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Italy |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111155695-administration-specialist) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113238867-administration-specialist) |
 
 ## About This Role
 
-This corporate finance position at Sopra Steria was posted on 2026-02-24.
+This corporate finance position at Sopra Steria was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

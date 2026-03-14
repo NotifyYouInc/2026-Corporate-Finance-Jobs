@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Coquitlam, British Columbia, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/COQUITLAM-British-Columbia-Canada/Associate-Advisor_R-0000154483) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate-Advisor_R-0000159683-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-04.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

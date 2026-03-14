@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | O'Fallon, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Manager--Finance-Business-Partner_R-270211) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Finance-Business-Partner_R-272020-1) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-03-04.
+This corporate finance position at Mastercard was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

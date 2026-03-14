@@ -1,12 +1,12 @@
-# Associate Wealth Advisor  at Focus Financial Partners
+# Associate Wealth Advisor at Focus Financial Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5820467004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5821363004) |
 
 ## About This Role
 

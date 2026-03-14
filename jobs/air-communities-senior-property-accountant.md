@@ -5,12 +5,12 @@
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000110210495-senior-property-accountant) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000113241097-senior-property-accountant) |
 
 ## About This Role
 
-This corporate finance position at AIR Communities was posted on 2026-02-19.
+This corporate finance position at AIR Communities was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

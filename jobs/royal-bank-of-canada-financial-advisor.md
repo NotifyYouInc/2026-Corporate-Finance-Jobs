@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Alberta, CA |
+| Location | British Columbia, CA |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/INNISFAIL-Alberta-Canada/Financial-Advisor_R-0000162331) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PRINCE-RUPERT-British-Columbia-Canada/Financial-Advisor_R-0000162582) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-05.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

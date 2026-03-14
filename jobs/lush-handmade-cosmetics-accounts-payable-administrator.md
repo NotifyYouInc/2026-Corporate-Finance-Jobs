@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lush Handmade Cosmetics](https://scoutify.ai/companies/lush-handmade-cosmetics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lush/jobs/7683473) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lush/jobs/7688387) |
 
 ## About This Role
 
-This corporate finance position at Lush Handmade Cosmetics was posted on 2026-03-05.
+This corporate finance position at Lush Handmade Cosmetics was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

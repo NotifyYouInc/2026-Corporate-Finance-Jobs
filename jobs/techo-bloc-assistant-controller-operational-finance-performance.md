@@ -5,12 +5,12 @@
 | Company | [Techo-Bloc](https://scoutify.ai/companies/techobloc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saint-Hubert, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000110872156-assistant-controller-operational-finance-performance) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000113257157-assistant-controller-operational-finance-performance) |
 
 ## About This Role
 
-This corporate finance position at Techo-Bloc was posted on 2026-02-23.
+This corporate finance position at Techo-Bloc was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

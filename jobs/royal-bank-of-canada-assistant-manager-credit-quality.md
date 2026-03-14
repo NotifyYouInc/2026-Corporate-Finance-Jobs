@@ -1,0 +1,22 @@
+# Assistant Manager, Credit Quality at Royal Bank of Canada
+
+| Field | Details |
+|-------|---------|
+| Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Port of Spain, Port of Spain, Trinidad and Tobago |
+| Category | Corporate Finance |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Port-of-Spain-Trinidad-and-Tobago/Assistant-Manager--Credit-Quality_R-0000162291) |
+
+## About This Role
+
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-06.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

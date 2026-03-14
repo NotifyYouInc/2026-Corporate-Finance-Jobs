@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cork, Munster, Ireland |
+| Location | Draper, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Cork-Ireland/Accounts-Payable-Specialist_R13771) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Accounts-Payable-Specialist_R13825-1) |
 
 ## About This Role
 
-This corporate finance position at Proofpoint was posted on 2026-03-05.
+This corporate finance position at Proofpoint was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

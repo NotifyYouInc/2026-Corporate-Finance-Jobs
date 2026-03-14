@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | California, US |
+| Location | Palo Alto, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WESTLAKE-VILLAGE-CA/Senior-Wealth-Banking-Specialist--SAFE-_R-524890) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PALO-ALTO-CA/Senior-Wealth-Banking-Specialist--SAFE-_R-526237) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-02.
+This corporate finance position at Wells Fargo was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

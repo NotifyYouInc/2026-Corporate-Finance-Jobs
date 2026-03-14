@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sylmar, California, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Sylmar-CA/Financial-Analyst--Experienced-or-Senior-_JR2026496906-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Financial-Analyst--Experienced-or-Senior-_JR2026499451-1) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-02-19.
+This corporate finance position at Boeing was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

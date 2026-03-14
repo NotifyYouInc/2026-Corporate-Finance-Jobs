@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Phoenix-AZ/Analyst--Production-Support_REQ488156) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Analyst--Production-Support_REQ490745-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-02-18.
+This corporate finance position at JLL was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kitchener, Ontario, Canada |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/7121-Kitchener-139/Assistant-Controller_R-96740) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/5311H-Denver-Hauling/Assistant-Controller_R-97206) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-02-26.
+This corporate finance position at Waste Connections was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Beaverton-Buick-GMC-Portland-OR-97225/Dealership-Accounting-Coordinator-I_R104038) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Orchard-Park-Honda-Orchard-Park-NY-14127/Dealership-Accounting-Coordinator-I_R104346) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-03-04.
+This corporate finance position at Lithia Motors was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

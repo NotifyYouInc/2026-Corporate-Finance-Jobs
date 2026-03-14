@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Canada |
+| Location | Quebec, CA |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Technicien-ou-technicienne-oprations-et-conformit_R2602675-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Technicien-ou-technicienne--Divulgation-financire_R2603173) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-03-02.
+This corporate finance position at Desjardins was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

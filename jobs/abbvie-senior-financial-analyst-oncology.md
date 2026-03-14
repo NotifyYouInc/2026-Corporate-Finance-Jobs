@@ -1,4 +1,4 @@
-# Senior Financial Analyst - Oncology  at AbbVie
+# Senior Financial Analyst - Oncology at AbbVie
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012006606-senior-financial-analyst-oncology) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012013336-senior-financial-analyst-oncology) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miramar, Florida, United States |
+| Location | Mobile, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Miramar-Florida-United-States-of-America/Customer-Operations-Associate_WD30262463) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Mobile-Alabama-United-States-of-America/Customer-Operations-Associate_WD30262261) |
 
 ## About This Role
 
-This corporate finance position at Johnson Controls was posted on 2026-02-20.
+This corporate finance position at Johnson Controls was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

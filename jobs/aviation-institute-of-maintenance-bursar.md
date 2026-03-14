@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aviation Institute of Maintenance](https://scoutify.ai/companies/aviation-institute-of-maintenance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manassas, Virginia, United States |
+| Location | Irving, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5139861008) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5145655008) |
 
 ## About This Role
 
-This corporate finance position at Aviation Institute of Maintenance was posted on 2026-03-03.
+This corporate finance position at Aviation Institute of Maintenance was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

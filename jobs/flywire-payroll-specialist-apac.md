@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000111533647-payroll-specialist-apac) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000113259850-payroll-specialist-apac) |
 
 ## About This Role
 
-This corporate finance position at Flywire was posted on 2026-02-26.
+This corporate finance position at Flywire was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

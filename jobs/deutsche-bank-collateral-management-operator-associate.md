@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jacksonville, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jacksonville-5201-Gate-Parkway/Collateral-Management-Operator---Associate_R0423692-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jacksonville-5201-Gate-Parkway/Collateral-Management-Operator---Associate_R0425909-1) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-02-23.
+This corporate finance position at Deutsche Bank was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

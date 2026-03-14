@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ooma](https://scoutify.ai/companies/ooma?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5038539007) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5072838007) |
 
 ## About This Role
 
-This corporate finance position at Ooma was posted on 2026-02-23.
+This corporate finance position at Ooma was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cleveland, Ohio, United States |
+| Location | East Haven, Connecticut, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Private-Client-Advisor_R-37939) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/East-Haven-CT/Private-Client-Advisor_R-38306) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-02-17.
+This corporate finance position at KeyBank was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

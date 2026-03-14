@@ -5,12 +5,12 @@
 | Company | [Scale AI](https://scoutify.ai/companies/scaleai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4661677005) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4663533005) |
 
 ## About This Role
 
-This corporate finance position at Scale AI was posted on 2026-02-13.
+This corporate finance position at Scale AI was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

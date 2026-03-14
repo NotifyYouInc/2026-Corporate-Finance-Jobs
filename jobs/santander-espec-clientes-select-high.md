@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Petrolina, Pernambuco, Brazil |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PETROLINA/Espec-Clientes-Select-High_Req1549947-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/BELO-HORIZONTE/Espec-Clientes-Select-High_Req1542613) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-03-03.
+This corporate finance position at Santander was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

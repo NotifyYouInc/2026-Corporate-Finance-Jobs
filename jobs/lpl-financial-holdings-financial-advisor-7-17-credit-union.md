@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Streetsboro, Ohio, United States |
+| Location | Akron, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Streetsboro-OH/Financial-Advisor---7-17-Credit-Union_R-049270-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Akron-OH/Financial-Advisor---7-17-Credit-Union_R-049277) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-03-05.
+This corporate finance position at LPL Financial Holdings was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
