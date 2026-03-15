@@ -1,16 +1,16 @@
-# Financial Services Intern at Allworth Financial
+# Junior Analyst at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [Allworth Financial](https://scoutify.ai/companies/allworth-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allworthfinancial/jobs/8454256002) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Junior-Analyst_REQ490145) |
 
 ## About This Role
 
-This corporate finance position at Allworth Financial was posted on 2026-03-07.
+This corporate finance position at JLL was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

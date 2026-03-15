@@ -1,16 +1,16 @@
-# Director of Finance at ACCOR
+# Principal Accountant - City of Bessemer Utilities at Pbjcal
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Surfers Paradise, Queensland, Australia |
+| Company | [Pbjcal](https://scoutify.ai/companies/pbjcal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Bessemer, Alabama, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000113355647-director-of-finance) |
+| Apply | [View on company site](https://pbjcal.wd503.myworkdayjobs.com/jobsquest/job/Merit-System/Principal-Accountant---City-of-Bessemer_R0014986) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-08.
+This corporate finance position at Pbjcal was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

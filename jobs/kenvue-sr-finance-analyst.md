@@ -1,16 +1,16 @@
-# Financial Services Intern at Allworth Financial
+# Sr. Finance Analyst at Kenvue
 
 | Field | Details |
 |-------|---------|
-| Company | [Allworth Financial](https://scoutify.ai/companies/allworth-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Cali, Valle del Cauca Department, Colombia |
 | Category | Corporate Finance |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allworthfinancial/jobs/8454256002) |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Colombia-Valle-del-Cauca-Cali/Sr-Finance-Analyst_2607043533W) |
 
 ## About This Role
 
-This corporate finance position at Allworth Financial was posted on 2026-03-07.
+This corporate finance position at Kenvue was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

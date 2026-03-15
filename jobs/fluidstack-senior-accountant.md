@@ -1,16 +1,16 @@
-# Financial Services Intern at Allworth Financial
+# Senior Accountant at FLUIDSTACK
 
 | Field | Details |
 |-------|---------|
-| Company | [Allworth Financial](https://scoutify.ai/companies/allworth-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Company | [FLUIDSTACK](https://scoutify.ai/companies/fluidstack?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allworthfinancial/jobs/8454256002) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/0b39981d-3029-4965-b304-086567882a32) |
 
 ## About This Role
 
-This corporate finance position at Allworth Financial was posted on 2026-03-07.
+This corporate finance position at FLUIDSTACK was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

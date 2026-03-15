@@ -5,12 +5,12 @@
 | Company | [Allworth Financial](https://scoutify.ai/companies/allworth-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allworthfinancial/jobs/8439849002) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/allworthfinancial/jobs/8454263002) |
 
 ## About This Role
 
-This corporate finance position at Allworth Financial was posted on 2026-02-26.
+This corporate finance position at Allworth Financial was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

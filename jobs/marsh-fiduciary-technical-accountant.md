@@ -1,16 +1,16 @@
-# Financial Services Intern at Allworth Financial
+# Fiduciary Technical Accountant at Marsh
 
 | Field | Details |
 |-------|---------|
-| Company | [Allworth Financial](https://scoutify.ai/companies/allworth-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allworthfinancial/jobs/8454256002) |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Mexico-City---Paseo/Fiduciary-Technical-Accountant_R_328901) |
 
 ## About This Role
 
-This corporate finance position at Allworth Financial was posted on 2026-03-07.
+This corporate finance position at Marsh was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

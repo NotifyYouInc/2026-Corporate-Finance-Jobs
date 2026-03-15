@@ -1,16 +1,16 @@
-# Financial Services Intern at Allworth Financial
+# Payroll Analyst at Aptiv
 
 | Field | Details |
 |-------|---------|
-| Company | [Allworth Financial](https://scoutify.ai/companies/allworth-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Troy, Michigan, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allworthfinancial/jobs/8454256002) |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Payroll-Analyst_J000694949) |
 
 ## About This Role
 
-This corporate finance position at Allworth Financial was posted on 2026-03-07.
+This corporate finance position at Aptiv was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Financial Services Intern at Allworth Financial
+# Indirect Tax Advisory Manager- BPD  at Agoda
 
 | Field | Details |
 |-------|---------|
-| Company | [Allworth Financial](https://scoutify.ai/companies/allworth-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Company | [Agoda](https://scoutify.ai/companies/agoda?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allworthfinancial/jobs/8454256002) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/7676831) |
 
 ## About This Role
 
-This corporate finance position at Allworth Financial was posted on 2026-03-07.
+This corporate finance position at Agoda was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

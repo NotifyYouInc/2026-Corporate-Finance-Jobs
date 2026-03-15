@@ -1,16 +1,16 @@
-# Financial Services Intern at Allworth Financial
+# Affluent Market Financial Advisor- (draw salary plus commission) at M&T Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Allworth Financial](https://scoutify.ai/companies/allworth-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Reston, Virginia, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allworthfinancial/jobs/8454256002) |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Reston-VA/Financial-Advisor_R82692-1) |
 
 ## About This Role
 
-This corporate finance position at Allworth Financial was posted on 2026-03-07.
+This corporate finance position at M&T Bank was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

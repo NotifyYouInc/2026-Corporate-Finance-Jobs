@@ -1,16 +1,16 @@
-# Financial Services Intern at Allworth Financial
+# Receptionist - Payable/Receivable Accounts at Wabtec
 
 | Field | Details |
 |-------|---------|
-| Company | [Allworth Financial](https://scoutify.ai/companies/allworth-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Cambridge, Ontario, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allworthfinancial/jobs/8454256002) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012025446-receptionist-payablereceivable-accounts) |
 
 ## About This Role
 
-This corporate finance position at Allworth Financial was posted on 2026-03-07.
+This corporate finance position at Wabtec was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 
