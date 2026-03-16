@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tianjin, Tianjin, China |
+| Location | Karnataka, IN |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Accountant_R0000354329) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accountant_R0000355191) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-03.
+This corporate finance position at Caterpillar was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

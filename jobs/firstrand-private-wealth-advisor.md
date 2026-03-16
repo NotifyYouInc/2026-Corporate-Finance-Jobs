@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Richards Bay, KwaZulu-Natal, South Africa |
+| Location | George, Western Cape, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Richards-Bay/Private-Wealth-Advisor_R46981) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/George/Private-Wealth-Advisor_R47384) |
 
 ## About This Role
 
-This corporate finance position at FirstRand was posted on 2026-02-25.
+This corporate finance position at FirstRand was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jordan |
+| Location | Cairns, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000111991135-financial-controller) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000113392888-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-28.
+This corporate finance position at ACCOR was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

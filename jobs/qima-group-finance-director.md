@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Madrid, Madrid, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000109063016-group-finance-director) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000113390339-group-finance-director) |
 
 ## About This Role
 
-This corporate finance position at QIMA was posted on 2026-02-12.
+This corporate finance position at QIMA was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Western Australia, AU |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000000897662-senior-tax-analyst) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000000917306-senior-tax-analyst) |
 
 ## About This Role
 
-This corporate finance position at APM Group was posted on 2026-02-26.
+This corporate finance position at APM Group was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

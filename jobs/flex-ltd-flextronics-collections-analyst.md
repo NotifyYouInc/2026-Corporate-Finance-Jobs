@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Shenzhen, Guangdong, China |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Collections-Analyst_WD216017) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Shenzhen/Collections-Analyst_WD216628) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-02-23.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

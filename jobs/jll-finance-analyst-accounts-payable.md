@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Finance-Analyst---Accounts-Payable_REQ474582) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-Analyst---Accounts-Payable_REQ481392) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-02-05.
+This corporate finance position at JLL was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manama, Manama, Bahrain |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000108752297-finops-specialist-aws-and-azure) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000113358097-finops-specialist-aws-and-azure) |
 
 ## About This Role
 
-This corporate finance position at VAM Systems was posted on 2026-02-11.
+This corporate finance position at VAM Systems was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

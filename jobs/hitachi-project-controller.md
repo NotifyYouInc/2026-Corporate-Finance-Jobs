@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Zhongshan, Guangdong, China |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dubai-Dubai-Emirate-United-Arab-Emirates/Project-Controller_R0120453) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Zhongshan-Guangdong-China/Project-Controller_R0121829) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-03-05.
+This corporate finance position at Hitachi was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

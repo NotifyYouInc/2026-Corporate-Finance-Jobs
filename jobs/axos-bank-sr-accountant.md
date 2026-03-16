@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Sr-Accountant_JR4197) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Sr-Accountant_JR4275) |
 
 ## About This Role
 
-This corporate finance position at Axos Bank was posted on 2026-02-17.
+This corporate finance position at Axos Bank was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

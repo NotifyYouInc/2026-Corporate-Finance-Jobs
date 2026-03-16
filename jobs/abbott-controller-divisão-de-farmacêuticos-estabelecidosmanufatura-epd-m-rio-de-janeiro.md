@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Brazil---Rio-de-Janeiro/Controller---Diviso-de-Farmacuticos-Estabelecidos-Manufatura--EPD-M----Rio-de-Janeiro-RJ_31143391-1) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Brazil---Rio-de-Janeiro/Controller---Diviso-de-Farmacuticos-Estabelecidos-Manufatura--EPD-M----Rio-de-Janeiro-RJ_31144013) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-03-03.
+This corporate finance position at Abbott was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

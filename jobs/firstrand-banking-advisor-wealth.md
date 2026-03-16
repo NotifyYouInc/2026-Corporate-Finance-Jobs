@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Durban, KwaZulu-Natal, South Africa |
+| Location | George, Western Cape, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Durban/Banking-Advisor-Wealth_R46845) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/George/Banking-Advisor-Wealth_R47385) |
 
 ## About This Role
 
-This corporate finance position at FirstRand was posted on 2026-03-02.
+This corporate finance position at FirstRand was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Missouri City, Texas, United States |
+| Location | Pennsylvania, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Missouri-City/Premier-Client-Banker---PNC-Wealth-Management_R213585-1) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Exton/Premier-Client-Banker---PNC-Wealth-Management_R213562-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-06.
+This corporate finance position at PNC Financial was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
