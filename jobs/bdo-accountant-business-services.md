@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Adelaide, South Australia, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Melbourne-Victoria/Manager-or-Senior-Manager_JR101566) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Adelaide-South-Australia/Accountant--Business-Services_JR102830) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-02-18.
+This corporate finance position at Bdo was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000112548527-director-finance-data-stewardship) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000113538205-director-finance-data-stewardship) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-03-04.
+This corporate finance position at NBCUniversal was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

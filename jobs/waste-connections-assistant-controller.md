@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Frederickson, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/5311H-Denver-Hauling/Assistant-Controller_R-97206) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/2180-LeMay-Pierce-County/Assistant-Controller_R-97105) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-03-06.
+This corporate finance position at Waste Connections was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

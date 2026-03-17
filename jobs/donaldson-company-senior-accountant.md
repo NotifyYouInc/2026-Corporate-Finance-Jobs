@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Donaldson Company](https://scoutify.ai/companies/donaldson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nivelles, Wallonia, Belgium |
+| Location | Itatiba, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Nivelles-BE/Senior-Accountant_JR-25967) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Itatiba/Senior-Accountant_JR-26151) |
 
 ## About This Role
 
-This corporate finance position at Donaldson Company was posted on 2026-02-06.
+This corporate finance position at Donaldson Company was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

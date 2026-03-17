@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sao-PauloBRA/Analista-Financeiro_REQ482268) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sao-PauloBRA/Analista-Financeiro_REQ490702-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-02-20.
+This corporate finance position at JLL was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

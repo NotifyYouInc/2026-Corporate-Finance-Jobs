@@ -5,12 +5,12 @@
 | Company | [Melco Resorts & Entertainment](https://scoutify.ai/companies/melco-resorts-entertainment?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://melcoresorts.wd3.myworkdayjobs.com/career/job/City-of-Dreams-Manila/Revenue-Auditor_REQ13721) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://melcoresorts.wd3.myworkdayjobs.com/career/job/City-of-Dreams-Manila/Revenue-Auditor_REQ14198) |
 
 ## About This Role
 
-This corporate finance position at Melco Resorts & Entertainment was posted on 2026-02-20.
+This corporate finance position at Melco Resorts & Entertainment was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

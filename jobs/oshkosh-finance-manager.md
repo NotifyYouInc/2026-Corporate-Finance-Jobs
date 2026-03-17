@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New South Wales, AU |
+| Location | Ogden, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Regents-Park-New-South-Wales-Australia/Finance-Manager_R43731) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Ogden-Utah-United-States/Finance-Manager_R44891) |
 
 ## About This Role
 
-This corporate finance position at Oshkosh was posted on 2026-02-12.
+This corporate finance position at Oshkosh was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

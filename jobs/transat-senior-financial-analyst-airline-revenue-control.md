@@ -5,12 +5,12 @@
 | Company | [Transat](https://scoutify.ai/companies/transat?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000107392075-senior-financial-analyst-airline-revenue-control) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000113577217-senior-financial-analyst-airline-revenue-control) |
 
 ## About This Role
 
-This corporate finance position at Transat was posted on 2026-02-04.
+This corporate finance position at Transat was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

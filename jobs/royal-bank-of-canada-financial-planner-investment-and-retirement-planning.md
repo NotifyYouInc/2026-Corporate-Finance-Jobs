@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Penticton, British Columbia, Canada |
+| Location | Richmond, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PENTICTON-British-Columbia-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000151523) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000162970) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-06.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

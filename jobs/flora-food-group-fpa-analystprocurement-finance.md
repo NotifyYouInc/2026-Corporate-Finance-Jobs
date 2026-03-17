@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flora Food Group](https://scoutify.ai/companies/flora-food-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.florafoodgroup.com/careers/join-flora-food-group/8443872002?gh_jid=8443872002) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://www.florafoodgroup.com/careers/join-flora-food-group/8456385002?gh_jid=8456385002) |
 
 ## About This Role
 
-This corporate finance position at Flora Food Group was posted on 2026-03-04.
+This corporate finance position at Flora Food Group was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

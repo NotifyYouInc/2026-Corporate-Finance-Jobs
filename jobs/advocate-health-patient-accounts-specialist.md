@@ -5,12 +5,12 @@
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Charlotte-NC---1100-Blythe-Blvd/Patient-Accounts-Specialist_R214568) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Patient-Accounts-Specialist_R166026) |
 
 ## About This Role
 
-This corporate finance position at Advocate Health was posted on 2026-02-18.
+This corporate finance position at Advocate Health was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

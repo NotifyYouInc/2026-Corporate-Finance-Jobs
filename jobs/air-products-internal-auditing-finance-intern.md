@@ -5,12 +5,12 @@
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Internal-Auditing-Finance-Intern_JR-2026-19681) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Internal-Auditing-Finance-Intern_JR-2026-19629) |
 
 ## About This Role
 
-This corporate finance position at Air Products was posted on 2026-03-09.
+This corporate finance position at Air Products was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saskatoon, Saskatchewan, Canada |
+| Location | Westmount, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/SASKATOON-Saskatchewan-Canada/Private-Banking-Associate_R-0000161377) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/4-CAR-WESTMOUNTWESTMOUNT/Private-Banking-Associate_R-0000162973) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-02.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

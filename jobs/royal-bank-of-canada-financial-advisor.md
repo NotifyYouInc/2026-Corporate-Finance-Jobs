@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | British Columbia, CA |
+| Location | New Brunswick, CA |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PRINCE-RUPERT-British-Columbia-Canada/Financial-Advisor_R-0000162582) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OROMOCTO-New-Brunswick-Canada/Financial-Advisor_R-0000162972-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-06.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

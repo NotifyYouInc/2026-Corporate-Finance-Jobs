@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fredericksburg, Virginia, United States |
+| Location | Irving, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Fredericksburg-TX/Private-Banking-Officer-II_R260308) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Irving-TX---Las-Colinas/Private-Banking-Officer-II_R260420) |
 
 ## About This Role
 
-This corporate finance position at Frostbank was posted on 2026-02-18.
+This corporate finance position at Frostbank was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

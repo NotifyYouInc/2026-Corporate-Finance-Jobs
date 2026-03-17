@@ -1,16 +1,16 @@
-# Entry-Level Financial Analyst at Boeing
+# Entry- Level Financial Analyst at Boeing
 
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Mesa, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Entry-Level-Financial-Analyst_JR2026494948-1) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Entry--Level-Financial-Analyst_JR2026499987) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-02-04.
+This corporate finance position at Boeing was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Accountant, Fund Accounting  at IQ-EQ
+# Senior Accountant, Fund Accounting at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pasig City, National Capital Region, Philippines |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000113393676-senior-accountant-fund-accounting) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000113636507-senior-accountant-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-03-09.
+This corporate finance position at IQ-EQ was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lubbock, Texas, United States |
+| Location | Shreveport, Louisiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Lubbock-TX/Director-of-Finance_R100120806) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Shreveport-LA/Director-of-Finance_R100121048) |
 
 ## About This Role
 
-This corporate finance position at ASM Global was posted on 2026-03-05.
+This corporate finance position at ASM Global was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Queensland, AU |
+| Location | Richmond, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Fortitude-Valley/Senior-Financial-Analyst_R10214050) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Springfield-Central/Senior-Financial-Analyst_R10225241) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-02-04.
+This corporate finance position at Northrop Grumman was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

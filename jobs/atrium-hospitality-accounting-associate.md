@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Atrium Hospitality](https://scoutify.ai/companies/atrium-hospitality?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bowling Green, Kentucky, United States |
+| Location | North Charleston, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Bowling-Green-KY/Accounting-Associate_R47195) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/North-Charleston-SC/Accounting-Associate_R47214) |
 
 ## About This Role
 
-This corporate finance position at Atrium Hospitality was posted on 2026-03-06.
+This corporate finance position at Atrium Hospitality was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
