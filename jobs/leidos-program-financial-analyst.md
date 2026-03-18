@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Program-Financial-Analyst_R-00176453) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Scoresby-Victoria-Australia/Program-Financial-Analyst_R-00177908) |
 
 ## About This Role
 
-This corporate finance position at Leidos was posted on 2026-02-19.
+This corporate finance position at Leidos was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

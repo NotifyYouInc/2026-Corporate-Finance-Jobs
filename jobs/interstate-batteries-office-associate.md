@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Interstate Batteries](https://scoutify.ai/companies/interstate-batteries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Altoona, Pennsylvania, United States |
+| Location | Bay City, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-IA-Altoona/Office-Associate_REQ-8701) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-MI-Bay-City/Office-Associate_REQ-8735) |
 
 ## About This Role
 
-This corporate finance position at Interstate Batteries was posted on 2026-03-04.
+This corporate finance position at Interstate Batteries was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

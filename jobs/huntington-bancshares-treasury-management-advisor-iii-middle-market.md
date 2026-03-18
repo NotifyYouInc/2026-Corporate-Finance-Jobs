@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Farmers Branch, Texas, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Farmers-Branch-TX/Treasury-Management-Advisor-III---Middle-Market_R0070170) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Charlotte-NC/Treasury-Management-Advisor-III---Middle-Market_R0070308) |
 
 ## About This Role
 
-This corporate finance position at Huntington Bancshares was posted on 2026-03-05.
+This corporate finance position at Huntington Bancshares was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

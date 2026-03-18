@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Jersey, US |
+| Location | Brandon, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NJ---West-Windsor-08550/Financial-Advisor---PNC-Wealth-Management_R213618-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Brandon/Financial-Advisor---PNC-Wealth-Management_R214607-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-04.
+This corporate finance position at PNC Financial was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000110000160-sr-associate-strategic-finance-linkedin-marketing-solutions) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000113815968-sr-associate-strategic-finance-linkedin-marketing-solutions) |
 
 ## About This Role
 
-This corporate finance position at LinkedIn was posted on 2026-02-18.
+This corporate finance position at LinkedIn was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

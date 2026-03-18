@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | 6 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Japan-Tokyo/Director--Pricing_J26570) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Japan-Tokyo/Director--Pricing_J26814) |
 
 ## About This Role
 
-This corporate finance position at RGA Reinsurance Company was posted on 2026-03-09.
+This corporate finance position at RGA Reinsurance Company was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Frederickson, Washington, United States |
+| Location | Massachusetts, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/2180-LeMay-Pierce-County/Assistant-Controller_R-97105) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/6390-Westborough-Hauling/Assistant-Controller_R-96858-1) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-03-09.
+This corporate finance position at Waste Connections was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

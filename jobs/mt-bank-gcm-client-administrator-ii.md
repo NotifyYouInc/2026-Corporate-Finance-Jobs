@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Buffalo, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Minneapolis-MN/GCM-Client-Administrator-II_R82476-2) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/GCM-Client-Administrator-II_R83818) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-02-18.
+This corporate finance position at M&T Bank was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

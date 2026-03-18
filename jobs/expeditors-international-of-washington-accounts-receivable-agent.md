@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Romulus, Michigan, United States |
+| Location | Grapevine, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000108847785-accounts-receivable-agent) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000113815907-accounts-receivable-agent) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-02-11.
+This corporate finance position at Expeditors International of Washington was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westmount, Quebec, Canada |
+| Location | Laval, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/4-CAR-WESTMOUNTWESTMOUNT/Private-Banking-Associate_R-0000162973) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/LAVAL-Quebec-Canada/Private-Banking-Associate_R-0000163247) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-09.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

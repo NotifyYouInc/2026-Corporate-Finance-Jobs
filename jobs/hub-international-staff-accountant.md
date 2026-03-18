@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, CA |
+| Location | Abbotsford, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Woodbridge-ON/Staff-Accountant_R0034808) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Abbotsford-BC/Staff-Accountant_R0035096-1) |
 
 ## About This Role
 
-This corporate finance position at HUB International was posted on 2026-02-26.
+This corporate finance position at HUB International was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

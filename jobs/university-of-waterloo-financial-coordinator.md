@@ -5,12 +5,12 @@
 | Company | [University of Waterloo](https://scoutify.ai/companies/university-of-waterloo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Waterloo, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://uwaterloo.wd3.myworkdayjobs.com/uw_careers/job/Waterloo-Ontario-Canada/Financial-Coordinator_2026-00278-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://uwaterloo.wd3.myworkdayjobs.com/uw_careers/job/Waterloo-Ontario-Canada/Financial-Coordinator_2026-00292-1) |
 
 ## About This Role
 
-This corporate finance position at University of Waterloo was posted on 2026-03-04.
+This corporate finance position at University of Waterloo was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

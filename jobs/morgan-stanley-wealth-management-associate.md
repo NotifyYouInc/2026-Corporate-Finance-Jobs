@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lake Oswego, Oregon, United States |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Lake-Oswego-Oregon-United-States-of-America/Wealth-Management-Associate_JR030969) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/San-Francisco-California-United-States-of-America/Wealth-Management-Associate_JR031845) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-03-04.
+This corporate finance position at Morgan Stanley was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

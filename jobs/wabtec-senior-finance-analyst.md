@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012049596-senior-finance-analyst) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012075206-senior-finance-analyst) |
 
 ## About This Role
 
-This corporate finance position at Wabtec was posted on 2026-03-10.
+This corporate finance position at Wabtec was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

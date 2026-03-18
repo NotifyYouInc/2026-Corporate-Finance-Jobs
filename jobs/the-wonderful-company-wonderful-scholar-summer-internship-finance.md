@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000111205688-wonderful-scholar-summer-internship-finance) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000113783769-wonderful-scholar-summer-internship-finance) |
 
 ## About This Role
 
-This corporate finance position at The Wonderful Company was posted on 2026-02-24.
+This corporate finance position at The Wonderful Company was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

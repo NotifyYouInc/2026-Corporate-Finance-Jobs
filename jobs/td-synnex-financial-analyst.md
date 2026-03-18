@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Clearwater, Florida, United States |
+| Location | Basingstoke, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Clearwater-Florida-United-States/Financial-Analyst_R48016) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Basingstoke-United-Kingdom/Financial-Analyst_R48340) |
 
 ## About This Role
 
-This corporate finance position at TD Synnex was posted on 2026-02-25.
+This corporate finance position at TD Synnex was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

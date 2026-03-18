@@ -5,12 +5,12 @@
 | Company | [Elara Caring](https://scoutify.ai/companies/elara-caring?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Dallas---TX-LBJ-FWY/Senior-Financial-Analyst_JR-132986-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Dallas---TX-LBJ-FWY/Senior-Financial-Analyst_JR-133117) |
 
 ## About This Role
 
-This corporate finance position at Elara Caring was posted on 2026-03-09.
+This corporate finance position at Elara Caring was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

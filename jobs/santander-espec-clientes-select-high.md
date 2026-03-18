@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/BELO-HORIZONTE/Espec-Clientes-Select-High_Req1542613) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Clientes-Select-High_Req1544655-1) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-03-06.
+This corporate finance position at Santander was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

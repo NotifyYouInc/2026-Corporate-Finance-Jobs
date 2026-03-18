@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Los-Angeles-California-United-States/Senior-Wealth-Advisor-SAFE-ACT_26942218) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Senior-Wealth-Advisor-SAFE-ACT_26945595) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-02-26.
+This corporate finance position at Citigroup was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [University of Sydney](https://scoutify.ai/companies/university-of-sydney?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New South Wales, AU |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Newtown/Associate-Director-Finance_0146972-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Forest-Lodge/Associate-Director-Finance_0148390-1) |
 
 ## About This Role
 
-This corporate finance position at University of Sydney was posted on 2026-02-23.
+This corporate finance position at University of Sydney was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
