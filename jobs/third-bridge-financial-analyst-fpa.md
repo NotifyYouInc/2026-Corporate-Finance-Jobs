@@ -5,12 +5,12 @@
 | Company | [Third Bridge](https://scoutify.ai/companies/thirdbridge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ThirdBridge/744000107228125-financial-analyst-fpa) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ThirdBridge/744000114111767-financial-analyst-fpa) |
 
 ## About This Role
 
-This corporate finance position at Third Bridge was posted on 2026-02-04.
+This corporate finance position at Third Bridge was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

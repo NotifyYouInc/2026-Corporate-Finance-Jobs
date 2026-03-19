@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santa Monica, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000113789124-financial-analyst-chargebacks-and-deductions) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000114139847-financial-analyst-chargebacks-and-deductions) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-03-10.
+This corporate finance position at Red Bull was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

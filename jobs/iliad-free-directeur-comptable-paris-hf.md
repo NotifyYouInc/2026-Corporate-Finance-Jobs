@@ -5,12 +5,12 @@
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000113232448-directeur-comptable-paris-hf) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000114080577-directeur-comptable-paris-hf) |
 
 ## About This Role
 
-This corporate finance position at Iliad-Free was posted on 2026-03-06.
+This corporate finance position at Iliad-Free was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

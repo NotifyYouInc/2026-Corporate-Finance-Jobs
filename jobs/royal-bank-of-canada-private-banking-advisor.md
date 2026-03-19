@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Richmond Hill, Ontario, Canada |
+| Location | Victoria, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-HILL-Ontario-Canada/Private-Banking-Advisor_R-0000162490-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VICTORIA-British-Columbia-Canada/Private-Banking-Advisor_R-0000163318) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-05.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Culver City, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3187666/finance-manager-amazon-mgm-studios-fp-a) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3202825/finance-manager-amazon-mgm-studios-fp-a) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-02-24.
+This corporate finance position at Amazon was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

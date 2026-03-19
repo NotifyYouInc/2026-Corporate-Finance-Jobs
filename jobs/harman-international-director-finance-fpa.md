@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Carlsbad, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Carlsbad--California-USA/Director--Finance--FP-A_R-51520-2026) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Carlsbad--California-USA/Director--Finance--FP-A_R-51970-2026) |
 
 ## About This Role
 
-This corporate finance position at HARMAN International was posted on 2026-02-13.
+This corporate finance position at HARMAN International was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

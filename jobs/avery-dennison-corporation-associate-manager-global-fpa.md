@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000111003585-associate-manager-global-fpa) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000114048896-associate-manager-global-fpa) |
 
 ## About This Role
 
-This corporate finance position at Avery Dennison Corporation was posted on 2026-02-24.
+This corporate finance position at Avery Dennison Corporation was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

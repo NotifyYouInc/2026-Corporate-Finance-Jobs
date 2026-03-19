@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cincinnati-45203/Finance-Associate_R213684-2) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Finance-Associate_R213713-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-09.
+This corporate finance position at PNC Financial was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

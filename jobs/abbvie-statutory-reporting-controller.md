@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Poland |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011926553-statutory-reporting-controller) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012092856-statutory-reporting-controller) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-02.
+This corporate finance position at AbbVie was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

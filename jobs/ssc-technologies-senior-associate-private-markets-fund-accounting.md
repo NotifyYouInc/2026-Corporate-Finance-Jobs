@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Chicago-IL/Senior-Associate--Private-Markets-Fund-Accounting_R41368) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/New-York-NY/Senior-Associate--Private-Markets-Fund-Accounting_R40492) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-02-26.
+This corporate finance position at SS&C Technologies was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

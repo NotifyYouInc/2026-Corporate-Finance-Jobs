@@ -5,12 +5,12 @@
 | Company | [Ströer SE & Co. KGaA (Ströer Gruppe)](https://scoutify.ai/companies/strersecokgaastrergruppe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Germany |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000108137095-group-controller-beteiligungen-mwd) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000114300997-group-controller-beteiligungen-mwd) |
 
 ## About This Role
 
-This corporate finance position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-02-09.
+This corporate finance position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

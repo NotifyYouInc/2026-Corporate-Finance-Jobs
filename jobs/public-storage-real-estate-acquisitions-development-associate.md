@@ -5,12 +5,12 @@
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Frisco, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000111657131-real-estate-acquisitions-development-associate) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000114117917-real-estate-acquisitions-development-associate) |
 
 ## About This Role
 
-This corporate finance position at Public Storage was posted on 2026-02-26.
+This corporate finance position at Public Storage was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

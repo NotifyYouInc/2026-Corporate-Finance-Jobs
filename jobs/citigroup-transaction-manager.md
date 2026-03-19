@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Transaction-Manager_26942535) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Transaction-Manager_26940749) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-05.
+This corporate finance position at Citigroup was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

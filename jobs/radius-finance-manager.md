@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Crewe, England, United Kingdom |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000111873465-finance-manager) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000114112368-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at Radius was posted on 2026-02-27.
+This corporate finance position at Radius was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

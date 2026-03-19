@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Credit-Controller---UK---Ireland_R0116143-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Credit-Controller---UK---Ireland_R0116085-1) |
 
 ## About This Role
 
-This corporate finance position at LSEG was posted on 2026-02-09.
+This corporate finance position at LSEG was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

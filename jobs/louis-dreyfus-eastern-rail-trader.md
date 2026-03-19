@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000111464360-eastern-rail-trader) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000114075737-eastern-rail-trader) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-02-25.
+This corporate finance position at Louis Dreyfus was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

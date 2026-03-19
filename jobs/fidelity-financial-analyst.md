@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Jersey City, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Covington-KY/Financial-Analyst_2123423-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Financial-Analyst_2124972-2) |
 
 ## About This Role
 
-This corporate finance position at Fidelity was posted on 2026-02-17.
+This corporate finance position at Fidelity was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

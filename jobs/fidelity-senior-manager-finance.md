@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Senior-Manager--Finance_2124708) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Manager--Finance_2124867-1) |
 
 ## About This Role
 
-This corporate finance position at Fidelity was posted on 2026-02-20.
+This corporate finance position at Fidelity was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

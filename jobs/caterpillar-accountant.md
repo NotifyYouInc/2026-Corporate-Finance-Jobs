@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Location | Peoria, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accountant_R0000355191) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Accountant_R0000356527) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-08.
+This corporate finance position at Caterpillar was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

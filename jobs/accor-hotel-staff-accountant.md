@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000113015307-hotel-staff-accountant) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000114075827-hotel-staff-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-05.
+This corporate finance position at ACCOR was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

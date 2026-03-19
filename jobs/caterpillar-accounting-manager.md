@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Accounting-Manager_R0000346827) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangkok-Thailand/Accounting-Manager_R0000355965) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-10.
+This corporate finance position at Caterpillar was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

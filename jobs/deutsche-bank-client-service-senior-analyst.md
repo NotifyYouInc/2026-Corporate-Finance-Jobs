@@ -1,16 +1,16 @@
-# Client Service  Senior Analyst at Deutsche Bank
+# Client Service Senior Analyst at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santa Ana, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/CaliforniaSanta-Ana/Client-Service--Senior-Analyst_R0426095) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/CaliforniaSanta-Ana/Client-Service-Senior-Analyst_R0426087) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-03-04.
+This corporate finance position at Deutsche Bank was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

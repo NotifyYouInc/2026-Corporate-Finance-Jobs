@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Fund-Accountant_JR-0017814) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad-Sy-No-53/Fund-Accountant_JR-0019986) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-02-17.
+This corporate finance position at Apex Fund Services was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

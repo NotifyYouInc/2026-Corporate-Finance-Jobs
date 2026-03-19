@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Citi-Wealth-Planner_26945289) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dallas-Texas-United-States/Citi-Wealth-Planner_26946152-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-09.
+This corporate finance position at Citigroup was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
