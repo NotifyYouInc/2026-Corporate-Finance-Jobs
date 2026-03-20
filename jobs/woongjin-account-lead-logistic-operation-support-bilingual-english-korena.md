@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hazleton, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000113754617-account-lead-logistic-operation-support-bilingual-english-korena) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000114410174-account-lead-logistic-operation-support-bilingual-english-korena) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-03-10.
+This corporate finance position at Woongjin was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

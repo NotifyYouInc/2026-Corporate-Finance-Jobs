@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Constellation Brands](https://scoutify.ai/companies/cbrands?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Rochester, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Chicago-Illinois/Financial-Analyst_R-39462-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Financial-Analyst_R-39597-1) |
 
 ## About This Role
 
-This corporate finance position at Constellation Brands was posted on 2026-03-09.
+This corporate finance position at Constellation Brands was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

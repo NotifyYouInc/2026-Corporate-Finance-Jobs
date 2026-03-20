@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | Laval, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Technicien-principal-ou-technicienne-principale--Transactions-et-oprations-sur-titres--Solutions-gres_R2603363) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Laval/Conseiller-adjoint-ou-conseillre-adjointe-en-gestion-de-patrimoine_R2603588) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-03-11.
+This corporate finance position at Desjardins was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

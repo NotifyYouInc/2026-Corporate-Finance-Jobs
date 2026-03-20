@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mato Grosso do Sul, BR |
+| Location | Mato Grosso, BR |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000111462685-analista-armazenagem-pl) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000114479077-analista-armazenagem-pl) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-02-25.
+This corporate finance position at Louis Dreyfus was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Knoxville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000114141627-representative-credit) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000114447095-representative-credit) |
 
 ## About This Role
 
-This corporate finance position at Pilot Flying J was posted on 2026-03-11.
+This corporate finance position at Pilot Flying J was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

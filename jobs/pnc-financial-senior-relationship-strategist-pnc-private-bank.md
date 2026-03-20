@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/MD---Baltimore-21202/Senior-Relationship-Strategist---PNC-Private-Bank_R213965-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NC---Charlotte-28210/Senior-Relationship-Strategist---PNC-Private-Bank_R213357-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-05.
+This corporate finance position at PNC Financial was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

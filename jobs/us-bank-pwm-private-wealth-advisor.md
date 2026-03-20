@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Diego, California, United States |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/San-Diego-CA/PWM-Private-Wealth-Advisor_2026-0004550-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Houston-TX/PWM-Private-Wealth-Advisor_2025-0022031) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-03.
+This corporate finance position at U.S. Bank was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

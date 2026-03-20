@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000110041585-credit-and-collections-specialist) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000114464647-credit-and-collections-specialist) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-02-18.
+This corporate finance position at Red Bull was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

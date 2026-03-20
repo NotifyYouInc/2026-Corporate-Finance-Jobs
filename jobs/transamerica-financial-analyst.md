@@ -5,12 +5,12 @@
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cedar Rapids, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Financial-Analyst_R20060681) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Financial-Analyst_R20061025) |
 
 ## About This Role
 
-This corporate finance position at Transamerica was posted on 2026-02-09.
+This corporate finance position at Transamerica was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

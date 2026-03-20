@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, Ontario, Canada |
+| Location | Brossard, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/LONDON-Ontario-Canada/Associate_R-0000162708-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BROSSARD-Quebec-Canada/Associate_R-0000163444-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-06.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

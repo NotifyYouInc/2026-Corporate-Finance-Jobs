@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/So-Paulo/ESP-GESTAO-PORTFOLIO_Req1460978) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/ESP-GESTAO-PORTFOLIO_Req1553334) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-03-10.
+This corporate finance position at Santander was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

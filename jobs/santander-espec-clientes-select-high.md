@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Volta Redonda, Rio de Janeiro, Brazil |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/VOLTA-REDONDA/Espec-Clientes-Select-High_Req1550514) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/AG-SOBRAL---BSR/Espec-Clientes-Select-High_Req1553151-1) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-03-11.
+This corporate finance position at Santander was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

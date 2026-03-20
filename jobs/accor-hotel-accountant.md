@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000114159227-hotel-accountant) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000114508517-hotel-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-11.
+This corporate finance position at ACCOR was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H.B. Fuller](https://scoutify.ai/companies/hbfuller?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Porto, PT |
+| Location | Minnesota, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Mindelo-Porto-Portugal/Credit-Specialist_R26_0000000563) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/St-Paul-Minnesota-USA/Credit-Specialist_R26_0000000696) |
 
 ## About This Role
 
-This corporate finance position at H.B. Fuller was posted on 2026-03-09.
+This corporate finance position at H.B. Fuller was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8441149002?gh_jid=8441149002) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8460918002?gh_jid=8460918002) |
 
 ## About This Role
 
-This corporate finance position at Lyft was posted on 2026-02-27.
+This corporate finance position at Lyft was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

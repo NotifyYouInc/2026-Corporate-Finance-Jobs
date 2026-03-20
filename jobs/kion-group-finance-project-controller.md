@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Grand Rapids, Michigan, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Finance-Project-Controller_JR-0087029-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Finance-Project-Controller_JR-0088675-1) |
 
 ## About This Role
 
-This corporate finance position at KION Group was posted on 2026-02-05.
+This corporate finance position at KION Group was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

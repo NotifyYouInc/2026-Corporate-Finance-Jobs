@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Finning](https://scoutify.ai/companies/finning?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Edmonton, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Senior-Financial-Analyst_R-2026-105) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Senior-Financial-Analyst_R-2026-1377) |
 
 ## About This Role
 
-This corporate finance position at Finning was posted on 2026-02-18.
+This corporate finance position at Finning was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

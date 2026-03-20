@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000114107197-finance-manager-bilingual-english-korean) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000114409119-finance-manager-bilingual-english-korean) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-03-11.
+This corporate finance position at Woongjin was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

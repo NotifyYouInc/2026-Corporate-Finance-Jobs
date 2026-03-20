@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CO---MEDELLIN-II-GLOBAL-BUSINESS-SERVICES-GBS-COMEL/GBS-Intermed-A-R-Associate_R26008143) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CO---MEDELLIN-II-GLOBAL-BUSINESS-SERVICES-GBS-COMEL/GBS-Intermed-A-R-Associate_R26008128) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-03-11.
+This corporate finance position at United Parcel Service (UPS) was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

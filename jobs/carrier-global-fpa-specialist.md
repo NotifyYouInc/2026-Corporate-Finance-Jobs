@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Santa Catarina, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12C-Floor-91011-Building-No-12B--Stilt-floor-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/FP-A-Specialist_30200824) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5003-Carrier---Plant-C-Carretera-a-Garca-Km-13-Parque-STIVA-Santa-Catarina-66350-Mexico/FP-A-Specialist_30200293-1) |
 
 ## About This Role
 
-This corporate finance position at Carrier Global was posted on 2026-03-06.
+This corporate finance position at Carrier Global was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

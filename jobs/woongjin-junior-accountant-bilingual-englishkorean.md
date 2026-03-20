@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000112227527-junior-accountant-bilingual-englishkorean) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000114402765-junior-accountant-bilingual-englishkorean) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-03-02.
+This corporate finance position at Woongjin was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

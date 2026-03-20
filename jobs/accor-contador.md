@@ -1,16 +1,16 @@
-# Contador  at ACCOR
+# Contador at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Playa del Carmen, Quintana Roo, Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110011925-contador) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000114534687-contador) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-18.
+This corporate finance position at ACCOR was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

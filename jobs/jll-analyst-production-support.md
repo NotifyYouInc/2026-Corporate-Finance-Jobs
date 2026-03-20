@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Morristown, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Analyst--Production-Support_REQ490745-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Morristown-NJ/Analyst--Production-Support_REQ492880) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-06.
+This corporate finance position at JLL was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

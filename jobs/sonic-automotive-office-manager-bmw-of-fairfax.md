@@ -5,12 +5,12 @@
 | Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Fairfax, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000111994847-office-manager-bmw-of-fairfax) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000114431447-office-manager-bmw-of-fairfax) |
 
 ## About This Role
 
-This corporate finance position at Sonic Automotive was posted on 2026-02-28.
+This corporate finance position at Sonic Automotive was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

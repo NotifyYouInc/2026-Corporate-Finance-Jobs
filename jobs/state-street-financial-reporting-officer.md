@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Financial-Reporting--Officer_R-785744) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Luxembourg-Luxembourg/Financial-Reporting--Officer_R-785836) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-11.
+This corporate finance position at State Street was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

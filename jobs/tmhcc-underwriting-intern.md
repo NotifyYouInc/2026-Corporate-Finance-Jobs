@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tmhcc](https://scoutify.ai/companies/tmhcc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Sacramento, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/New-York---New-York-Lexington/Underwriting-Intern_2026-196) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/California---Sacramento/Underwriting-Intern_2026-213) |
 
 ## About This Role
 
-This corporate finance position at Tmhcc was posted on 2026-03-05.
+This corporate finance position at Tmhcc was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
