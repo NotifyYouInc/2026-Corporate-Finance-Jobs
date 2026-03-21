@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Virginia, US |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---VA---Glen-Allen---2250-Old-Brick-Road/Director--Asset-Services--CRE-_R309200) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia-USA/Director--Asset-Services--CRE-_R310144-1) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-03-10.
+This corporate finance position at Cushman & Wakefield was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

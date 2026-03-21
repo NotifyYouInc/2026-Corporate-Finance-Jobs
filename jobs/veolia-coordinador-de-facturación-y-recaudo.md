@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cúcuta, Norte de Santander Department, Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000114406077-coordinador-de-facturacion-y-recaudo) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000114688781-coordinador-de-facturacion-y-recaudo) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-03-12.
+This corporate finance position at Veolia was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

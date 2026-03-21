@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Financial-Analyst-Senior_R0115273) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Financial-Analyst-Senior_R0116251) |
 
 ## About This Role
 
-This corporate finance position at USAA was posted on 2026-02-20.
+This corporate finance position at USAA was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

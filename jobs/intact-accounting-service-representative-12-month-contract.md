@@ -5,12 +5,12 @@
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dartmouth, Nova Scotia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Dartmouth-Nova-Scotia-CAN/Accounting-Service-Representative--12-Month-Contract-_R150633) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Dartmouth-Nova-Scotia-CAN/Accounting-Service-Representative--12-Month-Contract-_R152444) |
 
 ## About This Role
 
-This corporate finance position at Intact was posted on 2026-02-25.
+This corporate finance position at Intact was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

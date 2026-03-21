@@ -1,16 +1,16 @@
-# Commercial P&C Underwriter at Gore Mutual Insurance
+# Commercial P&C Underwriter  at Gore Mutual Insurance
 
 | Field | Details |
 |-------|---------|
 | Company | [Gore Mutual Insurance](https://scoutify.ai/companies/gore-mutual-insurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cambridge, Ontario, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/goremutualinsurance/jobs/4655270006) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/goremutualinsurance/jobs/4662851006) |
 
 ## About This Role
 
-This corporate finance position at Gore Mutual Insurance was posted on 2026-02-26.
+This corporate finance position at Gore Mutual Insurance was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

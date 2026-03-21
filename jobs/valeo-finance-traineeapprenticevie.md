@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bekasi, West Java, Indonesia |
+| Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bekasi/Finance-Trainee-Apprentice-VIE_REQ2026070983) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Juarez/Finance-Trainee-Apprentice-VIE_REQ2026070218) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-03-06.
+This corporate finance position at Valeo was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

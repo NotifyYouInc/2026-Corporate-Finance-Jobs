@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto-Owners Insurance](https://scoutify.ai/companies/aoins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lakeland, Florida, United States |
+| Location | Lansing, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lakeland-FL/Phone-Auditor_R_13164) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Field-Premium-Auditor---Northwest-Indiana_R_11135) |
 
 ## About This Role
 
-This corporate finance position at Auto-Owners Insurance was posted on 2026-02-17.
+This corporate finance position at Auto-Owners Insurance was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

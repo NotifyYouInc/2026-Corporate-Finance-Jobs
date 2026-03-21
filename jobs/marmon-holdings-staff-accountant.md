@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cullman, Alabama, United States |
+| Location | Pearl, Mississippi, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Cullman-AL/Staff-Accountant_JR0000041697) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Pearl-MS/Staff-Accountant_JR0000041724) |
 
 ## About This Role
 
-This corporate finance position at Marmon Holdings was posted on 2026-03-12.
+This corporate finance position at Marmon Holdings was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CRB](https://scoutify.ai/companies/crb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000114109884-staff-accountant-ii) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000114748288-staff-accountant-ii) |
 
 ## About This Role
 
-This corporate finance position at CRB was posted on 2026-03-11.
+This corporate finance position at CRB was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

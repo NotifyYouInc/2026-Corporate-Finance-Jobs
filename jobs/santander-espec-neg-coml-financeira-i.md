@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cuiabá, Mato Grosso, Brazil |
+| Location | Minas Gerais, BR |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CUIABA/Espec-Neg-Coml-Financeira-I_Req1550348) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/UBERLANDIA/Espec-Neg-Coml-Financeira-I_Req1553722) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-03-04.
+This corporate finance position at Santander was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

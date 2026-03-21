@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Lima, Lima Province, Peru |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.lever.co/distro/7ed213af-c6eb-4b6b-9c1a-0f4f52069b08) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.lever.co/distro/6440e4c6-de87-4fe3-9088-e932fe6aa5c3) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-03-10.
+This corporate finance position at Distro was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

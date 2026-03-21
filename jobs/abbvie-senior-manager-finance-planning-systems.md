@@ -1,16 +1,16 @@
-# Senior Manager, Finance Planning Systems   at AbbVie
+# Senior Manager, Finance Planning Systems at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012112546-senior-manager-finance-planning-systems) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012134254-senior-manager-finance-planning-systems) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-12.
+This corporate finance position at AbbVie was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

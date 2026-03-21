@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Louisville, Kentucky, United States |
+| Location | Wichita, Kansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Louisville/Client-Specialist_R2026287-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KS-Wichita/Client-Specialist_R2026346-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-02-24.
+This corporate finance position at Baird was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

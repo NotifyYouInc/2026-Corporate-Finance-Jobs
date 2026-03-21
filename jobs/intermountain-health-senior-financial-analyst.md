@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Saint-Joseph-Hospital/Senior-Financial-Analyst_R164569) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Intermountain-Health-Primary-Childrens-Hospital/Senior-Financial-Analyst_R165438-1) |
 
 ## About This Role
 
-This corporate finance position at Intermountain Health was posted on 2026-03-04.
+This corporate finance position at Intermountain Health was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

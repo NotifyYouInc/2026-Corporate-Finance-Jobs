@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Contador-a-Especialista-en-Derivados-y-Renta-Fija--Ciudad-de-Mxico--Cuauhtmoc-_JR00097207) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Contador-a-Especialista-en-Derivados-y-Renta-Fija--Ciudad-de-Mxico--Cuauhtmoc-_JR00094802) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-27.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

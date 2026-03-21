@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hosūr, Tamil Nadu, India |
+| Location | Irving, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Hosur-Tamil-Nadu/Manager-Accounting_R0000354129) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Manager-Accounting_R0000356934) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-04.
+This corporate finance position at Caterpillar was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

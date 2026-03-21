@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012082717-senior-analyst-finance) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012133637-senior-analyst-finance) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-11.
+This corporate finance position at AbbVie was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

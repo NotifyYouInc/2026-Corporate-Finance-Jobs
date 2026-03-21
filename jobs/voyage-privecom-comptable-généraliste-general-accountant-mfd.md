@@ -5,12 +5,12 @@
 | Company | [voyage prive.com](https://scoutify.ai/companies/voyageprivecom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VoyagePriv/744000113218257-comptable-generaliste-general-accountant-mfd) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VoyagePriv/744000114684928-comptable-generaliste-general-accountant-mfd) |
 
 ## About This Role
 
-This corporate finance position at voyage prive.com was posted on 2026-03-06.
+This corporate finance position at voyage prive.com was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

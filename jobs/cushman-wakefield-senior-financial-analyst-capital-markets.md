@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Senior-Financial-Analyst--Capital-Markets_R304941) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Irvine-California-USA/Senior-Financial-Analyst--Capital-Markets_R310522) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-02-23.
+This corporate finance position at Cushman & Wakefield was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

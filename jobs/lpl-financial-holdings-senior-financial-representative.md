@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lynnwood, Washington, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Remote-Washington/Senior-Financial-Representative_R-049223-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Richmond-VA---Field-Mgmt/Senior-Financial-Representative_R-049280-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-03-03.
+This corporate finance position at LPL Financial Holdings was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

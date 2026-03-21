@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Orland Park, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SHRUB-OAK-NY/Associate-Bank-Financial-Advisor_R-528411) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ORLAND-PARK-IL/Associate-Bank-Financial-Advisor_R-527751) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-12.
+This corporate finance position at Wells Fargo was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
