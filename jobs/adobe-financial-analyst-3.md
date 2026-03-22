@@ -1,16 +1,16 @@
-# Process Associate - P2P at Entain
+# Financial Analyst 3 at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114792597-process-associate-p2p) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Financial-Analyst-3_R164938-1) |
 
 ## About This Role
 
-This corporate finance position at Entain was posted on 2026-03-14.
+This corporate finance position at Adobe was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

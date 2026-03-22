@@ -1,16 +1,16 @@
-# Process Associate - P2P at Entain
+# Accounting Manager/Senior Accounting Leader at Dow
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114792597-process-associate-p2p) |
+| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Accounting-Manager-Senior-Accounting-Leader_R2065927) |
 
 ## About This Role
 
-This corporate finance position at Entain was posted on 2026-03-14.
+This corporate finance position at Dow was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

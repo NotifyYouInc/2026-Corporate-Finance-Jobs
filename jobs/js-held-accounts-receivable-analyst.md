@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000114668427-accounts-receivable-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000114672497-accounts-receivable-analyst) |
 
 ## About This Role
 

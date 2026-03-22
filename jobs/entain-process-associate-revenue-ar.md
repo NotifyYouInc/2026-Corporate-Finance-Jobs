@@ -1,4 +1,4 @@
-# Process Associate - P2P at Entain
+# Process Associate - Revenue & AR at Entain
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114792597-process-associate-p2p) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114792637-process-associate-revenue-ar) |
 
 ## About This Role
 

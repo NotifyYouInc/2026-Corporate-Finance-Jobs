@@ -1,16 +1,16 @@
-# Process Associate - P2P at Entain
+# Accountant at Marmon Holdings
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Broomfield, Colorado, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114792597-process-associate-p2p) |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Broomfield-CO/Accountant_JR0000041782) |
 
 ## About This Role
 
-This corporate finance position at Entain was posted on 2026-03-14.
+This corporate finance position at Marmon Holdings was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

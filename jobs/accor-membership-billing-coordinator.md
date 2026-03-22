@@ -1,16 +1,16 @@
-# Process Associate - P2P at Entain
+# Membership Billing Coordinator at ACCOR
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | San Diego, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114792597-process-associate-p2p) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000114813287-membership-billing-coordinator) |
 
 ## About This Role
 
-This corporate finance position at Entain was posted on 2026-03-14.
+This corporate finance position at ACCOR was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

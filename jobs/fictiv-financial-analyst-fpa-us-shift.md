@@ -1,16 +1,16 @@
-# Process Associate - P2P at Entain
+# Financial Analyst - FP&A-US shift at Fictiv
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114792597-process-associate-p2p) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8463659002) |
 
 ## About This Role
 
-This corporate finance position at Entain was posted on 2026-03-14.
+This corporate finance position at Fictiv was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

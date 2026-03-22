@@ -1,16 +1,16 @@
-# Process Associate - P2P at Entain
+# Finance Master Data and Reporting Specialist at Xylem
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Budapest, Budapest, Hungary |
 | Category | Corporate Finance |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114792597-process-associate-p2p) |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Budapest-Hungary/Finance-Master-Data-and-Reporting-Specialist_R44558) |
 
 ## About This Role
 
-This corporate finance position at Entain was posted on 2026-03-14.
+This corporate finance position at Xylem was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

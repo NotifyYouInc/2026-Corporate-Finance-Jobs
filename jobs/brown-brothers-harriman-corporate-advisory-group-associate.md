@@ -1,16 +1,16 @@
-# Process Associate - P2P at Entain
+# Corporate Advisory Group Associate at Brown Brothers Harriman
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York, US |
 | Category | Corporate Finance |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114792597-process-associate-p2p) |
+| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/Corporate-Advisory-Group-Associate_66706) |
 
 ## About This Role
 
-This corporate finance position at Entain was posted on 2026-03-14.
+This corporate finance position at Brown Brothers Harriman was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

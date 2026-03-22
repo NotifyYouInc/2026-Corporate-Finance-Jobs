@@ -1,16 +1,16 @@
-# Process Associate - P2P at Entain
+# Payment Operations and Bank Systems Analyst at Marsh
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Corporate Finance |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114792597-process-associate-p2p) |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Warsaw---Prosta/Payment-Operations-and-Bank-Systems-Analyst_R_341451) |
 
 ## About This Role
 
-This corporate finance position at Entain was posted on 2026-03-14.
+This corporate finance position at Marsh was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 
