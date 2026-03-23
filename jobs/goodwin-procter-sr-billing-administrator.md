@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Goodwin Procter](https://scoutify.ai/companies/goodwin-procter?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://goodwinprocter.wd5.myworkdayjobs.com/external_careers/job/Boston/Sr-Billing-Administrator_R04030) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://goodwinprocter.wd5.myworkdayjobs.com/external_careers/job/Los-Angeles/Sr-Billing-Administrator_R04032) |
 
 ## About This Role
 
-This corporate finance position at Goodwin Procter was posted on 2026-03-09.
+This corporate finance position at Goodwin Procter was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

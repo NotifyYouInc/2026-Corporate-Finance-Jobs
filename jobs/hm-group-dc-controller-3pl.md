@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | South Korea |
+| Location | Gyeonggi-do, KR |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000113635927-dc-controller-3pl) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000114885217-dc-controller-3pl) |
 
 ## About This Role
 
-This corporate finance position at H&M Group was posted on 2026-03-10.
+This corporate finance position at H&M Group was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

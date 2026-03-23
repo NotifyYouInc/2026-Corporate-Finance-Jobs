@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Lethbridge, Alberta, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/555-STRATHCONA-BLVD-SW-UNIT-100CALGARY/Financial-Advisor_R-0000160128-1) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/LETHBRIDGE-Alberta-Canada/Financial-Advisor_R-0000163836-1) |
 
 ## About This Role
 

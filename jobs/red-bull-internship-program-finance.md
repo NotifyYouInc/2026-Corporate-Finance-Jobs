@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000114068646-internship-program-finance) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000114876564-internship-program-finance) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-03-11.
+This corporate finance position at Red Bull was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

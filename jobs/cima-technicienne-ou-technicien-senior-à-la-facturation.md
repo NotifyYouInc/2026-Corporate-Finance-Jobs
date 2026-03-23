@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Corporate Finance |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000114700998-technicienne-ou-technicien-senior-a-la-facturation) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000114701288-technicienne-ou-technicien-senior-a-la-facturation) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Monterrey-Mexico/General-Accounting-Analyst_JR113410) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Quezon-City-Manila-Philippines/General-Accounting-Analyst_JR113709) |
 
 ## About This Role
 
-This corporate finance position at Copeland was posted on 2026-02-27.
+This corporate finance position at Copeland was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

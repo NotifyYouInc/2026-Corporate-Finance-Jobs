@@ -1,16 +1,16 @@
-# Manager, Financial Process and Systems, Business Planning and Consolidation (SAP BPC) at AbbVie
+# Manager, Financial process and systems, Business Planning and Consolidation (SAP BPC) at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
+| Location | North Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012135497-manager-financial-process-and-systems-business-planning-and-consolidation-sap-bpc) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012153646-manager-financial-process-and-systems-business-planning-and-consolidation-sap-bpc) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-13.
+This corporate finance position at AbbVie was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
