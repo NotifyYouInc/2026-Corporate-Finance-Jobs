@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plexus](https://scoutify.ai/companies/plexus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Guadalajara-Mexico/Financial-Analyst_R037101) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Bangkok-Thailand/Financial-Analyst_R036568-2) |
 
 ## About This Role
 
-This corporate finance position at Plexus was posted on 2026-03-12.
+This corporate finance position at Plexus was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

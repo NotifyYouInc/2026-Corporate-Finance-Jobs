@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000110305725-assistant-manager-accountant) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000115130577-assistant-manager-accountant) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-02-20.
+This corporate finance position at IQ-EQ was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

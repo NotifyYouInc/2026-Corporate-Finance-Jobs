@@ -5,12 +5,12 @@
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jacksonville, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/FL318---Jacksonville-FL/Collections-Associate_R26000890) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/FL318---Jacksonville-FL/Collections-Associate_R26001421) |
 
 ## About This Role
 
-This corporate finance position at HD Supply was posted on 2026-02-24.
+This corporate finance position at HD Supply was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

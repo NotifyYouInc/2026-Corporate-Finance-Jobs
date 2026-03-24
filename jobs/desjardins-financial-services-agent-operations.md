@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, CA |
+| Location | Quebec, CA |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Ontario/Agent-ou-agente--Services-financiers--Oprations_R2603208) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Emploi-tudiant--Agent-ou-agente--Services-financiers--Oprations--Entreprises_R2603770-1) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-03-04.
+This corporate finance position at Desjardins was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

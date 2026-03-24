@@ -5,12 +5,12 @@
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Barranquilla, Atlántico, Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.lever.co/distro/58117bc6-25c4-4054-969e-299455e28494) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.lever.co/distro/d8bbf046-7dab-4ab4-81e0-cb7f6e9eb73e) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-03-05.
+This corporate finance position at Distro was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

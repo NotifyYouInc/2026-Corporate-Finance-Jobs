@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Eden Prairie, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Monterrey-Nuevo-Leon-Mexico/Senior-Carrier-Accounts-Payable-Representative_R47403-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Senior-Carrier-Accounts-Payable-Representative_R47544) |
 
 ## About This Role
 
-This corporate finance position at C.H. Robinson was posted on 2026-03-02.
+This corporate finance position at C.H. Robinson was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Accountant 3, Fund Accounting at IQ-EQ
+# Accountant 3, Fund Accounting  at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Port Louis, Port Louis, Mauritius |
+| Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000112334687-accountant-3-fund-accounting) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000115128497-accountant-3-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-03-03.
+This corporate finance position at IQ-EQ was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

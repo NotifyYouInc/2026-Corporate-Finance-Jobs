@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Theirc](https://scoutify.ai/companies/theirc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cúcuta, Norte de Santander Department, Colombia |
+| Location | Ipiales, Nariño, Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Cucuta-Colombia/Oficial-de-Finanzas_JR00002340-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Ipiales-Colombia/Oficial-de-Finanzas_JR00002466) |
 
 ## About This Role
 
-This corporate finance position at Theirc was posted on 2026-03-10.
+This corporate finance position at Theirc was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

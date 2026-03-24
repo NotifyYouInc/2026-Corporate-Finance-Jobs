@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Jersey, US |
+| Location | Rochester, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Florham-Park-New-Jersey-United-States-of-America/Associate-Financial-Advisor_R-0000163750) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Rochester-New-York-United-States-of-America/Associate-Financial-Advisor_R-0000154980) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-13.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Houston-TX/PWM-Private-Wealth-Advisor_2025-0022031) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irvine-CA/PWM-Private-Wealth-Advisor_2026-0005851) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-12.
+This corporate finance position at U.S. Bank was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Corporate Finance |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000110552424-head-of-bookkeeping) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000115074317-head-of-bookkeeping) |
 
 ## About This Role
 
-This corporate finance position at Wix.com was posted on 2026-02-22.
+This corporate finance position at Wix.com was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

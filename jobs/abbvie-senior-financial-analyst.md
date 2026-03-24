@@ -1,16 +1,16 @@
-# Senior Financial Analyst at AbbVie
+# Senior Financial Analyst  at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012147456-senior-financial-analyst) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012169416-senior-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-13.
+This corporate finance position at AbbVie was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

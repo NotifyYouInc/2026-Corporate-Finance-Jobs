@@ -5,12 +5,12 @@
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000114046207-fund-accounting-officer) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000115015313-fund-accounting-officer) |
 
 ## About This Role
 
-This corporate finance position at Ocorian was posted on 2026-03-11.
+This corporate finance position at Ocorian was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

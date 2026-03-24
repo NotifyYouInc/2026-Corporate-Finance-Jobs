@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000110925866-tax-accountant) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000115134667-tax-accountant) |
 
 ## About This Role
 
-This corporate finance position at Endava was posted on 2026-02-24.
+This corporate finance position at Endava was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

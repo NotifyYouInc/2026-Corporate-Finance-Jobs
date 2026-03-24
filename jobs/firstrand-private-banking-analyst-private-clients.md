@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pretoria, Gauteng, South Africa |
+| Location | Klerksdorp, North West, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Pretoria/Private-Banking-Analyst-Private-Clients_R47206) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Klerksdorp/Private-Banking-Analyst-Private-Clients_R47118) |
 
 ## About This Role
 
-This corporate finance position at FirstRand was posted on 2026-03-10.
+This corporate finance position at FirstRand was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

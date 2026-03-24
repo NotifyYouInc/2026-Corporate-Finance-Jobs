@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Worth, Texas, United States |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/FORT-WORTH-TX/Senior-Lead-Commercial-Banking-Relationship-Manager_R-523184) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/141603-SC-Columbia-Main-Office/Senior-Lead-Commercial-Banking-Relationship-Manager_R-529608) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-03.
+This corporate finance position at Wells Fargo was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

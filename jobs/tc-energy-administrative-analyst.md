@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TC Energy](https://scoutify.ai/companies/tcenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Eden, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Cambridge-Ohio/Administrative-Analyst_JR-09881-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Eden-Wisconsin/Administrative-Analyst_JR-09893) |
 
 ## About This Role
 
-This corporate finance position at TC Energy was posted on 2026-03-12.
+This corporate finance position at TC Energy was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

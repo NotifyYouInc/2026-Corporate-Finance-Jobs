@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Richmond-VA/Accountant_JR0043261) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Sydney/Accountant_JR0043989) |
 
 ## About This Role
 
-This corporate finance position at Alfa Laval was posted on 2026-03-03.
+This corporate finance position at Alfa Laval was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

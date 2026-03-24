@@ -5,12 +5,12 @@
 | Company | [Gen Digital](https://scoutify.ai/companies/gen-digital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Finance-Intern_55306) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Finance-Intern_55231) |
 
 ## About This Role
 
-This corporate finance position at Gen Digital was posted on 2026-03-11.
+This corporate finance position at Gen Digital was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

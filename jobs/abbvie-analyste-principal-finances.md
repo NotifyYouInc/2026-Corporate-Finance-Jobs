@@ -1,16 +1,16 @@
-# Analyste principal, Finances at AbbVie
+# Analyste principal, Finances  at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011679106-analyste-principal-finances) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012169456-analyste-principal-finances) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-13.
+This corporate finance position at AbbVie was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
