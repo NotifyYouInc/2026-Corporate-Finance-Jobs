@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | La Porte, Texas, United States |
+| Location | Spring, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/La-Porte-TX/Area-Credit-Manager_R-133907) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Spring-TX/Area-Credit-Manager_R-134649) |
 
 ## About This Role
 
-This corporate finance position at Ferguson was posted on 2026-02-26.
+This corporate finance position at Ferguson was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

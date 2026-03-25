@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stream Realty Partners](https://scoutify.ai/companies/streamrealtypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StreamRealty/744000107394790-associate-investment-management) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StreamRealty/744000115255514-associate-investment-management) |
 
 ## About This Role
 
-This corporate finance position at Stream Realty Partners was posted on 2026-02-04.
+This corporate finance position at Stream Realty Partners was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

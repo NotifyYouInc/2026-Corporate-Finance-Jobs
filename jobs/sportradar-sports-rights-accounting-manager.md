@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Munich, Bavaria, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000114687906-sports-rights-accounting-manager) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000115277607-sports-rights-accounting-manager) |
 
 ## About This Role
 
-This corporate finance position at Sportradar was posted on 2026-03-13.
+This corporate finance position at Sportradar was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

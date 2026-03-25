@@ -1,16 +1,16 @@
-# Associate Wealth Advisor at Focus Financial Partners
+# Associate Wealth Advisor  at Focus Financial Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Lincoln, Nebraska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5828485004) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5830470004) |
 
 ## About This Role
 
-This corporate finance position at Focus Financial Partners was posted on 2026-03-13.
+This corporate finance position at Focus Financial Partners was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | California, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Vancouver-British-Columbia-Canada/Accounts-Payable-Specialist_JR17360) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/California-United-States-of-America/Accounts-Payable-Specialist_JR17412) |
 
 ## About This Role
 
-This corporate finance position at Colliers was posted on 2026-03-09.
+This corporate finance position at Colliers was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

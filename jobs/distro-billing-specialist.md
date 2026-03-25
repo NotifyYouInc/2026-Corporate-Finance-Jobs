@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
+| Location | Nairobi, Nairobi County, Kenya |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.lever.co/distro/d501be23-60c0-4be4-bd9e-6dbc4b74d09f) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.lever.co/distro/d5c01b18-a5e5-4122-b1f5-c0baaacca97c) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-03-16.
+This corporate finance position at Distro was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

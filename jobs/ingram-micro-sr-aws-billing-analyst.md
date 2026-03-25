@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Williamsville-NY-United-States-of-America/Sr-AWS-Billing-Analyst_R-113956-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Field/Sr-AWS-Billing-Analyst_R-114234) |
 
 ## About This Role
 
-This corporate finance position at Ingram Micro was posted on 2026-03-02.
+This corporate finance position at Ingram Micro was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

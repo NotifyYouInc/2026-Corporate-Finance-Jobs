@@ -5,12 +5,12 @@
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Senior-Accounting-Analyst_JR113110-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Senior-Accounting-Analyst_JR113192-1) |
 
 ## About This Role
 
-This corporate finance position at Xcel Energy was posted on 2026-03-05.
+This corporate finance position at Xcel Energy was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

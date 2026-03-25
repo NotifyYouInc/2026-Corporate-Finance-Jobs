@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Juarez/Finance-Trainee-Apprentice-VIE_REQ2026070218) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/San-Luis-Potosi/Finance-Trainee-Apprentice-VIE_REQ2026072082) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-03-13.
+This corporate finance position at Valeo was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

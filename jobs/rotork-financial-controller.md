@@ -6,7 +6,7 @@
 | Location | Manchester, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000115129747-financial-controller) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000115265349-financial-controller) |
 
 ## About This Role
 

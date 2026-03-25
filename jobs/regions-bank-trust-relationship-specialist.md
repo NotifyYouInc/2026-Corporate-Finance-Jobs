@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Mountain Brook, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Nashville-TN---Green-Hills-Branch/Trust-Relationship-Specialist_R100680) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Mountain-Brook-AL---Crestline-Branch-Birmingham-AL/Trust-Relationship-Specialist_R101152-1) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-02-24.
+This corporate finance position at Regions Bank was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

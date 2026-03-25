@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Clarksville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Clarksville-Plant---Clarksville-Arkansas/Accountant--1st-Shift--Clarksville--AR_R0445296) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Clarksville-Plant---Clarksville-Arkansas/Accountant--1st-Shift--Clarksville--AR_R0450674) |
 
 ## About This Role
 
-This corporate finance position at Tyson Foods was posted on 2026-02-23.
+This corporate finance position at Tyson Foods was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

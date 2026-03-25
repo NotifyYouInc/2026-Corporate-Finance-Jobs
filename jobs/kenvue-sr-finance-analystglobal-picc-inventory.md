@@ -5,12 +5,12 @@
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Brazil-Sao-Paulo-Sao-Jose-dos-Campos/Sr-Finance-Analyst-Global-PICC-Inventory_2607044419W) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Brazil-Sao-Paulo-Sao-Jose-dos-Campos/Sr-Finance-Analyst-Global-PICC-Inventory_2607044420W) |
 
 ## About This Role
 
-This corporate finance position at Kenvue was posted on 2026-03-16.
+This corporate finance position at Kenvue was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

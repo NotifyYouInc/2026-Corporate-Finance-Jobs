@@ -1,16 +1,16 @@
-# Private Equity Fund Accounting & Administration, Senior Associate at State Street
+# Private Equity, Fund Accounting & administration, Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sacramento, California, United States |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Sacramento-California/Private-Equity-Fund-Accounting---Administration--Senior-Associate_R-785726) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Private-Equity--Fund-Accounting---administration--Senior-Associate_R-786164-2) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-11.
+This corporate finance position at State Street was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

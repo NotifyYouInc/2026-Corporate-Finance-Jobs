@@ -5,12 +5,12 @@
 | Company | [Lehigh Valley Health Network](https://scoutify.ai/companies/lehigh-valley-health-network?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Allentown, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://lvhn.wd1.myworkdayjobs.com/lvhn/job/Allentown-PA/Credit-Refund-Specialist_JR134504) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://lvhn.wd1.myworkdayjobs.com/lvhn/job/Pennsylvania---Remote/Credit-Refund-Specialist_JR134482) |
 
 ## About This Role
 
-This corporate finance position at Lehigh Valley Health Network was posted on 2026-03-16.
+This corporate finance position at Lehigh Valley Health Network was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

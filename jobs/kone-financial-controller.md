@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Espoo, Uusimaa, Finland |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Espoo/Financial-Controller_R0658197) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Petaling-Jaya/Financial-Controller_R0658659) |
 
 ## About This Role
 
-This corporate finance position at Kone was posted on 2026-03-06.
+This corporate finance position at Kone was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

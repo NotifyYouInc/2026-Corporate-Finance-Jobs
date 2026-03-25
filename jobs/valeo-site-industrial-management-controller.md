@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hamilton, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Hamilton-OH/Site-Industrial-Management-Controller_REQ2026070836) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Hamilton-OH/Site-Industrial-Management-Controller_REQ2026071727) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-02-25.
+This corporate finance position at Valeo was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

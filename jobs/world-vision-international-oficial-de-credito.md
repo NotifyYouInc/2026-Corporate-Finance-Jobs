@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [World Vision International](https://scoutify.ai/companies/world-vision-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
+| Location | Chalco, México, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/VisionFund-Office-Ixtlahuaca-Mexico/OFICIAL-DE-CREDITO_JR48453) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/VisionFund-Office-Chalco-Mexico/OFICIAL-DE-CREDITO_JR44801) |
 
 ## About This Role
 
-This corporate finance position at World Vision International was posted on 2026-02-24.
+This corporate finance position at World Vision International was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

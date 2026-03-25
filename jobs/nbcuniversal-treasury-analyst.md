@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000111440361-treasury-analyst) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000115283675-treasury-analyst) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-02-25.
+This corporate finance position at NBCUniversal was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

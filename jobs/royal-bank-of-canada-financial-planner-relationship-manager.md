@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saskatoon, Saskatchewan, Canada |
+| Location | Ottawa, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/SASKATOON-Saskatchewan-Canada/Financial-Planner--Relationship-Manager_R-0000162284) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OTTAWA-Ontario-Canada/Financial-Planner--Relationship-Manager_R-0000163955-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-04.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

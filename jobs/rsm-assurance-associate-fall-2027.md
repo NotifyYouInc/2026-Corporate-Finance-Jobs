@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Pennsylvania, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Dayton/Assurance-Associate---Fall-2027_JR118410) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Blue-Bell/Assurance-Associate---Fall-2027_JR117748) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-03-13.
+This corporate finance position at RSM was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

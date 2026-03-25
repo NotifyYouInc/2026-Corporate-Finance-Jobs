@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mulhouse, Grand Est, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112239840-cdd-3-mois-comptable-fournisseurs-hf) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000115254058-cdd-3-mois-comptable-fournisseurs-hf) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-03-02.
+This corporate finance position at Veolia was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

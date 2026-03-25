@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
+| Location | Tamaulipas, MX |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rio-Bravo/CO-OP-INTERNS--FINANCE_REQ2026069559) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rio-Bravo/CO-OP-INTERNS--FINANCE_REQ2026071131) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-03-06.
+This corporate finance position at Valeo was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Much Prosperity Trading International Inc.](https://scoutify.ai/companies/muchprosperitytradinginternationalinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MuchProsperityTradingInternationalInc/744000113379437-accounting-associate) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MuchProsperityTradingInternationalInc/744000115353660-accounting-associate) |
 
 ## About This Role
 
-This corporate finance position at Much Prosperity Trading International Inc. was posted on 2026-03-09.
+This corporate finance position at Much Prosperity Trading International Inc. was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

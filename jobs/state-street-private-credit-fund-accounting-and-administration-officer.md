@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Private-Credit-Fund-Accounting-and-Administration--Officer_R-781369) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Private-Credit-Fund-Accounting-and-Administration--Officer_R-786152) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-02-25.
+This corporate finance position at State Street was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
