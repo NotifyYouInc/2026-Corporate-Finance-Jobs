@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsylvania, US |
+| Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Blue-Bell/Assurance-Associate---Fall-2027_JR117748) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Seattle/Assurance-Associate---Fall-2027_JR118411-1) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-03-17.
+This corporate finance position at RSM was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

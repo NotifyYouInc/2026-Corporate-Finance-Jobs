@@ -1,16 +1,16 @@
-# Analyst-General Ledger at FLEX LTD. Flextronics
+# Analyst - General Ledger at FLEX LTD. Flextronics
 
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Analyst-General-Ledger_WD216548) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Analyst---General-Ledger_WD217419) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-03-11.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

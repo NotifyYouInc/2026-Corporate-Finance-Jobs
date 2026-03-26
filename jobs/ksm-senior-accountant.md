@@ -5,12 +5,12 @@
 | Company | [KSM](https://scoutify.ai/companies/ksmcpa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Indianapolis/Senior-Accountant_R-100343) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Indianapolis/Senior-Accountant_R-100363) |
 
 ## About This Role
 
-This corporate finance position at KSM was posted on 2026-02-17.
+This corporate finance position at KSM was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

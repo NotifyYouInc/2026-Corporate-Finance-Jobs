@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 8 locations |
+| Location | 13 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CT-WALLINGFORD-108-LEIGUS-RD/Group-Underwriter-Senior_JR184498) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-SEVEN-HILLS-6000-LOMBARDO-CENTER-STE-200/Group-Underwriter-Senior_JR186436-1) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-03-04.
+This corporate finance position at Elevance Health was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

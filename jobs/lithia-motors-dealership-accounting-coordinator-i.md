@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Walnut Creek, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Orchard-Park-Honda-Orchard-Park-NY-14127/Dealership-Accounting-Coordinator-I_R104346) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Walnut-Creek-Subaru-Walnut-Creek-CA-94597/Dealership-Accounting-Coordinator-I_R105105) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-03-06.
+This corporate finance position at Lithia Motors was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

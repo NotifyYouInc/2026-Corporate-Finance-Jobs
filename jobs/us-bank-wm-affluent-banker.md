@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Paul, Minnesota, United States |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/WM-Affluent-Banker_2026-0005809) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Rockford-IL/WM-Affluent-Banker_2026-0006580) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-17.
+This corporate finance position at U.S. Bank was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000115297340-customer-sales-team-controller-north-america) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000115522577-customer-sales-team-controller-north-america) |
 
 ## About This Role
 
-This corporate finance position at Aumovio was posted on 2026-03-17.
+This corporate finance position at Aumovio was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

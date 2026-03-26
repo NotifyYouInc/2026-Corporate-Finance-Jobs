@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Eden Prairie, Minnesota, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Financial-Analyst_R47484) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Chicago-IL-United-States-of-America/Financial-Analyst_R47567) |
 
 ## About This Role
 
-This corporate finance position at C.H. Robinson was posted on 2026-03-12.
+This corporate finance position at C.H. Robinson was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

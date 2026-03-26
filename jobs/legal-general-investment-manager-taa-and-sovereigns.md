@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000112994539-investment-manager-taa-and-sovereigns) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000115484988-investment-manager-taa-and-sovereigns) |
 
 ## About This Role
 
-This corporate finance position at Legal & General was posted on 2026-03-05.
+This corporate finance position at Legal & General was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

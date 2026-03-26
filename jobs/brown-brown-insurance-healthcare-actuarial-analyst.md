@@ -5,12 +5,12 @@
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Healthcare-Actuarial-Analyst_R26_0000000961) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Healthcare-Actuarial-Analyst_R26_0000001061) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-03-13.
+This corporate finance position at Brown & Brown Insurance was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

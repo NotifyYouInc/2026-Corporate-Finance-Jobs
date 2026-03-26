@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint-Hyacinthe, Quebec, Canada |
+| Location | Quebec, CA |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Saint-Denis-sur-Richelieu/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2603714) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Disrali/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2603983) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-03-17.
+This corporate finance position at Desjardins was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

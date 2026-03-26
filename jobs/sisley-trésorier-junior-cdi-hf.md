@@ -5,12 +5,12 @@
 | Company | [Sisley](https://scoutify.ai/companies/sisley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | France |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SISLEY/744000112866975-tresorier-junior-cdi-hf) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SISLEY/744000115498278-tresorier-junior-cdi-hf) |
 
 ## About This Role
 
-This corporate finance position at Sisley was posted on 2026-03-05.
+This corporate finance position at Sisley was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

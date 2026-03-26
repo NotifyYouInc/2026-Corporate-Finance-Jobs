@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Birmingham, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000110887611-credit-controller) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000115534297-credit-controller) |
 
 ## About This Role
 
-This corporate finance position at REXEL was posted on 2026-02-23.
+This corporate finance position at REXEL was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

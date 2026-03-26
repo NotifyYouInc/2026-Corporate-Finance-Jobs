@@ -5,12 +5,12 @@
 | Company | [Asbury Communities](https://scoutify.ai/companies/asburycommunities?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Erie, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AsburyCommunities/744000115236948-accounts-receivable-specialist) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AsburyCommunities/744000115531907-accounts-receivable-specialist) |
 
 ## About This Role
 
-This corporate finance position at Asbury Communities was posted on 2026-03-17.
+This corporate finance position at Asbury Communities was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

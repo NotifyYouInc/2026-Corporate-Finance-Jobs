@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Michigan, US |
+| Location | Missouri, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/New-Hudson-Michigan-US/Controller--Plant_R00233401) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Excelsior-Springs-Missouri-US/Controller--Plant_R00235276) |
 
 ## About This Role
 
-This corporate finance position at Magna was posted on 2026-03-05.
+This corporate finance position at Magna was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

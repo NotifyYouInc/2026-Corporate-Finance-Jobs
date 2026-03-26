@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Switzerland |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000115258217-head-of-financial-planning-analysis-and-controlling) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000115484047-head-of-financial-planning-analysis-and-controlling) |
 
 ## About This Role
 
-This corporate finance position at Avaloq was posted on 2026-03-17.
+This corporate finance position at Avaloq was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

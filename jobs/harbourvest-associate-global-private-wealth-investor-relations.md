@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Associate--Global-Private-Wealth---Investor-Relations_R2241) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/London/Associate--Global-Private-Wealth---Investor-Relations_R2282) |
 
 ## About This Role
 
-This corporate finance position at HarbourVest was posted on 2026-02-27.
+This corporate finance position at HarbourVest was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

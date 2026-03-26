@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7611591621851023621/detail) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7618138837827258677/detail) |
 
 ## About This Role
 
-This corporate finance position at TikTok was posted on 2026-03-12.
+This corporate finance position at TikTok was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
