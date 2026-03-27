@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edmond, Oklahoma, United States |
+| Location | Newport Beach, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/EDMOND-OK/Associate-Private-Client-Financial-Advisor_R-528154) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEWPORT-BEACH-CA/Associate-Private-Client-Financial-Advisor_R-530601) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-13.
+This corporate finance position at Wells Fargo was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

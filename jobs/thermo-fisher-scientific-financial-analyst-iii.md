@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Grand Island, Nebraska, United States |
+| Location | West Hills, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Grand-Island-New-York-USA/Financial-Analyst-III_R-01327590) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Hills-California-USA/Financial-Analyst-III_R-01345027-1) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-02-27.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

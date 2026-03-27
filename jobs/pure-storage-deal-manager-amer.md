@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/purestorage/jobs/7650304?gh_jid=7650304) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7736539) |
 
 ## About This Role
 
-This corporate finance position at Pure Storage was posted on 2026-02-24.
+This corporate finance position at Pure Storage was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

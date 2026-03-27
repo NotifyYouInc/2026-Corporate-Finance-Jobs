@@ -1,16 +1,16 @@
-# Real Estate Acquisitions & Development Associate  at Public Storage
+# Real Estate Acquisitions & Development Associate at Public Storage
 
 | Field | Details |
 |-------|---------|
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000114117917-real-estate-acquisitions-development-associate) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000115754927-real-estate-acquisitions-development-associate) |
 
 ## About This Role
 
-This corporate finance position at Public Storage was posted on 2026-03-11.
+This corporate finance position at Public Storage was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

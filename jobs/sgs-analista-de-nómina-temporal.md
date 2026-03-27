@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Peru |
+| Location | Callao, Callao, Peru |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000111179551-analista-de-nomina-temporal) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000115720837-analista-de-nomina-temporal) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-02-24.
+This corporate finance position at SGS was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

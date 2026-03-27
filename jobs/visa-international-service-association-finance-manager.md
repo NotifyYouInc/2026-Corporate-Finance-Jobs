@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Foster City, California, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107817825-finance-manager) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115800668-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at Visa International Service Association was posted on 2026-02-06.
+This corporate finance position at Visa International Service Association was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

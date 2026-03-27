@@ -1,16 +1,16 @@
-# Debt Capital Markets Associate at Barclays
+# Debt Capital Markets, Associate at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Torre-Mayor-Mexico-City/Debit-Capital-Markets-Associate_JR-0000080725) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/745-7th-Avenue-New-York/Debt-Capital-Markets--Associate_JR-0000101693) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-03-12.
+This corporate finance position at Barclays was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

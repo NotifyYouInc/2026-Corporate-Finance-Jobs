@@ -1,16 +1,16 @@
-# Transfer Agency Senior Associate at State Street
+# Transfer Agency, Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Transfer-Agency-Senior-Associate_R-785456-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Transfer-Agency--Senior-Associate_R-785955-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-09.
+This corporate finance position at State Street was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

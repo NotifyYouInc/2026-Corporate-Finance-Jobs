@@ -1,16 +1,16 @@
-# Supervisor  - Fund Accounting at Apex Fund Services
+# Supervisor-Fund accounting at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | India |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore-Fortune-Summit/Supervisor----Fund-Accounting_JR-0018410) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Supervisor-Fund-accounting_JR-0020525-1) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-03-02.
+This corporate finance position at Apex Fund Services was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

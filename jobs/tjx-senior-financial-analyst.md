@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mascot, New South Wales, Australia |
+| Location | Framingham, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mascot-NSW-2020/Senior-Financial-Analyst_REQ83840) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Framingham-MA-01701/Senior-Financial-Analyst_REQ104062) |
 
 ## About This Role
 
-This corporate finance position at TJX was posted on 2026-03-03.
+This corporate finance position at TJX was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

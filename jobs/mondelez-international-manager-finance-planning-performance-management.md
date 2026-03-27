@@ -1,16 +1,16 @@
-# Manager, Finance Planning & Performance Management at Mondelez International
+# Manager Finance Planning & Performance Management at Mondelez International
 
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Salinas-Mexico/Manager--Finance-Planning---Performance-Management_R-161777) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Salinas-Mexico/Manager-Finance-Planning---Performance-Management_R-159972-1) |
 
 ## About This Role
 
-This corporate finance position at Mondelez International was posted on 2026-03-11.
+This corporate finance position at Mondelez International was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

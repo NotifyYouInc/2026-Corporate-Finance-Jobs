@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brossard, Quebec, Canada |
+| Location | West Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BROSSARD-Quebec-Canada/Associate_R-0000163444-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WEST-VANCOUVER-British-Columbia-Canada/Associate_R-0000164580) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-12.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

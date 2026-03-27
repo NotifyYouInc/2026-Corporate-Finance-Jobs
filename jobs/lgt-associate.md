@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LGT](https://scoutify.ai/companies/lgt?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Sydney/Associate_JR7366-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Melbourne/Associate_JR7474-1) |
 
 ## About This Role
 
-This corporate finance position at LGT was posted on 2026-03-02.
+This corporate finance position at LGT was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

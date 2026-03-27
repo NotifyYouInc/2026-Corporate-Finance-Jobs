@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7669509) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7736194) |
 
 ## About This Role
 
-This corporate finance position at Toast was posted on 2026-03-13.
+This corporate finance position at Toast was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Tampa-33602/Associate-Relationship-Strategist---PNC-Private-Bank_R211903) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NC---Raleigh-27601/Associate-Relationship-Strategist---PNC-Private-Bank_R215340-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-02-17.
+This corporate finance position at PNC Financial was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

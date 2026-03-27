@@ -1,16 +1,16 @@
-# Sr Financial Analyst at Thermo Fisher Scientific
+# Sr. Financial Analyst at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Costa Rica |
+| Location | Waltham, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Sr-Financial-Analyst_R-01342084) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Sr-Financial-Analyst_R-01345800) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-03.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

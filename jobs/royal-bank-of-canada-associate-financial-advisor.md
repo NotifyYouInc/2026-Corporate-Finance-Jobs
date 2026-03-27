@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rochester, New York, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Rochester-New-York-United-States-of-America/Associate-Financial-Advisor_R-0000154980) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Chicago-Illinois-United-States-of-America/Associate-Financial-Advisor_R-0000164236) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-16.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

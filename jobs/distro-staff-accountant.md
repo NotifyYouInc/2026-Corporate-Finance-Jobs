@@ -1,16 +1,16 @@
-# Staff Accountant at Distro
+# STAFF ACCOUNTANT at Distro
 
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.lever.co/distro/80b252c6-17bf-426f-858e-65f3fa899216) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.lever.co/distro/a3d35fde-7e98-448a-b14e-4040fe3345aa) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-03-17.
+This corporate finance position at Distro was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brandon, Florida, United States |
+| Location | Fishers, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Brandon-FL266/Financial-Solutions-Advisor---PNC-Wealth-Management_R212526-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/IN---Fishers-46038/Financial-Solutions-Advisor---PNC-Wealth-Management_R215421-2) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-02.
+This corporate finance position at PNC Financial was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

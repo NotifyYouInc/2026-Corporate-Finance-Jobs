@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Interstate Batteries](https://scoutify.ai/companies/interstate-batteries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mentor, Ohio, United States |
+| Location | Lafayette, Louisiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-OH-Mentor/Office-Associate_REQ-8759) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-LA-Scott-Lafayette/Office-Associate_REQ-8765-1) |
 
 ## About This Role
 
-This corporate finance position at Interstate Batteries was posted on 2026-03-18.
+This corporate finance position at Interstate Batteries was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

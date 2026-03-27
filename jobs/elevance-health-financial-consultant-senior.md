@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 13 locations |
+| Location | 9 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Financial-Consultant-Senior_JR181157) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-MASON-4361-IRWIN-SIMPSON-RD/Financial-Consultant-Senior_JR185275) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-02-17.
+This corporate finance position at Elevance Health was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

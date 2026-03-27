@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/INSURGENTES/Record-to-Report-Sr-Specialist_REQ-10071898-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/INSURGENTES/Record-to-Report-Sr-Specialist_REQ-10074500-1) |
 
 ## About This Role
 
-This corporate finance position at Novartis was posted on 2026-03-06.
+This corporate finance position at Novartis was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
