@@ -5,12 +5,12 @@
 | Company | [SEGULA Technologies](https://scoutify.ai/companies/segulatechnologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Derby, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000113238598-financial-controller) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000115924925-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at SEGULA Technologies was posted on 2026-03-06.
+This corporate finance position at SEGULA Technologies was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KSM](https://scoutify.ai/companies/ksmcpa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Cincinnati/Tax-Associate_R-100106) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/New-York/Tax-Associate_R-100083) |
 
 ## About This Role
 
-This corporate finance position at KSM was posted on 2026-03-04.
+This corporate finance position at KSM was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

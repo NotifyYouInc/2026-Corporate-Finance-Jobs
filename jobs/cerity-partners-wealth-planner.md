@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerity Partners](https://scoutify.ai/companies/ceritypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saratoga Springs, New York, United States |
+| Location | Cincinnati, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Saratoga-Springs-2-Office/Wealth-Planner_R561) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Cincinnati-OH/Wealth-Planner_R578) |
 
 ## About This Role
 
-This corporate finance position at Cerity Partners was posted on 2026-03-13.
+This corporate finance position at Cerity Partners was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

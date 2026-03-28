@@ -1,16 +1,16 @@
-# Affluent Market Financial Advisor- (draw salary plus commission) at M&T Bank
+# Affluent Market Financial Advisor (Draw salary plus commission) at M&T Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Pennsylvania, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Reston-VA/Financial-Advisor_R82692-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wyomissing-PA/Affluent-Market-Financial-Advisor--Draw-salary-plus-commission-_R83799) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-03-07.
+This corporate finance position at M&T Bank was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

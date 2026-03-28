@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hamden, Connecticut, United States |
+| Location | South Bend, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Hamden-CT/Private-Client-Banker_R-38197) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/South-Bend-IN/Private-Client-Banker_R-38619) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-03-18.
+This corporate finance position at KeyBank was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

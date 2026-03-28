@@ -5,12 +5,12 @@
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Minnesota, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000115724966-medicaid-collections-coordinator) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000115920167-medicaid-collections-coordinator) |
 
 ## About This Role
 
-This corporate finance position at Dungarvin was posted on 2026-03-19.
+This corporate finance position at Dungarvin was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

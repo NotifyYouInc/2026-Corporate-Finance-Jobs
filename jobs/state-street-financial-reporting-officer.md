@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
+| Location | Quincy, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Luxembourg-Luxembourg/Financial-Reporting--Officer_R-785836) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Financial-Reporting--Officer_R-786493) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-12.
+This corporate finance position at State Street was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

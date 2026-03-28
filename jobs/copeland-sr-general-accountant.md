@@ -5,12 +5,12 @@
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Monterrey-Mexico/Sr-General-Accountant_JR113793) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Monterrey-Mexico/Sr-General-Accountant_JR113808) |
 
 ## About This Role
 
-This corporate finance position at Copeland was posted on 2026-03-19.
+This corporate finance position at Copeland was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

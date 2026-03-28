@@ -1,16 +1,16 @@
-# Liquidador  at Grupo Mariposa
+# LIQUIDADOR at Grupo Mariposa
 
 | Field | Details |
 |-------|---------|
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Managua, Managua Department, Nicaragua |
+| Location | Huehuetenango, Huehuetenango, Guatemala |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012215126-liquidador) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012251966-liquidador) |
 
 ## About This Role
 
-This corporate finance position at Grupo Mariposa was posted on 2026-03-19.
+This corporate finance position at Grupo Mariposa was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

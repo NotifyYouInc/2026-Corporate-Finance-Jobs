@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Registered-Client-Service-Associate_26940785) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Los-Angeles-California-United-States/Registered-Client-Service-Associate_26947677) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-02-20.
+This corporate finance position at Citigroup was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115078953-vendor-finance-controller) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115937032-vendor-finance-controller) |
 
 ## About This Role
 
-This corporate finance position at ServiceNow was posted on 2026-03-16.
+This corporate finance position at ServiceNow was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

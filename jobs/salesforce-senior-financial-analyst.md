@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Senior-Financial-Analyst_JR330775) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Senior-Financial-Analyst_JR334686) |
 
 ## About This Role
 
-This corporate finance position at Salesforce was posted on 2026-02-24.
+This corporate finance position at Salesforce was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

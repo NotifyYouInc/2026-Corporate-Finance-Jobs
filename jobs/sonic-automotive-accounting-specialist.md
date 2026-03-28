@@ -5,12 +5,12 @@
 | Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000115507127-accounting-specialist) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000115953481-accounting-specialist) |
 
 ## About This Role
 
-This corporate finance position at Sonic Automotive was posted on 2026-03-18.
+This corporate finance position at Sonic Automotive was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

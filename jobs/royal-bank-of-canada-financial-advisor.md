@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, CA |
+| Location | Winnipeg, Manitoba, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PARRY-SOUND-Ontario-Canada/Financial-Advisor_R-0000164447) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WINNIPEG-Manitoba-Canada/Financial-Advisor_R-0000164849) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-18.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

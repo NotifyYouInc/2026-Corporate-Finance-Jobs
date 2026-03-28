@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/New-York/XMLNAME-2026-CIB-USA-Analyst-Program_JR00093942) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/New-York/XMLNAME-2026-CIB-USA-Analyst-Program_JR00094850) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-18.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

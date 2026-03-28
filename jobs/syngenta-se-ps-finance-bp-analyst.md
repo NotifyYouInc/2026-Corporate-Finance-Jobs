@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108734065-se-ps-finance-bp-analyst) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000115892867-se-ps-finance-bp-analyst) |
 
 ## About This Role
 
-This corporate finance position at Syngenta was posted on 2026-02-11.
+This corporate finance position at Syngenta was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

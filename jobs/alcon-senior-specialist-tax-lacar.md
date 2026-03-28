@@ -5,12 +5,12 @@
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Ciudad-de-Mexico-Mexico/Senior-Specialist-Tax-LACAR_R-2025-42067) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Ciudad-de-Mexico-Mexico/Senior-Specialist-Tax-LACAR_R-2025-42065) |
 
 ## About This Role
 
-This corporate finance position at Alcon was posted on 2026-02-25.
+This corporate finance position at Alcon was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

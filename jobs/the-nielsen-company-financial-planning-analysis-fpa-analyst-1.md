@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011902776-financial-planning-analysis-fpa-analyst-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012247127-financial-planning-analysis-fpa-analyst-1) |
 
 ## About This Role
 
-This corporate finance position at The Nielsen Company was posted on 2026-02-27.
+This corporate finance position at The Nielsen Company was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

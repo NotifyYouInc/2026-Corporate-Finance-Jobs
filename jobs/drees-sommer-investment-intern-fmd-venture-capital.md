@@ -5,12 +5,12 @@
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000113766967-investment-intern-fmd-venture-capital) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000115877048-investment-intern-fmd-venture-capital) |
 
 ## About This Role
 
-This corporate finance position at Drees & Sommer was posted on 2026-03-10.
+This corporate finance position at Drees & Sommer was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

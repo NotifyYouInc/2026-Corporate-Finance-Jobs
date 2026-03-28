@@ -5,12 +5,12 @@
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Buenos-Aires-Butty/Sr-Financial-Analyst_R-112914-2) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Buenos-Aires-Butty/Sr-Financial-Analyst_R-112912-1) |
 
 ## About This Role
 
-This corporate finance position at Assurant was posted on 2026-03-13.
+This corporate finance position at Assurant was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

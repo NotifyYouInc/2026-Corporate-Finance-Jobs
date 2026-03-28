@@ -5,12 +5,12 @@
 | Company | [OceanaGold](https://scoutify.ai/companies/oceanagold?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OceanaGold/744000115757887-accounts-officer-management-accounting) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OceanaGold/744000115979027-accounts-officer-management-accounting) |
 
 ## About This Role
 
-This corporate finance position at OceanaGold was posted on 2026-03-19.
+This corporate finance position at OceanaGold was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

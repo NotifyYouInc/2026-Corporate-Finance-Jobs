@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, California, United States |
+| Location | Ponte Vedra Beach, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Dublin-Ohio---United-States/Financial-Advisor-Trainee_R-0010048) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/FL---Ponte-Vedra-Beach---814-A1A-N/Financial-Advisor-Trainee_R-0010175) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-03-17.
+This corporate finance position at Raymond James Financial was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

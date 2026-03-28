@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Waterloo, Ontario, Canada |
+| Location | Medicine Hat, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WATERLOO-Ontario-Canada/Investment-Advisor_R-0000164643) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MEDICINE-HAT-Alberta-Canada/Investment-Advisor_R-0000164784) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-19.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

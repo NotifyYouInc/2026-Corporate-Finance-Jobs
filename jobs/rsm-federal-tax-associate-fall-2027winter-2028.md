@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/Federal-Tax-Associate--Fall-2025-Winter-2026-_JR106672) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Federal-Tax-Associate--Fall-2027-Winter-2028-_JR114731) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-03-17.
+This corporate finance position at RSM was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/141603-SC-Columbia-Main-Office/Senior-Lead-Commercial-Banking-Relationship-Manager_R-529608) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/HOUSTON-TX/Senior-Lead-Commercial-Banking-Relationship-Manager_R-528803-1) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-16.
+This corporate finance position at Wells Fargo was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
