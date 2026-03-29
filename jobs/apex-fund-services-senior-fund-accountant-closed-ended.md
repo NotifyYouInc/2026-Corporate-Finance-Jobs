@@ -5,12 +5,12 @@
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad/Senior-Fund-Accountant---Closed-Ended_JR-0019172) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad/Senior-Fund-Accountant---Closed-Ended_JR-0019447) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-03-09.
+This corporate finance position at Apex Fund Services was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

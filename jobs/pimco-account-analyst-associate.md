@@ -1,16 +1,16 @@
-# HIH - Financial Analysis Advisor at Cigna
+# Account Analyst/ Associate at PIMCO
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [PIMCO](https://scoutify.ai/companies/pimco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Corporate Finance |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Financial-Analysis-Advisor_25016584) |
+| Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Munich-DEU/Account-Analyst--Associate_R106304) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-03-21.
+This corporate finance position at PIMCO was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

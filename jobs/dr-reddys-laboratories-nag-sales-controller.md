@@ -1,16 +1,16 @@
-# HIH - Financial Analysis Advisor at Cigna
+# NAG SALES CONTROLLER at Dr. Reddy's Laboratories
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Financial-Analysis-Advisor_25016584) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000116017337-nag-sales-controller) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-03-21.
+This corporate finance position at Dr. Reddy's Laboratories was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

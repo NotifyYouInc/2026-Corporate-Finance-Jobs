@@ -1,16 +1,16 @@
-# HIH - Financial Analysis Advisor at Cigna
+# Associate Director, Tax Operations at Natera
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Financial-Analysis-Advisor_25016584) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5831972004) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-03-21.
+This corporate finance position at Natera was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

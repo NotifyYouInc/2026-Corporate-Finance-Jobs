@@ -1,16 +1,16 @@
-# HIH - Financial Analysis Advisor at Cigna
+# Senior Financial Analyst - Retail (15-Month Contract) at Internal Job Board
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Internal Job Board](https://scoutify.ai/companies/internal-job-board?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Financial-Analysis-Advisor_25016584) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/internaljobsatlush/jobs/7740732) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-03-21.
+This corporate finance position at Internal Job Board was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

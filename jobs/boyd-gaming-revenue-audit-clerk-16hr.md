@@ -1,16 +1,16 @@
-# HIH - Financial Analysis Advisor at Cigna
+# Revenue Audit Clerk $16/HR at Boyd Gaming
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Northwood, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Financial-Analysis-Advisor_25016584) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012256856-revenue-audit-clerk-16hr) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-03-21.
+This corporate finance position at Boyd Gaming was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 
