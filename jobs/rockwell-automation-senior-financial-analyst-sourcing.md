@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Monterrey-Nuevo-Leon-Mexico/Senior-Financial-Analyst---Sourcing_R26-1888-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Senior-Financial-Analyst---Sourcing_R26-1404) |
 
 ## About This Role
 
-This corporate finance position at Rockwell Automation was posted on 2026-03-12.
+This corporate finance position at Rockwell Automation was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

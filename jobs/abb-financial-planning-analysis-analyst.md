@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Financial-Planning---Analysis-Analyst_JR00026415) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Financial-Planning---Analysis-Analyst_JR00029429-5) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-03-03.
+This corporate finance position at ABB was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mandaluyong City, National Capital Region, Philippines |
+| Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Shaw-Blvd-Mandaluyong-City-Metro-Manila-PHL/Treasury-Associate_R0238910) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bankerohan-Davao-City-PHL/Treasury-Associate_R0244079) |
 
 ## About This Role
 
-This corporate finance position at Fresenius Medical Care was posted on 2026-02-12.
+This corporate finance position at Fresenius Medical Care was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

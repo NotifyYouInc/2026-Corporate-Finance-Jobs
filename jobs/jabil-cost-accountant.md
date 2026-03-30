@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Maharashtra, IN |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Cost-Accountant_J2441085) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Cost-Accountant_J2443593) |
 
 ## About This Role
 
-This corporate finance position at Jabil was posted on 2026-03-03.
+This corporate finance position at Jabil was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

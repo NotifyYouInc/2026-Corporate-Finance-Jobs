@@ -5,12 +5,12 @@
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000114898438-sachbearbeiter-mwd-vorbereitende-buchhaltung) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000116109209-sachbearbeiter-mwd-vorbereitende-buchhaltung) |
 
 ## About This Role
 
-This corporate finance position at flash-security was posted on 2026-03-16.
+This corporate finance position at flash-security was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
