@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Magna, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Program-Cost-Control-Analyst---Level-2-or-3_R10223243) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Program-Cost-Control-Analyst---Level-2-or-3_R10226922) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-02-18.
+This corporate finance position at Northrop Grumman was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

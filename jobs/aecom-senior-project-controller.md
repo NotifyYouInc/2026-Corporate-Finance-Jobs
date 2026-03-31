@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Bucharest, București, Romania |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000112839626-senior-project-controller) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000116231665-senior-project-controller) |
 
 ## About This Role
 
-This corporate finance position at AECOM was posted on 2026-03-05.
+This corporate finance position at AECOM was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

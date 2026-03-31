@@ -1,16 +1,16 @@
-# Junior Associate Director/ Supervisor, Fund Accounting, Private Markets / Private Debt  at MUFG Investor Services
+# Junior Associate Director/ Supervisor, Fund Accounting, Private Markets / Private Debt at MUFG Investor Services
 
 | Field | Details |
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000111477693-junior-associate-director-supervisor-fund-accounting-private-markets-private-debt) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000116230572-junior-associate-director-supervisor-fund-accounting-private-markets-private-debt) |
 
 ## About This Role
 
-This corporate finance position at MUFG Investor Services was posted on 2026-02-25.
+This corporate finance position at MUFG Investor Services was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

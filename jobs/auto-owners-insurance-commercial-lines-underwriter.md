@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto-Owners Insurance](https://scoutify.ai/companies/aoins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tallahassee, Florida, United States |
+| Location | Lakeland, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Tallahassee-FL/Commercial-Lines-Underwriter_R_13228) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lakeland-FL/Commercial-Lines-Underwriter_R_13300-1) |
 
 ## About This Role
 
-This corporate finance position at Auto-Owners Insurance was posted on 2026-03-02.
+This corporate finance position at Auto-Owners Insurance was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

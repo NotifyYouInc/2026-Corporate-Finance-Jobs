@@ -1,16 +1,16 @@
-# Credit risk, Senior Associate at State Street
+# Credit Risk, Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/BIG---Zielinskiego-Krakow/Credit-risk--Senior-Associate_R-777379-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Credit-Risk--Senior-Associate_R-782873-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-19.
+This corporate finance position at State Street was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

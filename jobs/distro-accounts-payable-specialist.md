@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.lever.co/distro/9fcb8e4a-7977-4a4f-b48c-e592c561608e) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.lever.co/distro/ebe1a862-462d-473f-9229-06194156da9d) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-02-25.
+This corporate finance position at Distro was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

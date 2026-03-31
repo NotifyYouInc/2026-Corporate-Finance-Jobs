@@ -5,12 +5,12 @@
 | Company | [U.S. Physical Therapy](https://scoutify.ai/companies/usphysicaltherapy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Garden City, Kansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990011905276-staff-accountant) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990012274056-staff-accountant) |
 
 ## About This Role
 
-This corporate finance position at U.S. Physical Therapy was posted on 2026-02-27.
+This corporate finance position at U.S. Physical Therapy was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

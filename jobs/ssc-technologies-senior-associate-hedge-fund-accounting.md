@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Denver-CO/Senior-Associate--Hedge-Fund-Accounting_R41387) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Dallas-TX/Senior-Associate--Hedge-Fund-Accounting_R41121-1) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-03-03.
+This corporate finance position at SS&C Technologies was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

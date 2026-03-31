@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Windhoek, Khomas Region, Namibia |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Accountant_R46191-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Windhoek/Accountant_R47214-1) |
 
 ## About This Role
 
-This corporate finance position at FirstRand was posted on 2026-02-11.
+This corporate finance position at FirstRand was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

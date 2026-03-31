@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nassau, New Providence, Bahamas |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000114466457-director-of-finance) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000116259678-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-12.
+This corporate finance position at ACCOR was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FNBO](https://scoutify.ai/companies/firstnational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | Council Bluffs, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha-NE---144th--Stony-Brook-Br/Sr-Financial-Advisor_R-20260419) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Council-Bluffs-IA---Metro-Crossing/Sr-Financial-Advisor_R-20260482) |
 
 ## About This Role
 
-This corporate finance position at FNBO was posted on 2026-03-13.
+This corporate finance position at FNBO was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

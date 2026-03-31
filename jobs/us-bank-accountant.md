@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Accountant_2026-0005693-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Accountant_2026-0007075) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-12.
+This corporate finance position at U.S. Bank was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

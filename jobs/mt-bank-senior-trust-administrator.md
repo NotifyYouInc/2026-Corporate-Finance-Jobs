@@ -5,12 +5,12 @@
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Senior-Trust-Administrator_R83210-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Senior-Trust-Administrator_R81943-2) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-02-25.
+This corporate finance position at M&T Bank was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

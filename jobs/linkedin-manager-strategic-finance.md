@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000114484058-manager-strategic-finance) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116288327-manager-strategic-finance) |
 
 ## About This Role
 
-This corporate finance position at LinkedIn was posted on 2026-03-12.
+This corporate finance position at LinkedIn was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

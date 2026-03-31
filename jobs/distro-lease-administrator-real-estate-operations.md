@@ -5,12 +5,12 @@
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.lever.co/distro/56e03221-3bdb-44d3-9ee0-80de14139de8) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.lever.co/distro/99ef9d1d-e536-4e70-ac52-a9353933bae1) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-02-18.
+This corporate finance position at Distro was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

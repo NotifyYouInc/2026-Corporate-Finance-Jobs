@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Meyrin, Geneva, Switzerland |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/SEOUL/Finance-Controller_JR126217-2) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Finance-Controller_JR126833) |
 
 ## About This Role
 
-This corporate finance position at Richemont was posted on 2026-03-10.
+This corporate finance position at Richemont was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

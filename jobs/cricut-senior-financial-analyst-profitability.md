@@ -5,12 +5,12 @@
 | Company | [Cricut](https://scoutify.ai/companies/cricut?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | South Jordan, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cricut/744000113276628-senior-financial-analyst-profitability) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cricut/744000116253594-senior-financial-analyst-profitability) |
 
 ## About This Role
 
-This corporate finance position at Cricut was posted on 2026-03-06.
+This corporate finance position at Cricut was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

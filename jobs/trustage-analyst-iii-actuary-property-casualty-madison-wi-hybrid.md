@@ -5,12 +5,12 @@
 | Company | [TruStage](https://scoutify.ai/companies/trustage?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Madison, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/Analyst-III--Actuary---Property---Casualty--Madison--WI---Hybrid-_R-011704-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/Analyst-III--Actuary---Property---Casualty--Madison--WI---Hybrid-_R-011779) |
 
 ## About This Role
 
-This corporate finance position at TruStage was posted on 2026-02-25.
+This corporate finance position at TruStage was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ontario, CA |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000114044775-accounting-analyst-temporary-position) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000116228424-accounting-analyst-temporary-position) |
 
 ## About This Role
 
-This corporate finance position at The Wonderful Company was posted on 2026-03-11.
+This corporate finance position at The Wonderful Company was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

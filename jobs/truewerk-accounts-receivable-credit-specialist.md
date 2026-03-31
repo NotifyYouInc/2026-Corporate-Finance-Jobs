@@ -5,12 +5,12 @@
 | Company | [Truewerk](https://scoutify.ai/companies/truewerk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Truewerk/744000111950326-accounts-receivable-credit-specialist) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Truewerk/744000116227106-accounts-receivable-credit-specialist) |
 
 ## About This Role
 
-This corporate finance position at Truewerk was posted on 2026-02-28.
+This corporate finance position at Truewerk was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

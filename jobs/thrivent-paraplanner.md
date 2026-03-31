@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rochester, New York, United States |
+| Location | Sioux City, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Rochester/Paraplanner_REQ-46298-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/IA---Sioux-City/Paraplanner_REQ-46452-1) |
 
 ## About This Role
 
-This corporate finance position at Thrivent was posted on 2026-03-10.
+This corporate finance position at Thrivent was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

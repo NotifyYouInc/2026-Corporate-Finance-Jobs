@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lancaster, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000115542227-senior-forecasting-financial-analyst-must-current-reside-in-pa) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000116227867-senior-forecasting-financial-analyst-must-current-reside-in-pa) |
 
 ## About This Role
 
-This corporate finance position at Eurofins Scientific was posted on 2026-03-18.
+This corporate finance position at Eurofins Scientific was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

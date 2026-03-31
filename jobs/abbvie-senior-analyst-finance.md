@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Worcester, Massachusetts, United States |
+| Location | North Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012138786-senior-analyst-finance) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012265986-senior-analyst-finance) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-13.
+This corporate finance position at AbbVie was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

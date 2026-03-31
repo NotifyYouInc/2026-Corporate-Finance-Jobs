@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crane Co.](https://scoutify.ai/companies/cranecompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Spartanburg, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Chandler-Arizona/Cost-Accountant_JR101010) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Cost-Accountant_JR101290) |
 
 ## About This Role
 
-This corporate finance position at Crane Co. was posted on 2026-02-18.
+This corporate finance position at Crane Co. was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

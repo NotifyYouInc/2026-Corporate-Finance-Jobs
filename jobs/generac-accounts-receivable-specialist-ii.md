@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Waukesha, Wisconsin, United States |
+| Location | Wisconsin, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Accounts-Receivable-Specialist-II_JR12878) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Sussex-WI---USA/Accounts-Receivable-Specialist-II_JR13231-1) |
 
 ## About This Role
 
-This corporate finance position at Generac was posted on 2026-03-06.
+This corporate finance position at Generac was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

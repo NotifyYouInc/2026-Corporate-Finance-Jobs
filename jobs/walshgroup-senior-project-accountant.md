@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WalshGroup](https://scoutify.ai/companies/walshgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Lexington, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/MA_Boston_826103/Senior-Project-Accountant_JR13487) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/KY_Lexington-fayette_224097/Senior-Project-Accountant_JR13983) |
 
 ## About This Role
 
-This corporate finance position at WalshGroup was posted on 2026-02-05.
+This corporate finance position at WalshGroup was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

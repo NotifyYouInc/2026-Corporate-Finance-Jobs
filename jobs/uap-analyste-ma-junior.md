@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000109234796-analyste-ma-junior) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000116255887-analyste-ma-junior) |
 
 ## About This Role
 
-This corporate finance position at UAP was posted on 2026-02-13.
+This corporate finance position at UAP was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
