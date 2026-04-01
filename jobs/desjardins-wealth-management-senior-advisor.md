@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vaudreuil-Dorion, Quebec, Canada |
+| Location | Quebec, CA |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Vaudreuil-Dorion/Conseiller-principal-ou-conseillre-principale-en-gestion-de-patrimoine_R2603014) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Conseiller-principal-ou-conseillre-principale-en-gestion-de-patrimoine_R2604213) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-02-27.
+This corporate finance position at Desjardins was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

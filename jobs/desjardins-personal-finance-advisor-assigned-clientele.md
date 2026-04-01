@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Laval, Quebec, Canada |
+| Location | Quebec, CA |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Laval/Conseiller-ou-conseillre--Dveloppement-hypothcaire_R2602999) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lle-Perrot/Conseiller-ou-conseillre--Conseiller-ou-conseillre--Finances-personnelles_R2604035) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-02-27.
+This corporate finance position at Desjardins was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

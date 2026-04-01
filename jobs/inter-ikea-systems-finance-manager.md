@@ -5,12 +5,12 @@
 | Company | [Inter Ikea Systems](https://scoutify.ai/companies/interikeasystems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nantong, Jiangsu, China |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000114887627-finance-manager) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000116537347-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at Inter Ikea Systems was posted on 2026-03-16.
+This corporate finance position at Inter Ikea Systems was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

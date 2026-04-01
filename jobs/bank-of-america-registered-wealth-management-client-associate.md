@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Southlake, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/Registered-Wealth-Management-Client-Associate_26008707) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Southlake/Registered-Wealth-Management-Client-Associate_26011348-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-17.
+This corporate finance position at Bank of America was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

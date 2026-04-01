@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Nova Scotia, CA |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Vancouver-BC-CAN/Client-Service-Associate_R260007166) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Antigonish-NS-CAN/Client-Service-Associate_R260009192) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-03-04.
+This corporate finance position at Bank of Montreal was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Mutual-Fund-Tax-Accountant_2026-0004458) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Mutual-Fund-Tax-Accountant_2026-0006744) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-02-26.
+This corporate finance position at U.S. Bank was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

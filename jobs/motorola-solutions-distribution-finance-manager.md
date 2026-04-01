@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Distribution-Finance-Manager_R61422) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Distribution-Finance-Manager_R63006) |
 
 ## About This Role
 
-This corporate finance position at Motorola Solutions was posted on 2026-02-03.
+This corporate finance position at Motorola Solutions was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto-Owners Insurance](https://scoutify.ai/companies/aoins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lakeland, Florida, United States |
+| Location | Minnesota, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lakeland-FL/Commercial-Lines-Underwriter_R_13300-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lake-Elmo-MN/Commercial-Lines-Underwriter_R_13376) |
 
 ## About This Role
 
-This corporate finance position at Auto-Owners Insurance was posted on 2026-03-23.
+This corporate finance position at Auto-Owners Insurance was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

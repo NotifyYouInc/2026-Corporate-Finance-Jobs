@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brazil |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-So-Paulo-So-Paulo/Accounting-Manager_JREQ198371) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Accounting-Manager_JREQ199117) |
 
 ## About This Role
 
-This corporate finance position at Thomson Reuters was posted on 2026-02-25.
+This corporate finance position at Thomson Reuters was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

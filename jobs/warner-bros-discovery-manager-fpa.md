@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Shanghai-Office---Jingan-District/Manager--FP-A_R000101788) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/Manager--FP-A_R000104048) |
 
 ## About This Role
 
-This corporate finance position at Warner Bros Discovery was posted on 2026-02-06.
+This corporate finance position at Warner Bros Discovery was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

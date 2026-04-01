@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000112786517-intern-en-contabilidad) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000116451037-intern-en-contabilidad) |
 
 ## About This Role
 
-This corporate finance position at Aumovio was posted on 2026-03-04.
+This corporate finance position at Aumovio was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

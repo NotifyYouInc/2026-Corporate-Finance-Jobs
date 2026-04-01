@@ -5,12 +5,12 @@
 | Company | [Mom's Meals](https://scoutify.ai/companies/momsmeals?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ankeny, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.lever.co/momsmeals/d5f38fa8-71db-43a9-b559-ac29ac9979c1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.lever.co/momsmeals/6482b0e4-b650-4ae5-88b9-aaea741d89f5) |
 
 ## About This Role
 
-This corporate finance position at Mom's Meals was posted on 2026-03-06.
+This corporate finance position at Mom's Meals was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

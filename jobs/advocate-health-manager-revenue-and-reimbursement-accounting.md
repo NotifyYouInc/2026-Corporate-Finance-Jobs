@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | Arkansas, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/AAO-Milwaukee---750-W-Virginia-St/Manager--Revenue-and-Reimbursement-Accounting_R219280) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Remote/Manager--Revenue-and-Reimbursement-Accounting_R225339) |
 
 ## About This Role
 
-This corporate finance position at Advocate Health was posted on 2026-03-11.
+This corporate finance position at Advocate Health was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

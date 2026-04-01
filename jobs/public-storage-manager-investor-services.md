@@ -5,12 +5,12 @@
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000116289718-manager-investor-services) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000116504045-manager-investor-services) |
 
 ## About This Role
 
-This corporate finance position at Public Storage was posted on 2026-03-23.
+This corporate finance position at Public Storage was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

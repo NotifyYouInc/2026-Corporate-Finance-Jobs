@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000110389174-head-of-technical-accounting) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000116437767-head-of-technical-accounting) |
 
 ## About This Role
 
-This corporate finance position at Entain was posted on 2026-02-20.
+This corporate finance position at Entain was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

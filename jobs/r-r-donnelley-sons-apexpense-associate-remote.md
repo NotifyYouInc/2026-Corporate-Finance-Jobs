@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
+| Location | Wheeling, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000115896026-apexpense-associate-remote) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000116447012-apexpense-associate-remote) |
 
 ## About This Role
 
-This corporate finance position at R R Donnelley & Sons was posted on 2026-03-20.
+This corporate finance position at R R Donnelley & Sons was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

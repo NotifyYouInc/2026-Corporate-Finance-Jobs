@@ -5,12 +5,12 @@
 | Company | [Ohiohealth](https://scoutify.ai/companies/ohiohealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ohio, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ohiohealth.wd5.myworkdayjobs.com/ohiohealthjobs/job/WORK-AT-HOME---OHIO/A-R-Specialist_JR146152) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://ohiohealth.wd5.myworkdayjobs.com/ohiohealthjobs/job/WORK-AT-HOME---OHIO/A-R-Specialist_JR145010) |
 
 ## About This Role
 
-This corporate finance position at Ohiohealth was posted on 2026-02-27.
+This corporate finance position at Ohiohealth was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

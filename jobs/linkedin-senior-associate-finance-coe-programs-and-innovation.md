@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116288012-senior-associate-finance-coe-programs-and-innovation) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116460228-senior-associate-finance-coe-programs-and-innovation) |
 
 ## About This Role
 
-This corporate finance position at LinkedIn was posted on 2026-03-23.
+This corporate finance position at LinkedIn was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

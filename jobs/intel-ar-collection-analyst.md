@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Penang, MY |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AR-Collection-Analyst_JR0281776) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/AR-Collection-Analyst_JR0282353) |
 
 ## About This Role
 
-This corporate finance position at Intel was posted on 2026-03-10.
+This corporate finance position at Intel was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

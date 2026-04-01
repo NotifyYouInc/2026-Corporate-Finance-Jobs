@@ -5,12 +5,12 @@
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Quezon-City/Actuarial-Assistant_JR26031571) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Quezon-City/Actuarial-Assistant_JR25070482-2) |
 
 ## About This Role
 
-This corporate finance position at Manulife was posted on 2026-03-23.
+This corporate finance position at Manulife was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

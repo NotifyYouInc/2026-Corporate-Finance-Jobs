@@ -5,12 +5,12 @@
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000112505692-analista-de-control-de-gestion) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000116466736-analista-de-control-de-gestion) |
 
 ## About This Role
 
-This corporate finance position at Coface was posted on 2026-03-03.
+This corporate finance position at Coface was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

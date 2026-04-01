@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia-USA/Senior-Financial-Analyst--Capital-Markets--Multifamily-_R303649) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/New-York-New-York-USA/Senior-Financial-Analyst--Capital-Markets--Multifamily-_R312194) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-02-10.
+This corporate finance position at Cushman & Wakefield was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

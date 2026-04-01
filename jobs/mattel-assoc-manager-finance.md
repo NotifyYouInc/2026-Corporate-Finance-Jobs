@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000116299597-assoc-manager-finance) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000116461967-assoc-manager-finance) |
 
 ## About This Role
 
-This corporate finance position at Mattel was posted on 2026-03-23.
+This corporate finance position at Mattel was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
