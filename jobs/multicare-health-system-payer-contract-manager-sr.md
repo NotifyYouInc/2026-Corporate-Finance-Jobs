@@ -5,12 +5,12 @@
 | Company | [MultiCare Health System](https://scoutify.ai/companies/multicare-health-system?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Payer-Contract-Manager-Sr_JR71718) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Payer-Contract-Manager-Sr_JR72950-1) |
 
 ## About This Role
 
-This corporate finance position at MultiCare Health System was posted on 2026-03-17.
+This corporate finance position at MultiCare Health System was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

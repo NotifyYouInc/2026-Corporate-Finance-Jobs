@@ -5,12 +5,12 @@
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Melbourne-Victoria/Tax-Accountant_JR102548) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Melbourne-Victoria/Tax-Accountant_JR102660-1) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-02-17.
+This corporate finance position at Bdo was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

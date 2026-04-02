@@ -5,12 +5,12 @@
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Transaction-Manager_R47249) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Transaction-Manager_R48119) |
 
 ## About This Role
 
-This corporate finance position at FirstRand was posted on 2026-03-05.
+This corporate finance position at FirstRand was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

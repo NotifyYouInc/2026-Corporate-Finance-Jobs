@@ -1,16 +1,16 @@
-# Senior Financial Analyst  at Aumovio
+# Senior Financial Analyst at Aumovio
 
 | Field | Details |
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
+| Location | Auburn Hills, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000112261537-senior-financial-analyst) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000116662747-senior-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Aumovio was posted on 2026-03-02.
+This corporate finance position at Aumovio was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Missouri, US |
+| Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Client-Accountant_R308887-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IRL---Dublin---2-Cumberland-Place/Client-Accountant_R312364) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-03-04.
+This corporate finance position at Cushman & Wakefield was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

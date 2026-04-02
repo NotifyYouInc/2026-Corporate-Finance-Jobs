@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Hollywood, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000110395046-manager-accounting-reporting) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116717543-manager-accounting-reporting) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-02-20.
+This corporate finance position at NBCUniversal was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

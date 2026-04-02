@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Washington, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/PACS/AR-Resource_JR163628) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---Washington/AR-Resource_JR165348) |
 
 ## About This Role
 
-This corporate finance position at Pacs was posted on 2026-03-06.
+This corporate finance position at Pacs was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

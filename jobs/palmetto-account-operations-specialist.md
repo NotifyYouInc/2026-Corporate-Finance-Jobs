@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Palmetto](https://scoutify.ai/companies/palmetto?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5124871008) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5166350008) |
 
 ## About This Role
 
-This corporate finance position at Palmetto was posted on 2026-02-18.
+This corporate finance position at Palmetto was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---PUNE-I-GLOBAL-BUSINESS-SERVICES---GBS-INUNE/F-A-Senior-Admin-Assistant_R26007929) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---PUNE-III-GLOBAL-BUSINESS-SVCS---GBS-INMHH/F-A-Senior-Admin-Assistant_R26001406) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-03-12.
+This corporate finance position at United Parcel Service (UPS) was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, CA |
+| Location | Kingston, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERTH-Ontario-Canada/Financial-Planner--Investment---Retirement-Planning_R-0000165054-2) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/KINGSTON-Ontario-Canada/Financial-Planner--Investment---Retirement-Planning_R-0000165371-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-23.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

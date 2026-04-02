@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Campinas, São Paulo, Brazil |
+| Location | Itu, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CAMPINAS/Espec-Clientes-Select-High_Req1555145-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/ITU/Espec-Clientes-Select-High_Req1554471-1) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-03-24.
+This corporate finance position at Santander was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

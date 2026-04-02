@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Graybar](https://scoutify.ai/companies/graybar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chesterfield, Missouri, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Corporate-Chesterfield-MO/Pricing-Specialist_R260322-2) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Dallas-TX/Pricing-Specialist_R260860) |
 
 ## About This Role
 
-This corporate finance position at Graybar was posted on 2026-02-19.
+This corporate finance position at Graybar was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

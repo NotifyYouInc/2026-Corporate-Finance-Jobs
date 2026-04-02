@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | Corporate Finance |
 | Posted | 2026-03-25 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Accounting-Analyst_JREQ199119-1) |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Poland-Gdansk/Accounting-Analyst_JREQ199121) |
 
 ## About This Role
 

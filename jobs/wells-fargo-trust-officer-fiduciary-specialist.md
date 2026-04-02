@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Long Beach, California, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LONG-BEACH-CA/Trust-Officer---Fiduciary-Specialist_R-526711) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PHILADELPHIA-PA/Trust-Officer---Fiduciary-Specialist_R-532223) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-20.
+This corporate finance position at Wells Fargo was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

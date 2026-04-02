@@ -5,12 +5,12 @@
 | Company | [Jacobs Douwe Egberts](https://scoutify.ai/companies/jacobsdouweegberts?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Barueri, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000116278058-analista-planejamento-fin-sr) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000116703877-analista-planejamento-fin-sr) |
 
 ## About This Role
 
-This corporate finance position at Jacobs Douwe Egberts was posted on 2026-03-23.
+This corporate finance position at Jacobs Douwe Egberts was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

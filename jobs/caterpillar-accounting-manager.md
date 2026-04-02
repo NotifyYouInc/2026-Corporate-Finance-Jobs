@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Irving, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangkok-Thailand/Accounting-Manager_R0000355965) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Accounting-Manager_R0000359493) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-12.
+This corporate finance position at Caterpillar was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

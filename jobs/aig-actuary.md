@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Sao-Paulo/Actuary_JR2600028-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Hong-Kong/Actuary_JR2601022) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-03-09.
+This corporate finance position at AIG was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

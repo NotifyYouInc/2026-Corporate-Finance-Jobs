@@ -5,12 +5,12 @@
 | Company | [KPFF Consulting Engineers](https://scoutify.ai/companies/kpffconsultingengineers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990011744176-project-accountant) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990012318576-project-accountant) |
 
 ## About This Role
 
-This corporate finance position at KPFF Consulting Engineers was posted on 2026-02-18.
+This corporate finance position at KPFF Consulting Engineers was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

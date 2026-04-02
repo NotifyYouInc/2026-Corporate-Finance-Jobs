@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stonebridge Companies](https://scoutify.ai/companies/sbcos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Bridgewater, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/The-Jacquard-Hotel--Rooftop---Cherry-Creek/Controller_R0029548) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Bridgewater-Marriott---New-Jersey/Controller_R0030238) |
 
 ## About This Role
 
-This corporate finance position at Stonebridge Companies was posted on 2026-02-16.
+This corporate finance position at Stonebridge Companies was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

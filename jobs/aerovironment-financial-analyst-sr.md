@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Moorpark, California, United States |
+| Location | Sunrise, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Financial-Analyst--Sr_6839-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/1613-NW-136th-Avenue-Sunrise-FL/Financial-Analyst--Sr_7271) |
 
 ## About This Role
 
-This corporate finance position at AeroVironment was posted on 2026-03-03.
+This corporate finance position at AeroVironment was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

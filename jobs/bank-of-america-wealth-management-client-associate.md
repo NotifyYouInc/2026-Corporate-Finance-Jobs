@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ann Arbor, Michigan, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Ann-Arbor/Wealth-Management-Client-Associate_26010183-2) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Los-Angeles/Wealth-Management-Client-Associate_26011304) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-18.
+This corporate finance position at Bank of America was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

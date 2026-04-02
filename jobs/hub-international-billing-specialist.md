@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Waukesha, Wisconsin, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Waukesha-WI/Billing-Specialist_R0034785) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Kansas-City--MO/Billing-Specialist_R0035264) |
 
 ## About This Role
 
-This corporate finance position at HUB International was posted on 2026-02-25.
+This corporate finance position at HUB International was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

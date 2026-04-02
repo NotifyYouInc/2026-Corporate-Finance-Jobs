@@ -5,12 +5,12 @@
 | Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santa Fe, New Mexico, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000116492347-dealership-controller-toyota-of-santa-fe) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000116710443-dealership-controller-toyota-of-santa-fe) |
 
 ## About This Role
 
-This corporate finance position at Sonic Automotive was posted on 2026-03-24.
+This corporate finance position at Sonic Automotive was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
