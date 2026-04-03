@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pearl, Mississippi, United States |
+| Location | Hazelwood, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Pearl-MS/Staff-Accountant_JR0000041724) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Hazelwood-MO/Staff-Accounting_JR0000042023) |
 
 ## About This Role
 
-This corporate finance position at Marmon Holdings was posted on 2026-03-13.
+This corporate finance position at Marmon Holdings was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

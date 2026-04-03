@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kelantan, MY |
+| Location | Johor, MY |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Kelantan/Paid-Dealer-s-Representative_JR005187) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Johor/Paid-Dealer-s-Representative_JR005488) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-03-11.
+This corporate finance position at RHB was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

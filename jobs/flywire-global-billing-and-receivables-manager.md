@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000116478547-global-billing-and-receivables-manager) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000117066964-global-billing-and-receivables-manager) |
 
 ## About This Role
 
-This corporate finance position at Flywire was posted on 2026-03-24.
+This corporate finance position at Flywire was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

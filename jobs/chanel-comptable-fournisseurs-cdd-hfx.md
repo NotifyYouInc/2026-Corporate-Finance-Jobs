@@ -5,12 +5,12 @@
 | Company | [Chanel](https://scoutify.ai/companies/cc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Comptable-Fournisseurs---CDD---H-F-X_JOBREQ00110843) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/COMPTABLE-Fournisseurs---CDD---H-F-X_JOBREQ00111328) |
 
 ## About This Role
 
-This corporate finance position at Chanel was posted on 2026-03-12.
+This corporate finance position at Chanel was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Accounts-Receivable-Manager---Cigna-Healthcare---Remote_26001573) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Accounts-Receivable-Manager---Cigna-Healthcare---Remote_26003615) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-02-24.
+This corporate finance position at Cigna was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

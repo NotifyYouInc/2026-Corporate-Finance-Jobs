@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Dublin, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Credit-Advisor_20176080) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Credit-Advisor_20175343) |
 
 ## About This Role
 
-This corporate finance position at Cardinal Health was posted on 2026-02-23.
+This corporate finance position at Cardinal Health was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

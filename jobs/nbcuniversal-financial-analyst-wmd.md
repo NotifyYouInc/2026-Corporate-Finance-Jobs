@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Germany |
+| Location | Frankfurt am Main, Hesse, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000110017505-financial-analyst-wmd) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116999125-financial-analyst-wmd) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-02-18.
+This corporate finance position at NBCUniversal was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

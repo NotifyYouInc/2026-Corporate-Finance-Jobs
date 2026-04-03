@@ -5,12 +5,12 @@
 | Company | [Griffith Foods](https://scoutify.ai/companies/griffith-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Alsip, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://griffithfoods.wd12.myworkdayjobs.com/external/job/Supply-Chain-Finance-Analyst---GFAL_JR101117) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://griffithfoods.wd12.myworkdayjobs.com/external/job/Lithonia/Supply-Chain-Finance-Analyst_JR101601) |
 
 ## About This Role
 
-This corporate finance position at Griffith Foods was posted on 2026-02-26.
+This corporate finance position at Griffith Foods was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

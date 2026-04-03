@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Alberta, CA |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ottawa-Ontario/Revenue-Accounting-Manager_R0040393) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Revenue-Accounting-Manager_R0040650) |
 
 ## About This Role
 
-This corporate finance position at Harris Computer was posted on 2026-03-10.
+This corporate finance position at Harris Computer was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

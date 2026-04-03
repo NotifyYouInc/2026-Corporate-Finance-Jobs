@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Michigan, US |
+| Location | Germany |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Holly-Michigan-US/Financial-Analyst_R00232232) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Collesalvetti-IT/Financial-Analyst_R00230378-1) |
 
 ## About This Role
 
-This corporate finance position at Magna was posted on 2026-02-27.
+This corporate finance position at Magna was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

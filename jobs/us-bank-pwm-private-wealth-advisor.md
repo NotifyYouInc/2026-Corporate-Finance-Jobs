@@ -1,16 +1,16 @@
-# PWM Private Wealth Advisor at U.S. Bank
+# PWM  Private Wealth Advisor at U.S. Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | Beverly Hills, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irvine-CA/PWM-Private-Wealth-Advisor_2026-0005851) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Beverly-Hills-CA/PWM--Private-Wealth-Advisor_2025-0028695-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-16.
+This corporate finance position at U.S. Bank was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

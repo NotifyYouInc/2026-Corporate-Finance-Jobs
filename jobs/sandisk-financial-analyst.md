@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000109056535-financial-analyst) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000117059967-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at SanDisk was posted on 2026-02-12.
+This corporate finance position at SanDisk was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

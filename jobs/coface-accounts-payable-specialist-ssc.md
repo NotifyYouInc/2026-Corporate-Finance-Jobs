@@ -5,12 +5,12 @@
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000110398285-accounts-payable-specialist-ssc) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000117013070-accounts-payable-specialist-ssc) |
 
 ## About This Role
 
-This corporate finance position at Coface was posted on 2026-02-20.
+This corporate finance position at Coface was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

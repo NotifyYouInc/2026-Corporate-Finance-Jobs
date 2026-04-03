@@ -5,12 +5,12 @@
 | Company | [Texas Roadhouse](https://scoutify.ai/companies/texas-roadhouse?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Louisville, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://texasroadhouse.wd12.myworkdayjobs.com/externaljobboard/job/Support-Center/Accountant-Accounts-Payable_JR003553) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://texasroadhouse.wd12.myworkdayjobs.com/externaljobboard/job/Support-Center/Accountant-Accounts-Payable_JR003581) |
 
 ## About This Role
 
-This corporate finance position at Texas Roadhouse was posted on 2026-03-20.
+This corporate finance position at Texas Roadhouse was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

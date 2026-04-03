@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clipboard](https://scoutify.ai/companies/clipboard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clipboard/d7bddc1d-c70e-4cd3-a69c-0753c77437b8) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clipboard/efdb6091-3578-4dc6-bd4b-2d47799d8578) |
 
 ## About This Role
 
-This corporate finance position at Clipboard was posted on 2026-03-25.
+This corporate finance position at Clipboard was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

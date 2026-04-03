@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000115270543-head-of-team-lead-accounting-mfx) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000117001483-head-of-team-lead-accounting-mfx) |
 
 ## About This Role
 
-This corporate finance position at Scalable Capital was posted on 2026-03-17.
+This corporate finance position at Scalable Capital was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

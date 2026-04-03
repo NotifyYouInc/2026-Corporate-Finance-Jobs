@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/MEX03-01-Mexico-City-SAMARA/Finance-Intern_R4030439-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Monterrey/Finance-Intern_R4037428-1) |
 
 ## About This Role
 
-This corporate finance position at GE HealthCare was posted on 2026-03-04.
+This corporate finance position at GE HealthCare was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

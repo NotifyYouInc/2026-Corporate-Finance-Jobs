@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vero Beach, Florida, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Vero-Beach-32963/Senior-Relationship-Strategist---PNC-Private-Bank_R215451-2) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Philadelphia-19103/Senior-Relationship-Strategist---PNC-Private-Bank_R215514-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-24.
+This corporate finance position at PNC Financial was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

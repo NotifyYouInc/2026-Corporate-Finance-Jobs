@@ -5,12 +5,12 @@
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bracknell, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000114674476-invoicing-analyst) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000117111231-invoicing-analyst) |
 
 ## About This Role
 
-This corporate finance position at Allegis Global Solutions was posted on 2026-03-13.
+This corporate finance position at Allegis Global Solutions was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

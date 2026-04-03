@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Foreign-Exchange-Specialist_R-0000164981-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Premier-cambiste_R-0000164986) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-25.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

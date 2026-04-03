@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000109997526-cash-and-treasury-manager) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000117030027-cash-and-treasury-manager) |
 
 ## About This Role
 
-This corporate finance position at ASOS was posted on 2026-02-18.
+This corporate finance position at ASOS was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Villanueva, Cortés Department, Honduras |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000115948380-joven-profesional-finanzas) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000117095140-joven-profesional-finanzas) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-03-20.
+This corporate finance position at Louis Dreyfus was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

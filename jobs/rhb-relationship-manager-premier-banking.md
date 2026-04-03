@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Perak, MY |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Perak/Relationship-Manager--Premier-Banking_JR005363) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Kuala-Lumpur/Relationship-Manager--Premier-Banking_JR005481) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-03-13.
+This corporate finance position at RHB was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

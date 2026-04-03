@@ -1,16 +1,16 @@
-# Portfolio Manager, Investment Management at Associated Bank
+# Portfolio Manager - Investment Management at Associated Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Associated Bank](https://scoutify.ai/companies/associatedbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Green Bay, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Rochester-206-Broadway/Portfolio-Manager--Investment-Management_JR104798) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Green-Bay-200-Adams/Portfolio-Manager---Investment-Management_JR104900-1) |
 
 ## About This Role
 
-This corporate finance position at Associated Bank was posted on 2026-03-16.
+This corporate finance position at Associated Bank was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

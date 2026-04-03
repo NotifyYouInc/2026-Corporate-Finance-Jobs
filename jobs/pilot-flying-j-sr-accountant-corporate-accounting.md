@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Knoxville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000116669367-sr-accountant-corporate-accounting) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000117040197-sr-accountant-corporate-accounting) |
 
 ## About This Role
 
-This corporate finance position at Pilot Flying J was posted on 2026-03-25.
+This corporate finance position at Pilot Flying J was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

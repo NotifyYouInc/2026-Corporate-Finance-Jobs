@@ -1,16 +1,16 @@
-# Financial Planner Investment and Retirement Planning at Royal Bank of Canada
+# Financial Planner, Investment and Retirement Planning at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edmonton, Alberta, Canada |
+| Location | Hamilton, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/EDMONTON-Alberta-Canada/Financial-Planner-Investment-and-Retirement-Planning_R-0000164173) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HAMILTON-Ontario-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000164852) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-18.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

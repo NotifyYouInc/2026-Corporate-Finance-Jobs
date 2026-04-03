@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Walnut Creek, California, United States |
+| Location | Temecula, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Walnut-Creek-Subaru-Walnut-Creek-CA-94597/Dealership-Accounting-Coordinator-I_R105105) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Temecula-APC-Temecula-CA-92591/Dealership-Accounting-Coordinator-I_R105602) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-03-18.
+This corporate finance position at Lithia Motors was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Somerville, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Billing-Representative-II_RQ4053060) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Billing-Representative-II_RQ4057231) |
 
 ## About This Role
 
-This corporate finance position at Mass General Brigham was posted on 2026-02-26.
+This corporate finance position at Mass General Brigham was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

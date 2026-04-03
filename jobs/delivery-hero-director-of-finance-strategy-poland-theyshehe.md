@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000116709245-director-of-finance-strategy-poland-theyshehe) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000117054397-director-of-finance-strategy-poland-theyshehe) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-03-25.
+This corporate finance position at Delivery Hero was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

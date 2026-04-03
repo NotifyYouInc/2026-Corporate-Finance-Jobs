@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crusoe](https://scoutify.ai/companies/crusoe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/278d4e55-c6d9-4f4c-b0fb-443729b3eba5) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/51da10c8-7fb8-42a6-a995-1be2318223f1) |
 
 ## About This Role
 
-This corporate finance position at Crusoe was posted on 2026-03-24.
+This corporate finance position at Crusoe was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

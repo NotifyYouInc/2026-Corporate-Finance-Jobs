@@ -5,12 +5,12 @@
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bogota-Colombia/Financial-Control-Analyst_JR1124210) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bogota-Colombia/Financial-Control-Analyst_JR1124193) |
 
 ## About This Role
 
-This corporate finance position at Diageo was posted on 2026-03-20.
+This corporate finance position at Diageo was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

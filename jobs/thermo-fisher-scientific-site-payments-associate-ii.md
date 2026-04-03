@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Site-Payments-Associate-II_R-01339914) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/P-4020716-Trial-Patient-Payment-Associate-II_R-01346781-1) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-02-24.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

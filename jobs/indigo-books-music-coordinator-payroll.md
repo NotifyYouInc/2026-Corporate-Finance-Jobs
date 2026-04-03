@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Indigo Books & Music](https://scoutify.ai/companies/indigobooksmusic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Brampton, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000116254337-coordinator-payroll) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000117037938-coordinator-payroll) |
 
 ## About This Role
 
-This corporate finance position at Indigo Books & Music was posted on 2026-03-23.
+This corporate finance position at Indigo Books & Music was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

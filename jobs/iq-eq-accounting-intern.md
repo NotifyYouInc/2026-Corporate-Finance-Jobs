@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000112588467-accounting-intern) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000117207577-accounting-intern) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-03-04.
+This corporate finance position at IQ-EQ was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

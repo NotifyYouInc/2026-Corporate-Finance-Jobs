@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Vice-President----TS9497510-_R0430209) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Vice-President----TS9497510-_R0431023-1) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-03-20.
+This corporate finance position at Deutsche Bank was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

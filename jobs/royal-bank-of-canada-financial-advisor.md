@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Winnipeg, Manitoba, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WINNIPEG-Manitoba-Canada/Financial-Advisor_R-0000164849) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WINNIPEG-Manitoba-Canada/Financial-Advisor_R-0000165259) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-20.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
