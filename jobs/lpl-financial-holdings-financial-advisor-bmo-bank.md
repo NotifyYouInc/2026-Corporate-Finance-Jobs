@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Des Moines, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/San-Francisco-CA/Financial-Advisor---BMO-Bank_R-049541-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Des-Moines-IA/Financial-Advisor---BMO-Bank_R-049700-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-03-17.
+This corporate finance position at LPL Financial Holdings was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

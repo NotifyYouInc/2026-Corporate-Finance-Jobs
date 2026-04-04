@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vineland, New Jersey, United States |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/VINELAND-NJ/Registered-Client-Associate_R-532543) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DENVER-CO/Registered-Client-Associate_R-532470) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-25.
+This corporate finance position at Wells Fargo was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

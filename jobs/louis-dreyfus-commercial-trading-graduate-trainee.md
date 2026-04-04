@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000115945998-commercial-trading-graduate-trainee) |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000117443757-commercial-trading-graduate-trainee) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-03-20.
+This corporate finance position at Louis Dreyfus was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

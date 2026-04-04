@@ -1,16 +1,16 @@
-# Associate, Strategic Finance - LinkedIn Marketing Solutions at LinkedIn
+# Associate Strategic Finance – LinkedIn Marketing Solutions  at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000111916425-associate-strategic-finance-linkedin-marketing-solutions) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000117381547-associate-strategic-finance-linkedin-marketing-solutions) |
 
 ## About This Role
 
-This corporate finance position at LinkedIn was posted on 2026-02-27.
+This corporate finance position at LinkedIn was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

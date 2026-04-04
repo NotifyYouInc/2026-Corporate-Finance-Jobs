@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsylvania, US |
+| Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000114675207-finance-intern) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000117336733-finance-intern) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-03-13.
+This corporate finance position at Veolia was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

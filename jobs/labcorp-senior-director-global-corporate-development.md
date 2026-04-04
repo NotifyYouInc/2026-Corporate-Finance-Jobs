@@ -5,12 +5,12 @@
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Burlington, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Burlington-NC/Senior-Director--Global-Corporate-Development_267691) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Burlington-NC/Senior-Director--Global-Corporate-Development_2610525) |
 
 ## About This Role
 
-This corporate finance position at Labcorp was posted on 2026-03-13.
+This corporate finance position at Labcorp was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

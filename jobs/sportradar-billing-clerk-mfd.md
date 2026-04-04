@@ -5,12 +5,12 @@
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gibraltar, Gibraltar |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000117040718-billing-clerk-mfd) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000117325327-billing-clerk-mfd) |
 
 ## About This Role
 
-This corporate finance position at Sportradar was posted on 2026-03-26.
+This corporate finance position at Sportradar was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

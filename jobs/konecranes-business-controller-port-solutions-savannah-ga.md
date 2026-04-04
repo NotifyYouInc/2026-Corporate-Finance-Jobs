@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Savannah, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000115927807-business-controller-port-solutions-savannah-ga) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000117354135-business-controller-port-solutions-savannah-ga) |
 
 ## About This Role
 
-This corporate finance position at Konecranes was posted on 2026-03-20.
+This corporate finance position at Konecranes was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

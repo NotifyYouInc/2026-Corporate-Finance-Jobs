@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Bristol, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Dublin/Accounts-Assistant_JR_10035785-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Accounts-Assistant_JR_10038540-1) |
 
 ## About This Role
 
-This corporate finance position at Ayvens was posted on 2026-03-20.
+This corporate finance position at Ayvens was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

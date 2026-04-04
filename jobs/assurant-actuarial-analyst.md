@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Barueri, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Buenos-Aires-Butty/Actuarial-Assistant_R-112920) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Barueri-Sao-Paulo/Actuarial-Analyst_R-113063-1) |
 
 ## About This Role
 
-This corporate finance position at Assurant was posted on 2026-03-23.
+This corporate finance position at Assurant was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

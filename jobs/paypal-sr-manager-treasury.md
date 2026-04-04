@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Sr-Manager--Treasury_R0135584-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Sao-Paulo-Brazil/Sr-Manager--Treasury_R0135633-1) |
 
 ## About This Role
 
-This corporate finance position at PayPal was posted on 2026-03-19.
+This corporate finance position at PayPal was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

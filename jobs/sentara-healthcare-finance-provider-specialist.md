@@ -5,12 +5,12 @@
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Virginia Beach, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Virginia-Beach-VA/Finance-Provider-Specialist_JR-94826) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Virginia-Beach-VA/Finance-Provider-Specialist_JR-96167) |
 
 ## About This Role
 
-This corporate finance position at Sentara Healthcare was posted on 2026-02-25.
+This corporate finance position at Sentara Healthcare was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Burlingame, California, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Burlingame/Accounting-Manager_JR-0021311) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Accounting-Manager_JR-0013972) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-03-25.
+This corporate finance position at Apex Fund Services was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

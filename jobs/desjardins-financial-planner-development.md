@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | Saint-Georges, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Trois-Rivires/Planificateur-financier-ou-planificatrice-financire_R2604269-2) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Saint-Georges/Planificateur--financier-ou-planificatrice-financire_R2604472) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-03-24.
+This corporate finance position at Desjardins was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

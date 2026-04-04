@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Piedmont, IT |
+| Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Santena/Finance-Trainee_REQ2026070936) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/San-Luis-Potosi/Finance-Trainee_REQ2026072329) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-02-26.
+This corporate finance position at Valeo was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

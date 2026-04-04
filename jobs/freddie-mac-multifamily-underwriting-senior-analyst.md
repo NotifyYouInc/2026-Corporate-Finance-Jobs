@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Underwriting-Senior-Analyst_JR16658) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/New-York-NY/Multifamily-Underwriting-Senior-Analyst_JR16892) |
 
 ## About This Role
 
-This corporate finance position at Freddie Mac was posted on 2026-02-20.
+This corporate finance position at Freddie Mac was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Payroll Specialist at Distro
+# Payroll specialist at Distro
 
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
+| Location | Antioquia, CO |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.lever.co/distro/f0c1bcb9-a318-4eb2-84c4-6ca6818f11bf) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.lever.co/distro/be9b82a4-7fbb-4007-a21f-b6c3d5ca58e5) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-03-20.
+This corporate finance position at Distro was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

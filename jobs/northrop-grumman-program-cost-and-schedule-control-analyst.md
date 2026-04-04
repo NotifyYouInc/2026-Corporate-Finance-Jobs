@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Palmdale, California, United States |
+| Location | Northridge, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Program-Cost-and-Schedule-Control-Analyst_R10224329) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Program-Cost-and-Schedule-Control-Analyst_R10227477) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-02-27.
+This corporate finance position at Northrop Grumman was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

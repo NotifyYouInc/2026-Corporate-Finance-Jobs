@@ -1,16 +1,16 @@
-# ALTERNANCE -  Finance Contract Admin F/H at Thales
+# ALTERNANCE  Finance Contract Admin F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gennevilliers, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Gennevilliers/ALTERNANCE----Finance-Contract-Admin-F-H_R0320614) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Gennevilliers/ALTERNANCE--Finance-Contract-Admin-F-H_R0320616) |
 
 ## About This Role
 
-This corporate finance position at Thales was posted on 2026-03-26.
+This corporate finance position at Thales was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

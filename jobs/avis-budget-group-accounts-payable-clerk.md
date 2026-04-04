@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avis Budget Group](https://scoutify.ai/companies/avisbudget?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edmonton, Alberta, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/CAN---Edmonton---9412-51-Ave/Accounts-Payable-Clerk_R0186968) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/10441-25-St-NE-Calgary-AB-T3N-0A1/Accounts-Payable-Clerk_R0187629) |
 
 ## About This Role
 
-This corporate finance position at Avis Budget Group was posted on 2026-03-05.
+This corporate finance position at Avis Budget Group was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

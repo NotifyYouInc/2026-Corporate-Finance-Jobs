@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Finance-Analyst_R000069463) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Finance-Analyst_R000070170) |
 
 ## About This Role
 
-This corporate finance position at Chevron was posted on 2026-03-09.
+This corporate finance position at Chevron was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

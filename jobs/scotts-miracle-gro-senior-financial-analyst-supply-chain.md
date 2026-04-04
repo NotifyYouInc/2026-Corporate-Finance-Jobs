@@ -1,16 +1,16 @@
-# Senior Financial Analyst (Supply Chain) at Scotts Miracle-Gro
+# Senior Financial Analyst, Supply Chain at Scotts Miracle-Gro
 
 | Field | Details |
 |-------|---------|
 | Company | [Scotts Miracle-Gro](https://scoutify.ai/companies/scotts-miracle-gro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Marysville, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/Senior-Financial-Analyst--Supply-Chain-_R24860-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/Senior-Financial-Analyst--Supply-Chain_R25358) |
 
 ## About This Role
 
-This corporate finance position at Scotts Miracle-Gro was posted on 2026-02-18.
+This corporate finance position at Scotts Miracle-Gro was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

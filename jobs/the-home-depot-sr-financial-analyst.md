@@ -1,16 +1,16 @@
-# Sr. Financial Analyst at The Home Depot
+# Sr Financial Analyst at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Financial-Analyst_Req171511-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/PENNANT-PARK-ATLANTA---9141/Sr-Financial-Analyst_Req174577) |
 
 ## About This Role
 
-This corporate finance position at The Home Depot was posted on 2026-03-06.
+This corporate finance position at The Home Depot was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

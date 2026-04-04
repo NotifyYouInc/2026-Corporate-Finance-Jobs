@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hamilton, Ontario, Canada |
+| Location | Duncan, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HAMILTON-Ontario-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000164852) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/DUNCAN-British-Columbia-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000165593) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-26.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

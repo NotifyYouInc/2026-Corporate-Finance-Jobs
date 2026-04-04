@@ -1,16 +1,16 @@
-# Senior Investment Analyst - Commercial Real Estate Finance at Northmarq
+# Senior Investment Analyst – Commercial Real Estate Finance  at Northmarq
 
 | Field | Details |
 |-------|---------|
 | Company | [Northmarq](https://scoutify.ai/companies/northmarq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5153725008) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5168549008) |
 
 ## About This Role
 
-This corporate finance position at Northmarq was posted on 2026-03-13.
+This corporate finance position at Northmarq was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
