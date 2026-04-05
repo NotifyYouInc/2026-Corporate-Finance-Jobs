@@ -1,16 +1,16 @@
-# Finance SME - General Accounting at JLL
+# Billing Specialist I at Cox
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Carmel, Indiana, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME---General-Accounting_REQ495134) |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Billing-Specialist-I_R202674590) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-28.
+This corporate finance position at Cox was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

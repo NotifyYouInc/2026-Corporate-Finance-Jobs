@@ -1,16 +1,16 @@
-# Finance SME - General Accounting at JLL
+# Senior General Accountant-1 at Copeland
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Corporate Finance |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME---General-Accounting_REQ495134) |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Monterrey-Mexico/Senior-General-Accountant-1_JR113903) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-28.
+This corporate finance position at Copeland was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

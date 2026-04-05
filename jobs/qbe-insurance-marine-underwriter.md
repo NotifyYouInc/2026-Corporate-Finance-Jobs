@@ -1,16 +1,16 @@
-# Finance SME - General Accounting at JLL
+# Marine Underwriter at QBE Insurance
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | 2 locations |
 | Category | Corporate Finance |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME---General-Accounting_REQ495134) |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Stockholm-Sweden/Marine-Underwriter_351166) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-28.
+This corporate finance position at QBE Insurance was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Finance SME - General Accounting at JLL
+# Actuary - US Programs at AIG
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | 6 locations |
 | Category | Corporate Finance |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME---General-Accounting_REQ495134) |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/Actuary---US-Programs_JR2600355) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-28.
+This corporate finance position at AIG was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

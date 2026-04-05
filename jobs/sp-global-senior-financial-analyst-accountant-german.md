@@ -1,16 +1,16 @@
-# Finance SME - General Accounting at JLL
+# Senior Financial Analyst (Accountant) - German at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Germany |
 | Category | Corporate Finance |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME---General-Accounting_REQ495134) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Frankfurt-DE/Senior-Financial-Analyst--Accountant----German_327191-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-28.
+This corporate finance position at S&P Global was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

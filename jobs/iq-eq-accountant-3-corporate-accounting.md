@@ -1,16 +1,16 @@
-# Finance SME - General Accounting at JLL
+# Accountant 3, Corporate Accounting at IQ-EQ
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Port Louis, Port Louis, Mauritius |
 | Category | Corporate Finance |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME---General-Accounting_REQ495134) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000117451627-accountant-3-corporate-accounting) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-28.
+This corporate finance position at IQ-EQ was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 
