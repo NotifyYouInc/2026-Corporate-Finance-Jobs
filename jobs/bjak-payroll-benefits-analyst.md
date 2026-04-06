@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | China |
+| Location | Palo Alto, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/fc0869fa-2e81-4390-bcba-776ff29ec394) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/1a065c24-b1bc-4043-ae16-88116868ff9c) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-03-21.
+This corporate finance position at Bjak was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

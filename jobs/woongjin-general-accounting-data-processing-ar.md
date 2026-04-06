@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | New Jersey, US |
 | Category | Corporate Finance |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117339037-general-accounting-data-processing-ar) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117413317-general-accounting-data-processing-ar) |
 
 ## About This Role
 

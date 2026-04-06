@@ -6,7 +6,7 @@
 | Location | Santa Ana, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117335428-billing-settlement-coordinator-bilingual-koreanenglish) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117413591-billing-settlement-coordinator-bilingual-koreanenglish) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000117207087-senior-accountant-fund-accounting-day-1-hmo) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000117558412-senior-accountant-fund-accounting-day-1-hmo) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-03-27.
+This corporate finance position at IQ-EQ was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

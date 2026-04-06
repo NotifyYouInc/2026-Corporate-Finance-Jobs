@@ -5,12 +5,12 @@
 | Company | [Life Time Fitness](https://scoutify.ai/companies/life-time-fitness?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://lifetime.wd1.myworkdayjobs.com/lifetime/job/Corporate-Office/Senior-Tax-Accountant_R-158311-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://lifetime.wd1.myworkdayjobs.com/lifetime/job/Corporate-Office/Senior-Tax-Accountant_R-158245) |
 
 ## About This Role
 
-This corporate finance position at Life Time Fitness was posted on 2026-03-06.
+This corporate finance position at Life Time Fitness was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

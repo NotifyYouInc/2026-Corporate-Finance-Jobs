@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Duncan, British Columbia, Canada |
+| Location | Richmond, British Columbia, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/DUNCAN-British-Columbia-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000165593) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000165264) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Interstate Batteries](https://scoutify.ai/companies/interstate-batteries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Youngstown, Ohio, United States |
+| Location | Wadsworth, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-OH-YOUNGSTOWN/Office-Associate_REQ-8769) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-OH-Wadsworth/Office-Associate_REQ-8826) |
 
 ## About This Role
 
-This corporate finance position at Interstate Batteries was posted on 2026-03-23.
+This corporate finance position at Interstate Batteries was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

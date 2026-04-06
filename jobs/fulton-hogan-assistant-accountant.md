@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fulton Hogan](https://scoutify.ai/companies/fulton-hogan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Victoria, AU |
+| Location | United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Laverton-North/Assistant-Accountant_R24338-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Mile-End/Assistant-Accountant_R24849-1) |
 
 ## About This Role
 
-This corporate finance position at Fulton Hogan was posted on 2026-02-20.
+This corporate finance position at Fulton Hogan was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

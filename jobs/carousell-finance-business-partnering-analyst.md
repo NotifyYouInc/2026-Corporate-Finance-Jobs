@@ -5,12 +5,12 @@
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000112328586-finance-business-partnering-analyst) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000117496406-finance-business-partnering-analyst) |
 
 ## About This Role
 
-This corporate finance position at Carousell was posted on 2026-03-03.
+This corporate finance position at Carousell was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

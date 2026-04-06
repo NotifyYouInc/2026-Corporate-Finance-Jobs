@@ -6,7 +6,7 @@
 | Location | Irvine, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117333045-junior-accountant-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117413067-junior-accountant-bilingual-englishkorean) |
 
 ## About This Role
 
