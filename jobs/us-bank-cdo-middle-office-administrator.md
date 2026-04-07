@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/CDO-Middle-Office-Administrator_2026-0004049-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/CDO-Middle-Office-Administrator_2026-0004047-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-02-25.
+This corporate finance position at U.S. Bank was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

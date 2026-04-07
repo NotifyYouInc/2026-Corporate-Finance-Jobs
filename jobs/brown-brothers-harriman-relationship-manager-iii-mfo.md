@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Chicago/Relationship-Manager-III---MFO_69867) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/Relationship-Manager-III---MFO_70061) |
 
 ## About This Role
 
-This corporate finance position at Brown Brothers Harriman was posted on 2026-02-23.
+This corporate finance position at Brown Brothers Harriman was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

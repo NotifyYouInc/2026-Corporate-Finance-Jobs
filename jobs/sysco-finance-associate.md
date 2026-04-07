@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Detroit-Sales-Office/Finance-Associate_R242951) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Vancouver-Canada/Finance-Associate_R245184) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-03-13.
+This corporate finance position at Sysco was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

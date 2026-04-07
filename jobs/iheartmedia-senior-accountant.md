@@ -5,12 +5,12 @@
 | Company | [iHeartMedia](https://scoutify.ai/companies/iheartmedia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Senior-Accountant_Req38053) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Senior-Accountant_Req38247-4) |
 
 ## About This Role
 
-This corporate finance position at iHeartMedia was posted on 2026-03-11.
+This corporate finance position at iHeartMedia was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

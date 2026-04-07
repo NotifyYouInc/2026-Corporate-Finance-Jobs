@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Pedro Sula, Cortés Department, Honduras |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.lever.co/distro/0667889a-07e4-417c-85a8-1ad1f8ec4f0f) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.lever.co/distro/b26d325a-4383-4651-810c-65f0b9e64bf7) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-03-26.
+This corporate finance position at Distro was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

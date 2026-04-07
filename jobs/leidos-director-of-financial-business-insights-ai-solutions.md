@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Director-of-Financial-Business-Insights---AI-Solutions_R-00175567-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Director-of-Financial-Business-Insights---AI-Solutions_R-00179580) |
 
 ## About This Role
 
-This corporate finance position at Leidos was posted on 2026-02-09.
+This corporate finance position at Leidos was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Columbia, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Financial-Analyst-Project-Planning---Controls--PP-C-_R2120876) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/Senior-Financial-Analyst-Project-Planning---Controls--PP-C-_R2121133) |
 
 ## About This Role
 
-This corporate finance position at KBR was posted on 2026-03-26.
+This corporate finance position at KBR was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

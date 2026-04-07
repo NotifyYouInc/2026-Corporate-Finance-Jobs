@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000115892317-stagiaire-finance-hfnb) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000117673768-stagiaire-finance-hfnb) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-20.
+This corporate finance position at ACCOR was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

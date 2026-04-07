@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dalton, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117412767-billing-settlement-staff-bilingual-englishkorean) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117681977-billing-settlement-staff-bilingual-englishkorean) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-03-27.
+This corporate finance position at Woongjin was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

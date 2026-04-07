@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Columbus, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Elkhart-IN/Key-Private-Bank-Wealth-Planner_R-37571) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Columbus-OH/Key-Private-Bank-Wealth-Planner_R-37574) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-02-23.
+This corporate finance position at KeyBank was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

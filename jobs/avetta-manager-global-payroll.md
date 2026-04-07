@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avetta](https://scoutify.ai/companies/avetta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://www.avetta.com/careers/job?gh_jid=7654959003) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.avetta.com/careers/job?gh_jid=7684230003) |
 
 ## About This Role
 
-This corporate finance position at Avetta was posted on 2026-03-05.
+This corporate finance position at Avetta was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

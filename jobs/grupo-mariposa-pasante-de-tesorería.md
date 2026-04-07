@@ -1,16 +1,16 @@
-# Pasante de tesorería at Grupo Mariposa
+# Pasante de Tesorería at Grupo Mariposa
 
 | Field | Details |
 |-------|---------|
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Argentina |
+| Location | Buenos Aires, AR |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990011876556-pasante-de-tesoreria) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012379176-pasante-de-tesoreria) |
 
 ## About This Role
 
-This corporate finance position at Grupo Mariposa was posted on 2026-02-26.
+This corporate finance position at Grupo Mariposa was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

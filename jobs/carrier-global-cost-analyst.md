@@ -5,12 +5,12 @@
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santa Catarina, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5002-Carrier---Plant-B-Carretera-a-Garca-Km-13-Parque-STIVA-Santa-Catarina-66350-Mexico/Cost-Analyst_30199349) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5002-Carrier---Plant-B-Carretera-a-Garca-Km-13-Parque-STIVA-Santa-Catarina-66350-Mexico/Cost-Analyst_30199348-1) |
 
 ## About This Role
 
-This corporate finance position at Carrier Global was posted on 2026-02-18.
+This corporate finance position at Carrier Global was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

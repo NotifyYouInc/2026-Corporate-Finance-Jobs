@@ -5,12 +5,12 @@
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/Agri-Economist_R-15984405-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/Agri-Economist_R-15985035-1) |
 
 ## About This Role
 
-This corporate finance position at Absa was posted on 2026-02-28.
+This corporate finance position at Absa was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

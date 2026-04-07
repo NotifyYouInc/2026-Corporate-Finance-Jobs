@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mauritius |
+| Location | Quebec, CA |
 | Category | Corporate Finance |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Fund-Accountant_JR-0021387) |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Fund-Accountant_JR-0021035) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Auxiliar de Tesoreria at Veolia
+# AUXILIAR DE TESORERIA at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
+| Location | Mosquera, Cundinamarca, Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000115971047-auxiliar-de-tesoreria) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000117702977-auxiliar-de-tesoreria) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-03-20.
+This corporate finance position at Veolia was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

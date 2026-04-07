@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Portland-Oregon-United-States-of-America/Financial-Analyst_JR17502) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/San-Francisco-California-United-States-of-America/Financial-Analyst_JR17505) |
 
 ## About This Role
 
-This corporate finance position at Colliers was posted on 2026-03-25.
+This corporate finance position at Colliers was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newport Beach, California, United States |
+| Location | Hendersonville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEWPORT-BEACH-CA/Associate-Private-Client-Financial-Advisor_R-530601) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/HENDERSONVILLE-NC/Associate-Private-Client-Financial-Advisor_R-530924) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-19.
+This corporate finance position at Wells Fargo was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lafayette, Louisiana, United States |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/6187-Lafayette/Accounting-Intern_R-97014) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/5311H-Denver-Hauling/Accounting-Intern_R-97662) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-03-04.
+This corporate finance position at Waste Connections was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

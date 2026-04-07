@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Mexico---Cuidad-de-Mexico---Cuidad-de-Mexico/Becario-de-Finanzas_31142424) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Mexico---Cuidad-de-Mexico---Cuidad-de-Mexico/Becario-de-Finanzas_31146191) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-02-18.
+This corporate finance position at Abbott was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | Toowoomba, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000112780627-senior-accountant) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000117751277-senior-accountant) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-03-04.
+This corporate finance position at Louis Dreyfus was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Analyst--Production-Support_REQ493603) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Analyst--Production-Support_REQ471422) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-18.
+This corporate finance position at JLL was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000111938645-manager-fpa) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000117720459-manager-fpa) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-02-27.
+This corporate finance position at NBCUniversal was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

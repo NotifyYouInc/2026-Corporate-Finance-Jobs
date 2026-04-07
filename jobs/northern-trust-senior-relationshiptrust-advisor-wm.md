@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Winnetka, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Winnetka-IL/Senior-Relationship-Trust-Advisor--WM_R146929-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Senior-Relationship-Trust-Advisor--WM_R153403) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-03-26.
+This corporate finance position at Northern Trust was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

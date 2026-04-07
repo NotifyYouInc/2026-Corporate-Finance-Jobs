@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Tampa-FL---Downtown-Tampa-Building/Private-Wealth-Management-Wealth-Advisor_R101342) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Gainesville-GA---Regions-Administration-Building/Private-Wealth-Management-Wealth-Advisor_R100970) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-03-24.
+This corporate finance position at Regions Bank was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

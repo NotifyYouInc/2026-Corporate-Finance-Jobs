@@ -5,12 +5,12 @@
 | Company | [AWP](https://scoutify.ai/companies/awp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Canton, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AWPSafety/744000111448865-customer-relations-credit-supervisor) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AWPSafety/744000117756017-customer-relations-credit-supervisor) |
 
 ## About This Role
 
-This corporate finance position at AWP was posted on 2026-02-25.
+This corporate finance position at AWP was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Menasha Corporation](https://scoutify.ai/companies/menasha?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oconomowoc, Wisconsin, United States |
+| Location | Neenah, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Oconomowoc-Wisconsin/Financial-Analyst_R12622) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Financial-Analyst_R13111-1) |
 
 ## About This Role
 
-This corporate finance position at Menasha Corporation was posted on 2026-02-06.
+This corporate finance position at Menasha Corporation was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

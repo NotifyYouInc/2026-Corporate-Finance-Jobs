@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Akron, Ohio, United States |
+| Location | Ontario, CA |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-OH-Akron-Corp-Hdqtrs/Financial-Analyst_JR-40106053) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/CA-ON-Corporate-HO/Financial-Analyst_JR-40107503-1) |
 
 ## About This Role
 
-This corporate finance position at Goodyear was posted on 2026-03-05.
+This corporate finance position at Goodyear was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

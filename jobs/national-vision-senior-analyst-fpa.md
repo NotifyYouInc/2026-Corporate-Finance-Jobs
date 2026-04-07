@@ -5,12 +5,12 @@
 | Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Duluth, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000116313332-senior-analyst-fpa) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000117747127-senior-analyst-fpa) |
 
 ## About This Role
 
-This corporate finance position at National Vision was posted on 2026-03-24.
+This corporate finance position at National Vision was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

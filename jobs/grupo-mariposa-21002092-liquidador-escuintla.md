@@ -5,12 +5,12 @@
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Escuintla, Escuintla, Guatemala |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012266196-21002092-liquidador-escuintla) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012384226-21002092-liquidador-escuintla) |
 
 ## About This Role
 
-This corporate finance position at Grupo Mariposa was posted on 2026-03-23.
+This corporate finance position at Grupo Mariposa was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

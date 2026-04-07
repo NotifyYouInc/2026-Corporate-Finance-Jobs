@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Rochester, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR031704-2) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Rochester-New-York-United-States-of-America/Intern_JR033515-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-03-09.
+This corporate finance position at Morgan Stanley was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

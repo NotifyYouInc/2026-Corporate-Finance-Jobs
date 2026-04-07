@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Medicine Hat, Alberta, Canada |
+| Location | Edmonton, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MEDICINE-HAT-Alberta-Canada/Investment-Advisor_R-0000164784) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/EDMONTON-Alberta-Canada/Investment-Advisor_R-0000165988) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-20.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

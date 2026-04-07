@@ -5,12 +5,12 @@
 | Company | [Transcarent](https://scoutify.ai/companies/transcarent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/transcarent/jobs/5808669004?gh_jid=5808669004) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/transcarent/jobs/5840781004?gh_jid=5840781004) |
 
 ## About This Role
 
-This corporate finance position at Transcarent was posted on 2026-02-26.
+This corporate finance position at Transcarent was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

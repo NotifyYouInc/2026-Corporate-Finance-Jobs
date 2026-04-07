@@ -5,12 +5,12 @@
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Florida, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Sunseeker-Resort/Director-of-Finance_R0058621) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Sunseeker-Resort/Director-of-Finance_R0060055) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-02-23.
+This corporate finance position at Benchmark was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
