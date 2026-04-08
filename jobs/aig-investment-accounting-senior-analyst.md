@@ -5,12 +5,12 @@
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/Investment-Accounting-Senior-Analyst_JR2600113-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/Investment-Accounting-Senior-Analyst_JR2600112-1) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-03-27.
+This corporate finance position at AIG was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

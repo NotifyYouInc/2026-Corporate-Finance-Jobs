@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lakewood, Colorado, United States |
+| Location | Yakima, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Lakewood-CO/Associate-Private-Client-Advisor_R-38426) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Yakima-WA/Associate-Private-Client-Advisor_R-38846) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-03-11.
+This corporate finance position at KeyBank was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

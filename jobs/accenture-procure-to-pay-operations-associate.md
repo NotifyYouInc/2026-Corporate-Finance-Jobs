@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Procure-to-Pay-Operations-Associate_AIOC-S01634571-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Procure-to-Pay-Operations-Associate_AIOC-S01634720-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-03-30.
+This corporate finance position at Accenture was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

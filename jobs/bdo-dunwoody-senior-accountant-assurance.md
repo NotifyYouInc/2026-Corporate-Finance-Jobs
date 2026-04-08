@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Salmon-Arm/Senior-Accountant--Assurance_JR3973) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Accountant--Assurance_JR4840-1) |
 
 ## About This Role
 
-This corporate finance position at BDO Dunwoody was posted on 2026-02-25.
+This corporate finance position at BDO Dunwoody was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

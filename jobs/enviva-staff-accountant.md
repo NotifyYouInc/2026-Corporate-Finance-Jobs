@@ -1,16 +1,16 @@
-# Staff Accountant at Enviva
+#  Staff Accountant at Enviva
 
 | Field | Details |
 |-------|---------|
 | Company | [Enviva](https://scoutify.ai/companies/enviva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Alabama, US |
+| Location | North Carolina, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7675941003) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7685925003) |
 
 ## About This Role
 
-This corporate finance position at Enviva was posted on 2026-03-23.
+This corporate finance position at Enviva was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

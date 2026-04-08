@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EMC Insurance](https://scoutify.ai/companies/emcins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
+| Location | Kansas, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Illinois/Commercial-Underwriter-III_R6317-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Kansas/Commercial-Underwriter-III_R6333) |
 
 ## About This Role
 
-This corporate finance position at EMC Insurance was posted on 2026-03-18.
+This corporate finance position at EMC Insurance was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

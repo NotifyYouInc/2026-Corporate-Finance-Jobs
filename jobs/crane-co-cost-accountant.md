@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crane Co.](https://scoutify.ai/companies/cranecompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Spartanburg, South Carolina, United States |
+| Location | Lynnwood, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Cost-Accountant_JR101290) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Lynnwood-Washington/Cost-Accountant_JR101354) |
 
 ## About This Role
 
-This corporate finance position at Crane Co. was posted on 2026-03-23.
+This corporate finance position at Crane Co. was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

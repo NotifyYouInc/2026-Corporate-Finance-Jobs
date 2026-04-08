@@ -5,12 +5,12 @@
 | Company | [Much Prosperity Trading International Inc.](https://scoutify.ai/companies/muchprosperitytradinginternationalinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MuchProsperityTradingInternationalInc/744000113048962-jr-account-analyst) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MuchProsperityTradingInternationalInc/744000118043312-jr-account-analyst) |
 
 ## About This Role
 
-This corporate finance position at Much Prosperity Trading International Inc. was posted on 2026-03-06.
+This corporate finance position at Much Prosperity Trading International Inc. was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

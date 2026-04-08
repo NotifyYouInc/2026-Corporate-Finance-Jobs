@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Springdale, Arkansas, United States |
+| Location | Omaha, Nebraska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-on-Thompson---Springdale-Arkansas/Administrator-Accounting_R0449714) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Omaha-Plant---Omaha-Nebraska/Administrator-Accounting_R0452501) |
 
 ## About This Role
 
-This corporate finance position at Tyson Foods was posted on 2026-03-16.
+This corporate finance position at Tyson Foods was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

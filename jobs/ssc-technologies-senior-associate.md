@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Evansville, Indiana, United States |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Evansville-IN/Senior-Associate_R41934-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Halifax-Canada/Senior-Associate_R42048) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-03-25.
+This corporate finance position at SS&C Technologies was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

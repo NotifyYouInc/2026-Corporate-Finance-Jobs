@@ -5,12 +5,12 @@
 | Company | [Aurecon](https://scoutify.ai/companies/aurecon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Manila/Specialist--Project-Financial-Management_R31902) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Manila/Specialist--Project-Financial-Management_R32221) |
 
 ## About This Role
 
-This corporate finance position at Aurecon was posted on 2026-02-23.
+This corporate finance position at Aurecon was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

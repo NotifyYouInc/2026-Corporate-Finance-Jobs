@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Etten-Leur-Netherlands/Cost-Accountant_R-18328) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/US_HoustonTXMOG_HOU/Cost-Accountant_R-18747-1) |
 
 ## About This Role
 
-This corporate finance position at Flowserve was posted on 2026-03-16.
+This corporate finance position at Flowserve was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

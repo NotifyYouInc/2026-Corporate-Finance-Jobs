@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Jose, California, United States |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/San-Jose-CA/PWM-Private-Wealth-Advisor-Partner_2026-0004544) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irvine-CA/PWM-Private-Wealth-Advisor-Partner_2026-0006431) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-02.
+This corporate finance position at U.S. Bank was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

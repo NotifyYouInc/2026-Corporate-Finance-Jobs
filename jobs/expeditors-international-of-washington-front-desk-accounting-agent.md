@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000111453235-front-desk-accounting-agent) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000118003637-front-desk-accounting-agent) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-02-25.
+This corporate finance position at Expeditors International of Washington was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

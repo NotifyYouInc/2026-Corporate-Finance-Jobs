@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/San-Jose-Costa-Rica/Billing-and-Financial-Analyst_R-17075) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Mexico-City-Mexico/Billing-and-Financial-Analyst_R-17361) |
 
 ## About This Role
 
-This corporate finance position at Gensler was posted on 2026-02-24.
+This corporate finance position at Gensler was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

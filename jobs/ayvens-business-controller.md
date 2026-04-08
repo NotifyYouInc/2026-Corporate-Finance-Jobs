@@ -1,16 +1,16 @@
-# Business controller at Ayvens
+# Business Controller at Ayvens
 
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Zaventem, Flanders, Belgium |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Zaventem/Business-controller_JR_10037954-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Zaventem/Business-Controller_JR_10038832-2) |
 
 ## About This Role
 
-This corporate finance position at Ayvens was posted on 2026-02-19.
+This corporate finance position at Ayvens was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

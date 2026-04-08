@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Commerce City, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000113270585-staff-accountant) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000117978797-staff-accountant) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-03-06.
+This corporate finance position at Veolia was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

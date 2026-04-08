@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Texas, US |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-TX/Finance-Analyst-II_1631151) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Atlanta---1100-Circle-75-Pkwy-Ste-1100-10076/Finance-Analyst-II_1635164) |
 
 ## About This Role
 
-This corporate finance position at Centene was posted on 2026-02-18.
+This corporate finance position at Centene was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

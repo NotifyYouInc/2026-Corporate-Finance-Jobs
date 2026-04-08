@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3195266/financial-analyst-sponsored-products-and-brands-finance) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10380955/financial-analyst-sponsored-products-and-brands-finance) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-03-04.
+This corporate finance position at Amazon was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

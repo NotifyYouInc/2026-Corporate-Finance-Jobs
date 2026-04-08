@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Troy, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Philadelphia-19103/Senior-Relationship-Strategist---PNC-Private-Bank_R215514-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/MI---Troy-48084/Senior-Relationship-Strategist---PNC-Private-Bank_R215425-2) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-26.
+This corporate finance position at PNC Financial was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

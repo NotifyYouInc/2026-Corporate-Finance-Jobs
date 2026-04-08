@@ -5,12 +5,12 @@
 | Company | [Copart](https://scoutify.ai/companies/copart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Accounts-Receivable-Clerk_JR107721) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Accounts-Receivable-Clerk_JR106599) |
 
 ## About This Role
 
-This corporate finance position at Copart was posted on 2026-03-12.
+This corporate finance position at Copart was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

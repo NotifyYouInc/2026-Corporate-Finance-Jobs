@@ -5,12 +5,12 @@
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Daytona Beach, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Direct-Bill-Analyst_R26_0000000997) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Direct-Bill-Analyst_R26_0000001198) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-03-16.
+This corporate finance position at Brown & Brown Insurance was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

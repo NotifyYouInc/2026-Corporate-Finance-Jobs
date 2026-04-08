@@ -5,12 +5,12 @@
 | Company | [Trafigura](https://scoutify.ai/companies/trafigura?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://trafigura.wd3.myworkdayjobs.com/trafiguracareersite/job/Montevideo-Uruguay/Treasury-Capital-Analyst_R-017604) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://trafigura.wd3.myworkdayjobs.com/trafiguracareersite/job/Montevideo-Uruguay/Treasury-Capital-Analyst_R-017738) |
 
 ## About This Role
 
-This corporate finance position at Trafigura was posted on 2026-03-06.
+This corporate finance position at Trafigura was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

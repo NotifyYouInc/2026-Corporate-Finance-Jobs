@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Manager--Revenue-Recognition_JR335152) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Manager--Revenue-Recognition_JR336532-1) |
 
 ## About This Role
 
-This corporate finance position at Salesforce was posted on 2026-03-26.
+This corporate finance position at Salesforce was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | District of Columbia, US |
+| Location | Arkansas, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IL/Actuarial-Analyst_1623984) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IL/Actuarial-Analyst_1636028) |
 
 ## About This Role
 
-This corporate finance position at Centene was posted on 2026-02-20.
+This corporate finance position at Centene was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

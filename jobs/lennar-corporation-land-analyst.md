@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Fort Myers, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Alpharetta-GA-Job-Posting-Location/Land-Analyst_R26_0000000998) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Fort-Myers-FL-Job-Posting-Location/Land-Analyst_R26_0000001234) |
 
 ## About This Role
 
-This corporate finance position at Lennar Corporation was posted on 2026-03-17.
+This corporate finance position at Lennar Corporation was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

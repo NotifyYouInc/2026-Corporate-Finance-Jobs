@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | Joliette, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Conseiller-principal-ou-conseillre-principale-en-gestion-de-patrimoine_R2604213) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Joliette/Conseiller-principal-ou-conseillre-principale--Gestion-de-patrimoine_R2604485-1) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-03-24.
+This corporate finance position at Desjardins was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

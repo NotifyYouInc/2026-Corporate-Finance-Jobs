@@ -1,16 +1,16 @@
-# Financial Planner, Investment & Retirement Planning at Royal Bank of Canada
+# Financial Planner, Investment Retirement Planning at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kingston, Ontario, Canada |
+| Location | Ontario, CA |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/KINGSTON-Ontario-Canada/Financial-Planner--Investment---Retirement-Planning_R-0000165371-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/NORTH-DUNDAS-Ontario-Canada/Financial-Planner--Investment-Retirement-Planning_R-0000150212-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-25.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

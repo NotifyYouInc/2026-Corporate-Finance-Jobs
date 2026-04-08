@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Order-to-Cash-Operations-New-Associate_AIOC-S01634563-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Order-to-Cash-Operations-New-Associate_AIOC-S01634721-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-03-30.
+This corporate finance position at Accenture was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

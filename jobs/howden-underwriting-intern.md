@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | San Diego, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Philadelphia---1628-JFK-Blvd/Underwriting-Intern_R0016378-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/San-Diego/Underwriting-Intern_R0016862-1) |
 
 ## About This Role
 
-This corporate finance position at Howden was posted on 2026-03-04.
+This corporate finance position at Howden was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | St. John's, Newfoundland and Labrador, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000112514568-senior-cost-analyst) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000117976887-senior-cost-analyst) |
 
 ## About This Role
 
-This corporate finance position at Artelia was posted on 2026-03-03.
+This corporate finance position at Artelia was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

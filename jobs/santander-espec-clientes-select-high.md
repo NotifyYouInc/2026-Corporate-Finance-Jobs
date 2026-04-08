@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brazil |
+| Location | Salvador, Bahia, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/BELEM/Espec-Clientes-Select-High_Req1556201-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SALVADOR/Espec-Clientes-Select-High_Req1557673) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-03-26.
+This corporate finance position at Santander was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

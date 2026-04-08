@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Manager-Indirect-Tax-Compliance_R-226549) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Manager-Indirect-Tax-Compliance_R-240377) |
 
 ## About This Role
 
-This corporate finance position at Amgen was posted on 2026-03-05.
+This corporate finance position at Amgen was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

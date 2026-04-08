@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Financial-Planning---Analysis-Analyst_JR00029429-5) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Financial-Planning---Analysis-Analyst_JR00030324) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-03-23.
+This corporate finance position at ABB was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

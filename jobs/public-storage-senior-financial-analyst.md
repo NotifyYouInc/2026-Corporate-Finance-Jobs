@@ -5,12 +5,12 @@
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000117743217-senior-financial-analyst) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000117962255-senior-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Public Storage was posted on 2026-03-30.
+This corporate finance position at Public Storage was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

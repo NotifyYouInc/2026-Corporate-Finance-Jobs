@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Windsor, Ontario, Canada |
+| Location | Laval, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Windsor-Qubec/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2600829) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Laval/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2604453) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-03-24.
+This corporate finance position at Desjardins was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

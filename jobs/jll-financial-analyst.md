@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Financial-Analyst_REQ495468) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Santa-AnaCRI/Financial-Analyst_REQ494749) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-26.
+This corporate finance position at JLL was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

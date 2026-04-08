@@ -1,0 +1,22 @@
+# REF97894I - Sr Executive- Accounts Receivable -  only Billing Experience 4-5years - US shifts 8.30pm - 5.30am - Job location Thane - Mumbai  at WNS
+
+| Field | Details |
+|-------|---------|
+| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000117970393-ref97894i-sr-executive-accounts-receivable-only-billing-experience-4-5years-us-shifts-830pm-530am-job-location-thane-mumbai) |
+
+## About This Role
+
+This corporate finance position at WNS was posted on 2026-03-31.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
