@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mulhouse, Grand Est, France |
+| Location | Vaulx-en-Velin, Rhône-Alpes, France |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110234777-cdd-12-mois-controleur-de-gestion-hf) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000118210559-cdd-12-mois-controleur-de-gestion-hf) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-02-19.
+This corporate finance position at Veolia was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

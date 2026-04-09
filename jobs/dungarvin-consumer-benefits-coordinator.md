@@ -5,12 +5,12 @@
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Olympia, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000116482367-consumer-benefits-coordinator) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000118275647-consumer-benefits-coordinator) |
 
 ## About This Role
 
-This corporate finance position at Dungarvin was posted on 2026-03-24.
+This corporate finance position at Dungarvin was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

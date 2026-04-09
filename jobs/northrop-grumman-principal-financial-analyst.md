@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Financial-Analyst_R10224247) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Financial-Analyst_R10228107) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-02-26.
+This corporate finance position at Northrop Grumman was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

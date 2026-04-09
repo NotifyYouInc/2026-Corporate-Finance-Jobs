@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Banker--VP_26948108) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Banker--VP_26947185) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-24.
+This corporate finance position at Citigroup was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

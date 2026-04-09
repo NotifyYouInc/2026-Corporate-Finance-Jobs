@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charleston, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000110858162-cost-analyst) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118237932-cost-analyst) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-02-23.
+This corporate finance position at Robert Bosch was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

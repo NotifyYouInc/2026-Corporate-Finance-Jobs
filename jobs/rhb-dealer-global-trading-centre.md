@@ -5,12 +5,12 @@
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Kuala-Lumpur/Dealer--Global-Trading-Centre_JR005100-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Kuala-Lumpur/Dealer--Global-Trading-Centre_JR005517) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-02-23.
+This corporate finance position at RHB was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

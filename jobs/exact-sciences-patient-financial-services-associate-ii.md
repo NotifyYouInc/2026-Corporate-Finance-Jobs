@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exact Sciences](https://scoutify.ai/companies/exactsciences?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Patient-Financial-Services-Associate-II_R26-12092) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---Remote/Patient-Financial-Services-Associate-II_R26-12945) |
 
 ## About This Role
 
-This corporate finance position at Exact Sciences was posted on 2026-02-27.
+This corporate finance position at Exact Sciences was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Jose, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000117710575-senior-manager-of-finance) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118255837-senior-manager-of-finance) |
 
 ## About This Role
 
-This corporate finance position at Renesas Electronics was posted on 2026-03-30.
+This corporate finance position at Renesas Electronics was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000113788247-ap-staff-accountant) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000118269704-ap-staff-accountant) |
 
 ## About This Role
 
-This corporate finance position at AIR Communities was posted on 2026-03-10.
+This corporate finance position at AIR Communities was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Canberra-Australian-Capital-Territory-Australia/Accountant_R2119399) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chennai-Tamil-Nadu-India/Accountant_R2119014) |
 
 ## About This Role
 
-This corporate finance position at KBR was posted on 2026-02-25.
+This corporate finance position at KBR was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

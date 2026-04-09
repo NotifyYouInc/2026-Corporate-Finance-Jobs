@@ -5,12 +5,12 @@
 | Company | [Prudential Financial](https://scoutify.ai/companies/prudential-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Hartford-CT-USA/Associate-Actuary_R-122986-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Associate-Actuary_R-124063-1) |
 
 ## About This Role
 
-This corporate finance position at Prudential Financial was posted on 2026-02-19.
+This corporate finance position at Prudential Financial was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

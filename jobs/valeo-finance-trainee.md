@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
+| Location | Slovenia |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/San-Luis-Potosi/Finance-Trainee_REQ2026072329) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rakovnik/Finance-Trainee_REQ2026072776) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-03-27.
+This corporate finance position at Valeo was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ingram Content Group](https://scoutify.ai/companies/ingramcontentgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | La Vergne, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000114458687-credit-representative) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000118233369-credit-representative) |
 
 ## About This Role
 
-This corporate finance position at Ingram Content Group was posted on 2026-03-12.
+This corporate finance position at Ingram Content Group was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

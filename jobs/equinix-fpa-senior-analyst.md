@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas-Infomart-Office-DAI/FP-A-Senior-Analyst_JR-159138-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Amsterdam/FP-A-Senior-Analyst_JR-159464) |
 
 ## About This Role
 
-This corporate finance position at Equinix was posted on 2026-03-16.
+This corporate finance position at Equinix was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

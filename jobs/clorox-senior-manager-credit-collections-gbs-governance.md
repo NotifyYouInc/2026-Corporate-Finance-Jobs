@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clorox](https://scoutify.ai/companies/clorox?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Mandaluyong City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Alpharetta-GA---USA/Senior-Manager--Credit---Collections--GBS-Governance-_21249-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Mandaluyong-City-Philippines/Senior-Manager--Credit---Collections--GBS-Governance-_21637) |
 
 ## About This Role
 
-This corporate finance position at Clorox was posted on 2026-03-16.
+This corporate finance position at Clorox was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

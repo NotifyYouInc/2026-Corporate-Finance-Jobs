@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | California, US |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Montecito-CA/Account-Manager--WM-Advisory_R149992) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Boston-MA/Account-Manager--WM-Advisory_R151457) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-03-04.
+This corporate finance position at Northern Trust was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

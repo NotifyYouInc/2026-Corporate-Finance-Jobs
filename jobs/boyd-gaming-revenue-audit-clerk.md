@@ -5,12 +5,12 @@
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012337066-revenue-audit-clerk) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012415507-revenue-audit-clerk) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-03-26.
+This corporate finance position at Boyd Gaming was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

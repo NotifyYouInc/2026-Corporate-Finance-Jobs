@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pilmico](https://scoutify.ai/companies/pilmico?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000111757786-derivatives-trader-senior-manager-coalenergy) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000118314720-derivatives-trader-senior-manager-coalenergy) |
 
 ## About This Role
 
-This corporate finance position at Pilmico was posted on 2026-02-27.
+This corporate finance position at Pilmico was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

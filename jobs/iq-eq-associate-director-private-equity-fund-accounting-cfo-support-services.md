@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000114483637-associate-director-private-equity-fund-accounting-cfo-support-services) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000118249647-associate-director-private-equity-fund-accounting-cfo-support-services) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-03-12.
+This corporate finance position at IQ-EQ was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

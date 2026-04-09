@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Mississauga, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Clearwater-Florida-United-States/Accounts-Receivable-Analyst_R47827) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Accounts-Receivable-Analyst_R48297) |
 
 ## About This Role
 
-This corporate finance position at TD Synnex was posted on 2026-02-18.
+This corporate finance position at TD Synnex was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

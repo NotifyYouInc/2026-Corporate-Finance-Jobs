@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/5311H-Denver-Hauling/Staff-Accountant_R-97208) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/5013-Oklahoma-City-Hauling/Staff-Accountant_R-97698) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-03-06.
+This corporate finance position at Waste Connections was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

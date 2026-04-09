@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Roy, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sr-Principal-Financial-Analyst---17875_R10223708-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sr-Principal-Financial-Analyst---17875_R10228110) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-02-25.
+This corporate finance position at Northrop Grumman was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

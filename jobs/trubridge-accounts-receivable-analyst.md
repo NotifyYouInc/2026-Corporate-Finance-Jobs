@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TruBridge](https://scoutify.ai/companies/trubridge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cpsi.wd1.myworkdayjobs.com/cpsi/job/India---Remote/Accounts-Receivable-Analyst_JR102282) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://cpsi.wd1.myworkdayjobs.com/cpsi/job/Chennai---Office/Accounts-Receivable-Analyst_JR102241) |
 
 ## About This Role
 
-This corporate finance position at TruBridge was posted on 2026-03-11.
+This corporate finance position at TruBridge was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

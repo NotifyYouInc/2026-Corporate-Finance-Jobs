@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Alberta, CA |
+| Location | Ontario, CA |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Senior-Financial-Analyst_R0039925) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Senior-Financial-Analyst_R0040941-2) |
 
 ## About This Role
 
-This corporate finance position at Harris Computer was posted on 2026-02-18.
+This corporate finance position at Harris Computer was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

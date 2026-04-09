@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | France |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bonifacio-Global-City-PHL/Payroll-Specialist_R0242073) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/LARBRESLE-France/Payroll-Specialist_R0237222) |
 
 ## About This Role
 
-This corporate finance position at Fresenius Medical Care was posted on 2026-02-24.
+This corporate finance position at Fresenius Medical Care was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

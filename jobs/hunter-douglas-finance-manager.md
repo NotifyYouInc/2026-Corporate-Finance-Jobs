@@ -1,16 +1,16 @@
-#  Finance Manager at Hunter Douglas
+# Finance Manager at Hunter Douglas
 
 | Field | Details |
 |-------|---------|
 | Company | [Hunter Douglas](https://scoutify.ai/companies/hunter-douglas?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7672864003?gh_jid=7672864003) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7687066003?gh_jid=7687066003) |
 
 ## About This Role
 
-This corporate finance position at Hunter Douglas was posted on 2026-03-19.
+This corporate finance position at Hunter Douglas was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

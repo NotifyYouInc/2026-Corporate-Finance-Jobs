@@ -5,12 +5,12 @@
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Romania |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/RO-Romania-SRL/Accounts-Payable-Analyst_JR-40106948) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/RO-Romania-SRL/Accounts-Payable-Analyst_JR-40107526) |
 
 ## About This Role
 
-This corporate finance position at Goodyear was posted on 2026-03-18.
+This corporate finance position at Goodyear was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

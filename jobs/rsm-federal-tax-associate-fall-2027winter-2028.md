@@ -1,16 +1,16 @@
-# Federal Tax Associate (Fall 2027/Winter 2028) at RSM
+# Federal Tax Associate - (Fall 2027/Winter 2028) at RSM
 
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Federal-Tax-Associate--Fall-2027-Winter-2028-_JR114731) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Boston/Federal-Tax-Associate----Fall-2026--Winter-2027-_JR108108) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-03-20.
+This corporate finance position at RSM was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

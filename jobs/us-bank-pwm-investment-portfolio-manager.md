@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Cincinnati, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/PWM-Investment-Portfolio-Manager_2026-0005949) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/PWM-Investment-Portfolio-Manager_2026-0007843) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-19.
+This corporate finance position at U.S. Bank was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

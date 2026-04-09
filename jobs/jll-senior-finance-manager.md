@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Finance-Manager_REQ483907) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sydney-NSW/Senior-Finance-Manager_REQ497458) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-02-04.
+This corporate finance position at JLL was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

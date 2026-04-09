@@ -5,12 +5,12 @@
 | Company | [Jacobs Douwe Egberts](https://scoutify.ai/companies/jacobsdouweegberts?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000109781923-finance-analyst-global-product-costing) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000118233477-finance-analyst-global-product-costing) |
 
 ## About This Role
 
-This corporate finance position at Jacobs Douwe Egberts was posted on 2026-02-17.
+This corporate finance position at Jacobs Douwe Egberts was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

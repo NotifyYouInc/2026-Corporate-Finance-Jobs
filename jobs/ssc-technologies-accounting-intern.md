@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Union, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA---One-Post-Office-Square/Accounting-Intern_R41901) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/New-York-NY/Accounting-Intern_R42340) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-03-06.
+This corporate finance position at SS&C Technologies was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

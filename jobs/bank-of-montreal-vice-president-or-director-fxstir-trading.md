@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Vice-President-or-Director--FX-STIR-Trading_R260006801) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Vice-President-or-Director--Global-Markets_R260003709) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-03-02.
+This corporate finance position at Bank of Montreal was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
