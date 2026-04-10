@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000115529067-financial-systems-manager) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000118468947-financial-systems-manager) |
 
 ## About This Role
 
-This corporate finance position at SOCOTEC was posted on 2026-03-18.
+This corporate finance position at SOCOTEC was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

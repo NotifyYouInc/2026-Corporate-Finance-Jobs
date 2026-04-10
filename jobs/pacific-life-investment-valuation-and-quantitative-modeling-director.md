@@ -5,12 +5,12 @@
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Newport Beach, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Investment-Valuation-and-Quantitative-Modeling-Director_R16489) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Investment-Valuation-and-Quantitative-Modeling-Director_R16705) |
 
 ## About This Role
 
-This corporate finance position at Pacific Life was posted on 2026-02-28.
+This corporate finance position at Pacific Life was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

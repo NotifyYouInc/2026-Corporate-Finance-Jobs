@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000115125317-controlling-business-intelligence-specialist) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000118527733-controlling-business-intelligence-specialist) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-03-17.
+This corporate finance position at Delivery Hero was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

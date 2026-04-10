@@ -5,12 +5,12 @@
 | Company | [OneMain Financial](https://scoutify.ai/companies/myhrhome?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Tempe-AZ/Underwriter_R2602-49872) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Tempe-AZ/Underwriter_R2603-50212) |
 
 ## About This Role
 
-This corporate finance position at OneMain Financial was posted on 2026-02-27.
+This corporate finance position at OneMain Financial was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

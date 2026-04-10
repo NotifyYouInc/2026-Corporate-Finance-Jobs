@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000107143045-senior-financial-analyst-napa-traction) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000118480823-senior-financial-analyst-napa-traction) |
 
 ## About This Role
 
-This corporate finance position at UAP was posted on 2026-02-03.
+This corporate finance position at UAP was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

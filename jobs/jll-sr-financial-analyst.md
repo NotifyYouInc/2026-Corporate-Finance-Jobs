@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Minnesota, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Sr-Financial-Analyst_REQ456677) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/St-Paul-MN/Sr-Financial-Analyst_REQ497751) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-02-10.
+This corporate finance position at JLL was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santa Fe Springs, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000116466842-assistant-manager-accounting) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000118506137-assistant-manager-accounting) |
 
 ## About This Role
 
-This corporate finance position at REXEL was posted on 2026-03-24.
+This corporate finance position at REXEL was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

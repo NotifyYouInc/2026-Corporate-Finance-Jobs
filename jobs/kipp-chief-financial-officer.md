@@ -5,12 +5,12 @@
 | Company | [KIPP](https://scoutify.ai/companies/kipp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000118246947-chief-financial-officer) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000118523736-chief-financial-officer) |
 
 ## About This Role
 
-This corporate finance position at KIPP was posted on 2026-04-01.
+This corporate finance position at KIPP was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

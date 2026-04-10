@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Scottsdale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000111472028-credit-specialist) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000118459838-credit-specialist) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-02-25.
+This corporate finance position at Expeditors International of Washington was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

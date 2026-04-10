@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior-Manager--Finance_R-2414192-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior-Manager--Finance_R-2452781) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-03-30.
+This corporate finance position at Walmart was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

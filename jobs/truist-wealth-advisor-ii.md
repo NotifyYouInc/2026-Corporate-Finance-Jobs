@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Winter Park, Florida, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Winter-Park-FL/Wealth-Advisor-II_R0111979) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Dallas-TX/Wealth-Advisor-II_R0113032) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-03-05.
+This corporate finance position at Truist was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

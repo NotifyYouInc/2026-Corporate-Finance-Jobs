@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/DLF-IT-Park-Chennai/Analyst_JR-0000096957) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Analyst_JR-0000104512) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-03-05.
+This corporate finance position at Barclays was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

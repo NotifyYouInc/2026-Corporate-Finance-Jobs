@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Finance-Manager_R-237789) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Finance-Manager_R-240580-1) |
 
 ## About This Role
 
-This corporate finance position at Amgen was posted on 2026-03-05.
+This corporate finance position at Amgen was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Associated Bank](https://scoutify.ai/companies/associatedbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | Wausau, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Milwaukee-815-Water/Personal-Trust-Manager_JR104823) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Wausau-2010-Stewart/Personal-Trust-Manager_JR104917) |
 
 ## About This Role
 
-This corporate finance position at Associated Bank was posted on 2026-03-25.
+This corporate finance position at Associated Bank was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

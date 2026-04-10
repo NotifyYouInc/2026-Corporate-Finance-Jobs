@@ -1,16 +1,16 @@
-# Senior Wealth Advisor SAFE ACT at Citigroup
+# Senior Wealth Advisor SAFE Act at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Senior-Wealth-Advisor-SAFE-ACT_26945595) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chicago-Illinois-United-States/Senior-Wealth-Advisor-SAFE-Act_26939430) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-10.
+This corporate finance position at Citigroup was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Arch Capital Group](https://scoutify.ai/companies/archgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://archgroup.wd1.myworkdayjobs.com/careers/job/Jersey-City-NJ-United-States-of-America/AVP--Finance_R26_272) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://archgroup.wd1.myworkdayjobs.com/careers/job/Hartford-CT-United-States-of-America/AVP--Finance_R26_131) |
 
 ## About This Role
 
-This corporate finance position at Arch Capital Group was posted on 2026-03-23.
+This corporate finance position at Arch Capital Group was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

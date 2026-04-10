@@ -1,16 +1,16 @@
-# VP, Financial Advisor at Wealth Enhancement Group
+# VP Financial Advisor at Wealth Enhancement Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Atlanta-GA/VP--Financial-Advisor_R-102238) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Los-Angeles-CA/VP-Financial-Advisor_R-102325) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-02-24.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

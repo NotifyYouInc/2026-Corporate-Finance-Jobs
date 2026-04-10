@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mooresville, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Senior-Auditor_JR-02269285-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Senior-Auditor_JR-02431592-1) |
 
 ## About This Role
 
-This corporate finance position at Lowe's was posted on 2026-03-30.
+This corporate finance position at Lowe's was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

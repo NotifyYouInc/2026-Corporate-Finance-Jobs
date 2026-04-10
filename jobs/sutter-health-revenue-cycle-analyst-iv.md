@@ -5,12 +5,12 @@
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sacramento, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Revenue-Cycle-Analyst-IV_R-121882-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Revenue-Cycle-Analyst-IV_R-126854-1) |
 
 ## About This Role
 
-This corporate finance position at Sutter Health was posted on 2026-02-04.
+This corporate finance position at Sutter Health was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

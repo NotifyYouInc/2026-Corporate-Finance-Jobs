@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brownhealth](https://scoutify.ai/companies/brownhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pawtucket, Rhode Island, United States |
+| Location | Providence, Rhode Island, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Gateway-Healthcare/Sr-Accountant_JR-107033) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Brown-University-Health/Sr-Accountant_JR-107542) |
 
 ## About This Role
 
-This corporate finance position at Brownhealth was posted on 2026-03-13.
+This corporate finance position at Brownhealth was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
