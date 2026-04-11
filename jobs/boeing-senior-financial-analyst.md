@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sylmar, California, United States |
+| Location | Berkeley, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Sylmar-CA/Senior-Financial-Analyst_JR2026496971-2) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Financial-Analyst_JR2026502881-1) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-02-17.
+This corporate finance position at Boeing was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

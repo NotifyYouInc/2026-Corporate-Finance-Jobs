@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wichita, Kansas, United States |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/5025-Wichita-Hauling/Assistant-Controller_R-97679) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/6388-Mega-Disposal/Assistant-Controller_R-97859) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-04-01.
+This corporate finance position at Waste Connections was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

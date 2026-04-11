@@ -5,12 +5,12 @@
 | Company | [Eiffage Energie Systemes](https://scoutify.ai/companies/eiffage-energie-systemes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Noisy-le-Grand, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://eiffage.wd3.myworkdayjobs.com/eiffage_careers/job/Noisy-le-Grand/Adjoint-chef-comptable---Gnie-Civil---CDI-F-H_JR2026-2261-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://eiffage.wd3.myworkdayjobs.com/eiffage_careers/job/Noisy-le-Grand/Adjoint-chef-comptable---Gnie-Civil---CDI-F-H_JR2026-2398-1) |
 
 ## About This Role
 
-This corporate finance position at Eiffage Energie Systemes was posted on 2026-03-30.
+This corporate finance position at Eiffage Energie Systemes was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

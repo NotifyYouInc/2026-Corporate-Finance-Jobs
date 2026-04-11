@@ -5,12 +5,12 @@
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7585372) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7760228) |
 
 ## About This Role
 
-This corporate finance position at MongoDB was posted on 2026-02-10.
+This corporate finance position at MongoDB was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

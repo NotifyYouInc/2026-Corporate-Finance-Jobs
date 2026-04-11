@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Valenciennes, Hauts-de-France, France |
+| Location | Thonon-les-Bains, Rhône-Alpes, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000112339387-aide-comptable-fh) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000118563978-aide-comptable-fh) |
 
 ## About This Role
 
-This corporate finance position at Evoriel was posted on 2026-03-03.
+This corporate finance position at Evoriel was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

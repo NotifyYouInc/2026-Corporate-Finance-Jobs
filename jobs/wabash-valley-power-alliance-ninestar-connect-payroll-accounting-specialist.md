@@ -5,12 +5,12 @@
 | Company | [Wabash Valley Power Alliance](https://scoutify.ai/companies/wabashvalleypoweralliance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Greenfield, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000117683448-ninestar-connect-payroll-accounting-specialist) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000118640356-ninestar-connect-payroll-accounting-specialist) |
 
 ## About This Role
 
-This corporate finance position at Wabash Valley Power Alliance was posted on 2026-03-30.
+This corporate finance position at Wabash Valley Power Alliance was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

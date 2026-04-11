@@ -5,12 +5,12 @@
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000112854823-charge-de-gestion-comptable-dematerialisee-hf) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000118567047-charge-de-gestion-comptable-dematerialisee-hf) |
 
 ## About This Role
 
-This corporate finance position at Evoriel was posted on 2026-03-05.
+This corporate finance position at Evoriel was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

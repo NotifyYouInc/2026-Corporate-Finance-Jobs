@@ -1,16 +1,16 @@
-# Wholesale Excess Casualty Underwriter, Navigators a Brand of The Hartford at Hartford Financial Services
+# Wholesale Excess Casualty Underwriter - Navigators, a Brand of The Hartford at Hartford Financial Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Walnut-Creek-CA/Wholesale-Excess-Casualty-Underwriter--Navigators-a-Brand-of-The-Hartford_R2624228) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Wholesale-Excess-Casualty-Underwriter---Navigators--a-Brand-of-The-Hartford_R2624707) |
 
 ## About This Role
 
-This corporate finance position at Hartford Financial Services was posted on 2026-02-27.
+This corporate finance position at Hartford Financial Services was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

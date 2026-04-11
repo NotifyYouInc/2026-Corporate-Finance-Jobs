@@ -5,12 +5,12 @@
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mauritius |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000116870817-senior-accountant-fund-accounting) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000118549407-senior-accountant-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at Ocorian was posted on 2026-03-26.
+This corporate finance position at Ocorian was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

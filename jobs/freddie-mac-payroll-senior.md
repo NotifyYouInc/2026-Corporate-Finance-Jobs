@@ -5,12 +5,12 @@
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Payroll-Senior_JR16766) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Payroll-Senior_JR16947) |
 
 ## About This Role
 
-This corporate finance position at Freddie Mac was posted on 2026-03-04.
+This corporate finance position at Freddie Mac was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

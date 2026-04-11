@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Payroll-Analyst-II_R-01343178) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mumbai-India/Payroll-Analyst-II_R-01346317) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-02-26.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

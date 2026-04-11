@@ -5,12 +5,12 @@
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000110806635-responsable-comptable-mandant-hf) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000118565313-responsable-comptable-mandant-hf) |
 
 ## About This Role
 
-This corporate finance position at Evoriel was posted on 2026-02-23.
+This corporate finance position at Evoriel was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

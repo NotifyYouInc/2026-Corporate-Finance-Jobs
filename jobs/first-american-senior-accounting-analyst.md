@@ -5,12 +5,12 @@
 | Company | [First American](https://scoutify.ai/companies/firstam?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Scottsdale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Arizona-Scottsdale/Senior-Accounting-Analyst_R053546) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Arizona-Scottsdale/Senior-Accounting-Analyst_R055665) |
 
 ## About This Role
 
-This corporate finance position at First American was posted on 2026-02-20.
+This corporate finance position at First American was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

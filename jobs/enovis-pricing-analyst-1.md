@@ -5,12 +5,12 @@
 | Company | [ENOVIS](https://scoutify.ai/companies/enovis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tijuana, Baja California, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://enovis.wd5.myworkdayjobs.com/enovis/job/Tijuana-Baja-California-Mexico/Pricing-Analyst---1_R0032689) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://enovis.wd5.myworkdayjobs.com/enovis/job/Tijuana-Baja-California-Mexico/Pricing-Analyst---1_R0032688) |
 
 ## About This Role
 
-This corporate finance position at ENOVIS was posted on 2026-04-03.
+This corporate finance position at ENOVIS was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

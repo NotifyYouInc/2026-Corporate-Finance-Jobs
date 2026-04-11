@@ -5,12 +5,12 @@
 | Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000114672497-accounts-receivable-analyst) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000118600682-accounts-receivable-analyst) |
 
 ## About This Role
 
-This corporate finance position at J.S. Held was posted on 2026-03-13.
+This corporate finance position at J.S. Held was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

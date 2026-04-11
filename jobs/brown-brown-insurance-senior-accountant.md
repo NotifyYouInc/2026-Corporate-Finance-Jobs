@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Garden City, Kansas, United States |
+| Location | Tampa, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Garden-City-NY-USA/Senior-Accountant_R26_0000001044-2) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Tampa-FL-USA/Senior-Accountant_R26_0000001275-1) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-03-19.
+This corporate finance position at Brown & Brown Insurance was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

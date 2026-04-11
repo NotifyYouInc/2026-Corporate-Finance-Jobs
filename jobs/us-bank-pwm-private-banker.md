@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Seven-Hills-OH/PWM-Private-Banker_2025-0028241-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Scottsdale-AZ/PWM-Private-Banker_2026-0008356-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-02-24.
+This corporate finance position at U.S. Bank was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

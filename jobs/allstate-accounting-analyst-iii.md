@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
+| Location | Uniondale, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Chicago-Suburban/Accounting-Analyst-III_R27809) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/NY---Uniondale/Accounting-Analyst-III_R27685-1) |
 
 ## About This Role
 
-This corporate finance position at Allstate was posted on 2026-03-24.
+This corporate finance position at Allstate was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

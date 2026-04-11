@@ -5,12 +5,12 @@
 | Company | [Optimal Care](https://scoutify.ai/companies/optimal-care?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jackson, Mississippi, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/optimalcare/jobs/5121777008) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/optimalcare/jobs/5175826008) |
 
 ## About This Role
 
-This corporate finance position at Optimal Care was posted on 2026-02-17.
+This corporate finance position at Optimal Care was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

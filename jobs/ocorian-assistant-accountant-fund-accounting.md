@@ -5,12 +5,12 @@
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mauritius |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000109298460-assistant-accountant-fund-accounting) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000118552004-assistant-accountant-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at Ocorian was posted on 2026-02-13.
+This corporate finance position at Ocorian was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

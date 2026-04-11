@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | San Jose, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Cincinnati-OH/Senior-Financial-Analyst_REQ493141-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Jose-CA/Senior-Financial-Analyst_REQ497719) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-23.
+This corporate finance position at JLL was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

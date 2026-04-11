@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Horsham-PA/Small-Business-Credit-Card-Risk-Manager_2026-0006328) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Horsham-PA/Small-Business-Credit-Card-Risk-Manager_2026-0008277) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-20.
+This corporate finance position at U.S. Bank was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

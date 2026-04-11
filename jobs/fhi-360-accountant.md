@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dhaka, Dhaka Division, Bangladesh |
+| Location | Nairobi, Nairobi County, Kenya |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Dhaka-Bangladesh/Accountant_Requisition-2026200292) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Nairobi-Kenya/Accountant_Requisition-2026200567) |
 
 ## About This Role
 
-This corporate finance position at Fhi 360 was posted on 2026-02-18.
+This corporate finance position at Fhi 360 was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

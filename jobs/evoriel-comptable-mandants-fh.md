@@ -5,12 +5,12 @@
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000116221264-comptable-mandants-fh) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000118563169-comptable-mandants-fh) |
 
 ## About This Role
 
-This corporate finance position at Evoriel was posted on 2026-03-23.
+This corporate finance position at Evoriel was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

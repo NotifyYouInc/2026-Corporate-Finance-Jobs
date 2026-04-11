@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Honolulu, Hawaii, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000115362147-accounting-clerk-part-time) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000118657047-accounting-clerk-part-time) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-18.
+This corporate finance position at ACCOR was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
