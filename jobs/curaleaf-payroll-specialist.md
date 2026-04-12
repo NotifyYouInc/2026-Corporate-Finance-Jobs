@@ -1,16 +1,16 @@
-# Revenue Audit Clerk $16/HR at Boyd Gaming
+# Payroll Specialist  at Curaleaf
 
 | Field | Details |
 |-------|---------|
-| Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Northwood, California, United States |
+| Company | [Curaleaf](https://scoutify.ai/companies/curaleaf?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Las Vegas, Nevada, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012460536-revenue-audit-clerk-16hr) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/curaleaf/jobs/8494034002) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-04-04.
+This corporate finance position at Curaleaf was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

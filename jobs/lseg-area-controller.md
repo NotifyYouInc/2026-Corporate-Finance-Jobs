@@ -1,16 +1,16 @@
-# Staff Accountant at Boyd Gaming
+# Area Controller at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Corporate Finance |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012460836-staff-accountant) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Area-Controller_R0118381-1) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-04-04.
+This corporate finance position at LSEG was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

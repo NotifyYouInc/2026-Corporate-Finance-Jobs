@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000115257753-staff-accountant) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000118703667-staff-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-17.
+This corporate finance position at ACCOR was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 
