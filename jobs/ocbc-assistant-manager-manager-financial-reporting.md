@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Assistant-Manager---Manager--Financial-Reporting_JR00005951) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Assistant-Manager---Manager--Financial-Reporting_JR00006831) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-02-27.
+This corporate finance position at OCBC was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

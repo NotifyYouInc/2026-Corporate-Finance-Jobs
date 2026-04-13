@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Barceloneta, Barceloneta, Puerto Rico |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012411316-accounts-payable-supervisor) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012461436-accounts-payable-supervisor) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-04-01.
+This corporate finance position at AbbVie was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Cairo, Cairo, Egypt |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Cost-Manager_REQ488744) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Cairo-EGY/Cost-Manager_REQ494165) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-09.
+This corporate finance position at JLL was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

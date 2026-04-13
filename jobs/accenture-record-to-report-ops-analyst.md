@@ -6,7 +6,7 @@
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Record-to-Report-Ops-Analyst_AIOC-S01635664-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Record-to-Report-Ops-Analyst_AIOC-S01635734-1) |
 
 ## About This Role
 

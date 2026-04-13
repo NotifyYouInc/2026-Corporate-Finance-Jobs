@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montreuil, Île-de-France, France |
+| Location | Guyancourt, Île-de-France, France |
 | Category | Corporate Finance |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000118567053-assistant-de-gestion-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000118613968-assistant-de-gestion-hf) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-consillre-principale--Tarifcation-et-volutions-des-produits--Assurance-individuelle_R2603628-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Coordonnateur-ou-coordonnatrice--l-actuariat--Assurance-de-dommages_R2604515) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-03-18.
+This corporate finance position at Desjardins was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

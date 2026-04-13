@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Financial-Analyst_R55051-1) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Financial-Analyst---Kim-B_R63496-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-02-14.
+This corporate finance position at Medtronic was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 
