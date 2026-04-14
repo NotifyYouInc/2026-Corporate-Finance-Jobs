@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Lake Mary, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Tampa-FL-USA/Controller_R26_0000001272) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Lake-Mary-FL-USA/Controller_R26_0000001279-1) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-04-03.
+This corporate finance position at Brown & Brown Insurance was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

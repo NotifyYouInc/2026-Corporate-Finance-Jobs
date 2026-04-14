@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | California, US |
+| Location | Markham, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000114751693-j202603007-accounts-receivable-representative-bilingual) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000118864517-j202603007-accounts-receivable-representative-bilingual) |
 
 ## About This Role
 
-This corporate finance position at Quadient was posted on 2026-03-13.
+This corporate finance position at Quadient was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

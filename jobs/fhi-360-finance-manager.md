@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kolwezi, Lualaba, Democratic Republic of the Congo |
+| Location | Nairobi, Nairobi County, Kenya |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Kolwezi-DRC/Finance-Manager_Requisition-2026200479-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Nairobi-Kenya/Finance-Manager_Requisition-2026200575) |
 
 ## About This Role
 
-This corporate finance position at Fhi 360 was posted on 2026-03-23.
+This corporate finance position at Fhi 360 was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

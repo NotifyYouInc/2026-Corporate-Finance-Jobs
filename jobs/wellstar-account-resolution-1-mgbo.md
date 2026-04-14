@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wellstar](https://scoutify.ai/companies/wellstar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://wellstar.wd1.myworkdayjobs.com/wellstarcareers/job/699-Broad-Street/Account-Resolution-1-MGBO_JR-45750) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://wellstar.wd1.myworkdayjobs.com/wellstarcareers/job/VIRTUAL-GA/Account-Resolution-1-MGBO_JR-61602) |
 
 ## About This Role
 
-This corporate finance position at Wellstar was posted on 2026-03-20.
+This corporate finance position at Wellstar was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

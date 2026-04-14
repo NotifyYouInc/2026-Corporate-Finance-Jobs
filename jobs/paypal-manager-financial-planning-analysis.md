@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | San Jose, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Manager--Financial-Planning---Analysis_R0134886-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Manager--Financial-Planning---Analysis_R0135985-1) |
 
 ## About This Role
 
-This corporate finance position at PayPal was posted on 2026-02-17.
+This corporate finance position at PayPal was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

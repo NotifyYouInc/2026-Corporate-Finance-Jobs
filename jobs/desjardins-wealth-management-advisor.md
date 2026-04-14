@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | Saint-Constant, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2604622) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Saint-Constant/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2604704) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-04-02.
+This corporate finance position at Desjardins was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

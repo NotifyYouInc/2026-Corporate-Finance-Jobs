@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Almaty, Almaty, Kazakhstan |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000118570856-accountant) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000118832542-accountant) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-04-03.
+This corporate finance position at Red Bull was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

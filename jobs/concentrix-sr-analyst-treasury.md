@@ -1,0 +1,22 @@
+# Sr. Analyst, Treasury at Concentrix
+
+| Field | Details |
+|-------|---------|
+| Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Karnataka, IN |
+| Category | Corporate Finance |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---1st-Floor-Block-G4-Aspen-Building-Embassy-Manyata-Business-Park/Sr-Analyst--Treasury_R1716996) |
+
+## About This Role
+
+This corporate finance position at Concentrix was posted on 2026-04-06.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [J.M. Smucker](https://scoutify.ai/companies/smucker?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Ohio, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Lead-Analyst--Finance_114913-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Lead-Analyst--Finance_115094) |
 
 ## About This Role
 
-This corporate finance position at J.M. Smucker was posted on 2026-03-03.
+This corporate finance position at J.M. Smucker was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

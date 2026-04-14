@@ -5,12 +5,12 @@
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | El Salvador |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012225666-analista-financiero) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012467633-analista-financiero) |
 
 ## About This Role
 
-This corporate finance position at Grupo Mariposa was posted on 2026-03-19.
+This corporate finance position at Grupo Mariposa was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

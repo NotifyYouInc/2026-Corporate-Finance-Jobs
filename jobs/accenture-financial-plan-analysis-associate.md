@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jaipur, Rajasthan, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Financial-Plan---Analysis-Associate_AIOC-S01634710-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Financial-Plan---Analysis-Associate_AIOC-S01635891-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-03-31.
+This corporate finance position at Accenture was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

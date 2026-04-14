@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Plymouth, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118481487-financial-analyst) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118899587-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-04-02.
+This corporate finance position at Robert Bosch was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

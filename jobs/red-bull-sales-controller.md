@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000118559276-sales-controller) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000118875277-sales-controller) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-04-03.
+This corporate finance position at Red Bull was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

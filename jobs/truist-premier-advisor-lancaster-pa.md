@@ -1,16 +1,16 @@
-# Premier Advisor - Lancaster, PA at Truist
+# Premier Advisor- Lancaster, PA at Truist
 
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lancaster, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Lancaster-PA/Premier-Advisor---Lancaster--PA_R0113098) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Lancaster-PA/Premier-Advisor--Lancaster--PA_R0113097) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-04-03.
+This corporate finance position at Truist was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | California, US |
+| Location | Hagerstown, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ROLLING-HILLS-ESTATES-CA/Client-Associate_R-531204-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/HAGERSTOWN-MD/Client-Associate_R-534580) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-30.
+This corporate finance position at Wells Fargo was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

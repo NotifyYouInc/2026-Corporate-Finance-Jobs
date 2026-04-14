@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BWE](https://scoutify.ai/companies/bwe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Cleveland, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://bwe.wd12.myworkdayjobs.com/bwecareers/job/MD---Columbia/Asset-Manager_REQ2389) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://bwe.wd12.myworkdayjobs.com/bwecareers/job/OH---Cleveland/Asset-Manager_REQ2397) |
 
 ## About This Role
 
-This corporate finance position at BWE was posted on 2026-03-19.
+This corporate finance position at BWE was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

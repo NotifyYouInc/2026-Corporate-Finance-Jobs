@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Credit-Analyst_26WD96136) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Credit-Analyst_26WD97014-1) |
 
 ## About This Role
 
-This corporate finance position at Autodesk was posted on 2026-03-09.
+This corporate finance position at Autodesk was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

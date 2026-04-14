@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Charleston-West-Virginia-United-States-of-America/Wealth-Management-Analyst_JR031931-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Washington-District-of-Columbia-United-States-of-America/Wealth-Management-Analyst_JR033755) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-03-16.
+This corporate finance position at Morgan Stanley was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carta](https://scoutify.ai/companies/carta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7659267003) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7656448003) |
 
 ## About This Role
 
-This corporate finance position at Carta was posted on 2026-03-13.
+This corporate finance position at Carta was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

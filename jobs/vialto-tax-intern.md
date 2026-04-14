@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vialto](https://scoutify.ai/companies/vialto?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Beijing, Beijing, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Hong-Kong/Tax-Intern_REQ907409) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Beijing/Tax-Intern_REQ907611) |
 
 ## About This Role
 
-This corporate finance position at Vialto was posted on 2026-04-02.
+This corporate finance position at Vialto was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

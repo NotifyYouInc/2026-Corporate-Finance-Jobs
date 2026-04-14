@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nissan](https://scoutify.ai/companies/alliance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 7 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Irving-Texas---United-States-of-America/Consumer-Credit-Analyst-II_R00199855) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Irving-Texas---United-States-of-America/Consumer-Credit-Analyst-II_R00207064) |
 
 ## About This Role
 
-This corporate finance position at Nissan was posted on 2026-03-04.
+This corporate finance position at Nissan was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Asurion](https://scoutify.ai/companies/asurion?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Nashville/Senior-Accountant_ASU0019270) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Headquarters/Senior-Accountant_ASU0019526) |
 
 ## About This Role
 
-This corporate finance position at Asurion was posted on 2026-03-24.
+This corporate finance position at Asurion was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

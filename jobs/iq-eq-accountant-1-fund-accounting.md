@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pasig City, National Capital Region, Philippines |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000118825496-accountant-1-fund-accounting) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000118856952-accountant-1-fund-accounting) |
 
 ## About This Role
 

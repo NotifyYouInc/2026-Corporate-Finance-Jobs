@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Financial-Analyst-1_3159195-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Financial-Analyst-1_UNI3434-1) |
 
 ## About This Role
 
-This corporate finance position at Hewlett Packard (HP) was posted on 2026-03-09.
+This corporate finance position at Hewlett Packard (HP) was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

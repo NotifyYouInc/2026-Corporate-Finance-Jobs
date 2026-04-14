@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Middle-Office--Senior-Associate_R-781394) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Middle-Office--Senior-Associate_R-781410-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-23.
+This corporate finance position at State Street was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
