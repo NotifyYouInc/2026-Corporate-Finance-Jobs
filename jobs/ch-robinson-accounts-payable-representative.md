@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Minnesota, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Sao-Paulo-Sao-Paulo-Brazil/Accounts-Payable-Representative_R47627) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minnesota-Remote/Accounts-Payable-Representative_R47756) |
 
 ## About This Role
 
-This corporate finance position at C.H. Robinson was posted on 2026-04-06.
+This corporate finance position at C.H. Robinson was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

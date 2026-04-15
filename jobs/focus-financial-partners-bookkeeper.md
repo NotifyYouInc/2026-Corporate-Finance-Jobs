@@ -5,12 +5,12 @@
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5628752004) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5856008004) |
 
 ## About This Role
 
-This corporate finance position at Focus Financial Partners was posted on 2026-04-06.
+This corporate finance position at Focus Financial Partners was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

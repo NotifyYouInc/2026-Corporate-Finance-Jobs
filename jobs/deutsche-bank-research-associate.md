@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Research-Associate_R0419304) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Research-Associate_R0427934) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-03-10.
+This corporate finance position at Deutsche Bank was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

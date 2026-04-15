@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Videotron](https://scoutify.ai/companies/videotron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Mirabel, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000116480588-comptable) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000119171657-comptable) |
 
 ## About This Role
 
-This corporate finance position at Videotron was posted on 2026-03-24.
+This corporate finance position at Videotron was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

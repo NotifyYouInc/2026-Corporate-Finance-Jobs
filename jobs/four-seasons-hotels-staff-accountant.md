@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Mauritius |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Los-Angeles---Four-Seasons/Staff-Accountant_REQ10371596) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Mauritius/Staff-Accountant_REQ10376197) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-02-11.
+This corporate finance position at Four Seasons Hotels was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

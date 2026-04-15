@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Limassol, Limassol, Cyprus |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000117031756-junior-associate-director-fund-accountant-private-equity) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000119143077-junior-associate-director-fund-accountant-private-equity) |
 
 ## About This Role
 
-This corporate finance position at MUFG Investor Services was posted on 2026-03-26.
+This corporate finance position at MUFG Investor Services was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

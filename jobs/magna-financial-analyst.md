@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Germany |
+| Location | Windsor, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Collesalvetti-IT/Financial-Analyst_R00230378-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Windsor-Ontario-CA/Financial-Analyst_R00237960) |
 
 ## About This Role
 
-This corporate finance position at Magna was posted on 2026-03-26.
+This corporate finance position at Magna was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

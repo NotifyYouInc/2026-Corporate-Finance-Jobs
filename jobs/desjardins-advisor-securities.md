@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/296-rue-De-Martigny-Ouest/Assistant-ou-assistante-en-gestion-de-patrimoine_R2604595) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Conseiller-associ-ou-conseillre-associe--Gestion-de-patrimoine_R2604847) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-04-03.
+This corporate finance position at Desjardins was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

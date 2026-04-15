@@ -5,12 +5,12 @@
 | Company | [Believe](https://scoutify.ai/companies/believe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000118846537-business-controller-senior-leader) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000119128453-business-controller-senior-leader) |
 
 ## About This Role
 
-This corporate finance position at Believe was posted on 2026-04-06.
+This corporate finance position at Believe was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

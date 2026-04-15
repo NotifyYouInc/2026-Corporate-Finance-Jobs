@@ -5,12 +5,12 @@
 | Company | [J.B. Hunt Transport Services](https://scoutify.ai/companies/j-b-hunt-transport-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lowell, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Accounts-Receivable-Representative-I_00617418) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Accounts-Receivable-Representative-I_00622593-1) |
 
 ## About This Role
 
-This corporate finance position at J.B. Hunt Transport Services was posted on 2026-02-25.
+This corporate finance position at J.B. Hunt Transport Services was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

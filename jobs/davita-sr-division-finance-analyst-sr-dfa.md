@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
+| Location | Federal Way, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01550---Illinois-Remote/Sr-Division-Finance-Analyst--Sr-DFA-_R0452544) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05742---Polaris-Group-Office/Sr-Division-Finance-Analyst--Sr-DFA-_R0452404) |
 
 ## About This Role
 
-This corporate finance position at DaVita was posted on 2026-04-03.
+This corporate finance position at DaVita was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Orlando, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Minneapolis/Federal-Tax-Associate--Fall-2026-Winter-2027-_JR106788) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Orlando/Federal-Tax-Associate--Fall-2026-Winter-2027-_JR107938) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-04-06.
+This corporate finance position at RSM was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

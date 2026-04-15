@@ -5,12 +5,12 @@
 | Company | [QTS](https://scoutify.ai/companies/qtsdatacenters?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Atlanta-GA/Cost-Control-Manager_R2026-0405-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Atlanta-GA/Cost-Control-Manager_R2026-0673-1) |
 
 ## About This Role
 
-This corporate finance position at QTS was posted on 2026-03-02.
+This corporate finance position at QTS was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

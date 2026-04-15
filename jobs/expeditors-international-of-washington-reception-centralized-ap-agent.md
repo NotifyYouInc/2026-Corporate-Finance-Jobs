@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000116697516-reception-centralized-ap-agent) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000119201087-reception-centralized-ap-agent) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-03-25.
+This corporate finance position at Expeditors International of Washington was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

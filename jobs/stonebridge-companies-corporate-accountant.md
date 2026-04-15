@@ -5,12 +5,12 @@
 | Company | [Stonebridge Companies](https://scoutify.ai/companies/sbcos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Stonebridge-Corporate/Corporate-Accountant_R0030297) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Stonebridge-Corporate/Corporate-Accountant_R0030439) |
 
 ## About This Role
 
-This corporate finance position at Stonebridge Companies was posted on 2026-03-27.
+This corporate finance position at Stonebridge Companies was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

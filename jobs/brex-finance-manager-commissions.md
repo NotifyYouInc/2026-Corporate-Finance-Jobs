@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brex](https://scoutify.ai/companies/brex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://www.brex.com/careers/8494242002?gh_jid=8494242002) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://www.brex.com/careers/8495855002?gh_jid=8495855002) |
 
 ## About This Role
 
-This corporate finance position at Brex was posted on 2026-04-04.
+This corporate finance position at Brex was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Halifax, Nova Scotia, Canada |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Halifax-Canada/Senior-Associate_R42048) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Maharashtra-Navi-Mumbai/Senior-Associate_R42153) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-03-31.
+This corporate finance position at SS&C Technologies was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

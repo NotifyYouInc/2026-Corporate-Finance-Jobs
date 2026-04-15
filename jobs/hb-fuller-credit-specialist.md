@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H.B. Fuller](https://scoutify.ai/companies/hbfuller?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnesota, US |
+| Location | Guangzhou, Guangdong, China |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/St-Paul-Minnesota-USA/Credit-Specialist_R26_0000000696) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Guangzhou-China/Credit-Specialist_R26_0000000581) |
 
 ## About This Role
 
-This corporate finance position at H.B. Fuller was posted on 2026-03-12.
+This corporate finance position at H.B. Fuller was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

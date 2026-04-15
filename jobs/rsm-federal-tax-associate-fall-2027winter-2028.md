@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Des Moines, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Phoenix/FY28-Federal-Tax-Associate--Summer-2027-Jan-2028-_JR112686) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Federal-Tax-Associate--Fall-2027-Winter-2028-_JR114635) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-04-06.
+This corporate finance position at RSM was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

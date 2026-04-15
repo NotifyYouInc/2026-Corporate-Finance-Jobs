@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Location | São José dos Campos, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/RIO-DE-JANEIRO/Espec-Clientes-Select-High_Req1544844-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-JOSE-DOS-CAMPOS/Espec-Clientes-Select-High_Req1557842-1) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-04-01.
+This corporate finance position at Santander was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AP26 - Bac+5 - Contrôleur de gestion (H/F) at Renault Group
+# AP26 - BAC+5 – Contrôleur de gestion – H/F at Renault Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | France |
+| Location | Le Mans, Pays de la Loire, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Val-de-fontenay/AP26---Bac-5---Contrleur-de-gestion--H-F-_JOBREQ_50252238) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Le-Mans/AP26---BAC-5---Contrleur-de-gestion---H-F_JOBREQ_50246116) |
 
 ## About This Role
 
-This corporate finance position at Renault Group was posted on 2026-03-19.
+This corporate finance position at Renault Group was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
