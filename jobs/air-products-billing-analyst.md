@@ -5,12 +5,12 @@
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Shanghai-China/Billing-Analyst_JR-2026-19524) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Shanghai-China/Billing-Analyst_JR-2026-19987) |
 
 ## About This Role
 
-This corporate finance position at Air Products was posted on 2026-02-26.
+This corporate finance position at Air Products was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

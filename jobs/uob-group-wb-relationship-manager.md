@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Thailand |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Nonthaburi-City-Area/WB-Relationship-Manager_JR81584) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Bangkok-City-Area/WB-Relationship-Manager_JR83610) |
 
 ## About This Role
 
-This corporate finance position at UOB Group was posted on 2026-03-24.
+This corporate finance position at UOB Group was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

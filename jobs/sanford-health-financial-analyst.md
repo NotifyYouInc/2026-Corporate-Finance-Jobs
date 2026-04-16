@@ -5,12 +5,12 @@
 | Company | [Sanford Health](https://scoutify.ai/companies/sanford?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sioux Falls, South Dakota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-Sioux-Falls/Financial-Analyst_R-0251104) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-Sioux-Falls/Financial-Analyst_R-0255757) |
 
 ## About This Role
 
-This corporate finance position at Sanford Health was posted on 2026-03-30.
+This corporate finance position at Sanford Health was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

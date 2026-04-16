@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Taman-Ponderosa-City-Area/MGR-AVP--Relationship-Manager---Wealth-Banking_JR80966) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/City-Square-City-Area/MGR---VP--Relationship-Manager_JR64531) |
 
 ## About This Role
 
-This corporate finance position at UOB Group was posted on 2026-03-17.
+This corporate finance position at UOB Group was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
