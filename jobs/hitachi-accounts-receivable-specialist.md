@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Estonia |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HGAP-Longview-TX/Accounts-Receivable-Specialist_R0120763) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Harjumaa-Harju-Estonia/Accounts-Receivable-Specialist_R0125359) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-03-23.
+This corporate finance position at Hitachi was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Qubec-Qubec/Technicien-ne--comptable_JR10025881-2) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Qubec-Qubec/Technicien-ne--comptable_JR10026171-1) |
 
 ## About This Role
 
-This corporate finance position at Industrial Alliance was posted on 2026-03-19.
+This corporate finance position at Industrial Alliance was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Washington, US |
+| Location | Minnesota, US |
 | Category | Corporate Finance |
 | Posted | 2026-04-09 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Woodinville-Washington/Sleep-Expert---Sales_JR-P0061530) |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Circle-Pines-Minnesota/Sleep-Expert---Sales_JR-P0061535) |
 
 ## About This Role
 

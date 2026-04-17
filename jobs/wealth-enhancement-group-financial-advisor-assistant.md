@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Madison-WI/Financial-Advisor-Assistant_R-102286) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/San-Francisco-CA/Financial-Advisor-Assistant_R-102336) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-03-16.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

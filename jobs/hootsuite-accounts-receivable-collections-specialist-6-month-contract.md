@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hootsuite](https://scoutify.ai/companies/hootsuite?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://careers.hootsuite.com/job/?gh_jid=7771825) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://careers.hootsuite.com/job/?gh_jid=7799631) |
 
 ## About This Role
 
-This corporate finance position at Hootsuite was posted on 2026-04-08.
+This corporate finance position at Hootsuite was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

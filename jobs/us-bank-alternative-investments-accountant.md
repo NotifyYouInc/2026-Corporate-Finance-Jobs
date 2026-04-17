@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Alternative-Investments-Accountant_2026-0006288) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Alternative-Investments-Accountant_2026-0007327-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-20.
+This corporate finance position at U.S. Bank was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northmarq](https://scoutify.ai/companies/northmarq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | San Diego, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5179289008) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5182879008) |
 
 ## About This Role
 
-This corporate finance position at Northmarq was posted on 2026-04-07.
+This corporate finance position at Northmarq was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

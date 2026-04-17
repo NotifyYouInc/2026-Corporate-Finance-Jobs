@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Evergreen/Banco-de-Talentos---Assessor-de-Investimentos---Vaga-Afirmativa-para-Pessoas-Com-Deficincia_Req1553796) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Banco-de-Talentos---Assessor-de-Investimentos---Vaga-Afirmativa-para-Pessoas-Com-Deficincia_Req1491060) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-03-13.
+This corporate finance position at Santander was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Brentwood, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Oakville-ON/Accounting-Manager_R0035061) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Brentwood-TN/Accounting-Manager_R0033919-1) |
 
 ## About This Role
 
-This corporate finance position at HUB International was posted on 2026-03-12.
+This corporate finance position at HUB International was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

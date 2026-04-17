@@ -5,12 +5,12 @@
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guatemala |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012470756-21002013-liquidador-naranjo) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012533761-21002013-liquidador-naranjo) |
 
 ## About This Role
 
-This corporate finance position at Grupo Mariposa was posted on 2026-04-06.
+This corporate finance position at Grupo Mariposa was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

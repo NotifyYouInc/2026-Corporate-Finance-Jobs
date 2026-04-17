@@ -5,12 +5,12 @@
 | Company | [University of British Columbia (UBC)](https://scoutify.ai/companies/university-of-british-columbia-ubc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Financial-Analyst_JR23704) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Alternate-Site---Vancouver-BC-Canada/Financial-Analyst_JR24154) |
 
 ## About This Role
 
-This corporate finance position at University of British Columbia (UBC) was posted on 2026-02-24.
+This corporate finance position at University of British Columbia (UBC) was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

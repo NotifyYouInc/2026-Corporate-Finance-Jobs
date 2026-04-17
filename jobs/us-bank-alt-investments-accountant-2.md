@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hackensack, New Jersey, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hackensack-NJ/Alt-Investments-Accountant-2_2026-0003199) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Alt-Investments-Accountant-2_2026-0008334) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-02-12.
+This corporate finance position at U.S. Bank was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

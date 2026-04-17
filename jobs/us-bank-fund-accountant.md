@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tempe-AZ/Fund-Accountant_2026-0006099) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tempe-AZ/Fund-Accountant_2026-0001432-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-18.
+This corporate finance position at U.S. Bank was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

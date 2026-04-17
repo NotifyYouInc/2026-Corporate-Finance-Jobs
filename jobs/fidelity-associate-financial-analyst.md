@@ -5,12 +5,12 @@
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Westlake, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Financial-Analyst_2124088-1) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Financial-Analyst_2125327) |
 
 ## About This Role
 
-This corporate finance position at Fidelity was posted on 2026-03-03.
+This corporate finance position at Fidelity was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

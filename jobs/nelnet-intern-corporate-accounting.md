@@ -5,12 +5,12 @@
 | Company | [Nelnet](https://scoutify.ai/companies/nelnet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lincoln, Nebraska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Corporate-Accounting_R22415) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Corporate-Accounting_R22526) |
 
 ## About This Role
 
-This corporate finance position at Nelnet was posted on 2026-03-09.
+This corporate finance position at Nelnet was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

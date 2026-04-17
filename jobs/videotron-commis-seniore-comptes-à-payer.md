@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Videotron](https://scoutify.ai/companies/videotron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000111944085-commis-seniore-comptes-a-payer) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000119598033-commis-seniore-comptes-a-payer) |
 
 ## About This Role
 
-This corporate finance position at Videotron was posted on 2026-02-27.
+This corporate finance position at Videotron was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

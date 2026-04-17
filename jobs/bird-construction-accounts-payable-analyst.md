@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bird Construction](https://scoutify.ai/companies/bird-construction?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Edmonton, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://bird.wd3.myworkdayjobs.com/birdconstructioncareers/job/Edmonton-AB/Accounts-Payable-Analyst_JR-8324) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://bird.wd3.myworkdayjobs.com/birdconstructioncareers/job/Edmonton-AB/Accounts-Payable-Analyst_JR-8597-1) |
 
 ## About This Role
 
-This corporate finance position at Bird Construction was posted on 2026-02-04.
+This corporate finance position at Bird Construction was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Financial Analyst at FLEX LTD. Flextronics
+# Financial analyst at FLEX LTD. Flextronics
 
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Financial-Analyst_WD215274) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Juarez/Financial-analyst_WD218671-1) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-02-11.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

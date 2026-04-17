@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mountain View, California, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Senior-Financial-Analyst_JR-202606685) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Roanoke-Indiana-United-States-of-America/Senior-Financial-Analyst_JR-202607698) |
 
 ## About This Role
 
-This corporate finance position at General Motors was posted on 2026-03-25.
+This corporate finance position at General Motors was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
