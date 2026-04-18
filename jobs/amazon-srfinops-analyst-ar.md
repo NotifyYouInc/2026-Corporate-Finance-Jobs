@@ -1,16 +1,16 @@
-# Sr.Finops Analyst – AR at Amazon
+# Sr.FinOps Analyst- AR at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3200336/sr-finops-analyst-ar) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10389130/sr-finops-analyst-ar) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-03-10.
+This corporate finance position at Amazon was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

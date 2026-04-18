@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012433926-accounting-and-business-operations-manager) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012547582-accounting-and-business-operations-manager) |
 
 ## About This Role
 
-This corporate finance position at Harvard University was posted on 2026-04-02.
+This corporate finance position at Harvard University was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000118592647-assistant-accounting-ar) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000119994156-assistant-accounting-ar) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-04-03.
+This corporate finance position at Expeditors International of Washington was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

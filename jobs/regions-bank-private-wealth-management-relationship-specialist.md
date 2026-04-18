@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Fairhope, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Tampa-FL---Kennedy-Branch/Private-Wealth-Management-Relationship-Specialist_R100912-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Fairhope-AL---Fairhope-Section-Street-LPODPO/Private-Wealth-Management-Relationship-Specialist_R99785-1) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-03-10.
+This corporate finance position at Regions Bank was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Green Thumb](https://scoutify.ai/companies/green-thumb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cottage Grove, Minnesota, United States |
+| Location | Holyoke, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/greenthumbindustries/jobs/7777924) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/greenthumbindustries/jobs/7777890) |
 
 ## About This Role
 
-This corporate finance position at Green Thumb was posted on 2026-04-03.
+This corporate finance position at Green Thumb was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

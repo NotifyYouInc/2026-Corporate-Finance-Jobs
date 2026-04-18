@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wichita, Kansas, United States |
+| Location | Danvers, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KS-Wichita/Client-Specialist_R2026346-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/MA-Danvers/Client-Specialist_R2026446-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-03-13.
+This corporate finance position at Baird was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

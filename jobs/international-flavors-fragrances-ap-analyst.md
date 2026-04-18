@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Azcapotzalco, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Punto-Polanco-Mexico/AP-Analyst_R16658-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Punto-Polanco-Mexico/AP-Analyst_R17068) |
 
 ## About This Role
 
-This corporate finance position at International Flavors & Fragrances was posted on 2026-03-30.
+This corporate finance position at International Flavors & Fragrances was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000118239155-auxiliar-de-facturacion) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000120005397-auxiliar-de-facturacion) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-04-01.
+This corporate finance position at Veolia was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

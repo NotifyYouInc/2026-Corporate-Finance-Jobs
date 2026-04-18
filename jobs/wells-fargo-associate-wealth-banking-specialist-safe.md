@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Bloomington, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NASHVILLE-TN/Associate-Wealth-Banking-Specialist--SAFE-_R-534859) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BLOOMINGTON-IL/Associate-Wealth-Banking-Specialist--SAFE-_R-534933) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-09.
+This corporate finance position at Wells Fargo was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

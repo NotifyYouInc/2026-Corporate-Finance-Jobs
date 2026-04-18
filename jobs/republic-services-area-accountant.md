@@ -5,12 +5,12 @@
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Area-Accountant_R-168814) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Area-Accountant_R-172979) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-02-10.
+This corporate finance position at Republic Services was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

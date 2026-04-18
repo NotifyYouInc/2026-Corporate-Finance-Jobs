@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CINCINNATI-OH/Client-Associate_R-534384) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Client-Associate_R-535209) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-07.
+This corporate finance position at Wells Fargo was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

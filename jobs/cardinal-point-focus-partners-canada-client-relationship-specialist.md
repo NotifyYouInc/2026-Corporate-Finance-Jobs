@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Point, Focus Partners Canada](https://scoutify.ai/companies/cardinal-point-focus-partners-canada?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cardinalpoint/jobs/5810480004) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cardinalpoint/jobs/5922827004) |
 
 ## About This Role
 
-This corporate finance position at Cardinal Point, Focus Partners Canada was posted on 2026-03-05.
+This corporate finance position at Cardinal Point, Focus Partners Canada was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

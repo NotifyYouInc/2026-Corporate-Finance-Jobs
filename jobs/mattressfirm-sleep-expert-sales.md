@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnesota, US |
+| Location | Birmingham, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Circle-Pines-Minnesota/Sleep-Expert---Sales_JR-P0061535) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Birmingham-Alabama/Sleep-Expert---Sales_JR-P0061351) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-09.
+This corporate finance position at Mattressfirm was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

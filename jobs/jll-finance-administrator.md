@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | China |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taipei-Taiwan-China/Finance-Administrator_REQ490285) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Finance-Administrator_REQ499766-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-02.
+This corporate finance position at JLL was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

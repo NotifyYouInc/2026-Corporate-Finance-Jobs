@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oak Lawn, Illinois, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Advocate-Christ-Hospital--Medical-Center---4440-W-95th-St/Financial-Analyst_R228434) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Advocate-South-Suburban-Hospital---17800-Kedzie-Ave/Financial-Analyst_R228406) |
 
 ## About This Role
 
-This corporate finance position at Advocate Health was posted on 2026-04-07.
+This corporate finance position at Advocate Health was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

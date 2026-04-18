@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | California, US |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000116720225-financial-planning-analysis-manager) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000120081835-financial-planning-analysis-manager) |
 
 ## About This Role
 
-This corporate finance position at The Wonderful Company was posted on 2026-03-25.
+This corporate finance position at The Wonderful Company was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

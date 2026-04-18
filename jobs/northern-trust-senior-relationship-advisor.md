@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Newport Beach, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Wilmington-DE/Senior-Relationship-Advisor_R152423) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Newport-Beach-CA/Senior-Relationship-Advisor_R153884) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-03-02.
+This corporate finance position at Northern Trust was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

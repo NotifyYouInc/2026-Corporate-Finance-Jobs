@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lafayette, Louisiana, United States |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Accountant_R0000360867) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Houston-Texas/Accountant_R0000361339) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-04-02.
+This corporate finance position at Caterpillar was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

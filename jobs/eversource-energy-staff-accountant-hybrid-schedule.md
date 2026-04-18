@@ -5,12 +5,12 @@
 | Company | [Eversource Energy](https://scoutify.ai/companies/eversource-energy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Connecticut, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/Staff-Accountant--Hybrid-Schedule-_R-029598) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/Staff-Accountant--Hybrid-Schedule-_R-030220) |
 
 ## About This Role
 
-This corporate finance position at Eversource Energy was posted on 2026-02-11.
+This corporate finance position at Eversource Energy was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

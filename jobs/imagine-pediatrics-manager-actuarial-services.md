@@ -5,12 +5,12 @@
 | Company | [Imagine Pediatrics](https://scoutify.ai/companies/imagine-pediatrics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/imaginepediatrics/jobs/4663378005) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/imaginepediatrics/jobs/4684165005) |
 
 ## About This Role
 
-This corporate finance position at Imagine Pediatrics was posted on 2026-02-17.
+This corporate finance position at Imagine Pediatrics was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

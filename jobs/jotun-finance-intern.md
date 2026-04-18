@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jotun](https://scoutify.ai/companies/jotun?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Addis Ababa, Addis Ababa, Ethiopia |
+| Location | Itaboraí, Rio de Janeiro, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jotun.wd3.myworkdayjobs.com/jotun_careers/job/Addis-Ababa/Finance-Intern_R9641) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jotun.wd3.myworkdayjobs.com/jotun_careers/job/Itaborai/Estagirio-Financeiro_R9695) |
 
 ## About This Role
 
-This corporate finance position at Jotun was posted on 2026-03-23.
+This corporate finance position at Jotun was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Loews Hotels](https://scoutify.ai/companies/loews-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://loewshotels.wd5.myworkdayjobs.com/loewshotels/job/IL---Chicago---Loews-Chicago-Hotel/Assistant-Director--Finance_R0082978) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://loewshotels.wd5.myworkdayjobs.com/loewshotels/job/GA---Atlanta---Loews-Atlanta-Hotel/Assistant-Director--Finance_R0083765-1) |
 
 ## About This Role
 
-This corporate finance position at Loews Hotels was posted on 2026-03-14.
+This corporate finance position at Loews Hotels was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
