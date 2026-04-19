@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/privateequityinsights/jobs/7696517003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/privateequityinsights/jobs/7696518003) |
 
 ## About This Role
 

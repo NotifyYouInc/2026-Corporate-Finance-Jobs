@@ -1,16 +1,16 @@
-# Portfolio Advisor at Northern Trust
+# Emerging Affluent West Region Leader at U.S. Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vero Beach, Florida, United States |
+| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Gresham, Oregon, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Vero-Beach-FL/Portfolio-Advisor_R148285-1) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Gresham-OR/Emerging-Affluent-West-Region-Leader_2026-0008690) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-11.
+This corporate finance position at U.S. Bank was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

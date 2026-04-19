@@ -1,16 +1,16 @@
-# Portfolio Advisor at Northern Trust
+# Financial Reporting Manager at GenesisCare
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vero Beach, Florida, United States |
+| Company | [GenesisCare](https://scoutify.ai/companies/genesiscare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New South Wales, AU |
 | Category | Corporate Finance |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Vero-Beach-FL/Portfolio-Advisor_R148285-1) |
+| Apply | [View on company site](https://genesiscare.wd1.myworkdayjobs.com/genesiscare_careers/job/Alexandria-Sydney/Financial-Reporting-Manager_R0023004) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-11.
+This corporate finance position at GenesisCare was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

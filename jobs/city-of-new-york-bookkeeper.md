@@ -1,16 +1,16 @@
-# Portfolio Advisor at Northern Trust
+# Bookkeeper at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vero Beach, Florida, United States |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Vero-Beach-FL/Portfolio-Advisor_R148285-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012563846-bookkeeper) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-11.
+This corporate finance position at City of New York was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

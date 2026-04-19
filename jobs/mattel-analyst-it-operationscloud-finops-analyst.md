@@ -1,16 +1,16 @@
-# Portfolio Advisor at Northern Trust
+# Analyst IT Operations(Cloud FinOps Analyst) at Mattel
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vero Beach, Florida, United States |
+| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Vero-Beach-FL/Portfolio-Advisor_R148285-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000120211267-analyst-it-operationscloud-finops-analyst) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-11.
+This corporate finance position at Mattel was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 
