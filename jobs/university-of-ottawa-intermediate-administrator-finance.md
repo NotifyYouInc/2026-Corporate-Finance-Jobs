@@ -5,12 +5,12 @@
 | Company | [University of Ottawa](https://scoutify.ai/companies/university-of-ottawa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Intermediate-Administrator--Finance_JR32278) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Intermediate-Administrator--Finance_JR33351) |
 
 ## About This Role
 
-This corporate finance position at University of Ottawa was posted on 2026-03-12.
+This corporate finance position at University of Ottawa was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

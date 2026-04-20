@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shoppers Drug Mart](https://scoutify.ai/companies/shoppers-drug-mart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cranbrook, British Columbia, Canada |
+| Location | Bolton, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://myview.wd3.myworkdayjobs.com/sdm_careers/job/1500-Cranbrook-St-Unit-275-Cranbrook-BC/Store-Administrator_R2000656371) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://myview.wd3.myworkdayjobs.com/sdm_careers/job/1-Queensgate-Blvd-Bolton-ON/Store-Administrator_R2000609108) |
 
 ## About This Role
 
-This corporate finance position at Shoppers Drug Mart was posted on 2026-04-09.
+This corporate finance position at Shoppers Drug Mart was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

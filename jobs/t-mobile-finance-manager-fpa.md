@@ -1,16 +1,16 @@
-# Finance Manager - FP&A at T-Mobile
+# Finance Manager, FP&A at T-Mobile
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Bellevue, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Finance-Manager---FP-A_REQ345469-2) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Finance-Manager--FP-A_REQ348285) |
 
 ## About This Role
 
-This corporate finance position at T-Mobile was posted on 2026-03-02.
+This corporate finance position at T-Mobile was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

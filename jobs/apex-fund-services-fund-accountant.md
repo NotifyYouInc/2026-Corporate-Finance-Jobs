@@ -1,16 +1,16 @@
-# Fund accountant at Apex Fund Services
+# Fund Accountant at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Fund-accountant_JR-0021031) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Fund-Accountant_JR-0021826) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-04-06.
+This corporate finance position at Apex Fund Services was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

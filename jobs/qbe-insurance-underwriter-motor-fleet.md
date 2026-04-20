@@ -1,16 +1,16 @@
-# Underwriter – Motor Fleet at QBE Insurance
+# Underwriter, Motor Fleet at QBE Insurance
 
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Birmingham, England, United Kingdom |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Birmingham-United-Kingdom/Underwriter---Motor-Fleet_353873) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---Adelaide---11-Waymouth-Street/Underwriter--Motor-Fleet_353692-1) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-04-10.
+This corporate finance position at QBE Insurance was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Financial Controller at ACCOR
+# Financial Controller  at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bhubaneswar, Odisha, India |
+| Location | India |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000115363478-financial-controller) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000120316608-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-18.
+This corporate finance position at ACCOR was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

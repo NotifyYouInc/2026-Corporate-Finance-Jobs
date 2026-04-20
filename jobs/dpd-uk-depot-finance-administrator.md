@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DPD UK](https://scoutify.ai/companies/dpduk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ipswich, England, United Kingdom |
+| Location | Cardiff, Wales, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DPDGroupUK1/744000120007968-depot-finance-administrator) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DPDGroupUK1/744000120316418-depot-finance-administrator) |
 
 ## About This Role
 
-This corporate finance position at DPD UK was posted on 2026-04-10.
+This corporate finance position at DPD UK was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

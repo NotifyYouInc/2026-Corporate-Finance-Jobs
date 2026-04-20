@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dalian, Liaoning, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Order-to-Cash-Processor_13706434) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Order-to-Cash-Processor_13706438) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-09.
+This corporate finance position at Accenture was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quincy, Massachusetts, United States |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Financial-Reporting--Senior-Associate_R-785875) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Financial-Reporting--Senior-Associate_R-788010) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-23.
+This corporate finance position at State Street was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
