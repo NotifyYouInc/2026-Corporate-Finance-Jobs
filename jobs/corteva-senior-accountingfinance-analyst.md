@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Corteva](https://scoutify.ai/companies/corteva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Des Moines, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/Des-Moines-Iowa-United-States/Senior-Accounting-Finance-Analyst_245423W-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/Des-Moines-Iowa-United-States/Senior-Accounting-Finance-Analyst_246194W-1) |
 
 ## About This Role
 
-This corporate finance position at Corteva was posted on 2026-02-04.
+This corporate finance position at Corteva was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

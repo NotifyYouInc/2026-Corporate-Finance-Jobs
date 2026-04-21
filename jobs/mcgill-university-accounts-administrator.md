@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sherbrooke, Quebec, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Sherbrooke-1010/Accounts-Administrator_JR0000074836) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McConnell-Eng-Bldg/Accounts-Administrator_JR0000075053) |
 
 ## About This Role
 
-This corporate finance position at McGill University was posted on 2026-04-10.
+This corporate finance position at McGill University was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

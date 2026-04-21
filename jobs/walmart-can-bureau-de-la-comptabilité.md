@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Blainville, Quebec, Canada |
+| Location | Granby, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Blainville-QC/XMLNAME--CAN--Bureau-de-la-comptabilit_R-2470857) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Granby-QC/XMLNAME--CAN--Bureau-de-la-comptabilit_R-2477298) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-04-07.
+This corporate finance position at Walmart was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

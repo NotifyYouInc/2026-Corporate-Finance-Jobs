@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Eagan, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Associate-Credit-Representative_R00287260) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Associate-Credit-Representative_R00290746-1) |
 
 ## About This Role
 
-This corporate finance position at Ecolab was posted on 2026-03-04.
+This corporate finance position at Ecolab was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

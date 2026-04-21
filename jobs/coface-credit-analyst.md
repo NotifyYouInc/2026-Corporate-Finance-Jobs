@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000120206187-credit-analyst) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000120543638-credit-analyst) |
 
 ## About This Role
 
-This corporate finance position at Coface was posted on 2026-04-11.
+This corporate finance position at Coface was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

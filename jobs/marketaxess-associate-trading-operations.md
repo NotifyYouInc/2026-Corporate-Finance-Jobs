@@ -5,12 +5,12 @@
 | Company | [MarketAxess](https://scoutify.ai/companies/marketaxess?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.marketaxess.com/careers/current-openings/detail/jobs/4671785006?gh_jid=4671785006) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.marketaxess.com/careers/current-openings/detail/jobs/4672646006?gh_jid=4672646006) |
 
 ## About This Role
 
-This corporate finance position at MarketAxess was posted on 2026-04-09.
+This corporate finance position at MarketAxess was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

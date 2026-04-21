@@ -1,16 +1,16 @@
-# Health Claims Collections, Specialist II at Orthofix
+# Health Claims Collections Specialist II at Orthofix
 
 | Field | Details |
 |-------|---------|
 | Company | [Orthofix](https://scoutify.ai/companies/orthofix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lewisville, Texas, United States |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://orthofix.wd1.myworkdayjobs.com/external_careers/job/Lewisville/Health-Claims-Collections--Specialist-II_OFX26107) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://orthofix.wd1.myworkdayjobs.com/external_careers/job/Remote---United-States/Health-Claims-Specialist-II_OFX26148) |
 
 ## About This Role
 
-This corporate finance position at Orthofix was posted on 2026-03-11.
+This corporate finance position at Orthofix was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

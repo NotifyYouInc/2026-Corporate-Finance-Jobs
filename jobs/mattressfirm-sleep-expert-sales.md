@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Birmingham, Alabama, United States |
+| Location | Selma, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Birmingham-Alabama/Sleep-Expert---Sales_JR-P0061351) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Selma-Texas/Sleep-Expert---Sales_JR-P0061568) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-10.
+This corporate finance position at Mattressfirm was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

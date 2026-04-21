@@ -5,12 +5,12 @@
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/Wealth-Management-Client-Relationship-Manager_R250700070-3) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Wealth-Management-Client-Relationship-Manager_R260300641-1) |
 
 ## About This Role
 
-This corporate finance position at TIAA was posted on 2026-04-09.
+This corporate finance position at TIAA was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

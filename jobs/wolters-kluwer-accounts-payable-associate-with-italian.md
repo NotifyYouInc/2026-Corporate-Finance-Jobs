@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ROU---Cluj-Napoca/Accounts-Payable-Associate-with-Italian_R0055885) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ROU---Cluj-Napoca/Accounts-Payable-Associate-with-Italian_R0055884) |
 
 ## About This Role
 
-This corporate finance position at Wolters Kluwer was posted on 2026-03-27.
+This corporate finance position at Wolters Kluwer was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

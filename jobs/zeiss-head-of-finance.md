@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Guangzhou, Guangdong, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Toronto/Head-of-Finance_JR_1047866) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Guangzhou/Head-of-Finance_JR_1047110) |
 
 ## About This Role
 
-This corporate finance position at Zeiss was posted on 2026-04-10.
+This corporate finance position at Zeiss was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

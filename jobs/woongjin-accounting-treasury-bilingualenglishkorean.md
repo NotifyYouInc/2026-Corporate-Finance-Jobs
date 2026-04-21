@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | New Jersey, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118625847-accounting-treasury-bilingualenglishkorean) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000120488277-accounting-treasury-bilingualenglishkorean) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-04-03.
+This corporate finance position at Woongjin was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

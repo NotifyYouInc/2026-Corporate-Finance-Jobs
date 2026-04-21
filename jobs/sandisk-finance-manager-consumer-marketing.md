@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Milpitas, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000117708428-finance-manager-consumer-marketing) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000120555670-finance-manager-consumer-marketing) |
 
 ## About This Role
 
-This corporate finance position at SanDisk was posted on 2026-03-30.
+This corporate finance position at SanDisk was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

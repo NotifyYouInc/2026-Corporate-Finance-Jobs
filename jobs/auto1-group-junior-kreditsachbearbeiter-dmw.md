@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000114682539-junior-kreditsachbearbeiter-dmw) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000120600157-junior-kreditsachbearbeiter-dmw) |
 
 ## About This Role
 
-This corporate finance position at AUTO1 Group was posted on 2026-03-13.
+This corporate finance position at AUTO1 Group was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

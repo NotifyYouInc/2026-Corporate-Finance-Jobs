@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Redlands, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.esri.com/careers/5078871007?gh_jid=5078871007) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.esri.com/careers/5107028007?gh_jid=5107028007) |
 
 ## About This Role
 
-This corporate finance position at Esri was posted on 2026-03-13.
+This corporate finance position at Esri was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

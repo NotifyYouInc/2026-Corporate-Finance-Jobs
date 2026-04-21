@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Waterloo, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Montreal-Quebec/Associate-Group-Underwriter_JR00121811) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Associate-Group-Underwriter_JR00122719) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-03-19.
+This corporate finance position at Sun Life Financial was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

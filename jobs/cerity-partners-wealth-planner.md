@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerity Partners](https://scoutify.ai/companies/ceritypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Indianapolis-IN/Wealth-Planner_R579) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Boston-MA/Wealth-Planner_R626) |
 
 ## About This Role
 
-This corporate finance position at Cerity Partners was posted on 2026-03-25.
+This corporate finance position at Cerity Partners was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

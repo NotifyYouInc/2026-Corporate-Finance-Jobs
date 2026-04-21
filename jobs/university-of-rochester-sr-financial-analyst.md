@@ -5,12 +5,12 @@
 | Company | [University of Rochester](https://scoutify.ai/companies/university-of-rochester?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rochester, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Strong-Memorial-Hospital/Sr-Financial-Analyst_R269775) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Helen-Wood-Hall/Sr-Financial-Analyst_R270356) |
 
 ## About This Role
 
-This corporate finance position at University of Rochester was posted on 2026-03-25.
+This corporate finance position at University of Rochester was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
