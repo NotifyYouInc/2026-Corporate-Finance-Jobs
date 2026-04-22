@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99734) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109591) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-03-05.
+This corporate finance position at IBM was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

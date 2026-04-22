@@ -5,12 +5,12 @@
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Gurugram/IMS-Specialist-I_25106534) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Gurugram/IMS-Specialist-I_25107584) |
 
 ## About This Role
 
-This corporate finance position at Syneoshealth was posted on 2026-03-20.
+This corporate finance position at Syneoshealth was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

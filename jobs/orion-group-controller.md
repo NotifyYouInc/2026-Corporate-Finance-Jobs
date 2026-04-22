@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Orion Group](https://scoutify.ai/companies/orion-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Glendale, Arizona, United States |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oriongroup/jobs/4657502006) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oriongroup/jobs/4673309006) |
 
 ## About This Role
 
-This corporate finance position at Orion Group was posted on 2026-03-24.
+This corporate finance position at Orion Group was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

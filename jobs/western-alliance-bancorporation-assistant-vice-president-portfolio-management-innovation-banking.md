@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Austin-TX/Assistant-Vice-President--Portfolio-Management---Innovation-Banking_R12504) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Chicago-IL/Assistant-Vice-President--Portfolio-Management---Innovation-Banking_R12848) |
 
 ## About This Role
 
-This corporate finance position at Western Alliance Bancorporation was posted on 2026-02-18.
+This corporate finance position at Western Alliance Bancorporation was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

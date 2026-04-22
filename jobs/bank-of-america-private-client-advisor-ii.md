@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Melville, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Atlanta/Private-Client-Advisor-II_26011580) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Melville/Private-Client-Advisor-II_26012916) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-06.
+This corporate finance position at Bank of America was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Charleston, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/North-Charleston-SC/Senior-Staff-Accountant_R100120488) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/North-Charleston-SC/Senior-Staff-Accountant_R100122036) |
 
 ## About This Role
 
-This corporate finance position at ASM Global was posted on 2026-02-27.
+This corporate finance position at ASM Global was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

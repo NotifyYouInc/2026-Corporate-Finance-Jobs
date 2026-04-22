@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jaipur, Rajasthan, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Procure-to-Pay-Operations-Associate_AIOC-S01635757-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Procure-to-Pay-Operations-Associate_AIOC-S01627717-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-06.
+This corporate finance position at Accenture was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

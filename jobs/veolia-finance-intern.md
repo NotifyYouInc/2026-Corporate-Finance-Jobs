@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000117336733-finance-intern) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000120805918-finance-intern) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-03-27.
+This corporate finance position at Veolia was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

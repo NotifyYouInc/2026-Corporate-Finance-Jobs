@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Finance-Associate_JR031108) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Finance-Associate_PT-JR034104) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-03-04.
+This corporate finance position at Morgan Stanley was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

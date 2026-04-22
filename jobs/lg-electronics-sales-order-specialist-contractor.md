@@ -1,16 +1,16 @@
-# Sales Order Specialist - CONTRACTOR at LG Electronics
+# Sales Order Specialist - CONTRACTOR    at LG Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [LG Electronics](https://scoutify.ai/companies/lg-electronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Troy, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5187070008) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5188678008) |
 
 ## About This Role
 
-This corporate finance position at LG Electronics was posted on 2026-04-13.
+This corporate finance position at LG Electronics was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

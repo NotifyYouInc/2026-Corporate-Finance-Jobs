@@ -6,7 +6,7 @@
 | Location | Granby, Quebec, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-04-14 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Granby-QC/XMLNAME--CAN--Bureau-de-la-comptabilit_R-2477298) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Granby-QC/XMLNAME--CAN--Bureau-de-la-comptabilit_R-2477821) |
 
 ## About This Role
 

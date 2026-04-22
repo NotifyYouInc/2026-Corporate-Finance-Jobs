@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Columbia, South Carolina, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/Senior-Financial-Analyst-Project-Planning---Controls--PP-C-_R2121133) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Senior-Financial-Analyst-Project-Planning---Controls--PP-C-_R2121979) |
 
 ## About This Role
 
-This corporate finance position at KBR was posted on 2026-03-30.
+This corporate finance position at KBR was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

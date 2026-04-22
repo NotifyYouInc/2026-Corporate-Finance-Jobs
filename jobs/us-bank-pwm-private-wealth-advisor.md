@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Waterloo, Iowa, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Waterloo-IA/PWM-Private-Wealth-Advisor_2026-0008219) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Rochester-MN/PWM-Private-Wealth-Advisor_2025-0020730) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-09.
+This corporate finance position at U.S. Bank was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

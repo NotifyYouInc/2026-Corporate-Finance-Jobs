@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CO---Denver-80202/Premier-Client-Banker---PNC-Wealth-Management_R216947-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15237/Premier-Client-Banker---PNC-Wealth-Management_R218302-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-27.
+This corporate finance position at PNC Financial was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

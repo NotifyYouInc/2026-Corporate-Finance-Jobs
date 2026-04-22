@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Woodbury, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/EL-SEGUNDO-CA/Senior-Registered-Client-Associate_R-528948) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WOODBURY-NY/Senior-Registered-Client-Associate_R-536337) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-02.
+This corporate finance position at Wells Fargo was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

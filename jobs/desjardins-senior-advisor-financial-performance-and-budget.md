@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-principal-ou-conseillre-principale-en-performance-financire-et-budget_R2604361) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-principal-ou-conseillre-principale--Performance-financire-et-budget-en-assurance-de-dommages_R2604340) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-04-03.
+This corporate finance position at Desjardins was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

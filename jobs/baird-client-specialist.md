@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Danvers, Massachusetts, United States |
+| Location | Roseville, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/MA-Danvers/Client-Specialist_R2026446-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/CA-Roseville/Client-Specialist_R2026453-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-04-10.
+This corporate finance position at Baird was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ottawa-Canada/Key-Entry-Specialist_R-01344865) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ottawa-Canada/Key-Entry-Specialist_R-01348898) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-19.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

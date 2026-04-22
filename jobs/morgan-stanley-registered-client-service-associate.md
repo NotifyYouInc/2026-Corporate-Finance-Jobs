@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Las-Vegas-Nevada-United-States-of-America/Registered-Client-Service-Associate_JR034492) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Irvine-California-United-States-of-America/Registered-Client-Service-Associate_JR034758) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-13.
+This corporate finance position at Morgan Stanley was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

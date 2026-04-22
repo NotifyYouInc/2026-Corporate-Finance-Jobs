@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Rockford-IL/WM-Affluent-Banker_2026-0006580) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/WM-Affluent-Banker_2026-0008815) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-18.
+This corporate finance position at U.S. Bank was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

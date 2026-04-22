@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Cherry Hill, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Philadelphia-19103/Investment-Advisor-Sr_R216908-2) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NJ---Cherry-Hill-08002/Investment-Advisor-Sr_R218049) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-04-02.
+This corporate finance position at PNC Financial was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

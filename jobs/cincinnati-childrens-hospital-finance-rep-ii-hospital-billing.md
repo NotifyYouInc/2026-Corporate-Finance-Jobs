@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cincinnati Children's Hospital](https://scoutify.ai/companies/cincinnati-children-s-hospital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Cincinnati, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/South-Campus/Finance-Rep-II---Hospital-Billing_JR217496) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Finance-Rep-II---Hospital-Billing_JR219787) |
 
 ## About This Role
 
-This corporate finance position at Cincinnati Children's Hospital was posted on 2026-02-27.
+This corporate finance position at Cincinnati Children's Hospital was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Private-Client-Associate_R-0000165121-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Private-Client-Associate_R-0000159271-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-24.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

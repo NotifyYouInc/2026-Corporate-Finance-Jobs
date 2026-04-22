@@ -1,16 +1,16 @@
-# Sr. Accountant at Warner Bros Discovery
+# Sr Accountant at Warner Bros Discovery
 
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/Sr-Accountant_R000103697) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/Sr-Accountant_R000104566) |
 
 ## About This Role
 
-This corporate finance position at Warner Bros Discovery was posted on 2026-03-12.
+This corporate finance position at Warner Bros Discovery was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

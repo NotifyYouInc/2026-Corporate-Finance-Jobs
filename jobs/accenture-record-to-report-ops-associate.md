@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Record-to-Report-Ops-Associate_AIOC-S01635888-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Record-to-Report-Ops-Associate_AIOC-S01638574-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-06.
+This corporate finance position at Accenture was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

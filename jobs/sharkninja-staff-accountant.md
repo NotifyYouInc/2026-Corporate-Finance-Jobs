@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Needham, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4649836006) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4671918006) |
 
 ## About This Role
 
-This corporate finance position at SharkNinja was posted on 2026-02-03.
+This corporate finance position at SharkNinja was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000120556268-billing-clerk-jaguar-land-rover-los-angeles) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000120789313-billing-clerk-jaguar-land-rover-los-angeles) |
 
 ## About This Role
 
-This corporate finance position at Sonic Automotive was posted on 2026-04-13.
+This corporate finance position at Sonic Automotive was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

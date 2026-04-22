@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jilpetco](https://scoutify.ai/companies/jilpetco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lincoln, Nebraska, United States |
+| Location | New Jersey, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/0644---Lincoln-NE/Sales-Specialist_R352672) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/2899---Clark-NJ/Sales-Specialist_R352972) |
 
 ## About This Role
 
-This corporate finance position at Jilpetco was posted on 2026-04-12.
+This corporate finance position at Jilpetco was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

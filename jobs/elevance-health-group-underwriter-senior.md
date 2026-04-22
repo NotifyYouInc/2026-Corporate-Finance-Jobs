@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 13 locations |
+| Location | Waukesha, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-SEVEN-HILLS-6000-LOMBARDO-CENTER-STE-200/Group-Underwriter-Senior_JR186436-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/WI-Waukesha-N17W24222-Riverwood-Dr-Ste-300/Group-Underwriter-Senior_JR187935) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-03-18.
+This corporate finance position at Elevance Health was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

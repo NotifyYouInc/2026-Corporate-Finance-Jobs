@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hy-Vee](https://scoutify.ai/companies/hy-vee?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mission, Texas, United States |
+| Location | Lenexa, Kansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Mission-Martway-St-Mission-KS/Store-Accounting-Coordinator_R227322) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Lenexa-W-87th-Pkwy-Lenexa-KS/Store-Accounting-Coordinator_R227846) |
 
 ## About This Role
 
-This corporate finance position at Hy-Vee was posted on 2026-04-11.
+This corporate finance position at Hy-Vee was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
