@@ -5,12 +5,12 @@
 | Company | [Averna](https://scoutify.ai/companies/averna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Poland |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000115690215-gl-accountant) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000120963138-gl-accountant) |
 
 ## About This Role
 
-This corporate finance position at Averna was posted on 2026-03-19.
+This corporate finance position at Averna was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

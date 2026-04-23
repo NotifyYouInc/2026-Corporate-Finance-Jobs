@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Reston, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Austin-TX/Senior-Credit-Analyst--Innovation-Banking_R12857) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Reston-VA/Senior-Credit-Analyst--Innovation-Banking_R12406) |
 
 ## About This Role
 
-This corporate finance position at Western Alliance Bancorporation was posted on 2026-04-14.
+This corporate finance position at Western Alliance Bancorporation was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

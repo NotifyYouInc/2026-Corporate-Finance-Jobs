@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Florida, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/IL---Chicago-60606/Fiduciary-Advisor-Sr_R211967-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Palm-Beach-33480/Fiduciary-Advisor-Sr_R217894-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-02-19.
+This corporate finance position at PNC Financial was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

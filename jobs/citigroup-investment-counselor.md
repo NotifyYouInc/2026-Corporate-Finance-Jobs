@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dallas-Texas-United-States/Investment-Counselor_26943178) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Investment-Counselor_26954191-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-02.
+This corporate finance position at Citigroup was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

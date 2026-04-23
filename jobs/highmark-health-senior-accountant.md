@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Arkansas, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Senior-Accountant_J276955) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Senior-Accountant_J279516) |
 
 ## About This Role
 
-This corporate finance position at Highmark Health was posted on 2026-02-12.
+This corporate finance position at Highmark Health was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sunrise, Florida, United States |
+| Location | Simi Valley, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/1613-NW-136th-Avenue-Sunrise-FL/Senior-Financial-Analyst_7300) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Senior-Financial-Analyst_7507) |
 
 ## About This Role
 
-This corporate finance position at AeroVironment was posted on 2026-03-25.
+This corporate finance position at AeroVironment was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

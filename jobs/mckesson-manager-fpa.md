@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Manager--FP-A_JR0142689) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Dallas/Manager--FP-A_JR0145790-1) |
 
 ## About This Role
 
-This corporate finance position at McKesson was posted on 2026-02-05.
+This corporate finance position at McKesson was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

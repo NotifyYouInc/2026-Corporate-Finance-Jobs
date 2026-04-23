@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Roseville, California, United States |
+| Location | Leawood, Kansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/CA-Roseville/Client-Specialist_R2026453-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KS-Leawood/Client-Specialist_R2026471) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-04-14.
+This corporate finance position at Baird was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

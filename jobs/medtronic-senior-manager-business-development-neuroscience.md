@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Manager--Business-Development---Neuroscience_R60019-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Manager--Business-Development---Neuroscience_R64029-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-02-25.
+This corporate finance position at Medtronic was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

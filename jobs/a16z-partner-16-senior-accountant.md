@@ -5,12 +5,12 @@
 | Company | [a16z](https://scoutify.ai/companies/a16z?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://a16z.com/about/jobs/?gh_jid=7668647003) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://a16z.com/about/jobs/?gh_jid=7698498003) |
 
 ## About This Role
 
-This corporate finance position at a16z was posted on 2026-03-30.
+This corporate finance position at a16z was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

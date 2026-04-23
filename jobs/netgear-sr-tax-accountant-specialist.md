@@ -1,0 +1,22 @@
+# Sr. Tax Accountant Specialist at NETGEAR
+
+| Field | Details |
+|-------|---------|
+| Company | [NETGEAR](https://scoutify.ai/companies/netgear?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | San Jose, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/netgear/93da865c-0ab7-4ccc-815a-e546f56a62f1) |
+
+## About This Role
+
+This corporate finance position at NETGEAR was posted on 2026-04-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

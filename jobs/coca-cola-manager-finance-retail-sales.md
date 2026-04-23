@@ -5,12 +5,12 @@
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Manager--Finance---Retail-Sales_R-138092) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Manager--Finance---Retail-Sales_R-139625) |
 
 ## About This Role
 
-This corporate finance position at Coca-Cola was posted on 2026-03-20.
+This corporate finance position at Coca-Cola was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

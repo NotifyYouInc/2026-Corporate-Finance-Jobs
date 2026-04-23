@@ -5,12 +5,12 @@
 | Company | [Jefferson Health](https://scoutify.ai/companies/jefferson-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jeffersonhealth.wd5.myworkdayjobs.com/thomasjeffersonexternal/job/Philadelphia-PA/Rev-Cycle-Representative-I_REQ-0028014) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jeffersonhealth.wd5.myworkdayjobs.com/thomasjeffersonexternal/job/Philadelphia-PA/Rev-Cycle-Representative-I_REQ-0028154-1) |
 
 ## About This Role
 
-This corporate finance position at Jefferson Health was posted on 2026-04-14.
+This corporate finance position at Jefferson Health was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

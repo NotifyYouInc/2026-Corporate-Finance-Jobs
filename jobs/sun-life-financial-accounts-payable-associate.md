@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | National Capital Region, PH |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Accounts-Payable-Associate_JR00120932) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Accounts-Payable-Associate_JR00122893) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-03-02.
+This corporate finance position at Sun Life Financial was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

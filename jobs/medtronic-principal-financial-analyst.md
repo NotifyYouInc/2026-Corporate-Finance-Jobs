@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnesota, US |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Principal-Financial-Analyst_R60841) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Financial-Analyst_R64304) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-03-04.
+This corporate finance position at Medtronic was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

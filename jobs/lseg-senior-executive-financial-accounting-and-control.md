@@ -1,16 +1,16 @@
-# Senior Executive Financial Accounting and Control at LSEG
+# Senior Executive, Financial Accounting and Control at LSEG
 
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Senior-Executive-Financial-Accounting-and-Control_R0117069-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Senior-Executive--Financial-Accounting-and-Control_R0118884-1) |
 
 ## About This Role
 
-This corporate finance position at LSEG was posted on 2026-02-26.
+This corporate finance position at LSEG was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

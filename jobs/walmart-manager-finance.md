@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Grove City, Ohio, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-OH-GROVE-CITY-06024-REGIONAL/Manager--Finance_R-2456727) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Sams-Home-Office-AR-Bentonville-Home-Office/Manager--Finance_R-2477742) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-03-30.
+This corporate finance position at Walmart was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

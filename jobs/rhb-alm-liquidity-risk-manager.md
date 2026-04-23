@@ -5,12 +5,12 @@
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Singapore/ALM---Liquidity-Risk-Manager_JR005541) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Singapore/ALM---Liquidity-Risk-Manager_JR005803) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-03-30.
+This corporate finance position at RHB was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

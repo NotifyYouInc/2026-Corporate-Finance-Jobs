@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000120040869-accounts-payable-analyst-gbs-americas) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000121050227-accounts-payable-analyst-gbs-americas) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-04-10.
+This corporate finance position at SGS was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

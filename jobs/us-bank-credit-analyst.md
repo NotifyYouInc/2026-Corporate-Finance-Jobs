@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Madrid-Spain/Credit-Analyst_2026-0007892-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brea-CA/Credit-Analyst_2026-0007788) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-07.
+This corporate finance position at U.S. Bank was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

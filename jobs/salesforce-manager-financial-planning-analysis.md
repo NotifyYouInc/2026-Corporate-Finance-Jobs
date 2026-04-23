@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Manager--Financial-Planning---Analysis_JR336322) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Manager--Financial-Planning---Analysis_JR336855) |
 
 ## About This Role
 
-This corporate finance position at Salesforce was posted on 2026-03-31.
+This corporate finance position at Salesforce was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [DH Pace Company](https://scoutify.ai/companies/dh-pace-company?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dhpace/jobs/5140066008) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dhpace/jobs/5190109008) |
 
 ## About This Role
 
-This corporate finance position at DH Pace Company was posted on 2026-03-03.
+This corporate finance position at DH Pace Company was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

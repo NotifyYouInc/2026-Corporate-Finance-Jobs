@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mandeville, Manchester, Jamaica |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000110854835-accounts-payables-associate) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000121053107-accounts-payables-associate) |
 
 ## About This Role
 
-This corporate finance position at Sutherland was posted on 2026-02-23.
+This corporate finance position at Sutherland was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

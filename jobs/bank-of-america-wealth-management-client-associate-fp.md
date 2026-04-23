@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Blue-Bell/Wealth-Management-Client-Associate--FP-_26001375-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Irvine/Wealth-Management-Client-Associate--FP-_26013719) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-07.
+This corporate finance position at Bank of America was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

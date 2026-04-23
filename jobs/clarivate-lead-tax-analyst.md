@@ -5,12 +5,12 @@
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R271--Noida/Lead-Tax-Analyst_JREQ135072) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R271--Noida/Lead-Tax-Analyst_JREQ135375) |
 
 ## About This Role
 
-This corporate finance position at Clarivate was posted on 2026-02-27.
+This corporate finance position at Clarivate was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

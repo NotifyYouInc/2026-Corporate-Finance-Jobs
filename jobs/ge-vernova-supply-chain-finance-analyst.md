@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Clearwater, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Houston/Supply-Chain-Finance-Analyst_R5031861-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Clearwater/Supply-Chain-Finance-Analyst_R5037706-2) |
 
 ## About This Role
 
-This corporate finance position at GE Vernova was posted on 2026-02-10.
+This corporate finance position at GE Vernova was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

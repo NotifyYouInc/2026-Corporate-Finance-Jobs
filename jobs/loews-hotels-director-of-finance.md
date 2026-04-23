@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Loews Hotels](https://scoutify.ai/companies/loews-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://loewshotels.wd5.myworkdayjobs.com/loewshotels/job/AZ---Tucson---Loews-Ventana-Canyon/Director-of-Finance_R0082833) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://loewshotels.wd5.myworkdayjobs.com/loewshotels/job/TN---Nashville---Loews-Vanderbilt-Hotel/Director-of-Finance_R0083902) |
 
 ## About This Role
 
-This corporate finance position at Loews Hotels was posted on 2026-03-10.
+This corporate finance position at Loews Hotels was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

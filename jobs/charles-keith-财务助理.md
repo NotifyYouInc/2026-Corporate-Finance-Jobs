@@ -5,12 +5,12 @@
 | Company | [Charles & Keith](https://scoutify.ai/companies/charles-keith?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | China |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://charleskeith.wd3.myworkdayjobs.com/external/job/CK_CHINA-OFFICE/_JR101437) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://charleskeith.wd3.myworkdayjobs.com/external/job/CK_CHINA-OFFICE/_JR101496) |
 
 ## About This Role
 
-This corporate finance position at Charles & Keith was posted on 2026-03-25.
+This corporate finance position at Charles & Keith was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
