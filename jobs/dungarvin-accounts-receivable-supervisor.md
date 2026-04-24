@@ -5,12 +5,12 @@
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Minnesota, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000119646272-accounts-receivable-supervisor) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000121284218-accounts-receivable-supervisor) |
 
 ## About This Role
 
-This corporate finance position at Dungarvin was posted on 2026-04-09.
+This corporate finance position at Dungarvin was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000109820645-junior-collections-analyst-gbs-fssc) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000121296267-junior-collections-analyst-gbs-fssc) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-02-17.
+This corporate finance position at SGS was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

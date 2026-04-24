@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alternative-Investment-Services-Bank-Loans-Operations--Assistant-Vice-President_R-785864-5) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alternative-Investment-Services-Bank-Loans-Operations--Assistant-Vice-President_R-788573-3) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-07.
+This corporate finance position at State Street was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

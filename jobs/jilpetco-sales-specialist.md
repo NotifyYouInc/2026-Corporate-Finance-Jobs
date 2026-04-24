@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jilpetco](https://scoutify.ai/companies/jilpetco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Jersey, US |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/2899---Clark-NJ/Sales-Specialist_R352972) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/1698---St-Francis-WI/Sales-Specialist_R353332) |
 
 ## About This Role
 
-This corporate finance position at Jilpetco was posted on 2026-04-14.
+This corporate finance position at Jilpetco was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Actuarial-Analyst-III--US-_JR187885-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Actuarial-Analyst-III--US-_JR187666) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-04-09.
+This corporate finance position at Elevance Health was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

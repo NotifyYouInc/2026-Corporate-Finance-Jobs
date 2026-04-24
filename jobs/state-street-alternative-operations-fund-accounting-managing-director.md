@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quincy, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alternative-Operations-Fund-Accounting--Managing-Director_R-786413) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alternative-Operations-Fund-Accounting--Managing-Director_R-788124) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-19.
+This corporate finance position at State Street was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

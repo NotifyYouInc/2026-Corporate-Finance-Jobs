@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000112799883-associate-analyst-accounting-and-finance-rotation-mentorship) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000121334957-associate-analyst-accounting-and-finance-rotation-mentorship) |
 
 ## About This Role
 
-This corporate finance position at The Wonderful Company was posted on 2026-03-05.
+This corporate finance position at The Wonderful Company was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

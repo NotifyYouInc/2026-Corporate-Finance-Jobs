@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearway Energy](https://scoutify.ai/companies/clearway-energy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Scottsdale, Arizona, United States |
+| Location | San Diego, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clearwayjobs/jobs/5098654007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clearwayjobs/jobs/5111913007) |
 
 ## About This Role
 

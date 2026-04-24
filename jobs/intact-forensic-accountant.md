@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Calgary, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Mississauga-Ontario-CAN/Forensic-Accountant_R152985) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Calgary-Alberta-CAN/Forensic-Accountant_R152947) |
 
 ## About This Role
 
-This corporate finance position at Intact was posted on 2026-04-15.
+This corporate finance position at Intact was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

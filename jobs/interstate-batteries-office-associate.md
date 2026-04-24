@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Interstate Batteries](https://scoutify.ai/companies/interstate-batteries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lorton, Virginia, United States |
+| Location | Lansing, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-VA-Lorton/Office-Associate_REQ-8901) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-MI-Lansing/Office-Associate_REQ-8930) |
 
 ## About This Role
 
-This corporate finance position at Interstate Batteries was posted on 2026-04-10.
+This corporate finance position at Interstate Batteries was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Zhongshan, Guangdong, China |
+| Location | Brisbane, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Zhongshan-Guangdong-China/Project-Controller_R0121829) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Brisbane-Queensland-Australia/Senior-Project-Controller_R0106664-1) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-03-09.
+This corporate finance position at Hitachi was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

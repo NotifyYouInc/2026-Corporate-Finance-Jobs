@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Singapore/Intern---Finance_R0658265) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Bangkok-Chatuchak/Intern---Finance_R0659680) |
 
 ## About This Role
 
-This corporate finance position at Kone was posted on 2026-03-06.
+This corporate finance position at Kone was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

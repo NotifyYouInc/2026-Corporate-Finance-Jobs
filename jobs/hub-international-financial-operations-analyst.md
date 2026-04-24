@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Nashville-TN/Financial-Operations-Analyst_R0035509) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/Financial-Operations-Analyst_R0035717) |
 
 ## About This Role
 
-This corporate finance position at HUB International was posted on 2026-03-30.
+This corporate finance position at HUB International was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

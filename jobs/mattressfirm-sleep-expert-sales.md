@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Wainscott-New-York/Sleep-Expert---Sales_JR-P0061600) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Delaware-Ohio/Sleep-Expert---Sales_JR-P0061616) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-15.
+This corporate finance position at Mattressfirm was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

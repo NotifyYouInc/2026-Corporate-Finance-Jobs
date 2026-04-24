@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012079587-chief-financial-officer) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012639626-chief-financial-officer) |
 
 ## About This Role
 
-This corporate finance position at Harvard University was posted on 2026-03-11.
+This corporate finance position at Harvard University was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

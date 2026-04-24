@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Singapore/FP-A-Manager_31142627) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Bogota/FP-A-Manager_31147876) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-02-25.
+This corporate finance position at Abbott was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

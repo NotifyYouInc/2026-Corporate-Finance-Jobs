@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Financial-Planning---Analysis-Representa_ATCI-5516973-S2012325) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Financial-Planning---Analysis-Representa_ATCI-5525334-S2015239) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-09.
+This corporate finance position at Accenture was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

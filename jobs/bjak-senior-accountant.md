@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e710ee88-788e-4c3d-ab90-58bfa620b17a) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/05d47884-f360-41b6-a28c-16699db02f06) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-04-05.
+This corporate finance position at Bjak was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

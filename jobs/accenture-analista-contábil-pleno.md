@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nova Lima, Minas Gerais, Brazil |
+| Location | Barueri, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-Contbil-Pleno_R00323226) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Analista-Contbil-Pleno_R00325839) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-01.
+This corporate finance position at Accenture was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

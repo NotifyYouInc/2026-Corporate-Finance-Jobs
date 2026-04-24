@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hermanus, Western Cape, South Africa |
+| Location | South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000118599214-private-banking-relationship-manager) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000121272341-private-banking-relationship-manager) |
 
 ## About This Role
 
-This corporate finance position at Standard Bank was posted on 2026-04-03.
+This corporate finance position at Standard Bank was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

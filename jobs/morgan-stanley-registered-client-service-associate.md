@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | Naples, Campania, Italy |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Irvine-California-United-States-of-America/Registered-Client-Service-Associate_JR034758) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Naples-Florida-United-States-of-America/Registered-Client-Service-Associate_JR034999) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-14.
+This corporate finance position at Morgan Stanley was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cary, North Carolina, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Cary-North-Carolina/Senior-Accountant_R0000359917) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Senior-Accountant_R0000364165) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-04-01.
+This corporate finance position at Caterpillar was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

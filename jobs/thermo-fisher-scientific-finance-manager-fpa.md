@@ -1,16 +1,16 @@
-# Finance Manager, FP&A at Thermo Fisher Scientific
+# Finance Manager FP&A at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rochester, New York, United States |
+| Location | Hillsboro, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rochester-New-York-USA/Finance-Manager--FP-A_R-01345019) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Finance-Manager-FP-A_R-01348640) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-11.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

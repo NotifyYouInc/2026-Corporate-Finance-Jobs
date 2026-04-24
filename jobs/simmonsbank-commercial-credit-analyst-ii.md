@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Simmonsbank](https://scoutify.ai/companies/simmonsbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://simmonsbank.wd5.myworkdayjobs.com/simmonscareers/job/Little-Rock-AR/Commercial-Credit-Analyst-II_R114535) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://simmonsbank.wd5.myworkdayjobs.com/simmonscareers/job/Houston-TX/Commercial-Credit-Analyst-II_R114841) |
 
 ## About This Role
 
-This corporate finance position at Simmonsbank was posted on 2026-04-10.
+This corporate finance position at Simmonsbank was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

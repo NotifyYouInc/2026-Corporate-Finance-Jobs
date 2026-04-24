@@ -1,16 +1,16 @@
-# Financial Reporting, Assistant Vice President at State Street
+# Financial Reporting, Assistant vice president at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Quincy, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Financial-Reporting--Assistant-Vice-President_R-787720) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Financial-Reporting--Assistant-vice-president_R-788588) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-07.
+This corporate finance position at State Street was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

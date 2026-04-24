@@ -1,16 +1,16 @@
-# Alternative Investment Services Associate 2 at State Street
+# Alternative Investment Services. Associate 2 at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Alternative-Investment-Services-Associate-2_R-785919) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Alternative-Investment-Services-Associate-2_R-788570-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-13.
+This corporate finance position at State Street was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Senior-Accountant--Administration-Accounting_R433016) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Senior-Accountant--Administration-Accounting_R435290) |
 
 ## About This Role
 
-This corporate finance position at Comcast was posted on 2026-03-12.
+This corporate finance position at Comcast was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

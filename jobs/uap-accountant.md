@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quebec, CA |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000120804802-accountant) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000121296007-accountant) |
 
 ## About This Role
 
-This corporate finance position at UAP was posted on 2026-04-14.
+This corporate finance position at UAP was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

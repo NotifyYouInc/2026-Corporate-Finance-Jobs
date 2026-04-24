@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Worth, Texas, United States |
+| Location | Lake Forest, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Fort-Worth-TX/Senior-Portfolio-Advisor_R153675) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Lake-Forest-IL/Senior-Portfolio-Advisor_R151095-1) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-06.
+This corporate finance position at Northern Trust was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

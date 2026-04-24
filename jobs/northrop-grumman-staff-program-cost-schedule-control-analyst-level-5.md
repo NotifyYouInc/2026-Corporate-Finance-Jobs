@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Diego, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Program-Cost-Schedule-Control-Analyst---Level-5_R10227332) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Program-Cost-Schedule-Control-Analyst---Level-5_R10222767) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-03-25.
+This corporate finance position at Northrop Grumman was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

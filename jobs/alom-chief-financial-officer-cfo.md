@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALOM](https://scoutify.ai/companies/alom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Fremont, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.lever.co/alom/0d74b0fb-07b6-40d3-9940-4ba56648f8da) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.lever.co/alom/4af892a6-fe38-4592-8d8e-ddd4310d2f71) |
 
 ## About This Role
 
-This corporate finance position at ALOM was posted on 2026-02-09.
+This corporate finance position at ALOM was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

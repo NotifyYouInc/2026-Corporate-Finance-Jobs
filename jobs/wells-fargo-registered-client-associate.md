@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Deerfield, Illinois, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DEERFIELD-IL/Registered-Client-Associate_R-533773) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHICAGO-IL/Registered-Client-Associate_R-536043) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-01.
+This corporate finance position at Wells Fargo was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

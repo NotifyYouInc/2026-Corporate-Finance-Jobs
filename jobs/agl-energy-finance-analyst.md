@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AGL Energy](https://scoutify.ai/companies/agl-energy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Sydney-Corporate/Finance-Analyst_R-0022737) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Finance-Analyst_R-0022806) |
 
 ## About This Role
 
-This corporate finance position at AGL Energy was posted on 2026-04-16.
+This corporate finance position at AGL Energy was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

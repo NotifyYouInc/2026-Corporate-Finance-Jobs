@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nevada, US |
+| Location | San Diego, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Beatty-NV-USA/Field-Billing-Coordinator-ES_R-170937) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/San-Diego-CA-USA/Field-Billing-Coordinator-ES_R-173516) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-03-13.
+This corporate finance position at Republic Services was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

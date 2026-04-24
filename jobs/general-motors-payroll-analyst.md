@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Warren, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Payroll-Analyst_JR-202605004) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Payroll-Analyst_JR-202608425) |
 
 ## About This Role
 
-This corporate finance position at General Motors was posted on 2026-03-13.
+This corporate finance position at General Motors was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

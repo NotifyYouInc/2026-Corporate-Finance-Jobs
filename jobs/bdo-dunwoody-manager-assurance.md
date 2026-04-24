@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Halifax, Nova Scotia, Canada |
+| Location | Edmonton, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Halifax---Mumford-Rd/Manager--Assurance_JR6103) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Edmonton---103-St/Manager--Assurance_JR6161) |
 
 ## About This Role
 
-This corporate finance position at BDO Dunwoody was posted on 2026-04-07.
+This corporate finance position at BDO Dunwoody was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

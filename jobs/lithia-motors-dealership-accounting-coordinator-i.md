@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Temecula, California, United States |
+| Location | Kahului, Hawaii, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Temecula-APC-Temecula-CA-92591/Dealership-Accounting-Coordinator-I_R105602) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Island-Honda-Kahului-HI-96732/Dealership-Accounting-Coordinator-I_R106945) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-03-26.
+This corporate finance position at Lithia Motors was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

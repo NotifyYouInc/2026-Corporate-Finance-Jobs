@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elara Caring](https://scoutify.ai/companies/elara-caring?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Forest Hills, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/San-Antonio---TX/Billing-Specialist_JR-133043) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Forest-Hills---NY/Billing-Specialist_JR-134572) |
 
 ## About This Role
 
-This corporate finance position at Elara Caring was posted on 2026-03-10.
+This corporate finance position at Elara Caring was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

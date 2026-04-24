@@ -1,16 +1,16 @@
-# Finance Specialist - Operational at Baker Hughes
+# Finance Specialist  - Operational at Baker Hughes
 
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Specialist---Operational_R160073) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Finance-Specialist----Operational_R162227-1) |
 
 ## About This Role
 
-This corporate finance position at Baker Hughes was posted on 2026-02-19.
+This corporate finance position at Baker Hughes was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

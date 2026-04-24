@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Karnataka, IN |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Houston-Texas/Accountant_R0000361339) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accountant_R0000364163) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-04-10.
+This corporate finance position at Caterpillar was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
