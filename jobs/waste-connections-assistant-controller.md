@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/6388-Mega-Disposal/Assistant-Controller_R-97859) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/5311H-Denver-Hauling/Assistant-Controller_R-98498) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-04-03.
+This corporate finance position at Waste Connections was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

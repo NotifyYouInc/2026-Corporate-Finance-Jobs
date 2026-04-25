@@ -1,16 +1,16 @@
-# Business Office Assistant (Part-Time) at Pacs
+# Business Office Assistant - Part Time at Pacs
 
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oakland, California, United States |
+| Location | California, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Medical-Hill-Healthcare-Center/Business-Office-Assistant--Part-Time-_JR164533) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Hayward-Gardens-Post-Acute/Business-Office-Assistant---Part-Time_JR167587) |
 
 ## About This Role
 
-This corporate finance position at Pacs was posted on 2026-03-17.
+This corporate finance position at Pacs was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

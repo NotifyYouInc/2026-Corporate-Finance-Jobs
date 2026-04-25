@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jotun](https://scoutify.ai/companies/jotun?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jotun.wd3.myworkdayjobs.com/jotun_careers/job/Batangas/Finance-Manager_R9415) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jotun.wd3.myworkdayjobs.com/jotun_careers/job/Casablanca/Finance-Manager_R9719) |
 
 ## About This Role
 
-This corporate finance position at Jotun was posted on 2026-02-09.
+This corporate finance position at Jotun was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

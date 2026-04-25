@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hopkins, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Financial-Analyst---Quantitative-Financial-Analyst_2026-0002961) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Financial-Analyst---Quantitative-Financial-Analyst_2026-0009675-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-02-27.
+This corporate finance position at U.S. Bank was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

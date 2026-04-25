@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veritiv Corporation](https://scoutify.ai/companies/veritiv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sandy Springs, Georgia, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---GA---Sandy-Springs/Staff-Accountant_R31035) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/Veritiv---Jacksonville-Office-FL/Staff-Accountant_R31052) |
 
 ## About This Role
 
-This corporate finance position at Veritiv Corporation was posted on 2026-04-16.
+This corporate finance position at Veritiv Corporation was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

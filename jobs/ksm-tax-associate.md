@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KSM](https://scoutify.ai/companies/ksmcpa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/New-York/Tax-Associate_R-100083) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Chicago/Tax-Associate_R-100381) |
 
 ## About This Role
 
-This corporate finance position at KSM was posted on 2026-03-20.
+This corporate finance position at KSM was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

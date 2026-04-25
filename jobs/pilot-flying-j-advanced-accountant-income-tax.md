@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Knoxville, Tennessee, United States |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000121048848-advanced-accountant-income-tax) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000121474154-advanced-accountant-income-tax) |
 
 ## About This Role
 
-This corporate finance position at Pilot Flying J was posted on 2026-04-15.
+This corporate finance position at Pilot Flying J was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

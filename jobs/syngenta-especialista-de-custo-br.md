@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000117725866-especialista-de-custo-br) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000121494337-especialista-de-custo-br) |
 
 ## About This Role
 
-This corporate finance position at Syngenta was posted on 2026-03-30.
+This corporate finance position at Syngenta was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

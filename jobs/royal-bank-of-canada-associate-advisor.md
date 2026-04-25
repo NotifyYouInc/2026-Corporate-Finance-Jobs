@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Moncton, New Brunswick, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONCTON-New-Brunswick-Canada/Associate-Advisor_R-0000167446) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate-Advisor_R-0000166983) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-14.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

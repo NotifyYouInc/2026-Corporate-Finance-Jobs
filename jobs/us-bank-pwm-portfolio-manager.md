@@ -1,16 +1,16 @@
-# PWM Portfolio Manager at U.S. Bank
+# PWM - Portfolio Manager at U.S. Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Florida, US |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Palm-Beach-FL/PWM-Portfolio-Manager_2026-0005804) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Woodland-Hills-CA/PWM---Portfolio-Manager_2026-0009724) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-12.
+This corporate finance position at U.S. Bank was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

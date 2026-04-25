@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bloomington, Minnesota, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BLOOMINGTON-MN/Lead-Wealth-Management-Banker--SAFE-_R-537541) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SEATTLE-WA/Lead-Wealth-Management-Banker--SAFE-_R-538013) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-16.
+This corporate finance position at Wells Fargo was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

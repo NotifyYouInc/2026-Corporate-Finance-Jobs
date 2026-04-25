@@ -5,12 +5,12 @@
 | Company | [Huntsman Corporation](https://scoutify.ai/companies/huntsman-corporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Louisiana, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Louisiana---Geismar/Accountant_J-019625) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Louisiana---Geismar/Accountant_J-019712) |
 
 ## About This Role
 
-This corporate finance position at Huntsman Corporation was posted on 2026-03-23.
+This corporate finance position at Huntsman Corporation was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Financial-Analysis-Manager_JR95498) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Financial-Analysis-Manager_JR98497) |
 
 ## About This Role
 
-This corporate finance position at Micron was posted on 2026-03-23.
+This corporate finance position at Micron was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

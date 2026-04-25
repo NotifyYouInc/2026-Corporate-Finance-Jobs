@@ -5,12 +5,12 @@
 | Company | [Hiive](https://scoutify.ai/companies/hiive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/hiive/93dbde29-1d3b-4d25-b40b-40765c489f7a) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hiive/86eadacc-07ba-43d6-b8f0-2c22b077b94c) |
 
 ## About This Role
 
-This corporate finance position at Hiive was posted on 2026-04-16.
+This corporate finance position at Hiive was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

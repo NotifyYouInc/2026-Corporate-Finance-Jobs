@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Ninth-And-State-Office-PA788/Banking-Advisor-I---PNC-Private-Bank_R214825-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CA---Irvine-92614/Banking-Advisor-I---PNC-Private-Bank_R218399-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-17.
+This corporate finance position at PNC Financial was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

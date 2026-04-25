@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Comptable-de-fonds-de-placement_R2603334-2) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Technicien-ou-technicienne--Transactions-comptables-et-financires_R2605362) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-03-16.
+This corporate finance position at Desjardins was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

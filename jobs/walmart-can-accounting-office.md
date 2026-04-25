@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/CAN-ON-MISSISSAUGA-01127-WM-SUPERCENTER/XMLNAME--CAN--Accounting-Office_R-2476008) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Dauphin-MB/XMLNAME--CAN--Accounting-Office_R-2481924) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-04-12.
+This corporate finance position at Walmart was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

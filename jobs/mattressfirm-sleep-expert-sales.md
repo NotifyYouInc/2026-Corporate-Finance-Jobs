@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Fayetteville, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Delaware-Ohio/Sleep-Expert---Sales_JR-P0061616) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Fayetteville-Georgia/Sleep-Expert---Sales_JR-P0061626) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-16.
+This corporate finance position at Mattressfirm was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

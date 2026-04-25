@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Chicago-Illinois-United-States-of-America/Private-Banker_PT-JR033247) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/San-Francisco-California-United-States-of-America/Private-Banker_PT-JR035283) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-02.
+This corporate finance position at Morgan Stanley was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
