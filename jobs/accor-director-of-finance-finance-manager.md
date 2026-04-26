@@ -1,16 +1,16 @@
-# Q-Commerce Finance & Strategy Lead at Delivery Hero
+# Director of Finance / Finance Manager at ACCOR
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000121574787-q-commerce-finance-strategy-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000121577587-director-of-finance-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-04-18.
+This corporate finance position at ACCOR was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

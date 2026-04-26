@@ -1,16 +1,16 @@
-# Accounting Manager at Hitachi
+# Accounting manager at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Tennessee-United-States/Accounting-Manager_R0119742) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Accounting-manager_R0126016-2) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-02-20.
+This corporate finance position at Hitachi was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Q-Commerce Finance & Strategy Lead at Delivery Hero
+# Agentic Finance Engineer at Mercor
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000121574787-q-commerce-finance-strategy-lead) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/c019b11f-4fbb-46a2-bbad-338ba8f4bedb) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-04-18.
+This corporate finance position at Mercor was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

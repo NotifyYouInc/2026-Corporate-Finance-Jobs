@@ -1,16 +1,16 @@
-# Q-Commerce Finance & Strategy Lead at Delivery Hero
+# Group FP&A Planning Specialist at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Corporate Finance |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000121574787-q-commerce-finance-strategy-lead) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Zurich-Zurich-Switzerland/Group-FP-A-Planning-Specialist_JR00031728) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-04-18.
+This corporate finance position at ABB was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

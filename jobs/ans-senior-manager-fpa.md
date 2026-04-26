@@ -1,16 +1,16 @@
-# Q-Commerce Finance & Strategy Lead at Delivery Hero
+# Senior Manager, FP&A at Ans
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Ans](https://scoutify.ai/companies/ans?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Columbus, Ohio, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000121574787-q-commerce-finance-strategy-lead) |
+| Apply | [View on company site](https://jobs.lever.co/ans/c948af87-e2cd-4026-8ac4-303af95c4b52) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-04-18.
+This corporate finance position at Ans was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

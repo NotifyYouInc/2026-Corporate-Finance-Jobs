@@ -1,16 +1,16 @@
-# Q-Commerce Finance & Strategy Lead at Delivery Hero
+# Accounts Payable Staff  at Bitcoin Depot
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Bitcoin Depot](https://scoutify.ai/companies/bitcoin-depot?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000121574787-q-commerce-finance-strategy-lead) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bitcoindepot/jobs/7705563003) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-04-18.
+This corporate finance position at Bitcoin Depot was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

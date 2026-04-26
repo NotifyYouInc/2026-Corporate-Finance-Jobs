@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-ST-HELENS-PLACELONDON/RBC-Brewin-Dolphin---Wealth-Paraplanner_R-0000164324-1) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/144-MORRISON-STREETEDINBURGH/RBC-Brewin-Dolphin---Wealth-Paraplanner_R-0000153258-2) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-18.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

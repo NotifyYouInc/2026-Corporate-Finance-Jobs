@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000116996198-accountant-hq) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000121574696-accountant-hq) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-03-26.
+This corporate finance position at Delivery Hero was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 
