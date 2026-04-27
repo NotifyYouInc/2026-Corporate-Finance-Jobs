@@ -5,12 +5,12 @@
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Projects-Control-Team-Lead_RQ4052672) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Projects-Control-Team-Lead_RQ4060904) |
 
 ## About This Role
 
-This corporate finance position at Mass General Brigham was posted on 2026-02-18.
+This corporate finance position at Mass General Brigham was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

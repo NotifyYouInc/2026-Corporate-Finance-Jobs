@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000000994230-senior-financial-accountant-technical-accounting) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001010102-senior-financial-accountant-technical-accounting) |
 
 ## About This Role
 
-This corporate finance position at Qantas Group was posted on 2026-04-13.
+This corporate finance position at Qantas Group was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

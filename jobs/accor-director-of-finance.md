@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000117329292-director-of-finance) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000121632827-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-27.
+This corporate finance position at ACCOR was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

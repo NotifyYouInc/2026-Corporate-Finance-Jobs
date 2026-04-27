@@ -5,12 +5,12 @@
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Accounts-Payable-Associate_865793) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Accounts-Payable-Associate_867513) |
 
 ## About This Role
 
-This corporate finance position at QS Investors was posted on 2026-02-10.
+This corporate finance position at QS Investors was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

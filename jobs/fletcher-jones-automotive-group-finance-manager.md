@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fletcher Jones Automotive Group](https://scoutify.ai/companies/fletcher-jones-automotive-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Long Beach, California, United States |
+| Location | Carson, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://boards.greenhouse.io/fletcherjonesautomotivegroup/jobs/4732438007?gh_jid=4732438007) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/fletcherjonesautomotivegroup/jobs/4612647007?gh_jid=4612647007) |
 
 ## About This Role
 
-This corporate finance position at Fletcher Jones Automotive Group was posted on 2026-03-21.
+This corporate finance position at Fletcher Jones Automotive Group was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

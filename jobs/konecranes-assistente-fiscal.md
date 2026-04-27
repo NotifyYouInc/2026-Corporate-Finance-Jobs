@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cotia, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000119688827-assistente-fiscal) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000121681847-assistente-fiscal) |
 
 ## About This Role
 
-This corporate finance position at Konecranes was posted on 2026-04-09.
+This corporate finance position at Konecranes was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
