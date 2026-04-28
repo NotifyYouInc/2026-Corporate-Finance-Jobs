@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Canada |
+| Location | Victoria, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Dauphin-MB/XMLNAME--CAN--Accounting-Office_R-2481924) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/CAN-BC-VICTORIA-01214-WM-SUPERCENTER/XMLNAME--CAN--Accounting-Office_R-2485296) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-04-17.
+This corporate finance position at Walmart was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Prudential Financial](https://scoutify.ai/companies/prudential-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Newark, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Associate-Actuary_R-124063-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Associate-Actuary_R-124010-2) |
 
 ## About This Role
 
-This corporate finance position at Prudential Financial was posted on 2026-04-01.
+This corporate finance position at Prudential Financial was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

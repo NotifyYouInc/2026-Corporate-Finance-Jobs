@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bridgestone](https://scoutify.ai/companies/bridgestone?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Tyler, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://bridgestone.wd5.myworkdayjobs.com/external/job/799953-Potranco-at-Seascape/Sales-and-Service-Specialist_2026_08647) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://bridgestone.wd5.myworkdayjobs.com/external/job/014532-Tyler-Mall/Sales-and-Service-Specialist_2026_08739) |
 
 ## About This Role
 
-This corporate finance position at Bridgestone was posted on 2026-04-16.
+This corporate finance position at Bridgestone was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bullpen Talent](https://scoutify.ai/companies/bullpen-talent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Argentina |
+| Location | India |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bullpen-talent/3f972062-5874-408c-9eb2-c160a52e6fac) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bullpen-talent/722af797-5176-4565-87ec-e649fcf031a5) |
 
 ## About This Role
 
-This corporate finance position at Bullpen Talent was posted on 2026-04-17.
+This corporate finance position at Bullpen Talent was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

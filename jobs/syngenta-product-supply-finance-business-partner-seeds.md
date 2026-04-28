@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Venado Tuerto, Santa Fe, Argentina |
+| Location | Buenos Aires, AR |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000109104555-product-supply-finance-business-partner-seeds) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000121878746-product-supply-finance-business-partner-seeds) |
 
 ## About This Role
 
-This corporate finance position at Syngenta was posted on 2026-02-13.
+This corporate finance position at Syngenta was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

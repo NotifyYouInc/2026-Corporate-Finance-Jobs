@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Fort-Mill-SC-US/Funding-Analyst_DT-17462) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Cuajimalpa-de-Morelos-CDMX/Funding-Analyst_DT-16936) |
 
 ## About This Role
 
-This corporate finance position at Daimler Truck was posted on 2026-04-03.
+This corporate finance position at Daimler Truck was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

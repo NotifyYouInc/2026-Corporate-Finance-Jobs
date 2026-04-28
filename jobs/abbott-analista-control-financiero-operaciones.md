@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cali, Valle del Cauca Department, Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Cali/ANALISTA-CONTROL-FINANCIERO-OPERACIONES_31147579) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Cali/ANALISTA-CONTROL-FINANCIERO-OPERACIONES_31148167) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-04-15.
+This corporate finance position at Abbott was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

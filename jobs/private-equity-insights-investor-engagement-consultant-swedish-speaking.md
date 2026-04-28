@@ -5,12 +5,12 @@
 | Company | [Private Equity Insights](https://scoutify.ai/companies/private-equity-insights?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/privateequityinsights/jobs/7699121003) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/privateequityinsights/jobs/7708845003) |
 
 ## About This Role
 
-This corporate finance position at Private Equity Insights was posted on 2026-04-13.
+This corporate finance position at Private Equity Insights was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

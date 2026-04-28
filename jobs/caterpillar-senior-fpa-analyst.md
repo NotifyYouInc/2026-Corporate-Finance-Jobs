@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Irving, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-FP-A-Analyst_R0000359398-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-FP-A-Analyst_R0000362939-1) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-26.
+This corporate finance position at Caterpillar was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

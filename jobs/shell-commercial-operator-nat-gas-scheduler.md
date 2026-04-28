@@ -5,12 +5,12 @@
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Houston---One-Thousand-Main/Commercial-Operator---Nat-Gas-Scheduler_R200775) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Houston---One-Thousand-Main/Commercial-Operator---Nat-Gas-Scheduler_R201963) |
 
 ## About This Role
 
-This corporate finance position at Shell was posted on 2026-04-06.
+This corporate finance position at Shell was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

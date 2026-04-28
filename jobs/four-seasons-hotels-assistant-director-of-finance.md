@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Okinawa, Okinawa, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Houston/Assistant-Director-of-Finance_REQ10373057-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Okinawa/Assistant-Director-of-Finance_REQ10378071) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-03-04.
+This corporate finance position at Four Seasons Hotels was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

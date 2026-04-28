@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Athens, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5027-Planta-F/FP-A-Manager_30203181) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG01-CTD-Athens-700-Olympic-Drive-Athens-GA-30601-USA/FP-A-Manager_30204039) |
 
 ## About This Role
 
-This corporate finance position at Carrier Global was posted on 2026-04-16.
+This corporate finance position at Carrier Global was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

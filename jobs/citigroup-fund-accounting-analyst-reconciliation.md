@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Haryana, IN |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Fund-Accounting-Analyst---Reconciliation_25907293) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/Fund-Accounting-Analyst---Reconciliation_26955822) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-04.
+This corporate finance position at Citigroup was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

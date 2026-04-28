@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/SEOUL/Accountant_JR123307) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/LONDON/Accountant_JR127927-1) |
 
 ## About This Role
 
-This corporate finance position at Richemont was posted on 2026-04-02.
+This corporate finance position at Richemont was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eisneramper](https://scoutify.ai/companies/eisneramper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/New-York/XMLNAME-2026-Tax-Staff-I---Private-Client-Services--PCS-_Req-7380) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/Minneapolis/XMLNAME-2026-Tax-Staff-I---Private-Client-Services--PCS-_Req-7354) |
 
 ## About This Role
 
-This corporate finance position at Eisneramper was posted on 2026-04-14.
+This corporate finance position at Eisneramper was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

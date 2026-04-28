@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Irvine-CA/Senior-Financial-Analyst_2600286-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Irvine-CA/Senior-Financial-Analyst_2601025) |
 
 ## About This Role
 
-This corporate finance position at Marvell was posted on 2026-02-05.
+This corporate finance position at Marvell was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

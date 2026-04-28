@@ -5,12 +5,12 @@
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Power-System-Trader_JR113811-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Power-System-Trader_JR113913-1) |
 
 ## About This Role
 
-This corporate finance position at Xcel Energy was posted on 2026-04-15.
+This corporate finance position at Xcel Energy was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

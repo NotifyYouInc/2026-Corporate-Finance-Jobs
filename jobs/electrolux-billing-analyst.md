@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Cali, Valle del Cauca Department, Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Lima/Billing-Analyst_JR75277) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Cali/Billing-Analyst_JR77466) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-03-03.
+This corporate finance position at Electrolux was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

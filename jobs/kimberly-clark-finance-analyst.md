@@ -5,12 +5,12 @@
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Neenah, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/USA-WI-Neenah/Finance-Analyst_883834-2) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/USA-WI-Neenah/Finance-Analyst_884634-2) |
 
 ## About This Role
 
-This corporate finance position at Kimberly-Clark was posted on 2026-02-19.
+This corporate finance position at Kimberly-Clark was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

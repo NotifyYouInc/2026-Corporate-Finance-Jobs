@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fleming Island, Florida, United States |
+| Location | Port Charlotte, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Fleming-Island-Florida/Sleep-Expert---Sales_JR-P0061630) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Port-Charlotte-Florida/Sleep-Expert---Sales_JR-P0061649) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-17.
+This corporate finance position at Mattressfirm was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

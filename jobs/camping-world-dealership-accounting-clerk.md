@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rochester, New York, United States |
+| Location | Lincoln, Nebraska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Rochester-NY/Dealership-Accounting-Clerk_26_03734) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Lincoln-NE/Dealership-Accounting-Clerk_26_03966) |
 
 ## About This Role
 
-This corporate finance position at Camping World was posted on 2026-04-13.
+This corporate finance position at Camping World was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

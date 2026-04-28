@@ -5,12 +5,12 @@
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hawthorne, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8431885002?gh_jid=8431885002) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8515826002?gh_jid=8515826002) |
 
 ## About This Role
 
-This corporate finance position at SpaceX was posted on 2026-02-20.
+This corporate finance position at SpaceX was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

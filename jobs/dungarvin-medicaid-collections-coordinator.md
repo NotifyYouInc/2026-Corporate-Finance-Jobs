@@ -1,16 +1,16 @@
-# Medicaid Collections Coordinator  at Dungarvin
+# Medicaid Collections Coordinator at Dungarvin
 
 | Field | Details |
 |-------|---------|
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnesota, US |
+| Location | Mendota Heights, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000117069512-medicaid-collections-coordinator) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000121882377-medicaid-collections-coordinator) |
 
 ## About This Role
 
-This corporate finance position at Dungarvin was posted on 2026-03-26.
+This corporate finance position at Dungarvin was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
