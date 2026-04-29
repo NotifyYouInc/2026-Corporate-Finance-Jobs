@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Egypt |
+| Location | Saudi Arabia |
 | Category | Corporate Finance |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000117494937-accounts-payable) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000122170007-accounts-payable) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-29.
+This corporate finance position at ACCOR was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

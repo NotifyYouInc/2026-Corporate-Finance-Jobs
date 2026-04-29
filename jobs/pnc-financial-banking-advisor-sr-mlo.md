@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cleveland, Ohio, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/Banking-Advisor-Sr--MLO-_R219037-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/IL---Chicago-60606/Banking-Advisor-Sr--MLO-_R219345-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-04-16.
+This corporate finance position at PNC Financial was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | West Allis, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Dallas-APC-Dallas-TX-75228/Dealership-Accountant-I_R105963) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Wilde-Toyota-West-Allis-WI-53227/Dealership-Accountant-I_R107257) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-03-31.
+This corporate finance position at Lithia Motors was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

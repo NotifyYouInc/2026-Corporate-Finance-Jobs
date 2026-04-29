@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Georgia, US |
+| Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Georgia/Accountant_20093638) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Melbourne/Accountant_20095471) |
 
 ## About This Role
 
-This corporate finance position at Acciona was posted on 2026-03-03.
+This corporate finance position at Acciona was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

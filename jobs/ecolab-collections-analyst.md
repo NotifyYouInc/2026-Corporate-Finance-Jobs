@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/ARG---Provincia-de-Buenos-Aires---Buenos-Aires/Collections-Analyst_R00287493) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/ARG---Provincia-de-Buenos-Aires---Buenos-Aires/Collections-Analyst_R00290700) |
 
 ## About This Role
 
-This corporate finance position at Ecolab was posted on 2026-03-06.
+This corporate finance position at Ecolab was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

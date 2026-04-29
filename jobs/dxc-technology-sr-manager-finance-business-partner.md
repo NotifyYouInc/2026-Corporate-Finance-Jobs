@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Plano, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---NY---NEW-YORK/Sr-Manager-Finance-Business-Partner_51572695) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---TX---PLANO/Sr-Manager-Finance-Business-Partner_51578660) |
 
 ## About This Role
 
-This corporate finance position at DXC Technology was posted on 2026-02-13.
+This corporate finance position at DXC Technology was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SRS Distribution](https://scoutify.ai/companies/srs-distribution?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | McKinney, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://srsdistribution.wd1.myworkdayjobs.com/srs/job/McKinney-Texas/Credit-Support-Administrator_REQ47799) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://srsdistribution.wd1.myworkdayjobs.com/srs/job/McKinney-Texas/Credit-Support-Administrator_REQ49075) |
 
 ## About This Role
 
-This corporate finance position at SRS Distribution was posted on 2026-03-16.
+This corporate finance position at SRS Distribution was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

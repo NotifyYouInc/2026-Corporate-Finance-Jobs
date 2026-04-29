@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/7701240) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/7833996) |
 
 ## About This Role
 
-This corporate finance position at Schonfeld was posted on 2026-03-13.
+This corporate finance position at Schonfeld was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

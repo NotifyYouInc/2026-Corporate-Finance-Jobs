@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aviva](https://scoutify.ai/companies/aviva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Markham, Ontario, Canada |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Senior-Financial-Analyst--Financial-Planning---Analysis_R-165210-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Senior-Financial-Analyst--Financial-Planning---Analysis_R-167807-1) |
 
 ## About This Role
 
-This corporate finance position at Aviva was posted on 2026-02-13.
+This corporate finance position at Aviva was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

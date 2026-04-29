@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lightspeed Commerce](https://scoutify.ai/companies/lightspeed-commerce?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7833938) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7833943) |
 
 ## About This Role
 
-This corporate finance position at Lightspeed Commerce was posted on 2026-04-20.
+This corporate finance position at Lightspeed Commerce was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

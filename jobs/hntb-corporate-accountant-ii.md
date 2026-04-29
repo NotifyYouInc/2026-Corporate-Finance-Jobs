@@ -5,12 +5,12 @@
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Corporate-Accountant-II_R-29048-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Corporate-Accountant-II_R-29957) |
 
 ## About This Role
 
-This corporate finance position at HNTB was posted on 2026-03-02.
+This corporate finance position at HNTB was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

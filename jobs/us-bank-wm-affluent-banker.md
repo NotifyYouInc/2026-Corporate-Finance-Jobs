@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Phoenix, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/WM-Affluent-Banker_2026-0008815) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Phoenix-AZ/WM-Affluent-Banker_2025-0023451) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-14.
+This corporate finance position at U.S. Bank was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

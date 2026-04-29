@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnesota, US |
+| Location | Fort Worth, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/St-Paul-MN/Staff-Accountant_REQ489920) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Fort-Worth-TX/Staff-Accountant_REQ502042-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-04.
+This corporate finance position at JLL was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

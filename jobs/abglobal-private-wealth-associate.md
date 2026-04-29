@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Diego, California, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/San-Diego-California/Private-Wealth-Associate_R0018564) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/New-York-New-York/Private-Wealth-Associate_R0018298) |
 
 ## About This Role
 
-This corporate finance position at Abglobal was posted on 2026-04-14.
+This corporate finance position at Abglobal was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

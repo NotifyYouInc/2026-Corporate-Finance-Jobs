@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Location | Chatham, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Boston-Marriott-Burlington/Assistant-Controller_R0060906) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Chatham-Bars-Inn/Assistant-Controller_R0060692) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-04-17.
+This corporate finance position at Benchmark was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

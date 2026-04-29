@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Family-Office-Analyst_70058) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Houston/Family-Office-Analyst_70911) |
 
 ## About This Role
 
-This corporate finance position at Brown Brothers Harriman was posted on 2026-03-25.
+This corporate finance position at Brown Brothers Harriman was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

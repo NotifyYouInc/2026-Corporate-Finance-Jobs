@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Naples, Florida, United States |
+| Location | Bellevue, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Naples-Grande-Beach-Resort/Director-of-Finance_R0060227) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/InterContinental-Seattle-Bellevue/Director-of-Finance_R0061058) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-04-02.
+This corporate finance position at Benchmark was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
