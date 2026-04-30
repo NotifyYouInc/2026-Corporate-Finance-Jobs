@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Las-Vegas-NV/PWM-Wealth-Strategist_2026-0008317-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irvine-CA/PWM-Wealth-Strategist_2026-0010224-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-03.
+This corporate finance position at U.S. Bank was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

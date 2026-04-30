@@ -5,12 +5,12 @@
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Boston/Accounting-and-Finance-Consulting---Supervisor--Strategic-Finance-and-FP-A--Advanced-Decision-Modeling_JR117012) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Boston/Accounting-and-Finance-Consulting---Supervisor--Strategic-Finance-and-FP-A--Advanced-Decision-Modeling_JR117009) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-02-06.
+This corporate finance position at RSM was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santa Ana, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000122064706-billing-settlement-coordinator-bilingual-koreanenglish) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000122285410-billing-settlement-coordinator-bilingual-koreanenglish) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-04-21.
+This corporate finance position at Woongjin was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

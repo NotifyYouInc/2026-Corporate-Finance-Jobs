@@ -5,12 +5,12 @@
 | Company | [Nevoya](https://scoutify.ai/companies/nevoya?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nevoya/4df45888-5b83-494a-8086-24190dd216b9) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nevoya/6a5aada2-8a8c-46d7-afc6-93e3453d7f3a) |
 
 ## About This Role
 
-This corporate finance position at Nevoya was posted on 2026-03-11.
+This corporate finance position at Nevoya was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

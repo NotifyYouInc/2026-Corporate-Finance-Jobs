@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cmcmarkets](https://scoutify.ai/companies/cmcmarkets?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://cmcmarkets.wd3.myworkdayjobs.com/cmc_markets_careers/job/Sydney/Sales-Trader_CMC5298-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://cmcmarkets.wd3.myworkdayjobs.com/cmc_markets_careers/job/Singapore/Sales-Trader_CMC4427-1) |
 
 ## About This Role
 
-This corporate finance position at Cmcmarkets was posted on 2026-04-12.
+This corporate finance position at Cmcmarkets was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

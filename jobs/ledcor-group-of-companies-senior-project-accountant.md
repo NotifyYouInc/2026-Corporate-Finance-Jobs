@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ledcor Group of Companies](https://scoutify.ai/companies/ledcor-group-of-companies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Cincinnati-OH/Senior-Project-Accountant_R27464-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Toronto-ON/Senior-Project-Accountant_R28554) |
 
 ## About This Role
 
-This corporate finance position at Ledcor Group of Companies was posted on 2026-02-11.
+This corporate finance position at Ledcor Group of Companies was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

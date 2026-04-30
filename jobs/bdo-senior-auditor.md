@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Brisbane-Queensland/Senior-Auditor_JR103030) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Melbourne-Victoria/Senior-Auditor_JR102003) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-04-16.
+This corporate finance position at Bdo was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

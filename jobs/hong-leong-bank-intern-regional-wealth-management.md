@@ -5,12 +5,12 @@
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Intern--Regional-Wealth-Management_JR0000023869) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Intern--Regional-Wealth-Management_JR0000024367) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-03-24.
+This corporate finance position at Hong Leong Bank was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Location | Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Accounts-Payable-Representative-II_R-01344325) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Accounts-Payable-Representative-II_R-01348823) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-09.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

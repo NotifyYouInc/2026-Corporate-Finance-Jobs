@@ -5,12 +5,12 @@
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990012457126-finance-manager) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990012777731-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at SOSi was posted on 2026-04-03.
+This corporate finance position at SOSi was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

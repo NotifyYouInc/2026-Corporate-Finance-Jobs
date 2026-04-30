@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lakeside Park, Kentucky, United States |
+| Location | West Nyack, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Lakeside-Park/Wealth-Management-Client-Associate_26014368-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/West-Nyack/Wealth-Management-Client-Associate_26014537) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-21.
+This corporate finance position at Bank of America was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

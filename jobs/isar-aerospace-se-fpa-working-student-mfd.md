@@ -5,12 +5,12 @@
 | Company | [Isar Aerospace SE](https://scoutify.ai/companies/isar-aerospace-se?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bavaria, DE |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4837036101) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4843514101) |
 
 ## About This Role
 
-This corporate finance position at Isar Aerospace SE was posted on 2026-04-15.
+This corporate finance position at Isar Aerospace SE was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

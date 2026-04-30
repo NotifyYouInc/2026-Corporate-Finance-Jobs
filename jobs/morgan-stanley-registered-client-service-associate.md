@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Naples, Campania, Italy |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Naples-Florida-United-States-of-America/Registered-Client-Service-Associate_JR034999) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Santa-Monica-California-United-States-of-America/Registered-Client-Service-Associate---Part-Time-_JR031207) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-16.
+This corporate finance position at Morgan Stanley was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

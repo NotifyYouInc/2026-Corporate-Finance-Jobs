@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Putrajaya, Putrajaya, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Manager--Financial-Control-US_R-0000158703) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Manager--Financial-Control-US_R-0000165614) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-01.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

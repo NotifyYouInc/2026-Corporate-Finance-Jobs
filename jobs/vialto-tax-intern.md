@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vialto](https://scoutify.ai/companies/vialto?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Beijing/Tax-Intern_REQ907611) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Kuala-Lumpur/Tax-Intern_REQ906502) |
 
 ## About This Role
 
-This corporate finance position at Vialto was posted on 2026-04-06.
+This corporate finance position at Vialto was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

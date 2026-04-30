@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 6 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Toronto-Ontario-Canada/Transaction-Accountant_R316074) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Rosemont-Illinois-USA/Transaction-Accountant_R316085) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-04-20.
+This corporate finance position at Cushman & Wakefield was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

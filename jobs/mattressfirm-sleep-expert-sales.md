@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hillsboro, Oregon, United States |
+| Location | Macedonia, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Hillsboro-Oregon/Sleep-Expert---Sales_JR-P0061656-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Macedonia-Ohio/Sleep-Expert---Sales_JR-P0061677) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-21.
+This corporate finance position at Mattressfirm was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

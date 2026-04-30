@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Menlo Park, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7759805?t=gh_src=&gh_jid=7759805) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7766573?t=gh_src=&gh_jid=7766573) |
 
 ## About This Role
 
-This corporate finance position at Robinhood was posted on 2026-03-27.
+This corporate finance position at Robinhood was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

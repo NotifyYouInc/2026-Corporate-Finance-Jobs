@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000121096456-accountant-2-fund-accounting-with-yardi-experience-hybrid-setup) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000122373220-accountant-2-fund-accounting-with-yardi-experience-hybrid-setup) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-04-16.
+This corporate finance position at IQ-EQ was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

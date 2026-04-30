@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | Costa Mesa, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5091126007?gh_jid=5091126007) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5112848007?gh_jid=5112848007) |
 
 ## About This Role
 
-This corporate finance position at Anduril was posted on 2026-03-26.
+This corporate finance position at Anduril was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
