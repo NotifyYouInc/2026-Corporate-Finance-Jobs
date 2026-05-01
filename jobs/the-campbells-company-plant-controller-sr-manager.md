@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Campbell's Company](https://scoutify.ai/companies/campbellsoup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hanover, Maryland, United States |
+| Location | Willard, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---PA---Hanover/Plant-Controller--Sr-Manager_Req-64884) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---OH---Willard/Plant-Controller--Sr-Manager_Req-64935) |
 
 ## About This Role
 
-This corporate finance position at The Campbell's Company was posted on 2026-04-21.
+This corporate finance position at The Campbell's Company was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

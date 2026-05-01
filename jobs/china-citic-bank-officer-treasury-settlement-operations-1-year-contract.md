@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [China CITIC Bank](https://scoutify.ai/companies/china-citic-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | China |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://cncbinternational.wd3.myworkdayjobs.com/cncbiexternalcareersite/job/Hong-Kong/Officer--Treasury-Settlement-Operations--1-year-Contract-_JR2152) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://cncbinternational.wd3.myworkdayjobs.com/cncbiexternalcareersite/job/Hong-Kong/Officer--Treasury-Settlement-Operations--1-year-Contract-_JR2252-1) |
 
 ## About This Role
 
-This corporate finance position at China CITIC Bank was posted on 2026-03-16.
+This corporate finance position at China CITIC Bank was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

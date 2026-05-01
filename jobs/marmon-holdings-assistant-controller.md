@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Moscow, Idaho, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Moscow-TN/Assistant-Controller_JR0000036691) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Assistant-Controller_JR0000042543-1) |
 
 ## About This Role
 
-This corporate finance position at Marmon Holdings was posted on 2026-02-23.
+This corporate finance position at Marmon Holdings was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

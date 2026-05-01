@@ -1,16 +1,16 @@
-# Director of Finance at ACCOR
+# Director Of Finance at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hamburg, Hamburg, Germany |
+| Location | Candolim, Goa, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000122090277-director-of-finance) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000122601545-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-21.
+This corporate finance position at ACCOR was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

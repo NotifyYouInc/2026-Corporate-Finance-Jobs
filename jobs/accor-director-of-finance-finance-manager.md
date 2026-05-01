@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000121577587-director-of-finance-finance-manager) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000122589899-director-of-finance-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-18.
+This corporate finance position at ACCOR was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

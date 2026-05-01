@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | West Des Moines, Iowa, United States |
+| Location | Reno, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WEST-DES-MOINES-IA/Client-Associate_R-536712-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/RENO-NV/Client-Associate_R-539233) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-17.
+This corporate finance position at Wells Fargo was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

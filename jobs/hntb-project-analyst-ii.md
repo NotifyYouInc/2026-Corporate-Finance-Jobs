@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/Project-Analyst-II_R-29619) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Project-Analyst-II_R-29998) |
 
 ## About This Role
 
-This corporate finance position at HNTB was posted on 2026-03-23.
+This corporate finance position at HNTB was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

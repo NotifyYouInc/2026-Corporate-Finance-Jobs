@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Detroit/Associate--Financial-Operations_R1115810-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/New-York/Associate--Financial-Operations_R1119127) |
 
 ## About This Role
 
-This corporate finance position at Dentsu was posted on 2026-02-11.
+This corporate finance position at Dentsu was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

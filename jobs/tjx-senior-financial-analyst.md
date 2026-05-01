@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Framingham, Massachusetts, United States |
+| Location | Mississauga, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Framingham-MA-01701/Senior-Financial-Analyst_REQ104062) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mississauga-ON-L5R-0G1/Senior-Financial-Analyst_REQ111013) |
 
 ## About This Role
 
-This corporate finance position at TJX was posted on 2026-03-19.
+This corporate finance position at TJX was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

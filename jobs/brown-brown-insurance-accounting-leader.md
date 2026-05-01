@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Lafayette, Louisiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Tampa-FL-USA/Accounting-Leader_R26_0000001273-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Lafayette-LA-USA/Accounting-Leader_R26_0000001574) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-04-03.
+This corporate finance position at Brown & Brown Insurance was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Market-Risk---Senior-Associate---Institutional-Equity-Division_JR023484-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Market-Risk--Senior-Associate--Institutional-Equity-Division_JR034358) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-06.
+This corporate finance position at Morgan Stanley was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Manager Credit Structures Intern at Royal Bank of Canada
+# Manager, Credit Structures Intern at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager-Credit-Structures-Intern_R-0000165307) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Manager--Credit-Structures-Intern_R-0000169559) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-26.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Associate-2_R-788488-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Associate-2_R-788378) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-16.
+This corporate finance position at State Street was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

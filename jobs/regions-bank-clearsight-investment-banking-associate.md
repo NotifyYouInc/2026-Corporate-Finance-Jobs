@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Clearsight-McLean/Clearsight-Investment-Banking-Associate_R101441) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Clearsight-McLean/Clearsight-Investment-Banking-Associate_R102205) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-04-01.
+This corporate finance position at Regions Bank was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

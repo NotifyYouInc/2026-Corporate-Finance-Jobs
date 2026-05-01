@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Smith, Arkansas, United States |
+| Location | New Berlin, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Operations-Controller_JR00028851-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Operations-Controller_JR00031563) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-03-20.
+This corporate finance position at ABB was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

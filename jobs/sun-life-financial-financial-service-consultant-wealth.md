@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Montreal-Quebec/Financial-Service-Consultant--Wealth_JR00123032) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Montreal-Quebec/Financial-Service-Consultant--Wealth_JR00123281) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-04-20.
+This corporate finance position at Sun Life Financial was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

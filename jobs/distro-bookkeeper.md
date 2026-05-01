@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.lever.co/distro/531b86dd-0b59-4d72-971a-3506c64ecd51) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.lever.co/distro/43938de0-2461-4fda-adb3-39fbc34f3d99) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-04-17.
+This corporate finance position at Distro was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

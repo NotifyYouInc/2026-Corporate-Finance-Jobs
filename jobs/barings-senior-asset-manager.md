@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barings](https://scoutify.ai/companies/barings?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Hesse, DE |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://barings.wd1.myworkdayjobs.com/barings_hires/job/Melbourne-Australia/Senior-Asset-Manager_JR_006474) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://barings.wd1.myworkdayjobs.com/barings_hires/job/DE---FRANKFURT--UNTERLINDAU-21-29/Senior-Asset-Manager_JR_005987-2) |
 
 ## About This Role
 
-This corporate finance position at Barings was posted on 2026-03-27.
+This corporate finance position at Barings was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

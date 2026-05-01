@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/MX---EUGENIA-OPERATING-BUILDING-MXMCT/Auxiliar-de-Credito-y-Cobranza_R26010485) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/MX---MONTERREY-OPERATIONS-MXMNR/Auxiliar-de-Credito-y-Cobranza_R26012787) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-04-02.
+This corporate finance position at United Parcel Service (UPS) was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Senior-Financial-Analyst_JR0145395) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Senior-Financial-Analyst_JR0146091) |
 
 ## About This Role
 
-This corporate finance position at McKesson was posted on 2026-04-07.
+This corporate finance position at McKesson was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

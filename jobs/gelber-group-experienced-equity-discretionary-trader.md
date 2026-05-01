@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gelber Group](https://scoutify.ai/companies/gelbergroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | White Plains, New York, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4651844006) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4638976006) |
 
 ## About This Role
 
-This corporate finance position at Gelber Group was posted on 2026-02-18.
+This corporate finance position at Gelber Group was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Sr-Financial-Analyst-II_R00281908) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Sr-Financial-Analyst-I_R00291617) |
 
 ## About This Role
 
-This corporate finance position at Ecolab was posted on 2026-02-10.
+This corporate finance position at Ecolab was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

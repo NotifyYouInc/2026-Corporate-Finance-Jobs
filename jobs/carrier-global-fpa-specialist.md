@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Palm Beach Gardens, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5028-MSSC-Boulevard-Daz-Ordaz-130-Torre-4-Piso-19-Col-Santa-Maria-Monterrey-Nuevo-Len-Mxico-CP-64650/FP-A-Specialist_30199475) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Spclst--FP-A_30203360) |
 
 ## About This Role
 
-This corporate finance position at Carrier Global was posted on 2026-03-19.
+This corporate finance position at Carrier Global was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

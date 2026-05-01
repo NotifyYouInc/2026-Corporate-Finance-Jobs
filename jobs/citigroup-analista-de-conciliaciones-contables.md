@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Analista-de-Conciliaciones-Contables_26942489) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Analista-de-Conciliaciones-Contables_26949383-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-06.
+This corporate finance position at Citigroup was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

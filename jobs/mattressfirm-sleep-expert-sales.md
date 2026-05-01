@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Macedonia, Ohio, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Macedonia-Ohio/Sleep-Expert---Sales_JR-P0061677) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Richmond-Virginia/Sleep-Expert---Sales_JR-P0061189) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-22.
+This corporate finance position at Mattressfirm was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

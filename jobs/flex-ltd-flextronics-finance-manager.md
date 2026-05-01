@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Orangeburg, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Finance-Manager_WD217714-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-SC-Orangeburg/Finance-Manager_WD219717) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-03-20.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

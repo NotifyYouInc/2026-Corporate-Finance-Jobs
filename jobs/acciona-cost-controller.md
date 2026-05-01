@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Amnat Charoen, TH |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Mueang-Amnat-Charoen/Cost-Controller_20091646) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Melbourne/Cost-Controller_20093979) |
 
 ## About This Role
 
-This corporate finance position at Acciona was posted on 2026-03-11.
+This corporate finance position at Acciona was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

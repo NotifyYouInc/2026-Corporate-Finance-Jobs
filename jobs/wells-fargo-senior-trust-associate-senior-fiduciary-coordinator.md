@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Florida, US |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PALM-BEACH-FL/Senior-Trust-Associate---Senior-Fiduciary-Coordinator_R-537532) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WALNUT-CREEK-CA/Senior-Trust-Associate---Senior-Fiduciary-Coordinator_R-539819) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-17.
+This corporate finance position at Wells Fargo was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-en-Audit-TI--Programme-52-109-SOX_R2602322) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-stratgique--Gouvernance-financire-et-Performance-oprationnelle_R2605312) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-02-19.
+This corporate finance position at Desjardins was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
