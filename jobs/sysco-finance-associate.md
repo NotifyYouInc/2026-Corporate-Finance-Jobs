@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edmonton, Alberta, Canada |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Edmonton/Finance-Associate_R246512) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Halifax/Finance-Associate_R248451) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-04-10.
+This corporate finance position at Sysco was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

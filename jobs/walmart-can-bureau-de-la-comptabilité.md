@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Joliette, Quebec, Canada |
+| Location | Baie-Comeau, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/CAN-QC-JOLIETTE-03039-WM-SUPERCENTER/XMLNAME--CAN--Bureau-de-la-comptabilit_R-2487362) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Baie-Comeau-QC/XMLNAME--CAN--Bureau-de-la-comptabilit_R-2489780) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-04-23.
+This corporate finance position at Walmart was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

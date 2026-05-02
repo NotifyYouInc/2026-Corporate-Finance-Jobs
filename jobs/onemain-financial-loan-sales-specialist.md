@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneMain Financial](https://scoutify.ai/companies/myhrhome?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brookhaven, Georgia, United States |
+| Location | Charleston, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Brookhaven-MS/Loan-Sales-Specialist_R2604-50371) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Charleston-WV/Loan-Sales-Specialist_R2604-50576) |
 
 ## About This Role
 
-This corporate finance position at OneMain Financial was posted on 2026-04-10.
+This corporate finance position at OneMain Financial was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

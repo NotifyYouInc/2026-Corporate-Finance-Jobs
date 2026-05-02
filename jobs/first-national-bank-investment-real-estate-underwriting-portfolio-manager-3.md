@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [First National Bank](https://scoutify.ai/companies/fnbcorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Charlotte-NC/Investment-Real-Estate-Underwriting-Portfolio-Manager-3_2026-00343) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Harrisburg-PA/Investment-Real-Estate-Underwriting-Portfolio-Manager-3_2026-00887) |
 
 ## About This Role
 
-This corporate finance position at First National Bank was posted on 2026-02-09.
+This corporate finance position at First National Bank was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

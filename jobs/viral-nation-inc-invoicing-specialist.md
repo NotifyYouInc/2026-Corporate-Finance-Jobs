@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Viral Nation Inc.](https://scoutify.ai/companies/viral-nation-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barbados |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/viralnation/jobs/5111672007) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/viralnation/jobs/5120569007) |
 
 ## About This Role
 
-This corporate finance position at Viral Nation Inc. was posted on 2026-04-17.
+This corporate finance position at Viral Nation Inc. was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

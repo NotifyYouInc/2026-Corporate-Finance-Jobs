@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Dublin, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TN-Nashville-ION-HQ/Accounting-Advisor_20178260) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Accounting-Advisor_20179560) |
 
 ## About This Role
 
-This corporate finance position at Cardinal Health was posted on 2026-04-01.
+This corporate finance position at Cardinal Health was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | 6 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Richmond-Virginia/Sleep-Expert---Sales_JR-P0061189) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Beavercreek-Ohio/Sleep-Expert---Sales_JR-P0060943) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-23.
+This corporate finance position at Mattressfirm was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000116706238-director-of-investor-relations) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000122747729-director-of-investor-relations) |
 
 ## About This Role
 
-This corporate finance position at WISE was posted on 2026-03-25.
+This corporate finance position at WISE was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

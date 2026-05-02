@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brookfield, Wisconsin, United States |
+| Location | Lake Oswego, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Brookfield-WI/VP-Financial-Advisor_R-102348) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Lake-Oswego-OR/VP-Financial-Advisor_R-102380) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-04-16.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

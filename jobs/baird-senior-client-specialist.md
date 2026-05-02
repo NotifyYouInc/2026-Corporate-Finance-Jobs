@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/SC-Charleston/Senior-Client-Specialist_R2026445-2) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/NC-Raleigh/Senior-Client-Specialist_R2026513-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-04-10.
+This corporate finance position at Baird was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

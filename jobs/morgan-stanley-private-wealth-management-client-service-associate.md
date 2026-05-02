@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Los-Angeles-California-United-States-of-America/Private-Wealth-Management-Client-Service-Associate_JR034537-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/San-Francisco-California-United-States-of-America/Private-Wealth-Management-Client-Service-Associate_JR029468) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-16.
+This corporate finance position at Morgan Stanley was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

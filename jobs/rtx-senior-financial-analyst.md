@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | Calgary, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Senior-Financial-Analyst_01839049) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-AB-CALGARY-111--919-72nd-Ave-NE--72ND-AVE-Ste-A/Senior-Financial-Analyst_01841143-1) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-04-20.
+This corporate finance position at RTX was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

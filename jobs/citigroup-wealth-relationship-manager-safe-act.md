@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Orland Park, Illinois, United States |
+| Location | Pleasant Hill, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Orland-Park-Illinois-United-States/Wealth-Relationship-Manager-SAFE-Act_26947315) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pleasant-Hill-California-United-States/Wealth-Relationship-Manager-SAFE-Act_26958314) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-01.
+This corporate finance position at Citigroup was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

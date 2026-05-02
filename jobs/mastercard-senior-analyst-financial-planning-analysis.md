@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Senior-Analyst--Financial-Planning---Analysis_R-271614) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Senior-Analyst--Financial-Planning---Analysis_R-276640) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-03-09.
+This corporate finance position at Mastercard was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Accountant at The Exploration Company
+# Principal Accountant  at The Exploration Company
 
 | Field | Details |
 |-------|---------|
 | Company | [The Exploration Company](https://scoutify.ai/companies/the-exploration-company?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/the-exploration-company/69c3f12e-fe24-416e-86e1-896035f17ea9) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/the-exploration-company/08f71b52-b8c3-4631-a3fc-03d4c5471ff5) |
 
 ## About This Role
 
-This corporate finance position at The Exploration Company was posted on 2026-03-09.
+This corporate finance position at The Exploration Company was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

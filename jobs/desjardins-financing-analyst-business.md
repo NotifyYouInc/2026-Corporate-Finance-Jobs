@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Brossard/Analyste-en-financement--March-immobilier_R2604156) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Sainte-Marie/Analyste-en-financement--March-commercial_R2605783) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-03-26.
+This corporate finance position at Desjardins was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

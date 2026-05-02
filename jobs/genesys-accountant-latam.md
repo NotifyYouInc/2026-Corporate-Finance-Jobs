@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sao-Paulo-Flexible/Accountant-LATAM_JR109947-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Mexico-City-Flexible/Accountant-LATAM_JR110872-1) |
 
 ## About This Role
 
-This corporate finance position at Genesys was posted on 2026-02-19.
+This corporate finance position at Genesys was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

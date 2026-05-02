@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Manager--Financial-Planning---Analysis_R-275182) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Manager--Financial-Planning---Analysis_R-276638) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-04-10.
+This corporate finance position at Mastercard was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

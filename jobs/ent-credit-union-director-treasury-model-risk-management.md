@@ -5,12 +5,12 @@
 | Company | [Ent Credit Union](https://scoutify.ai/companies/ent-credit-union?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Colorado Springs, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/entcreditunion1/744000121036265-director-treasury-model-risk-management) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/entcreditunion1/744000122746429-director-treasury-model-risk-management) |
 
 ## About This Role
 
-This corporate finance position at Ent Credit Union was posted on 2026-04-15.
+This corporate finance position at Ent Credit Union was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

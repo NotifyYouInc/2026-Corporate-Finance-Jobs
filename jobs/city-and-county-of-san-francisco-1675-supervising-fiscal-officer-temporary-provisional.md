@@ -5,12 +5,12 @@
 | Company | [City and County of San Francisco](https://scoutify.ai/companies/city-and-county-of-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990012774106-1675-supervising-fiscal-officer-temporary-provisional) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990012820651-1675-supervising-fiscal-officer-temporary-provisional) |
 
 ## About This Role
 
-This corporate finance position at City and County of San Francisco was posted on 2026-04-22.
+This corporate finance position at City and County of San Francisco was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

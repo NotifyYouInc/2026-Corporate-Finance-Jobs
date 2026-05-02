@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Affinity.co](https://scoutify.ai/companies/affinity-co?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affinity/jobs/7696696003) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinity/jobs/7713727003) |
 
 ## About This Role
 
-This corporate finance position at Affinity.co was posted on 2026-04-10.
+This corporate finance position at Affinity.co was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

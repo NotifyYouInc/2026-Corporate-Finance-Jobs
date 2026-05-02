@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/New-York-New-York/Private-Wealth-Associate_R0018298) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Private-Wealth-Associate_R0018720) |
 
 ## About This Role
 
-This corporate finance position at Abglobal was posted on 2026-04-21.
+This corporate finance position at Abglobal was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

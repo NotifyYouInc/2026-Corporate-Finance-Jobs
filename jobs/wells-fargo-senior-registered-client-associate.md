@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Woodbury, Minnesota, United States |
+| Location | Tucson, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WOODBURY-NY/Senior-Registered-Client-Associate_R-536337) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/TUCSON-AZ/Senior-Registered-Client-Associate_R-540259) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-14.
+This corporate finance position at Wells Fargo was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
