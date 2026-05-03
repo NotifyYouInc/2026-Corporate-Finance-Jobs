@@ -1,16 +1,16 @@
-# Senior Revenue Accounting Manager  at Sigma Computing
+# Finance Leader at Reworld
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Reworld](https://scoutify.ai/companies/reworld?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Kapolei, Hawaii, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714481003) |
+| Apply | [View on company site](https://reworld.wd5.myworkdayjobs.com/external/job/USA-HI-Kapolei/Finance-Leader_JR12995) |
 
 ## About This Role
 
-This corporate finance position at Sigma Computing was posted on 2026-04-25.
+This corporate finance position at Reworld was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

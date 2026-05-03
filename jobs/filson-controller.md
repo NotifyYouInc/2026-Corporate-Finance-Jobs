@@ -1,16 +1,16 @@
-# Financial Controller at ACCOR
+# Controller at Filson
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Marsa Alam, Red Sea, Egypt |
+| Company | [Filson](https://scoutify.ai/companies/filson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000122914719-financial-controller) |
+| Posted | 2025-11-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/filson/jobs/8225489002) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-25.
+This corporate finance position at Filson was posted on 2025-11-11.
 
 ## Get Real-Time Alerts
 

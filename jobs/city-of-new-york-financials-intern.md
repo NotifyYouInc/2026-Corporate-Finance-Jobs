@@ -1,16 +1,16 @@
-# Senior Revenue Accounting Manager  at Sigma Computing
+# Financials Intern at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714481003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012822451-financials-intern) |
 
 ## About This Role
 
-This corporate finance position at Sigma Computing was posted on 2026-04-25.
+This corporate finance position at City of New York was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

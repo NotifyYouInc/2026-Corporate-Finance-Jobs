@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edmonton, Alberta, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/PIA-Client-Service-Associate_R_1473992) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/PIA-Client-Service-Associate_R_1485937) |
 
 ## About This Role
 

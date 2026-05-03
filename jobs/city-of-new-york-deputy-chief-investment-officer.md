@@ -1,16 +1,16 @@
-# Senior Registered Client Associate at Wells Fargo
+# Deputy Chief Investment Officer at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Senior-Registered-Client-Associate_R-540436) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012822806-deputy-chief-investment-officer) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-24.
+This corporate finance position at City of New York was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

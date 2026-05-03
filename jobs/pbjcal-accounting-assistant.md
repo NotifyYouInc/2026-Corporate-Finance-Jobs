@@ -1,16 +1,16 @@
-# Financial Controller at ACCOR
+# Accounting Assistant at Pbjcal
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Marsa Alam, Red Sea, Egypt |
+| Company | [Pbjcal](https://scoutify.ai/companies/pbjcal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | 9 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000122914719-financial-controller) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://pbjcal.wd503.myworkdayjobs.com/jobsquest/job/Merit-System/Accounting-Assistant_R0015256) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-25.
+This corporate finance position at Pbjcal was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Revenue Accounting Manager  at Sigma Computing
+# Accounting & Reporting Analyst - General at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714481003) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Analyst---General_JR00022742) |
 
 ## About This Role
 
-This corporate finance position at Sigma Computing was posted on 2026-04-25.
+This corporate finance position at ABB was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

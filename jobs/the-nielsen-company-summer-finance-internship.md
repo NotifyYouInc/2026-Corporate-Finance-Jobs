@@ -1,16 +1,16 @@
-# Senior Registered Client Associate at Wells Fargo
+#  Summer Finance Internship at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Senior-Registered-Client-Associate_R-540436) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012822986-summer-finance-internship) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-24.
+This corporate finance position at The Nielsen Company was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

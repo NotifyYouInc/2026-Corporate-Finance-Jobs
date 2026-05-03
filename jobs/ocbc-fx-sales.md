@@ -1,16 +1,16 @@
-# Senior Revenue Accounting Manager  at Sigma Computing
+# FX Sales at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714481003) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Hong-Kong/FX-Sales_JR00007417) |
 
 ## About This Role
 
-This corporate finance position at Sigma Computing was posted on 2026-04-25.
+This corporate finance position at OCBC was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

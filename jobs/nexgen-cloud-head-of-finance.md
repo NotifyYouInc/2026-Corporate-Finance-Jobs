@@ -1,16 +1,16 @@
-# Senior Revenue Accounting Manager  at Sigma Computing
+# Head of Finance  at NexGen Cloud
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [NexGen Cloud](https://scoutify.ai/companies/nexgen-cloud?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714481003) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/nexgencloud/jobs/4830717101) |
 
 ## About This Role
 
-This corporate finance position at Sigma Computing was posted on 2026-04-25.
+This corporate finance position at NexGen Cloud was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

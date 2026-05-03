@@ -1,16 +1,16 @@
-# Financial Controller at ACCOR
+# Finance Manager at Walgreens
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Marsa Alam, Red Sea, Egypt |
+| Company | [Walgreens](https://scoutify.ai/companies/walgreens?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000122914719-financial-controller) |
+| Posted | 2022-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/walgreens7/743999825366990-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-25.
+This corporate finance position at Walgreens was posted on 2022-05-09.
 
 ## Get Real-Time Alerts
 

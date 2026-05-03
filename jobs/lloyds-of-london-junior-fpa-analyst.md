@@ -1,16 +1,16 @@
-# Senior Revenue Accounting Manager  at Sigma Computing
+# Junior FP&A Analyst at Lloyd's of London
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Lloyd's of London](https://scoutify.ai/companies/lloyd-s-of-london?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Corporate Finance |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714481003) |
+| Apply | [View on company site](https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-Belgium/Junior-FP-A-Analyst_R4980-2) |
 
 ## About This Role
 
-This corporate finance position at Sigma Computing was posted on 2026-04-25.
+This corporate finance position at Lloyd's of London was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

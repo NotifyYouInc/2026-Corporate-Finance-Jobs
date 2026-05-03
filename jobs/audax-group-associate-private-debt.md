@@ -1,16 +1,16 @@
-# Financial Controller at ACCOR
+# Associate, Private Debt at Audax Group
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Marsa Alam, Red Sea, Egypt |
+| Company | [Audax Group](https://scoutify.ai/companies/audaxgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000122914719-financial-controller) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/audaxgroup/jobs/4642673005) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-25.
+This corporate finance position at Audax Group was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

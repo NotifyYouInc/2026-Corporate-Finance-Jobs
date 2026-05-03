@@ -1,16 +1,16 @@
-# Financial Controller at ACCOR
+# Finance & Strategy Associate at Phia
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Marsa Alam, Red Sea, Egypt |
+| Company | [Phia](https://scoutify.ai/companies/phia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000122914719-financial-controller) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/phia/4c4d06a6-3446-4c8e-a69f-51e19dd99ae7) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-25.
+This corporate finance position at Phia was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Registered Client Associate at Wells Fargo
+# Credit Analyst/Associate, Private Debt at Audax Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Audax Group](https://scoutify.ai/companies/audaxgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Senior-Registered-Client-Associate_R-540436) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/audaxgroup/jobs/4640145005) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-24.
+This corporate finance position at Audax Group was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 
