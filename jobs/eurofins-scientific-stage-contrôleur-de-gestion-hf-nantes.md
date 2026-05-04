@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000121687907-stage-controleur-de-gestion-hf-nantes) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000123123389-stage-controleur-de-gestion-hf-nantes) |
 
 ## About This Role
 
-This corporate finance position at Eurofins Scientific was posted on 2026-04-20.
+This corporate finance position at Eurofins Scientific was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

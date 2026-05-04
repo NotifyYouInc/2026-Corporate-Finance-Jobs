@@ -1,16 +1,16 @@
-# Financial  Analyst at Arrow Electronics
+# financial Analyst at Arrow Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Financial--Analyst_R239626) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/JP-Tokyo-Japan-Atago-Green-Hills-Mori/financial-Analyst_R242920) |
 
 ## About This Role
 
-This corporate finance position at Arrow Electronics was posted on 2026-04-16.
+This corporate finance position at Arrow Electronics was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

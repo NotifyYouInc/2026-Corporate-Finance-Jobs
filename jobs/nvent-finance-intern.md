@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnesota, US |
+| Location | Braşov, Brașov County, Romania |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/St-Louis-Park-MN-US/Finance-Intern_R18740) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Brasov-RO/Finance-Intern_R21561) |
 
 ## About This Role
 
-This corporate finance position at nVent was posted on 2026-04-15.
+This corporate finance position at nVent was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

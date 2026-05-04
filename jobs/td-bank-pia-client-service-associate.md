@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/PIA-Client-Service-Associate_R_1485937) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Halifax-Nova-Scotia/PIA-Client-Service-Associate_R_1486342) |
 
 ## About This Role
 

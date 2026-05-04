@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Halifax, Nova Scotia, Canada |
+| Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000122366719-senior-fund-accountant-private-equity) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000123065669-senior-fund-accountant-private-equity) |
 
 ## About This Role
 
-This corporate finance position at MUFG Investor Services was posted on 2026-04-23.
+This corporate finance position at MUFG Investor Services was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnetonka, Minnesota, United States |
+| Location | Plymouth, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minnetonka/Financial-Analyst-II_31145835) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Financial-Analyst-II_31148623-1) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-03-27.
+This corporate finance position at Abbott was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

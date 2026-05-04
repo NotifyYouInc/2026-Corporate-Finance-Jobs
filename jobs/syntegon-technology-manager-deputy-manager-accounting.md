@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kerala, IN |
+| Location | Verna, Goa, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000114295287-manager-deputy-manager-accounting) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000123117239-manager-deputy-manager-accounting) |
 
 ## About This Role
 
-This corporate finance position at Syntegon Technology was posted on 2026-03-12.
+This corporate finance position at Syntegon Technology was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Location | Wuxi, Jiangsu, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Finance-Analyst-Business-Unit--ITC-_R0000338367) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Accounting-Associate_R0000364943) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-04-03.
+This corporate finance position at Caterpillar was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

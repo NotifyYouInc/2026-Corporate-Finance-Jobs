@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Accountant-Empower_R0058233) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Accountant-Empower_R0058274) |
 
 ## About This Role
 
-This corporate finance position at Empower was posted on 2026-04-22.
+This corporate finance position at Empower was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
