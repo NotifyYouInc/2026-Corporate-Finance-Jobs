@@ -5,12 +5,12 @@
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Hyderabad-India/Credit-Controller-1_R0028234-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Hyderabad-India/Credit-Controller-1_R0029176) |
 
 ## About This Role
 
-This corporate finance position at Solenis was posted on 2026-04-13.
+This corporate finance position at Solenis was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Saint-Apollinaire, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2605526) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Saint-Apollinaire/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2605859) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-04-23.
+This corporate finance position at Desjardins was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

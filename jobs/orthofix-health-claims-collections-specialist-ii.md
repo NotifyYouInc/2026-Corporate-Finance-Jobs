@@ -5,12 +5,12 @@
 | Company | [Orthofix](https://scoutify.ai/companies/orthofix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://orthofix.wd1.myworkdayjobs.com/external_careers/job/Remote---United-States/Health-Claims-Specialist-II_OFX26148) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://orthofix.wd1.myworkdayjobs.com/external_careers/job/Remote---United-States/Health-Claims-Collections-Specialist-II_OFX26205-1) |
 
 ## About This Role
 
-This corporate finance position at Orthofix was posted on 2026-04-13.
+This corporate finance position at Orthofix was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

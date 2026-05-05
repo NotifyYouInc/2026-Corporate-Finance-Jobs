@@ -1,16 +1,16 @@
-# Senior Financial Analyst at Foundry
+# Senior Financial Analyst  at Foundry
 
 | Field | Details |
 |-------|---------|
 | Company | [Foundry](https://scoutify.ai/companies/foundry?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/foundry/jobs/7848179) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/foundry/jobs/7859645) |
 
 ## About This Role
 
-This corporate finance position at Foundry was posted on 2026-04-23.
+This corporate finance position at Foundry was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

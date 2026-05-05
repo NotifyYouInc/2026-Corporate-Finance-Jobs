@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Fukuoka, Fukuoka, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Fund-Accounting--Officer_R-787604-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Fukuoka-Japan/Fund-Accounting--Officer_R-786072-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-07.
+This corporate finance position at State Street was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | Portage, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Irvine-California/Manager--Finance_R561609) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Manager--Finance_R563774) |
 
 ## About This Role
 
-This corporate finance position at Stryker was posted on 2026-03-09.
+This corporate finance position at Stryker was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

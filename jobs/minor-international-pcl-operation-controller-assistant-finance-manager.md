@@ -5,12 +5,12 @@
 | Company | [Minor International PCL](https://scoutify.ai/companies/minorinternationalpcl?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000122378829-operation-controller-assistant-finance-manager) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000123349689-operation-controller-assistant-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at Minor International PCL was posted on 2026-04-23.
+This corporate finance position at Minor International PCL was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

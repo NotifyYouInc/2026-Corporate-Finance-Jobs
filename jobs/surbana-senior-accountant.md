@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SURBANA](https://scoutify.ai/companies/surbana?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Port Moresby, National Capital, Papua New Guinea |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/Port-Moresby/Senior-Accountant_JR115122) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/SMEC-Malaysia-Kuala-Lumpur/Senior-Accountant_JR116199) |
 
 ## About This Role
 
-This corporate finance position at SURBANA was posted on 2026-02-24.
+This corporate finance position at SURBANA was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benevity](https://scoutify.ai/companies/benevity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://hub.benevity.com/job-postings?gh_jid=5835694004) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://benevity.com/job-posting?gh_jid=5982890004) |
 
 ## About This Role
 
-This corporate finance position at Benevity was posted on 2026-04-02.
+This corporate finance position at Benevity was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

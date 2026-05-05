@@ -5,12 +5,12 @@
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Senior-Financial-Analyst--Supply-Chain-Finance_Req-036400) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Senior-Financial-Analyst--Supply-Chain-Finance_Req-037592-1) |
 
 ## About This Role
 
-This corporate finance position at Conagra Brands was posted on 2026-02-12.
+This corporate finance position at Conagra Brands was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

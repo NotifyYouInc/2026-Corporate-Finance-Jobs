@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pointe-Claire, Quebec, Canada |
+| Location | Parksville, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/POINTE-CLAIRE-Quebec-Canada/Administrative-Assistant_R-0000169324-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PARKSVILLE-British-Columbia-Canada/Administrative-Assistant_R-0000169745-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-24.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

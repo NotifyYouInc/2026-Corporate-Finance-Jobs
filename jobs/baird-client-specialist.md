@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Leawood, Kansas, United States |
+| Location | Janesville, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KS-Leawood/Client-Specialist_R2026471) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Janesville/Client-Specialist_R2026516-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-04-15.
+This corporate finance position at Baird was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

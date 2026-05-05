@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/108358-CA-CRG-Los-Angeles-CA-10877/Branch-Support-Manager_R-538891) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/Branch-Support-Manager_R-540660) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-23.
+This corporate finance position at Wells Fargo was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

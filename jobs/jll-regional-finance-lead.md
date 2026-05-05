@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangalore-Karnataka/Regional-Finance-Lead_REQ485791) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangalore-Karnataka/Regional-Finance-Lead_REQ502649-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-02-27.
+This corporate finance position at JLL was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

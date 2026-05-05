@@ -5,12 +5,12 @@
 | Company | [Verawholehealth](https://scoutify.ai/companies/verawholehealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Fort Myers, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://verawholehealth.wd1.myworkdayjobs.com/mpg/job/Fort-Myers-FL/Medical-Billing---Collections-Specialist-I_M102448-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://verawholehealth.wd1.myworkdayjobs.com/mpg/job/Fort-Myers-FL/Medical-Billing---Collections-Specialist-I_M102634) |
 
 ## About This Role
 
-This corporate finance position at Verawholehealth was posted on 2026-02-19.
+This corporate finance position at Verawholehealth was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

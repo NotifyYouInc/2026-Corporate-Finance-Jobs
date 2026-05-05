@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Jacksonville-Florida/Paraplanner_R26_1399) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Irvine-California/Paraplanner_R26_1635) |
 
 ## About This Role
 
-This corporate finance position at Ameriprise Financial was posted on 2026-04-10.
+This corporate finance position at Ameriprise Financial was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | La Vergne, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TN-La-Vergne-Tech-Park/Senior-Coordinator--Accounts-Receivable_20177871) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TN-La-Vergne-Tech-Park/Senior-Coordinator--Accounts-Receivable_20179689) |
 
 ## About This Role
 
-This corporate finance position at Cardinal Health was posted on 2026-03-26.
+This corporate finance position at Cardinal Health was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

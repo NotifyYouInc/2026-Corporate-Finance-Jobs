@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Syracuse, New York, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Syracuse-New-York-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000168387-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Boston-Massachusetts-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000166289) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-16.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

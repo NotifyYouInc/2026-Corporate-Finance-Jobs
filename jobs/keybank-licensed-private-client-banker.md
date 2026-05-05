@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kent, Washington, United States |
+| Location | Newcastle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Kent-WA/Licensed-Private-Client-Banker_R-39335) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Newcastle-WA/Licensed-Private-Client-Banker_R-39330) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-04-24.
+This corporate finance position at KeyBank was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

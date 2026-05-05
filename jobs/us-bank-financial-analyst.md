@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Cincinnati, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Financial-Analyst_2026-0008949) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Financial-Analyst_2026-0009808) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-23.
+This corporate finance position at U.S. Bank was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

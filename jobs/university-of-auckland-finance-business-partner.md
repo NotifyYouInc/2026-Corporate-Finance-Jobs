@@ -5,12 +5,12 @@
 | Company | [University of Auckland](https://scoutify.ai/companies/university-of-auckland?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/theuniversityofauckland/744000122370800-finance-business-partner) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/theuniversityofauckland/744000123317189-finance-business-partner) |
 
 ## About This Role
 
-This corporate finance position at University of Auckland was posted on 2026-04-23.
+This corporate finance position at University of Auckland was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

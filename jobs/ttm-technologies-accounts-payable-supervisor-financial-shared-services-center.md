@@ -5,12 +5,12 @@
 | Company | [TTM Technologies](https://scoutify.ai/companies/ttm-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Utah, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Remote---Utah/Accounts-Payable-Supervisor---Financial-Shared-Services-Center_R14676) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Remote---Utah/Accounts-Payable-Supervisor---Financial-Shared-Services-Center_R14711-1) |
 
 ## About This Role
 
-This corporate finance position at TTM Technologies was posted on 2026-02-27.
+This corporate finance position at TTM Technologies was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

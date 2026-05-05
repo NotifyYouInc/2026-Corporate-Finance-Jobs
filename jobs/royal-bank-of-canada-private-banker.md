@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/QUBEC-Quebec-Canada/Private-Banker_R-0000165838) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OAKVILLE-Ontario-Canada/Private-Banker_R-0000169931) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-31.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

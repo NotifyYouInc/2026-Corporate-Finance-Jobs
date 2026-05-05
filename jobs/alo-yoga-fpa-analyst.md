@@ -5,12 +5,12 @@
 | Company | [Alo Yoga](https://scoutify.ai/companies/alo-yoga?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Beverly Hills, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://boards.greenhouse.io/aloyoga/jobs/5820360004?gh_jid=5820360004) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://boards.greenhouse.io/aloyoga/jobs/5978039004?gh_jid=5978039004) |
 
 ## About This Role
 
-This corporate finance position at Alo Yoga was posted on 2026-03-12.
+This corporate finance position at Alo Yoga was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

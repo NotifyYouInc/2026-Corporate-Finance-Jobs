@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Missouri, US |
+| Location | Indianapolis, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Client-Accountant--GOS-_R312511-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Indianapolis-Indiana-USA/Client-Accountant--GOS-_R314620-1) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-04-03.
+This corporate finance position at Cushman & Wakefield was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

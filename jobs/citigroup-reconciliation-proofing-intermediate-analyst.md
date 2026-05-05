@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maharashtra, IN |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Reconciliation---Proofing-Intermediate-Analyst_25924944) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Reconciliation---Proofing-Intermediate-Analyst_26958578) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-27.
+This corporate finance position at Citigroup was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

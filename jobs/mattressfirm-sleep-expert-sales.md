@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | St. Petersburg, Florida, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/St-Petersburg-Florida/Sleep-Expert---Sales_JR-P0061698) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Manassas-Virginia/Sleep-Expert---Sales_JR-P0061720) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-24.
+This corporate finance position at Mattressfirm was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

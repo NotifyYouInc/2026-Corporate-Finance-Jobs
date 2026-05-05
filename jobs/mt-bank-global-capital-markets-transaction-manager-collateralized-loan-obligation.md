@@ -1,16 +1,16 @@
-# Global Capital Markets  Transaction Manager - Collateralized Loan Obligation at M&T Bank
+# Global Capital Markets Transaction Manager - Collateralized Loan Obligation at M&T Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Costa Mesa, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Global-Capital-Markets--Transaction-Manager---Collateralized-Loan-Obligation_R83650-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Costa-Mesa-CA/Global-Capital-Markets-Transaction-Manager---Collateralized-Loan-Obligation_R85564-1) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-03-18.
+This corporate finance position at M&T Bank was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

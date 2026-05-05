@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Grayslake, Illinois, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/IL-CLIENT-STATE/Accountant_R7159) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/IN-CLIENT-STATE/Accountant_R7623) |
 
 ## About This Role
 
-This corporate finance position at CAI was posted on 2026-02-13.
+This corporate finance position at CAI was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst II - Actuarial at QBE Insurance
+# Analyst II – Actuarial at QBE Insurance
 
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Sun-Prairie-WI-USA/Analyst-II---Actuarial_353658) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/USA---NY---New-York/Analyst-II---Actuarial_354499) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-04-17.
+This corporate finance position at QBE Insurance was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irving, Texas, United States |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-Irving/Accountant_R10229147) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-Irving/Accountant_R10231029) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-04-09.
+This corporate finance position at Northrop Grumman was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

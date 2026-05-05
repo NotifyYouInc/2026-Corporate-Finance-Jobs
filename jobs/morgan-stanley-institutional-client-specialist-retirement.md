@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tempe, Arizona, United States |
+| Location | Purchase, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Tempe-Arizona-United-States-of-America/Institutional-Client-Specialist---Retirement_PT-JR023561-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Purchase-New-York-United-States-of-America/Institutional-Client-Specialist---Retirement_PT-JR035743) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-10.
+This corporate finance position at Morgan Stanley was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

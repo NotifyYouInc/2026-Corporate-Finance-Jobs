@@ -1,16 +1,16 @@
-# Representative Customer Receivables at Xcel Energy
+# Representative - Customer Receivables at Xcel Energy
 
 | Field | Details |
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Roseville, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/Representative-Customer-Receivables_JR113637-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/Representative---Customer-Receivables_JR113939-2) |
 
 ## About This Role
 
-This corporate finance position at Xcel Energy was posted on 2026-04-10.
+This corporate finance position at Xcel Energy was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

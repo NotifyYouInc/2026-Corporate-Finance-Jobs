@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Private-Banking-Associate_R-0000159008) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Private-Banking-Associate_R-0000169972) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-09.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
