@@ -5,12 +5,12 @@
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/London-UK/Financial-Accountant_JR-89741-2) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/London-Stockwell-Road-SW9/Financial-Accountant_JR-89576) |
 
 ## About This Role
 
-This corporate finance position at Live Nation was posted on 2026-04-23.
+This corporate finance position at Live Nation was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

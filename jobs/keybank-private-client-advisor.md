@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Springboro, Ohio, United States |
+| Location | Maple Heights, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Springboro-OH/Private-Client-Advisor_R-39357) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Maple-Heights-OH/Private-Client-Advisor_R-39278) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-04-27.
+This corporate finance position at KeyBank was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

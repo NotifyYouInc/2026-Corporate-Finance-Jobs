@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000119664657-sales-administration-coordinator) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000123601289-sales-administration-coordinator) |
 
 ## About This Role
 
-This corporate finance position at VusionGroup SA was posted on 2026-04-09.
+This corporate finance position at VusionGroup SA was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Finance-Manager_REQ498193) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Finance-Manager_REQ485035) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-04-15.
+This corporate finance position at JLL was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

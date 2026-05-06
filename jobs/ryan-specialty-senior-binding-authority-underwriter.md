@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/New-York---New-York---1166-Ave-of-Americas/Senior-Binding-Authority-Underwriter_JR26-4319) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/New-York---New-York---1166-Ave-of-Americas/Senior-Underwriter_JR26-4156) |
 
 ## About This Role
 
-This corporate finance position at Ryan Specialty was posted on 2026-03-25.
+This corporate finance position at Ryan Specialty was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

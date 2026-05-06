@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Vietnam |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000109155165-accountant) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000123602329-accountant) |
 
 ## About This Role
 
-This corporate finance position at H&M Group was posted on 2026-02-13.
+This corporate finance position at H&M Group was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

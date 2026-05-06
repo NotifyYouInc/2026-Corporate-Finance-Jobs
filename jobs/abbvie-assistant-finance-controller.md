@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012451762-assistant-finance-controller) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012858726-assistant-finance-controller) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-04-03.
+This corporate finance position at AbbVie was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Operational-Accounting-Associate-II_R82572) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Getzville-NY/Operational-Accounting-Associate-II_R85607) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-02-26.
+This corporate finance position at M&T Bank was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

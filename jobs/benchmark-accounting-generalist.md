@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Wisconsin Dells, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/OKANA-Resort--Indoor-Waterpark/Accounting-Generalist_R0060270) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Dellshire-Resort/Accounting-Generalist_R0061423) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-04-03.
+This corporate finance position at Benchmark was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

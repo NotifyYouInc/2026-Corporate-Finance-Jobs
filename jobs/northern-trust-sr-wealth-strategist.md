@@ -1,16 +1,16 @@
-# Sr Wealth Strategist at Northern Trust
+# Sr. Wealth Strategist at Northern Trust
 
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Diego, California, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/San-Diego-CA/Sr-Wealth-Strategist_R153697) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/New-York-NY/Sr-Wealth-Strategist_R151874-1) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-06.
+This corporate finance position at Northern Trust was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

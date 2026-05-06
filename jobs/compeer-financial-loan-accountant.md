@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Compeer Financial](https://scoutify.ai/companies/compeerfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/compeerfinancial/jobs/5126906008) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/compeerfinancial/jobs/5203134008) |
 
 ## About This Role
 
-This corporate finance position at Compeer Financial was posted on 2026-02-20.
+This corporate finance position at Compeer Financial was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

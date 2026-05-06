@@ -5,12 +5,12 @@
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Financial-Analyst-III_R243090) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Financial-Analyst-III_R242120) |
 
 ## About This Role
 
-This corporate finance position at Arrow Electronics was posted on 2026-04-15.
+This corporate finance position at Arrow Electronics was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

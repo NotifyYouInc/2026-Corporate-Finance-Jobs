@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Market, Virginia, United States |
+| Location | Charleston, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/New-Market-MD/Sr-Client-Service-Associate_R-102382) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Charleston-WV/Sr-Client-Service-Associate_R-102392) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-04-24.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

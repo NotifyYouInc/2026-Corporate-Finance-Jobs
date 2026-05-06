@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst--Investment-Modeling_REQ493771) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst--Investment-Modeling_REQ496420) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-30.
+This corporate finance position at JLL was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Centralized Pricing Senior Associate at State Street
+# Centralized Pricing, Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Centralized-Pricing-Senior-Associate_R-788725-2) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Centralized-Pricing--Senior-Associate_R-788726) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-18.
+This corporate finance position at State Street was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

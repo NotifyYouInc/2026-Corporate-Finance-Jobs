@@ -5,12 +5,12 @@
 | Company | [San Francisco Campus for Jewish Living](https://scoutify.ai/companies/san-francisco-campus-for-jewish-living?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sanfranciscocampusforjewishliving/jobs/4205216009) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sanfranciscocampusforjewishliving/jobs/4235147009) |
 
 ## About This Role
 
-This corporate finance position at San Francisco Campus for Jewish Living was posted on 2026-04-21.
+This corporate finance position at San Francisco Campus for Jewish Living was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

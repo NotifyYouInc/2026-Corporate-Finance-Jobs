@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bangsar, Kuala Lumpur, Malaysia |
+| Location | Ipoh, Perak, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Bangsar/Premier-Banking-Affluent-Client-Relationship-Management---MGR_JR00007266) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Ipoh-Main/Premier-Banking-Affluent-Client-Relationship-Management---MGR_JR00007506) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-04-23.
+This corporate finance position at OCBC was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

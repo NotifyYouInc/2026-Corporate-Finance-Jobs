@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fib](https://scoutify.ai/companies/fib?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Lincoln, Nebraska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://fib.wd1.myworkdayjobs.com/fibcareers/job/Fort-Collins-CO/Credit-Analyst-III_2026-14970) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://fib.wd1.myworkdayjobs.com/fibcareers/job/Lincoln-NE/Credit-Analyst-III_2026-14985) |
 
 ## About This Role
 
-This corporate finance position at Fib was posted on 2026-04-27.
+This corporate finance position at Fib was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

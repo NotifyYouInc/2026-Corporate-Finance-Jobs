@@ -5,12 +5,12 @@
 | Company | [TAL](https://scoutify.ai/companies/tal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000117557227-group-underwriter) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000123559849-group-underwriter) |
 
 ## About This Role
 
-This corporate finance position at TAL was posted on 2026-03-30.
+This corporate finance position at TAL was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

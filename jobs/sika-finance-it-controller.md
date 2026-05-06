@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000122350009-finance-it-controller) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000123605099-finance-it-controller) |
 
 ## About This Role
 
-This corporate finance position at Sika was posted on 2026-04-22.
+This corporate finance position at Sika was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
