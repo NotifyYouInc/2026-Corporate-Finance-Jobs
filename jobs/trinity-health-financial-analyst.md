@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Pennsauken, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/Financial-Analyst_00659187) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Pennsauken-New-Jersey/Financial-Analyst_00663526) |
 
 ## About This Role
 
-This corporate finance position at Trinity Health was posted on 2026-04-10.
+This corporate finance position at Trinity Health was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

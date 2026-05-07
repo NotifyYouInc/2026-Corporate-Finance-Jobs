@@ -5,12 +5,12 @@
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000123545380-associate-billing-analyst) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000123775979-associate-billing-analyst) |
 
 ## About This Role
 
-This corporate finance position at R R Donnelley & Sons was posted on 2026-04-28.
+This corporate finance position at R R Donnelley & Sons was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

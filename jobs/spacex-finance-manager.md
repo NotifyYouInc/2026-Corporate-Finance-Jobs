@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | Palo Alto, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8517609002?gh_jid=8517609002) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8530720002?gh_jid=8530720002) |
 
 ## About This Role
 
-This corporate finance position at SpaceX was posted on 2026-04-24.
+This corporate finance position at SpaceX was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

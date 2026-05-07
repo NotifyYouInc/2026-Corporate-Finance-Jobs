@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | China |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Singapore-Singapore/Intern_R-785547-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hong-Kong-China/Intern_R-789410) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-11.
+This corporate finance position at State Street was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

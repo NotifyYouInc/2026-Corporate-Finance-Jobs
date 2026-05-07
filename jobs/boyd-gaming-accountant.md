@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Biloxi, Mississippi, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012309691-accountant) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012882136-accountant) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-03-25.
+This corporate finance position at Boyd Gaming was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

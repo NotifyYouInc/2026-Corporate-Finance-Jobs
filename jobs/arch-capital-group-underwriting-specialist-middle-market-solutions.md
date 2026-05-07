@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arch Capital Group](https://scoutify.ai/companies/archgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Connecticut, US |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://archgroup.wd1.myworkdayjobs.com/careers/job/Home-Base-MA/Underwriting-Specialist--Middle-Market-Solutions_R25_1232) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://archgroup.wd1.myworkdayjobs.com/careers/job/Home-Base-MD/Underwriting-Specialist--Middle-Market-Solutions_R26_403) |
 
 ## About This Role
 
-This corporate finance position at Arch Capital Group was posted on 2026-03-15.
+This corporate finance position at Arch Capital Group was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

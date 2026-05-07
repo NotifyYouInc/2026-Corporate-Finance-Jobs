@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Canada-Toronto-International/Director--Financial-Reporting---Allocation-Strategy_J26846) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Director--Allocations_J26448) |
 
 ## About This Role
 
-This corporate finance position at RGA Reinsurance Company was posted on 2026-03-13.
+This corporate finance position at RGA Reinsurance Company was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

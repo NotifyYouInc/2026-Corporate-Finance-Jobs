@@ -1,16 +1,16 @@
-# Accountant 3, Fund Accounting | Must Have PAXUS experience | Hybrid Setup at IQ-EQ
+# Accountant 3, Fund Accounting | Must Have PAXUS experience | HYBRID Setup at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000123113368-accountant-3-fund-accounting-must-have-paxus-experience-hybrid-setup) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000123838668-accountant-3-fund-accounting-must-have-paxus-experience-hybrid-setup) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-04-27.
+This corporate finance position at IQ-EQ was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

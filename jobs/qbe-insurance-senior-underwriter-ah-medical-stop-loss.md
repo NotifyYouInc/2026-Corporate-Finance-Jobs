@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 7 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Peachtree-Atlanta-GA-USA/Senior-Underwriter--A-H---Medical-Stop-Loss_351557) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Plano-Dallas-TX-USA/Senior-Underwriter--A-H---Medical-Stop-Loss_354325) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-03-02.
+This corporate finance position at QBE Insurance was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

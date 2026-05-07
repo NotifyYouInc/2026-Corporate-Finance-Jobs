@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tepatitlán de Morelos, Jalisco, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Jalisco-Tepatitln-de-Morelos-47600/Banquero-a-Patrimonial--Tepatitln--Jalisco-_JR00086038) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Jalisco-Tepatitln-de-Morelos-47600/Banquero-a-Patrimonial--Tepatitln--Jalisco-_JR00095626) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-22.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

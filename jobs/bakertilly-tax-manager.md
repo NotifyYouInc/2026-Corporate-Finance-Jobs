@@ -5,12 +5,12 @@
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-GA-Atlanta-3740-Davinci-Ct/Tax-Manager_JR106246) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-GA-Atlanta-3740-Davinci-Ct/Tax-Manager_JR106311) |
 
 ## About This Role
 
-This corporate finance position at Bakertilly was posted on 2026-04-24.
+This corporate finance position at Bakertilly was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

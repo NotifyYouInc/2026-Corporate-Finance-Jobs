@@ -5,12 +5,12 @@
 | Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Montreal/Partenaire-d-affaires---Finance--Finance-Business-Partner_R55944) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Montreal/Partenaire-d-affaires---Finance--Finance-Business-Partner_R56356) |
 
 ## About This Role
 
-This corporate finance position at Rio Tinto was posted on 2026-04-27.
+This corporate finance position at Rio Tinto was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Becario de cuentas por pagar at Jabil
+# Becario de Cuentas por Pagar at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Becario-de-cuentas-por-pagar_J2445716) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Becario-de-Cuentas-por-Pagar_J2437799) |
 
 ## About This Role
 
-This corporate finance position at Jabil was posted on 2026-04-14.
+This corporate finance position at Jabil was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

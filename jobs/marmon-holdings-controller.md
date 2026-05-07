@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Moscow, Idaho, United States |
+| Location | Finland |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Moscow-TN/Controller_JR0000042033-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/FIN__Kanta-Hme_Autotehtaantie-1/Controller_JR0000041317) |
 
 ## About This Role
 
-This corporate finance position at Marmon Holdings was posted on 2026-03-30.
+This corporate finance position at Marmon Holdings was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

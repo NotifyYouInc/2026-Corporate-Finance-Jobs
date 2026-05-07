@@ -1,16 +1,16 @@
-# Senior Finance Analyst - Supply Chain at Kenvue
+# Senior Finance Analyst – Supply Chain at Kenvue
 
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São José dos Campos, São Paulo, Brazil |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Brazil-Sao-Paulo-Sao-Jose-dos-Campos/Senior-Finance-Analyst---Supply-Chain_2607045225W) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Brazil-Sao-Paulo-Sao-Paulo/Senior-Finance-Analyst---Supply-Chain_2607045453W-1) |
 
 ## About This Role
 
-This corporate finance position at Kenvue was posted on 2026-04-09.
+This corporate finance position at Kenvue was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

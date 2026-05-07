@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NZ Transport Agency](https://scoutify.ai/companies/nz-transport-agency?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hamilton, Waikato Region, New Zealand |
+| Location | Whangarei, Northland, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://nztagovtnz.wd3.myworkdayjobs.com/nztagovtnz/job/Hamilton/Asset-Manager_JR-0000012256-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://nztagovtnz.wd3.myworkdayjobs.com/nztagovtnz/job/Whangrei/Asset-Manager_JR-0000012571-1) |
 
 ## About This Role
 
-This corporate finance position at NZ Transport Agency was posted on 2026-02-27.
+This corporate finance position at NZ Transport Agency was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

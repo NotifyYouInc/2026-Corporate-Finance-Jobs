@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hazelwood, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Entry-Level-Accountant_JR2026498075) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Entry-Level-Accountant_JR2026508264-1) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-02-24.
+This corporate finance position at Boeing was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

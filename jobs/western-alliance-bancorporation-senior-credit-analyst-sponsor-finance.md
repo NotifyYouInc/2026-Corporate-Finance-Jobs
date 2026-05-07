@@ -5,12 +5,12 @@
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Dallas-TX/Senior-Credit-Analyst--Sponsor-Finance_R12847) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Costa-Mesa-CA/Senior-Credit-Analyst--Sponsor-Finance_R12933) |
 
 ## About This Role
 
-This corporate finance position at Western Alliance Bancorporation was posted on 2026-04-14.
+This corporate finance position at Western Alliance Bancorporation was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

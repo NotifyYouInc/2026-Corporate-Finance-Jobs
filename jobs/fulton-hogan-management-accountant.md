@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fulton Hogan](https://scoutify.ai/companies/fulton-hogan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Western Australia, AU |
+| Location | Hamilton, Waikato Region, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Hazelmere/Management-Accountant_R24652-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/WKO-Hamilton/Management-Accountant_R25283-1) |
 
 ## About This Role
 
-This corporate finance position at Fulton Hogan was posted on 2026-03-19.
+This corporate finance position at Fulton Hogan was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

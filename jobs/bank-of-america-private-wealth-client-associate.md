@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Private-Wealth-Client-Associate_26014925-2) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Boston/Private-Wealth-Client-Associate_26015292-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-24.
+This corporate finance position at Bank of America was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

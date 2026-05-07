@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Walnut-Creek-CA/PWM-Private-Wealth-Advisor_2026-0001668) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Nashville-TN/PWM-Private-Wealth-Advisor_2026-0010685) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-22.
+This corporate finance position at U.S. Bank was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

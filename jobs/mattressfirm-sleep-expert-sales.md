@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Round Rock, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Richmond-Virginia/Sleep-Expert---Sales_JR-P0061237) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Round-Rock-Texas/Sleep-Expert---Sales_JR-P0061752) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-28.
+This corporate finance position at Mattressfirm was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

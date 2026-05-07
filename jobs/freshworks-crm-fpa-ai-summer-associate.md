@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Mateo, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000121877247-fpa-ai-summer-associate) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000123792624-fpa-ai-summer-associate) |
 
 ## About This Role
 
-This corporate finance position at Freshworks CRM was posted on 2026-04-20.
+This corporate finance position at Freshworks CRM was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

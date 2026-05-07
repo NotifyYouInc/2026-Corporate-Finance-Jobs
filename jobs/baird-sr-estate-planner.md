@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | Louisville, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Louisville/Sr-Estate-Planner_R2026291-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Louisville/Sr-Estate-Planner_R2026529-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-02-25.
+This corporate finance position at Baird was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Financial Planning and Analysis (FP&A) Intern at Intelcom | Dragonfly
+
+| Field | Details |
+|-------|---------|
+| Company | [Intelcom | Dragonfly](https://scoutify.ai/companies/intelcomgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Montréal, Quebec, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Financial-Planning-and-Analysis--FP-A--Intern_JR110760-1) |
+
+## About This Role
+
+This corporate finance position at Intelcom | Dragonfly was posted on 2026-04-30.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

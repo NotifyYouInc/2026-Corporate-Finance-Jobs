@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000113549977-service-and-billing-specialist-with-german) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123845409-service-and-billing-specialist-with-german) |
 
 ## About This Role
 
-This corporate finance position at Experian was posted on 2026-03-09.
+This corporate finance position at Experian was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

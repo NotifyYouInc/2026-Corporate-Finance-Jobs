@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneDigital](https://scoutify.ai/companies/onedigital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | El Paso, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Tucson-AZ/Payroll-Specialist_R8783) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/El-Paso-TX/Payroll-Specialist_R8772) |
 
 ## About This Role
 
-This corporate finance position at OneDigital was posted on 2026-04-20.
+This corporate finance position at OneDigital was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

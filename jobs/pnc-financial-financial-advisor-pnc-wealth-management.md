@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, California, United States |
+| Location | Stuart, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Dublin-43017/Financial-Advisor---PNC-Wealth-Management_R218793-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Stuart-34994/Financial-Advisor---PNC-Wealth-Management_R221239-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-04-15.
+This corporate finance position at PNC Financial was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

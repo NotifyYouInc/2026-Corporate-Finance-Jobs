@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hamilton, Waikato Region, New Zealand |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Hamilton-NZ---Hood-Street/NZ-Senior-Manager-Credit-Analysts_JR_00140019) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Invercargill---Dee-Street/Senior-Manager-Credit-Analysts_JR_00140267) |
 
 ## About This Role
 
-This corporate finance position at Rabobank was posted on 2026-04-24.
+This corporate finance position at Rabobank was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

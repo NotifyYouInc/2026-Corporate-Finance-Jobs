@@ -5,12 +5,12 @@
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Telangana-Sandoz/Lead-FP-A_REQ-10028054) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Telangana-Sandoz/Lead-FP-A_REQ-10028678) |
 
 ## About This Role
 
-This corporate finance position at Sandoz was posted on 2026-04-06.
+This corporate finance position at Sandoz was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
