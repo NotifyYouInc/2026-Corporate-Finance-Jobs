@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kent, Washington, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Operations-Financial-Analyst-III_R61624) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Operations-Financial-Analyst-III_R63851-1) |
 
 ## About This Role
 
-This corporate finance position at Blue Origin was posted on 2026-03-12.
+This corporate finance position at Blue Origin was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

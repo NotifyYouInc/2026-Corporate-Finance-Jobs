@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4684593005?gh_jid=4684593005) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4687011005?gh_jid=4687011005) |
 
 ## About This Role
 
-This corporate finance position at Inter Carreiras was posted on 2026-04-29.
+This corporate finance position at Inter Carreiras was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cary, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990012162026-senior-accountant-technical-accounting) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990012901637-senior-accountant-technical-accounting) |
 
 ## About This Role
 
-This corporate finance position at Cornerstone Building Brands was posted on 2026-03-16.
+This corporate finance position at Cornerstone Building Brands was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

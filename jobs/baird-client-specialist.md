@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Janesville, Wisconsin, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Janesville/Client-Specialist_R2026516-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Dallas/Client-Specialist_R2026533-2) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-04-27.
+This corporate finance position at Baird was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

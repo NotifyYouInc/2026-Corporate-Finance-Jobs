@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Scottsdale, Arizona, United States |
+| Location | Woodland Hills, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Scottsdale-Arizona-United-States-of-America/Registered-Client-Service-Associate_JR035727) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Woodland-Hills-California-United-States-of-America/Registered-Client-Service-Associate_JR036049) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-29.
+This corporate finance position at Morgan Stanley was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Illinois, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012134254-senior-manager-finance-planning-systems) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012916201-senior-manager-finance-planning-systems) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-13.
+This corporate finance position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

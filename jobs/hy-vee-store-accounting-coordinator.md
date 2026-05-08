@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hy-Vee](https://scoutify.ai/companies/hy-vee?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lenexa, Kansas, United States |
+| Location | Ashwaubenon, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Lenexa-W-87th-Pkwy-Lenexa-KS/Store-Accounting-Coordinator_R227846) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Ashwaubenon-S-Oneida-Street-Ashwaubenon-WI/Store-Accounting-Coordinator_R230172) |
 
 ## About This Role
 
-This corporate finance position at Hy-Vee was posted on 2026-04-14.
+This corporate finance position at Hy-Vee was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

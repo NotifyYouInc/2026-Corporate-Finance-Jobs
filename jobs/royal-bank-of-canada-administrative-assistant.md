@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Parksville, British Columbia, Canada |
+| Location | Ontario, CA |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PARKSVILLE-British-Columbia-Canada/Administrative-Assistant_R-0000169745-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GREATER-SUDBURY--GRAND-SUDBURY-Ontario-Canada/Administrative-Assistant_R-0000169801-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-27.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

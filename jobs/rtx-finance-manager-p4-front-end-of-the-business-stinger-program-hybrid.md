@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Finance-Manager--P4---Front-End-of-the-Business--Stinger-Program--HYBRID-_01837819) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/Finance-Manager--P4---Front-End-of-the-Business--Stinger-Program--HYBRID-_01842515-1) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-04-14.
+This corporate finance position at RTX was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012452386-senior-cost-analyst) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012921019-senior-cost-analyst) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-04-03.
+This corporate finance position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

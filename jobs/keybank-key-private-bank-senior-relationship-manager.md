@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ohio, US |
+| Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Pepper-Pike-OH/Key-Private-Bank-Senior-Relationship-Manager_R-38585-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Seattle-WA/Key-Private-Bank-Senior-Relationship-Manager_R-38944) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-03-23.
+This corporate finance position at KeyBank was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

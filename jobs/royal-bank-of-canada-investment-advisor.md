@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Saskatoon, Saskatchewan, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Investment-Advisor_R-0000169310-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/SASKATOON-Saskatchewan-Canada/Investment-Advisor_R-0000170630-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-24.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bala Cynwyd, Pennsylvania, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Bala-Cynwyd/Wealth-Management-Client-Associate_26015318) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Las-Vegas/Wealth-Management-Client-Associate_26015472) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-29.
+This corporate finance position at Bank of America was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

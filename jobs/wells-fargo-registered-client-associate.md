@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Danbury, Connecticut, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHICAGO-IL/Registered-Client-Associate_R-536043) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DANBURY-CT/Registered-Client-Associate_R-540537) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-16.
+This corporate finance position at Wells Fargo was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

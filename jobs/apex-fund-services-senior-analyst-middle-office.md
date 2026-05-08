@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Senior-Analyst---Middle-Office_JR-0021140) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Senior-Analyst---Middle-Office_JR-0022937) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-03-09.
+This corporate finance position at Apex Fund Services was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

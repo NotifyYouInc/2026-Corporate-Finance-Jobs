@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shoppers Drug Mart](https://scoutify.ai/companies/shoppers-drug-mart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Bay, Ontario, Canada |
+| Location | Pierrefonds, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://myview.wd3.myworkdayjobs.com/sdm_careers/job/276-Lakeshore-Dr-North-Bay-ON/Store-Administrator_R2000657982) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://myview.wd3.myworkdayjobs.com/sdm_careers/job/4955-Rue-St-Pierre-Pierrefonds-QC/Administrateur-de-magasin_R2000662120) |
 
 ## About This Role
 
-This corporate finance position at Shoppers Drug Mart was posted on 2026-04-16.
+This corporate finance position at Shoppers Drug Mart was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

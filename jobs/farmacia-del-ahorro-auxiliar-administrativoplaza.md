@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Farmacia del Ahorro](https://scoutify.ai/companies/farmacia-del-ahorro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Veracruz, MX |
+| Location | Guanajuato, MX |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/XALAPA-VERACRUZ/AUXILIAR-ADMINISTRATIVO-PLAZA-_JR162642) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/LEON-GUANAJUATO/AUXILIAR-ADMINISTRATIVO-PLAZA-_JR166446-1) |
 
 ## About This Role
 
-This corporate finance position at Farmacia del Ahorro was posted on 2026-03-05.
+This corporate finance position at Farmacia del Ahorro was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

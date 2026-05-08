@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Illinois, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012537887-immunology-finance-manager-rinvoq-consolidation) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012912234-immunology-finance-manager-rinvoq-consolidation) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-04-09.
+This corporate finance position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

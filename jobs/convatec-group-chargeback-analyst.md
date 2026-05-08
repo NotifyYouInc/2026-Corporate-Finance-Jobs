@@ -5,12 +5,12 @@
 | Company | [ConvaTec Group](https://scoutify.ai/companies/convatec-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/Bogota-Colombia/Chargeback-Analyst_JR00018891) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/Bogota-Colombia/Chargeback-Analyst_JR00020028) |
 
 ## About This Role
 
-This corporate finance position at ConvaTec Group was posted on 2026-02-19.
+This corporate finance position at ConvaTec Group was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

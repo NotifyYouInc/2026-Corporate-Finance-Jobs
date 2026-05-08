@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Sleepy Hollow, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/SLEEPY-HOLLOW/Senior-Manager--Commercial-Finance_R46001) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/SLEEPY-HOLLOW/Senior-Manager--Commercial-Finance_R46819-1) |
 
 ## About This Role
 
-This corporate finance position at Regeneron was posted on 2026-03-17.
+This corporate finance position at Regeneron was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

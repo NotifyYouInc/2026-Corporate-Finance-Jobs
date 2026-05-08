@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Chicago, Illinois, United States |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012661946-senior-manager-finance) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012905619-senior-manager-finance) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-04-17.
+This corporate finance position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

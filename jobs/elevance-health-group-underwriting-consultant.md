@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IL-CHICAGO-8600-W-BRYN-MAWR-AVE-10th--11th-FL/Group-Underwriting-Consultant_JR189954) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CT-WALLINGFORD-108-LEIGUS-RD/Group-Underwriting-Consultant_JR191054-1) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-04-23.
+This corporate finance position at Elevance Health was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

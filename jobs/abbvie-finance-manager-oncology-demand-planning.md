@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Illinois, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012027086-finance-manager-oncology-demand-planning) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012924595-finance-manager-oncology-demand-planning) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-08.
+This corporate finance position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

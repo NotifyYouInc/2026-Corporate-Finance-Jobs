@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Green Bay, Wisconsin, United States |
+| Location | Clinton, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Green-Bay-WI/Client-Service-Associate_R-102388) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Clinton-WI/Client-Service-Associate_R-102403) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-04-27.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

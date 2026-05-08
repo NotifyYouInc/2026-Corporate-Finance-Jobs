@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Invenergy](https://scoutify.ai/companies/invenergyllc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Ciudad-de-Mexico-D-F/Tax-Accountant_R10360-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Tax-Accountant_R10671-1) |
 
 ## About This Role
 
-This corporate finance position at Invenergy was posted on 2026-02-20.
+This corporate finance position at Invenergy was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

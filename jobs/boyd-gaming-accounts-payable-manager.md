@@ -5,12 +5,12 @@
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990011683826-accounts-payable-manager) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012898326-accounts-payable-manager) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-02-13.
+This corporate finance position at Boyd Gaming was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kelowna, British Columbia, Canada |
+| Location | Raleigh, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/KELOWNA-British-Columbia-Canada/Investment-Associate_R-0000163631-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Raleigh-North-Carolina-United-States-of-America/Investment-Associate_R-0000170570) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-13.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

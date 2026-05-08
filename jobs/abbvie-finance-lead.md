@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012464877-finance-lead) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012906374-finance-lead) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-04-06.
+This corporate finance position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

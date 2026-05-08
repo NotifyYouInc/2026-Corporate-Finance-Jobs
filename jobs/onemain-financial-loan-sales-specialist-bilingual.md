@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneMain Financial](https://scoutify.ai/companies/myhrhome?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | Carlsbad, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Tucson-AZ/Loan-Sales-Specialist---Bilingual_R2604-50528) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Carlsbad-CA/Loan-Sales-Specialist---Bilingual_R2604-50648-1) |
 
 ## About This Role
 
-This corporate finance position at OneMain Financial was posted on 2026-04-22.
+This corporate finance position at OneMain Financial was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

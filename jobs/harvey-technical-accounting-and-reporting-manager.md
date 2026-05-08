@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/8fcbaa40-af80-4b59-85ef-64fc1d58e5be) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/1bf3fe3e-9b7f-4124-ab2d-56c954e1e34f) |
 
 ## About This Role
 
-This corporate finance position at Harvey was posted on 2026-04-29.
+This corporate finance position at Harvey was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

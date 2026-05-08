@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012418236-finance-manager-entity-and-financial-planning-analysis) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012914862-finance-manager-entity-and-financial-planning-analysis) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-04-01.
+This corporate finance position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
