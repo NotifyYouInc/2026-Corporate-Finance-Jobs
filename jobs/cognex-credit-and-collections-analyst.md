@@ -5,12 +5,12 @@
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Guadalajara-Mexico/Credit-and-Collections-Analyst_R0011509-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Guadalajara-Mexico/Credit-and-Collections-Analyst_R0011989) |
 
 ## About This Role
 
-This corporate finance position at Cognex was posted on 2026-02-18.
+This corporate finance position at Cognex was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

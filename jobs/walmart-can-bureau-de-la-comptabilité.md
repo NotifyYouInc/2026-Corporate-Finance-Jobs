@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Baie-Comeau, Quebec, Canada |
+| Location | Lac-Mégantic, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Baie-Comeau-QC/XMLNAME--CAN--Bureau-de-la-comptabilit_R-2489780) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Lac-Megantic-QC/XMLNAME--CAN--Bureau-de-la-comptabilit_R-2497053) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-04-24.
+This corporate finance position at Walmart was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

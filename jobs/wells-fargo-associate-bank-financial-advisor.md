@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Longmont, Colorado, United States |
+| Location | Sparks, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LONGMONT-CO/Associate-Bank-Financial-Advisor_R-534022) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SPARKS-NV/Associate-Bank-Financial-Advisor_R-541108-1) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-02.
+This corporate finance position at Wells Fargo was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

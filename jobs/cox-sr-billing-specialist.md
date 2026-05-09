@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Location | Cherryville, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Sr-Billing-Specialist_R202674727) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Cherryville-NC/Sr-Billing-Specialist_R202676495) |
 
 ## About This Role
 
-This corporate finance position at Cox was posted on 2026-03-24.
+This corporate finance position at Cox was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

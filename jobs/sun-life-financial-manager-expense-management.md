@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Manager--Expense-Management_JR00123402) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Manager--Expense-Management_JR00123570) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-04-30.
+This corporate finance position at Sun Life Financial was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

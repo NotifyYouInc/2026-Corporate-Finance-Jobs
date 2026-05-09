@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Giving Home Health Care](https://scoutify.ai/companies/giving-home-health-care?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Albuquerque, New Mexico, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.lever.co/givinghhc/06db0ad7-ad56-4bd6-8535-9b09fcad1585) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://jobs.lever.co/givinghhc/1a0e9e0d-1915-4788-b507-a29c6415ac46) |
 
 ## About This Role
 
-This corporate finance position at Giving Home Health Care was posted on 2026-04-27.
+This corporate finance position at Giving Home Health Care was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

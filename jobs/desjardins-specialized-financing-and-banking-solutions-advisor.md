@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rimouski, Quebec, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/100-rue-Julien-Rhel-3e-tage-Rimouski/Associ-ou-Associe--Services-financiers_R2603415) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Saint-Georges/Associ-ou-associe-en-services-financiers--Clientle-Service-Signature-Desjardins_R2606093) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-03-09.
+This corporate finance position at Desjardins was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plante Moran](https://scoutify.ai/companies/plantemoran?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 6 locations |
+| Location | Southfield, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Southfield/Outsourced-Accounting-Senior-Consultant---Public-Sector_JR-02609) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Southfield/Outsourced-Accounting-Senior-Consultant---Public-Sector_JR-02628-1) |
 
 ## About This Role
 
-This corporate finance position at Plante Moran was posted on 2026-04-07.
+This corporate finance position at Plante Moran was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

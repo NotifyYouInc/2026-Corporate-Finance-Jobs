@@ -5,12 +5,12 @@
 | Company | [Finning](https://scoutify.ai/companies/finning?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Edmonton, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Accounts-Payable-Clerk-II_R-2026-1614) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Accounts-Payable-Clerk-II_R-2026-2415-1) |
 
 ## About This Role
 
-This corporate finance position at Finning was posted on 2026-03-19.
+This corporate finance position at Finning was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

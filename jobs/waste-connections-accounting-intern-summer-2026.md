@@ -1,16 +1,16 @@
-# Accounting Intern (Summer 2026) at Waste Connections
+# Accounting Intern Summer 2026 at Waste Connections
 
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Vancouver, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/5100-Southern-Region-Office/Accounting-Intern--Summer-2026-_R-97522-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/2010-Vancouver-Ofc-Mgmt-99thSt/Accounting-Intern-Summer-2026_R-98785) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-03-23.
+This corporate finance position at Waste Connections was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

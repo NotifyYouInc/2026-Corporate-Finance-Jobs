@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Collegeville, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/McLean-VA/Wealth-Brokerage-Associate---Temporary_R0113590) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Collegeville-PA/Wealth-Brokerage-Associate---Temporary_R0114052) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-04-20.
+This corporate finance position at Truist was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

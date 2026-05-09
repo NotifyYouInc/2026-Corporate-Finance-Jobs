@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Menlo Park, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1182246367079117) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1209793371076429) |
 
 ## About This Role
 
-This corporate finance position at Meta was posted on 2026-02-24.
+This corporate finance position at Meta was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

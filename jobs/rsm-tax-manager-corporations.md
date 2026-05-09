@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Los-Angeles/Tax-Manager---Corporations_JR113099) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Boston/Corporations-Tax-Manager_JR-30805-1) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-04-24.
+This corporate finance position at RSM was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

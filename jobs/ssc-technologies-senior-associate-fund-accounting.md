@@ -1,16 +1,16 @@
-# Senior Associate. Fund Accounting at SS&C Technologies
+# Senior Associate, Fund Accounting at SS&C Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Kuala-Lumpur-Malaysia/Senior-Associate-Fund-Accounting_R42486) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/New-York-NY/Senior-Associate--Fund-Accounting_R42115) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-04-06.
+This corporate finance position at SS&C Technologies was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

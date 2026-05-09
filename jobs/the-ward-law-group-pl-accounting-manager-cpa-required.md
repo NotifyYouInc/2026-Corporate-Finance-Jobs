@@ -5,12 +5,12 @@
 | Company | [The Ward Law Group PL](https://scoutify.ai/companies/thewardlawgrouppl?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Miami Lakes, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000123810799-accounting-manager-cpa-required) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000124156721-accounting-manager-cpa-required) |
 
 ## About This Role
 
-This corporate finance position at The Ward Law Group PL was posted on 2026-04-29.
+This corporate finance position at The Ward Law Group PL was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

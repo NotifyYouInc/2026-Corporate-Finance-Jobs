@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Sunseeker-Resort/Staff-Accountant_R0061207) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Pyramid-Global-Hospitality---Home-Office/Staff-Accountant_R0061604) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-04-24.
+This corporate finance position at Benchmark was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

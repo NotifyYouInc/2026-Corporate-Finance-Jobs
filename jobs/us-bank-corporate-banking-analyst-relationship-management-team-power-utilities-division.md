@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/Corporate-Banking-Analyst--Relationship-Management-Team---Power---Utilities-Division_2026-0006037) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/Corporate-Banking-Analyst--Relationship-Management-Team---Power---Utilities-Division_2026-0010655) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-18.
+This corporate finance position at U.S. Bank was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

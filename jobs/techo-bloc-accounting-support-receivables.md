@@ -1,16 +1,16 @@
-# Accounting Support – Receivables at Techo-Bloc
+# Accounting Support (Receivables) at Techo-Bloc
 
 | Field | Details |
 |-------|---------|
 | Company | [Techo-Bloc](https://scoutify.ai/companies/techobloc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saint-Hubert, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000123960877-accounting-support-receivables) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000124122859-accounting-support-receivables) |
 
 ## About This Role
 
-This corporate finance position at Techo-Bloc was posted on 2026-04-30.
+This corporate finance position at Techo-Bloc was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

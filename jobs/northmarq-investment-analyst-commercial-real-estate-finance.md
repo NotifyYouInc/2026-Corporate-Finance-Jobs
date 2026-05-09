@@ -1,16 +1,16 @@
-# Investment Analyst - Commercial Real Estate Finance at Northmarq
+# Investment Analyst – Commercial Real Estate Finance at Northmarq
 
 | Field | Details |
 |-------|---------|
 | Company | [Northmarq](https://scoutify.ai/companies/northmarq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5129836008) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5208244008) |
 
 ## About This Role
 
-This corporate finance position at Northmarq was posted on 2026-02-23.
+This corporate finance position at Northmarq was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

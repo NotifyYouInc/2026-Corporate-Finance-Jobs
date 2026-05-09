@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Holistic Industries](https://scoutify.ai/companies/holistic-industries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Massachusetts, US |
+| Location | Westborough, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/holisticindustries/jobs/5111695007) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/holisticindustries/jobs/5126517007) |
 
 ## About This Role
 
-This corporate finance position at Holistic Industries was posted on 2026-04-16.
+This corporate finance position at Holistic Industries was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

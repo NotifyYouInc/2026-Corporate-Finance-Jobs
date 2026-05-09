@@ -5,12 +5,12 @@
 | Company | [Techo-Bloc](https://scoutify.ai/companies/techobloc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saint-Hubert, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000120477695-assistant-controller) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000124123112-assistant-controller) |
 
 ## About This Role
 
-This corporate finance position at Techo-Bloc was posted on 2026-04-13.
+This corporate finance position at Techo-Bloc was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

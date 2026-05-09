@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Wisconsin-River Falls](https://scoutify.ai/companies/university-of-wisconsin-river-falls?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | Superior, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://wisconsin.wd1.myworkdayjobs.com/uw_comprehensives/job/Madison-WI/Accountant-II_JR10009918-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://wisconsin.wd1.myworkdayjobs.com/uw_comprehensives/job/Superior-WI/Accountant-II_JR10010696-1) |
 
 ## About This Role
 
-This corporate finance position at University of Wisconsin-River Falls was posted on 2026-04-06.
+This corporate finance position at University of Wisconsin-River Falls was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

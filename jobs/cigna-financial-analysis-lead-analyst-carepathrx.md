@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Maitland-FL/Financial-Analysis-Lead-Analyst---CarepathRx_26004024) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Maitland-FL/Financial-Analysis-Lead-Analyst---CarepathRx_26004926) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-04-03.
+This corporate finance position at Cigna was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

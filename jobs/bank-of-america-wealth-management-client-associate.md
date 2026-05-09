@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Las-Vegas/Wealth-Management-Client-Associate_26015472) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Wealth-Management-Client-Associate_26009548) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-30.
+This corporate finance position at Bank of America was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

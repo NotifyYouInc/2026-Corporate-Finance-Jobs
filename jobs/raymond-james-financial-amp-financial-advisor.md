@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Florida, US |
+| Location | Ponte Vedra Beach, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/AMP-Financial-Advisor_R-0010519) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Ponte-Vedra-Beach-Florida---United-States/AMP-Financial-Advisor_R-0010922) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-04-20.
+This corporate finance position at Raymond James Financial was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

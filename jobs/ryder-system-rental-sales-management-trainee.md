@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saginaw, Michigan, United States |
+| Location | Lenexa, Kansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Saginaw-TX-76131/Rental-Sales-Management-Trainee_R168728) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Lenexa-KS-66219/Rental-Sales-Management-Trainee_R170908) |
 
 ## About This Role
 
-This corporate finance position at Ryder System was posted on 2026-04-06.
+This corporate finance position at Ryder System was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

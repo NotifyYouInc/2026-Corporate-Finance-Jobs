@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneMain Financial](https://scoutify.ai/companies/myhrhome?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Location | Eugene, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Charleston-WV/Loan-Sales-Specialist_R2604-50576) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Eugene-OR/Loan-Sales-Specialist_R2605-50661) |
 
 ## About This Role
 
-This corporate finance position at OneMain Financial was posted on 2026-04-24.
+This corporate finance position at OneMain Financial was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

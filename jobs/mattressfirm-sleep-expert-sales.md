@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Richmond-Indiana/Sleep-Expert---Sales_JR-P0060942) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Atwater-California/Sleep-Expert---Sales_JR-P0061778) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-30.
+This corporate finance position at Mattressfirm was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5190043008) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207944008) |
 
 ## About This Role
 
-This corporate finance position at Roo was posted on 2026-04-15.
+This corporate finance position at Roo was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

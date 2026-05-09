@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Boston-MA/Private-Wealth-Associate_R0018755) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Washington-DC/Private-Wealth-Associate_R0018786) |
 
 ## About This Role
 
-This corporate finance position at Abglobal was posted on 2026-04-28.
+This corporate finance position at Abglobal was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

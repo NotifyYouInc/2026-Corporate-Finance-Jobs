@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000119161547-treasury-specialist) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000124130459-treasury-specialist) |
 
 ## About This Role
 
-This corporate finance position at Lely was posted on 2026-04-07.
+This corporate finance position at Lely was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

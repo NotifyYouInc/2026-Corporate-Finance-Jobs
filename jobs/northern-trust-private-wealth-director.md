@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Diego, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/San-Diego-CA/Private-Wealth-Director_R153883) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Atlanta-GA/Private-Wealth-Director_R151469-1) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-13.
+This corporate finance position at Northern Trust was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Financial Analyst - Technology FP&A at Northwestern Mutual
+# Senior Financial Analyst – Technology FP&A at Northwestern Mutual
 
 | Field | Details |
 |-------|---------|
 | Company | [Northwestern Mutual](https://scoutify.ai/companies/northwesternmutual?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Senior-Financial-Analyst---Technology-FP-A_JR-45246-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Senior-Financial-Analyst---Technology-FP-A_JR-45191-1) |
 
 ## About This Role
 
-This corporate finance position at Northwestern Mutual was posted on 2026-04-28.
+This corporate finance position at Northwestern Mutual was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Atrium Hospitality](https://scoutify.ai/companies/atrium-hospitality?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Des Moines, Iowa, United States |
+| Location | Loveland, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Des-Moines-IA/Accounting-Associate_R47736-1) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Loveland-CO/Accounting-Associate_R48146) |
 
 ## About This Role
 
-This corporate finance position at Atrium Hospitality was posted on 2026-04-09.
+This corporate finance position at Atrium Hospitality was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

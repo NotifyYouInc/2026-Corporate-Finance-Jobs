@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Little Rock, Arkansas, United States |
+| Location | Fayetteville, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Little-Rock-AR---Little-Rock-Downtown-Main-Office/Private-Wealth-Management-Trust-Advisor_R101842) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Fayetteville-AR---Fayetteville-Branch/Private-Wealth-Management-Trust-Advisor_R102374-1) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-04-09.
+This corporate finance position at Regions Bank was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

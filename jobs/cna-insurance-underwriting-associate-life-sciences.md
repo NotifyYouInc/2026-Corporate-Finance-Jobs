@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lake Mary, Florida, United States |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/New-York-NY-USA/Underwriting-Associate--Life-Sciences-_R-7155-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/New-York-NY-USA/Underwriting-Associate--Life-Sciences-_R-7405) |
 
 ## About This Role
 
-This corporate finance position at CNA Insurance was posted on 2026-03-13.
+This corporate finance position at CNA Insurance was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
