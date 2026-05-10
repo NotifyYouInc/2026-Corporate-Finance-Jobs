@@ -1,16 +1,16 @@
-# Client Specialist at Baird
+# Analyst, Production Analytical Support at Orix
 
 | Field | Details |
 |-------|---------|
-| Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mill Valley, California, United States |
+| Company | [Orix](https://scoutify.ai/companies/orix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/CA-Mill-Valley/Client-Specialist_R2026536-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://orix.wd5.myworkdayjobs.com/lument/job/Columbus-OH/Analyst--Production-Analytical-Support_R0003937-2) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-05-01.
+This corporate finance position at Orix was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

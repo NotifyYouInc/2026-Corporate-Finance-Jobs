@@ -1,16 +1,16 @@
-# Finance Analyst - Accounts Receivable at JLL
+# Senior Manager, Finance at Sony Music Global
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Sony Music Global](https://scoutify.ai/companies/sony-music-global?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-Analyst---Accounts-Receivable_REQ499830-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8533052002) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-02.
+This corporate finance position at Sony Music Global was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

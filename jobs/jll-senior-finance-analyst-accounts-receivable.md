@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Finance-Analyst---Accounts-Receivable_REQ487718) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Finance-Analyst---Accounts-Receivable_REQ499834-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-02-20.
+This corporate finance position at JLL was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

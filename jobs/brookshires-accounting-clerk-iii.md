@@ -1,16 +1,16 @@
-# Client Associate at Wells Fargo
+# Accounting Clerk III at Brookshires
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lemoyne, Pennsylvania, United States |
+| Company | [Brookshires](https://scoutify.ai/companies/brookshires?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Tyler, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LEMOYNE-PA/Client-Associate_R-542072-1) |
+| Apply | [View on company site](https://brookshires.wd108.myworkdayjobs.com/bgc/job/TylerTX---1600-WSW-Loop-323/Accounting-Clerk-III_JR5359) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-01.
+This corporate finance position at Brookshires was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

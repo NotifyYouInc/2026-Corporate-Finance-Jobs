@@ -1,16 +1,16 @@
-# Internal Audit Intern - REMOTE at Ryder System
+# Revenue Accountant at Traackr
 
 | Field | Details |
 |-------|---------|
-| Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Traackr](https://scoutify.ai/companies/traackr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-FL/Internal-Audit-Intern---REMOTE_R171233) |
+| Posted | 2026-01-07 |
+| Apply | [View on company site](https://jobs.lever.co/traackr/8f94d87a-0978-458d-adb6-c9af92857a92) |
 
 ## About This Role
 
-This corporate finance position at Ryder System was posted on 2026-05-01.
+This corporate finance position at Traackr was posted on 2026-01-07.
 
 ## Get Real-Time Alerts
 

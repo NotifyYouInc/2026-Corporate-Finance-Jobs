@@ -1,16 +1,16 @@
-# Finance Analyst - Accounts Receivable at JLL
+# Sr. Accountant at Whataburger
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Whataburger](https://scoutify.ai/companies/whataburger?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | San Antonio, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-Analyst---Accounts-Receivable_REQ499830-1) |
+| Apply | [View on company site](https://whataburger.wd5.myworkdayjobs.com/wab_careers/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Sr-Accountant_JR10013485) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-02.
+This corporate finance position at Whataburger was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

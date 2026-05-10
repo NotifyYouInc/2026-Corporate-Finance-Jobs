@@ -1,16 +1,16 @@
-# Finance Analyst - Accounts Receivable at JLL
+# Fixed Asset Accounting Lead at FLUIDSTACK
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [FLUIDSTACK](https://scoutify.ai/companies/fluidstack?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-Analyst---Accounts-Receivable_REQ499830-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/8529ef3e-dbaa-4dd8-b77b-6e1daa738e4c) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-02.
+This corporate finance position at FLUIDSTACK was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

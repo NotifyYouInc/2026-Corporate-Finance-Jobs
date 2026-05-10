@@ -1,16 +1,16 @@
-# Finance Analyst - Accounts Receivable at JLL
+# Credit Coordinator II at Regal Rexnord
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Philippines |
 | Category | Corporate Finance |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-Analyst---Accounts-Receivable_REQ499830-1) |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Pasig-Manila-Philippines/Credit-Coordinator-II_R26_02180) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-02.
+This corporate finance position at Regal Rexnord was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

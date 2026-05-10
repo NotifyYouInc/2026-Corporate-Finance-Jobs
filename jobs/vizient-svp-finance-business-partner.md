@@ -1,16 +1,16 @@
-# Finance Analyst - Accounts Receivable at JLL
+# SVP, Finance Business Partner at Vizient
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-Analyst---Accounts-Receivable_REQ499830-1) |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/SVP--Finance-Business-Partner_33541R) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-02.
+This corporate finance position at Vizient was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

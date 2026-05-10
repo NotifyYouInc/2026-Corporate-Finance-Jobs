@@ -1,16 +1,16 @@
-# Finance Analyst - Accounts Receivable at JLL
+# Strategic Finance at Scarlet
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Scarlet](https://scoutify.ai/companies/scarlet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-Analyst---Accounts-Receivable_REQ499830-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scarlet/c63c66d8-d330-4216-871e-8a7bc2dcbc67) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-02.
+This corporate finance position at Scarlet was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

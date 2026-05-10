@@ -1,16 +1,16 @@
-# Finance Analyst - Accounts Receivable at JLL
+# Director FP&A at Delivery Hero
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Corporate Finance |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-Analyst---Accounts-Receivable_REQ499830-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000124237599-director-fpa) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-02.
+This corporate finance position at Delivery Hero was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

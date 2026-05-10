@@ -1,16 +1,16 @@
-# Client Specialist at Baird
+# Sales Assistant at Wristcheck
 
 | Field | Details |
 |-------|---------|
-| Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mill Valley, California, United States |
+| Company | [Wristcheck](https://scoutify.ai/companies/wristcheck?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Tsim Sha Tsui, Kowloon City, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/CA-Mill-Valley/Client-Specialist_R2026536-1) |
+| Posted | 2025-12-04 |
+| Apply | [View on company site](https://jobs.lever.co/wristcheck/64208e1f-bf4a-48cd-a1ed-1014bfe839ef) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-05-01.
+This corporate finance position at Wristcheck was posted on 2025-12-04.
 
 ## Get Real-Time Alerts
 

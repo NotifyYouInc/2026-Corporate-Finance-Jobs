@@ -1,16 +1,16 @@
-# Finance Analyst - Accounts Receivable at JLL
+# Order-to-Cash (O2C) Billing/Invoice at Capco
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-Analyst---Accounts-Receivable_REQ499830-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7694069) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-02.
+This corporate finance position at Capco was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 
