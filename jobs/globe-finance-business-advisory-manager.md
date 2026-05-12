@@ -5,12 +5,12 @@
 | Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Finance-Business-Advisory-Manager_R0000020383) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Finance-Business-Advisory-Manager_R0000020352) |
 
 ## About This Role
 
-This corporate finance position at GLOBE was posted on 2026-04-26.
+This corporate finance position at GLOBE was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

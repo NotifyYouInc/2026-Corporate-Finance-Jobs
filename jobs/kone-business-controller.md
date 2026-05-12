@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Dubai/Business-Controller_R0658306) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Mumbai/Business-Controller_R0660147-1) |
 
 ## About This Role
 
-This corporate finance position at Kone was posted on 2026-03-12.
+This corporate finance position at Kone was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

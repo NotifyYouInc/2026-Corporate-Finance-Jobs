@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Financial-Planning---Analysis-Analyst_JR00030324) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning---Analysis-Analyst_JR00033609) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-03-31.
+This corporate finance position at ABB was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

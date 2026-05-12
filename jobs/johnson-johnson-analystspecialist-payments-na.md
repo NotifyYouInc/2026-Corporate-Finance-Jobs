@@ -6,7 +6,7 @@
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bogot-Distrito-Capital-Colombia/Analyst-Specialist--Payments-NA_R-073212) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bogot-Distrito-Capital-Colombia/Analyst-Specialist--Payments-NA_R-073283) |
 
 ## About This Role
 

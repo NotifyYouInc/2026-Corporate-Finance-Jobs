@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Senior-Manager-Finance---Americas-Commercial-Controllership_R0118733-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Senior-Manager-Finance---Americas-Commercial-Controllership_R0118621-1) |
 
 ## About This Role
 
-This corporate finance position at LSEG was posted on 2026-04-28.
+This corporate finance position at LSEG was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

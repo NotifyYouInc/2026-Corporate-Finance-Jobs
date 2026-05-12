@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Tampa, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Columbus-Ohio-United-States/Fund-Accounting-Intermediate-Associate-Analyst_26957813) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Fund-Accounting-Intermediate-Associate-Analyst_26959385-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-27.
+This corporate finance position at Citigroup was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

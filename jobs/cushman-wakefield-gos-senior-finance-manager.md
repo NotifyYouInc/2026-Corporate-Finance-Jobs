@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Redmond, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Dallas-Texas-USA/GOS-Senior-Finance-Manager_R304142) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---WA---Redmond---16180-NE-80th-Street/GOS-Senior-Finance-Manager_R317550) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-02-18.
+This corporate finance position at Cushman & Wakefield was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

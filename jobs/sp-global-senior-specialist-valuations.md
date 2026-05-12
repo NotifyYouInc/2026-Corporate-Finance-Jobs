@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Texas, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Senior-Specialist---Valuations_326259-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---AL---VIRTUAL/Senior-Specialist---Valuations_327280) |
 
 ## About This Role
 
-This corporate finance position at S&P Global was posted on 2026-04-24.
+This corporate finance position at S&P Global was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

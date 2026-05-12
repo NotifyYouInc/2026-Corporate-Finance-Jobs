@@ -1,16 +1,16 @@
-# Operador Financeiro Jr at MSX International
+# Operador Financeiro Jr. at MSX International
 
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cacoal, Rondônia, Brazil |
+| Location | Belém, Pará, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012439025-operador-financeiro-jr) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012958513-operador-financeiro-jr) |
 
 ## About This Role
 
-This corporate finance position at MSX International was posted on 2026-04-02.
+This corporate finance position at MSX International was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

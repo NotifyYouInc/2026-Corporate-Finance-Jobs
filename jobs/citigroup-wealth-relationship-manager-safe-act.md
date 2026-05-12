@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pleasant Hill, California, United States |
+| Location | Torrance, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pleasant-Hill-California-United-States/Wealth-Relationship-Manager-SAFE-Act_26958314) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Torrance-California-United-States/Wealth-Relationship-Manager-SAFE-Act_26930739) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-24.
+This corporate finance position at Citigroup was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

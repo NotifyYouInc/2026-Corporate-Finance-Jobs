@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AutoNation](https://scoutify.ai/companies/autonation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Valencia, Valencia, Spain |
+| Location | Valencia, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://autonation.wd5.myworkdayjobs.com/careers/job/Valencia-BMW/Finance-Manager---Valencia-BMW_JR2026136051) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://autonation.wd5.myworkdayjobs.com/careers/job/Valencia-BMW/Finance-Manager---Valencia-BMW_JR2026140867) |
 
 ## About This Role
 
-This corporate finance position at AutoNation was posted on 2026-02-05.
+This corporate finance position at AutoNation was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

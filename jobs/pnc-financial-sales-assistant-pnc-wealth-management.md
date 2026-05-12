@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NC---Charlotte-28210/Sales-Assistant---PNC-Wealth-Management_R221282-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Sales-Assistant---PNC-Wealth-Management_R221540-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-04-29.
+This corporate finance position at PNC Financial was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

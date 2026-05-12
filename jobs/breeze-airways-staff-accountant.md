@@ -5,12 +5,12 @@
 | Company | [Breeze Airways](https://scoutify.ai/companies/breezeairways?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cottonwood Heights, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/breezeairways/jobs/7625440003) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/breezeairways/jobs/7723587003) |
 
 ## About This Role
 
-This corporate finance position at Breeze Airways was posted on 2026-02-09.
+This corporate finance position at Breeze Airways was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

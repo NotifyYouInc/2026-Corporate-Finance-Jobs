@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/San-Francisco-CA/Associate--ETF-Operations_R263227) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Boston-MA/Associate--ETF-Operations_R263985) |
 
 ## About This Role
 
-This corporate finance position at Blackrock was posted on 2026-04-17.
+This corporate finance position at Blackrock was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Property Analyst - Real Estate at KordaMentha
+# Property Analyst - Real Estate  at KordaMentha
 
 | Field | Details |
 |-------|---------|
 | Company | [KordaMentha](https://scoutify.ai/companies/kordamentha?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kordamentha/6000000001008708-property-analyst-real-estate) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kordamentha/6000000001046235-property-analyst-real-estate) |
 
 ## About This Role
 
-This corporate finance position at KordaMentha was posted on 2026-04-20.
+This corporate finance position at KordaMentha was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

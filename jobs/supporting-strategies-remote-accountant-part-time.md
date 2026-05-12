@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Supporting Strategies](https://scoutify.ai/companies/supporting-strategies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/supportingstrategies/jobs/4657995006) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/supportingstrategies/jobs/4360460006) |
 
 ## About This Role
 

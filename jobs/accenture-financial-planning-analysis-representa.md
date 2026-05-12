@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-R1-S1891772-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Financial-Planning---Analysis-Representa_ATCI-5100559-S1901494-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-27.
+This corporate finance position at Accenture was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

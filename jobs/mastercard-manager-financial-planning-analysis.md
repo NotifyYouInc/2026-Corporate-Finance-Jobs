@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Purchase, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada-Ethoca/Manager--Financial-Planning---Analysis_R-275666) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Financial-Planning---Analysis_R-277189-1) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-04-29.
+This corporate finance position at Mastercard was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

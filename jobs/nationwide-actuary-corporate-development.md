@@ -5,12 +5,12 @@
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Actuary--Corporate-Development_096780) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Actuary--Corporate-Development_097894) |
 
 ## About This Role
 
-This corporate finance position at Nationwide was posted on 2026-02-17.
+This corporate finance position at Nationwide was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

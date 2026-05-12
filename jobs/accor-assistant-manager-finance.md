@@ -1,16 +1,16 @@
-# Assistant Manager - Finance at ACCOR
+# Assistant Manager Finance at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bhubaneswar, Odisha, India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000122166327-assistant-manager-finance) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000124560211-assistant-manager-finance) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-22.
+This corporate finance position at ACCOR was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

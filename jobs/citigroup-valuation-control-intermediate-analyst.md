@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Valuation-Control-Intermediate-Analyst_26945952) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Valuation-Control-Intermediate-Analyst_26959704) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-16.
+This corporate finance position at Citigroup was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

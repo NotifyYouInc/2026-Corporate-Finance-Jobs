@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 6 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Private-Equity-Fund-Accounting---Administration--Assistant-Vice-President_R-787846-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Private-Equity-Fund-Accounting---Administration--Assistant-Vice-President_R-781204-4) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-09.
+This corporate finance position at State Street was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Private-Equity--Fund-Accounting---Administration--Officer_R-785644-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Private-Equity--Fund-Accounting---Administration--Officer_R-789543) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-11.
+This corporate finance position at State Street was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

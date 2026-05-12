@@ -1,16 +1,16 @@
-# Financial  Solutions Advisor - PNC Wealth Management at PNC Financial
+# Financial Solutions Advisor - PNC Wealth Management at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edison, New Jersey, United States |
+| Location | Skokie, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NJ---Edison-08820/Financial--Solutions-Advisor---PNC-Wealth-Management_R216657-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/IL---Skokie-60077/Financial-Solutions-Advisor---PNC-Wealth-Management_R221296-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-26.
+This corporate finance position at PNC Financial was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

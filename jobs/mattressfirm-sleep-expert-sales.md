@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Corporate Finance |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Atwater-California/Sleep-Expert---Sales_JR-P0061778) |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Zanesville-Ohio/Sleep-Expert---Sales_JR-P0061783) |
 
 ## About This Role
 

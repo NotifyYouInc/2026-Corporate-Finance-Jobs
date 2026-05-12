@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Palm Beach Gardens, Florida, United States |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Specialist--Internal-Audit_30200002) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5028-MSSC-Boulevard-Daz-Ordaz-130-Torre-4-Piso-19-Col-Santa-Maria-Monterrey-Nuevo-Len-Mxico-CP-64650/Specialist--Internal-Audit_30205211) |
 
 ## About This Role
 
-This corporate finance position at Carrier Global was posted on 2026-03-02.
+This corporate finance position at Carrier Global was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
