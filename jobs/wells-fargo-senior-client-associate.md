@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Clinton, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Client-Associate_R-535591-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CLINTON-NY/Senior-Client-Associate_R-543339) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-10.
+This corporate finance position at Wells Fargo was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

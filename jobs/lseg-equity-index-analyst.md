@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Taipei-City-Taiwan/Equity-Index-Analyst_R0118991-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Taipei-City-Taiwan/Equity-Index-Analyst_R0119180-1) |
 
 ## About This Role
 
-This corporate finance position at LSEG was posted on 2026-04-23.
+This corporate finance position at LSEG was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

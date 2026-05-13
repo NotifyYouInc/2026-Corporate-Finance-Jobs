@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bloomfield, New Jersey, United States |
+| Location | Marietta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000113277567-corporate-tax-manager-hybrid) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000124751889-corporate-tax-manager-hybrid) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-03-06.
+This corporate finance position at SGS was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

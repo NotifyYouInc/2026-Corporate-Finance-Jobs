@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Riverside, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/InterContinental-Seattle-Bellevue/Director-of-Finance_R0061058) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Mission-Inn-Hotel--Spa/Director-of-Finance_R0061832) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-04-21.
+This corporate finance position at Benchmark was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

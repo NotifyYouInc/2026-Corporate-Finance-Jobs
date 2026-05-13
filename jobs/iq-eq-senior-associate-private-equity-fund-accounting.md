@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Worth, Texas, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000119702947-senior-associate-private-equity-fund-accounting) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000124726349-senior-associate-private-equity-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-04-09.
+This corporate finance position at IQ-EQ was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

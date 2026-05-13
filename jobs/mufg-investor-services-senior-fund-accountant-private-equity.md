@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Tampa, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000123065669-senior-fund-accountant-private-equity) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000124798579-senior-fund-accountant-private-equity) |
 
 ## About This Role
 
-This corporate finance position at MUFG Investor Services was posted on 2026-04-26.
+This corporate finance position at MUFG Investor Services was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

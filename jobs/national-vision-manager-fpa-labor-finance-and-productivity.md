@@ -5,12 +5,12 @@
 | Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lawrenceville, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000124481649-manager-fpa-labor-finance-and-productivity) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000124704043-manager-fpa-labor-finance-and-productivity) |
 
 ## About This Role
 
-This corporate finance position at National Vision was posted on 2026-05-04.
+This corporate finance position at National Vision was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

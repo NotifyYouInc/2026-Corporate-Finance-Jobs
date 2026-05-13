@@ -1,16 +1,16 @@
-#  Financial Analyst at CoreWeave
+# Financial Analyst at CoreWeave
 
 | Field | Details |
 |-------|---------|
 | Company | [CoreWeave](https://scoutify.ai/companies/coreweave?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://coreweave.com/careers/job?4676072006&board=coreweave&gh_jid=4676072006) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://coreweave.com/careers/job?4679053006&board=coreweave&gh_jid=4679053006) |
 
 ## About This Role
 
-This corporate finance position at CoreWeave was posted on 2026-04-23.
+This corporate finance position at CoreWeave was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

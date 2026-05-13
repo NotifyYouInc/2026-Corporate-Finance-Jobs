@@ -1,16 +1,16 @@
-# Actuarial Associate, GRMI-International at Royal Bank of Canada
+# Actuarial Associate, GRMI International at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Actuarial-Associate--GRMI-International_R-0000166267-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Actuarial-Associate--GRMI-International_R-0000170917-2) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-02.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

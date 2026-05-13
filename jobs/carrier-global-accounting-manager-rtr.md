@@ -1,0 +1,22 @@
+# Accounting Manager, RTR at Carrier Global
+
+| Field | Details |
+|-------|---------|
+| Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Shanghai, Shanghai, China |
+| Category | Corporate Finance |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3460-6F-15F-Building-A-New-Bund-World-Trade-Center1-No4-Lane-255-Dongyu-Rd-Pudong-District-Shanghai-China/Accounting-Manager--RTR_30205544) |
+
+## About This Role
+
+This corporate finance position at Carrier Global was posted on 2026-05-06.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

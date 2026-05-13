@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Controlling-Operations-M-S-Senior-Financial-Analyst_R2843883) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Controlling-Operations-M-S-Senior-Financial-Analyst_R2856405-2) |
 
 ## About This Role
 
-This corporate finance position at Sanofi was posted on 2026-02-13.
+This corporate finance position at Sanofi was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

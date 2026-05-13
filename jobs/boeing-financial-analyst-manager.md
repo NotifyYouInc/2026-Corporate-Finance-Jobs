@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Everett, Washington, United States |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Financial-Analyst-Manager_JR2026497338-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Financial-Analyst-Manager_JR2026508796-1) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-02-27.
+This corporate finance position at Boeing was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

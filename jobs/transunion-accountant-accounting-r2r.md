@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Accountant---Accounting---R2R_19039214) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Accountant---Accounting---R2R_19040417) |
 
 ## About This Role
 
-This corporate finance position at TransUnion was posted on 2026-02-20.
+This corporate finance position at TransUnion was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duck Creek Technologies](https://scoutify.ai/companies/duck-creek-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://duckcreek.wd1.myworkdayjobs.com/duckcreekcareers/job/Warsaw-Poland/Staff-Revenue-Accountant_REQID55033-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://duckcreek.wd1.myworkdayjobs.com/duckcreekcareers/job/Mumbai-India/Staff-Revenue-Accountant_REQID55062-1) |
 
 ## About This Role
 
-This corporate finance position at Duck Creek Technologies was posted on 2026-03-06.
+This corporate finance position at Duck Creek Technologies was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

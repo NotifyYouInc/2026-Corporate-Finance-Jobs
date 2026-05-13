@@ -5,12 +5,12 @@
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Coatepeque, Quetzaltenango, Guatemala |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012297606-21002141-liquidador-coatepeque) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012991596-21002141-liquidador-coatepeque) |
 
 ## About This Role
 
-This corporate finance position at Grupo Mariposa was posted on 2026-03-24.
+This corporate finance position at Grupo Mariposa was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

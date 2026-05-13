@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Klang, Selangor, Malaysia |
+| Location | Macau, Macao |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Klang/Premier-Relationship-Manager_JR00006028) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Macau/Premier-Relationship-Manager_JR00007668) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-03-05.
+This corporate finance position at OCBC was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

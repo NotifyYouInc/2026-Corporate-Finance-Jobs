@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | South Bend, Indiana, United States |
+| Location | Conyers, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/South-Bend-IN/Credit-Specialist_R-134553-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Conyers-Georgia/Credit-Specialist_R-136404-1) |
 
 ## About This Role
 
-This corporate finance position at Ferguson was posted on 2026-03-12.
+This corporate finance position at Ferguson was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

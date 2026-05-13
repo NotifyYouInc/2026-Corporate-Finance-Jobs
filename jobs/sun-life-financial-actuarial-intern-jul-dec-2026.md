@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong |
+| Location | Taikoo Shing, Eastern District, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Hunghom-Kowloon-Hong-Kong/Actuarial-Intern--Jul---Dec-2026-_JR00108415) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taikoo-Shing-Hong-Kong-Island/Actuarial-Intern--Jul---Dec-2026-_JR00119444) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-04-30.
+This corporate finance position at Sun Life Financial was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CT-WALLINGFORD-108-LEIGUS-RD/Group-Underwriting-Consultant_JR191054-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Group-Underwriting-Consultant_JR190944) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-04-30.
+This corporate finance position at Elevance Health was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

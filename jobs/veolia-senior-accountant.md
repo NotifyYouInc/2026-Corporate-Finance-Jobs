@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paramus, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122761349-senior-accountant) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124719349-senior-accountant) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-04-24.
+This corporate finance position at Veolia was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

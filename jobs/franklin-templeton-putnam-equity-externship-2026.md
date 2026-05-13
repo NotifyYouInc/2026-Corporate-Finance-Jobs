@@ -5,12 +5,12 @@
 | Company | [Franklin Templeton](https://scoutify.ai/companies/franklintempleton?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-BOS100-Boston/Putnam-Equity-Externship-2026_864387) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-BOS100-Boston/Putnam-Equity-Externship-2026_867843) |
 
 ## About This Role
 
-This corporate finance position at Franklin Templeton was posted on 2026-02-26.
+This corporate finance position at Franklin Templeton was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

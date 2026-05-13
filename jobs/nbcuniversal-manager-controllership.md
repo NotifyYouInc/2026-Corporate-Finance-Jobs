@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Universal City, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000117994417-manager-controllership) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000124743614-manager-controllership) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-03-31.
+This corporate finance position at NBCUniversal was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

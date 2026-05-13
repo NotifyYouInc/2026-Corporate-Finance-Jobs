@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wake Forest, North Carolina, United States |
+| Location | Antioch, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Wake-Forest-North-Carolina/Sleep-Expert--Sales--Bilingual-_JR-P0061537) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Antioch-Tennessee/Sleep-Expert--Sales--Bilingual-_JR-P0061816) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-04-09.
+This corporate finance position at Mattressfirm was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

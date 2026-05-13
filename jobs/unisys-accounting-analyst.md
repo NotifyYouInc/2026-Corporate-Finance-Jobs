@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Accounting-Analyst_REQ570172) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Accounting-Analyst_REQ572916) |
 
 ## About This Role
 
-This corporate finance position at Unisys was posted on 2026-03-25.
+This corporate finance position at Unisys was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

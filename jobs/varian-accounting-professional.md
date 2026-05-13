@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/MLV-LB/Accounting-Professional_R-27427-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-G/Accounting-Professional_R-28325) |
 
 ## About This Role
 
-This corporate finance position at Varian was posted on 2026-03-23.
+This corporate finance position at Varian was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

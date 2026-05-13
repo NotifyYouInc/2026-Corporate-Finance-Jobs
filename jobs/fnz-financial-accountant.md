@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fnz](https://scoutify.ai/companies/fnz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wellington, Wellington Region, New Zealand |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://fnz.wd3.myworkdayjobs.com/fnz_careers/job/Wellington---New-Zealand/Financial-Accountant_REQ-16659) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://fnz.wd3.myworkdayjobs.com/fnz_careers/job/Kuala-Lumpur---Malaysia/Financial-Accountant_REQ-16962) |
 
 ## About This Role
 
-This corporate finance position at Fnz was posted on 2026-04-09.
+This corporate finance position at Fnz was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
