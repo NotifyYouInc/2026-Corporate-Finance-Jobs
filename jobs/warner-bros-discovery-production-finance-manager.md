@@ -5,12 +5,12 @@
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Burbank, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/CA-Burbank-Bldg-5-Feature-Prod-Admin/Production-Finance-Manager_R000104665) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/CA-Burbank-3000-W-Alameda-Ave/Production-Finance-Manager_R000104681) |
 
 ## About This Role
 
-This corporate finance position at Warner Bros Discovery was posted on 2026-04-29.
+This corporate finance position at Warner Bros Discovery was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

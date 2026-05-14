@@ -1,16 +1,16 @@
-# Associate (FTC) - Reconciliations - GPS Delivery at Fil
+# ASSOCIATE (FTC) - RECONCILIATIONS - GPS DELIVERY at Fil
 
 | Field | Details |
 |-------|---------|
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Associate--FTC----Reconciliations---GPS-Delivery_J66669) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/FIL-Bengaluru-Office/ASSOCIATE--FTC----RECONCILIATIONS---GPS-DELIVERY_J66675-1) |
 
 ## About This Role
 
-This corporate finance position at Fil was posted on 2026-04-22.
+This corporate finance position at Fil was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cebu City, Central Visayas, Philippines |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000121098778-income-auditor) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000125032404-income-auditor) |
 
 ## About This Role
 
-This corporate finance position at Radisson Hotel Group was posted on 2026-04-16.
+This corporate finance position at Radisson Hotel Group was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

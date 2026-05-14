@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000115253857-comptable-fournisseur) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125044309-comptable-fournisseur) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-03-17.
+This corporate finance position at Veolia was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

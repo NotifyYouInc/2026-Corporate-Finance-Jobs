@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | Ashville, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5054060007?gh_jid=5054060007) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5022210007?gh_jid=5022210007) |
 
 ## About This Role
 
-This corporate finance position at Anduril was posted on 2026-02-17.
+This corporate finance position at Anduril was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

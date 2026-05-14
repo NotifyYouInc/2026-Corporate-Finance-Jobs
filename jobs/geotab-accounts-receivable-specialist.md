@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geotab](https://scoutify.ai/companies/geotab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/geotab/jobs/5188185008) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/geotab/jobs/5188210008) |
 
 ## About This Role
 
-This corporate finance position at Geotab was posted on 2026-04-29.
+This corporate finance position at Geotab was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

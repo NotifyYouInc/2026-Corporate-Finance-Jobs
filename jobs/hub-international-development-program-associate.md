@@ -5,12 +5,12 @@
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Austin-TX/Development-Program-Associate_R0035705) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Austin-TX/Development-Program-Associate_R0036110) |
 
 ## About This Role
 
-This corporate finance position at HUB International was posted on 2026-04-13.
+This corporate finance position at HUB International was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

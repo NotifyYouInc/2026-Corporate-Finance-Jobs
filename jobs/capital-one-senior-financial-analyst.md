@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | McLean, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Senior-Financial-Analyst_R233528) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Financial-Analyst_R242070-1) |
 
 ## About This Role
 
-This corporate finance position at Capital One was posted on 2026-05-01.
+This corporate finance position at Capital One was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

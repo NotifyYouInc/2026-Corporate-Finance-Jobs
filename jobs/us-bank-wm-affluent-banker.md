@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Sioux Falls, South Dakota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Phoenix-AZ/WM-Affluent-Banker_2025-0023451) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Sioux-Falls-SD/WM-Affluent-Banker_2026-0012127) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-21.
+This corporate finance position at U.S. Bank was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

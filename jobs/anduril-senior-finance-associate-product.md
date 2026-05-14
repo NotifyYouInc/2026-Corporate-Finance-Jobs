@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Costa Mesa, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5069859007?gh_jid=5069859007) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5039400007?gh_jid=5039400007) |
 
 ## About This Role
 
-This corporate finance position at Anduril was posted on 2026-03-04.
+This corporate finance position at Anduril was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crane Co.](https://scoutify.ai/companies/cranecompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indiana, US |
+| Location | Piqua, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Brazil-Indiana/Staff-Accountant_JR101332) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Piqua-Ohio/Staff-Accountant_JR101635) |
 
 ## About This Role
 
-This corporate finance position at Crane Co. was posted on 2026-03-24.
+This corporate finance position at Crane Co. was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

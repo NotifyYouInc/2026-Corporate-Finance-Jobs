@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/San-Francisco-CA/Senior-Portfolio-Advisor-II_R152105) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Atlanta-GA/Senior-Portfolio-Advisor-II_R154852-1) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-29.
+This corporate finance position at Northern Trust was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

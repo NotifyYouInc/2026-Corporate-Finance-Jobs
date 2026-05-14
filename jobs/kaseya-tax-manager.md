@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5971698004/?gh_jid=5971698004) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5990009004/?gh_jid=5990009004) |
 
 ## About This Role
 
-This corporate finance position at Kaseya was posted on 2026-04-24.
+This corporate finance position at Kaseya was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

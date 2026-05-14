@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Location | Cheras, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Taman-Molek/Senior-Personal-Financial-Consultant_JR00006872) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Cheras/Senior-Personal-Financial-Consultant_JR00007646) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-04-06.
+This corporate finance position at OCBC was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cincinnati Children's Hospital](https://scoutify.ai/companies/cincinnati-children-s-hospital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ohio, US |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Kasota---3244-Burnet/Financial-Analyst-I_JR218942-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Financial-Analyst-I_JR220599-1) |
 
 ## About This Role
 
-This corporate finance position at Cincinnati Children's Hospital was posted on 2026-04-20.
+This corporate finance position at Cincinnati Children's Hospital was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

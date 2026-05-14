@@ -1,16 +1,16 @@
-# Banamex Analista de crédito empresarial JR at Citigroup
+# Banamex Analista de crédito empresarial JR. at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Zapopan, Jalisco, Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Zapopan-Jalisco-Mexico/Banamex-Analista-de-crdito-empresarial-JR_26952246) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-de-crdito-empresarial-JR_26959520) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-21.
+This corporate finance position at Citigroup was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

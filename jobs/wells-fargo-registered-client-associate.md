@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Danbury, Connecticut, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DANBURY-CT/Registered-Client-Associate_R-540537) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Registered-Client-Associate_R-542512) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-30.
+This corporate finance position at Wells Fargo was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

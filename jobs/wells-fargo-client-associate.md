@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lemoyne, Pennsylvania, United States |
+| Location | Williamsburg, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LEMOYNE-PA/Client-Associate_R-542072-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WILLIAMSBURG-VA/Client-Associate_R-543443) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-01.
+This corporate finance position at Wells Fargo was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

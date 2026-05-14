@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | National Capital Region, PH |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/Tax-Compliance-Analyst_JR-202607318-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/Tax-Compliance-Analyst_JR-202609833) |
 
 ## About This Role
 
-This corporate finance position at General Motors was posted on 2026-04-06.
+This corporate finance position at General Motors was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

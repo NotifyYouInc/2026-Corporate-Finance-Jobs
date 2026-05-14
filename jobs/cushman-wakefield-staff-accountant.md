@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Missouri, US |
+| Location | Maitland, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Staff-Accountant_R310902) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---FL---Maitland---2600-Lake-Lucien-Drive/Staff-Accountant_R319186) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-03-16.
+This corporate finance position at Cushman & Wakefield was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

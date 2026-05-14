@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Florida, US |
+| Location | Plantation, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.lever.co/distro/50132e87-8d69-48b5-b7f3-ce52e3a68c96) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.lever.co/distro/bd7ae46e-4d82-4c30-9ddc-9f0d43a88348) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-03-05.
+This corporate finance position at Distro was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000122598420-finance-associate-rtr-general-ledger) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000125025704-finance-associate-rtr-general-ledger) |
 
 ## About This Role
 
-This corporate finance position at Grab was posted on 2026-04-24.
+This corporate finance position at Grab was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

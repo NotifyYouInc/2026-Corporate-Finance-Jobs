@@ -5,12 +5,12 @@
 | Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Principal-Accountant_R-9317) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Principal-Accountant_R-9466) |
 
 ## About This Role
 
-This corporate finance position at VSP Vision was posted on 2026-03-27.
+This corporate finance position at VSP Vision was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

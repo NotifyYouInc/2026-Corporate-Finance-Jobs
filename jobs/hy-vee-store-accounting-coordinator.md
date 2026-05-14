@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hy-Vee](https://scoutify.ai/companies/hy-vee?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ashwaubenon, Wisconsin, United States |
+| Location | Ames, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Ashwaubenon-S-Oneida-Street-Ashwaubenon-WI/Store-Accounting-Coordinator_R230172) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Ames-2-640-Lincoln-Way-Ames-IA/Store-Accounting-Coordinator_R223686) |
 
 ## About This Role
 
-This corporate finance position at Hy-Vee was posted on 2026-04-30.
+This corporate finance position at Hy-Vee was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

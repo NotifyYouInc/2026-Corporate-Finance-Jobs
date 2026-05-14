@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Jose, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7608648488621181189/detail) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7574560972030380293/detail) |
 
 ## About This Role
 
-This corporate finance position at TikTok was posted on 2026-02-23.
+This corporate finance position at TikTok was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

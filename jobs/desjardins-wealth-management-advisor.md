@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint-Jérôme, Quebec, Canada |
+| Location | Saint-Ubalde, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Saint-Jrme/Conseiller-ou-conseillire--Gestion-de-patrimoine_R2601867) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/240-rue-Commerciale-Saint-Ubalde/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2606327-2) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-04-30.
+This corporate finance position at Desjardins was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Tucson-AZ/Sr-Relationship-Advisor_R152934) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Scottsdale-AZ/Sr-Relationship-Advisor_R155052) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-07.
+This corporate finance position at Northern Trust was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

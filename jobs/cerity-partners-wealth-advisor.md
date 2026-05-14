@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerity Partners](https://scoutify.ai/companies/ceritypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Boston-MA/Wealth-Advisor_R549) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Norfolk-Office/Principal-Wealth-Advisor---Business-Development_R602) |
 
 ## About This Role
 
-This corporate finance position at Cerity Partners was posted on 2026-03-05.
+This corporate finance position at Cerity Partners was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

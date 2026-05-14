@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FNBO](https://scoutify.ai/companies/firstnational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Collins, Colorado, United States |
+| Location | Omaha, Nebraska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Fort-Collins-CO---Harmony-Branch/Sr-Financial-Advisor_R-20260572) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha-NE--168th--Maple-Elk-Crk-Pn/Sr-Financial-Advisor_R-20260791) |
 
 ## About This Role
 
-This corporate finance position at FNBO was posted on 2026-04-02.
+This corporate finance position at FNBO was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
