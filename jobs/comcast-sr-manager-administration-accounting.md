@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Sr-Manager--Administration-Accounting_R435176) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Sr-Manager--Administration-Accounting_R437028) |
 
 ## About This Role
 
-This corporate finance position at Comcast was posted on 2026-04-16.
+This corporate finance position at Comcast was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

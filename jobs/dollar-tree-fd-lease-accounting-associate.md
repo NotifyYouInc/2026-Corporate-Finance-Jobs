@@ -5,12 +5,12 @@
 | Company | [Dollar Tree](https://scoutify.ai/companies/dollar-tree?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chesapeake, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/VA-Chesapeake/FD-LEASE-ACCOUNTING-ASSOCIATE_R-235690) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/VA-Chesapeake/FD-LEASE-ACCOUNTING-ASSOCIATE_R-254797) |
 
 ## About This Role
 
-This corporate finance position at Dollar Tree was posted on 2026-04-09.
+This corporate finance position at Dollar Tree was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

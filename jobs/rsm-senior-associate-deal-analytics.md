@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/New-York/Senior-Associate---Deal-Analytics_JR119404) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/Senior-Associate---Deal-Analytics_JR119365) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-05-06.
+This corporate finance position at RSM was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

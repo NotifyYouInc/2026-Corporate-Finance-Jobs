@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hartford, Connecticut, United States |
+| Location | Paramus, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Hartford-CT/Wealth-Advisor-Team-Leader_R85145-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Paramus-NJ/Wealth-Advisor-Team-Leader_R85705-1) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-04-14.
+This corporate finance position at M&T Bank was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

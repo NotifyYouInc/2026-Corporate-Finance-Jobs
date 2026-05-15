@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Scottsdale, Arizona, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Scottsdale-AZ/PWM-Private-Banker_2026-0008356-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/PWM-Private-Banker_2026-0012298) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-03.
+This corporate finance position at U.S. Bank was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

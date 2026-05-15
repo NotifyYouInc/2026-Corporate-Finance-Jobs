@@ -5,12 +5,12 @@
 | Company | [Transat](https://scoutify.ai/companies/transat?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000122106007-technicienne-comptes-payables-temporaire-6-mois) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000125217459-technicienne-comptes-payables-temporaire-6-mois) |
 
 ## About This Role
 
-This corporate finance position at Transat was posted on 2026-04-21.
+This corporate finance position at Transat was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

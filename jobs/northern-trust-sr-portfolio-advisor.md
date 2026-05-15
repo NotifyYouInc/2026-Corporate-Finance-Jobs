@@ -1,16 +1,16 @@
-# Sr Portfolio Advisor at Northern Trust
+# Sr. Portfolio Advisor at Northern Trust
 
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newport Beach, California, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Newport-Beach-CA/Sr-Portfolio-Advisor_R153217) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Phoenix-AZ/Sr-Portfolio-Advisor_R155051) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-03.
+This corporate finance position at Northern Trust was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

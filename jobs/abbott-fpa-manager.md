@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Lima, Lima Province, Peru |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Bogota/FP-A-Manager_31147876) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Peru---Lima/FP-A-Manager_31149562) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-04-16.
+This corporate finance position at Abbott was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

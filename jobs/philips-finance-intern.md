@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Barueri, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Johannesburg/Finance-Intern_576127-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Barueri/Estgio-em-Finanas_578067) |
 
 ## About This Role
 
-This corporate finance position at Philips was posted on 2026-02-23.
+This corporate finance position at Philips was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

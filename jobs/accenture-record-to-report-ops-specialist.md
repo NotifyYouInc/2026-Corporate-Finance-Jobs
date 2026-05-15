@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Record-to-Report-Ops-Specialist_AIOC-S01635775-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Record-to-Report-Ops-Specialist_AIOC-S01643945-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-06.
+This corporate finance position at Accenture was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

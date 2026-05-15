@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Portland-Oregon-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000171162) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Phoenix-Arizona-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000171541) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-05.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

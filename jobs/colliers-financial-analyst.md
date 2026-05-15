@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Dallas-Texas-United-States-of-America/Financial-Analyst_JR17757-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Atlanta-Georgia-United-States-of-America/Financial-Analyst_JR17789) |
 
 ## About This Role
 
-This corporate finance position at Colliers was posted on 2026-04-28.
+This corporate finance position at Colliers was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

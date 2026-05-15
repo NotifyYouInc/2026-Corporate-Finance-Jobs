@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kenya |
+| Location | Tallahassee, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-Philippines/Finance-Manager_R0158389) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Tallahassee/Finance-Manager_R0160268) |
 
 ## About This Role
 
-This corporate finance position at Amentum was posted on 2026-04-13.
+This corporate finance position at Amentum was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

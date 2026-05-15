@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 6 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Atlanta---Lenox/Institutional-Investment-Consulting-Associate_R_345656) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Seattle---Fifth-Avenue/Institutional-Investment-Consulting-Associate_R_349141) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-04-15.
+This corporate finance position at Marsh & McLennan Companies was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

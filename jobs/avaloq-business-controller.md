@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000115588307-business-controller) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000125253919-business-controller) |
 
 ## About This Role
 
-This corporate finance position at Avaloq was posted on 2026-03-19.
+This corporate finance position at Avaloq was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, Washington, United States |
+| Location | Placerville, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/2010-Vancouver-Ofc-Mgmt-99thSt/Accounting-Intern-Summer-2026_R-98785) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/4030-ElDoradoDspsl-AcctgThrwta/Accounting-Intern-Summer-2026_R-98784) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-05-01.
+This corporate finance position at Waste Connections was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Burlington, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124973560-financial-analyst-sap-co-uscanmx) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125229159-financial-analyst-sap-co-uscanmx) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-05-06.
+This corporate finance position at Robert Bosch was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

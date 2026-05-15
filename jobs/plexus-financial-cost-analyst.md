@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plexus](https://scoutify.ai/companies/plexus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Neenah, Wisconsin, United States |
+| Location | Nampa, Idaho, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Financial-Cost-Analyst_R037117) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Nampa-ID/Financial-Cost-Analyst_R038303) |
 
 ## About This Role
 
-This corporate finance position at Plexus was posted on 2026-03-13.
+This corporate finance position at Plexus was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

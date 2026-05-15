@@ -5,12 +5,12 @@
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Norfolk, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/Accounts-Receivable-Specialist-III_JR-94429) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/Accounts-Receivable-Specialist-III_JR-98637-1) |
 
 ## About This Role
 
-This corporate finance position at Sentara Healthcare was posted on 2026-02-18.
+This corporate finance position at Sentara Healthcare was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

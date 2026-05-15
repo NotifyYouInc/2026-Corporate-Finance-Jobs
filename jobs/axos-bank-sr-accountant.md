@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Cincinnati, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Sr-Accountant_JR4397) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Cincinnati-OH/Sr-Accountant_JR4620) |
 
 ## About This Role
 
-This corporate finance position at Axos Bank was posted on 2026-04-01.
+This corporate finance position at Axos Bank was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

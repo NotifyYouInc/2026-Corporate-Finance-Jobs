@@ -5,12 +5,12 @@
 | Company | [Denver](https://scoutify.ai/companies/denver?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://denver.wd1.myworkdayjobs.com/ccd-denver-denvergov-csc_jobs-civil_service_jobs-police_jobs-fire_jobs/job/Downtown-Denver/Staff-Accountant---Denver-Fire-Department_R0080485-2) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://denver.wd1.myworkdayjobs.com/ccd-denver-denvergov-csc_jobs-civil_service_jobs-police_jobs-fire_jobs/job/Downtown-Denver/Staff-Accountant---Denver-Fire-Department_R0080998-3) |
 
 ## About This Role
 
-This corporate finance position at Denver was posted on 2026-04-22.
+This corporate finance position at Denver was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

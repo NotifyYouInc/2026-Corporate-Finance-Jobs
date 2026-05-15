@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Singer Lewak](https://scoutify.ai/companies/singer-lewak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Torrance, California, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.lever.co/singerlewak/5e124219-f97a-49e3-9344-8042afafe71c) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.lever.co/singerlewak/13332472-7e6c-4351-934b-fefdecb7a62f) |
 
 ## About This Role
 
-This corporate finance position at Singer Lewak was posted on 2026-04-28.
+This corporate finance position at Singer Lewak was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

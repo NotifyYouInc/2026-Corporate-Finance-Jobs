@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000122284939-junior-accountant) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000125217120-junior-accountant) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-04-22.
+This corporate finance position at Woongjin was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

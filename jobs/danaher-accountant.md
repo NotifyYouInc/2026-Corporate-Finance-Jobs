@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Brea, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Accountant_R1304820) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/Accountant_R1308362) |
 
 ## About This Role
 
-This corporate finance position at Danaher was posted on 2026-03-03.
+This corporate finance position at Danaher was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

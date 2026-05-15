@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Camrose, Alberta, Canada |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Camrose-AB/XMLNAME--CAN--Accounting-Office_R-2486722) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/North-York-ON/XMLNAME--CAN--Accounting-Office_R-2502928) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-04-22.
+This corporate finance position at Walmart was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

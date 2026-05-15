@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chile |
+| Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Analista-Contable_J00173403) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/URY---Montevideo/Analista-Contable_J00176199) |
 
 ## About This Role
 
-This corporate finance position at Equifax was posted on 2026-02-20.
+This corporate finance position at Equifax was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
