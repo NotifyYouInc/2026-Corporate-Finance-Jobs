@@ -5,12 +5,12 @@
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/Merrill-Lending-Solutions-Advisor-II_26009367) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/Senior-Credit-Advisor_26000371) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-30.
+This corporate finance position at Bank of America was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

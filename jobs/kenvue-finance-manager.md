@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | São José dos Campos, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-China-Shanghai-Shanghai/Finance-Manager_2607043733W) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Brazil-Sao-Paulo-Sao-Jose-dos-Campos/Finance-Manager_2607046008W) |
 
 ## About This Role
 
-This corporate finance position at Kenvue was posted on 2026-02-26.
+This corporate finance position at Kenvue was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

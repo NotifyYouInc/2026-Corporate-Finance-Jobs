@@ -5,12 +5,12 @@
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000120007569-financial-reporting-coordinator-12-month-mat-cover) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000125373689-financial-reporting-coordinator-12-month-mat-cover) |
 
 ## About This Role
 
-This corporate finance position at Anglo American was posted on 2026-04-10.
+This corporate finance position at Anglo American was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

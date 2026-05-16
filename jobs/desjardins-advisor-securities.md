@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brossard, Quebec, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Brossard/Conseiller-associ-ou-conseillre-associe-en-gestion-de-patrimoine_R2605785) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-adjoint-ou-conseillere-adjointe-en-Gestion-de-patrimoine_R2606475) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-04-28.
+This corporate finance position at Desjardins was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

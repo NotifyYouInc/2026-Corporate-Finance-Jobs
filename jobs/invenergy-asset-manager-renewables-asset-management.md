@@ -5,12 +5,12 @@
 | Company | [Invenergy](https://scoutify.ai/companies/invenergyllc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Asset-Manager--Renewables-Asset-Management_R10596-2) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Asset-Manager--Renewables-Asset-Management_R10750-1) |
 
 ## About This Role
 
-This corporate finance position at Invenergy was posted on 2026-04-29.
+This corporate finance position at Invenergy was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

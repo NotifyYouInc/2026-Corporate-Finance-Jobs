@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Service Corporation International](https://scoutify.ai/companies/service-corporation-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://sci.wd5.myworkdayjobs.com/sci/job/LA---Jefferson/Accountant-II_Req160835) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://sci.wd5.myworkdayjobs.com/sci/job/TX---Houston/Accountant-II_Req162174) |
 
 ## About This Role
 
-This corporate finance position at Service Corporation International was posted on 2026-04-07.
+This corporate finance position at Service Corporation International was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

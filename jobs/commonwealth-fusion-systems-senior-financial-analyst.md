@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Fusion Systems](https://scoutify.ai/companies/cfsenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Massachusetts, US |
+| Location | Devens, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.lever.co/cfsenergy/8a034ebf-4335-416b-9f3c-f5281765051c) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.lever.co/cfsenergy/7583a428-3f45-4d5f-a8f1-33c01a144678) |
 
 ## About This Role
 
-This corporate finance position at Commonwealth Fusion Systems was posted on 2026-02-03.
+This corporate finance position at Commonwealth Fusion Systems was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

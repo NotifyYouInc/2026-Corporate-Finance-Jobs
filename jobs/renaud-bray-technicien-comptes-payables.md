@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renaud-Bray](https://scoutify.ai/companies/renaudbray?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000118444085-technicien-comptes-payables) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000125365681-technicien-comptes-payables) |
 
 ## About This Role
 
-This corporate finance position at Renaud-Bray was posted on 2026-04-02.
+This corporate finance position at Renaud-Bray was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

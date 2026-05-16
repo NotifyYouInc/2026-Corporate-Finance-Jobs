@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wellstar](https://scoutify.ai/companies/wellstar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Marietta, Georgia, United States |
+| Location | Georgia, US |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://wellstar.wd1.myworkdayjobs.com/wellstarcareers/job/1800-Parkway-Place/Cash-Posting-Specialist_JR-64409-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://wellstar.wd1.myworkdayjobs.com/wellstarcareers/job/VIRTUAL-GA/Cash-Posting-Specialist_JR-66254-1) |
 
 ## About This Role
 
-This corporate finance position at Wellstar was posted on 2026-05-05.
+This corporate finance position at Wellstar was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

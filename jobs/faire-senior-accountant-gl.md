@@ -5,12 +5,12 @@
 | Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8442971002?gh_jid=8442971002) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8541567002?gh_jid=8541567002) |
 
 ## About This Role
 
-This corporate finance position at Faire was posted on 2026-02-27.
+This corporate finance position at Faire was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

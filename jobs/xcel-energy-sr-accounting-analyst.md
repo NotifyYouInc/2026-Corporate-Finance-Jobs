@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Sr-Accounting-Analyst-ANL735_JR113791-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Sr-Accounting-Analyst_JR114117-1) |
 
 ## About This Role
 
-This corporate finance position at Xcel Energy was posted on 2026-04-16.
+This corporate finance position at Xcel Energy was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

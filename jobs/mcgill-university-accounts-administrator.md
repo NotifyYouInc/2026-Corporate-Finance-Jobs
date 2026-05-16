@@ -5,12 +5,12 @@
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McConnell-Eng-Bldg/Accounts-Administrator_JR0000075053) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Montreal-Neuro/Accounts-Administrator_JR0000075813) |
 
 ## About This Role
 
-This corporate finance position at McGill University was posted on 2026-04-13.
+This corporate finance position at McGill University was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

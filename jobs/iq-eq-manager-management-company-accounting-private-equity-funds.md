@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000124492679-manager-management-company-accounting-private-equity-funds) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000125397935-manager-management-company-accounting-private-equity-funds) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-05-04.
+This corporate finance position at IQ-EQ was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

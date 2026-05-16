@@ -5,12 +5,12 @@
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | China |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Yan-Tai-/-_R-104328) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Tian-Jin-/-_R-105251) |
 
 ## About This Role
 
-This corporate finance position at Eli Lilly was posted on 2026-04-13.
+This corporate finance position at Eli Lilly was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

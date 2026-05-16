@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Menlo-Park-California/Sleep-Expert---Sales_JR-P0061849) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/San-Antonio-Texas/Sleep-Expert---Sales_JR-P0061865) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-07.
+This corporate finance position at Mattressfirm was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

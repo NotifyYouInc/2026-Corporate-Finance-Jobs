@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EMC Insurance](https://scoutify.ai/companies/emcins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Texas, US |
+| Location | Rhode Island, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Texas/Senior-Commercial-Underwriter_R6305) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Rhode-Island/Senior-Commercial-Underwriter_R6386) |
 
 ## About This Role
 
-This corporate finance position at EMC Insurance was posted on 2026-03-06.
+This corporate finance position at EMC Insurance was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flutter Entertainment](https://scoutify.ai/companies/flutter-entertainment?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://flutterbe.wd3.myworkdayjobs.com/group_external/job/London-UK/Financial-Accountant_JR136780) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://flutterbe.wd3.myworkdayjobs.com/group_external/job/Dublin-Ireland/Financial-Accountant_JR138658-1) |
 
 ## About This Role
 
-This corporate finance position at Flutter Entertainment was posted on 2026-04-03.
+This corporate finance position at Flutter Entertainment was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

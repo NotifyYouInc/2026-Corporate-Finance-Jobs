@@ -5,12 +5,12 @@
 | Company | [Latin Top Jobs Group](https://scoutify.ai/companies/latin-top-jobs-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | El Salvador |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/ltjgroup/40f4395c-e78b-4fdd-836d-aa625e4d0cba) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.lever.co/ltjgroup/6ee79e94-83d2-431a-ae6c-29bdb7295fdc) |
 
 ## About This Role
 
-This corporate finance position at Latin Top Jobs Group was posted on 2026-04-20.
+This corporate finance position at Latin Top Jobs Group was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CCC Intelligent Solutions](https://scoutify.ai/companies/cccis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Senior-Financial-Analyst_0014554) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Senior-Financial-Analyst_0014652-1) |
 
 ## About This Role
 
-This corporate finance position at CCC Intelligent Solutions was posted on 2026-03-20.
+This corporate finance position at CCC Intelligent Solutions was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

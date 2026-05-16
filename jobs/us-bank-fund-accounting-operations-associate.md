@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | Hackensack, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Fund-Accounting---Operations-Associate_2026-0009395) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hackensack-NJ/Fund-Accounting---Operations-Associate_2026-0012313) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-29.
+This corporate finance position at U.S. Bank was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

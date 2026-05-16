@@ -1,16 +1,16 @@
-# Finance Trainee at Valeo
+# FINANCE TRAINEE at Valeo
 
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Slovenia |
+| Location | Juárez, Chiapas, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rakovnik/Finance-Trainee_REQ2026072776) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Juarez/FINANCE-TRAINEE_REQ2026074295) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-04-01.
+This corporate finance position at Valeo was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Manila--Philippines/Accountant-II_R26_00815) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Accountant-II_R26_02198) |
 
 ## About This Role
 
-This corporate finance position at Regal Rexnord was posted on 2026-02-23.
+This corporate finance position at Regal Rexnord was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

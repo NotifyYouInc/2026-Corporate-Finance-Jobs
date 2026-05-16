@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DLA Piper](https://scoutify.ai/companies/dla-piper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/Reston-VA/FP-A-Analyst_R2026-2322) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/Reston-VA/FP-A-Analyst_R2026-2409) |
 
 ## About This Role
 
-This corporate finance position at DLA Piper was posted on 2026-04-10.
+This corporate finance position at DLA Piper was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
