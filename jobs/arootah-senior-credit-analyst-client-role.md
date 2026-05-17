@@ -1,16 +1,16 @@
-# Assistant Manager Finance at ACCOR
+# Senior Credit Analyst - Client Role at Arootah
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vagator, Goa, India |
+| Company | [Arootah](https://scoutify.ai/companies/arootah?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125455369-assistant-manager-finance) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.lever.co/arootah/96c6b1a0-8213-41e1-bb40-b6436688502c) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-09.
+This corporate finance position at Arootah was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

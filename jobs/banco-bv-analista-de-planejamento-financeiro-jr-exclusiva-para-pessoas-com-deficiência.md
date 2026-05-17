@@ -1,16 +1,16 @@
-# Assistant Manager Finance at ACCOR
+# Analista de Planejamento Financeiro Jr - exclusiva para pessoas com deficiência at Banco BV
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vagator, Goa, India |
+| Company | [Banco BV](https://scoutify.ai/companies/banco-bv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125455369-assistant-manager-finance) |
+| Apply | [View on company site](https://jobs.lever.co/bv/d8cb7c0c-48c7-45bd-a3a9-11cd5dc2db88) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-09.
+This corporate finance position at Banco BV was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

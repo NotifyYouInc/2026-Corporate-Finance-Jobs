@@ -1,16 +1,16 @@
-# Assistant Manager Finance at ACCOR
+# Finance Operations Lead - Record to Report at Mars
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vagator, Goa, India |
+| Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Guangzhou, Guangdong, China |
 | Category | Corporate Finance |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125455369-assistant-manager-finance) |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/CHN-Guangdong-Guangzhou/Finance-Operations-Lead---Record-to-Report_R154587-1) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-09.
+This corporate finance position at Mars was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

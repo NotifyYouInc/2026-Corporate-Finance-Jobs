@@ -6,7 +6,7 @@
 | Location | Herndon, Virginia, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000125370857-finance-transformation-analyst-ai-emerging-tech-contract) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000125378729-finance-transformation-analyst-ai-emerging-tech-contract) |
 
 ## About This Role
 

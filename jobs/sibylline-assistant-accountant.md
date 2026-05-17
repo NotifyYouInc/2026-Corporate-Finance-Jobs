@@ -1,16 +1,16 @@
-# Assistant Manager Finance at ACCOR
+# Assistant Accountant  at SIBYLLINE
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vagator, Goa, India |
+| Company | [SIBYLLINE](https://scoutify.ai/companies/sibylline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125455369-assistant-manager-finance) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000125459389-assistant-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-09.
+This corporate finance position at SIBYLLINE was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

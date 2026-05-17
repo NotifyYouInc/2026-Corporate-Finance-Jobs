@@ -1,16 +1,16 @@
-# Assistant Manager Finance at ACCOR
+# Medical Billing Specialist (ABA) at Camber
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vagator, Goa, India |
+| Company | [Camber](https://scoutify.ai/companies/camber?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125455369-assistant-manager-finance) |
+| Posted | 2025-07-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/camber/2249febd-aeec-4de6-8b10-09922b8ab631) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-09.
+This corporate finance position at Camber was posted on 2025-07-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Assistant Manager Finance at ACCOR
+# Accounts Payable Associate at Cook Systems
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vagator, Goa, India |
+| Company | [Cook Systems](https://scoutify.ai/companies/cook-systems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Memphis, Tennessee, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125455369-assistant-manager-finance) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cooksys/jobs/5215408008) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-09.
+This corporate finance position at Cook Systems was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

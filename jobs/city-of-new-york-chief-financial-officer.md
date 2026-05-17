@@ -1,16 +1,16 @@
-# Assistant Manager Finance at ACCOR
+# Chief Financial Officer at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vagator, Goa, India |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125455369-assistant-manager-finance) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056271-chief-financial-officer) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-09.
+This corporate finance position at City of New York was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

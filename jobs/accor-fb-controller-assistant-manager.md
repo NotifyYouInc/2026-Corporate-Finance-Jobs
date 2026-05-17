@@ -1,12 +1,12 @@
-# Assistant Manager Finance at ACCOR
+# F&B Controller (Assistant Manager) at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vagator, Goa, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125455369-assistant-manager-finance) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125456836-fb-controller-assistant-manager) |
 
 ## About This Role
 

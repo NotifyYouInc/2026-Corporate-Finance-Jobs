@@ -1,16 +1,16 @@
-# Assistant Manager Finance at ACCOR
+# FP&A at Base Power
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vagator, Goa, India |
+| Company | [Base Power](https://scoutify.ai/companies/base-power?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125455369-assistant-manager-finance) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/base-power/aaf262e2-fb1b-4452-b549-caf8fa1b3961) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-09.
+This corporate finance position at Base Power was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

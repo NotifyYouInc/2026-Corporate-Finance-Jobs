@@ -1,16 +1,16 @@
-# Assistant Manager Finance at ACCOR
+# Revenue Accounting Manager at TiDB
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vagator, Goa, India |
+| Company | [TiDB](https://scoutify.ai/companies/tidb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125455369-assistant-manager-finance) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pingcap/jobs/4078135009) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-09.
+This corporate finance position at TiDB was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
