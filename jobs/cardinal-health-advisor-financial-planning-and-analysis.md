@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Dublin, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Advisor--Financial-Planning-and-Analysis_20175979) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Advisor--Financial-Planning-and-Analysis_20180309) |
 
 ## About This Role
 
-This corporate finance position at Cardinal Health was posted on 2026-03-02.
+This corporate finance position at Cardinal Health was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

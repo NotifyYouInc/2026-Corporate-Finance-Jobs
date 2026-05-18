@@ -5,12 +5,12 @@
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---NSW---Sydney/Actuarial-Analyst_354880) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---NSW---Sydney/Actuarial-Analyst_354588-1) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-05-06.
+This corporate finance position at QBE Insurance was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

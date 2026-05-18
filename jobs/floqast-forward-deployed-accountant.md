@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Floqast](https://scoutify.ai/companies/floqast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.lever.co/floqast/9a1a9b2a-5c33-4d57-b5f7-27dba212a9b1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.lever.co/floqast/1e21a188-e3f9-4858-afbe-8ef9ac049346) |
 
 ## About This Role
 
-This corporate finance position at Floqast was posted on 2026-04-28.
+This corporate finance position at Floqast was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

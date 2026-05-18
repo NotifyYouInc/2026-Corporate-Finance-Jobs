@@ -5,12 +5,12 @@
 | Company | [Berliner Verkehrsbetriebe (BVG)](https://scoutify.ai/companies/berlinerverkehrsbetriebebvg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BerlinerVerkehrsbetriebeBVG1/744000107230624-controllerin-controller-fur-infrastruktur-und-bauprojekte-wmd) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BerlinerVerkehrsbetriebeBVG1/744000125743763-controllerin-controller-fur-infrastruktur-und-bauprojekte-wmd) |
 
 ## About This Role
 
-This corporate finance position at Berliner Verkehrsbetriebe (BVG) was posted on 2026-02-04.
+This corporate finance position at Berliner Verkehrsbetriebe (BVG) was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Elliot Lake, Ontario, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Sudbury-ON-CAN/Investment-Specialist_R260014307) |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Calgary-AB-CAN/Investment-Specialist_R260014297) |
 
 ## About This Role
 

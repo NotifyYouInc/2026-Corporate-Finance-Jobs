@@ -5,12 +5,12 @@
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Group-Treasury-Accountant_R48493) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Group-Treasury-Accountant_R49570) |
 
 ## About This Role
 
-This corporate finance position at FirstRand was posted on 2026-04-09.
+This corporate finance position at FirstRand was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

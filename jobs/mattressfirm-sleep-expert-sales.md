@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Lufkin, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/San-Antonio-Texas/Sleep-Expert---Sales_JR-P0061865) |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Lufkin-Texas/Sleep-Expert---Sales_JR-P0061871) |
 
 ## About This Role
 

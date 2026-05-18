@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Marsa Alam, Red Sea, Egypt |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125042259-financial-controller) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125602669-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-07.
+This corporate finance position at ACCOR was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Tampa-FL-USA/Tax-Associate--Healthcare_R-51217) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Tampa-FL-USA/Tax-Associate--Healthcare_R-51220) |
 
 ## About This Role
 
-This corporate finance position at Crowe was posted on 2026-05-08.
+This corporate finance position at Crowe was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

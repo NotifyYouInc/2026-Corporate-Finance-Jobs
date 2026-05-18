@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/New-York-NY/Senior-Associate_R42993) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Maharashtra-Navi-Mumbai/Senior-Associate_R38416) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-05-01.
+This corporate finance position at SS&C Technologies was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

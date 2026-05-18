@@ -5,12 +5,12 @@
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-AP-AR-Clerk_JR104141) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-AP-AR-Clerk_JR104199) |
 
 ## About This Role
 
-This corporate finance position at Delegate CX was posted on 2026-04-27.
+This corporate finance position at Delegate CX was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

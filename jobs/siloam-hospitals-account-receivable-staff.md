@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Siloam Hospitals](https://scoutify.ai/companies/siloamhospitals?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Banjarmasin, South Kalimantan, Indonesia |
+| Location | Indonesia |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000001029614-account-receivable-staff) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000001061817-account-receivable-staff) |
 
 ## About This Role
 
-This corporate finance position at Siloam Hospitals was posted on 2026-04-28.
+This corporate finance position at Siloam Hospitals was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000116108967-indirect-tax-gl-accountant) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125619669-indirect-tax-gl-accountant) |
 
 ## About This Role
 
-This corporate finance position at AECOM was posted on 2026-03-23.
+This corporate finance position at AECOM was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

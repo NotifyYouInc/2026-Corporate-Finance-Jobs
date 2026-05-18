@@ -5,12 +5,12 @@
 | Company | [Minor International PCL](https://scoutify.ai/companies/minorinternationalpcl?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000121941347-assistant-financial-controller) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000125750369-assistant-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at Minor International PCL was posted on 2026-04-21.
+This corporate finance position at Minor International PCL was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

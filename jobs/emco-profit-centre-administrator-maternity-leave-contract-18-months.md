@@ -5,12 +5,12 @@
 | Company | [EMCO](https://scoutify.ai/companies/emco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EMCOCorporation/744000117991967-profit-centre-administrator-maternity-leave-contract-18-months) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EMCOCorporation/744000125654114-profit-centre-administrator-maternity-leave-contract-18-months) |
 
 ## About This Role
 
-This corporate finance position at EMCO was posted on 2026-03-31.
+This corporate finance position at EMCO was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

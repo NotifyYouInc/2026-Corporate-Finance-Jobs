@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quincy, Massachusetts, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Corporate-Actions--Associate-2_R-787481) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Corporate-Actions--Associate-2_R-787798-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-06.
+This corporate finance position at State Street was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

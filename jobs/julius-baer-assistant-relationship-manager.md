@@ -5,12 +5,12 @@
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Singapore/Assistant-Relationship-Manager_r-17818-1) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Singapore/Assistant-Relationship-Manager_r-18454-1) |
 
 ## About This Role
 
-This corporate finance position at Julius Baer was posted on 2026-03-09.
+This corporate finance position at Julius Baer was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 
