@@ -5,12 +5,12 @@
 | Company | [Inmar Intelligence](https://scoutify.ai/companies/inmar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Carolina, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/AR-Administrator--PFM_JY2627285) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/AR-Administrator--PFM_JY2627325) |
 
 ## About This Role
 
-This corporate finance position at Inmar Intelligence was posted on 2026-04-21.
+This corporate finance position at Inmar Intelligence was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

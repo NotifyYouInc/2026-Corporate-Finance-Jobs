@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Assistant-Finance-Manager_REQ502877) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Noida-UP/Assistant-Finance-Manager_REQ506449) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-04-29.
+This corporate finance position at JLL was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

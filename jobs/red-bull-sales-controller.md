@@ -1,16 +1,16 @@
-# SALES CONTROLLER at Red Bull
+# Sales Controller at Red Bull
 
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Baar, Zug, Switzerland |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000118875277-sales-controller) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000125994929-sales-controller) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-04-06.
+This corporate finance position at Red Bull was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

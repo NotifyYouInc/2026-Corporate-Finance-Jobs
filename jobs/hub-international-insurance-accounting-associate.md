@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Abbotsford, British Columbia, Canada |
+| Location | Frederick, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Abbotsford-BC/Insurance-Accounting-Associate_R0035368) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/50-Citizens-Way-Suite-410-Frederick/Insurance-Accounting-Associate_R0036399) |
 
 ## About This Role
 
-This corporate finance position at HUB International was posted on 2026-03-31.
+This corporate finance position at HUB International was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Meridian, Idaho, United States |
+| Location | Manassas, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Meridian-ID/Dealership-Accountant_26_03311) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Manassas-VA/Dealership-Accountant_26_04674) |
 
 ## About This Role
 
-This corporate finance position at Camping World was posted on 2026-03-31.
+This corporate finance position at Camping World was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

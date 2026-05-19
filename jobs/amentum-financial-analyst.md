@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kenya |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-Kenya-Manda-Bay/Financial-Analyst_R0158390) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-Australia-Sydney/Financial-Analyst_R0161120) |
 
 ## About This Role
 
-This corporate finance position at Amentum was posted on 2026-04-13.
+This corporate finance position at Amentum was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

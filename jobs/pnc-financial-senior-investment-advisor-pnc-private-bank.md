@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CA---San-Francisco-94105/Senior-Investment-Advisor---PNC-Private-Bank_R213403-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Austin-78703/Senior-Investment-Advisor---PNC-Private-Bank_R222359-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-05.
+This corporate finance position at PNC Financial was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

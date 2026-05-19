@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Reynosa, Tamaulipas, Mexico |
+| Location | Durango, MX |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Tamaulipas-Reynosa-88630/ESPECIALISTA-DE-CONSUMER-FINANCE-I-MX-6_JR00100884) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Durango-Durango-34000/ESPECIALISTA-DE-CONSUMER-FINANCE-I-MX-6_JR00103563) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-08.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

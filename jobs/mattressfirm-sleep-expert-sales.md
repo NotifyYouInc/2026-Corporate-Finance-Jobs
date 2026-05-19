@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lufkin, Texas, United States |
+| Location | Duluth, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Lufkin-Texas/Sleep-Expert---Sales_JR-P0061871) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Duluth-Georgia/Sleep-Expert---Sales_JR-P0061702) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-08.
+This corporate finance position at Mattressfirm was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

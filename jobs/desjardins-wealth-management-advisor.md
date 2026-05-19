@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Napierville, Quebec, Canada |
+| Location | Saint-Hubert, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Napierville/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2606305) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/5040-boulevard-Gatan-Boucher--Saint-Hubert/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2606274) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-05-08.
+This corporate finance position at Desjardins was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

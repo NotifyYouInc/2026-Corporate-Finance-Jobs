@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fib](https://scoutify.ai/companies/fib?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Portland, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://fib.wd1.myworkdayjobs.com/fibcareers/job/Sioux-Falls-SD/Credit-Analyst-III_2026-14979) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://fib.wd1.myworkdayjobs.com/fibcareers/job/Portland-OR/Credit-Analyst-III_2026-15066) |
 
 ## About This Role
 
-This corporate finance position at Fib was posted on 2026-05-05.
+This corporate finance position at Fib was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

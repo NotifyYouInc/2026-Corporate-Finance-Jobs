@@ -1,16 +1,16 @@
-# Wealth Advisor (Atlanta, GA) at Mercer Advisors
+# Wealth Advisor (Atlanta, GA)  at Mercer Advisors
 
 | Field | Details |
 |-------|---------|
 | Company | [Mercer Advisors](https://scoutify.ai/companies/merceradvisors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/merceradvisors/jobs/5171716008) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/merceradvisors/jobs/5214735008) |
 
 ## About This Role
 
-This corporate finance position at Mercer Advisors was posted on 2026-04-01.
+This corporate finance position at Mercer Advisors was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

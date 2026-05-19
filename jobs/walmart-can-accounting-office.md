@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Timmins, Ontario, Canada |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Timmins-ON/XMLNAME--CAN--Accounting-Office_R-2505011) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/North-York-ON/XMLNAME--CAN--Accounting-Office_R-2506956) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-05-09.
+This corporate finance position at Walmart was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

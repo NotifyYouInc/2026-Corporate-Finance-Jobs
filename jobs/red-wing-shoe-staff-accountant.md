@@ -5,12 +5,12 @@
 | Company | [Red Wing Shoe](https://scoutify.ai/companies/redwingshoe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Red Wing, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000119232457-staff-accountant) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000125871783-staff-accountant) |
 
 ## About This Role
 
-This corporate finance position at Red Wing Shoe was posted on 2026-04-07.
+This corporate finance position at Red Wing Shoe was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

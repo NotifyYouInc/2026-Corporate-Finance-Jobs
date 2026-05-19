@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Hyderabad/Tax-Supervisor---Private-Company_JR113413) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Tax-Supervisor---Private-Company_JR113407) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-04-06.
+This corporate finance position at RSM was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

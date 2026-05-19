@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000125215278-senior-accountant-gbs-fssc) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000125944519-senior-accountant-gbs-fssc) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-05-07.
+This corporate finance position at SGS was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Credit-Controller-Analyst-I_R-01343480) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Credit-Controller-Analyst-I_R-01349725) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-06.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

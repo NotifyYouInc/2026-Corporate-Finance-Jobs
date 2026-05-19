@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Associate_R-0000171640-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate_R-0000157314-2) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-08.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

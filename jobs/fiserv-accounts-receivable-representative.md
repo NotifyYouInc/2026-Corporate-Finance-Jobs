@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Coral Springs, Florida, United States |
+| Location | Marietta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/Accounts-Receivable-Representative_R-10392807) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Marietta-Georgia/Accounts-Receivable-Representative_R-10392795) |
 
 ## About This Role
 
-This corporate finance position at Fiserv was posted on 2026-05-08.
+This corporate finance position at Fiserv was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Nashville/Accounting-Generalist_REQ10365068) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Nashville/Accounting-Generalist_REQ10379731) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-03-06.
+This corporate finance position at Four Seasons Hotels was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

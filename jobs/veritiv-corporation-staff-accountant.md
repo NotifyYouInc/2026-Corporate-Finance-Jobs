@@ -5,12 +5,12 @@
 | Company | [Veritiv Corporation](https://scoutify.ai/companies/veritiv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jacksonville, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/Veritiv---Jacksonville-Office-FL/Staff-Accountant_R31052) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/Veritiv---Jacksonville-Office-FL/Staff-Accountant_R31053) |
 
 ## About This Role
 
-This corporate finance position at Veritiv Corporation was posted on 2026-04-17.
+This corporate finance position at Veritiv Corporation was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

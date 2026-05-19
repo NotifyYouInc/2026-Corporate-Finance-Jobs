@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redwood Materials](https://scoutify.ai/companies/redwood-materials?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ridgeville, South Carolina, United States |
+| Location | Carson City, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/redwoodmaterials/jobs/5988865004?gh_jid=5988865004) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/redwoodmaterials/jobs/5989718004?gh_jid=5989718004) |
 
 ## About This Role
 
-This corporate finance position at Redwood Materials was posted on 2026-05-05.
+This corporate finance position at Redwood Materials was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

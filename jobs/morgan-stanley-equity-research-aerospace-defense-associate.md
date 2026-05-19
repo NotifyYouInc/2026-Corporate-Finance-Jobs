@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Equity-Research---Aerospace---Defense-Associate_JR030362-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Equity-Research---Aerospace---Defense-Associate_JR036143-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-02-19.
+This corporate finance position at Morgan Stanley was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

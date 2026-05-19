@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000125219697-general-accounting-data-processing) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000125939354-general-accounting-data-processing) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-05-07.
+This corporate finance position at Woongjin was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
