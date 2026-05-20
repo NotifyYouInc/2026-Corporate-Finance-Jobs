@@ -5,12 +5,12 @@
 | Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/098e46c3-075c-4241-beda-e01c29c4fb25) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/49b593e9-2fe5-4719-96a9-70f8fb5efcd2) |
 
 ## About This Role
 
-This corporate finance position at SKELAR was posted on 2026-04-03.
+This corporate finance position at SKELAR was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

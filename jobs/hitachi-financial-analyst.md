@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chicago-Illinois-United-States/Financial-Analyst_R0129693) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Tokyo-Tokyo-Japan/Financial-Analyst_R0125582) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-05-06.
+This corporate finance position at Hitachi was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

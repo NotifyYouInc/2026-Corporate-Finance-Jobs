@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Costa Mesa, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5066609007?gh_jid=5066609007) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5131037007?gh_jid=5131037007) |
 
 ## About This Role
 
-This corporate finance position at Anduril was posted on 2026-05-06.
+This corporate finance position at Anduril was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

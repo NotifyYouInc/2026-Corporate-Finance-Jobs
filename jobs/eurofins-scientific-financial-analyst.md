@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lancaster, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118278434-financial-analyst) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000126157579-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Eurofins Scientific was posted on 2026-04-02.
+This corporate finance position at Eurofins Scientific was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

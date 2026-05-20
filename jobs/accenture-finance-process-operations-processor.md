@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dalian, Liaoning, China |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Finance-Process---Operations-Processor_13981075) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/Finance-Process---Operations-Processor_14363869) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-13.
+This corporate finance position at Accenture was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

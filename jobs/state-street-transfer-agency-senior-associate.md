@@ -1,16 +1,16 @@
-# Transfer Agency - Senior Associate at State Street
+# Transfer Agency, Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | China |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Chennai-India/Transfer-Agency---Senior-Associate_R-781814) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hong-Kong-China/Transfer-Agency--Senior-Associate_R-790091) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-08.
+This corporate finance position at State Street was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

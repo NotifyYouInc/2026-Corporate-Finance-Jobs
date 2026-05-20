@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flora Food Group](https://scoutify.ai/companies/flora-food-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hackensack, New Jersey, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.florafoodgroup.com/careers/join-flora-food-group/8482036002?gh_jid=8482036002) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.florafoodgroup.com/careers/join-flora-food-group/8546011002?gh_jid=8546011002) |
 
 ## About This Role
 
-This corporate finance position at Flora Food Group was posted on 2026-03-26.
+This corporate finance position at Flora Food Group was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

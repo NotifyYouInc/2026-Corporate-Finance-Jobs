@@ -1,16 +1,16 @@
-# Senior_Associate, Strategic Finance at Grab
+# Senior Associate, Strategic Finance at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000121579807-senior-associate-strategic-finance) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126219945-senior-associate-strategic-finance) |
 
 ## About This Role
 
-This corporate finance position at Grab was posted on 2026-04-18.
+This corporate finance position at Grab was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

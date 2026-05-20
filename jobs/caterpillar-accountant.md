@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | Lafayette, Louisiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Accountant_R0000368040) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Accountant_R0000368260) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-05-05.
+This corporate finance position at Caterpillar was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [O-I Glass](https://scoutify.ai/companies/oiglass?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000123722520-coordinadora-fiscal) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000126141629-coordinadora-fiscal) |
 
 ## About This Role
 
-This corporate finance position at O-I Glass was posted on 2026-04-29.
+This corporate finance position at O-I Glass was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

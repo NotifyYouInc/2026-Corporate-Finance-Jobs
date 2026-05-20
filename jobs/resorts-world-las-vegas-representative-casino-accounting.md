@@ -1,16 +1,16 @@
-# Representative Casino, Accounting at Resorts World Las Vegas
+# Representative, Casino Accounting at Resorts World Las Vegas
 
 | Field | Details |
 |-------|---------|
 | Company | [Resorts World Las Vegas](https://scoutify.ai/companies/resorts-world-las-vegas?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://rwlasvegas.wd501.myworkdayjobs.com/rwlv_external_careers/job/Resorts-World-Las-Vegas/Representative-Casino--Accounting_JR-01769-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://rwlasvegas.wd501.myworkdayjobs.com/rwlv_external_careers/job/Resorts-World-Las-Vegas/Representative--Casino-Accounting_JR-02172) |
 
 ## About This Role
 
-This corporate finance position at Resorts World Las Vegas was posted on 2026-04-13.
+This corporate finance position at Resorts World Las Vegas was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

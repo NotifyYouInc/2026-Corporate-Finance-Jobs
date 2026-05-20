@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ghj](https://scoutify.ai/companies/ghj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.lever.co/ghj/a25db1d6-5bf4-40ee-9c8a-51dc167fe07e) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.lever.co/ghj/85d6c60d-0a23-4e35-914d-804870a96a02) |
 
 ## About This Role
 
-This corporate finance position at Ghj was posted on 2026-04-28.
+This corporate finance position at Ghj was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

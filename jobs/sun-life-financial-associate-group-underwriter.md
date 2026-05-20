@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Waterloo, Ontario, Canada |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Associate-Group-Underwriter_JR00122719) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Calgary-Group-Benefits/Associate-Group-Underwriter_JR00123934) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-04-13.
+This corporate finance position at Sun Life Financial was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

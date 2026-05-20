@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Novi, Michigan, United States |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Novi-MI-48377/Manager-Finance_R170666) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Miami-FL-33178/Manager-Finance_R171936) |
 
 ## About This Role
 
-This corporate finance position at Ryder System was posted on 2026-04-28.
+This corporate finance position at Ryder System was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

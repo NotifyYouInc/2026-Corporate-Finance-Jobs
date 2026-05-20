@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000124168810-controller-oraclejde-experience) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000126122209-controller-oraclejde-experience) |
 
 ## About This Role
 
-This corporate finance position at VTekis Consulting LLP was posted on 2026-05-01.
+This corporate finance position at VTekis Consulting LLP was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Duluth, Minnesota, United States |
+| Location | Leesburg, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Duluth-Georgia/Sleep-Expert---Sales_JR-P0061702) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Leesburg-Virginia/Sleep-Expert---Sales_JR-P0061908) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-11.
+This corporate finance position at Mattressfirm was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

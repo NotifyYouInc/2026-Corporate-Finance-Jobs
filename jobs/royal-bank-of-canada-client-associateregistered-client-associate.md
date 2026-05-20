@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Winter Park, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Phoenix-Arizona-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000171541) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/360-GARFIELD-AVENUEWINTER-PARK/Client-Associate-Registered-Client-Associate_R-0000157819) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-07.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlottesville, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Virginia-Guesthouse-at-UVA/Accounts-Payable_R0060258) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Virginia-Guesthouse-at-UVA/Accounts-Payable_R0062184) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-04-02.
+This corporate finance position at Benchmark was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

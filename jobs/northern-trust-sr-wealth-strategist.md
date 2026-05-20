@@ -1,16 +1,16 @@
-# Sr. Wealth Strategist at Northern Trust
+# Sr Wealth Strategist at Northern Trust
 
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/New-York-NY/Sr-Wealth-Strategist_R151874-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Seattle-WA/Sr-Wealth-Strategist_R155299) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-28.
+This corporate finance position at Northern Trust was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

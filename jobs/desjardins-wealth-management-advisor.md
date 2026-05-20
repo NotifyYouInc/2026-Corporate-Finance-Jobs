@@ -1,16 +1,16 @@
-# Wealth Management Advisor at Desjardins
+# Wealth management advisor at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint-Hubert, Quebec, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/5040-boulevard-Gatan-Boucher--Saint-Hubert/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2606274) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Longueuil/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2605955) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-05-11.
+This corporate finance position at Desjardins was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

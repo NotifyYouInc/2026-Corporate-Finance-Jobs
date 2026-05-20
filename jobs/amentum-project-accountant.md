@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Tullahoma, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-Australia-Sydney/Project-Accountant_R0158895) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Project-Accountant_R0161155) |
 
 ## About This Role
 
-This corporate finance position at Amentum was posted on 2026-04-22.
+This corporate finance position at Amentum was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

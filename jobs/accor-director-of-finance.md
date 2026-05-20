@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Candolim, Goa, India |
+| Location | New Delhi, Delhi, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000122601545-director-of-finance) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000126225589-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-24.
+This corporate finance position at ACCOR was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

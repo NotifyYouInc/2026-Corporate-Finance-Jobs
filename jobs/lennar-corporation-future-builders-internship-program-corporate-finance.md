@@ -5,12 +5,12 @@
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Waterford/Future-Builders-Internship-Program---Corporate-Finance_R26_0000001078) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Waterford/Future-Builders-Internship-Program---Corporate-Finance_R26_0000001953) |
 
 ## About This Role
 
-This corporate finance position at Lennar Corporation was posted on 2026-03-23.
+This corporate finance position at Lennar Corporation was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

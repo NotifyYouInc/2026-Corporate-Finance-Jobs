@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Udaipur, Rajasthan, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000125257709-accounts-assistant) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000126224511-accounts-assistant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-08.
+This corporate finance position at ACCOR was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austria |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000119703375-senior-fpa-data-process-governance-specialist) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000126166469-senior-fpa-data-process-governance-specialist) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-04-09.
+This corporate finance position at Red Bull was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
