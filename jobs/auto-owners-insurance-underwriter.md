@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto-Owners Insurance](https://scoutify.ai/companies/aoins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnesota, US |
+| Location | Mesa, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lake-Elmo-MN/Personal-Lines-Underwriter_R_11364) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Mesa-AZ/Underwriter_R_13645) |
 
 ## About This Role
 
-This corporate finance position at Auto-Owners Insurance was posted on 2026-03-23.
+This corporate finance position at Auto-Owners Insurance was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

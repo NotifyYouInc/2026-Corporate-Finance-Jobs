@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brightli](https://scoutify.ai/companies/brightli?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Kirksville, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Kirksville-MO/Billing-Specialist_R-23322-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Kirksville-MO/Billing-Specialist_R-24061) |
 
 ## About This Role
 
-This corporate finance position at Brightli was posted on 2026-03-05.
+This corporate finance position at Brightli was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

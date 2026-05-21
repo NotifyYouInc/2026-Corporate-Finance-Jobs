@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013012846-finance-manager) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013125606-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at Wabtec was posted on 2026-05-07.
+This corporate finance position at Wabtec was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

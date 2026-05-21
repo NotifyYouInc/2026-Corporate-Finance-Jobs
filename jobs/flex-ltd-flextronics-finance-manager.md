@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Orangeburg, South Carolina, United States |
+| Location | Shenzhen, Guangdong, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-SC-Orangeburg/Finance-Manager_WD219717) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Shenzhen/Finance-Manager_WD221163) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-04-23.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Project Analyst- Accounting at Shell
+# Project Analyst - Accounting at Shell
 
 | Field | Details |
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Dela-Rosa---Street-office/Project-Analyst--Accounting_R198040) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Dela-Rosa---Street-office/Project-Analyst---Accounting_R204016) |
 
 ## About This Role
 
-This corporate finance position at Shell was posted on 2026-02-20.
+This corporate finance position at Shell was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

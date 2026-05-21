@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Payment-Analyst_JR00030040) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Payment-Analyst_JR00032570) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-04-02.
+This corporate finance position at ABB was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

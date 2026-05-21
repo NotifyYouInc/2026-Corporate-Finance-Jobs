@@ -5,12 +5,12 @@
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Actuary--FSA----Enterprise-Finance---Actuarial-Projects_R16958) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Actuary--FSA----Enterprise-Finance---Actuarial-Projects_R16987) |
 
 ## About This Role
 
-This corporate finance position at Pacific Life was posted on 2026-05-07.
+This corporate finance position at Pacific Life was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

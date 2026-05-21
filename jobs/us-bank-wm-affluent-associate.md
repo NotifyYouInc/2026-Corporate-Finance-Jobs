@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Springfield-MO/WM-Affluent-Associate_2026-0012129-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Palo-Alto-CA/WM-Affluent-Associate_2026-0012741) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-06.
+This corporate finance position at U.S. Bank was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

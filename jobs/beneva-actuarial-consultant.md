@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beneva](https://scoutify.ai/companies/beneva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Longueuil, Quebec, Canada |
+| Location | Québec, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Conseiller-en-rgime-de-retraite_R15305) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Analyste-en-actuariat---Assurance-collective_R16647) |
 
 ## About This Role
 
-This corporate finance position at Beneva was posted on 2026-02-26.
+This corporate finance position at Beneva was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

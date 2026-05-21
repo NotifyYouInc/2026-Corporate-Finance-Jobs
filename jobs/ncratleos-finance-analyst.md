@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ncratleos](https://scoutify.ai/companies/ncratleos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Cebu City, Central Visayas, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/MUMBAI-IND/Finance-Analyst_R1152858) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/CEBU-CITY-PHL/Finance-Analyst_R1153076-1) |
 
 ## About This Role
 
-This corporate finance position at Ncratleos was posted on 2026-05-08.
+This corporate finance position at Ncratleos was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

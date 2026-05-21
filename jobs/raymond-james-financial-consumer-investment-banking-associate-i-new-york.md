@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/New-York-New-York---United-States/Consumer-Investment-Banking-Associate-I--New-York-_R-0009411-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/New-York-New-York---United-States/Consumer-Investment-Banking-Associate-I--New-York-_R-0011168) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-02-05.
+This corporate finance position at Raymond James Financial was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

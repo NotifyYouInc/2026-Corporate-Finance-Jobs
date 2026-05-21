@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Buenos-Aires-Ar---bus-cntr-ZAR20/Accounting-Analyst_R63332) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Accounting-Analyst_R64859) |
 
 ## About This Role
 
-This corporate finance position at Motorola Solutions was posted on 2026-03-27.
+This corporate finance position at Motorola Solutions was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

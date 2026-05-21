@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Midland, Texas, United States |
+| Location | Buffalo Grove, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Midland-Texas-United-States-of-America/Client-Associate_R-0000171778) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Buffalo-Grove-Illinois-United-States-of-America/Client-Associate_R-0000172428) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-08.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

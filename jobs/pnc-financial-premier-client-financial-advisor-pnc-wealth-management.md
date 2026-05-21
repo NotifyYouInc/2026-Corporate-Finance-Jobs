@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brecksville, Ohio, United States |
+| Location | Niles, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Brecksville/Premier-Client-Financial-Advisor---PNC-Wealth-Management_R221154-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/IL---Niles/Premier-Client-Financial-Advisor---PNC-Wealth-Management_R222777-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-04-28.
+This corporate finance position at PNC Financial was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

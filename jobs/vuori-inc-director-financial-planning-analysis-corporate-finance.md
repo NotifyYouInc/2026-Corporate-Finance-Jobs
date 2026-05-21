@@ -5,12 +5,12 @@
 | Company | [Vuori, Inc](https://scoutify.ai/companies/vuori-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Carlsbad, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vuoriinc/744000125948429-director-financial-planning-analysis-corporate-finance) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vuoriinc/744000126417880-director-financial-planning-analysis-corporate-finance) |
 
 ## About This Role
 
-This corporate finance position at Vuori, Inc was posted on 2026-05-11.
+This corporate finance position at Vuori, Inc was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

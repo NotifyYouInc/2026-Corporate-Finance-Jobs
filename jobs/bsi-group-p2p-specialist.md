@@ -5,12 +5,12 @@
 | Company | [BSI Group](https://scoutify.ai/companies/bsi-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://bsigroup.wd3.myworkdayjobs.com/bsi_careers/job/Kuala-Lumpur/P2P-Specialist_JR0019729-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://bsigroup.wd3.myworkdayjobs.com/bsi_careers/job/Kuala-Lumpur-Malaysia/P2P-Specialist_JR0019998-1) |
 
 ## About This Role
 
-This corporate finance position at BSI Group was posted on 2026-03-05.
+This corporate finance position at BSI Group was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

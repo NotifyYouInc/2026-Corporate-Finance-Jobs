@@ -5,12 +5,12 @@
 | Company | [Maine](https://scoutify.ai/companies/maine?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Augusta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Budget-Manager_R26-01547) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Budget-Manager_R26-02024) |
 
 ## About This Role
 
-This corporate finance position at Maine was posted on 2026-04-10.
+This corporate finance position at Maine was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

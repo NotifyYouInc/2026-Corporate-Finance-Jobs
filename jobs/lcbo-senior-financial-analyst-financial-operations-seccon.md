@@ -1,0 +1,22 @@
+# Senior Financial Analyst (Financial Operations) (SEC/CON) at Lcbo
+
+| Field | Details |
+|-------|---------|
+| Company | [Lcbo](https://scoutify.ai/companies/lcbo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://lcbo.wd3.myworkdayjobs.com/lcbocareersite/job/Toronto-Ontario/Senior-Financial-Analyst--Financial-Operations---SEC-CON-_JR26-28812) |
+
+## About This Role
+
+This corporate finance position at Lcbo was posted on 2026-05-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

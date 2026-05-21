@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Poland-Gdansk/Lead-Tax-Analyst_JREQ199783) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-So-Paulo-So-Paulo/Lead-Tax-Analyst_JREQ200657) |
 
 ## About This Role
 
-This corporate finance position at Thomson Reuters was posted on 2026-04-21.
+This corporate finance position at Thomson Reuters was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

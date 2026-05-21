@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ipoh, Perak, Malaysia |
+| Location | Kota Kinabalu, Sabah, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Ipoh-Main/Premier-Banking-Affluent-Client-Relationship-Management---MGR_JR00007506) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Kota-Kinabalu/Premier-Banking-Affluent-Client-Relationship-Management---MGR_JR00007879) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-04-29.
+This corporate finance position at OCBC was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

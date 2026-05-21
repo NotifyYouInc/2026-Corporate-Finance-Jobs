@@ -5,12 +5,12 @@
 | Company | [Kinder's](https://scoutify.ai/companies/kinders?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Walnut Creek, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/kinders/jobs/5181739008) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/kinders/jobs/5219767008) |
 
 ## About This Role
 
-This corporate finance position at Kinder's was posted on 2026-04-08.
+This corporate finance position at Kinder's was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

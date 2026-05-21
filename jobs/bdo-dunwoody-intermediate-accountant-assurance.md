@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saskatoon, Saskatchewan, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Saskatoon---2nd-Avenue-South/Intermediate-Accountant--Assurance_JR6096) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Intermediate-Accountant--Assurance_JR5782) |
 
 ## About This Role
 
-This corporate finance position at BDO Dunwoody was posted on 2026-04-02.
+This corporate finance position at BDO Dunwoody was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

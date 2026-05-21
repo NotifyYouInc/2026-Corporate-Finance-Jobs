@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/Credit-Officer--Global-Wealth---Investment-Management_26014880) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Credit-Officer--Global-Wealth---Investment-Management_26016842) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-24.
+This corporate finance position at Bank of America was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

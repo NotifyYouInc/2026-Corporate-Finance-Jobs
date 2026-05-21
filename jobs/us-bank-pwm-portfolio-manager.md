@@ -1,16 +1,16 @@
-# PWM - Portfolio Manager at U.S. Bank
+# PWM Portfolio Manager at U.S. Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Omaha, Nebraska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Woodland-Hills-CA/PWM---Portfolio-Manager_2026-0009724) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Omaha-NE/PWM-Portfolio-Manager_2026-0012854) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-17.
+This corporate finance position at U.S. Bank was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

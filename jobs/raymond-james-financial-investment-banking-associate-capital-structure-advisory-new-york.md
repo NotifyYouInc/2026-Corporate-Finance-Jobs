@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/New-York-New-York---United-States/Investment-Banking-Associate---Capital-Structure-Advisory--New-York-_R-0009793) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/New-York-New-York---United-States/Investment-Banking-Associate---Capital-Structure-Advisory--New-York-_R-0011165) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-03-02.
+This corporate finance position at Raymond James Financial was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

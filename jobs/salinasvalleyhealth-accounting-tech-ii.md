@@ -5,12 +5,12 @@
 | Company | [Salinasvalleyhealth](https://scoutify.ai/companies/salinasvalleyhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Salinas, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://salinasvalleyhealth.wd5.myworkdayjobs.com/salinasvalleyhealth/job/Salinas-CA/Accounting-Tech-II_SVH-103057) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://salinasvalleyhealth.wd5.myworkdayjobs.com/salinasvalleyhealth/job/Salinas-CA/Accounting-Tech-II_SVH-103105) |
 
 ## About This Role
 
-This corporate finance position at Salinasvalleyhealth was posted on 2026-05-06.
+This corporate finance position at Salinasvalleyhealth was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

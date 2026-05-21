@@ -5,12 +5,12 @@
 | Company | [CenturyTel of the Midwest-Kendall](https://scoutify.ai/companies/centurytelofthemidwestkendall?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Brightspeed/744000126156495-supervisor-accounts-payable) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Brightspeed/744000126387576-supervisor-accounts-payable) |
 
 ## About This Role
 
-This corporate finance position at CenturyTel of the Midwest-Kendall was posted on 2026-05-12.
+This corporate finance position at CenturyTel of the Midwest-Kendall was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

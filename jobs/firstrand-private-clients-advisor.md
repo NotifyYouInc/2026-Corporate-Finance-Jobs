@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Pretoria, Gauteng, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Private-Clients-Advisor_R47879) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Pretoria/Private-Clients-Advisor_R49788) |
 
 ## About This Role
 
-This corporate finance position at FirstRand was posted on 2026-03-20.
+This corporate finance position at FirstRand was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

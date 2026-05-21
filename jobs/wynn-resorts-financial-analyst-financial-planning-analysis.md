@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wynn Resorts](https://scoutify.ai/companies/wynnresorts?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Everett, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000111920056-financial-analyst-financial-planning-analysis) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000126395179-financial-analyst-financial-planning-analysis) |
 
 ## About This Role
 
-This corporate finance position at Wynn Resorts was posted on 2026-02-27.
+This corporate finance position at Wynn Resorts was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

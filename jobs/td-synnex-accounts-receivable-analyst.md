@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Accounts-Receivable-Analyst_R48297) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Petaling-Jaya-Malaysia/Accounts-Receivable-Analyst_R51154) |
 
 ## About This Role
 
-This corporate finance position at TD Synnex was posted on 2026-04-01.
+This corporate finance position at TD Synnex was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000120482847-medior-xpa-fpa-controller-system-integrator) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000126327900-medior-xpa-fpa-controller-system-integrator) |
 
 ## About This Role
 
-This corporate finance position at KPN was posted on 2026-04-13.
+This corporate finance position at KPN was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

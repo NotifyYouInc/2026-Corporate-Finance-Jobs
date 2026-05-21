@@ -5,12 +5,12 @@
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Austin-TX---South-Lamar/Private-Banking-Officer-II_R260558) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Austin-TX---Westlake-Hills/Private-Banking-Officer-II_R260828) |
 
 ## About This Role
 
-This corporate finance position at Frostbank was posted on 2026-04-03.
+This corporate finance position at Frostbank was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

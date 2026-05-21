@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Associate-2_R-788720) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Fund-Accounting--Associate-2_R-790237) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-27.
+This corporate finance position at State Street was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

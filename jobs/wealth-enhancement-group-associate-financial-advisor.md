@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Plymouth, Minnesota, United States |
+| Location | Itasca, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Plymouth-MN/Associate-Financial-Advisor_R-101789) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Itasca-IL/Associate-Financial-Advisor_R-102440) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-04-07.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

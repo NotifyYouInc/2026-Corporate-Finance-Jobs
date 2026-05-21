@@ -5,12 +5,12 @@
 | Company | [AlertMedia](https://scoutify.ai/companies/alertmedia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alertmedia/jobs/8531942002) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alertmedia/jobs/8548128002) |
 
 ## About This Role
 
-This corporate finance position at AlertMedia was posted on 2026-05-01.
+This corporate finance position at AlertMedia was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

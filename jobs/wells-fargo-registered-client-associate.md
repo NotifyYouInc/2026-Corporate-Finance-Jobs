@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Registered-Client-Associate_R-542512) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Registered-Client-Associate_R-544674) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-06.
+This corporate finance position at Wells Fargo was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

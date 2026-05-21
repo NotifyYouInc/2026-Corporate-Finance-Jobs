@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000116533237-investment-operations-associate-public-markets) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000126468639-investment-operations-associate-public-markets) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-03-25.
+This corporate finance position at IQ-EQ was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

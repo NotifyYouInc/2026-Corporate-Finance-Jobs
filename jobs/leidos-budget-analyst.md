@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maryland, US |
+| Location | Fort Worth, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Aberdeen-Proving-Ground-MD/Budget-Analyst_R-00175262) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Worth-TX/Budget-Analyst_R-00183202) |
 
 ## About This Role
 
-This corporate finance position at Leidos was posted on 2026-02-05.
+This corporate finance position at Leidos was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

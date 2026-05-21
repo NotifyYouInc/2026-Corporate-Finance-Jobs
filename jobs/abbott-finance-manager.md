@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Selangor, MY |
+| Location | Barceloneta, Barceloneta, Puerto Rico |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Malaysia--Selangor--Imazium-No-8-Jalan-SS-2137/Finance-Manager_31148591) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Puerto-Rico---Barceloneta/Finance-Manager_31150395) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-04-30.
+This corporate finance position at Abbott was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

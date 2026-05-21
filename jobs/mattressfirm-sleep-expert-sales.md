@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Leesburg, Virginia, United States |
+| Location | Portland, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Leesburg-Virginia/Sleep-Expert---Sales_JR-P0061908) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Portland-Oregon/Sleep-Expert---Sales_JR-P0061923) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-12.
+This corporate finance position at Mattressfirm was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

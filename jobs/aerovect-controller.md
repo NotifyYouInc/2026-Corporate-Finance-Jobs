@@ -5,12 +5,12 @@
 | Company | [Aerovect](https://scoutify.ai/companies/aerovect?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/aerovect/e05ee751-9e37-4e95-a014-7ae0a5f8a4b2) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aerovect/f53f0ae6-1b2b-49d2-90f5-6fbf72a1ba5b) |
 
 ## About This Role
 
-This corporate finance position at Aerovect was posted on 2026-05-06.
+This corporate finance position at Aerovect was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
