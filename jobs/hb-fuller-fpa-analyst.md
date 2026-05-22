@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H.B. Fuller](https://scoutify.ai/companies/hbfuller?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Porto, PT |
+| Location | Mindelo, Porto, Portugal |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Mindelo-Porto-Portugal/FP-A-Analyst_R26_0000000678) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Mindelo-Porto-Portugal/FP-A-Analyst_R26_0000001103) |
 
 ## About This Role
 
-This corporate finance position at H.B. Fuller was posted on 2026-03-13.
+This corporate finance position at H.B. Fuller was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

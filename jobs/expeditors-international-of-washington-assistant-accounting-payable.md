@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hanoi, Hanoi, Vietnam |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000111766665-assistant-accounting-payable) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000126621039-assistant-accounting-payable) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-02-27.
+This corporate finance position at Expeditors International of Washington was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

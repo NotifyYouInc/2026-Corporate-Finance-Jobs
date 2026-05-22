@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Schaumburg, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LOS-ANGELES-CA/Client-Associate_R-541228) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SCHAUMBURG-IL/Client-Associate_R-542622) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-07.
+This corporate finance position at Wells Fargo was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [PT SMART Tbk](https://scoutify.ai/companies/pt-smart-tbk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Indonesia |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/R2R-Transactional-Analyst_R-26000542) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/R2R-Transactional-Analyst_R-26000656) |
 
 ## About This Role
 
-This corporate finance position at PT SMART Tbk was posted on 2026-04-15.
+This corporate finance position at PT SMART Tbk was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

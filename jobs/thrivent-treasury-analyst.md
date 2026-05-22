@@ -5,12 +5,12 @@
 | Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Treasury-Analyst_REQ-46359-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota-Minneapolis-Metro/Treasury-Analyst_REQ-47002) |
 
 ## About This Role
 
-This corporate finance position at Thrivent was posted on 2026-03-19.
+This corporate finance position at Thrivent was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

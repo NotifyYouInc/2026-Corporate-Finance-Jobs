@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altruist](https://scoutify.ai/companies/altruist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://altruist.com/join-altruist/4964062004?gh_jid=4964062004) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://altruist.com/join-altruist/5825978004?gh_jid=5825978004) |
 
 ## About This Role
 
-This corporate finance position at Altruist was posted on 2026-05-13.
+This corporate finance position at Altruist was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

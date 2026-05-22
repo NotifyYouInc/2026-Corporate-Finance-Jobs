@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Actuarial-Associate_R260300256) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/Actuarial-Associate_R260400224-1) |
 
 ## About This Role
 
-This corporate finance position at TIAA was posted on 2026-03-13.
+This corporate finance position at TIAA was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

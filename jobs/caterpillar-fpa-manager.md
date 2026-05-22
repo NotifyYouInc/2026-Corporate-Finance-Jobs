@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/FP-A-Manager_R0000365405) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/FP-A-Manager_R0000370432) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-04-21.
+This corporate finance position at Caterpillar was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

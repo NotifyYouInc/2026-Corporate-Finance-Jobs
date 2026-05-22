@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Virginia, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/NC-Charlotte/Administrative-Assistant---Investment-Banking_R2026331-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/VA-Tysons-Corner/Administrative-Assistant---Investment-Banking_R2026595-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-04-24.
+This corporate finance position at Baird was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

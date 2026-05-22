@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Senior-Accountant_R0000364165) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Accountant_R0000369416) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-04-16.
+This corporate finance position at Caterpillar was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

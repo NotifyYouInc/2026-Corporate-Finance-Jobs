@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/Oracle-EPM-Analyst_R_348064) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Oracle-EPM-Analyst_R_350655) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-04-30.
+This corporate finance position at Marsh & McLennan Companies was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

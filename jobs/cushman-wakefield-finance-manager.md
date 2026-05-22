@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/AMD-India-Private-Limited/Finance-Manager_R308965) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Finance-Manager_R-SNOW001) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-03-10.
+This corporate finance position at Cushman & Wakefield was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

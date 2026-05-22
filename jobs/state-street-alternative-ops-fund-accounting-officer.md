@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Alternative-Ops-Fund-Accounting--Officer_R-784983-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Officer_R-790377) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-06.
+This corporate finance position at State Street was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

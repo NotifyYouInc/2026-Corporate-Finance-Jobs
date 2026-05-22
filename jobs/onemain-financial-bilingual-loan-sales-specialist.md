@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneMain Financial](https://scoutify.ai/companies/myhrhome?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Del Rio, Texas, United States |
+| Location | Brownsville, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Del-Rio-TX/Bilingual-Loan-Sales-Specialist_R2604-50616) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Brownsville-TX/Bilingual-Loan-Sales-Specialist_R2605-50853) |
 
 ## About This Role
 
-This corporate finance position at OneMain Financial was posted on 2026-05-01.
+This corporate finance position at OneMain Financial was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cleveland-Cliffs](https://scoutify.ai/companies/aksteel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cleveland, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://aksteel.wd1.myworkdayjobs.com/careers/job/Corporate-Headquarters/Tax-Analyst_R12087) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://aksteel.wd1.myworkdayjobs.com/careers/job/Corporate-Headquarters/Tax-Analyst_R12742) |
 
 ## About This Role
 
-This corporate finance position at Cleveland-Cliffs was posted on 2026-02-24.
+This corporate finance position at Cleveland-Cliffs was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

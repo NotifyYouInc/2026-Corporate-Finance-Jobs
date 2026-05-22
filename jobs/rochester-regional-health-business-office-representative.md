@@ -5,12 +5,12 @@
 | Company | [Rochester Regional Health](https://scoutify.ai/companies/rochester-regional-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rochester, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://rrhs.wd5.myworkdayjobs.com/rrh/job/Riedman-Campus/Business-Office-Representative_REQ_218048) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://rrhs.wd5.myworkdayjobs.com/rrh/job/Riedman-Campus/Business-Office-Representative_REQ_227072) |
 
 ## About This Role
 
-This corporate finance position at Rochester Regional Health was posted on 2026-02-20.
+This corporate finance position at Rochester Regional Health was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Diego, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Cost-Analyst_R0239125) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Cost-Analyst_R0240181) |
 
 ## About This Role
 
-This corporate finance position at Booz Allen was posted on 2026-05-13.
+This corporate finance position at Booz Allen was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

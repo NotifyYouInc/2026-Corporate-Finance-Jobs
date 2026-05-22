@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Director--Finance_R-2507087) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Maverick-Building-AR-Bentonville-Home-Office/XMLNAME--USA--Director--Finance_R-2482702-1) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-05-13.
+This corporate finance position at Walmart was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000115763267-senior-finance-manager-financial-planning-and-analysis) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126558369-senior-finance-manager-financial-planning-and-analysis) |
 
 ## About This Role
 
-This corporate finance position at Experian was posted on 2026-03-20.
+This corporate finance position at Experian was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

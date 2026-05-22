@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Xiamen, Fujian, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/FAO-R2R--Intra-Group-Intern_JR00030015-2) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/FAO-R2R--Intra-Group-Intern_JR00033372) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-04-02.
+This corporate finance position at ABB was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

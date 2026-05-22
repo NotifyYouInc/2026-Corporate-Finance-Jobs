@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uncommon Schools](https://scoutify.ai/companies/uncommon-schools?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/uncommonschools/744000121044937-senior-analyst-financial-planning-analysis) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/uncommonschools/744000126563329-senior-analyst-financial-planning-analysis) |
 
 ## About This Role
 
-This corporate finance position at Uncommon Schools was posted on 2026-04-15.
+This corporate finance position at Uncommon Schools was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

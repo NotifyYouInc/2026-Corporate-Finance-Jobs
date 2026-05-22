@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/Lead--Structured-Products_R260100243-2) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/Lead--Structured-Products_R260400542) |
 
 ## About This Role
 
-This corporate finance position at TIAA was posted on 2026-04-13.
+This corporate finance position at TIAA was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

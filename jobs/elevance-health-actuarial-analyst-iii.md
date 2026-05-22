@@ -5,12 +5,12 @@
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 6 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Actuarial-Analyst-III_JR185345) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Actuarial-Analyst-III_JR192223) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-03-06.
+This corporate finance position at Elevance Health was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

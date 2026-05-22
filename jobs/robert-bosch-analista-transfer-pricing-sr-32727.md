@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123786229-analista-transfer-pricing-sr-32727) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126568049-analista-transfer-pricing-sr-32727) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-04-29.
+This corporate finance position at Robert Bosch was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Envista](https://scoutify.ai/companies/envista?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brea, California, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Brea/Director--Finance---Global-Operations_R5026139) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Pomona/Director--Finance---Global-Operations_R5026292) |
 
 ## About This Role
 
-This corporate finance position at Envista was posted on 2026-04-22.
+This corporate finance position at Envista was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

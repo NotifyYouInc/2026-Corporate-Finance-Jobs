@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wilton, Connecticut, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000122333824-credit-risk-analyst) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000126564655-credit-risk-analyst) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-04-22.
+This corporate finance position at Louis Dreyfus was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

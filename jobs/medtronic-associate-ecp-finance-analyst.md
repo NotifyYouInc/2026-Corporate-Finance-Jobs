@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Associate-ECP-Finance-Analyst_R64438-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Associate-ECP-Finance-Analyst_R67125) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-04-16.
+This corporate finance position at Medtronic was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

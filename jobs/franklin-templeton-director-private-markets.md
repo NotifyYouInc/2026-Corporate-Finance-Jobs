@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Franklin Templeton](https://scoutify.ai/companies/franklintempleton?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Texas, US |
+| Location | Indiana, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Texas-United-States-of-America/Director--Private-Markets_866628) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Ohio-United-States-of-America/Director--Private-Markets_866625) |
 
 ## About This Role
 
-This corporate finance position at Franklin Templeton was posted on 2026-04-21.
+This corporate finance position at Franklin Templeton was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000114702411-tax-manager) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126596369-tax-manager) |
 
 ## About This Role
 
-This corporate finance position at Syngenta was posted on 2026-03-13.
+This corporate finance position at Syngenta was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

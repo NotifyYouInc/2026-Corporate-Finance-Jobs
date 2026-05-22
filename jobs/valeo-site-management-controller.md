@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bekasi, West Java, Indonesia |
+| Location | Smyrna, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bekasi/Site-Management-Controller_REQ2026070342-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Smyrna-TN/Site-Management-Controller_REQ2026074818-1) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-02-17.
+This corporate finance position at Valeo was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
