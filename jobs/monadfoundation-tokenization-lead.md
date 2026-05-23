@@ -1,0 +1,22 @@
+# Tokenization Lead at Monad.foundation
+
+| Field | Details |
+|-------|---------|
+| Company | [Monad.foundation](https://scoutify.ai/companies/monadfoundation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
+| Category | Corporate Finance |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/monad.foundation/1c0abfd1-bea2-47a5-b459-dfa7c3261687) |
+
+## About This Role
+
+This corporate finance position at Monad.foundation was posted on 2026-05-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

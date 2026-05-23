@@ -5,12 +5,12 @@
 | Company | [Inmar Intelligence](https://scoutify.ai/companies/inmar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Warehouse-Monterrey-Mexico/Billing-Specialist_JY2627292) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Warehouse-Monterrey-Mexico/Billing-Specialist_JY2627291) |
 
 ## About This Role
 
-This corporate finance position at Inmar Intelligence was posted on 2026-05-01.
+This corporate finance position at Inmar Intelligence was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

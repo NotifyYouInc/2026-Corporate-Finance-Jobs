@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | El Segundo, California, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---CA-El-Segundo/Cash-Poster---Payment-Posting---Healthcare-Claims_37184) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38107) |
 
 ## About This Role
 
-This corporate finance position at Guidehouse was posted on 2026-03-09.
+This corporate finance position at Guidehouse was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Delray Beach, Florida, United States |
+| Location | Rockaway, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Delray-Beach-33484/Financial-Advisor---PNC-Wealth-Management_R222073-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NJ---Rockaway/Financial-Advisor---PNC-Wealth-Management_R223094-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-05-07.
+This corporate finance position at PNC Financial was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116664228-commissions-senior-analyst) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126733877-commissions-senior-analyst) |
 
 ## About This Role
 
-This corporate finance position at Experian was posted on 2026-03-25.
+This corporate finance position at Experian was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

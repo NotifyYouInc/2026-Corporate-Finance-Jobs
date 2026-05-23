@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109772809-senior-tax-analyst) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000126762877-senior-tax-analyst) |
 
 ## About This Role
 
-This corporate finance position at Western Digital was posted on 2026-02-17.
+This corporate finance position at Western Digital was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

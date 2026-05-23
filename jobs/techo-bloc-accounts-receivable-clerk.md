@@ -5,12 +5,12 @@
 | Company | [Techo-Bloc](https://scoutify.ai/companies/techobloc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saint-Hubert, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000122679719-accounts-receivable-clerk) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000126759754-accounts-receivable-clerk) |
 
 ## About This Role
 
-This corporate finance position at Techo-Bloc was posted on 2026-04-24.
+This corporate finance position at Techo-Bloc was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

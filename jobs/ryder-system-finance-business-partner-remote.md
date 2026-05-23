@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Coral Gables, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Miami-FL-33178/Finance-Business-Partner---REMOTE_R166526-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Coral-Gables-FL-33134/Finance-Business-Partner---REMOTE_R172574) |
 
 ## About This Role
 
-This corporate finance position at Ryder System was posted on 2026-03-12.
+This corporate finance position at Ryder System was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

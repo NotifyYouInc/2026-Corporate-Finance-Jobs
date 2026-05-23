@@ -1,16 +1,16 @@
-# Wealth Management Advisor at Desjardins
+# Wealth management advisor at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Laval, Quebec, Canada |
+| Location | Sherbrooke, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Laval/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2606632-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Caisse-Desjardins-des-Deux-Rivires-de-Sherbrooke/Conseille-ou-conseillre--Gestion-de-patrimoine_R2606822) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-05-13.
+This corporate finance position at Desjardins was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Fund-Accountant--AIS-Private-Equity---Real-Assets--Associate-1_R-789302-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Fund-Accountant--AIS-Private-Equity---Real-Assets--Associate-1_R-790589-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-13.
+This corporate finance position at State Street was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

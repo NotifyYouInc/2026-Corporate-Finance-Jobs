@@ -5,12 +5,12 @@
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Col. Bosques de las Lomas, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Col-Bosques-de-las-Lomas-Mexico/Tax-Specialist_R-1179124-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Col-Bosques-de-las-Lomas-Mexico/Tax-Specialist_R-1181159) |
 
 ## About This Role
 
-This corporate finance position at Unilever was posted on 2026-04-22.
+This corporate finance position at Unilever was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brea-CA/Credit-Analyst_2026-0007788) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Gresham-OR/Credit-Analyst_2026-0009737-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-15.
+This corporate finance position at U.S. Bank was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

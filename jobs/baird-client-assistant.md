@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Appleton, Wisconsin, United States |
+| Location | Miamisburg, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Appleton/Client-Assistant_R2026475-2) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Miamisburg/Client-Assistant_R2026599-2) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-04-15.
+This corporate finance position at Baird was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

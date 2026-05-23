@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Red Deer, Alberta, Canada |
+| Location | Richmond Hill, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RED-DEER-Alberta-Canada/Associate_R-0000172226-2) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-HILL-Ontario-Canada/Associate_R-0000172539-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-14.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Schaumburg, Illinois, United States |
+| Location | Wayne, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SCHAUMBURG-IL/Client-Associate_R-542622) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WAYNE-PA/Client-Associate_R-532644) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-14.
+This corporate finance position at Wells Fargo was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

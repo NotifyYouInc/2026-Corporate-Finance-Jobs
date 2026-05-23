@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Santa Catarina, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3149-388-Haihuan-Road-Baoshan-Shanghai-China/Spclst--FP-A_30202675) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5001-Carrier---Plant-A-Galeana-469-Ote-Santa-Catarina-66350-Mexico/Spclst--FP-A_30204640) |
 
 ## About This Role
 
-This corporate finance position at Carrier Global was posted on 2026-03-26.
+This corporate finance position at Carrier Global was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

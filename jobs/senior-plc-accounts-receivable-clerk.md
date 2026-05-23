@@ -5,12 +5,12 @@
 | Company | [Senior plc](https://scoutify.ai/companies/seniorplc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Oceanside, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorPlc1/3743990013135636-accounts-receivable-clerk) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorPlc1/3743990013163626-accounts-receivable-clerk) |
 
 ## About This Role
 
-This corporate finance position at Senior plc was posted on 2026-05-14.
+This corporate finance position at Senior plc was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

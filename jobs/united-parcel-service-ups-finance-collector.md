@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---PUNE-III-GLOBAL-BUSINESS-SVCS---GBS-INMHH/Finance-Collector_R26010654) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---PUNE-III-GLOBAL-BUSINESS-SVCS---GBS-INMHH/Finance-Collector_R26015840) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-04-07.
+This corporate finance position at United Parcel Service (UPS) was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sleep Expert- Sales at Mattressfirm
+# Sleep Expert - Sales at Mattressfirm
 
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Concord, California, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Concord-North-Carolina/Sleep-Expert--Sales_JR-P0061941) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Paramus-New-Jersey/Sleep-Expert---Sales_JR-P0061953) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-14.
+This corporate finance position at Mattressfirm was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

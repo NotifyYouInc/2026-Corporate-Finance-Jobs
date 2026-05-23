@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.lever.co/distro/5193b924-b9b0-42d9-a8d5-b7459cd5d21e) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.lever.co/distro/490cffac-38eb-4e87-82d0-362f87aeea43) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-04-24.
+This corporate finance position at Distro was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

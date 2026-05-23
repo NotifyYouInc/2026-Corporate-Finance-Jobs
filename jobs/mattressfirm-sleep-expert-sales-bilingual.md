@@ -1,16 +1,16 @@
-# Sleep Expert - Sales (Bilingual) at Mattressfirm
+# Sleep Expert- Sales (Bilingual) at Mattressfirm
 
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Northlake, Illinois, United States |
+| Location | North Charleston, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Northlake-Illinois/Sleep-Expert---Sales_JR-P0061870) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/North-Charleston-South-Carolina/Sleep-Expert--Sales--Bilingual-_JR-P0061956) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-08.
+This corporate finance position at Mattressfirm was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

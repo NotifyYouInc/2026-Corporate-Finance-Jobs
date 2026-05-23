@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsylvania, US |
+| Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Dubois-Pennsylvania/Sr-Financial-Analyst_R46475) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Charlotte-North-Carolina/Sr-Financial-Analyst_R48340) |
 
 ## About This Role
 
-This corporate finance position at Xylem was posted on 2026-02-10.
+This corporate finance position at Xylem was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

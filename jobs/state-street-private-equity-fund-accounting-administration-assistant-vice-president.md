@@ -1,16 +1,16 @@
-# Private Equity Fund Accounting & Administration, Assistant Vice President at State Street
+# Private Equity, Fund Accounting & Administration, Assistant Vice President at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Princeton, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/KANSAS-CITY/Private-Equity-Fund-Accounting---Administration--Assistant-Vice-President_R-781204-4) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Private-Equity--Fund-Accounting---Administration--Assistant-Vice-President_R-790580) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-05.
+This corporate finance position at State Street was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

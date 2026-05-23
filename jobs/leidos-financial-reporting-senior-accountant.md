@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Reston, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Financial-Reporting-Senior-Accountant_R-00175589) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Financial-Reporting-Senior-Accountant_R-00183416) |
 
 ## About This Role
 
-This corporate finance position at Leidos was posted on 2026-02-10.
+This corporate finance position at Leidos was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

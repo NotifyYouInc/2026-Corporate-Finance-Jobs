@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Connecticut, US |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000126119862-senior-accounting-manager-cpa-and-big-4-experience) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000126719172-senior-accounting-manager-cpa-and-big-4-experience) |
 
 ## About This Role
 
-This corporate finance position at VTekis Consulting LLP was posted on 2026-05-12.
+This corporate finance position at VTekis Consulting LLP was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

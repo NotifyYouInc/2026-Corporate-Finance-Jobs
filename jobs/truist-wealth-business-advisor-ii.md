@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Winter Park, Florida, United States |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Winter-Park-FL/Wealth-Business-Advisor-II_R0111652) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Miami-FL/Wealth-Business-Advisor-II_R0114683) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-02-24.
+This corporate finance position at Truist was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

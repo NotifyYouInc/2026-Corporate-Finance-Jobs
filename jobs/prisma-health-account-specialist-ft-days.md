@@ -1,16 +1,16 @@
-# Account Specialist, FT Days at Prisma Health
+# Account Specialist, FT, Days at Prisma Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Prisma Health](https://scoutify.ai/companies/prisma-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Greenville, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://prismahealth.wd5.myworkdayjobs.com/prismahealthcorporate/job/Greenville-SC/Account-Specialist--FT-Days_R1134461) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://prismahealth.wd5.myworkdayjobs.com/prismahealthcorporate/job/Greenville-SC/Account-Specialist--FT--Days_R1138901) |
 
 ## About This Role
 
-This corporate finance position at Prisma Health was posted on 2026-03-06.
+This corporate finance position at Prisma Health was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Loews Hotels](https://scoutify.ai/companies/loews-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://loewshotels.wd5.myworkdayjobs.com/loewshotels/job/TN---Nashville---Loews-Financial-Service-Center/Accountant_R0083094) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://loewshotels.wd5.myworkdayjobs.com/loewshotels/job/CA---Los-Angeles---Loews-Hollywood-Hotel/Accountant_R0084918) |
 
 ## About This Role
 
-This corporate finance position at Loews Hotels was posted on 2026-03-18.
+This corporate finance position at Loews Hotels was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

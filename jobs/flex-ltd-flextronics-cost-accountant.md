@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Shenzhen/Cost-Accountant_WD215082-1) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Cost-Accountant_WD220826) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-02-05.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Bookkeeper at Distro
+# BOOKKEEPER at Distro
 
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Medellín, Antioquia, Colombia |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.lever.co/distro/43938de0-2461-4fda-adb3-39fbc34f3d99) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.lever.co/distro/9ffa2f79-d682-44bd-8776-13127ab556c5) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-04-23.
+This corporate finance position at Distro was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

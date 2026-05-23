@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mat Industries](https://scoutify.ai/companies/matindustries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
+| Location | Long Grove, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MATHoldings/744000117062622-accounting-intern) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MATHoldings/744000126719631-accounting-intern) |
 
 ## About This Role
 
-This corporate finance position at Mat Industries was posted on 2026-03-26.
+This corporate finance position at Mat Industries was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
