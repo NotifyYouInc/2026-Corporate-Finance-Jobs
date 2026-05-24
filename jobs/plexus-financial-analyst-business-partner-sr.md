@@ -5,12 +5,12 @@
 | Company | [Plexus](https://scoutify.ai/companies/plexus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Neenah, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Financial-Analyst-Business-Partner-Sr_R038503) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Financial-Analyst-Business-Partner-Sr_R038534) |
 
 ## About This Role
 
-This corporate finance position at Plexus was posted on 2026-05-14.
+This corporate finance position at Plexus was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

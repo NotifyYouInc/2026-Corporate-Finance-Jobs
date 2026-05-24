@@ -1,16 +1,16 @@
-# Finance Manager at ACCOR
+# Special Assets Analyst at Live Oak Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Delhi, Delhi, India |
+| Company | [Live Oak Bank](https://scoutify.ai/companies/liveoakbancshares?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Wilmington, North Carolina, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000126809009-finance-manager) |
+| Apply | [View on company site](https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Special-Assets-Analyst_R-002525) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-16.
+This corporate finance position at Live Oak Bank was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

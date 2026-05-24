@@ -1,16 +1,16 @@
-# Financial Analyst 3 at Adobe
+# Analyst at Arcana Analytics
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Arcana Analytics](https://scoutify.ai/companies/arcana-analytics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Financial-Analyst-3_R168660-1) |
+| Posted | 2025-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/arcanaanalytics/jobs/4005332009) |
 
 ## About This Role
 
-This corporate finance position at Adobe was posted on 2026-05-17.
+This corporate finance position at Arcana Analytics was posted on 2025-06-16.
 
 ## Get Real-Time Alerts
 

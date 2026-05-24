@@ -1,16 +1,16 @@
-# Finance Manager at ACCOR
+# IBD - Healthcare - VP at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Delhi, Delhi, India |
+| Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000126809009-finance-manager) |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/IBD---Healthcare---VP_JR033437) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-16.
+This corporate finance position at Morgan Stanley was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

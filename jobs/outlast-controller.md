@@ -1,16 +1,16 @@
-# Financial Analyst 3 at Adobe
+# Controller at Outlast
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Outlast](https://scoutify.ai/companies/outlast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Financial-Analyst-3_R168660-1) |
+| Posted | 2026-01-14 |
+| Apply | [View on company site](https://jobs.lever.co/outlast/972f85d8-20d2-462d-ae41-f91f13fb7730) |
 
 ## About This Role
 
-This corporate finance position at Adobe was posted on 2026-05-17.
+This corporate finance position at Outlast was posted on 2026-01-14.
 
 ## Get Real-Time Alerts
 

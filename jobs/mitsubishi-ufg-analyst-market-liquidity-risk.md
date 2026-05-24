@@ -1,16 +1,16 @@
-# Financial Analyst 3 at Adobe
+# Analyst- Market & Liquidity Risk at Mitsubishi UFG
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Financial-Analyst-3_R168660-1) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Analyst--Market---Liquidity-Risk_10076462-WD-1) |
 
 ## About This Role
 
-This corporate finance position at Adobe was posted on 2026-05-17.
+This corporate finance position at Mitsubishi UFG was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

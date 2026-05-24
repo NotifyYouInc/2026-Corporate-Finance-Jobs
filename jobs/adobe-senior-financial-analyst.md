@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Jose, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Financial-Analyst_R165456) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Financial-Analyst_R168617-1) |
 
 ## About This Role
 
-This corporate finance position at Adobe was posted on 2026-02-23.
+This corporate finance position at Adobe was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

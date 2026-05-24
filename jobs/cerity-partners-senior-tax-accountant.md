@@ -1,16 +1,16 @@
-# Finance Manager at ACCOR
+# Senior Tax Accountant at Cerity Partners
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Delhi, Delhi, India |
+| Company | [Cerity Partners](https://scoutify.ai/companies/ceritypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Encino, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000126809009-finance-manager) |
+| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Encino-CA/Senior-Tax-Accountant_R666) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-16.
+This corporate finance position at Cerity Partners was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 
