@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Senior-Executive--Financial-Accounting-and-Control_R0118884-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Senior-Executive--Financial-Accounting-and-Control_R0119564-1) |
 
 ## About This Role
 
-This corporate finance position at LSEG was posted on 2026-04-16.
+This corporate finance position at LSEG was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

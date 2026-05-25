@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000122168637-apskaitos-eksperte-as) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000126906989-apskaitos-eksperte-as) |
 
 ## About This Role
 
-This corporate finance position at Ignitis Grupe was posted on 2026-04-22.
+This corporate finance position at Ignitis Grupe was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

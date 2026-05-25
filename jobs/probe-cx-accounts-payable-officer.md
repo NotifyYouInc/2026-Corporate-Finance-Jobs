@@ -5,12 +5,12 @@
 | Company | [Probe CX](https://scoutify.ai/companies/probe-cx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://probegroup.wd3.myworkdayjobs.com/careers/job/Quezon-City-MNL-Philippines/Accounts-Payable-Officer_JR13718) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://probegroup.wd3.myworkdayjobs.com/careers/job/Quezon-City-MNL-Philippines/Accounts-Payable-Officer_JR13664-1) |
 
 ## About This Role
 
-This corporate finance position at Probe CX was posted on 2026-05-11.
+This corporate finance position at Probe CX was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

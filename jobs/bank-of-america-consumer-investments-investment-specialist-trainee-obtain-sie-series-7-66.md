@@ -1,16 +1,16 @@
-# Consumer Investments - Investment Specialist Trainee (Obtain SIE Series 7 66) at Bank of America
+# Consumer Investments - Investment Specialist Trainee (Obtain SIE Series 7 & 66) at Bank of America
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Jersey, US |
+| Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Consumer-Investments---Investment-Specialist-Trainee--Obtain-SIE-Series-7-66-_26013120-1) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Consumer-Investments---Investment-Specialist-Trainee--Obtain-SIE-Series-7---66-_26017165-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-09.
+This corporate finance position at Bank of America was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

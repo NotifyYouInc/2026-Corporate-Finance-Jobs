@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Paramus-New-Jersey/Sleep-Expert---Sales_JR-P0061953) |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Verona-New-Jersey/Sleep-Expert---Sales_JR-P0061959) |
 
 ## About This Role
 

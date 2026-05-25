@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Canada |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Technicien-ou-technicienne--Transactions-comptables-et-financires_R2605362) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Technicien-ou-technicienne--Syndication-bancaire_R2606516-1) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-04-17.
+This corporate finance position at Desjardins was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

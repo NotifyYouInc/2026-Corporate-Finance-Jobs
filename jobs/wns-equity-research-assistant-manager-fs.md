@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000118857488-equity-research-assistant-manager-fs) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126860909-equity-research-assistant-manager-fs) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-04-06.
+This corporate finance position at WNS was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

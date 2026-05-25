@@ -1,16 +1,16 @@
-# Analyst-Middle Office at Apex Fund Services
+# Analyst - Middle Office at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Analyst-Middle-Office_JR-0022887) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Analyst---Middle-Office_JR-0023226) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-04-29.
+This corporate finance position at Apex Fund Services was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

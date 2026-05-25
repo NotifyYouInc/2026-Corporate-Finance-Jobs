@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lafayette, Louisiana, United States |
+| Location | Wuxi, Jiangsu, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Accountant_R0000368260) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Accountant_R0000369809) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-05-12.
+This corporate finance position at Caterpillar was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

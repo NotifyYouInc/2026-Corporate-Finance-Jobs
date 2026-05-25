@@ -5,12 +5,12 @@
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-Overland-Park-KS-11880-College-Blvd-Suite-200/Billing-Analyst_R0033502) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-Overland-Park-KS-11880-College-Blvd-Suite-200/Billing-Analyst_R0034234) |
 
 ## About This Role
 
-This corporate finance position at Epiqsystems was posted on 2026-02-25.
+This corporate finance position at Epiqsystems was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

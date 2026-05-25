@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000126629015-ojt-for-finance-procurement-admin) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000126848479-ojt-for-finance-procurement-admin) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-05-15.
+This corporate finance position at SGS was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

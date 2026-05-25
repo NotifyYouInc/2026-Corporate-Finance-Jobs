@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Washington-District-of-Columbia-USA/Financial-Analyst_R301608) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Sydney/Financial-Analyst_R319619) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-02-03.
+This corporate finance position at Cushman & Wakefield was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

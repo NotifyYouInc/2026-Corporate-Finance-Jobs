@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Southampton, Massachusetts, United States |
+| Location | North Bethesda, Maryland, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Southampton/Wealth-Management-Client-Associate_26017087) |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/North-Bethesda/Wealth-Management-Client-Associate_26017076) |
 
 ## About This Role
 

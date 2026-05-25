@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | France |
+| Location | Crissey, Bourgogne, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000115706647-chargee-administration-de-vente-et-recouvrement-cdd) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126855699-chargee-administration-de-vente-et-recouvrement-cdd) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-03-19.
+This corporate finance position at Veolia was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | China |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Senior-Financial-Analyst_R-01347800) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Guangdong-China/Senior-Financial-Analyst_R-01353638) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-04-15.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

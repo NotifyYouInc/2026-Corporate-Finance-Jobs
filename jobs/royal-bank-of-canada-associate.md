@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Richmond Hill, Ontario, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-HILL-Ontario-Canada/Associate_R-0000172539-1) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate_R-0000172896-1) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Finance Manager  at Turner & Townsend
+# Finance Manager at Turner & Townsend
 
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000117658897-finance-manager) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000126905058-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at Turner & Townsend was posted on 2026-03-30.
+This corporate finance position at Turner & Townsend was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

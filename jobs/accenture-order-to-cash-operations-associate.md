@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Order-to-Cash-Operations-Associate_AIOC-S01645752-1) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Order-to-Cash-Operations-Associate_AIOC-S01645834-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-15.
+This corporate finance position at Accenture was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

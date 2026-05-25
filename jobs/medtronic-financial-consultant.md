@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Financial-Consultant_R64592-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Shanghai-Shanghai-China/Financial-Consultant_R66624) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-04-17.
+This corporate finance position at Medtronic was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

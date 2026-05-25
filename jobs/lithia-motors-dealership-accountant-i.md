@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Pennsylvania, US |
 | Category | Corporate Finance |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Dallas-APC-Dallas-TX-75228/Dealership-Accountant-I_R108942-1) |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Pittsburgh-APC-Wexford-PA-15090/Dealership-Accountant-I_R108272-1) |
 
 ## About This Role
 

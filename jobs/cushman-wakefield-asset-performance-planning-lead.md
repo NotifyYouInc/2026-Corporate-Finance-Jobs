@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Sydney/Asset-Performance---Planning-Lead_R320017) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Sydney/Asset-Performance---Planning-Lead_R320014) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-05-13.
+This corporate finance position at Cushman & Wakefield was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

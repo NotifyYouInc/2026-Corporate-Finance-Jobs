@@ -1,16 +1,16 @@
-# Controllership Senior Analyst, Revenue Recognition at JLL
+# Controllership Senior Analyst - Revenue Recognition at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Controllership-Senior-Analyst--Revenue-Recognition_REQ498348) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Controllership-Senior-Analyst---Revenue-Recognition_REQ506063-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-04-20.
+This corporate finance position at JLL was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

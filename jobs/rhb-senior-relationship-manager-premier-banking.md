@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Kuala-Lumpur/Senior-Relationship-Manager--Premier-Banking_JR005342) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Sarawak/Senior-Relationship-Manager--Premier-Banking_JR006104) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-03-17.
+This corporate finance position at RHB was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 
