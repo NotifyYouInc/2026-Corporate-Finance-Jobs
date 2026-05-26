@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Houston-TX-USA/Senior-Financial-Analyst_JR-89901) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Miami-FL-USA/Senior-Financial-Analyst_JR-90191) |
 
 ## About This Role
 
-This corporate finance position at Live Nation was posted on 2026-04-29.
+This corporate finance position at Live Nation was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

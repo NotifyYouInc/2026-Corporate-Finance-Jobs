@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Analista-de-Gestin-de-Balances_26961960) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Analista-de-Gestin-de-Balances_26963518) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-07.
+This corporate finance position at Citigroup was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

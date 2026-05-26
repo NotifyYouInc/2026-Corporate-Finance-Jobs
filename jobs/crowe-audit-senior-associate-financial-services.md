@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Lauderdale, Florida, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Fort-Lauderdale-FL-USA/Audit-Senior-Associate---Financial-Services_R-51049) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Columbus-OH-USA/Audit-Senior-Associate---Financial-Services_R-51280-1) |
 
 ## About This Role
 
-This corporate finance position at Crowe was posted on 2026-04-21.
+This corporate finance position at Crowe was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

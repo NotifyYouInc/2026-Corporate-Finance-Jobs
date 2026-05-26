@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst_26963267) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst_26963246) |
 
 ## About This Role
 

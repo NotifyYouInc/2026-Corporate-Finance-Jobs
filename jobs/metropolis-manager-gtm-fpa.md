@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Metropolis](https://scoutify.ai/companies/metropolis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/metropolis/jobs/7722452003) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/metropolis/jobs/7722449003) |
 
 ## About This Role
 
-This corporate finance position at Metropolis was posted on 2026-05-01.
+This corporate finance position at Metropolis was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Erbil, Erbil, Iraq |
+| Location | Egypt |
 | Category | Corporate Finance |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000120257847-sr-manager-finance) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127130519-sr-manager-finance) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-04-12.
+This corporate finance position at Delivery Hero was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

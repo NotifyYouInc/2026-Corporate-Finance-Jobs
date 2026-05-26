@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KPMG Australia](https://scoutify.ai/companies/kpmg-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Adelaide, South Australia, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001009646-assistant-manager-audit-assurance-mmp) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001083516-assistant-manager-audit-assurance-mmp) |
 
 ## About This Role
 
-This corporate finance position at KPMG Australia was posted on 2026-04-20.
+This corporate finance position at KPMG Australia was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

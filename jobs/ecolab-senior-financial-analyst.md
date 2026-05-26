@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
+| Location | Saint Paul, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/MEX---Estado-de-Mexico---Santa-Fe/Senior-Financial-Analyst_R00288320-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Senior-Financial-Analyst_R00294128) |
 
 ## About This Role
 
-This corporate finance position at Ecolab was posted on 2026-03-31.
+This corporate finance position at Ecolab was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

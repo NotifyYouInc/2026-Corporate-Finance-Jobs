@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Decision-Support-Sr-Analyst_R108668) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Decision-Support-Sr-Analyst_R112595-2) |
 
 ## About This Role
 
-This corporate finance position at LexisNexis Risk Solutions was posted on 2026-02-18.
+This corporate finance position at LexisNexis Risk Solutions was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

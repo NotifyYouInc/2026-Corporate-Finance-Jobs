@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Bethesda, Maryland, United States |
+| Location | Gainesville, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/North-Bethesda/Wealth-Management-Client-Associate_26017076) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Gainesville/Wealth-Management-Client-Associate_26017299) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-05-15.
+This corporate finance position at Bank of America was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

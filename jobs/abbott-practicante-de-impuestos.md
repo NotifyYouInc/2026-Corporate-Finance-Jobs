@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Peru---Lima/PRACTICANTE-DE-IMPUESTOS_31148232) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Peru---Lima/PRACTICANTE-DE-IMPUESTOS_31150818) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-04-21.
+This corporate finance position at Abbott was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

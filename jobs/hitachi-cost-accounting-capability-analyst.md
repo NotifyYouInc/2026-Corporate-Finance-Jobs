@@ -1,16 +1,16 @@
-# Cost Accounting Capability- Analyst at Hitachi
+# Cost Accounting Capability  -Analyst at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/Cost-Accounting-Capability--Analyst_R0099438-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/Cost-Accounting-Capability---Analyst_R0130817) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-03-11.
+This corporate finance position at Hitachi was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

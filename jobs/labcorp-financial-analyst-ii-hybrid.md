@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Burlington-NC/Financial-Analyst-II---Hybrid_268436) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Burlington-NC/Financial-Analyst_2616220) |
 
 ## About This Role
 
-This corporate finance position at Labcorp was posted on 2026-05-15.
+This corporate finance position at Labcorp was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

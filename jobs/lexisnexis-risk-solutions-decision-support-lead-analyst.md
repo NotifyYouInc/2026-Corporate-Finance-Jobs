@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ohio, US |
+| Location | Dayton, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Ohio/Decision-Support-Lead-Analyst_R107986) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Decision-Support-Lead-Analyst_R113775) |
 
 ## About This Role
 
-This corporate finance position at LexisNexis Risk Solutions was posted on 2026-04-10.
+This corporate finance position at LexisNexis Risk Solutions was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

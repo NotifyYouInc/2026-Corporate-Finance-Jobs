@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Pullman, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Spain---Madrid/Accountant_2026-20949) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Accountant_2026-20417) |
 
 ## About This Role
 
-This corporate finance position at Schweitzer Engineering Laboratories was posted on 2026-04-19.
+This corporate finance position at Schweitzer Engineering Laboratories was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

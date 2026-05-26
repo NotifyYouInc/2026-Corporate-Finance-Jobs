@@ -5,12 +5,12 @@
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Manager--Financial-Audit_R-139393) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Manager--Financial-Audit_R-139420) |
 
 ## About This Role
 
-This corporate finance position at Coca-Cola was posted on 2026-04-15.
+This corporate finance position at Coca-Cola was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

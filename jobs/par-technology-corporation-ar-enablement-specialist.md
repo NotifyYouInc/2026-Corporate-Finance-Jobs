@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PAR Technology Corporation](https://scoutify.ai/companies/par-technology-corporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jaipur, Rajasthan, India |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/par%20technology/2657ec18-ceeb-4c4c-8f71-3cdf2b7376ed) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/par%20technology/3a039979-8947-4e3d-bc6f-8c7eb919367a) |
 
 ## About This Role
 
-This corporate finance position at PAR Technology Corporation was posted on 2026-02-20.
+This corporate finance position at PAR Technology Corporation was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

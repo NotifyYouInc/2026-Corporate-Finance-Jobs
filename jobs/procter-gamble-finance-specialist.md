@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Cairo/Finance-Specialist_R000151066) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/DUBAI-GENERAL-OFFICE/Finance-Specialist_R000150833) |
 
 ## About This Role
 
-This corporate finance position at Procter & Gamble was posted on 2026-05-08.
+This corporate finance position at Procter & Gamble was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

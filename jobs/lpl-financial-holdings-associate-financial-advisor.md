@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shelby, Michigan, United States |
+| Location | Spokane, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Shelby-MI/Associate-Financial-Advisor_R-049091) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Spokane-WA---Field-Mgmt/Associate-Financial-Advisor_R-050630) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-03-10.
+This corporate finance position at LPL Financial Holdings was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

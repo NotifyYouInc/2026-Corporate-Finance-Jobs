@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NV-Las-Vegas/Payroll-Manager_R0155058) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NV-Las-Vegas/Payroll-Manager_R0161582) |
 
 ## About This Role
 
-This corporate finance position at Amentum was posted on 2026-02-25.
+This corporate finance position at Amentum was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

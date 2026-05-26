@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Huber Heights, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Verona-New-Jersey/Sleep-Expert---Sales_JR-P0061959) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Huber-Heights-Ohio/Sleep-Expert---Sales_JR-P0061971) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-15.
+This corporate finance position at Mattressfirm was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

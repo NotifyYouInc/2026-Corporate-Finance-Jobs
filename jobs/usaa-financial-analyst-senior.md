@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Financial-Analyst-Senior_R0116251) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Financial-Analyst-Senior_R0117553) |
 
 ## About This Role
 
-This corporate finance position at USAA was posted on 2026-03-13.
+This corporate finance position at USAA was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

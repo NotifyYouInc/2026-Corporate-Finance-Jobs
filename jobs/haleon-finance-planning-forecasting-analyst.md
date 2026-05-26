@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Malaysia---Petaling-Jaya/Finance-Planning---Forecasting-Analyst_543143-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Malaysia---Petaling-Jaya/Finance-Planning---Forecasting-Analyst_543321) |
 
 ## About This Role
 
-This corporate finance position at Haleon was posted on 2026-05-07.
+This corporate finance position at Haleon was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

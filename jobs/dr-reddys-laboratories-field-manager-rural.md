@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kokrajhar, Assam, India |
+| Location | Dorāha, Punjab, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000115125482-field-manager-rural) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000127127929-field-manager-rural) |
 
 ## About This Role
 
-This corporate finance position at Dr. Reddy's Laboratories was posted on 2026-03-17.
+This corporate finance position at Dr. Reddy's Laboratories was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

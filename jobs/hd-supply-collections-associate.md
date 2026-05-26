@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Santee, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/FL318---Jacksonville-FL/Collections-Associate_R26002634) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Santee-CA-US/Collections-Associate_R26002693) |
 
 ## About This Role
 
-This corporate finance position at HD Supply was posted on 2026-05-14.
+This corporate finance position at HD Supply was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

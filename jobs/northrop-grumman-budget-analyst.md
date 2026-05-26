@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Northridge, California, United States |
+| Location | West Virginia, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Budget-Analyst_R10226369-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Budget-Analyst_R10233300) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-03-19.
+This corporate finance position at Northrop Grumman was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

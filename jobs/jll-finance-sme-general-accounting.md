@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME---General-Accounting_REQ505811) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME---General-Accounting_REQ508012) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-08.
+This corporate finance position at JLL was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

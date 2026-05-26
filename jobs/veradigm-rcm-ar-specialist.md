@@ -5,12 +5,12 @@
 | Company | [Veradigm](https://scoutify.ai/companies/veradigm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://veradigm.wd12.myworkdayjobs.com/vr/job/Pune-India/RCM-AR-Specialist_JR10555) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://veradigm.wd12.myworkdayjobs.com/vr/job/Pune-India/RCM-AR-Specialist_JR10556) |
 
 ## About This Role
 
-This corporate finance position at Veradigm was posted on 2026-05-07.
+This corporate finance position at Veradigm was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

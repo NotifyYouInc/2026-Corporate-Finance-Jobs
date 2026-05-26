@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ampol](https://scoutify.ai/companies/ampol?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Australia |
+| Location | Alexandria, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000000967755-financial-controller-energy-solutions) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001084926-financial-controller-energy-solutions) |
 
 ## About This Role
 
-This corporate finance position at Ampol was posted on 2026-03-31.
+This corporate finance position at Ampol was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

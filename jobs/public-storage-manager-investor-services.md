@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Glendale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000116504045-manager-investor-services) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000127078009-manager-investor-services) |
 
 ## About This Role
 
-This corporate finance position at Public Storage was posted on 2026-03-24.
+This corporate finance position at Public Storage was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

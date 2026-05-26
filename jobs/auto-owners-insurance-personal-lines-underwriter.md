@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto-Owners Insurance](https://scoutify.ai/companies/aoins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Appleton, Wisconsin, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Appleton-WI/Personal-Lines-Underwriter_R_13333) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Charlotte-NC/Entry-Level-Underwriter_R_10109-1) |
 
 ## About This Role
 
-This corporate finance position at Auto-Owners Insurance was posted on 2026-03-17.
+This corporate finance position at Auto-Owners Insurance was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

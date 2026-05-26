@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Sr-Accounts-Receivable-Analyst_R317266) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Sr-Accounts-Receivable-Analyst_R317081) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-04-27.
+This corporate finance position at Cushman & Wakefield was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

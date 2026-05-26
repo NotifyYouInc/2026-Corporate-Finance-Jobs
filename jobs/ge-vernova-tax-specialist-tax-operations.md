@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Monterrey/Tax-Specialist---Tax-Operations_R5030247-2) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Monterrey/Tax-Specialist---Tax-Operations_R5041181) |
 
 ## About This Role
 
-This corporate finance position at GE Vernova was posted on 2026-02-17.
+This corporate finance position at GE Vernova was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

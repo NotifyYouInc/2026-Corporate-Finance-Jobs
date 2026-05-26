@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Glean](https://scoutify.ai/companies/gleanwork?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Mountain View, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4674234005) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4696681005) |
 
 ## About This Role
 
-This corporate finance position at Glean was posted on 2026-03-17.
+This corporate finance position at Glean was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

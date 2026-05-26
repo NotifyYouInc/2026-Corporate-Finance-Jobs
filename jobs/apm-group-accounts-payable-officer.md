@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Australia |
+| Location | West Perth, Western Australia, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000000991736-accounts-payable-officer) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001087289-accounts-payable-officer) |
 
 ## About This Role
 
-This corporate finance position at APM Group was posted on 2026-04-13.
+This corporate finance position at APM Group was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
