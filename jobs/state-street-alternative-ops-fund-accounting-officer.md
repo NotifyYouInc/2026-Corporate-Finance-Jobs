@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Clifton, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Officer_R-790377) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Alternative-Ops-Fund-Accounting--Officer_R-790847-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-15.
+This corporate finance position at State Street was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

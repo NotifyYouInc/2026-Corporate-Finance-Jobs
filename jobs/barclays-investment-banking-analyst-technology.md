@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Investment-Banking-Analyst--Technology_JR-0000109764) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/San-Francisco-Four-Embarcadero-Center/Investment-Banking-Analyst--Technology_JR-0000106019) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-05-08.
+This corporate finance position at Barclays was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

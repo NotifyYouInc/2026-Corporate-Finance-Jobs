@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayne Farms](https://scoutify.ai/companies/wayne-farms?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Decatur, Illinois, United States |
+| Location | Tyler, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://waynefarms.wd1.myworkdayjobs.com/waynefarms/job/Alabama---Decatur-Plant/Accounting-Clerk_2026-61444) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://waynefarms.wd1.myworkdayjobs.com/waynefarms/job/Texas---Tyler-Plant/Accounting-Clerk_2026-63504) |
 
 ## About This Role
 
-This corporate finance position at Wayne Farms was posted on 2026-03-24.
+This corporate finance position at Wayne Farms was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

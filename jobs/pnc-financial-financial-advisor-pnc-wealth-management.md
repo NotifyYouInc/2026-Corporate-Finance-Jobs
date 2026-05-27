@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rockaway, New Jersey, United States |
+| Location | Battle Creek, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NJ---Rockaway/Financial-Advisor---PNC-Wealth-Management_R223094-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/MI---Battle-Creek/Financial-Advisor---PNC-Wealth-Management_R223480-2) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-05-15.
+This corporate finance position at PNC Financial was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

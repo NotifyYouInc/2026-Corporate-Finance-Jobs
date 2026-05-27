@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Accounting-Manager_R0000359493) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Accounting-Manager_R0000371404) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-25.
+This corporate finance position at Caterpillar was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

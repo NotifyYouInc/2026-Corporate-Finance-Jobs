@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Gestao-Fiscal-IV_Req1542807-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Gestao-Fiscal-IV_Req1577634) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-02-23.
+This corporate finance position at Santander was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

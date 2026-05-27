@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Financing-Specialist_R-0000170050) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OTTAWA-Ontario-Canada/Financing-Specialist_R-0000172646-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-28.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Indonesia |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000115002457-cost-controller) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000127352619-cost-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-16.
+This corporate finance position at ACCOR was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

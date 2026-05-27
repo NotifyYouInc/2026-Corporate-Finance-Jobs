@@ -5,12 +5,12 @@
 | Company | [Bass Pro Shops](https://scoutify.ai/companies/basspro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Springfield, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Staff-Accountant_R253399) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Staff-Accountant_R255233) |
 
 ## About This Role
 
-This corporate finance position at Bass Pro Shops was posted on 2026-04-21.
+This corporate finance position at Bass Pro Shops was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

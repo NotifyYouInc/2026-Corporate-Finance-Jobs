@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bogot-Distrito-Capital-Colombia/GS-Finance-Solutions---Innovation-Manager_R-057830) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Suzhou-Jiangsu-China/GS-Finance-Solutions---Innovation-Manager_R-077198-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-02-23.
+This corporate finance position at Johnson & Johnson was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

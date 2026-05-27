@@ -5,12 +5,12 @@
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/MYS---GBS-KL/Associate-OTC---Hong-Kong---Taiwan--Mandarin-_R89819) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/MYS---GBS-KL/Associate-OTC---Hong-Kong---Taiwan--Mandarin-_R90616) |
 
 ## About This Role
 
-This corporate finance position at Smith+Nephew was posted on 2026-04-16.
+This corporate finance position at Smith+Nephew was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Coral Springs, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/Sr-Accounts-Receivables-Collection-Associate_R-10393118) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/Sr-Accounts-Receivables-Collection-Associate_R-10392790) |
 
 ## About This Role
 
-This corporate finance position at Fiserv was posted on 2026-04-20.
+This corporate finance position at Fiserv was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

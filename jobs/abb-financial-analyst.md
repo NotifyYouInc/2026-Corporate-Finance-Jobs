@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cary, North Carolina, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Cary-North-Carolina-USA/Financial-Analyst_JR00029618-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Analyst_JR00034122) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-03-24.
+This corporate finance position at ABB was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

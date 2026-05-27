@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KSM](https://scoutify.ai/companies/ksmcpa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Indianapolis/Experienced-Audit-Associate_R-100422) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Chicago/Experienced-Audit-Associate_R-100423) |
 
 ## About This Role
 
-This corporate finance position at KSM was posted on 2026-05-15.
+This corporate finance position at KSM was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

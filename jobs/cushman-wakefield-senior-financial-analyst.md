@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/New-York-New-York-USA/Senior-Financial-Analyst_R312153) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Vancouver-Canada/Senior-Financial-Analyst_R319417) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-04-07.
+This corporate finance position at Cushman & Wakefield was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

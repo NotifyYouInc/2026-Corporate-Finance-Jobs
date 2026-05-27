@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | California, Maryland, United States |
+| Location | Indiana, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/California-USA/Senior-Revenue-Accountant_JR111057-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/North-Carolina-USA/Senior-Revenue-Accountant_JR111111-1) |
 
 ## About This Role
 
-This corporate finance position at Genesys was posted on 2026-05-14.
+This corporate finance position at Genesys was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

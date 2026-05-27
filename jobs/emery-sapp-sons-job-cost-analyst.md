@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Emery Sapp & Sons](https://scoutify.ai/companies/emery-sapp-sons?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Columbia, South Carolina, United States |
+| Location | O'Fallon, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://emerysapp.wd501.myworkdayjobs.com/ess/job/Columbia-MO/Job-Cost-Analyst_JR2779) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://emerysapp.wd501.myworkdayjobs.com/ess/job/OFallon/Job-Cost-Analyst_JR2851) |
 
 ## About This Role
 
-This corporate finance position at Emery Sapp & Sons was posted on 2026-05-01.
+This corporate finance position at Emery Sapp & Sons was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

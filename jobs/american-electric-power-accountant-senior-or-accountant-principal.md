@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Columbus, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Accountant-Senior-or-Accountant-Principal_R13920-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Accountant-Senior-or-Accountant-Principal_R16033) |
 
 ## About This Role
 
-This corporate finance position at American Electric Power was posted on 2026-02-09.
+This corporate finance position at American Electric Power was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

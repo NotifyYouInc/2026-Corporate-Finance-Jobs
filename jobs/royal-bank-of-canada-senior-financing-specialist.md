@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Woodstock, Ontario, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WOODSTOCK-Ontario-Canada/Senior-Financing-Specialist_R-0000165579) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OTTAWA-Ontario-Canada/Senior-Financing-Specialist_R-0000172640-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-27.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

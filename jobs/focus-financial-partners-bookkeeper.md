@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5970320004) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/6000453004) |
 
 ## About This Role
 
-This corporate finance position at Focus Financial Partners was posted on 2026-04-20.
+This corporate finance position at Focus Financial Partners was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

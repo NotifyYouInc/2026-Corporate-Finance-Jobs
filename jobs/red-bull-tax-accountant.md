@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santa Monica, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000126556859-tax-accountant) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000127312538-tax-accountant) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-05-14.
+This corporate finance position at Red Bull was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

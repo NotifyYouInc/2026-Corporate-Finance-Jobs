@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Parsippany, New Jersey, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NJ-Parsippany/Senior-Financial-Analyst_JR2600200) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Shanghai/Senior-Financial-Analyst_JR2601964) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-03-06.
+This corporate finance position at AIG was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

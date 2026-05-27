@@ -5,12 +5,12 @@
 | Company | [Convera](https://scoutify.ai/companies/convera?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/convera/jobs/4853496101) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/convera/jobs/4871332101) |
 
 ## About This Role
 
-This corporate finance position at Convera was posted on 2026-05-13.
+This corporate finance position at Convera was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

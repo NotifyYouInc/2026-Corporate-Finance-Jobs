@@ -5,12 +5,12 @@
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Remote/Staff-Auditor_REQ-1000048428) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Remote/Staff-Auditor_REQ-1000048430) |
 
 ## About This Role
 
-This corporate finance position at Stanley Black & Decker was posted on 2026-05-18.
+This corporate finance position at Stanley Black & Decker was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

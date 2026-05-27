@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Macau, Macao |
+| Location | Ipoh, Perak, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Macau/Premier-Relationship-Manager_JR00007668) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Ipoh-Main/Premier-Relationship-Manager_JR00008014) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-05-06.
+This corporate finance position at OCBC was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Glendale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Sr-Financial-Accounting-Analyst_10150751) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Sr-Financial-Accounting-Analyst_10150465) |
 
 ## About This Role
 
-This corporate finance position at Disney was posted on 2026-05-18.
+This corporate finance position at Disney was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

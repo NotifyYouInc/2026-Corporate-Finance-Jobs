@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Location | Little Silver, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Charleston-WV/Sr-Client-Service-Associate_R-102392) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Little-Silver-NJ/Sr-Client-Service-Associate_R-102434-1) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-04-28.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

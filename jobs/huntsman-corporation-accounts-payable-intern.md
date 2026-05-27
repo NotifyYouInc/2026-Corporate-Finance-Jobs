@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntsman Corporation](https://scoutify.ai/companies/huntsman-corporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Costa-Rica---Heredia/Accounts-Payable-Intern_J-019773) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Malaysia---Kuala-Lumpur/Accounts-Payable-Intern_J-019848) |
 
 ## About This Role
 
-This corporate finance position at Huntsman Corporation was posted on 2026-05-07.
+This corporate finance position at Huntsman Corporation was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

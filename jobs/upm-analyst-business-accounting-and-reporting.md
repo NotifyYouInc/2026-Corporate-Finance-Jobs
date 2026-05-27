@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UPM](https://scoutify.ai/companies/upm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fray Bentos, Río Negro Department, Uruguay |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://upm.wd103.myworkdayjobs.com/careers/job/Fray-Bentos/Analyst--Business-Accounting-and-Reporting_NB6025549) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://upm.wd103.myworkdayjobs.com/careers/job/Tampere/Analyst--Business-Accounting-and-Reporting_NB6025990-1) |
 
 ## About This Role
 
-This corporate finance position at UPM was posted on 2026-03-09.
+This corporate finance position at UPM was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

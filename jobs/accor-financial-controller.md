@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Darwin, Northern Territory, Australia |
+| Location | Marsa Alam, Red Sea, Egypt |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000126449856-financial-controller) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000127359281-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-14.
+This corporate finance position at ACCOR was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

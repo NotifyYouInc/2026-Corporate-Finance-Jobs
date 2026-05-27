@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Mateo, Calabarzon, Philippines |
+| Location | Menlo Park, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/San-Mateo-California-United-States-of-America/Registered-Client-Service-Associate_JR030107) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Menlo-Park-California-United-States-of-America/Group-Director_JR037253) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-24.
+This corporate finance position at Morgan Stanley was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

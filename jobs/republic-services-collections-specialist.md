@@ -5,12 +5,12 @@
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Collections-Specialist_R-168225-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Collections-Specialist_R-174977) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-03-23.
+This corporate finance position at Republic Services was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

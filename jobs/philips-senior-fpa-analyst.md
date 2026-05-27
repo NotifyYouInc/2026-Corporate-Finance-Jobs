@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Panama |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Senior-FP-A-Analyst_575914) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Ciudad-de-Panama/Senior-FP-A-Analyst_583170) |
 
 ## About This Role
 
-This corporate finance position at Philips was posted on 2026-02-11.
+This corporate finance position at Philips was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

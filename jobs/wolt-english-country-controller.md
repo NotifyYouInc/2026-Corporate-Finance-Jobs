@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Wolt - English](https://scoutify.ai/companies/wolt---english?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Company | [Wolt - English](https://scoutify.ai/companies/wolt?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Tbilisi, Tbilisi, Georgia |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wolt/jobs/7646101) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wolt/jobs/7944104) |
 
 ## About This Role
 
-This corporate finance position at Wolt - English was posted on 2026-04-01.
+This corporate finance position at Wolt - English was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

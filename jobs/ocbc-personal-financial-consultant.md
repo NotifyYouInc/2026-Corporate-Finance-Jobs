@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Muar, Johor, Malaysia |
+| Location | Macau, Macao |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Muar/Personal-Financial-Consultant_JR00005890) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Macau/Premier-Relationship-Manager_JR00005098) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-02-24.
+This corporate finance position at OCBC was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Finance-Manager_R244109-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Taipei-City/Finance-Manager_R244308) |
 
 ## About This Role
 
-This corporate finance position at Arrow Electronics was posted on 2026-05-15.
+This corporate finance position at Arrow Electronics was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

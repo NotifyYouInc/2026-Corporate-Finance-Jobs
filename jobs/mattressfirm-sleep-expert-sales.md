@@ -1,16 +1,16 @@
-# Sleep Expert - Sales at Mattressfirm
+# Sleep Expert- Sales at Mattressfirm
 
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Huber Heights, Ohio, United States |
+| Location | Mooresville, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Huber-Heights-Ohio/Sleep-Expert---Sales_JR-P0061971) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Mooresville-North-Carolina/Sleep-Expert--Sales_JR-P0061986) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-18.
+This corporate finance position at Mattressfirm was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
