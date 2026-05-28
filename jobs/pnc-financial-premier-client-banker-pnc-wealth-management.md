@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Greenwood Village, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15237/Premier-Client-Banker---PNC-Wealth-Management_R218302-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CO---Greenwood-Village-80111/Premier-Client-Banker---PNC-Wealth-Management_R223716-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-04-14.
+This corporate finance position at PNC Financial was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

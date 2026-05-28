@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Deer Park, Texas, United States |
+| Location | Clackamas, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Deer-Park-NY/Financial-Advisor_R-102446) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Clackamas-OR/Financial-Advisor_R-102465) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-05-14.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

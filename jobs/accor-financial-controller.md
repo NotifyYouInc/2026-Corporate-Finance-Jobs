@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Marsa Alam, Red Sea, Egypt |
+| Location | Taupo, Waikato Region, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000127359281-financial-controller) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000127533040-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-20.
+This corporate finance position at ACCOR was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

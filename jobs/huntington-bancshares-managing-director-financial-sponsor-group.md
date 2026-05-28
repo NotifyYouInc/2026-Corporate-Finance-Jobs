@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/New-York-NY/Managing-Director---Financial-Sponsor-Group_R0069238) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/New-York-NY/Managing-Director---Financial-Sponsor-Group_R0072043) |
 
 ## About This Role
 
-This corporate finance position at Huntington Bancshares was posted on 2026-02-10.
+This corporate finance position at Huntington Bancshares was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Accountant 1, Corporate Accounting at IQ-EQ
+#  Accountant 1, Corporate Accounting at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Port Louis, Port Louis, Mauritius |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000117659880-accountant-1-corporate-accounting) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000127581611-accountant-1-corporate-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-03-30.
+This corporate finance position at IQ-EQ was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

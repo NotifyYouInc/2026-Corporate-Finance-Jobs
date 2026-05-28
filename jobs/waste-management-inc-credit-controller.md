@@ -5,12 +5,12 @@
 | Company | [Waste Management, Inc.](https://scoutify.ai/companies/wastemanagementinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WasteManagement8/6000000000986930-credit-controller) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WasteManagement8/6000000001091935-credit-controller) |
 
 ## About This Role
 
-This corporate finance position at Waste Management, Inc. was posted on 2026-04-09.
+This corporate finance position at Waste Management, Inc. was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

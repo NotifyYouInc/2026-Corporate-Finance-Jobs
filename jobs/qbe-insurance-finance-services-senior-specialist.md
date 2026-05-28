@@ -5,12 +5,12 @@
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHI---Manila/Finance-Services-Senior-Specialist_355157) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHI---Manila/Finance-Services-Senior-Specialist_355781) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-05-06.
+This corporate finance position at QBE Insurance was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

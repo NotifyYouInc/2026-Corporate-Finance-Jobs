@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Treasury-Intern_JR0283637) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Treasury-Intern_JR0284231) |
 
 ## About This Role
 
-This corporate finance position at Intel was posted on 2026-05-19.
+This corporate finance position at Intel was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

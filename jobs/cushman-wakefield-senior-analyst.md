@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Melbourne-Australia/Senior-Analyst_R317555) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Melbourne-Australia/Senior-Analyst_R321183) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-04-28.
+This corporate finance position at Cushman & Wakefield was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

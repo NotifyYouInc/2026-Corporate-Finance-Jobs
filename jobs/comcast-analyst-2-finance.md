@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Schaumburg-1475-E-Woodfield-Rd/Analyst-2--Finance_R432519) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Pittsburgh-15-Summit-Park-Dr/Analyst-2--Finance_R437379) |
 
 ## About This Role
 
-This corporate finance position at Comcast was posted on 2026-03-06.
+This corporate finance position at Comcast was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

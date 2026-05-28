@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Morristown, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/San-Francisco-California-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR035233) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Morristown-New-Jersey-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR033562-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-28.
+This corporate finance position at Morgan Stanley was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

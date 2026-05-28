@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Beverly, Massachusetts, United States |
+| Location | Santa Catarina, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAM60-Sensitech-Inc-800-Cummings-Center-Beverly-MA-01915-USA/FP-A-Specialist_30205328) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5019-Carrier---UTEC-Carretera-Villa-de-Garca-Km-30-Santa-Catarina-66350-Mexico/FP-A-Specialist_30206556) |
 
 ## About This Role
 
-This corporate finance position at Carrier Global was posted on 2026-05-13.
+This corporate finance position at Carrier Global was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

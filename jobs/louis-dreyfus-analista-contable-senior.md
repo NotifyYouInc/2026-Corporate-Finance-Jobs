@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000117381428-analista-contable-senior) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000127526624-analista-contable-senior) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-03-27.
+This corporate finance position at Louis Dreyfus was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

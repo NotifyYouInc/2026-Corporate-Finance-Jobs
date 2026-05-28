@@ -1,16 +1,16 @@
-# Sleep Expert- Sales at Mattressfirm
+# Sleep Expert - Sales at Mattressfirm
 
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mooresville, North Carolina, United States |
+| Location | Decatur, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Mooresville-North-Carolina/Sleep-Expert--Sales_JR-P0061986) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Decatur-Georgia/Sleep-Expert---Sales_JR-P0061999) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-19.
+This corporate finance position at Mattressfirm was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

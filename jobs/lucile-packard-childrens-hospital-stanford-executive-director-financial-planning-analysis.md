@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lucile Packard Children's Hospital Stanford](https://scoutify.ai/companies/lucilepackardchildrenshospitalstanford?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Menlo Park, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990011519696-executive-director-financial-planning-analysis) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990013233071-executive-director-financial-planning-analysis) |
 
 ## About This Role
 
-This corporate finance position at Lucile Packard Children's Hospital Stanford was posted on 2026-02-04.
+This corporate finance position at Lucile Packard Children's Hospital Stanford was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mill Valley, California, United States |
+| Location | Bowling Green, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/CA-Mill-Valley/Client-Specialist_R2026536-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Bowling-Green/Client-Specialist_R2026609-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-05-01.
+This corporate finance position at Baird was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

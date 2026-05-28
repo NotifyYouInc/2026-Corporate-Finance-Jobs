@@ -1,16 +1,16 @@
-# Specialist, Investment Accounting and Analytical Services (IAAS) at Northern Trust
+# Specialist-Investment Accounting and Analytical Services (IAAS)  at Northern Trust
 
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Specialist--Investment-Accounting-and-Analytical-Services--IAAS-_R149740) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/London-United-Kingdom/Specialist-Investment-Accounting-and-Analytical-Services--IAAS--_R155859) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-03-06.
+This corporate finance position at Northern Trust was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

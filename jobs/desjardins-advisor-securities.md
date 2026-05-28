@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Laval, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Agent-ou-agente--Service--la-clientle--Correspondances-virtuelles--courtage-en-ligne_R2606667) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Laval/Adjoint-ou-adjointe-en-gestion-de-patrimoine_R2606959-2) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-05-12.
+This corporate finance position at Desjardins was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

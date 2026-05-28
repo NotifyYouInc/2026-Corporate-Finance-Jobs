@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Virginia Beach, Virginia, United States |
+| Location | Norfolk, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Virginia-Beach-VA/Finance-Consultant_JR-97329) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Sentara-Health-Corporate-Office/Finance-Consultant_JR-99064) |
 
 ## About This Role
 
-This corporate finance position at Sentara Healthcare was posted on 2026-04-13.
+This corporate finance position at Sentara Healthcare was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

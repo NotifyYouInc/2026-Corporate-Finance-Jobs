@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manassas, Virginia, United States |
+| Location | Hendersonville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Manassas-VA/Dealership-Accountant_26_04674) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Hendersonville-NC/Dealership-Accountant_26_04945-1) |
 
 ## About This Role
 
-This corporate finance position at Camping World was posted on 2026-05-11.
+This corporate finance position at Camping World was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

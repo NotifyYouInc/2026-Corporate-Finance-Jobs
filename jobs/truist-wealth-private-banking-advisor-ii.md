@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Florida, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Philadelphia-PA/Wealth-Private-Banking-Advisor-II--Flexible-Location-within-Truist-Footprint-_R0112391) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Ft-Lauderdale-FL/Wealth-Private-Banking-Advisor-II_R0114868) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-03-13.
+This corporate finance position at Truist was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

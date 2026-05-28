@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Woodland, California, United States |
+| Location | Pasco, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Woodland-WA/Dealership-Accounting-Clerk_26_04526) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Pasco-WA/Dealership-Accounting-Clerk_26_05059) |
 
 ## About This Role
 
-This corporate finance position at Camping World was posted on 2026-05-11.
+This corporate finance position at Camping World was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

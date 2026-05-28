@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Orland Park, Illinois, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Orland-Park-Illinois-United-States-of-America/Registered-Client-Relationship-Analyst_JR037287) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Pittsburgh-Pennsylvania-United-States-of-America/Registered-Client-Relationship-Analyst_JR036495) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-05-18.
+This corporate finance position at Morgan Stanley was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

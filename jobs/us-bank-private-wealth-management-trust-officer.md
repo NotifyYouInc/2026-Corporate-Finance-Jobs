@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Clayton, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Joplin-MO/Private-Wealth-Management-Trust-Officer_2026-0005154-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Clayton-MO/Private-Wealth-Management-Trust-Officer_2026-0013286) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-25.
+This corporate finance position at U.S. Bank was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/Reconciliation-Associate_R3335-1-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Mumbai/Reconciliation-Associate_R11756-1) |
 
 ## About This Role
 
-This corporate finance position at Clearwateranalytics was posted on 2026-05-06.
+This corporate finance position at Clearwateranalytics was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

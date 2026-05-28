@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edmonton, Alberta, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Edmonton/Finance-Analyst_R247438) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Hampton-Roads/Finance-Analyst_R252207) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-04-16.
+This corporate finance position at Sysco was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

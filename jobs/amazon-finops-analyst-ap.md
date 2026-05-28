@@ -1,16 +1,16 @@
-# FinOps Analyst -AP at Amazon
+# FinOps Analyst AP at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10386791/finops-analyst-ap) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426225/finops-analyst-ap) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-04-09.
+This corporate finance position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

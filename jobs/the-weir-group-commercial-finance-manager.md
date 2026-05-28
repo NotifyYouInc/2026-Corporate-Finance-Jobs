@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Perth/Commercial-Finance-Manager_R0035914) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Brisbane/Commercial-Finance-Manager_R0037210) |
 
 ## About This Role
 
-This corporate finance position at The Weir Group was posted on 2026-02-25.
+This corporate finance position at The Weir Group was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

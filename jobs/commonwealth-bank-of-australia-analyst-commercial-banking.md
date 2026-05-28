@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Liverpool, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Perth-Central/Analyst---Commercial-Banking_REQ258254) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Liverpool-NSW---203---209-Northumberland-Street/Analyst---Commercial-Banking_REQ258916) |
 
 ## About This Role
 
-This corporate finance position at Commonwealth Bank of Australia was posted on 2026-05-06.
+This corporate finance position at Commonwealth Bank of Australia was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

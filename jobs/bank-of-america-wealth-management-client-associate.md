@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mount Pleasant, South Carolina, United States |
+| Location | Jenkintown, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Mount-Pleasant/Wealth-Management-Client-Associate_26017466) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jenkintown/Wealth-Management-Client-Associate_26017668) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-05-19.
+This corporate finance position at Bank of America was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

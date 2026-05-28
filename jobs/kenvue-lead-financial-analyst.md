@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Washington, Maryland, United States |
+| Location | Lititz, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-Pennsylvania-Fort-Washington/Lead-Financial-Analyst_2607042249W) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-Pennsylvania-Lititz/Lead-Financial-Analyst_2607046291W) |
 
 ## About This Role
 
-This corporate finance position at Kenvue was posted on 2026-02-24.
+This corporate finance position at Kenvue was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

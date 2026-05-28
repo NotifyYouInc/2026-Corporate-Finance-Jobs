@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iowa State University](https://scoutify.ai/companies/iowa-state-university?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ames, Iowa, United States |
+| Location | Iowa City, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Staff-Auditor_R19047) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Iowa-City-IA/Staff-Auditor_R19276) |
 
 ## About This Role
 
-This corporate finance position at Iowa State University was posted on 2026-04-21.
+This corporate finance position at Iowa State University was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
