@@ -5,12 +5,12 @@
 | Company | [Skechers USA](https://scoutify.ai/companies/skechers-usa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Bogota-Colombia/Treasury-Analyst_JR125971) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Bogota-Colombia/Treasury-Analyst_JR128634) |
 
 ## About This Role
 
-This corporate finance position at Skechers USA was posted on 2026-03-11.
+This corporate finance position at Skechers USA was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

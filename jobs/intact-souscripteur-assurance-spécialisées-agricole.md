@@ -5,12 +5,12 @@
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/St-Hyacinthe-Quebec-CAN/Souscripteur-principal--Assurance-spcialises---Agricole_R152562-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/St-Hyacinthe-Quebec-CAN/Souscripteur--Assurance-spcialises---Agricole_R153390) |
 
 ## About This Role
 
-This corporate finance position at Intact was posted on 2026-04-22.
+This corporate finance position at Intact was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fib](https://scoutify.ai/companies/fib?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sheridan, Wyoming, United States |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://fib.wd1.myworkdayjobs.com/fibcareers/job/Sheridan-WY/Wealth-Advisor-I_2026-14952) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://fib.wd1.myworkdayjobs.com/fibcareers/job/Denver-CO/Wealth-Advisor-I_2026-14419) |
 
 ## About This Role
 
-This corporate finance position at Fib was posted on 2026-04-21.
+This corporate finance position at Fib was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

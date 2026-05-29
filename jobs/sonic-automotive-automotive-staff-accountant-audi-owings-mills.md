@@ -5,12 +5,12 @@
 | Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Owings Mills, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000121304387-automotive-staff-accountant-audi-owings-mills) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000127737379-automotive-staff-accountant-audi-owings-mills) |
 
 ## About This Role
 
-This corporate finance position at Sonic Automotive was posted on 2026-04-16.
+This corporate finance position at Sonic Automotive was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

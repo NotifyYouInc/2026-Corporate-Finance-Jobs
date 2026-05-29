@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WalshGroup](https://scoutify.ai/companies/walshgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/FL_Tampa_825061/Financial-Manager_JR11922) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/IL_Chicago_826030/Financial-Manager_JR14946) |
 
 ## About This Role
 
-This corporate finance position at WalshGroup was posted on 2026-04-01.
+This corporate finance position at WalshGroup was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

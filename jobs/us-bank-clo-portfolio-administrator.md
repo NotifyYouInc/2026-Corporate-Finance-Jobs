@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/CLO-Portfolio-Administrator_2026-0008419) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/CLO-Portfolio-Administrator_2026-0013539) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-10.
+This corporate finance position at U.S. Bank was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

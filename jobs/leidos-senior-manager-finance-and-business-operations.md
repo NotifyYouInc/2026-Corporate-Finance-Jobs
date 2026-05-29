@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Manager--Finance--and-Business-Operations_R-00182881-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Senior-Manager--Finance--and-Business-Operations_R-00183414-1) |
 
 ## About This Role
 
-This corporate finance position at Leidos was posted on 2026-05-08.
+This corporate finance position at Leidos was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

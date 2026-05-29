@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Linthicum, Maryland, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Principal-Program-Cost-Control-Analyst_R10232787) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Principal-Program-Cost-Control-Analyst_R10233903) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-05-13.
+This corporate finance position at Northrop Grumman was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Accounting-Specialist-II_JR202635097-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Accounting-Specialist-II_JR202636782-1) |
 
 ## About This Role
 
-This corporate finance position at Auto Club Enterprises was posted on 2026-03-02.
+This corporate finance position at Auto Club Enterprises was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

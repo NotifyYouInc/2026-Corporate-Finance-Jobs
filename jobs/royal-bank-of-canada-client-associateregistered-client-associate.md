@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portsmouth, England, United Kingdom |
+| Location | Stillwater, Oklahoma, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Portsmouth-New-Hampshire-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000172960) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Stillwater-Minnesota-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000173514) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-18.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

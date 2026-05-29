@@ -5,12 +5,12 @@
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Los-Angeles-CA/Finance-Manager--Los-Angeles-Memorial-Coliseum-_R100120886) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Los-Angeles-CA/Finance-Manager--Los-Angeles-Memorial-Coliseum-_R100122742) |
 
 ## About This Role
 
-This corporate finance position at ASM Global was posted on 2026-03-06.
+This corporate finance position at ASM Global was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

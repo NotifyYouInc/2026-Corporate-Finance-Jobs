@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/New-York-NY/Associate-Manager_R41666) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Singapore/Associate-Manager_R43441) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-03-12.
+This corporate finance position at SS&C Technologies was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

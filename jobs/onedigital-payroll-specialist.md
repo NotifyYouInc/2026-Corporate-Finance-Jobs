@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneDigital](https://scoutify.ai/companies/onedigital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | El Paso, Texas, United States |
+| Location | Greenville, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/El-Paso-TX/Payroll-Specialist_R8772) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Greenville-SC/Payroll-Specialist_R8958) |
 
 ## About This Role
 
-This corporate finance position at OneDigital was posted on 2026-04-29.
+This corporate finance position at OneDigital was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

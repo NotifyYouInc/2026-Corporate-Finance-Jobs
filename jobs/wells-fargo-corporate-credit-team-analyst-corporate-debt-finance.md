@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Corporate-Credit-Team-Analyst---Corporate-Debt-Finance_R-523438) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Corporate-Credit-Team-Analyst---Corporate-Debt-Finance_R-547943) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-02-25.
+This corporate finance position at Wells Fargo was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

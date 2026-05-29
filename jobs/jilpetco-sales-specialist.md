@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jilpetco](https://scoutify.ai/companies/jilpetco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Memphis, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/1698---St-Francis-WI/Sales-Specialist_R353332) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/0861---Memphis-TN/Sales-Specialist_R358542) |
 
 ## About This Role
 
-This corporate finance position at Jilpetco was posted on 2026-04-17.
+This corporate finance position at Jilpetco was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/San-Francisco/Private-Client-Relationship-Manager_JR6645) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/Private-Client-Relationship-Manager_JR6678) |
 
 ## About This Role
 
-This corporate finance position at Capital Group was posted on 2026-05-12.
+This corporate finance position at Capital Group was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

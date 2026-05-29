@@ -1,16 +1,16 @@
-# GL Accountant  at Intercom
+# GL Accountant at Intercom
 
 | Field | Details |
 |-------|---------|
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7685011) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7947756) |
 
 ## About This Role
 
-This corporate finance position at Intercom was posted on 2026-03-10.
+This corporate finance position at Intercom was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

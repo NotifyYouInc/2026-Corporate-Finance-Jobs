@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cary, North Carolina, United States |
+| Location | Roseville, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000112794347-automotive-accounting-specialist) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000127746259-automotive-accounting-specialist) |
 
 ## About This Role
 
-This corporate finance position at Sonic Automotive was posted on 2026-03-04.
+This corporate finance position at Sonic Automotive was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

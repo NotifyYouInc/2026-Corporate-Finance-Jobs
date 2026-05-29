@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Wealth-Management-Investment-Consultant--Advisory-Services_2026-0004229) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Wealth-Management-Investment-Consultant--Advisory-Services_2026-0013719) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-03.
+This corporate finance position at U.S. Bank was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cleveland-Cliffs](https://scoutify.ai/companies/aksteel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Zanesville, Ohio, United States |
+| Location | Butler, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://aksteel.wd1.myworkdayjobs.com/careers/job/Zanesville-Works/Financial-Analyst_R12225) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://aksteel.wd1.myworkdayjobs.com/careers/job/Butler-Works/Financial-Analyst_R12783) |
 
 ## About This Role
 
-This corporate finance position at Cleveland-Cliffs was posted on 2026-03-06.
+This corporate finance position at Cleveland-Cliffs was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

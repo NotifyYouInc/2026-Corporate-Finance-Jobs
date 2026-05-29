@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ledcor Group of Companies](https://scoutify.ai/companies/ledcor-group-of-companies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Edmonton, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Vancouver-BC/Accounts-Payable-Administrator_R28593) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Edmonton---Campus/Accounts-Payable-Administrator_R28949) |
 
 ## About This Role
 
-This corporate finance position at Ledcor Group of Companies was posted on 2026-04-24.
+This corporate finance position at Ledcor Group of Companies was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Boston-Massachusetts-United-States/Fund-Accounting-Team-Coordinator_26939119) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/3800-CITIGROUP-CENTER-DRIVE-BUILDING-B-TAMPA/Fund-Accounting-Team-Coordinator_26964962) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-02.
+This corporate finance position at Citigroup was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

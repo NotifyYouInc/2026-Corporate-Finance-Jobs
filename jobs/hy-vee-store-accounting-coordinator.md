@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hy-Vee](https://scoutify.ai/companies/hy-vee?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ames, Iowa, United States |
+| Location | Oregon, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Ames-2-640-Lincoln-Way-Ames-IA/Store-Accounting-Coordinator_R233107) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Oregon-787-N-Main-St-Oregon-WI-53575/Store-Accounting-Coordinator_R233472) |
 
 ## About This Role
 
-This corporate finance position at Hy-Vee was posted on 2026-05-19.
+This corporate finance position at Hy-Vee was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

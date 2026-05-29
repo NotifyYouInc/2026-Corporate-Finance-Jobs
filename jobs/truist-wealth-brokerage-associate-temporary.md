@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sterling, Virginia, United States |
+| Location | Roanoke, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Sterling-VA---22550-Davis-Drive/Wealth-Brokerage-Associate---Temporary_R0114376) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Roanoke-VA/Wealth-Brokerage-Associate---Temporary_R0114889) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-05-07.
+This corporate finance position at Truist was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Santa Catarina, Nuevo León, Mexico |
+| Location | Palm Beach Gardens, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5019-Carrier---UTEC-Carretera-Villa-de-Garca-Km-30-Santa-Catarina-66350-Mexico/FP-A-Specialist_30206556) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/FP-A-Specialist_30205647) |
 
 ## About This Role
 
-This corporate finance position at Carrier Global was posted on 2026-05-20.
+This corporate finance position at Carrier Global was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

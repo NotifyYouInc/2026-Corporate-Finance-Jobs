@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Garden City, Kansas, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Garden-City/Merrill-Market-Client-Relationship-Manager_26006497) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Washington/Merrill-Market-Client-Relationship-Manager_25038182) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-02.
+This corporate finance position at Bank of America was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

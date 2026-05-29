@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Edmonton, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000126221449-senior-cost-analyst) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000127760969-senior-cost-analyst) |
 
 ## About This Role
 
-This corporate finance position at Turner & Townsend was posted on 2026-05-13.
+This corporate finance position at Turner & Townsend was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

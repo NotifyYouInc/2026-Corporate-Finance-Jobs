@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000127298544-payable-account-clerk) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000127752462-payable-account-clerk) |
 
 ## About This Role
 
-This corporate finance position at UAP was posted on 2026-05-19.
+This corporate finance position at UAP was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

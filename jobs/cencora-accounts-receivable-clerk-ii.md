@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Heredia-Costa-Rica/Clerk-II---Accounts-Receivable-5_R265863) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Vilnius-Lithuania/Accounts-Receivable-Clerk-II_R268707) |
 
 ## About This Role
 
-This corporate finance position at Cencora was posted on 2026-04-07.
+This corporate finance position at Cencora was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

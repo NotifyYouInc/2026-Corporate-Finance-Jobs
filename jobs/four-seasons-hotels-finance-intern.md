@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Santa Fe, New Mexico, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Milan/Finance-Intern_REQ10375320) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Santa-Fe/Finance-Intern_REQ10380725) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-03-24.
+This corporate finance position at Four Seasons Hotels was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

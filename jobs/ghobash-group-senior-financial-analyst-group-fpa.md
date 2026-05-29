@@ -5,12 +5,12 @@
 | Company | [Ghobash Group](https://scoutify.ai/companies/ghobashgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000110675385-senior-financial-analyst-group-fpa) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000127803604-senior-financial-analyst-group-fpa) |
 
 ## About This Role
 
-This corporate finance position at Ghobash Group was posted on 2026-02-23.
+This corporate finance position at Ghobash Group was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

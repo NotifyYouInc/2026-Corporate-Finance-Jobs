@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Clifton, New Jersey, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Alternative-Operations-Fund-Accounting--Associate-2_R-790855) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Chennai-India/Alternative-Operations-Fund-Accounting--Associate-2_R-787363) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-20.
+This corporate finance position at State Street was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

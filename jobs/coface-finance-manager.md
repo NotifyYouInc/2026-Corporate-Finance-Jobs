@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Minato, Wakayama, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000112080207-finance-manager) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000127767909-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at Coface was posted on 2026-03-02.
+This corporate finance position at Coface was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
