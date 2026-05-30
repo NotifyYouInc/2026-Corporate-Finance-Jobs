@@ -5,12 +5,12 @@
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/WI---Milwaukee---235-W-Galena-Street/Fund-Accountant-II_R-8160) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Milwaukee-WI/Fund-Accountant-II_R-8674) |
 
 ## About This Role
 
-This corporate finance position at UMB Financial was posted on 2026-02-10.
+This corporate finance position at UMB Financial was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

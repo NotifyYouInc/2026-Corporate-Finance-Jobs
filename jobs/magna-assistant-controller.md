@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lancaster, California, United States |
+| Location | Mississauga, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Lancaster-Ohio-US/Assistant-Controller_R00233946) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Mississauga-Ontario-CA/Assistant-Controller_R00223405) |
 
 ## About This Role
 
-This corporate finance position at Magna was posted on 2026-03-06.
+This corporate finance position at Magna was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

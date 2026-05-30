@@ -5,12 +5,12 @@
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Financial-Analyst_R0043875) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Financial-Analyst_R0043962) |
 
 ## About This Role
 
-This corporate finance position at Harris Computer was posted on 2026-05-20.
+This corporate finance position at Harris Computer was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

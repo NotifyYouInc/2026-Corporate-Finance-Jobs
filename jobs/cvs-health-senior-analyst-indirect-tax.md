@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cumberland, Rhode Island, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Senior-Analyst--Indirect-Tax_R0888332-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Senior-Analyst--Indirect-Tax_R0917055) |
 
 ## About This Role
 
-This corporate finance position at CVS Health was posted on 2026-04-29.
+This corporate finance position at CVS Health was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

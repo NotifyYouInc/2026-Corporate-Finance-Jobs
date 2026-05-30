@@ -5,12 +5,12 @@
 | Company | [SEAKR Engineering](https://scoutify.ai/companies/seakrengineering?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Centennial, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEAKREngineering/744000122126596-payroll-accountant) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEAKREngineering/744000127942059-payroll-accountant) |
 
 ## About This Role
 
-This corporate finance position at SEAKR Engineering was posted on 2026-04-21.
+This corporate finance position at SEAKR Engineering was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

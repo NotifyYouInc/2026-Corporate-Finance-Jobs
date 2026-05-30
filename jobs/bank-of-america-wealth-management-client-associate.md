@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jenkintown, Pennsylvania, United States |
+| Location | Walnut Creek, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jenkintown/Wealth-Management-Client-Associate_26017668) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Walnut-Creek/Wealth-Management-Client-Associate_26018015-1) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-05-20.
+This corporate finance position at Bank of America was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

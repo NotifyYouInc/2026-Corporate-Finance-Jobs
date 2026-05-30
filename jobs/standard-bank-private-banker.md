@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nigeria |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000126000145-private-banker) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000127932099-private-banker) |
 
 ## About This Role
 
-This corporate finance position at Standard Bank was posted on 2026-05-12.
+This corporate finance position at Standard Bank was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

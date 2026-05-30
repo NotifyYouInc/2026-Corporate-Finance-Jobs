@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bowling Green, Kentucky, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Bowling-Green/Client-Specialist_R2026609-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/IL-Chicago/Client-Specialist_R2026620-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-05-20.
+This corporate finance position at Baird was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

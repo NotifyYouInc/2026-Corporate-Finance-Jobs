@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Lima/Accounting-Analyst_JR77170) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Bogota/Accounting-Analyst_JR78025-1) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-04-14.
+This corporate finance position at Electrolux was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

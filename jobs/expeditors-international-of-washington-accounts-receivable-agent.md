@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Grapevine, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000118947741-accounts-receivable-agent) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000127959409-accounts-receivable-agent) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-04-06.
+This corporate finance position at Expeditors International of Washington was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

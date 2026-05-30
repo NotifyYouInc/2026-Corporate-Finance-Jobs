@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116661206-senior-employee-experience-financial-analyst) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127953225-senior-employee-experience-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-03-25.
+This corporate finance position at NielsenIQ was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

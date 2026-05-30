@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chapters Health System](https://scoutify.ai/companies/chapters-health-system?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Florida, US |
+| Location | Temple Terrace, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://chaptershealth.wd5.myworkdayjobs.com/jobs/job/Remote---Florida/Hospice-Medicare-Billing-and-Collections-Representative_R2610595) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://chaptershealth.wd5.myworkdayjobs.com/jobs/job/Temple-Terrace-FL/Hospice-Medicare-Billing-and-Collections-Representative_R2610742) |
 
 ## About This Role
 
-This corporate finance position at Chapters Health System was posted on 2026-05-20.
+This corporate finance position at Chapters Health System was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

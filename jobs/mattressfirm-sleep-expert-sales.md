@@ -1,16 +1,16 @@
-# Sleep Expert - Sales at Mattressfirm
+# Sleep Expert- Sales at Mattressfirm
 
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Decatur, Illinois, United States |
+| Location | Augusta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Decatur-Georgia/Sleep-Expert---Sales_JR-P0061999) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Augusta-Georgia/Sleep-Expert--Sales_JR-P0062012) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-20.
+This corporate finance position at Mattressfirm was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

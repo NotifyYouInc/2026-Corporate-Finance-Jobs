@@ -5,12 +5,12 @@
 | Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7700354?t=gh_src=&gh_jid=7700354) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7927681?t=gh_src=&gh_jid=7927681) |
 
 ## About This Role
 
-This corporate finance position at Robinhood was posted on 2026-03-13.
+This corporate finance position at Robinhood was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Beverly Hills, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Billings-MT/Partner-Private-Wealth-Advisor_2026-0012091-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Beverly-Hills-CA/PWM-Partner-Private-Wealth-Advisor_2026-0013236-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-06.
+This corporate finance position at U.S. Bank was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

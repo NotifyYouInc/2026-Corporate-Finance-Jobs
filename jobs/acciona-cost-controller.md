@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Perth, Western Australia, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Sydney/Cost-Controller_20095405) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Perth/Cost-Controller_20096155) |
 
 ## About This Role
 
-This corporate finance position at Acciona was posted on 2026-05-13.
+This corporate finance position at Acciona was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

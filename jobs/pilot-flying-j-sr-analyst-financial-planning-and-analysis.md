@@ -5,12 +5,12 @@
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Knoxville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000117040217-sr-analyst-financial-planning-and-analysis) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000127935055-sr-analyst-financial-planning-and-analysis) |
 
 ## About This Role
 
-This corporate finance position at Pilot Flying J was posted on 2026-03-26.
+This corporate finance position at Pilot Flying J was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ArlingtonTX](https://scoutify.ai/companies/arlingtontx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://arlingtontx.wd503.myworkdayjobs.com/cityofarlingtoncareers/job/Municipal-Office-Tower/Senior-Budget-Analyst_JR101464) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://arlingtontx.wd503.myworkdayjobs.com/cityofarlingtoncareers/job/Chase-Bank-Tower/Senior-Budget-Analyst_JR101567) |
 
 ## About This Role
 
-This corporate finance position at ArlingtonTX was posted on 2026-04-29.
+This corporate finance position at ArlingtonTX was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

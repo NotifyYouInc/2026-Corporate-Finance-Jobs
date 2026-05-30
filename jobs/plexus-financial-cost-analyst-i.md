@@ -5,12 +5,12 @@
 | Company | [Plexus](https://scoutify.ai/companies/plexus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Guadalajara-Mexico/Financial-Cost-Analyst-I_R037282) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Guadalajara-Mexico/Financial-Cost-Analyst-I_R038741) |
 
 ## About This Role
 
-This corporate finance position at Plexus was posted on 2026-03-25.
+This corporate finance position at Plexus was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

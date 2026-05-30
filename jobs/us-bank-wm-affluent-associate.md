@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Palo-Alto-CA/WM-Affluent-Associate_2026-0012741) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Fargo-ND/WM-Affluent-Associate_2026-0013096) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-13.
+This corporate finance position at U.S. Bank was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

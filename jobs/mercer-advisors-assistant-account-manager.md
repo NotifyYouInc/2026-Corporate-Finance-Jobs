@@ -5,12 +5,12 @@
 | Company | [Mercer Advisors](https://scoutify.ai/companies/merceradvisors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Encino, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/merceradvisors/jobs/5165558008) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/merceradvisors/jobs/5226595008) |
 
 ## About This Role
 
-This corporate finance position at Mercer Advisors was posted on 2026-03-25.
+This corporate finance position at Mercer Advisors was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

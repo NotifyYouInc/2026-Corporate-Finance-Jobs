@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westmount, Quebec, Canada |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.lever.co/distro/23d1f448-4644-4a75-9b84-342209909671) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.lever.co/distro/2b2503a6-7884-48f1-901a-9abbbdaf1608) |
 
 ## About This Role
 
-This corporate finance position at Distro was posted on 2026-03-30.
+This corporate finance position at Distro was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

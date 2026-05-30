@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | Louisville, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/IL---Springfield-62704/Senior-Estate-Settlement-Advisor---Private-Bank_R222087-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/KY---Louisville-40202/Senior-Estate-Settlement-Advisor---Private-Bank_R223741-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-05-12.
+This corporate finance position at PNC Financial was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

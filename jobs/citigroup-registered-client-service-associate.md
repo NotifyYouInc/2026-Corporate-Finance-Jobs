@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Jose, California, United States |
+| Location | East Meadow, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Jose-California-United-States/Registered-Client-Service-Associate_26966072) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/East-Meadow-New-York-United-States/Registered-Client-Service-Associate_26966542) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-21.
+This corporate finance position at Citigroup was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

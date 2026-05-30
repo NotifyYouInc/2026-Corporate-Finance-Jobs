@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ramsey, Minnesota, United States |
+| Location | Bend, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/BMW-of-Ramsey-Ramsey-NJ-07446/Dealership-Accounting-Coordinator-I_R107913) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Bend-Chevrolet-Bend-OR-97701/Dealership-Accounting-Coordinator-I_R109334) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-04-30.
+This corporate finance position at Lithia Motors was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

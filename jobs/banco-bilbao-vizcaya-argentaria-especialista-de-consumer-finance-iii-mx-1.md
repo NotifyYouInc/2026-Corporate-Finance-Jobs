@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Gustavo-A-Madero-07300/ESPECIALISTA-DE-CONSUMER-FINANCE-III-MX-1_JR00102187-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Gustavo-A-Madero-07300/ESPECIALISTA-DE-CONSUMER-FINANCE-III-MX-1_JR00104601-1) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-24.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

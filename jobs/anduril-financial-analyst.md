@@ -1,16 +1,16 @@
-# Financial Analyst at Anduril
+# Financial Analyst  at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5131037007?gh_jid=5131037007) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5142987007?gh_jid=5142987007) |
 
 ## About This Role
 
-This corporate finance position at Anduril was posted on 2026-05-13.
+This corporate finance position at Anduril was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
