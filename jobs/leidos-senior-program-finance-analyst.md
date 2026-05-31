@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Program-Finance-Analyst_R-00178925) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Program-Finance-Analyst_R-00183993) |
 
 ## About This Role
 
-This corporate finance position at Leidos was posted on 2026-03-20.
+This corporate finance position at Leidos was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

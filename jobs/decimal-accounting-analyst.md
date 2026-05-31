@@ -1,16 +1,16 @@
-# Especialista de Crédito (SYNAP) at Syngenta
+# Accounting Analyst at Decimal
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Decimal](https://scoutify.ai/companies/decimal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Philippines |
 | Category | Corporate Finance |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000127935332-especialista-de-credito-synap) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/decimal/b353ce32-2e6d-4109-8c9c-de8781a06c56) |
 
 ## About This Role
 
-This corporate finance position at Syngenta was posted on 2026-05-22.
+This corporate finance position at Decimal was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

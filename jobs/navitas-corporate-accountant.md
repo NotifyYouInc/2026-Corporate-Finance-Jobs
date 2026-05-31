@@ -1,16 +1,16 @@
-# Experienced Trader at Gelber Group
+# Corporate Accountant at Navitas
 
 | Field | Details |
 |-------|---------|
-| Company | [Gelber Group](https://scoutify.ai/companies/gelbergroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Navitas](https://scoutify.ai/companies/navitas?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Perth, Western Australia, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4683960006) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/navitas/6000000001099123-corporate-accountant) |
 
 ## About This Role
 
-This corporate finance position at Gelber Group was posted on 2026-05-22.
+This corporate finance position at Navitas was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

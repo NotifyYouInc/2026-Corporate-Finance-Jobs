@@ -1,16 +1,16 @@
-# Underwriter - Crop at QBE Insurance
+# Finance Manager Taiwan at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
-| Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fresno, California, United States |
+| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Fresno-CA-USA/Underwriter---Crop_355614) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000127999699-finance-manager-taiwan) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-05-23.
+This corporate finance position at Eurofins Scientific was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

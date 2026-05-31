@@ -1,16 +1,16 @@
-# Underwriter - Crop at QBE Insurance
+# Associate, Accounting Operations at Cerberus
 
 | Field | Details |
 |-------|---------|
-| Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fresno, California, United States |
+| Company | [Cerberus](https://scoutify.ai/companies/cerberus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Baarn, Utrecht, The Netherlands |
 | Category | Corporate Finance |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Fresno-CA-USA/Underwriter---Crop_355614) |
+| Apply | [View on company site](https://cerberus.wd1.myworkdayjobs.com/cerberuscareers/job/Baarn-The-Netherlands/Associate--Accounting-Operations_R2074) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-05-23.
+This corporate finance position at Cerberus was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

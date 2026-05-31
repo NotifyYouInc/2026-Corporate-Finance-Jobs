@@ -1,16 +1,16 @@
-# Underwriter - Crop at QBE Insurance
+# Assistant Manager, Fund Administration (Onboarding) at Juniper Square
 
 | Field | Details |
 |-------|---------|
-| Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fresno, California, United States |
+| Company | [Juniper Square](https://scoutify.ai/companies/juniper-square?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Canada |
 | Category | Corporate Finance |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Fresno-CA-USA/Underwriter---Crop_355614) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/junipersquare/42ab3ae6-6792-4727-8b85-b655f7f3014b) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-05-23.
+This corporate finance position at Juniper Square was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

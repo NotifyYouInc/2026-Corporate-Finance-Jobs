@@ -1,16 +1,16 @@
-# Especialista de Crédito (SYNAP) at Syngenta
+# Solvency UK Reporting Manager at Athora
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Athora](https://scoutify.ai/companies/athora?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000127935332-especialista-de-credito-synap) |
+| Apply | [View on company site](https://athora.wd3.myworkdayjobs.com/athora-careers/job/London/Solvency-UK-Reporting-Manager_R-02081) |
 
 ## About This Role
 
-This corporate finance position at Syngenta was posted on 2026-05-22.
+This corporate finance position at Athora was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

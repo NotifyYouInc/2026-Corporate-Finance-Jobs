@@ -1,16 +1,16 @@
-# Underwriter - Crop at QBE Insurance
+# Audit Supervisor (5 Positions) at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fresno, California, United States |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Fresno-CA-USA/Underwriter---Crop_355614) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013281836-audit-supervisor-5-positions) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-05-23.
+This corporate finance position at City of New York was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Experienced Trader at Gelber Group
+# Strategic Finance Associate at Loop
 
 | Field | Details |
 |-------|---------|
-| Company | [Gelber Group](https://scoutify.ai/companies/gelbergroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Loop](https://scoutify.ai/companies/loop?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4683960006) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/loop/jobs/5807860004) |
 
 ## About This Role
 
-This corporate finance position at Gelber Group was posted on 2026-05-22.
+This corporate finance position at Loop was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

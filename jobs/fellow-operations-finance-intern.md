@@ -1,16 +1,16 @@
-# Especialista de Crédito (SYNAP) at Syngenta
+# Operations & Finance Intern at Fellow
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Fellow](https://scoutify.ai/companies/fellow?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000127935332-especialista-de-credito-synap) |
+| Apply | [View on company site](https://fellowproducts.com/pages/careers?gh_jid=5145445007) |
 
 ## About This Role
 
-This corporate finance position at Syngenta was posted on 2026-05-22.
+This corporate finance position at Fellow was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

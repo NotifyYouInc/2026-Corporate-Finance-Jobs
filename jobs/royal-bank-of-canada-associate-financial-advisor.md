@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Rockford, Illinois, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/St-Louis-Missouri-United-States-of-America/Associate-Financial-Advisor_R-0000173531) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Rockford-Illinois-United-States-of-America/Associate-Financial-Advisor_R-0000171611-1) |
 
 ## About This Role
 

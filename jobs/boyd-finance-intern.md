@@ -1,16 +1,16 @@
-# Experienced Trader at Gelber Group
+# Finance Intern at Boyd
 
 | Field | Details |
 |-------|---------|
-| Company | [Gelber Group](https://scoutify.ai/companies/gelbergroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Boyd](https://scoutify.ai/companies/boyd?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Pleasanton, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4683960006) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://boydcorp.wd12.myworkdayjobs.com/boyd_careers/job/Pleasanton/Finance-Intern_R-102738-1) |
 
 ## About This Role
 
-This corporate finance position at Gelber Group was posted on 2026-05-22.
+This corporate finance position at Boyd was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

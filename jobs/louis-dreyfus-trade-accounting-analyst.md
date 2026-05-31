@@ -1,16 +1,16 @@
-# Underwriter - Crop at QBE Insurance
+# Trade Accounting Analyst at Louis Dreyfus
 
 | Field | Details |
 |-------|---------|
-| Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fresno, California, United States |
+| Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Corporate Finance |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Fresno-CA-USA/Underwriter---Crop_355614) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000127998759-trade-accounting-analyst) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-05-23.
+This corporate finance position at Louis Dreyfus was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 
