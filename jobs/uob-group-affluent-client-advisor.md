@@ -5,12 +5,12 @@
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Bangkok-City-Area/Affluent-Client-Advisor_JR84972) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Bangkok-City-Area/Affluent-Client-Advisor_JR87232) |
 
 ## About This Role
 
-This corporate finance position at UOB Group was posted on 2026-04-27.
+This corporate finance position at UOB Group was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Frontenac, Missouri, United States |
+| Location | Charleston, South Carolina, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/FRONTENAC-MO/Senior-Registered-Client-Associate_R-547544) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLESTON-SC/Senior-Registered-Client-Associate_R-547482) |
 
 ## About This Role
 

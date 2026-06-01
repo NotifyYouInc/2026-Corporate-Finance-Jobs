@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/PMO-Cost-Engineer_JR99177) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/PMO-Cost-Engineer_JR100848) |
 
 ## About This Role
 
-This corporate finance position at Micron was posted on 2026-05-18.
+This corporate finance position at Micron was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

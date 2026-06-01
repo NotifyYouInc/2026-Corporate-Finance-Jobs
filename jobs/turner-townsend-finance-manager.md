@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000126905058-finance-manager) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000128045109-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at Turner & Townsend was posted on 2026-05-18.
+This corporate finance position at Turner & Townsend was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

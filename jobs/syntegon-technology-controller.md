@@ -1,16 +1,16 @@
-# Controller  at Syntegon Technology
+# Controller at Syntegon Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Weert, Limburg, The Netherlands |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000108532635-controller) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000128179559-controller) |
 
 ## About This Role
 
-This corporate finance position at Syntegon Technology was posted on 2026-02-10.
+This corporate finance position at Syntegon Technology was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Brand Finance Manager  at AbbVie
+# Brand Finance Manager at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012327496-brand-finance-manager) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013283936-brand-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-26.
+This corporate finance position at AbbVie was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

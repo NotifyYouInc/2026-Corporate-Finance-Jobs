@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Location | Alor Setar, Kedah, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Taman-Molek/Premier-Banking-Affluent-Client-Relationship-Management---MGR_JR00008077) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Alor-Setar/Premier-Banking-Affluent-Client-Relationship-Management---MGR_JR00008179) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-05-21.
+This corporate finance position at OCBC was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

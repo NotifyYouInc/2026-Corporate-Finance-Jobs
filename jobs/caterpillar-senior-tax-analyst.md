@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Senior-Tax-Analyst_R0000349835) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Tax-Analyst_R0000371779-1) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-04-02.
+This corporate finance position at Caterpillar was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

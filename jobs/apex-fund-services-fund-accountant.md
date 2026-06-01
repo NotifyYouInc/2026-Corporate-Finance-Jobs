@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Trianon, South Province, New Caledonia |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Fund-Accountant_JR-0022281) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Fund-Accountant_JR-0023047) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-05-18.
+This corporate finance position at Apex Fund Services was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
