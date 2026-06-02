@@ -1,16 +1,16 @@
-# Finance Manager Taiwan at Eurofins Scientific
+# Finance Manager, Taiwan at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000127999699-finance-manager-taiwan) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000128320654-finance-manager-taiwan) |
 
 ## About This Role
 
-This corporate finance position at Eurofins Scientific was posted on 2026-05-23.
+This corporate finance position at Eurofins Scientific was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

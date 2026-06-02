@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000124972380-sr-analyst-vendor-management) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000128401689-sr-analyst-vendor-management) |
 
 ## About This Role
 
-This corporate finance position at Mattel was posted on 2026-05-06.
+This corporate finance position at Mattel was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Fund-Accounting-Analyst_26957632) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst_26964873) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-29.
+This corporate finance position at Citigroup was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000122375419-senior-project-accounting-analyst-pmo) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000128399149-senior-project-accounting-analyst-pmo) |
 
 ## About This Role
 
-This corporate finance position at Ramboll was posted on 2026-04-23.
+This corporate finance position at Ramboll was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
