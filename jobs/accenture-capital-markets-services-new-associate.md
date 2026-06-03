@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Capital-Markets-Services-New-Associate_AIOC-S01647233-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Capital-Markets-Services-New-Associate_AIOC-S01647545-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-22.
+This corporate finance position at Accenture was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

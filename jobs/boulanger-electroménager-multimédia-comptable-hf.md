@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boulanger Electroménager & Multimédia](https://scoutify.ai/companies/boulangerelectromnagermultimdia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Blois, Centre-Val de Loire, France |
+| Location | Gruchet-le-Valasse, Normandy, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000116447057-comptable-hf) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000128644164-comptable-hf) |
 
 ## About This Role
 
-This corporate finance position at Boulanger Electroménager & Multimédia was posted on 2026-03-24.
+This corporate finance position at Boulanger Electroménager & Multimédia was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

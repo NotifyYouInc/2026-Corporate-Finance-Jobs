@@ -1,16 +1,16 @@
-# AIS Investor Services - Senior Associate at State Street
+# AIS Investor Services- Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/AIS-Investor-Services---Senior-Associate_R-784706) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/AIS-Investor-Services--Senior-Associate_R-791114) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-01.
+This corporate finance position at State Street was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

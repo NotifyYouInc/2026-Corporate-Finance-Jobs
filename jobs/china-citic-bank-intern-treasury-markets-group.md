@@ -5,12 +5,12 @@
 | Company | [China CITIC Bank](https://scoutify.ai/companies/china-citic-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | China |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cncbinternational.wd3.myworkdayjobs.com/cncbiexternalcareersite/job/Hong-Kong/Intern--Treasury---Markets-Group_JR2235) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://cncbinternational.wd3.myworkdayjobs.com/cncbiexternalcareersite/job/Hong-Kong/Intern--Treasury---Markets-Group_JR2369) |
 
 ## About This Role
 
-This corporate finance position at China CITIC Bank was posted on 2026-04-22.
+This corporate finance position at China CITIC Bank was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

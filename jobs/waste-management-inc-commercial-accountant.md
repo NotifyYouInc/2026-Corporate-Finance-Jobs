@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Management, Inc.](https://scoutify.ai/companies/wastemanagementinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Auckland, NZ |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WasteManagement8/6000000000895214-commercial-accountant) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WasteManagement8/6000000001109090-commercial-accountant) |
 
 ## About This Role
 
-This corporate finance position at Waste Management, Inc. was posted on 2026-02-25.
+This corporate finance position at Waste Management, Inc. was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

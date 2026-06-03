@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bankerohan-Davao-City-PHL/Treasury-Associate_R0244079) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/E-Rodriguez-Quezon-City-Metro-Manila-PHL/Treasury-Associate_R0246859) |
 
 ## About This Role
 
-This corporate finance position at Fresenius Medical Care was posted on 2026-03-23.
+This corporate finance position at Fresenius Medical Care was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

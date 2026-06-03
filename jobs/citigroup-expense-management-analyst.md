@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Market-Data-Expense-Management-Analyst_25920284) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Expense-Management-Analyst_26965626) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-02-26.
+This corporate finance position at Citigroup was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

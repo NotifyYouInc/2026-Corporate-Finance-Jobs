@@ -1,16 +1,16 @@
-# Senior Associate level 1 at Apex Fund Services
+# Senior Associate Level 1 at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad-Sy-No-53/Senior-Associate-level-1_JR-0021097) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Senior-Associate-Level-1_JR-0023271) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-04-03.
+This corporate finance position at Apex Fund Services was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

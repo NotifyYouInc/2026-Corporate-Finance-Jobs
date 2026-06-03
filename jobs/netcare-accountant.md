@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcare](https://scoutify.ai/companies/netcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://netcare.wd103.myworkdayjobs.com/netcareexternal/job/UCT-Private-Academic-Hospital/Accountant_JR104743) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://netcare.wd103.myworkdayjobs.com/netcareexternal/job/Akeso-Milnerton/Accountant_JR106897) |
 
 ## About This Role
 
-This corporate finance position at Netcare was posted on 2026-02-04.
+This corporate finance position at Netcare was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

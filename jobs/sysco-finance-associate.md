@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Halifax, Nova Scotia, Canada |
+| Location | Saint Paul, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Halifax/Finance-Associate_R248451) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Asian-Foods/Finance-Associate_R252576) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-04-24.
+This corporate finance position at Sysco was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

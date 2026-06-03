@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taupo, Waikato Region, New Zealand |
+| Location | Sunshine Coast, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000127533040-financial-controller) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000128638510-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-21.
+This corporate finance position at ACCOR was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

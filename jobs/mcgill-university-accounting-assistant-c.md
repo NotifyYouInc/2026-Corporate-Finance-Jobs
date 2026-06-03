@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sherbrooke, Quebec, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Sherbrooke-1010/Accounting-Assistant-C_JR0000075163) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McGill-College-2001/Accounting-Assistant-C_JR0000077134-1) |
 
 ## About This Role
 
-This corporate finance position at McGill University was posted on 2026-04-16.
+This corporate finance position at McGill University was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

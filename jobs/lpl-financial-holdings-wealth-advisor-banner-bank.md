@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Blaine-WA/Wealth-Advisor---Banner-Bank_R-050812-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Medford-OR/Wealth-Advisor---Banner-Bank_R-050848-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-05-22.
+This corporate finance position at LPL Financial Holdings was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

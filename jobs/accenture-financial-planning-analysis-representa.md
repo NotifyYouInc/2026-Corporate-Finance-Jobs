@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Dalian, Liaoning, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Financial-Planning---Analysis-Representa_ATCI-5100559-S1901494-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Financial-Planning---Analysis-Representa_14354940) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-05.
+This corporate finance position at Accenture was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

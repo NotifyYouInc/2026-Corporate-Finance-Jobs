@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | France |
+| Location | Rosny-sous-Bois, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000118566217-comptable-copropriete-hf) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000128475329-comptable-copropriete-hf) |
 
 ## About This Role
 
-This corporate finance position at Evoriel was posted on 2026-04-03.
+This corporate finance position at Evoriel was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
