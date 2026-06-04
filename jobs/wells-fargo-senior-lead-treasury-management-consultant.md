@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Portland, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LOS-ANGELES-CA/Senior-Lead-Treasury-Management-Consultant_R-544738-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PORTLAND-OR/Senior-Lead-Treasury-Management-Consultant_R-546617) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-12.
+This corporate finance position at Wells Fargo was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

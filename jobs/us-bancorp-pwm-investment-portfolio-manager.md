@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/PWM-Investment-Portfolio-Manager_2026-0005949) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Dallas-TX/PWM-Investment-Portfolio-Manager_2026-0013907-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bancorp was posted on 2026-05-14.
+This corporate finance position at U.S. Bancorp was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

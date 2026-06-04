@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Universal City, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000126580569-financial-analyst) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000128816580-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-05-14.
+This corporate finance position at NBCUniversal was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

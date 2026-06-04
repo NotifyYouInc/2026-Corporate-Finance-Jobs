@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MIAMI-FL/Lead-Treasury-Management-Consultant_R-510005) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SEATTLE-WA/Lead-Treasury-Management-Consultant_R-546635) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-28.
+This corporate finance position at Wells Fargo was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

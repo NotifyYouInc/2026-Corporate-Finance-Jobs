@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | San Jose, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Salt-Lake-City-Utah/Tax-Manager--Corporate_JR103881) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/San-Jose-California/Tax-Manager--Corporate_JR103954) |
 
 ## About This Role
 
-This corporate finance position at Armanino was posted on 2026-05-06.
+This corporate finance position at Armanino was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

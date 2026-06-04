@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guatemala |
+| Location | Chimaltenango, Chimaltenango, Guatemala |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990013219576-21003640-supervisor-de-trade-marketing) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990013335766-21003640-supervisor-de-trade-marketing) |
 
 ## About This Role
 
-This corporate finance position at Grupo Mariposa was posted on 2026-05-19.
+This corporate finance position at Grupo Mariposa was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

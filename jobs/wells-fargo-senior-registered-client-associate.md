@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Location | Short Hills, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLESTON-SC/Senior-Registered-Client-Associate_R-547482) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SHORT-HILLS-NJ/Senior-Registered-Client-Associate_R-546999) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-22.
+This corporate finance position at Wells Fargo was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000127535022-assistant-accountant) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000128848879-assistant-accountant) |
 
 ## About This Role
 
-This corporate finance position at Coface was posted on 2026-05-21.
+This corporate finance position at Coface was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

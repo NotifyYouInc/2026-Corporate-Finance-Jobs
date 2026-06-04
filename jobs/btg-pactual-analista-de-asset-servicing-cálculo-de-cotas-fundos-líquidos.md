@@ -5,12 +5,12 @@
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5824258004) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6007102004) |
 
 ## About This Role
 
-This corporate finance position at BTG Pactual was posted on 2026-03-11.
+This corporate finance position at BTG Pactual was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Maplewood, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/FP-A-Manager--SIBG_R01165432) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/FP-A-Manager--SIBG_R01165954) |
 
 ## About This Role
 
-This corporate finance position at 3M Company was posted on 2026-05-18.
+This corporate finance position at 3M Company was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

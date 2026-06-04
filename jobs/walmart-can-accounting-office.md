@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Canada |
+| Location | Ontario, CA |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/CAN-BC-TSAWWASSEN-01181-WM-SUPERCENTER/XMLNAME--CAN--Accounting-Office_R-2519388) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/CAN-ON-SAULT-STE-MARIE-ONTARIO-03155-WM-SUPERCENTER/XMLNAME--CAN--Accounting-Office_R-2524163) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-05-22.
+This corporate finance position at Walmart was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

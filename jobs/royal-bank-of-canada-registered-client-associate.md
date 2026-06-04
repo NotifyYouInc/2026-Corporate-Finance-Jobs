@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kirkland, Washington, United States |
+| Location | El Segundo, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Kirkland-Washington-United-States-of-America/Registered-Client-Associate_R-0000173269) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/El-Segundo-California-United-States-of-America/Registered-Client-Associate_R-0000174392) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-20.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

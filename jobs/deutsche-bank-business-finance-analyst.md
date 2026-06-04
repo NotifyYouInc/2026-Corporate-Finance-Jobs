@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B7/Business-Finance-Analyst_R0419714) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B7/Business-Finance-Analyst_R0434022-1) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-02-12.
+This corporate finance position at Deutsche Bank was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hilton Head Island, South Carolina, United States |
+| Location | Purchase, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/HILTON-HEAD-ISLAND-SC/Client-Associate_R-546594) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PURCHASE-NY/Client-Associate_R-547459) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-22.
+This corporate finance position at Wells Fargo was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Investment-Administration-Officer_JR100756) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Investment-Administration-Officer_JR100754) |
 
 ## About This Role
 
-This corporate finance position at Hub24management was posted on 2026-05-05.
+This corporate finance position at Hub24management was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

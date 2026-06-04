@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Walnut Creek, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Denver-CO/Intern_R-102411) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Walnut-Creek-CA/Intern_R-102486) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-04-30.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

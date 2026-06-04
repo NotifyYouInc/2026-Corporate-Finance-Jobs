@@ -5,12 +5,12 @@
 | Company | [Clydeco](https://scoutify.ai/companies/clydeco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://clydeco.wd103.myworkdayjobs.com/clydecocareers/job/Kansas-City/Collections-Analyst_JR1907) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://clydeco.wd103.myworkdayjobs.com/clydecocareers/job/Kansas-City/Collections-Analyst_JR2145) |
 
 ## About This Role
 
-This corporate finance position at Clydeco was posted on 2026-04-14.
+This corporate finance position at Clydeco was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

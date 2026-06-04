@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Hong-Kong-Intl-Commerce-Ctr/Private-Bank---Client-Service-Executive--North-Asia--AVP_R0400492) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Hong-Kong-Intl-Commerce-Ctr/Private-Bank---Client-Service-Executive--North-Asia--AVP_R0433835-1) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-04-28.
+This corporate finance position at Deutsche Bank was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

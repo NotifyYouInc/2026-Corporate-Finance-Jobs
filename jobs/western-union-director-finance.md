@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/USA---FL---Miami/Director--Finance_JR0129647-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/SGP---Singapore/Director--Finance_JR0130067) |
 
 ## About This Role
 
-This corporate finance position at Western Union was posted on 2026-03-06.
+This corporate finance position at Western Union was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Accountant 3, Fund Accounting at IQ-EQ
+# Accountant 3, Fund Accounting  at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000127119799-accountant-3-fund-accounting) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000128857519-accountant-3-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-05-19.
+This corporate finance position at IQ-EQ was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

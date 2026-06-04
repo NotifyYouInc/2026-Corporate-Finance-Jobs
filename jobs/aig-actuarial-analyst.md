@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vietnam |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Ho-Chi-Minh/Actuarial-Analyst_JR2601576) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/Actuarial-Analyst_JR2601908) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-04-20.
+This corporate finance position at AIG was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

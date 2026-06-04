@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/Dealer-Commercial-Services-Underwriter_Req1565513) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/Dealer-Commercial-Services-Underwriter_Req1576305) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-04-20.
+This corporate finance position at Santander was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

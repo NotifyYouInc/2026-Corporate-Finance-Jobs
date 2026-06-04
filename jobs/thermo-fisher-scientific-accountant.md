@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Taipei-Taiwan/Accountant_R-01346889) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Giheung-Korea-Republic-of/Accountant_R-01353945) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-23.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

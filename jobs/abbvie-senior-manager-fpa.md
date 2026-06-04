@@ -1,16 +1,16 @@
-# Senior Manager, FP&A at AbbVie
+# (Senior) Manager, FP&A at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011669516-senior-manager-fpa) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013342166-senior-manager-fpa) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-13.
+This corporate finance position at AbbVie was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

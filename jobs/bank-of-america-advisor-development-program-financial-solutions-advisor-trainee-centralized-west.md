@@ -1,16 +1,16 @@
-# Advisor Development Program - Financial Solutions Advisor Trainee (Centralized) - Westlake Village Merrill Office at Bank of America
+# Advisor Development Program - Financial Solutions Advisor Trainee Centralized- Westlake Village Merrill Office (Target) at Bank of America
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | California, US |
+| Location | Westlake Village, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Westlake-Village/Advisor-Development-Program---Financial-Solutions-Advisor-Trainee--Centralized----Westlake-Village-Merrill-Office_26010592) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Westlake-Village/Advisor-Development-Program---Financial-Solutions-Advisor-Trainee-Centralized--Westlake-Village-Merrill-Office--Target-_26018354) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-20.
+This corporate finance position at Bank of America was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

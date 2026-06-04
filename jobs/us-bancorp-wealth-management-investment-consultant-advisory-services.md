@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Gresham, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Wealth-Management-Investment-Consultant--Advisory-Services_2026-0004229) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Gresham-OR/Wealth-Management-Investment-Consultant--Advisory-Services_2026-0013741) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bancorp was posted on 2026-04-26.
+This corporate finance position at U.S. Bancorp was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

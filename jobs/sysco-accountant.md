@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Brunswick, CA |
+| Location | Ontario, CA |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Canada-Inc/Accountant_R239725) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Canada-Inc/Accountant_R252906-1) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-02-20.
+This corporate finance position at Sysco was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Chihuahua, Chihuahua, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Singapore/Financial-Analyst_J2442843-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Financial-Analyst_J2451299) |
 
 ## About This Role
 
-This corporate finance position at Jabil was posted on 2026-03-13.
+This corporate finance position at Jabil was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

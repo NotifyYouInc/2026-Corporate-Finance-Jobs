@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Penang/Principal-Analyst-Tax---Subsidies_JR-2601705) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Sofia/Principal-Analyst-Tax---Subsidies_JR-2601776) |
 
 ## About This Role
 
-This corporate finance position at GlobalFoundries was posted on 2026-04-28.
+This corporate finance position at GlobalFoundries was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

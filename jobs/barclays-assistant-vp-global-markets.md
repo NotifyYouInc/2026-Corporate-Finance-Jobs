@@ -1,16 +1,16 @@
-# Assistant VP – Global Markets at Barclays
+# Assistant VP - Global Markets at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Assistant-VP---Global-Markets_JR-0000110441) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Assistant-VP---Global-Markets_JR-0000113753-1) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-04-29.
+This corporate finance position at Barclays was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

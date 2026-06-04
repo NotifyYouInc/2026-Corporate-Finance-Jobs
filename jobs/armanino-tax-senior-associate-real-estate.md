@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Irvine-California/Tax-Senior-Associate--Real-Estate_JR103827) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/New-York-City-New-York-Madison-Ave/Tax-Senior-Associate--Real-Estate_JR103953) |
 
 ## About This Role
 
-This corporate finance position at Armanino was posted on 2026-04-17.
+This corporate finance position at Armanino was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

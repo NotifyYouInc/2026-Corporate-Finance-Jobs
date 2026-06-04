@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Prisma Health](https://scoutify.ai/companies/prisma-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Columbia, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://prismahealth.wd5.myworkdayjobs.com/prismahealthcorporate/job/Blount-Memorial-Hospital/Credit-Processing-Specialist--FT--Days----Remote_R1134252) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://prismahealth.wd5.myworkdayjobs.com/prismahealthcorporate/job/Columbia-SC/Credit-Processing-Specialist--FT--Days----Remote_R1137912) |
 
 ## About This Role
 
-This corporate finance position at Prisma Health was posted on 2026-02-27.
+This corporate finance position at Prisma Health was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tempe-AZ/Fund-Accountant_2026-0011248-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Dublin-Ireland/Fund-Accountant_2026-0013704) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-21.
+This corporate finance position at U.S. Bank was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

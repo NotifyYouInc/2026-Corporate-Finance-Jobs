@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Brazil-Sao-Paulo-Sao-Paulo/Profissionais-de-Finanas----Afirmativa-para-Pessoas-com-Deficincia--PCD-_2507039683W) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-Hong-Kong-Hong-Kong-Mongkok/Senior-Financial-Analyst_2607045027W) |
 
 ## About This Role
 
-This corporate finance position at Kenvue was posted on 2026-02-25.
+This corporate finance position at Kenvue was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

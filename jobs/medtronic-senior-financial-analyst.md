@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fridley, Minnesota, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Senior-Financial-Analyst_R65161-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Financial-Analyst_R67743-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-04-30.
+This corporate finance position at Medtronic was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
