@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/FIG-Investment-Banking-Senior-Associate_R0114377) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/FIG-Investment-Banking-Senior-Associate_R0115083) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-05-07.
+This corporate finance position at Truist was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

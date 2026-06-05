@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | South Bend, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Huntersville-NC/Senior-Finance-Analyst_R-135672-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/South-Bend-IN/Senior-Finance-Analyst_R-137030) |
 
 ## About This Role
 
-This corporate finance position at Ferguson was posted on 2026-04-14.
+This corporate finance position at Ferguson was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

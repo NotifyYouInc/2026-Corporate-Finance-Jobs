@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MADISON-WI/Associate-Bank-Financial-Advisor_R-544703) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/RALEIGH-NC/Associate-Bank-Financial-Advisor_R-548472) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-13.
+This corporate finance position at Wells Fargo was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

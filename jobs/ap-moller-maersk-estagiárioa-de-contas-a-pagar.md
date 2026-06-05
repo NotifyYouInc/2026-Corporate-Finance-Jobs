@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/BrazilSo-PauloSao-Paulo04794-000/Estagirio-a--de-Contas-a-Pagar_R180202) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/BrazilSo-PauloSao-Paulo04794-000/Estagirio-a--de-Contas-a-Pagar_R182412) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-05-06.
+This corporate finance position at A.P. Moller - Maersk was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

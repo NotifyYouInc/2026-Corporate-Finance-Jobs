@@ -5,12 +5,12 @@
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Buffalo, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Buffalo-NY/Controller---LGM-Buffalo--AdPro-_R100120795) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Buffalo-NY/Controller---LGM-Buffalo--AdPro-_R100123023) |
 
 ## About This Role
 
-This corporate finance position at ASM Global was posted on 2026-03-05.
+This corporate finance position at ASM Global was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

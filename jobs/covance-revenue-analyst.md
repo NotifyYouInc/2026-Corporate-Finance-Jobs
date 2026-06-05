@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/So-Paulo/Revenue-Analyst_261906) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/So-Paulo/Revenue-Analyst_262801) |
 
 ## About This Role
 
-This corporate finance position at Covance was posted on 2026-04-16.
+This corporate finance position at Covance was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

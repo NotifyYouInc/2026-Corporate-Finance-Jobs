@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Credit-Analyst_JR00008008) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Wisma-Lee-Rubber/Credit-Analyst_JR00008124) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-05-25.
+This corporate finance position at OCBC was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

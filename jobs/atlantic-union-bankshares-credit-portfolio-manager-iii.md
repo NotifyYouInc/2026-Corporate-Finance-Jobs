@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Atlantic Union Bankshares](https://scoutify.ai/companies/atlantic-union-bankshares?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://recruiting.ultipro.com/uni1046ufmb/JobBoard/d8f90aad-672e-4f0a-bbc1-a17aa8cf1111/OpportunityDetail?opportunityId=35003d77-7599-4000-883f-b726e77f8757) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://recruiting.ultipro.com/uni1046ufmb/JobBoard/d8f90aad-672e-4f0a-bbc1-a17aa8cf1111/OpportunityDetail?opportunityId=750ee6eb-ab19-46fa-ab6d-6f743d0187fb) |
 
 ## About This Role
 
-This corporate finance position at Atlantic Union Bankshares was posted on 2026-05-26.
+This corporate finance position at Atlantic Union Bankshares was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Council Bluffs, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Denver-Colorado/Financial-Analyst--Plant-Accounting_Req-037924-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Council-Bluffs-Iowa/Financial-Analyst--Plant-Accounting_Req-037959) |
 
 ## About This Role
 
-This corporate finance position at Conagra Brands was posted on 2026-05-01.
+This corporate finance position at Conagra Brands was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Sidney, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/St-Louis-MO-USA/Senior-Financial-Analyst_JR114559) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Sidney-OH-USA/Senior-Financial-Analyst_JR115400-1) |
 
 ## About This Role
 
-This corporate finance position at Copeland was posted on 2026-04-24.
+This corporate finance position at Copeland was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | South Korea |
+| Location | Seoul, Seoul, South Korea |
 | Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7956898) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7965040) |
 
 ## About This Role
 
-This corporate finance position at Coupang was posted on 2026-05-26.
+This corporate finance position at Coupang was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

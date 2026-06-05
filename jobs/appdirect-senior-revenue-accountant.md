@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AppDirect](https://scoutify.ai/companies/appdirect?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appdirect/jobs/8557923002) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appdirect/jobs/8570104002) |
 
 ## About This Role
 
-This corporate finance position at AppDirect was posted on 2026-05-20.
+This corporate finance position at AppDirect was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

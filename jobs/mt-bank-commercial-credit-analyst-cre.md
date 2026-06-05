@@ -1,16 +1,16 @@
-# Commercial Credit Analyst - CRE at M&T Bank
+# Commercial Credit Analyst, CRE at M&T Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | Falls Church, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Commercial-Credit-Analyst---CRE_R85405) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Falls-Church-VA/Commercial-Credit-Analyst--CRE_R86145) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-05-07.
+This corporate finance position at M&T Bank was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

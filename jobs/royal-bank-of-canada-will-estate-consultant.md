@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Will---Estate-Consultant_R-0000170564-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Will---Estate-Consultant_R-0000174189) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-30.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/Sr-Manager--Finance_R-01353639-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Taipei-Taiwan/Sr-Manager--Finance_R-01354855) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-05-18.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

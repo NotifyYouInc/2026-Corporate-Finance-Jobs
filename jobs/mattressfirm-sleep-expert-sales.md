@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Spokane, Washington, United States |
+| Location | Jonesboro, Arkansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Couerd-Alene-Idaho/Sleep-Expert---Sales_JR-P0062037) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Jonesboro-Arkansas/Sleep-Expert---Sales_JR-P0062060) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-27.
+This corporate finance position at Mattressfirm was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

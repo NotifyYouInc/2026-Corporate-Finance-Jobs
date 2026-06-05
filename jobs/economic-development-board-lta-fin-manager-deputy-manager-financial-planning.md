@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/XMLNAME--LTA---PT--MANAGER---DEPUTY-MANAGER--FINANCIAL-PLANNING_JR-10000046433-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/XMLNAME--LTA---FIN--MANAGER---DEPUTY-MANAGER--FINANCIAL-PLANNING_JR-10000051383) |
 
 ## About This Role
 
-This corporate finance position at Economic Development Board was posted on 2026-02-19.
+This corporate finance position at Economic Development Board was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

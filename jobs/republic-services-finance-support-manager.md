@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Nashville-TN-USA/Finance-Support-Manager_R-175600-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Indianapolis-IN-USA/Finance-Support-Manager_R-175826) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-05-19.
+This corporate finance position at Republic Services was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

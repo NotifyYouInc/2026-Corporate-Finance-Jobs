@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Strive Health](https://scoutify.ai/companies/strive-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/strivehealth/jobs/4676918006) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/strivehealth/jobs/4685216006) |
 
 ## About This Role
 
-This corporate finance position at Strive Health was posted on 2026-04-28.
+This corporate finance position at Strive Health was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

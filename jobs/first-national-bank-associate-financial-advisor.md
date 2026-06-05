@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [First National Bank](https://scoutify.ai/companies/fnbcorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Uniontown, Pennsylvania, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Uniontown-PA/Associate-Financial-Advisor_2026-00891) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Pittsburgh-PA/Associate-Financial-Advisor_2026-01265-1) |
 
 ## About This Role
 
-This corporate finance position at First National Bank was posted on 2026-05-07.
+This corporate finance position at First National Bank was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

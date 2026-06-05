@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Torrance, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Torrance-California-United-States/Wealth-Relationship-Manager-SAFE-Act_26930739) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Torrance-California-United-States/Wealth-Relationship-Manager-SAFE-Act_26966471) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-05.
+This corporate finance position at Citigroup was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

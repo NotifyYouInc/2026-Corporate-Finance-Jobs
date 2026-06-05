@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012923317-manager-finance) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013360456-manager-finance) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-05-01.
+This corporate finance position at AbbVie was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

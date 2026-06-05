@@ -5,12 +5,12 @@
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Atlanta-GA/Credit-Analyst_R0072208) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Cleveland-OH/Credit-Analyst_R0072419) |
 
 ## About This Role
 
-This corporate finance position at Huntington Bancshares was posted on 2026-05-18.
+This corporate finance position at Huntington Bancshares was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

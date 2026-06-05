@@ -5,12 +5,12 @@
 | Company | [American Axle & Manufacturing](https://scoutify.ai/companies/aampower?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | St. Marys, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/St-Marys-PA/Senior-Financial-Analyst_JREQ-221124) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/St-Marys-PA/Senior-Financial-Analyst_JREQ-221281-2) |
 
 ## About This Role
 
-This corporate finance position at American Axle & Manufacturing was posted on 2026-05-15.
+This corporate finance position at American Axle & Manufacturing was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

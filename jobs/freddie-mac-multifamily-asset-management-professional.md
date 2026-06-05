@@ -5,12 +5,12 @@
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Asset-Management-Professional_JR17235) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Asset-Management-Professional_JR17199-1) |
 
 ## About This Role
 
-This corporate finance position at Freddie Mac was posted on 2026-05-16.
+This corporate finance position at Freddie Mac was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

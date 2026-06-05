@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Callao, Callao, Peru |
 | Category | Corporate Finance |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000121622057-assistant-billing-submission-acceptance) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129013009-assistant-billing-submission-acceptance) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-04-19.
+This corporate finance position at SGS was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

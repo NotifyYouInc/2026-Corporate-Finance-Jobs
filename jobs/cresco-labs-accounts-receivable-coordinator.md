@@ -5,12 +5,12 @@
 | Company | [Cresco Labs](https://scoutify.ai/companies/cresco-labs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/crescolabs/jobs/8510710002) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/crescolabs/jobs/8570161002) |
 
 ## About This Role
 
-This corporate finance position at Cresco Labs was posted on 2026-04-16.
+This corporate finance position at Cresco Labs was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Senior-Property-Accountant_REQ491081) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Senior-Property-Accountant_REQ511238) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-06.
+This corporate finance position at JLL was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

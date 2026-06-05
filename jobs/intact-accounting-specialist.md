@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Laval, Quebec, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Spcialiste-en-comptabilit_R152457) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Accounting-Specialist_R153912) |
 
 ## About This Role
 
-This corporate finance position at Intact was posted on 2026-03-20.
+This corporate finance position at Intact was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

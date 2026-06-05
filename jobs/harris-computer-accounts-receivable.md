@@ -5,12 +5,12 @@
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Mumbai-Vikroli/Accounts-Receivable_R0040402-3) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Mumbai-Vikroli/Accounts-Receivable_R0043838-3) |
 
 ## About This Role
 
-This corporate finance position at Harris Computer was posted on 2026-03-13.
+This corporate finance position at Harris Computer was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

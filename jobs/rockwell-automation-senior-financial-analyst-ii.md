@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Senior-Financial-Analyst-II_R26-3066) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Senior-Financial-Analyst-II_R26-3845) |
 
 ## About This Role
 
-This corporate finance position at Rockwell Automation was posted on 2026-05-01.
+This corporate finance position at Rockwell Automation was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

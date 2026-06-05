@@ -5,12 +5,12 @@
 | Company | [Basic-Fit](https://scoutify.ai/companies/basic-fit?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hoofddorp, North Holland, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://basicfit.wd103.myworkdayjobs.com/basicfit_career_site_nl/job/Hoofddorp/Financial-Accountant_R49776) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://basicfit.wd103.myworkdayjobs.com/basicfit_career_site_nl/job/Hoofddorp/Financial-Accountant_R51737) |
 
 ## About This Role
 
-This corporate finance position at Basic-Fit was posted on 2026-03-30.
+This corporate finance position at Basic-Fit was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

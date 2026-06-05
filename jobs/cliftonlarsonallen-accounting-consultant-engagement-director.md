@@ -1,16 +1,16 @@
-# Accounting Consultant - Engagement Director at Cliftonlarsonallen
+# Accounting Consultant: Engagement Director at Cliftonlarsonallen
 
 | Field | Details |
 |-------|---------|
 | Company | [Cliftonlarsonallen](https://scoutify.ai/companies/cliftonlarsonallen?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://cliftonlarsonallen.wd1.myworkdayjobs.com/cla/job/Connection-Center-TempeAZ/Accounting-Consultant---Engagement-Director_R12904) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cliftonlarsonallen.wd1.myworkdayjobs.com/cla/job/Minneapolis-MN/Accounting-Consultant--Engagement-Director_R17480) |
 
 ## About This Role
 
-This corporate finance position at Cliftonlarsonallen was posted on 2026-05-14.
+This corporate finance position at Cliftonlarsonallen was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

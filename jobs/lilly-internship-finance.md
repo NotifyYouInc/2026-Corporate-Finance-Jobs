@@ -5,12 +5,12 @@
 | Company | [Lilly](https://scoutify.ai/companies/lilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/cmp/job/Malaysia-Petaling-Jaya/Internship---Finance_R-104956-2) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/cmp/job/Malaysia-Petaling-Jaya/Internship---Finance_R-106597-2) |
 
 ## About This Role
 
-This corporate finance position at Lilly was posted on 2026-05-18.
+This corporate finance position at Lilly was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

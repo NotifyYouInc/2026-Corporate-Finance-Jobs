@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KPMG Australia](https://scoutify.ai/companies/kpmg-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001084561-assistant-manager-external-audit) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001114417-assistant-manager-external-audit) |
 
 ## About This Role
 
-This corporate finance position at KPMG Australia was posted on 2026-05-19.
+This corporate finance position at KPMG Australia was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

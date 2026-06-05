@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Medellín, Antioquia, Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CO---MEDELLIN-II-GLOBAL-BUSINESS-SERVICES-GBS-COMEL/GBS-Intermed-A-P-Assoc_R26013643-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CO---MEDELLIN-II-GLOBAL-BUSINESS-SERVICES-GBS-COMEL/GBS-Intermed-A-P-Assoc_R26018273) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-04-29.
+This corporate finance position at United Parcel Service (UPS) was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Senior-Manager--US-Domestic-Tax-Compliance_JR0282521) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Senior-Manager--US-Domestic-Tax-Compliance_JR0284276) |
 
 ## About This Role
 
-This corporate finance position at Intel was posted on 2026-03-31.
+This corporate finance position at Intel was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, CA |
+| Location | Mississauga, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONPort-Elgin281-Goderich-St/Cost-Controller_R-151185-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Cost-Controller_R-156355) |
 
 ## About This Role
 
-This corporate finance position at AtkinsRéalis was posted on 2026-03-17.
+This corporate finance position at AtkinsRéalis was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

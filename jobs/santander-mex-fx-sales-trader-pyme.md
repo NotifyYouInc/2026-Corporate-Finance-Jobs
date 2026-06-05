@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Puebla, Puebla, Mexico |
+| Location | Naucalpan de Juárez, México, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/San-Andrs-Cholula/MEX-FX-Sales-Trader-Pyme_Req1547074) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Naucalpan-de-Jurez/MEX-FX-Sales-Trader-Pyme_Req1580441) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-02-23.
+This corporate finance position at Santander was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

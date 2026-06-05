@@ -1,16 +1,16 @@
-# Manager, Program Cost Controls (Hybrid) at RTX
+# Manager, Program Cost Controls HYBRID at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Tewksbury, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Manager--Program-Cost-Controls--Hybrid-_01836643) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Manager--Program-Cost-Controls-HYBRID_01848447-1) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-04-10.
+This corporate finance position at RTX was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

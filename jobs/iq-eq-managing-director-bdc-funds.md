@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000109301220-managing-director-bdc-funds) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000129042699-managing-director-bdc-funds) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-02-13.
+This corporate finance position at IQ-EQ was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | West Palm Beach, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5808644004) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/6008773004) |
 
 ## About This Role
 
-This corporate finance position at Focus Financial Partners was posted on 2026-02-19.
+This corporate finance position at Focus Financial Partners was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

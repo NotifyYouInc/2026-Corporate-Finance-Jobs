@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Mississauga, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CAABCalgary2200---144-4th-avenue-SW/Cost-Controller_R-141381) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CAONMississauga2251-Speakman-Drive/Cost-Controller_R-156355) |
 
 ## About This Role
 
-This corporate finance position at SNC-Lavalin was posted on 2026-04-27.
+This corporate finance position at SNC-Lavalin was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

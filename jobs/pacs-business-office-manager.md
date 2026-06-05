@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Sunnyvale-Post-Acute/Business-Office-Manager_JR168540) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Vasona-Creek-Healthcare-Center/Business-Office-Manager_JR171017-1) |
 
 ## About This Role
 
-This corporate finance position at Pacs was posted on 2026-04-29.
+This corporate finance position at Pacs was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

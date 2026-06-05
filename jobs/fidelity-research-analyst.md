@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Merrimack, New Hampshire, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Research-Analyst_2125057) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Research-Analyst_2130104) |
 
 ## About This Role
 
-This corporate finance position at Fidelity was posted on 2026-03-10.
+This corporate finance position at Fidelity was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

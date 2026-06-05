@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Newton, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Windrose-on-Hudson/Director-of-Finance_R0062410) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Boston-Marriott-Newton/Director-of-Finance_R0058934) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-05-15.
+This corporate finance position at Benchmark was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

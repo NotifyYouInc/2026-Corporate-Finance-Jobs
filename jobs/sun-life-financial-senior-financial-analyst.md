@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Senior-Financial-Analyst_JR00120423) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Senior-Financial-Analyst_JR00124452-2) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-02-12.
+This corporate finance position at Sun Life Financial was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

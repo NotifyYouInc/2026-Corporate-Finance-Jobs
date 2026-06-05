@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Miami/Credit-Advisor---Global-Wealth---Investment-Management_26017520-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Los-Angeles/Credit-Advisor---Global-Wealth---Investment-Management_26018567) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-05-19.
+This corporate finance position at Bank of America was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

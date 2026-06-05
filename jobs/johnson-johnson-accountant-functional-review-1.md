@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Suzhou, Jiangsu, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Suzhou-Jiangsu-China/Accountant--Functional-Review-1_R-076031) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Suzhou-Jiangsu-China/Accountant--Functional-Review-1_R-079614) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-05-15.
+This corporate finance position at Johnson & Johnson was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

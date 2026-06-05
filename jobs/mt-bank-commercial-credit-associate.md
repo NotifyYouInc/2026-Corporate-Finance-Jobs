@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Radnor, Pennsylvania, United States |
+| Location | Buffalo, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Radnor-PA/Commercial-Credit-Associate_R85497) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Commercial-Credit-Associate_R86137) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-05-08.
+This corporate finance position at M&T Bank was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

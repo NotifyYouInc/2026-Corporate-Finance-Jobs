@@ -5,12 +5,12 @@
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guangzhou, Guangdong, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/CHN-Guangdong-Guangzhou/Accountant---Invoice-to-Cash_R154684-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/CHN-Guangdong-Guangzhou/Accountant---Invoice-to-Cash_R156767-1) |
 
 ## About This Role
 
-This corporate finance position at Mars was posted on 2026-05-09.
+This corporate finance position at Mars was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

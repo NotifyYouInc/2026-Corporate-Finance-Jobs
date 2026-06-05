@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stout Risius Ross](https://scoutify.ai/companies/stout-risius-ross?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://stout.wd5.myworkdayjobs.com/stout-careers/job/San-Diego-CA/Associate--Accounting---Reporting-Advisory_r2019-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://stout.wd5.myworkdayjobs.com/stout-careers/job/San-Diego-CA/Associate--Accounting---Reporting-Advisory_r2036-1) |
 
 ## About This Role
 
-This corporate finance position at Stout Risius Ross was posted on 2026-05-11.
+This corporate finance position at Stout Risius Ross was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
