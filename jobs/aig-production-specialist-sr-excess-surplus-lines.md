@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Parsippany, New Jersey, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NJ-Parsippany/Production-Specialist-Sr--Excess---Surplus-Lines_JR2601268) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/Production-Specialist-Sr--Excess---Surplus-Lines_JR2602248) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-04-21.
+This corporate finance position at AIG was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

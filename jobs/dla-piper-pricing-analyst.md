@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DLA Piper](https://scoutify.ai/companies/dla-piper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 20 locations |
+| Location | Palo Alto, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/Los-Angeles/Pricing-Analyst_R2025-1863) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/Palo-Alto-CA/Pricing-Analyst_R2026-2559) |
 
 ## About This Role
 
-This corporate finance position at DLA Piper was posted on 2026-03-19.
+This corporate finance position at DLA Piper was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

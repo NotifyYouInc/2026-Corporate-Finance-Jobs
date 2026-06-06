@@ -5,12 +5,12 @@
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Federal Way, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Intern--Non-Exempt-_R0456521) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Intern--Non-Exempt-_R0461255) |
 
 ## About This Role
 
-This corporate finance position at DaVita was posted on 2026-04-29.
+This corporate finance position at DaVita was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

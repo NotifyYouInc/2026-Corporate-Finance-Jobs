@@ -5,12 +5,12 @@
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Jose, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Revenue-Accounting-Manager_R54600) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Revenue-Accounting-Manager_R54882) |
 
 ## About This Role
 
-This corporate finance position at Cadence Design Systems was posted on 2026-04-30.
+This corporate finance position at Cadence Design Systems was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

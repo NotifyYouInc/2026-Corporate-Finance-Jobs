@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hackensack, New Jersey, United States |
+| Location | Edison, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hackensack-NJ/Fund-Accounting---Operations-Associate_2026-0012313) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Edison-NJ/Fund-Accounting---Operations-Associate_2026-0014202) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bancorp was posted on 2026-05-09.
+This corporate finance position at U.S. Bancorp was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

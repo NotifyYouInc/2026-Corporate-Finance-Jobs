@@ -5,12 +5,12 @@
 | Company | [Ramp](https://scoutify.ai/companies/ramp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ramp/755b70b4-e548-4564-9b53-7b74d49b42c0) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7) |
 
 ## About This Role
 
-This corporate finance position at Ramp was posted on 2026-03-04.
+This corporate finance position at Ramp was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

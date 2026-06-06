@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Michigan, US |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Grand-Haven-MI/Financial-Advisor_26559) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Chicago-IL/Financial-Advisor_261049) |
 
 ## About This Role
 
-This corporate finance position at Wintrust was posted on 2026-03-25.
+This corporate finance position at Wintrust was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

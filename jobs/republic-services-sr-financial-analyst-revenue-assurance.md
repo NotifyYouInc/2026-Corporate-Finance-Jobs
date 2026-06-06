@@ -5,12 +5,12 @@
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Phoenix-AZ-USA/Sr-Financial-Analyst---Revenue-Assurance_R-170885-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Phoenix-AZ-USA/Sr-Financial-Analyst---Revenue-Assurance_R-176404) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-03-13.
+This corporate finance position at Republic Services was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
 | Category | Corporate Finance |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Financial-Planning---Analysis-Analyst_JR00036536) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Financial-Planning---Analysis-Analyst_JR00035936) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lake Oswego, Oregon, United States |
+| Location | Fort Lauderdale, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Lake-Oswego-Oregon-United-States-of-America/Sr-Registered-Client-Service-Associate_JR034507-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Fort-Lauderdale-Florida-United-States-of-America/Sr-Registered-Client-Service-Associate_JR037738) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-09.
+This corporate finance position at Morgan Stanley was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

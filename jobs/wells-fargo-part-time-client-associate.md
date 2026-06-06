@@ -1,16 +1,16 @@
-# Part-Time Client Associate at Wells Fargo
+# Part Time Client Associate at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dothan, Alabama, United States |
+| Location | Sheridan, Wyoming, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DOTHAN-AL/Part-Time-Client-Associate_R-536049) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SHERIDAN-WY/Part-Time-Client-Associate_R-548674) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-13.
+This corporate finance position at Wells Fargo was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

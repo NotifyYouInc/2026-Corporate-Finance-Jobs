@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000129039325-logistics-billing-coordinator-bilingual-english-spanish) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000129265066-logistics-billing-coordinator-bilingual-english-spanish) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-05-28.
+This corporate finance position at Woongjin was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

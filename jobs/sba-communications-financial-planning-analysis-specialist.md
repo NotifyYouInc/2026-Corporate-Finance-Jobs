@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SBA Communications](https://scoutify.ai/companies/sba-communications?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://sbasite.wd5.myworkdayjobs.com/sba_communications_careers/job/San-Salvador-El-Salvador-Office/Financial-Planning---Analysis-Specialist_JR102253) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://sbasite.wd5.myworkdayjobs.com/sba_communications_careers/job/Guatemala-City-Guatemala-Office/Financial-Planning---Analysis-Specialist_JR102348) |
 
 ## About This Role
 
-This corporate finance position at SBA Communications was posted on 2026-05-06.
+This corporate finance position at SBA Communications was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

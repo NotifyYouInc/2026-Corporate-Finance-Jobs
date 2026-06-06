@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Cleveland, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Fiduciary-Advisor-III_R222023-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/Fiduciary-Advisor-III_R224072-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-05-15.
+This corporate finance position at PNC Financial was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

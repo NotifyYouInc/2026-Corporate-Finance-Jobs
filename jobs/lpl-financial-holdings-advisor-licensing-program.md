@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Lynnwood, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Dallas-TX---Field-Mgmt/Advisor-Licensing-Program_R-050488-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Remote-Washington/Advisor-Licensing-Program_R-049450) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-05-05.
+This corporate finance position at LPL Financial Holdings was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

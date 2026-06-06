@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate_R-0000174603-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate_R-0000174788) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-28.
+This corporate finance position at Royal Bank of Canada was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

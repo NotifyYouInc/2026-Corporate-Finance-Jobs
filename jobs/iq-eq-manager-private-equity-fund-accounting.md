@@ -1,16 +1,16 @@
-# Manager - Private Equity Fund Accounting at IQ-EQ
+# Manager - Private Equity Fund Accounting  at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Iselin, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000125398866-manager-private-equity-fund-accounting) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000129256070-manager-private-equity-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-05-08.
+This corporate finance position at IQ-EQ was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

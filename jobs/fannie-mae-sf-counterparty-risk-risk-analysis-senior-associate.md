@@ -5,12 +5,12 @@
 | Company | [Fannie Mae](https://scoutify.ai/companies/fannie-mae?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Plano-TX/SF-Counterparty-Risk---Risk-Analysis---Senior-Associate_JR2204) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Plano-TX/SF-Counterparty-Risk---Risk-Analysis---Senior-Associate_JR2541) |
 
 ## About This Role
 
-This corporate finance position at Fannie Mae was posted on 2026-03-05.
+This corporate finance position at Fannie Mae was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

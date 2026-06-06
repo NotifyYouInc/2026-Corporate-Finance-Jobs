@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Senior-Finance-Control-Analyst_324028) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Senior-Finance-Control-Analyst_327153) |
 
 ## About This Role
 
-This corporate finance position at CACI was posted on 2026-04-03.
+This corporate finance position at CACI was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

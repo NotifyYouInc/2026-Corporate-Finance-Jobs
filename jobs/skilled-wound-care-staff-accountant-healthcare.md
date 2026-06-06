@@ -5,12 +5,12 @@
 | Company | [Skilled Wound Care](https://scoutify.ai/companies/skilled-wound-care?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | California, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/skilledwoundcare/jobs/7680606003) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/skilledwoundcare/jobs/7753392003) |
 
 ## About This Role
 
-This corporate finance position at Skilled Wound Care was posted on 2026-03-26.
+This corporate finance position at Skilled Wound Care was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

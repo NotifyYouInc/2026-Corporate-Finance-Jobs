@@ -5,12 +5,12 @@
 | Company | [Enviva](https://scoutify.ai/companies/enviva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Franklin, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7675942003) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7753875003) |
 
 ## About This Role
 
-This corporate finance position at Enviva was posted on 2026-03-23.
+This corporate finance position at Enviva was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

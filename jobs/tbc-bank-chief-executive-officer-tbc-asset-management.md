@@ -1,0 +1,22 @@
+# Chief Executive Officer – TBC Asset Management  at TBC Bank
+
+| Field | Details |
+|-------|---------|
+| Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Tbilisi, Tbilisi, Georgia |
+| Category | Corporate Finance |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000129169481-chief-executive-officer-tbc-asset-management) |
+
+## About This Role
+
+This corporate finance position at TBC Bank was posted on 2026-05-29.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

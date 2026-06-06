@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jonesboro, Arkansas, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Jonesboro-Arkansas/Sleep-Expert---Sales_JR-P0062060) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Coralville-Iowa/Sleep-Expert---Sales_JR-P0062073) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-28.
+This corporate finance position at Mattressfirm was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst, Actuarial at Sun Life
+# Analyst - Actuarial at Sun Life
 
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Sun-Life-Singapore/Analyst--Actuarial_JR00120264) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/Analyst---Actuarial_JR00123366-1) |
 
 ## About This Role
 
-This corporate finance position at Sun Life was posted on 2026-05-14.
+This corporate finance position at Sun Life was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

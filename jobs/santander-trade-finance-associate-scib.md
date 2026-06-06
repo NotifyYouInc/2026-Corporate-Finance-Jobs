@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/TRADE-FINANCE-ASSOCIATE---SCIB_Req1575289) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/TRADE-FINANCE-ASSOCIATE---SCIB_Req1582222) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-05-06.
+This corporate finance position at Santander was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

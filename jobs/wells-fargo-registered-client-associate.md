@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Joplin, Missouri, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/JOPLIN-MO/Registered-Client-Associate_R-547365) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WASHINGTON-DC/Registered-Client-Associate_R-547123) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-28.
+This corporate finance position at Wells Fargo was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

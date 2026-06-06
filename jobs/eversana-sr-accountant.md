@@ -5,12 +5,12 @@
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000117335907-sr-accountant) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000129241661-sr-accountant) |
 
 ## About This Role
 
-This corporate finance position at EVERSANA was posted on 2026-03-27.
+This corporate finance position at EVERSANA was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

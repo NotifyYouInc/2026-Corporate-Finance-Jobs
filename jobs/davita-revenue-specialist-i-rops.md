@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsylvania, US |
+| Location | Federal Way, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/19511---Pennsylvania-Remote/Revenue-Specialist-I--ROPS-_R0451712) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Revenue-Specialist-I--ROPS-_R0461247) |
 
 ## About This Role
 
-This corporate finance position at DaVita was posted on 2026-03-30.
+This corporate finance position at DaVita was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

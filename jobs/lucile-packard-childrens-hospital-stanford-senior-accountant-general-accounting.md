@@ -5,12 +5,12 @@
 | Company | [Lucile Packard Children's Hospital Stanford](https://scoutify.ai/companies/lucilepackardchildrenshospitalstanford?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Menlo Park, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990012127067-senior-accountant-general-accounting) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990013383986-senior-accountant-general-accounting) |
 
 ## About This Role
 
-This corporate finance position at Lucile Packard Children's Hospital Stanford was posted on 2026-03-13.
+This corporate finance position at Lucile Packard Children's Hospital Stanford was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

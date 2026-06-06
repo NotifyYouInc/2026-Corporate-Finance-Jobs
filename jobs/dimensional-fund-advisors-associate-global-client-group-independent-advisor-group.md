@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dimensional Fund Advisors](https://scoutify.ai/companies/dimensional?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Santa Monica, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Associate--Global-Client-Group--Independent-Advisor-Group-_2026-8761-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Santa-Monica/Associate--Global-Client-Group--Independent-Advisor-Group-_2026-8846) |
 
 ## About This Role
 
-This corporate finance position at Dimensional Fund Advisors was posted on 2026-05-01.
+This corporate finance position at Dimensional Fund Advisors was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

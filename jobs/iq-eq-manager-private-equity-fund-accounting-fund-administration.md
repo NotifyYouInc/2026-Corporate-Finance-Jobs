@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Iselin, New Jersey, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000124522949-manager-private-equity-fund-accounting-fund-administration) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000129230929-manager-private-equity-fund-accounting-fund-administration) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-05-04.
+This corporate finance position at IQ-EQ was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

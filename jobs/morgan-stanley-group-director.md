@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Menlo Park, California, United States |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Menlo-Park-California-United-States-of-America/Group-Director_JR037253) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/San-Francisco-California-United-States-of-America/Group-Director_JR037669-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-05-19.
+This corporate finance position at Morgan Stanley was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
