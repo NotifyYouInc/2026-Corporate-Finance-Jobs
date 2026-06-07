@@ -1,16 +1,16 @@
-# ACCOUNT PAYABLE REPRESENTATIVE RBS at SGS
+# Underwriting Leader, Tax Liability Insurance at AIG
 
 | Field | Details |
 |-------|---------|
-| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129314420-account-payable-representative-rbs) |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/Underwriting-Leader--Tax-Liability-Insurance_JR2602249) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-05-31.
+This corporate finance position at AIG was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

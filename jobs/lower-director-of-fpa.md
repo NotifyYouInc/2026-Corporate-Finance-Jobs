@@ -1,16 +1,16 @@
-# Controller at ALOM
+# Director of FP&A at Lower
 
 | Field | Details |
 |-------|---------|
-| Company | [ALOM](https://scoutify.ai/companies/alom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Company | [Lower](https://scoutify.ai/companies/lower?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.lever.co/alom/29396abb-a787-4df1-91d7-d62b9c850bd0) |
+| Apply | [View on company site](https://lower.wd1.myworkdayjobs.com/lower_external_careers/job/Dallas-TX-N-Dallas-Pkwy/Director-of-FP-A_JR100382-1) |
 
 ## About This Role
 
-This corporate finance position at ALOM was posted on 2026-05-29.
+This corporate finance position at Lower was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Controller at ALOM
+# Sr Accounts Payable Specialist at The Trade Desk
 
 | Field | Details |
 |-------|---------|
-| Company | [ALOM](https://scoutify.ai/companies/alom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.lever.co/alom/29396abb-a787-4df1-91d7-d62b9c850bd0) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5149632007) |
 
 ## About This Role
 
-This corporate finance position at ALOM was posted on 2026-05-29.
+This corporate finance position at The Trade Desk was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

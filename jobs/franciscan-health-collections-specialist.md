@@ -1,16 +1,16 @@
-# ACCOUNT PAYABLE REPRESENTATIVE RBS at SGS
+# Collections Specialist at Franciscan Health
 
 | Field | Details |
 |-------|---------|
-| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Franciscan Health](https://scoutify.ai/companies/franciscan-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Indiana, US |
 | Category | Corporate Finance |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129314420-account-payable-representative-rbs) |
+| Apply | [View on company site](https://franciscanalliance.wd5.myworkdayjobs.com/fa_external_career_site/job/Work-From-Home/Collections-Specialist_R-127846) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-05-31.
+This corporate finance position at Franciscan Health was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

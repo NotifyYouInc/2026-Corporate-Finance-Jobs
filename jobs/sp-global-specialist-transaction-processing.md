@@ -1,16 +1,16 @@
-# Auditor at City of New York
+# Specialist, Transaction Processing at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Malaysia |
 | Category | Corporate Finance |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013387346-auditor) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Penang-Jalan-MYS/Specialist--Transaction-Processing_329079-1) |
 
 ## About This Role
 
-This corporate finance position at City of New York was posted on 2026-05-30.
+This corporate finance position at S&P Global was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

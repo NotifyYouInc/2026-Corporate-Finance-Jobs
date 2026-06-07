@@ -1,16 +1,16 @@
-# Auditor at City of New York
+# Assurance Sr Associate 1 - Life Sciences at RSM
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013387346-auditor) |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Assurance-Sr-Associate-1---Life-Sciences_JR117958) |
 
 ## About This Role
 
-This corporate finance position at City of New York was posted on 2026-05-30.
+This corporate finance position at RSM was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

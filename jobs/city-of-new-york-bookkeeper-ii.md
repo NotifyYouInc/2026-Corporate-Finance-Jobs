@@ -1,4 +1,4 @@
-# Auditor at City of New York
+# Bookkeeper II at City of New York
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013387346-auditor) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013387401-bookkeeper-ii) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Cost-Accountant-II_R-01348148) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Cost-Accountant-II_R-01355476) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-04-01.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 
