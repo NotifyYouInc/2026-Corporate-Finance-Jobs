@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Accounting-Specialist---Recon_2026-0011501) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Accounting-Specialist---Recon_2026-0011487-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-22.
+This corporate finance position at U.S. Bank was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

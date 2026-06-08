@@ -5,12 +5,12 @@
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ottawa-Ontario/Controller_R0044050-2) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ottawa-Ontario/Controller_R0043724) |
 
 ## About This Role
 
-This corporate finance position at Harris Computer was posted on 2026-05-28.
+This corporate finance position at Harris Computer was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

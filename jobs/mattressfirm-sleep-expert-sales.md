@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Georgia, US |
 | Category | Corporate Finance |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Coralville-Iowa/Sleep-Expert---Sales_JR-P0062073) |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Warner-Robbins-Georgia/Sleep-Expert---Sales_JR-P0062082) |
 
 ## About This Role
 

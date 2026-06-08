@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Clifton Park, New York, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Clifton-Park/Wealth-Management-Client-Associate_26018702) |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Wealth-Management-Client-Associate_26018703-2) |
 
 ## About This Role
 

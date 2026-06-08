@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Blainville, Quebec, Canada |
+| Location | Matane, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/CAN-QC-BLAINVILLE-01185-WM-SUPERCENTER/XMLNAME--CAN--Bureau-de-la-comptabilit_R-2508956) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Matane-QC/XMLNAME--CAN--Bureau-de-la-comptabilit_R-2528461) |
 
 ## About This Role
 
-This corporate finance position at Walmart was posted on 2026-05-13.
+This corporate finance position at Walmart was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

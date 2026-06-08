@@ -5,12 +5,12 @@
 | Company | [Stonebridge Companies](https://scoutify.ai/companies/sbcos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/JW-Marriott---Atlanta-Downtown/General-Accountant_R0031327) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/JW-Marriott---Atlanta-Downtown/General-Accountant_R0031339) |
 
 ## About This Role
 
-This corporate finance position at Stonebridge Companies was posted on 2026-05-29.
+This corporate finance position at Stonebridge Companies was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

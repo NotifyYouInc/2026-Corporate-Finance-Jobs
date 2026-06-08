@@ -5,12 +5,12 @@
 | Company | [Unity Technologies](https://scoutify.ai/companies/unity-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://unity.com/careers/positions/7776598?gh_jid=7776598) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://unity.com/careers/positions/7913822?gh_jid=7913822) |
 
 ## About This Role
 
-This corporate finance position at Unity Technologies was posted on 2026-04-15.
+This corporate finance position at Unity Technologies was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

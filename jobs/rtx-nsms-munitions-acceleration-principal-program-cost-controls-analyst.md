@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 7 locations |
+| Location | Tucson, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-807--1151-E-Hermans-Rd--BLDG-807/NSMS-Munitions-Acceleration---Principal-Program-Cost-Controls-Analyst_01846147) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-807--1151-E-Hermans-Rd--BLDG-807/NSMS-Munitions-Acceleration---Principal-Program-Cost-Controls-Analyst_01848886-1) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-05-18.
+This corporate finance position at RTX was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

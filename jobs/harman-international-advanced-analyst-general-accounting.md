@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Advanced-Analyst--General-Accounting_R-52305-2026) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Advanced-Analyst--General-Accounting_R-53141-2026) |
 
 ## About This Role
 
-This corporate finance position at HARMAN International was posted on 2026-03-27.
+This corporate finance position at HARMAN International was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

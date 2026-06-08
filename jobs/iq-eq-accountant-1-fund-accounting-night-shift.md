@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000118734346-accountant-1-fund-accounting-night-shift) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000129382269-accountant-1-fund-accounting-night-shift) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-04-05.
+This corporate finance position at IQ-EQ was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

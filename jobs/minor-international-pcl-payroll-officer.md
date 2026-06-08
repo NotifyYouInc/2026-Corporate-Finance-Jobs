@@ -5,12 +5,12 @@
 | Company | [Minor International PCL](https://scoutify.ai/companies/minorinternationalpcl?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000125951759-payroll-officer) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000129346564-payroll-officer) |
 
 ## About This Role
 
-This corporate finance position at Minor International PCL was posted on 2026-05-11.
+This corporate finance position at Minor International PCL was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

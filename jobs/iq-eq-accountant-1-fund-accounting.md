@@ -1,16 +1,16 @@
-# Accountant 1, Fund Accounting at IQ-EQ
+# Accountant 1, Fund Accounting  at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000129108888-accountant-1-fund-accounting) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000129382189-accountant-1-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-05-29.
+This corporate finance position at IQ-EQ was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
