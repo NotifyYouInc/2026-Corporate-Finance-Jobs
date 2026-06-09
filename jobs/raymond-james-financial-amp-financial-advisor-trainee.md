@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Eagle, Idaho, United States |
+| Location | Belleville, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Eagle-Idaho---United-States/AMP-Financial-Advisor-Trainee_R-0011249) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Belleville-Illinois---United-States/AMP-Financial-Advisor-Trainee_R-0011410) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-05-19.
+This corporate finance position at Raymond James Financial was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

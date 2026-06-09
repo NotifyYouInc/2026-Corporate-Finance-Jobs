@@ -5,12 +5,12 @@
 | Company | [Totalwine](https://scoutify.ai/companies/totalwine?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bethesda, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://totalwine.wd1.myworkdayjobs.com/twm/job/Maryland-SSC/Staff-Accountant-I--Merchandise-Accounting_JR104655-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://totalwine.wd1.myworkdayjobs.com/twm/job/Maryland-SSC/Staff-Accountant-I--Merchandise-Accounting_JR106819) |
 
 ## About This Role
 
-This corporate finance position at Totalwine was posted on 2026-04-22.
+This corporate finance position at Totalwine was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

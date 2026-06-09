@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Palm Beach Gardens, Florida, United States |
+| Location | Ciudad Juárez, Chihuahua, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Palm-Beach-Gardens-Florida-United-States-of-America/Lead-Financial-Analyst_R-077258) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Ciudad-Juarez-Chihuahua-Mexico/Lead-Financial-Analyst_R-079266) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-05-28.
+This corporate finance position at Johnson & Johnson was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

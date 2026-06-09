@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/PHL-Shared-Services-Philippines---BGC-Office/Senior-Accountant--Accounting-to-Reporting_R0249920) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bonifacio-Global-City-PHL/Senior-Accountant--Accounting-to-Reporting_R0253823-1) |
 
 ## About This Role
 
-This corporate finance position at Fresenius Medical Care was posted on 2026-05-25.
+This corporate finance position at Fresenius Medical Care was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

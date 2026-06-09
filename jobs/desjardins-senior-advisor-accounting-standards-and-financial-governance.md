@@ -1,16 +1,16 @@
-# Senior Advisor, Accounting standards and financial governance at Desjardins
+# Senior Advisor, Accounting Standards And Financial Governance at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-en-Audit-TI--Programme-52-109-SOX_R2604933) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Normalisation-comptable_R2607172) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-05-11.
+This corporate finance position at Desjardins was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

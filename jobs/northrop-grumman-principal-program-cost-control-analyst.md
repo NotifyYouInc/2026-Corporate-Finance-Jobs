@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Manhattan Beach, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Principal-Program-Cost-Control-Analyst_R10233903) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Principal-Program-Cost-Control-Analyst_R10234339) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-05-21.
+This corporate finance position at Northrop Grumman was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

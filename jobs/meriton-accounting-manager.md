@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meriton](https://scoutify.ai/companies/meriton?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brea, California, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/meriton/jobs/5229972008) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/meriton/jobs/5237982008) |
 
 ## About This Role
 
-This corporate finance position at Meriton was posted on 2026-05-23.
+This corporate finance position at Meriton was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

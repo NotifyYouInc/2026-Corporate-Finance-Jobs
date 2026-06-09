@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Dallas-Texas-USA/Senior-Financial-Analyst--Capital-Markets_R312631) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---MA---Boston---125-High-Street/Senior-Financial-Analyst--Capital-Markets_R318759) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-04-03.
+This corporate finance position at Cushman & Wakefield was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

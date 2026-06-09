@@ -5,12 +5,12 @@
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Gross-Profit-Audit-Analyst_JR-022846) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Gross-Profit-Audit-Analyst_JR-023030) |
 
 ## About This Role
 
-This corporate finance position at Avnet was posted on 2026-05-20.
+This corporate finance position at Avnet was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

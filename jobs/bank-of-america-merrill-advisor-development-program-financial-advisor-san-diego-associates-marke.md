@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indian Wells, California, United States |
+| Location | San Diego, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Indian-Wells/Merrill-Advisor-Development-Program--Financial-Advisor--San-Diego---Associates-Market_26018610) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/San-Diego/Merrill-Advisor-Development-Program--Financial-Advisor--San-Diego---Associates-Market_26018901) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-05-28.
+This corporate finance position at Bank of America was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

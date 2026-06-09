@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Switzerland |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/GENEVA/Associate-Watch-Advisor_JR126948-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/SYDNEY/Associate-Watch-Advisor_JR129565-1) |
 
 ## About This Role
 
-This corporate finance position at Richemont was posted on 2026-04-17.
+This corporate finance position at Richemont was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

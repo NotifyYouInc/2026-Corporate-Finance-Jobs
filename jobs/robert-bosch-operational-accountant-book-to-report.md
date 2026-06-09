@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000108965212-operational-accountant-book-to-report) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129664604-operational-accountant-book-to-report) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-02-12.
+This corporate finance position at Robert Bosch was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

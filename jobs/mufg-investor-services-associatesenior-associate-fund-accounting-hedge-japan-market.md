@@ -5,12 +5,12 @@
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000121341277-associatesenior-associate-fund-accounting-hedge-japan-market) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000129657304-associatesenior-associate-fund-accounting-hedge-japan-market) |
 
 ## About This Role
 
-This corporate finance position at MUFG Investor Services was posted on 2026-04-17.
+This corporate finance position at MUFG Investor Services was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

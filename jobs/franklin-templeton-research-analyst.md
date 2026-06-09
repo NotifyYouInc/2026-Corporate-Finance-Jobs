@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Franklin Templeton](https://scoutify.ai/companies/franklintempleton?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pasadena, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/FTS-Hyderabad-F3354/Research-Analyst_866193-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Pasadena-California-United-States-of-America/Research-Analyst_868119) |
 
 ## About This Role
 
-This corporate finance position at Franklin Templeton was posted on 2026-02-23.
+This corporate finance position at Franklin Templeton was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

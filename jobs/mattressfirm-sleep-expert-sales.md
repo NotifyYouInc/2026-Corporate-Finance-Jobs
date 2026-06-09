@@ -1,16 +1,16 @@
-# Sleep Expert - Sales at Mattressfirm
+# Sleep Expert- Sales at Mattressfirm
 
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Georgia, US |
+| Location | North Augusta, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Warner-Robbins-Georgia/Sleep-Expert---Sales_JR-P0062082) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/North-Augusta-South-Carolina/Sleep-Expert--Sales_JR-P0062096) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-05-29.
+This corporate finance position at Mattressfirm was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Arch Capital Group](https://scoutify.ai/companies/archgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://archgroup.wd1.myworkdayjobs.com/careers/job/Jersey-City-NJ-United-States-of-America/Accountant_R26_266) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://archgroup.wd1.myworkdayjobs.com/careers/job/Jersey-City-NJ/Accountant_R26_536) |
 
 ## About This Role
 
-This corporate finance position at Arch Capital Group was posted on 2026-03-23.
+This corporate finance position at Arch Capital Group was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

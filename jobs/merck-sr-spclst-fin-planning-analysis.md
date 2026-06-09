@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rahway, New Jersey, United States |
+| Location | North Wales, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Sr-Spclst--Fin-Planning---Analysis_R389737-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Sr-Spclst--Fin-Planning---Analysis_R400801) |
 
 ## About This Role
 
-This corporate finance position at Merck was posted on 2026-03-19.
+This corporate finance position at Merck was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

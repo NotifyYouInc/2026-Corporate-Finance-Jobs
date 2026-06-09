@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Senior-Commercial-Loan-Servicing-Specialist---Asset-Based-Lending-Syndicated-Loans_R-542411) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Commercial-Loan-Servicing-Specialist---Asset-Based-Lending-Syndicated-Loans_R-550114) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-01.
+This corporate finance position at Wells Fargo was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

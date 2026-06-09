@@ -5,12 +5,12 @@
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sacramento, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Director--Accounting_R-127820) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Director--Accounting_R-131254) |
 
 ## About This Role
 
-This corporate finance position at Sutter Health was posted on 2026-04-15.
+This corporate finance position at Sutter Health was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

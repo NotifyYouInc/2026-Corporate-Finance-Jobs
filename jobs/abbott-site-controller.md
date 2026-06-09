@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westford, Massachusetts, United States |
+| Location | Westfield, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Westford/Site-Controller_31147898-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Indiana---Westfield/Site-Controller_31151579-1) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-04-29.
+This corporate finance position at Abbott was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

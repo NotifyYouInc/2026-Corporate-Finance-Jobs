@@ -5,12 +5,12 @@
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000116528107-senior-financial-accountant) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000129645969-senior-financial-accountant) |
 
 ## About This Role
 
-This corporate finance position at Endeavour Group Careers was posted on 2026-03-25.
+This corporate finance position at Endeavour Group Careers was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

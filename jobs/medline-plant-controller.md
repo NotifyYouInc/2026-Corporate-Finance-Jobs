@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Waukegan, Illinois, United States |
+| Location | Glens Falls, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Waukegan-Illinois/Plant-Controller_R2606125) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Glens-Falls-New-York/Plant-Controller_R2608270) |
 
 ## About This Role
 
-This corporate finance position at Medline was posted on 2026-04-01.
+This corporate finance position at Medline was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

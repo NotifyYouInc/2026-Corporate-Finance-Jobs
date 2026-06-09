@@ -5,12 +5,12 @@
 | Company | [Allied Solutions](https://scoutify.ai/companies/alliedsolutions?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Carmel, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Senior-Accountant_R-010605) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Senior-Accountant_R-010829) |
 
 ## About This Role
 
-This corporate finance position at Allied Solutions was posted on 2026-03-16.
+This corporate finance position at Allied Solutions was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

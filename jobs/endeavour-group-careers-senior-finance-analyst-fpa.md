@@ -5,12 +5,12 @@
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Richmond, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000128603679-senior-finance-analyst-fpa) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000129644990-senior-finance-analyst-fpa) |
 
 ## About This Role
 
-This corporate finance position at Endeavour Group Careers was posted on 2026-05-27.
+This corporate finance position at Endeavour Group Careers was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

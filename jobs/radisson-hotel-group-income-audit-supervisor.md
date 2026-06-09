@@ -5,12 +5,12 @@
 | Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000111683052-income-audit-supervisor) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000129611139-income-audit-supervisor) |
 
 ## About This Role
 
-This corporate finance position at Radisson Hotel Group was posted on 2026-02-26.
+This corporate finance position at Radisson Hotel Group was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

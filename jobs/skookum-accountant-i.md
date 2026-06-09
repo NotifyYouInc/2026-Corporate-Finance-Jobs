@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Skookum](https://scoutify.ai/companies/skookum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Petersburg, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://skookum.wd1.myworkdayjobs.com/careers/job/Colorado-Springs-Colorado-USAF-Academy/Accountant-I_R0007149) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://skookum.wd1.myworkdayjobs.com/careers/job/Petersburg-Virginia-Fort-Lee/Accountant-I_R0007193) |
 
 ## About This Role
 
-This corporate finance position at Skookum was posted on 2026-05-19.
+This corporate finance position at Skookum was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

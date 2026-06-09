@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Associate--Production-Support_REQ492891) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/St-Louis-MO/Associate--Production-Support_REQ511604) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-12.
+This corporate finance position at JLL was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

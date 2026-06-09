@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Callao, Callao, Peru |
+| Location | Peru |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000125225929-practicante-profesional-de-billing-submission-acceptance) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129591209-practicante-profesional-de-billing-submission-acceptance) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-05-07.
+This corporate finance position at SGS was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

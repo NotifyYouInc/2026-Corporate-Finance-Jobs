@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Santa Fe, New Mexico, United States |
+| Location | Westlake Village, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Santa-Fe/Finance-Intern_REQ10380725) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Westlake-Village/Finance-Intern_REQ10381552) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-05-21.
+This corporate finance position at Four Seasons Hotels was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

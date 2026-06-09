@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Coppell, Texas, United States |
+| Location | Costa Mesa, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Financial-Systems-Senior-Specialist_JR202636954) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Financial-Systems-Senior-Specialist_JR202636950) |
 
 ## About This Role
 
-This corporate finance position at Auto Club Enterprises was posted on 2026-05-29.
+This corporate finance position at Auto Club Enterprises was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000127919909-sr-analyst-financial-reporting) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000129577549-sr-analyst-financial-reporting) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-05-22.
+This corporate finance position at NBCUniversal was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tlalnepantla, México, Mexico |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000120053642-accounts-receivable-specialist) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000129654219-accounts-receivable-specialist) |
 
 ## About This Role
 
-This corporate finance position at Smiths Group was posted on 2026-04-10.
+This corporate finance position at Smiths Group was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

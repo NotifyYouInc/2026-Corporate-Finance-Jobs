@@ -5,12 +5,12 @@
 | Company | [Jilpetco](https://scoutify.ai/companies/jilpetco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/NSC/Financial-Analyst_R356501) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/NSC/Financial-Analyst_R360313) |
 
 ## About This Role
 
-This corporate finance position at Jilpetco was posted on 2026-05-08.
+This corporate finance position at Jilpetco was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

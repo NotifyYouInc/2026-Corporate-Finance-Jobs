@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Banker-SAFE-Act_26953367-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banker-SAFE-Act_26967336) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-15.
+This corporate finance position at Citigroup was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

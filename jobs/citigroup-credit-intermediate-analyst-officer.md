@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Credit-Intermediate-Analyst--Officer_26944214) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Intermediate-Analyst--Officer_26967925) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-16.
+This corporate finance position at Citigroup was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

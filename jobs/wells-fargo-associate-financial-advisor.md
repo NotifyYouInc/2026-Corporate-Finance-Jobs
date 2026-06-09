@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hanford, California, United States |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/HANFORD-CA/Associate-Financial-Advisor_R-536366-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/Associate-Financial-Advisor_R-547944) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-16.
+This corporate finance position at Wells Fargo was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

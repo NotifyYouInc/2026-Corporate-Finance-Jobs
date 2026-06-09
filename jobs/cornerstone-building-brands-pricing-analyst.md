@@ -5,12 +5,12 @@
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990013358476-pricing-analyst) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990013406976-pricing-analyst) |
 
 ## About This Role
 
-This corporate finance position at Cornerstone Building Brands was posted on 2026-05-28.
+This corporate finance position at Cornerstone Building Brands was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
