@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Senior-Fund-Accountant_JR-0022688) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Belgrade/Senior-Fund-Accountant_JR-0023432) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-05-26.
+This corporate finance position at Apex Fund Services was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

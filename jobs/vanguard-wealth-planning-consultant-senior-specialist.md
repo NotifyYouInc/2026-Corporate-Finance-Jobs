@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Scottsdale-AZ/Wealth-Planning-Consultant--Senior-Specialist_174240) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Scottsdale-AZ/Wealth-Planning-Consultant--Senior-Specialist_177548) |
 
 ## About This Role
 
-This corporate finance position at Vanguard was posted on 2026-04-29.
+This corporate finance position at Vanguard was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

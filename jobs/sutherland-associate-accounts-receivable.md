@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Burgas, Burgas, Bulgaria |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000114704048-associate-accounts-receivable) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000129925299-associate-accounts-receivable) |
 
 ## About This Role
 
-This corporate finance position at Sutherland was posted on 2026-03-13.
+This corporate finance position at Sutherland was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KSM](https://scoutify.ai/companies/ksmcpa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Chicago/Audit-Senior-Associate---Chicago-Deerfield_R-100394) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Chicago/Audit-Senior-Associate---Chicago-Deerfield_R-100429) |
 
 ## About This Role
 
-This corporate finance position at KSM was posted on 2026-04-21.
+This corporate finance position at KSM was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

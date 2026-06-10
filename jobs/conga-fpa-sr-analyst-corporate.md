@@ -1,16 +1,16 @@
-# FPA Sr Analyst (Corporate) at Conga
+# FP&A Sr Analyst (Corporate) at Conga
 
 | Field | Details |
 |-------|---------|
 | Company | [Conga](https://scoutify.ai/companies/conga?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5138626007) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5153422007) |
 
 ## About This Role
 
-This corporate finance position at Conga was posted on 2026-05-20.
+This corporate finance position at Conga was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

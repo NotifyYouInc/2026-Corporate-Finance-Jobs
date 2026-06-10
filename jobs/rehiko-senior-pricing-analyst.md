@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rehiko](https://scoutify.ai/companies/rehlko?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wisconsin, US |
+| Location | Sheboygan, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://rehlko.wd12.myworkdayjobs.com/Reh/job/KohlerWI/Senior-Pricing-Analyst_R03319) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Senior-Pricing-Analyst_R03854) |
 
 ## About This Role
 
-This corporate finance position at Rehiko was posted on 2026-03-24.
+This corporate finance position at Rehiko was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

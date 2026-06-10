@@ -5,12 +5,12 @@
 | Company | [Much Prosperity Trading International Inc.](https://scoutify.ai/companies/muchprosperitytradinginternationalinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MuchProsperityTradingInternationalInc/744000122407629-treasury-assistant) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MuchProsperityTradingInternationalInc/744000129704229-treasury-assistant) |
 
 ## About This Role
 
-This corporate finance position at Much Prosperity Trading International Inc. was posted on 2026-04-23.
+This corporate finance position at Much Prosperity Trading International Inc. was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

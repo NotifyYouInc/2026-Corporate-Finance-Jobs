@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Silgan Dispensing Systems](https://scoutify.ai/companies/silgan-dispensing-systems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Modesto, California, United States |
+| Location | Antioch, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Modesto-California/Plant-Controller_R7299-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Antioch-California/Plant-Controller_R7481) |
 
 ## About This Role
 
-This corporate finance position at Silgan Dispensing Systems was posted on 2026-05-08.
+This corporate finance position at Silgan Dispensing Systems was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

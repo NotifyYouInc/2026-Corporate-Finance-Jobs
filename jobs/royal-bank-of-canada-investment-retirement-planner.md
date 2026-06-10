@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Owen Sound, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Investment-Retirement-Planner_R-0000166580) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OWEN-SOUND-Ontario-Canada/Investment-Retirement-Planner_R-0000175167) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-02.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

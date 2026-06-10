@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013123896-accounts-payable-analyst-temporary-11-months) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013436526-accounts-payable-analyst-temporary-11-months) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-05-13.
+This corporate finance position at AbbVie was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

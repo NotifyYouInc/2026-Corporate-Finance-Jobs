@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wilhelmsen group](https://scoutify.ai/companies/wilhelmsen-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Szczecin, West Pomerania, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://wilhelmsen.wd3.myworkdayjobs.com/wilhelmsen/job/Kuala-Lumpur/Junior-AR-Accountant_JOBREQ_12347) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://wilhelmsen.wd3.myworkdayjobs.com/wilhelmsen/job/Szczecin/Junior-AR-Accountant_JOBREQ_12618) |
 
 ## About This Role
 
-This corporate finance position at Wilhelmsen group was posted on 2026-05-07.
+This corporate finance position at Wilhelmsen group was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

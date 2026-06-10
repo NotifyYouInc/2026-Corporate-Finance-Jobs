@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newton, Massachusetts, United States |
+| Location | Lebanon, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000126586276-director-working-capital-assistant-treasurer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000129846799-director-working-capital-assistant-treasurer) |
 
 ## About This Role
 
-This corporate finance position at StepStone was posted on 2026-05-14.
+This corporate finance position at StepStone was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

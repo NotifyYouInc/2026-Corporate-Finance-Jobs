@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DriveTime](https://scoutify.ai/companies/drivetime?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Independence, Missouri, United States |
+| Location | Greensboro, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/3151-S-Noland-Rd-Independence-MO-64055/Sales---Operations-Advisor_R15520) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/3612-W-Wendover-Ave-Greensboro-NC-27407/Sales---Operations-Advisor_R15669) |
 
 ## About This Role
 
-This corporate finance position at DriveTime was posted on 2026-05-22.
+This corporate finance position at DriveTime was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

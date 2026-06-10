@@ -5,12 +5,12 @@
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Graz, Styria, Austria |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000129654839-spezialist-im-konzernrechnungswesen-wmd) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000129910389-spezialist-im-konzernrechnungswesen-wmd) |
 
 ## About This Role
 
-This corporate finance position at Anton Paar was posted on 2026-06-02.
+This corporate finance position at Anton Paar was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

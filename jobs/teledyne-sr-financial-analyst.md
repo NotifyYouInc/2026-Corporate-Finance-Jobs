@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miamisburg, Ohio, United States |
+| Location | Rancho Cordova, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Sr-Financial-Analyst_REQ33432) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Sr-Financial-Analyst_REQ35070) |
 
 ## About This Role
 
-This corporate finance position at Teledyne was posted on 2026-02-19.
+This corporate finance position at Teledyne was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sleep Expert- Sales at Mattressfirm
+# Sleep Expert - Sales at Mattressfirm
 
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Augusta, South Carolina, United States |
+| Location | Edmond, Oklahoma, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/North-Augusta-South-Carolina/Sleep-Expert--Sales_JR-P0062096) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Edmond-Oklahoma/Sleep-Expert---Sales_JR-P0062105) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-06-01.
+This corporate finance position at Mattressfirm was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

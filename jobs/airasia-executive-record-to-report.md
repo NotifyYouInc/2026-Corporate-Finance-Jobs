@@ -5,12 +5,12 @@
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur---RedQ/Executive-Senior-Executive-Record-to-Report_JR0025791) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur---RedQ/Executive--Record-to-Report_JR0034730) |
 
 ## About This Role
 
-This corporate finance position at Airasia was posted on 2026-04-16.
+This corporate finance position at Airasia was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

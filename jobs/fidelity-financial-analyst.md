@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Financial-Analyst_2124972-2) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Financial-Analyst_2130042) |
 
 ## About This Role
 
-This corporate finance position at Fidelity was posted on 2026-03-11.
+This corporate finance position at Fidelity was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

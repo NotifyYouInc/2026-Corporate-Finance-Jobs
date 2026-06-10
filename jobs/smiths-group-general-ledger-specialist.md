@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tlalnepantla, México, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000119019136-general-ledger-specialist) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000129829902-general-ledger-specialist) |
 
 ## About This Role
 
-This corporate finance position at Smiths Group was posted on 2026-04-07.
+This corporate finance position at Smiths Group was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mason City, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/MercyOne-North-Iowa-Medical-Center-West-Campus---Mason-City-Iowa/Billing-Coordinator---Full-Time---Days_00645837) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/MercyOne-North-Iowa-Medical-Center-West-Campus---Mason-City-Iowa/Billing-Coordinator---Full-Time---Days_00671454) |
 
 ## About This Role
 
-This corporate finance position at Trinity Health was posted on 2026-02-25.
+This corporate finance position at Trinity Health was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Actuarial, Specialist at AIA Group
+# Actuarial Specialist at AIA Group
 
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Hong-Kong-HK-AIA-Hong-Kong--Macau/Actuarial--Specialist_JR-66363-3) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Colombo-SL-AIA-Sri-Lanka/Actuarial-Specialist_JR-67155) |
 
 ## About This Role
 
-This corporate finance position at AIA Group was posted on 2026-05-06.
+This corporate finance position at AIA Group was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

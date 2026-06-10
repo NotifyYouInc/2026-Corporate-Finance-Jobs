@@ -5,12 +5,12 @@
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Hyderabad-GBS-India/Senior-Specialist_R18136) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Hyderabad-GBS-India/Senior-Specialist_R18230) |
 
 ## About This Role
 
-This corporate finance position at International Flavors & Fragrances was posted on 2026-05-21.
+This corporate finance position at International Flavors & Fragrances was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

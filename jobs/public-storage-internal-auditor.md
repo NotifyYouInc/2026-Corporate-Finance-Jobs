@@ -5,12 +5,12 @@
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Frisco, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000120801437-internal-auditor) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000129867899-internal-auditor) |
 
 ## About This Role
 
-This corporate finance position at Public Storage was posted on 2026-04-14.
+This corporate finance position at Public Storage was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

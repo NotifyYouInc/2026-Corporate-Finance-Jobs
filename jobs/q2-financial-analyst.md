@@ -5,12 +5,12 @@
 | Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Financial-Analyst_REQ-12300) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Financial-Analyst_REQ-12579) |
 
 ## About This Role
 
-This corporate finance position at Q2 was posted on 2026-03-05.
+This corporate finance position at Q2 was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

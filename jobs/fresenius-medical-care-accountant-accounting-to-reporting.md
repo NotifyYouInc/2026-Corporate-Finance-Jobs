@@ -5,12 +5,12 @@
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bonifacio-Global-City-PHL/Accountant--Accounting-to-Reporting_R0248098) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bonifacio-Global-City-PHL/Accountant--Accounting-to-Reporting_R0238359) |
 
 ## About This Role
 
-This corporate finance position at Fresenius Medical Care was posted on 2026-05-07.
+This corporate finance position at Fresenius Medical Care was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Darien, Illinois, United States |
+| Location | Stamford, Connecticut, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Darien/Merrill-Financial-Solutions-Advisor--Partially-Licensed---Southern-Connecticut-Market_26014739) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Stamford/Merrill-Financial-Solutions-Advisor--Partially-Licensed---Southern-Connecticut-Market_26019193-1) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-23.
+This corporate finance position at Bank of America was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

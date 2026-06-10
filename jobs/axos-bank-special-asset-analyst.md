@@ -5,12 +5,12 @@
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Diego, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Special-Asset-Analyst_JR4704-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Special-Asset-Analyst_JR4709) |
 
 ## About This Role
 
-This corporate finance position at Axos Bank was posted on 2026-05-20.
+This corporate finance position at Axos Bank was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

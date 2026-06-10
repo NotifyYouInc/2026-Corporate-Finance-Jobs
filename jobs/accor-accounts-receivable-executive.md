@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Calangute, Goa, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000108156625-accounts-receivable-executive) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000129910719-accounts-receivable-executive) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-09.
+This corporate finance position at ACCOR was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

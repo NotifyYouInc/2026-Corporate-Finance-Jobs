@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Zagreb, Zagreb, Croatia |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000129666659-racunovoa-za-analiticko-racunovodstvo-kupaca) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000129922849-racunovoa-za-analiticko-racunovodstvo-kupaca) |
 
 ## About This Role
 
-This corporate finance position at METRO/MAKRO was posted on 2026-06-02.
+This corporate finance position at METRO/MAKRO was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

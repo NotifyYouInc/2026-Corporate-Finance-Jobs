@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Japan |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Banking---Investment-Banking--Full-Time-Analyst--Tokyo-JPN--2026_25913730) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Banking---Investment-Banking--Full-Time-Analyst--Tokyo-JPN--2026_26968634) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-27.
+This corporate finance position at Citigroup was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

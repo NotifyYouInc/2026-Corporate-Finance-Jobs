@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Manager--Accounting_REQ346926-2) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Manager--Accounting_REQ354419) |
 
 ## About This Role
 
-This corporate finance position at T-Mobile was posted on 2026-03-03.
+This corporate finance position at T-Mobile was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

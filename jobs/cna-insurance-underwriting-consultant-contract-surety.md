@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Westerville, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Downers-Grove-IL-USA/Underwriting-Consultant---Contract-Surety_R-7141-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Westerville-OH-USA/UW-Consultant--Contract-Surety-_R-7570) |
 
 ## About This Role
 
-This corporate finance position at CNA Insurance was posted on 2026-03-12.
+This corporate finance position at CNA Insurance was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

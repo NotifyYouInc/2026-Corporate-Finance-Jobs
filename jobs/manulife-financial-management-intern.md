@@ -5,12 +5,12 @@
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Quezon-City/Financial-Management-Intern_JR25041640) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Quezon-City/Financial-Management-Intern_JR26060193) |
 
 ## About This Role
 
-This corporate finance position at Manulife was posted on 2026-03-03.
+This corporate finance position at Manulife was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

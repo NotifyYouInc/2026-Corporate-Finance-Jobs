@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Griffin, Georgia, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Griffin-Georgia/Accountant_R0000372866) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shanghai-Shanghai/Accountant_R0000373372) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-05-29.
+This corporate finance position at Caterpillar was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

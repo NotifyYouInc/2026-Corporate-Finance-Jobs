@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/IL-Chicago/Client-Specialist_R2026620-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WA-Seattle/Client-Specialist_R2026645-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-05-22.
+This corporate finance position at Baird was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

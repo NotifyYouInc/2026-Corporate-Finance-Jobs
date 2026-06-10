@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/Banquero-Select_Req1574739) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Guadalajara/Banquero-Select_Req1582659) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-05-06.
+This corporate finance position at Santander was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

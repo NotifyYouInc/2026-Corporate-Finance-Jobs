@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kerala, IN |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Trivandrum/Senior-Associate---Corporate-Finance_38903) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Trivandrum/Senior-Associate---Corporate-Finance_39989) |
 
 ## About This Role
 
-This corporate finance position at Guidehouse was posted on 2026-04-30.
+This corporate finance position at Guidehouse was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

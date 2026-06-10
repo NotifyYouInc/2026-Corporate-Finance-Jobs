@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Brisbane, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/xero/113d5245-6232-4d0c-83ac-d25a9db07b6b) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/xero/2f33be6b-3708-4e0a-8500-2bf3b6da7bb2) |
 
 ## About This Role
 
-This corporate finance position at Xero was posted on 2026-05-20.
+This corporate finance position at Xero was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

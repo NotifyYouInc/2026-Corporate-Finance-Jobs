@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RA](https://scoutify.ai/companies/ra?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Mahwah, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2015-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ra2/81632189-financial-analyst) |
+| Posted | 2016-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ra2/89230310-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at RA was posted on 2015-03-14.
+This corporate finance position at RA was posted on 2016-02-09.
 
 ## Get Real-Time Alerts
 

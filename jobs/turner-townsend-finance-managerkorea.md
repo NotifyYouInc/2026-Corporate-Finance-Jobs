@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Seoul, Seoul, South Korea |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000129379580-finance-managerkorea) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000129879324-finance-managerkorea) |
 
 ## About This Role
 
-This corporate finance position at Turner & Townsend was posted on 2026-06-01.
+This corporate finance position at Turner & Townsend was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

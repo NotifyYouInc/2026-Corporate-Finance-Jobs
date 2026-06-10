@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Securities---Derivatives-Analyst-1_25926748) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Securities---Derivatives-Analyst-1_26968345) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-13.
+This corporate finance position at Citigroup was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Asset-Management---Mid_R-00182014) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Asset-Management---Mid_R-00184560) |
 
 ## About This Role
 
-This corporate finance position at Leidos was posted on 2026-04-29.
+This corporate finance position at Leidos was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [PT SMART Tbk](https://scoutify.ai/companies/pt-smart-tbk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/Treasury-BO-Analyst_R-26000281) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/Treasury-BO-Analyst_R-26000842) |
 
 ## About This Role
 
-This corporate finance position at PT SMART Tbk was posted on 2026-02-13.
+This corporate finance position at PT SMART Tbk was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 
