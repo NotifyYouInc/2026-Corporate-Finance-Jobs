@@ -5,12 +5,12 @@
 | Company | [Lextorah LDS](https://scoutify.ai/companies/lextorah-lds?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lagos, Lagos, Nigeria |
 | Category | Corporate Finance |
-| Posted | 2013-05-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/lextorahlds/72249290-chief-accountant) |
+| Posted | 2013-12-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/lextorahlds/74713103-chief-accountant) |
 
 ## About This Role
 
-This corporate finance position at Lextorah LDS was posted on 2013-05-30.
+This corporate finance position at Lextorah LDS was posted on 2013-12-13.
 
 ## Get Real-Time Alerts
 

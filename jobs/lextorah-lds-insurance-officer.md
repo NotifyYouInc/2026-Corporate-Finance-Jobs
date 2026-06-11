@@ -5,12 +5,12 @@
 | Company | [Lextorah LDS](https://scoutify.ai/companies/lextorah-lds?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lagos, Lagos, Nigeria |
 | Category | Corporate Finance |
-| Posted | 2013-10-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/lextorahlds/74097500-insurance-officer) |
+| Posted | 2013-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/lextorahlds/72401886-insurance-officer) |
 
 ## About This Role
 
-This corporate finance position at Lextorah LDS was posted on 2013-10-28.
+This corporate finance position at Lextorah LDS was posted on 2013-06-19.
 
 ## Get Real-Time Alerts
 

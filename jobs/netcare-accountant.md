@@ -5,12 +5,12 @@
 | Company | [Netcare](https://scoutify.ai/companies/netcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://netcare.wd103.myworkdayjobs.com/netcareexternal/job/Akeso-Milnerton/Accountant_JR106897) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://netcare.wd103.myworkdayjobs.com/netcareexternal/job/Netcare-Mulbarton-Hospital/Accountant_JR107050) |
 
 ## About This Role
 
-This corporate finance position at Netcare was posted on 2026-05-27.
+This corporate finance position at Netcare was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

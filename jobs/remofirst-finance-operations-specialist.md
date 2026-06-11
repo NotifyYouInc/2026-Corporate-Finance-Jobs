@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remofirst](https://scoutify.ai/companies/remofirst?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | South Africa |
+| Location | Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.lever.co/remofirst/532fa65a-3ee8-4afd-afd4-64895ec14530) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.lever.co/remofirst/9b75454c-fdf7-4d77-883a-d928d258abe9) |
 
 ## About This Role
 
-This corporate finance position at Remofirst was posted on 2026-03-13.
+This corporate finance position at Remofirst was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

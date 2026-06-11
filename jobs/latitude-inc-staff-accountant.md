@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Latitude Inc](https://scoutify.ai/companies/latitude-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Chesapeake, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2025-09-22 |
-| Apply | [View on company site](https://jobs.lever.co/latitudeinc/c552b569-7321-4177-8752-dd6155eaaa7f) |
+| Posted | 2025-12-29 |
+| Apply | [View on company site](https://jobs.lever.co/latitudeinc/7d3849c2-945c-49d3-80bb-600a861b4e61) |
 
 ## About This Role
 
-This corporate finance position at Latitude Inc was posted on 2025-09-22.
+This corporate finance position at Latitude Inc was posted on 2025-12-29.
 
 ## Get Real-Time Alerts
 
