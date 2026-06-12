@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Marietta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000124751889-corporate-tax-manager-hybrid) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000130305794-corporate-tax-manager-hybrid) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-05-05.
+This corporate finance position at SGS was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

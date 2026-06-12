@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edmond, Oklahoma, United States |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Edmond-Oklahoma/Sleep-Expert---Sales_JR-P0062105) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Kentwood-Michigan/Sleep-Expert---Sales_JR-P0062135) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-06-02.
+This corporate finance position at Mattressfirm was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

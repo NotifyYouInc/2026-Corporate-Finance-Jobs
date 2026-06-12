@@ -5,12 +5,12 @@
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---Technology-Centre/Senior-Finance-Manager_JR35885) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---Technology-Centre/Senior-Finance-Manager_JR36458) |
 
 ## About This Role
 
-This corporate finance position at Dyson was posted on 2026-04-09.
+This corporate finance position at Dyson was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

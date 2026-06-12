@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Program-Finance-Lead_R-00180835) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Program-Finance-Lead_R-00184463-1) |
 
 ## About This Role
 
-This corporate finance position at Leidos was posted on 2026-04-14.
+This corporate finance position at Leidos was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

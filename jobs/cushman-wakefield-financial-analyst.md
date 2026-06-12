@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Sydney/Financial-Analyst_R319619) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Financial-Analyst_R321594) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-05-18.
+This corporate finance position at Cushman & Wakefield was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

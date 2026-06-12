@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000130147119-controller) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000130350749-controller) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-06-04.
+This corporate finance position at Red Bull was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

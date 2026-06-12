@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | Wokingham, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Leeds-West-Yorkshire-United-Kingdom/Financial-Analyst--Consolidations_R-076247-2) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Wokingham-Berkshire-United-Kingdom/Financial-Analyst--Consolidations_R-080342-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-05-24.
+This corporate finance position at Johnson & Johnson was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Senior-Investment-Manager_R0112323) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Houston-TX/Senior-Investment-Manager_R0115383) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-03-12.
+This corporate finance position at Truist was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Service Corporation International](https://scoutify.ai/companies/service-corporation-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Jefferson, Louisiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://sci.wd5.myworkdayjobs.com/sci/job/LA---Jefferson/Accounting-Clerk-I-_Req161222) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://sci.wd5.myworkdayjobs.com/sci/job/LA---Jefferson/Accounting-Clerk-I-_Req162689) |
 
 ## About This Role
 
-This corporate finance position at Service Corporation International was posted on 2026-04-13.
+This corporate finance position at Service Corporation International was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

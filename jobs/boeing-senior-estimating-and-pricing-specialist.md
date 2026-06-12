@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Senior-Estimating-and-Pricing-Specialist_JR2026501365-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Senior-Estimating-and-Pricing-Specialist_JR2026508052-1) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-03-25.
+This corporate finance position at Boeing was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

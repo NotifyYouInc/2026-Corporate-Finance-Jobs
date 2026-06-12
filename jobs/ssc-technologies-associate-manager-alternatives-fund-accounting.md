@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, California, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Dublin-OH/Associate-Manager--Alternatives-Fund-Accounting_R41913) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Dallas-TX/Associate-Manager--Alternatives-Fund-Accounting_R43245) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-03-18.
+This corporate finance position at SS&C Technologies was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

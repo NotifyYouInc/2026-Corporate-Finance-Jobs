@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Azcapotzalco, Mexico City, Mexico |
+| Location | Mexico City, MX |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Punto-Polanco-Mexico/RTR-Senior-Accountant_R15298) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Punto-Polanco-Mexico/RTR-Senior-Accountant_R18371) |
 
 ## About This Role
 
-This corporate finance position at International Flavors & Fragrances was posted on 2026-02-13.
+This corporate finance position at International Flavors & Fragrances was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

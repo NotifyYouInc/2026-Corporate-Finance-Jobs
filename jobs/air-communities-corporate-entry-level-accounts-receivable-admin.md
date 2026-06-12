@@ -1,16 +1,16 @@
-# Corporate Entry Level Accounts Receivable Admin at AIR Communities
+# Corporate Entry Level Accounts Receivable Admin  at AIR Communities
 
 | Field | Details |
 |-------|---------|
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000122124898-corporate-entry-level-accounts-receivable-admin) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000130308109-corporate-entry-level-accounts-receivable-admin) |
 
 ## About This Role
 
-This corporate finance position at AIR Communities was posted on 2026-04-21.
+This corporate finance position at AIR Communities was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

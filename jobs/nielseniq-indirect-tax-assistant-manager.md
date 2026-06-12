@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113570696-indirect-tax-assistant-manager) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130294060-indirect-tax-assistant-manager) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-03-09.
+This corporate finance position at NielsenIQ was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

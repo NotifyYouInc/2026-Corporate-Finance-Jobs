@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Senior-Specialist_REQ-10107346-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-World-Plaza/Senior-Specialist_REQ-10112418-1) |
 
 ## About This Role
 
-This corporate finance position at ING was posted on 2026-03-06.
+This corporate finance position at ING was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

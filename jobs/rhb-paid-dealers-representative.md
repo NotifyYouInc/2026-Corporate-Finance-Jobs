@@ -5,12 +5,12 @@
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Johor/Paid-Dealer-s-Representative_JR005918) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Selangor/Paid-Dealer-s-Representative_JR004066) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-05-12.
+This corporate finance position at RHB was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

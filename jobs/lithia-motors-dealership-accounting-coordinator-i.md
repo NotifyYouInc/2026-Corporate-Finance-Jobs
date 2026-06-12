@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bend, Oregon, United States |
+| Location | Frisco, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Bend-Chevrolet-Bend-OR-97701/Dealership-Accounting-Coordinator-I_R109334) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Southwest-Kia-Frisco-Frisco-TX-75035/Dealership-Accounting-Coordinator-I_R110183) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-05-22.
+This corporate finance position at Lithia Motors was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

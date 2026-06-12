@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Battle Creek, Michigan, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/MI---Battle-Creek/Financial-Advisor---PNC-Wealth-Management_R223480-2) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15234/Financial-Advisor---PNC-Wealth-Management_R225140-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-05-20.
+This corporate finance position at PNC Financial was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

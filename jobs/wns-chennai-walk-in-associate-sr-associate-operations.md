@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000121680117-chennai-walk-in-associate-sr-associate-operations) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000130362354-chennai-walk-in-associate-sr-associate-operations) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-04-20.
+This corporate finance position at WNS was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

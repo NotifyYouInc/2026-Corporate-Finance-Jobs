@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Group-Underwriting-Consultant_JR190944) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-RICHMOND-2015-STAPLES-MILL-RD/Group-Underwriting-Consultant_JR193678) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-05-05.
+This corporate finance position at Elevance Health was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

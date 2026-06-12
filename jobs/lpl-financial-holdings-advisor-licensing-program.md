@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lynnwood, Washington, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Remote-Washington/Advisor-Licensing-Program_R-049450) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Advisor-Licensing-Program_R-051047) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-05-29.
+This corporate finance position at LPL Financial Holdings was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

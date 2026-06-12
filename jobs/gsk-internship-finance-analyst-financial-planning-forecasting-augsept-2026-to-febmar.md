@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Malaysia---Petaling-Jaya/Internship---Finance-Analyst--Financial-Planning---Forecasting----Aug-Sept-2026-to-Feb-Mar-2027_438887-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Malaysia---Petaling-Jaya/Internship---Finance-Analyst--Financial-Planning---Forecasting----Aug-Sept-2026-to-Feb-Mar-2027_439018) |
 
 ## About This Role
 
-This corporate finance position at GSK was posted on 2026-04-03.
+This corporate finance position at GSK was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tmhcc](https://scoutify.ai/companies/tmhcc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Wakefield, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/New-York---New-York-Lexington/VP--Excess-Casualty-Underwriter_2026-253) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Massachusetts---Wakefield---2/AVP--Excess-Casualty-Underwriter_2026-542) |
 
 ## About This Role
 
-This corporate finance position at Tmhcc was posted on 2026-03-23.
+This corporate finance position at Tmhcc was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

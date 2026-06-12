@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Beverly Hills, California, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Beverly-Hills-California-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000174680) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Richmond-Virginia-United-States-of-America/Branch-Service-Manager-Registered-Client-Associate_R-0000161474) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-29.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
