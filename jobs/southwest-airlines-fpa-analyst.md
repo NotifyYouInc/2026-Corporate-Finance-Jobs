@@ -5,12 +5,12 @@
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/FP-A-Analyst_R-2026-66369) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/FP-A-Analyst_R-2026-68885-1) |
 
 ## About This Role
 
-This corporate finance position at Southwest Airlines was posted on 2026-04-01.
+This corporate finance position at Southwest Airlines was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Princeton, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Akron-44308/Fiduciary-Advisor-Sr_R217717-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NJ---Princeton/Fiduciary-Advisor-Sr_R224727-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-04-17.
+This corporate finance position at PNC Financial was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

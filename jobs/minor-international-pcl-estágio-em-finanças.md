@@ -5,12 +5,12 @@
 | Company | [Minor International PCL](https://scoutify.ai/companies/minorinternationalpcl?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000126166580-estagio-em-financas) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000130575801-estagio-em-financas) |
 
 ## About This Role
 
-This corporate finance position at Minor International PCL was posted on 2026-05-12.
+This corporate finance position at Minor International PCL was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

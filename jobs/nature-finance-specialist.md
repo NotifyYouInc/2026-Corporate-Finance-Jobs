@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nature](https://scoutify.ai/companies/nature?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lansing, Michigan, United States |
+| Location | Oregon, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://nature.wd108.myworkdayjobs.com/externalcareers/job/Lansing-Michigan/Finance-Specialist_JR102698) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://nature.wd108.myworkdayjobs.com/externalcareers/job/Remote---Washington/Finance-Specialist_JR103026-1) |
 
 ## About This Role
 
-This corporate finance position at Nature was posted on 2026-04-21.
+This corporate finance position at Nature was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hendersonville, Tennessee, United States |
+| Location | Fort Lauderdale, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/HENDERSONVILLE-NC/Associate-Private-Client-Financial-Advisor_R-530924) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/FORT-LAUDERDALE-FL/Associate-Private-Client-Financial-Advisor_R-550527) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-30.
+This corporate finance position at Wells Fargo was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

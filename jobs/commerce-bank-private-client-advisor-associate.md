@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | Clayton, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Springfield-Area---Springfield---Springfield-Battlefield-65804/Private-Client-Advisor-Associate_37918-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---St-Louis-County-Central---St-Louis---Clayton-8000-Forsyth-63105/Private-Client-Advisor-Associate_37110) |
 
 ## About This Role
 
-This corporate finance position at Commerce Bank was posted on 2026-05-08.
+This corporate finance position at Commerce Bank was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

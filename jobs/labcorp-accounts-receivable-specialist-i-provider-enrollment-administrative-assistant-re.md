@@ -5,12 +5,12 @@
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Burlington, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Burlington---338-S-Main-Street/Accounts-Receivable-Specialist-I--Provider-Enrollment-Administrative-Assistant----Remote_2538623) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Burlington---338-S-Main-Street/Accounts-Receivable-Specialist-I--Provider-Enrollment-Administrative-Assistant----Remote_2618611) |
 
 ## About This Role
 
-This corporate finance position at Labcorp was posted on 2026-05-01.
+This corporate finance position at Labcorp was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

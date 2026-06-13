@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Florida, US |
+| Location | Milwaukie, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09500---Florida-Remote/Revenue-Specialist-II--ROPS-_R0451722) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09598---Oregon-Remote/Revenue-Specialist-II--ROPS-_R0462507) |
 
 ## About This Role
 
-This corporate finance position at DaVita was posted on 2026-03-30.
+This corporate finance position at DaVita was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

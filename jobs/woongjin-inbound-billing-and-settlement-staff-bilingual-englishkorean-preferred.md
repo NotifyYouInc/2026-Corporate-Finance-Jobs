@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santa Ana, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000129265669-inbound-billing-and-settlement-staff-bilingual-englishkorean-preferred) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000130598539-inbound-billing-and-settlement-staff-bilingual-englishkorean-preferred) |
 
 ## About This Role
 
-This corporate finance position at Woongjin was posted on 2026-05-29.
+This corporate finance position at Woongjin was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | Maitland, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Milwaukee-Wisconsin-USA/Client-Accountant_R316082-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---FL---Maitland---2600-Lake-Lucien-Drive/Client-Accountant_R322478) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-05-06.
+This corporate finance position at Cushman & Wakefield was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Saint Kitts and Nevis |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Hualalai/Accounting-Manager_REQ10373933) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Nevis/Accounting-Manager_REQ10382147) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-03-16.
+This corporate finance position at Four Seasons Hotels was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

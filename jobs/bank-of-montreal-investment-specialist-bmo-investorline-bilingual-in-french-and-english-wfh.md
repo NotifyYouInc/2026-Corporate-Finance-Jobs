@@ -5,12 +5,12 @@
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-QC-CAN/Investment-Specialist---BMO-Investorline--Bilingual-in-French-and-English--WFH_R260014644) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-QC-CAN/Investment-Specialist---BMO-Investorline--Bilingual-in-French-and-English--WFH_R260016814-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-05-12.
+This corporate finance position at Bank of Montreal was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

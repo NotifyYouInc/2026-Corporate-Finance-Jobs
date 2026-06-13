@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agropur](https://scoutify.ai/companies/agropur?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, CA |
+| Location | Woodstock, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://agropur.wd3.myworkdayjobs.com/agropur_careers/job/CAN-Ontario-Don-Mills/Plant-Controller--Operations_JR32447) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://agropur.wd3.myworkdayjobs.com/agropur_careers/job/CAN-Ontario-Woodstock/Contrleur-d-usine_JR33000) |
 
 ## About This Role
 
-This corporate finance position at Agropur was posted on 2026-04-17.
+This corporate finance position at Agropur was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

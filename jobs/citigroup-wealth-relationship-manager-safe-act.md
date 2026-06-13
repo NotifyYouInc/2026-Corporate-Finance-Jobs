@@ -1,16 +1,16 @@
-# Wealth Relationship Manager, SAFE Act at Citigroup
+# Wealth Relationship Manager SAFE Act at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | West Hollywood, Florida, United States |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/9059-WEST-SUNSET-BOULEVARD--WEST-HOLLYWOOD/Wealth-Relationship-Manager--SAFE-Act_26968539) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Los-Angeles-California-United-States/Wealth-Relationship-Manager-SAFE-Act_26970091) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-01.
+This corporate finance position at Citigroup was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

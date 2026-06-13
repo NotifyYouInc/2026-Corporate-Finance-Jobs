@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Tampa, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Private-Client-Advisor-II_26015763) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Tampa/Private-Client-Advisor-II_26019598) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-05-05.
+This corporate finance position at Bank of America was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

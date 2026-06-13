@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-Financial-Analyst_2026-0010111) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Senior-Financial-Analyst_2026-0014006) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-28.
+This corporate finance position at U.S. Bank was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

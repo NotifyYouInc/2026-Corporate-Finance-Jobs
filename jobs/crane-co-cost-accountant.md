@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crane Co.](https://scoutify.ai/companies/cranecompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lynnwood, Washington, United States |
+| Location | Cwmbran, Wales, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Lynnwood-Washington/Cost-Accountant_JR101354) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cwmbran-UK/Cost-Accountant_JR101841) |
 
 ## About This Role
 
-This corporate finance position at Crane Co. was posted on 2026-03-31.
+This corporate finance position at Crane Co. was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

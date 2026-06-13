@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Scottsdale, Arizona, United States |
+| Location | Tampa, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/SCOTTSDALE/Senior-Trust-Officer---Private-Bank_26003696-2) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Tampa/Senior-Trust-Officer---Private-Bank_26019691-1) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-04.
+This corporate finance position at Bank of America was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

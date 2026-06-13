@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, California, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Corporate-Development-Manager_20176148-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-FIELD/Corporate-Development-Manager_20181668) |
 
 ## About This Role
 
-This engineering manager position at Cardinal Health was posted on 2026-02-25.
+This engineering manager position at Cardinal Health was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

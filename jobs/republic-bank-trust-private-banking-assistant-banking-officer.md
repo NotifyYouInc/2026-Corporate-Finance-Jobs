@@ -5,12 +5,12 @@
 | Company | [Republic Bank & Trust](https://scoutify.ai/companies/republic-bank-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hurstbourne, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://recruiting.ultipro.com/rep1009rbtco/JobBoard/14c95af9-22e9-47a9-a87a-9700767f54b6/OpportunityDetail?opportunityId=be508378-dc8f-4983-926f-fee00741720a) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://recruiting.ultipro.com/rep1009rbtco/JobBoard/14c95af9-22e9-47a9-a87a-9700767f54b6/OpportunityDetail?opportunityId=971e84a2-c238-4f9c-93e5-b01017a6c9b6) |
 
 ## About This Role
 
-This corporate finance position at Republic Bank & Trust was posted on 2026-05-26.
+This corporate finance position at Republic Bank & Trust was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

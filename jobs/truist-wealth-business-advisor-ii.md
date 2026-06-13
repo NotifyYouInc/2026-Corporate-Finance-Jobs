@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Miami-FL/Wealth-Business-Advisor-II_R0114683) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Wealth-Business-Advisor-II_R0115438) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-05-15.
+This corporate finance position at Truist was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

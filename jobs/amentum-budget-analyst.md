@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Norfolk/Budget-Analyst_R0160477-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Arlington/Budget-Analyst_R0163025-1) |
 
 ## About This Role
 
-This corporate finance position at Amentum was posted on 2026-05-01.
+This corporate finance position at Amentum was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

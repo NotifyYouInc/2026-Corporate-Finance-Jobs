@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000123797468-sr-financial-analyst) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000130586699-sr-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Mattel was posted on 2026-04-29.
+This corporate finance position at Mattel was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

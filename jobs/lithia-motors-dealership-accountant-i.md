@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Coon Rapids, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Dallas-APC-Dallas-TX-75228/Dealership-Accountant-I_R109909) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Coon-Rapids-CDJR-Coon-Rapids-MN-55433/Dealership-Accountant-I_R110243) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-06-01.
+This corporate finance position at Lithia Motors was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

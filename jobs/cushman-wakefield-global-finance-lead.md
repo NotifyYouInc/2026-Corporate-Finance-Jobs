@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Jose, California, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/San-Jose-California-USA/Global-Finance-Lead_R305955) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Raleigh-North-Carolina-USA/Global-Finance-Lead_R323456) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-02-18.
+This corporate finance position at Cushman & Wakefield was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

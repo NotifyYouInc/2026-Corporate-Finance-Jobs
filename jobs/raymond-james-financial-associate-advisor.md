@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Lexington, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Gilbert-Arizona---United-States/Associate-Advisor_R-0010627) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/KY---Lexington---3225-Summit-Square-Pl-Ste-200/Associate-Advisor_R-0011507) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-04-15.
+This corporate finance position at Raymond James Financial was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

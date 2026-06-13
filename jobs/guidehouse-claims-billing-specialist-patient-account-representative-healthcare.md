@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-Lewisville/Claims--Billing--Specialist---Patient-Account-Representative---Healthcare_39665) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-Lewisville/Claims--Billing--Specialist---Patient-Account-Representative---Healthcare_40290) |
 
 ## About This Role
 
-This corporate finance position at Guidehouse was posted on 2026-05-21.
+This corporate finance position at Guidehouse was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

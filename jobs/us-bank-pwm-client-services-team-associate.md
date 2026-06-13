@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/PWM-Client-Services-Team-Associate_2026-0013089) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/PWM-Client-Services-Team-Associate_2026-0014730) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-18.
+This corporate finance position at U.S. Bank was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

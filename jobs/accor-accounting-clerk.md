@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000128043819-accounting-clerk) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000130589264-accounting-clerk) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-25.
+This corporate finance position at ACCOR was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

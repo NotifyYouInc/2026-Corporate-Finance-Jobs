@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Franklin Templeton](https://scoutify.ai/companies/franklintempleton?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Durgapur, West Bengal, India |
+| Location | India |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/DURGAPUR/Branch-Manager_867239) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Chhatrapati-Sambhajinagar/Branch-Manager_867331) |
 
 ## About This Role
 
-This corporate finance position at Franklin Templeton was posted on 2026-04-28.
+This corporate finance position at Franklin Templeton was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

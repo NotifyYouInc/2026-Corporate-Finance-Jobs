@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Minneapolis-MN-USA/Financial-Analyst_R26_0000000767) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Boston-MA-USA/Financial-Analyst_R26_0000002093) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-03-03.
+This corporate finance position at Brown & Brown Insurance was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

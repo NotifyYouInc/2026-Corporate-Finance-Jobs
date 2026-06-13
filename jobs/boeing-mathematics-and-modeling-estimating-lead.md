@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Mesa, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mathematics-and-Modeling-Estimating-Lead_JR2026498427-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Mathematics-and-Modeling-Estimating-Lead_JR2026513297-1) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-03-03.
+This corporate finance position at Boeing was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Clifton, New Jersey, United States |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Alternative-Ops-Fund-Accounting--Officer_R-790847-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Philippines-Manila/Alternative-Ops-Fund-Accounting--Officer_R-791293) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-20.
+This corporate finance position at State Street was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

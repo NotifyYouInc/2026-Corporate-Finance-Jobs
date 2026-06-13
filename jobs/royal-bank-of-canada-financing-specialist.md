@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OTTAWA-Ontario-Canada/Financing-Specialist_R-0000172646-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Financing-Specialist_R-0000175712) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-19.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

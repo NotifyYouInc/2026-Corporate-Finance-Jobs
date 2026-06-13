@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Niles, Illinois, United States |
+| Location | Carnegie, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/IL---Niles/Financial-Solutions-Advisor---PNC-Wealth-Management_R224566-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Carnegie/Financial-Solutions-Advisor---PNC-Wealth-Management_R225522-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-05-29.
+This corporate finance position at PNC Financial was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

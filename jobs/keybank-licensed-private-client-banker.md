@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Liberty, Missouri, United States |
+| Location | Warwick, Rhode Island, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Liberty-NY/Licensed-Private-Client-Banker_R-39822) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Warwick-NY/Licensed-Private-Client-Banker_R-40191-1) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-06-04.
+This corporate finance position at KeyBank was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
