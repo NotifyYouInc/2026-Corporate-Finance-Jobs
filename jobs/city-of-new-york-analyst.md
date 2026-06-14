@@ -1,16 +1,16 @@
-# Finance SME- General Accounting at JLL
+# Analyst at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME--General-Accounting_REQ490481-3) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013505716-analyst) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-06.
+This corporate finance position at City of New York was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

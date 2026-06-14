@@ -1,16 +1,16 @@
-# Accountant 3-Fin at Oracle
+# Federal Program Cost Control Analyst I - Oracle Health Government Services - Must work in office Arlington VA at Oracle
 
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Arlington, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#334061) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#333421) |
 
 ## About This Role
 
-This corporate finance position at Oracle was posted on 2026-05-22.
+This corporate finance position at Oracle was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

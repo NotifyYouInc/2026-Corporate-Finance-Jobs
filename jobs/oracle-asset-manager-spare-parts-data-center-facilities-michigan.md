@@ -1,16 +1,16 @@
-# Finance SME- General Accounting at JLL
+# Asset Manager - Spare Parts, Data Center Facilities - Michigan at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Michigan, US |
 | Category | Corporate Finance |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME--General-Accounting_REQ490481-3) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#333110) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-06.
+This corporate finance position at Oracle was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

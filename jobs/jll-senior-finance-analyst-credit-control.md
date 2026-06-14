@@ -1,4 +1,4 @@
-# Finance SME- General Accounting at JLL
+# Senior Finance Analyst – Credit control at JLL
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME--General-Accounting_REQ490481-3) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Finance-Analyst---Credit-control_REQ509261) |
 
 ## About This Role
 

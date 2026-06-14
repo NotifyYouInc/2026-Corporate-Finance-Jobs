@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercorp](https://scoutify.ai/companies/mastercorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tennessee, US |
+| Location | Crossville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://mastercorp.wd1.myworkdayjobs.com/mc/job/Crossville-TN/Payroll-Billing-Specialist_JR106344) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://mastercorp.wd1.myworkdayjobs.com/mc/job/Crossville-TN/Payroll-Billing-Specialist_JR107152) |
 
 ## About This Role
 
-This corporate finance position at Mastercorp was posted on 2026-03-19.
+This corporate finance position at Mastercorp was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

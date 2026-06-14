@@ -1,16 +1,16 @@
-# Sleep Expert - Sales at Mattressfirm
+# Financial Data Analyst Trainee at Richemont
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Milan, Lombardy, Italy |
 | Category | Corporate Finance |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Reynoldsburg-Ohio/Sleep-Expert---Sales_JR-P0062149) |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/MILAN/Financial-Data-Analyst-Trainee_JR127317) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-06-05.
+This corporate finance position at Richemont was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

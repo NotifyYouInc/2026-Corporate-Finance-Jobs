@@ -6,7 +6,7 @@
 | Location | Houston, Texas, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990013494316-patient-account-representative-par) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990013497506-patient-account-representative-par) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Finance SME- General Accounting at JLL
+# PWM Transition Specialist at Baird
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME--General-Accounting_REQ490481-3) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/US---Remote/PWM-Transition-Specialist_R2026170-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-06.
+This corporate finance position at Baird was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

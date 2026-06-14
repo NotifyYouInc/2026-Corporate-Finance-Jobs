@@ -1,16 +1,16 @@
-# Finance SME- General Accounting at JLL
+# Assistant Pricing Manager at Sun Life
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME--General-Accounting_REQ490481-3) |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Sun-Life-Singapore/Assistant-Pricing-Manager_JR00124150-2) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-06.
+This corporate finance position at Sun Life was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

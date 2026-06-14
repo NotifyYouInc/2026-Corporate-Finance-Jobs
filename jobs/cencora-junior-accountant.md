@@ -1,16 +1,16 @@
-# Finance SME- General Accounting at JLL
+# Junior Accountant at Cencora
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME--General-Accounting_REQ490481-3) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Junior-Accountant_R268886) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-06.
+This corporate finance position at Cencora was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

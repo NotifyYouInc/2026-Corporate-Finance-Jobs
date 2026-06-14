@@ -1,16 +1,16 @@
-# Finance SME- General Accounting at JLL
+# Financial Specialist - Finance Operations at Wellmark, Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Des Moines, Iowa, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-SME--General-Accounting_REQ490481-3) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000130644929-financial-specialist-finance-operations) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-06.
+This corporate finance position at Wellmark, Inc. was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

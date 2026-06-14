@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#330730) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#334123) |
 
 ## About This Role
 
-This corporate finance position at Oracle was posted on 2026-05-07.
+This corporate finance position at Oracle was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Coon Rapids, Minnesota, United States |
+| Location | Temple Terrace, Florida, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Coon-Rapids-CDJR-Coon-Rapids-MN-55433/Dealership-Accountant-I_R110243) |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Florida-APC-Temple-Terrace-FL-33637/Dealership-Accountant-I_R110305) |
 
 ## About This Role
 

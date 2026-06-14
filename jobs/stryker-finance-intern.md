@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Suzhou-China/Finance-Intern_R562863) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bangkok-Thailand/Finance-Intern_R566246) |
 
 ## About This Role
 
-This corporate finance position at Stryker was posted on 2026-04-02.
+This corporate finance position at Stryker was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 
