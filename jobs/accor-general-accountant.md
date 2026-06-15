@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000128192910-general-accountant) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000130705869-general-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-25.
+This corporate finance position at ACCOR was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000129655113-head-of-general-ledger-tax-leiter-hauptbuchhaltung-steuern-mwd-ref95289t) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000130709650-head-of-general-ledger-tax-leiter-hauptbuchhaltung-steuern-mwd-ref95289t) |
 
 ## About This Role
 
-This corporate finance position at Continental was posted on 2026-06-02.
+This corporate finance position at Continental was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

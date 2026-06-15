@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Heerlen, Limburg, The Netherlands |
+| Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Accountant_R65999-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Shanghai-Shanghai-China/Accountant_R68960-2) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-05-13.
+This corporate finance position at Medtronic was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

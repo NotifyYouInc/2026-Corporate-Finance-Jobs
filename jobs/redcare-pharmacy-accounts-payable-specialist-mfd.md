@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Sevenum, Limburg, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000117495657-accounts-payable-specialist-mfd) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130725709-accounts-payable-specialist-mfd) |
 
 ## About This Role
 
-This corporate finance position at Redcare Pharmacy was posted on 2026-03-29.
+This corporate finance position at Redcare Pharmacy was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

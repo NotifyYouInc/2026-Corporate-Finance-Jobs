@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3192558/finops-analyst-ar) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441708/finops-analyst-ar) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-03-02.
+This corporate finance position at Amazon was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

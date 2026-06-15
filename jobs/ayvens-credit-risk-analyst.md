@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bristol, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Mexico-City/Credit-Risk-Analyst_JR_10036276) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Risk-Analyst_JR_10039785) |
 
 ## About This Role
 
-This corporate finance position at Ayvens was posted on 2026-03-06.
+This corporate finance position at Ayvens was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

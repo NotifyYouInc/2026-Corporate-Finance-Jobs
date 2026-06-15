@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guayaquil, Guayas, Ecuador |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Ecuador-Guayaquil-090615/Billing-Assistant_R176242) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Singapore-Singapore-648165/Billing-Assistant_R183062-1) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-03-25.
+This corporate finance position at A.P. Moller - Maersk was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

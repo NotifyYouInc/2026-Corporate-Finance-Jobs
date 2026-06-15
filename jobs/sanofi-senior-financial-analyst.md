@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/Senior-Financial-Analyst_R2856533) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Petaling-Jaya/Senior-Financial-Analyst_R2858659) |
 
 ## About This Role
 
-This corporate finance position at Sanofi was posted on 2026-05-08.
+This corporate finance position at Sanofi was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Senior-Analyst_R154059-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Senior-Analyst_R155580) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-23.
+This corporate finance position at Northern Trust was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

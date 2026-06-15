@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Sevenum, Limburg, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000115480177-junior-payment-operations-associate-mfd) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130724819-junior-payment-operations-associate-mfd) |
 
 ## About This Role
 
-This corporate finance position at Redcare Pharmacy was posted on 2026-03-18.
+This corporate finance position at Redcare Pharmacy was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

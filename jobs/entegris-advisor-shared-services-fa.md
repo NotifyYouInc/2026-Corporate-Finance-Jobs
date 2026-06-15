@@ -1,16 +1,16 @@
-# Advisor, Shared Services, FA at Entegris
+# Advisor, Shared Services FA at Entegris
 
 | Field | Details |
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bayan-Lepas-Penang-Malaysia/Advisor--Shared-Services--FA_REQ-11019) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bayan-Lepas-Penang-Malaysia/Advisor--Shared-Services-FA_REQ-12509) |
 
 ## About This Role
 
-This corporate finance position at Entegris was posted on 2026-04-09.
+This corporate finance position at Entegris was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

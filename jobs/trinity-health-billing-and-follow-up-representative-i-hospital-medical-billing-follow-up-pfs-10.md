@@ -1,16 +1,16 @@
-# Billing and Follow-Up Representative-I (Hospital Medical Billing Follow-up) - PFS (100% Work Onsite-Davenport, Iowa) at Trinity Health
+# Billing and Follow-up Representative-I (Hospital Medical Billing Follow-up) - PFS (100% Work Onsite-Davenport, Iowa) at Trinity Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Davenport, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/MOQ---GMC-West-Central-Park-Campus/Billing-and-Follow-Up-Representative-I--Hospital-Medical-Billing-Follow-up----PFS--100--Work-Onsite-Davenport--Iowa-_00650593) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/MOQ---GHG-Davenport/Billing-and-Follow-up-Representative-I--Hospital-Medical-Billing-Follow-up----PFS--100--Work-Onsite-Davenport--Iowa-_00672462) |
 
 ## About This Role
 
-This corporate finance position at Trinity Health was posted on 2026-03-20.
+This corporate finance position at Trinity Health was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Salt Lake City, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Billings-MT/Partner-Private-Wealth-Advisor_2026-0012091-1) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Salt-Lake-City-UT/PWM-Partner-Private-Wealth-Advisor_2026-0014969-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bancorp was posted on 2026-05-07.
+This corporate finance position at U.S. Bancorp was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

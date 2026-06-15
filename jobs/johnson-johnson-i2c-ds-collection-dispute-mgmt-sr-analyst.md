@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Diegem, Flanders, Belgium |
 | Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bogot-Distrito-Capital-Colombia/I2C-DS-Collection---Dispute-Mgmt-Sr-Analyst_R-076220-1) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Diegem-Flemish-Brabant-Belgium/I2C-DS-Collection---Dispute-Mgmt-Sr-Analyst_R-078497-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-05-25.
+This corporate finance position at Johnson & Johnson was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

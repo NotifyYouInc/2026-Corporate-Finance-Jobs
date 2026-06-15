@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NZ Transport Agency](https://scoutify.ai/companies/nz-transport-agency?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Whangarei, Northland, New Zealand |
+| Location | Gisborne, Gisborne, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://nztagovtnz.wd3.myworkdayjobs.com/nztagovtnz/job/Whangrei/Asset-Manager_JR-0000012571-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://nztagovtnz.wd3.myworkdayjobs.com/nztagovtnz/job/Gisborne/Asset-Manager_JR-0000012773) |
 
 ## About This Role
 
-This corporate finance position at NZ Transport Agency was posted on 2026-04-30.
+This corporate finance position at NZ Transport Agency was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

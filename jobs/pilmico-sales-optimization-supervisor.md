@@ -5,12 +5,12 @@
 | Company | [Pilmico](https://scoutify.ai/companies/pilmico?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cebu City, Central Visayas, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000127118246-sales-optimization-supervisor) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000130697417-sales-optimization-supervisor) |
 
 ## About This Role
 
-This corporate finance position at Pilmico was posted on 2026-05-19.
+This corporate finance position at Pilmico was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

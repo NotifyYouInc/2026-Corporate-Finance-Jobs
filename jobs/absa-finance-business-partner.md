@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Finance-Business-Partner_R-15983558-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Capital-City-Building-Branch/Finance-Business-Partner_R-15979992-1) |
 
 ## About This Role
 
-This corporate finance position at Absa was posted on 2026-02-06.
+This corporate finance position at Absa was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

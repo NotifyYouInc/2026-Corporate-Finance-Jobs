@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | Sevenum, Limburg, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000118215940-senior-manager-accounts-payable-mfd-team-lead) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130722335-senior-manager-accounts-payable-mfd-team-lead) |
 
 ## About This Role
 
-This corporate finance position at Redcare Pharmacy was posted on 2026-04-01.
+This corporate finance position at Redcare Pharmacy was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

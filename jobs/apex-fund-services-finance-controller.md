@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Finance-Controller_JR-0016995-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Finance-Controller_JR-0015901) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-06-05.
+This corporate finance position at Apex Fund Services was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

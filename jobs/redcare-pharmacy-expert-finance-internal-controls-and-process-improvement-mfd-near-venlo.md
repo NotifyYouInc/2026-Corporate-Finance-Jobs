@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Germany |
+| Location | Mönchengladbach, North Rhine-Westphalia, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000121029791-expert-finance-internal-controls-and-process-improvement-mfd-near-venlo) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130721289-expert-finance-internal-controls-and-process-improvement-mfd-near-venlo) |
 
 ## About This Role
 
-This corporate finance position at Redcare Pharmacy was posted on 2026-04-15.
+This corporate finance position at Redcare Pharmacy was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
