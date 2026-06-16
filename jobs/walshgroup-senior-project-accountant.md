@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WalshGroup](https://scoutify.ai/companies/walshgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Lexington, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/OH_Cincinnati_223102/Senior-Project-Accountant_JR15024) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/KY_Lexington-fayette_223071/Senior-Project-Accountant_JR15173) |
 
 ## About This Role
 
-This corporate finance position at WalshGroup was posted on 2026-05-29.
+This corporate finance position at WalshGroup was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

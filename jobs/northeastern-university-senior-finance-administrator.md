@@ -5,12 +5,12 @@
 | Company | [Northeastern University](https://scoutify.ai/companies/northeastern?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Senior-Finance-Administrator_R139213) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Senior-Finance-Administrator_R140387) |
 
 ## About This Role
 
-This corporate finance position at Northeastern University was posted on 2026-03-30.
+This corporate finance position at Northeastern University was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

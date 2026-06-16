@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Senior-Credit-Analyst_R261941-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Senior-Credit-Analyst_R264144-1) |
 
 ## About This Role
 
-This corporate finance position at Uline was posted on 2026-03-06.
+This corporate finance position at Uline was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

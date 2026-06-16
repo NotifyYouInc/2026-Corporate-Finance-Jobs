@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Franklin Templeton](https://scoutify.ai/companies/franklintempleton?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Ranchi, Jharkhand, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Chhatrapati-Sambhajinagar/Branch-Manager_867331) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/FTAMC-Ranchi-F3434/Branch-Manager_867232) |
 
 ## About This Role
 
-This corporate finance position at Franklin Templeton was posted on 2026-06-05.
+This corporate finance position at Franklin Templeton was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

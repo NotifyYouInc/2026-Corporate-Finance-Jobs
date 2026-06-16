@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Halifax, Nova Scotia, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Private-Banking-Advisor_R-0000166158) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Private-Banking-Advisor_R-0000175889-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-31.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

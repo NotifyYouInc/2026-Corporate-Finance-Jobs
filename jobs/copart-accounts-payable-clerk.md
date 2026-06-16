@@ -5,12 +5,12 @@
 | Company | [Copart](https://scoutify.ai/companies/copart?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Accounts-Payable-Clerk_JR107431) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Accounts-Payable-Clerk_JR109408) |
 
 ## About This Role
 
-This corporate finance position at Copart was posted on 2026-02-26.
+This corporate finance position at Copart was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

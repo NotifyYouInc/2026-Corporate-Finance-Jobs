@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Silgan Dispensing Systems](https://scoutify.ai/companies/silgan-dispensing-systems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quebec, CA |
+| Location | Antioch, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Lachine-Quebec/Plant-Accountant_R7167) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Antioch-California/Plant-Accountant_R7517) |
 
 ## About This Role
 
-This corporate finance position at Silgan Dispensing Systems was posted on 2026-04-22.
+This corporate finance position at Silgan Dispensing Systems was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

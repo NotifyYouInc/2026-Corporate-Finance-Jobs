@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CO-DENVER-700-BROADWAY/Group-Underwriter-Senior_JR194464) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Group-Underwriter-Senior_JR193940) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-06-01.
+This corporate finance position at Elevance Health was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

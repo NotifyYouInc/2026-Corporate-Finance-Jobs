@@ -1,16 +1,16 @@
-# PATRIOT - Principal Program Cost Controls - P3 - (Remote) at RTX
+# PATRIOT - Principal Program Cost Controls (P3) *REMOTE* at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Massachusetts, US |
+| Location | Maine, US |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-REMOTE/PATRIOT---Principal-Program-Cost-Controls---P3----Remote-_01846937-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ME-REMOTE/PATRIOT---Principal-Program-Cost-Controls--P3---REMOTE-_01850892-1) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-05-21.
+This corporate finance position at RTX was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

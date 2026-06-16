@@ -5,12 +5,12 @@
 | Company | [Ströer SE & Co. KGaA (Ströer Gruppe)](https://scoutify.ai/companies/strersecokgaastrergruppe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000127582650-debitorenbuchhalter-mwd) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000131040500-debitorenbuchhalter-mwd) |
 
 ## About This Role
 
-This corporate finance position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-05-21.
+This corporate finance position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

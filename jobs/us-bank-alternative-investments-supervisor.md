@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hackensack, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hackensack-NJ/Alternative-Investments-Supervisor_2026-0014030-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hackensack-NJ/Alternative-Investments-Supervisor_2026-0014814) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-27.
+This corporate finance position at U.S. Bank was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

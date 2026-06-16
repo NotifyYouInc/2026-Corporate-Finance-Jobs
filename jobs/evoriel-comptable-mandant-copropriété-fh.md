@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dijon, Bourgogne, France |
+| Location | Obernai, Grand Est, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000115880004-comptable-mandant-copropriete-fh) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000131068772-comptable-mandant-copropriete-fh) |
 
 ## About This Role
 
-This corporate finance position at Evoriel was posted on 2026-03-20.
+This corporate finance position at Evoriel was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ghj](https://scoutify.ai/companies/ghj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Carson, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/ghj/981f7689-6dae-46b6-a1e0-98f8d4115349) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.lever.co/ghj/2b126c70-adab-4e6e-889f-e42d5317ea33) |
 
 ## About This Role
 
-This corporate finance position at Ghj was posted on 2026-05-18.
+This corporate finance position at Ghj was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

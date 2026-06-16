@@ -5,12 +5,12 @@
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000120869917-senior-accountant) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000131044689-senior-accountant) |
 
 ## About This Role
 
-This corporate finance position at Egis was posted on 2026-04-15.
+This corporate finance position at Egis was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

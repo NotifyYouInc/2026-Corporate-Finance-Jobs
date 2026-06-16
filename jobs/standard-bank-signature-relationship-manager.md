@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | South Africa |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000127498899-signature-relationship-manager) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000130865061-signature-relationship-manager) |
 
 ## About This Role
 
-This corporate finance position at Standard Bank was posted on 2026-05-20.
+This corporate finance position at Standard Bank was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

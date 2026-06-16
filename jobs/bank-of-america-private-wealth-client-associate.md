@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Spokane, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Spokane/Private-Wealth-Client-Associate_26019502) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Private-Wealth-Client-Associate_26019714) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-04.
+This corporate finance position at Bank of America was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

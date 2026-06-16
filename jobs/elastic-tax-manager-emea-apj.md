@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ireland |
+| Location | Spain |
 | Category | Corporate Finance |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7988325&gh_jid=7988325) |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7991248&gh_jid=7991248) |
 
 ## About This Role
 

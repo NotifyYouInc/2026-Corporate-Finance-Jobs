@@ -1,16 +1,16 @@
-# Private Bank – Lending Officer - AVP at Deutsche Bank
+# Private Bank – Lending Officer, AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/Private-Bank---Lending-Officer---AVP_R0427710) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/Private-Bank---Lending-Officer--AVP_R0439491) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-03-16.
+This corporate finance position at Deutsche Bank was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Melbourne, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Principal-Program-Cost-and-Schedule-Control-Analyst_R10234521) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Program-Cost-and-Schedule-Control-Analyst_R10235429) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-06-03.
+This corporate finance position at Northrop Grumman was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

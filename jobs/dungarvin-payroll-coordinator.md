@@ -5,12 +5,12 @@
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Long Beach, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000130536219-payroll-coordinator) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000130889605-payroll-coordinator) |
 
 ## About This Role
 
-This corporate finance position at Dungarvin was posted on 2026-06-05.
+This corporate finance position at Dungarvin was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

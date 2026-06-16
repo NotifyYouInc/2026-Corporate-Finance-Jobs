@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Fund-Accountant_JR-0022678) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad-Sy-No-53/Fund-Accountant_JR-0023965) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-06-02.
+This corporate finance position at Apex Fund Services was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rosemont, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Rosemont-IL/Seasonal-Associate_26952) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Chicago-IL/Seasonal-Associate_261078) |
 
 ## About This Role
 
-This corporate finance position at Wintrust was posted on 2026-05-15.
+This corporate finance position at Wintrust was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Atrium Hospitality](https://scoutify.ai/companies/atrium-hospitality?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Des Moines, Iowa, United States |
+| Location | Mesquite, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Des-Moines-IA/Accounting-Associate_R48318-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Mesquite-TX/Accounting-Associate_R48694) |
 
 ## About This Role
 
-This corporate finance position at Atrium Hospitality was posted on 2026-05-13.
+This corporate finance position at Atrium Hospitality was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

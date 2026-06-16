@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/Actuarial-Analyst_JR2601908) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/IL-Chicago/Actuarial-Analyst_JR2602528-1) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-05-27.
+This corporate finance position at AIG was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Senior-Depositary-Analyst_R-789541-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Senior-Depositary-Analyst_R-791982) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-05.
+This corporate finance position at State Street was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

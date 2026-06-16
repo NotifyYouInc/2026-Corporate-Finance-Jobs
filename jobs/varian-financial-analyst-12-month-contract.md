@@ -1,16 +1,16 @@
-# Financial Analyst (12 Month Contract) at Varian
+# Financial Analyst - 12 Month Contract at Varian
 
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oakville, Ontario, Canada |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/OAV-N/Financial-Analyst--12-Month-Contract-_R-28315-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/OAV-N/Financial-Analyst---12-Month-Contract_R-28847-1) |
 
 ## About This Role
 
-This corporate finance position at Varian was posted on 2026-05-08.
+This corporate finance position at Varian was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

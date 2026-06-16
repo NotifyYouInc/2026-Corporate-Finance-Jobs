@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ireland |
+| Location | Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Ringaskiddy-Cork-Ireland/Payroll-DS-Senior-Analyst_R-078511-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Grecia-Costa-Rica/Payroll-DS-Senior-Analyst_R-078498-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-06-07.
+This corporate finance position at Johnson & Johnson was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

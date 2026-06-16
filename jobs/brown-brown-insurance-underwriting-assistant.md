@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Garden City, Kansas, United States |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Garden-City-NY-USA/Underwriting-Assistant_R26_0000001748-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Miami-FL-USA/Underwriting-Assistant_R26_0000002103) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-05-13.
+This corporate finance position at Brown & Brown Insurance was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

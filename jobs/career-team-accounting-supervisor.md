@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Career Team](https://scoutify.ai/companies/career-team?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/careerteam/jobs/4697189005) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/careerteam/jobs/4704049005) |
 
 ## About This Role
 
-This corporate finance position at Career Team was posted on 2026-05-19.
+This corporate finance position at Career Team was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

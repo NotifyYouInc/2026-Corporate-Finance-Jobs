@@ -1,16 +1,16 @@
-# Capital Markets Associate - Sales (F) at PNC Financial
+# Capital Markets Associate -Sales (F) at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Capital-Markets-Associate---Sales--F-_R216713-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/San-Francisco---Mission-CA295/Capital-Markets-Associate--Sales--F-_R225496-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-04-16.
+This corporate finance position at PNC Financial was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

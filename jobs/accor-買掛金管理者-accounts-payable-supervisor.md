@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Osaka, Osaka, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000114882932-accounts-payable-supervisor) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000130901744-accounts-payable-supervisor) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-16.
+This corporate finance position at ACCOR was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
