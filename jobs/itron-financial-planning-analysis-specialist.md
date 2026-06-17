@@ -5,12 +5,12 @@
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Texas-Austin/Financial-Planning---Analysis-Specialist_JR102545-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Washington-Liberty-Lake/Financial-Planning---Analysis-Specialist_JR102551) |
 
 ## About This Role
 
-This corporate finance position at Itron was posted on 2026-06-05.
+This corporate finance position at Itron was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

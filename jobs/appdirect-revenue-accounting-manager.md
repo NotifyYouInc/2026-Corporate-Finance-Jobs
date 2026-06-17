@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AppDirect](https://scoutify.ai/companies/appdirect?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appdirect/jobs/8530633002) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appdirect/jobs/8564808002) |
 
 ## About This Role
 
-This corporate finance position at AppDirect was posted on 2026-05-01.
+This corporate finance position at AppDirect was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

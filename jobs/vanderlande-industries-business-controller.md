@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Marietta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Singapore-I/Business-Controller_JR36389-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-Atlanta/Business-Controller_JR37007-3) |
 
 ## About This Role
 
-This corporate finance position at Vanderlande Industries was posted on 2026-05-14.
+This corporate finance position at Vanderlande Industries was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

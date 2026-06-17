@@ -5,12 +5,12 @@
 | Company | [China CITIC Bank](https://scoutify.ai/companies/china-citic-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | China |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://cncbinternational.wd3.myworkdayjobs.com/cncbiexternalcareersite/job/Hong-Kong/Assistant-Vice-President---Vice-President--Corporate-Banking--Marketing-Relationship-Manager-_JR1837) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://cncbinternational.wd3.myworkdayjobs.com/cncbiexternalcareersite/job/Hong-Kong/Assistant-Vice-President---Vice-President--Corporate-Banking--Marketing-Relationship-Manager-_JR2417) |
 
 ## About This Role
 
-This corporate finance position at China CITIC Bank was posted on 2026-05-20.
+This corporate finance position at China CITIC Bank was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

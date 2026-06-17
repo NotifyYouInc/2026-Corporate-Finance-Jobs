@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Uniondale, New York, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/NY---Uniondale/Accounting-Analyst-III_R27685-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Accounting-Analyst-III_R31229) |
 
 ## About This Role
 
-This corporate finance position at Allstate was posted on 2026-04-03.
+This corporate finance position at Allstate was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

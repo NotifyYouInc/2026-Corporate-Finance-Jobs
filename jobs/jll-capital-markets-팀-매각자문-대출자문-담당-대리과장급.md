@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seoul-Korea-Republic-of/Capital-Markets-----------_REQ503130) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seoul-Korea-Republic-of/Capital-Markets-----------_REQ510789) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-04-24.
+This corporate finance position at JLL was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

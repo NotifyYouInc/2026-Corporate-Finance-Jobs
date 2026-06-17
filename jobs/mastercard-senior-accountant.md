@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Peterborough, England, United Kingdom |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Peterborough-England/Senior-Accountant_R-278809) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Senior-Accountant_R-277815) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-05-29.
+This corporate finance position at Mastercard was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

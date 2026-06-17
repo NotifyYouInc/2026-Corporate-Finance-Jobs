@@ -5,12 +5,12 @@
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012265546-gaming-revenue-audit-accounting-specialist) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013543686-gaming-revenue-audit-accounting-specialist) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-03-23.
+This corporate finance position at Boyd Gaming was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

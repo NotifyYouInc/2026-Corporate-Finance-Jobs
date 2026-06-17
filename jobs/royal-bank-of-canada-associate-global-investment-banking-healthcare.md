@@ -1,16 +1,16 @@
-# Associate, Global Investment Banking , Healthcare at Royal Bank of Canada
+# Associate, Global Investment Banking - Healthcare at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/Associate--Global-Investment-Banking---Healthcare_R-0000159693) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/Associate--Global-Investment-Banking---Healthcare_R-0000174839) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-02-12.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

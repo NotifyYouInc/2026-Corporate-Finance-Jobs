@@ -1,16 +1,16 @@
-# Associate - Hedge Fund Accounting at SS&C Technologies
+# Associate, Hedge Fund Accounting at SS&C Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Windsor, Connecticut, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Windsor-CT/Associate---Hedge-Fund-Accounting_R41765) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA/Associate--Hedge-Fund-Accounting_R44091) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-03-24.
+This corporate finance position at SS&C Technologies was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

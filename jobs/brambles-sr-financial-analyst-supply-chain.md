@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brambles](https://scoutify.ai/companies/brambles?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Alpharetta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://brambles.wd5.myworkdayjobs.com/brambles_careers/job/Atlanta-Georgia-USA/Sr-Financial-Analyst--Supply-Chain_JR23975) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://brambles.wd5.myworkdayjobs.com/brambles_careers/job/Alpharetta-Georgia-USA/Sr-Financial-Analyst--Supply-Chain_JR23967) |
 
 ## About This Role
 
-This corporate finance position at Brambles was posted on 2026-06-05.
+This corporate finance position at Brambles was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

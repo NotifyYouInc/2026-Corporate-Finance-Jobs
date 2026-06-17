@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Santee, California, United States |
+| Location | New Braunfels, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Santee-CA-US/Collections-Associate_R26002693) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/New-Braunfels-TX-US/Collections-Associate_R26002872) |
 
 ## About This Role
 
-This corporate finance position at HD Supply was posted on 2026-05-18.
+This corporate finance position at HD Supply was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

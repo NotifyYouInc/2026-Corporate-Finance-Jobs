@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117481) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115728) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-06-05.
+This corporate finance position at IBM was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

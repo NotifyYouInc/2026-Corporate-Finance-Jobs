@@ -5,12 +5,12 @@
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Heredia-Costa-Rica/Accounts-Receivable-Clerk-III_R269229) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/LATAM--Costa-Rica--Heredia--C-Dominguenos/Accounts-Receivable-Clerk-III_R269840) |
 
 ## About This Role
 
-This corporate finance position at Cencora was posted on 2026-06-02.
+This corporate finance position at Cencora was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

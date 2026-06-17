@@ -1,16 +1,16 @@
-# Accounting Manager - Capital at Endeavour Group Careers
+# Accounting Manager  - Capital at Endeavour Group Careers
 
 | Field | Details |
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000112840237-accounting-manager-capital) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000131248032-accounting-manager-capital) |
 
 ## About This Role
 
-This corporate finance position at Endeavour Group Careers was posted on 2026-03-05.
+This corporate finance position at Endeavour Group Careers was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

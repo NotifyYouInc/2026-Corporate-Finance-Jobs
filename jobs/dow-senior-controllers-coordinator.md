@@ -5,12 +5,12 @@
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Navi Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Senior-Controllers-Coordinator_R2065755) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Senior-Controllers-Coordinator_R2066795) |
 
 ## About This Role
 
-This corporate finance position at Dow was posted on 2026-03-13.
+This corporate finance position at Dow was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# ABL Collateral Analyst at Banc of California
+
+| Field | Details |
+|-------|---------|
+| Company | [Banc of California](https://scoutify.ai/companies/banc-of-california?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Phoenix, Arizona, United States |
+| Category | Corporate Finance |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://recruiting.ultipro.com/pac1009/JobBoard/37e95049-80e2-145c-b48c-f826b780e4d6/OpportunityDetail?opportunityId=16c15b1a-a5de-4ab3-8f17-c49bd760936a) |
+
+## About This Role
+
+This corporate finance position at Banc of California was posted on 2026-06-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

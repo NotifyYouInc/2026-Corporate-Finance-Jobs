@@ -1,16 +1,16 @@
-# Manager Finance at Puma
+# Manager, Finance at Puma
 
 | Field | Details |
 |-------|---------|
 | Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indonesia |
+| Location | Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Indonesia/Manager-Finance_R40413-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Malaysia/Manager--Finance_R41796) |
 
 ## About This Role
 
-This corporate finance position at Puma was posted on 2026-03-18.
+This corporate finance position at Puma was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

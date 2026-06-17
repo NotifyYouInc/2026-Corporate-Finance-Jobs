@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Plymouth, Minnesota, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Principal-Cost-Estimating-Analyst_R10235156) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Principal-Cost-Estimating-Analyst_R10235480) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-06-04.
+This corporate finance position at Northrop Grumman was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

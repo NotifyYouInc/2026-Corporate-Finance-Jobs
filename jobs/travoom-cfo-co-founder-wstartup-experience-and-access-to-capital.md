@@ -5,12 +5,12 @@
 | Company | [Travoom](https://scoutify.ai/companies/travoom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000130562939-cfo-co-founder-wstartup-experience-and-access-to-capital) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000131176009-cfo-co-founder-wstartup-experience-and-access-to-capital) |
 
 ## About This Role
 
-This corporate finance position at Travoom was posted on 2026-06-05.
+This corporate finance position at Travoom was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

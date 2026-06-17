@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Northfield, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Mexico-Ciudad-de-Mexico/Mgr-Finance_R2522258) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Mgr-Finance_R2610335) |
 
 ## About This Role
 
-This corporate finance position at Medline was posted on 2026-03-05.
+This corporate finance position at Medline was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

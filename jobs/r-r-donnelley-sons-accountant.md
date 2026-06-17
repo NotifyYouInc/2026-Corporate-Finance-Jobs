@@ -5,12 +5,12 @@
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Warrenville, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000123761934-accountant) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000131234824-accountant) |
 
 ## About This Role
 
-This corporate finance position at R R Donnelley & Sons was posted on 2026-04-29.
+This corporate finance position at R R Donnelley & Sons was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

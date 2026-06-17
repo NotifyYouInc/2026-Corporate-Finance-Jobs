@@ -5,12 +5,12 @@
 | Company | [Ampol](https://scoutify.ai/companies/ampol?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Queensland, AU |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001107604-management-accountant-manufacturing) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001142445-management-accountant-manufacturing) |
 
 ## About This Role
 
-This corporate finance position at Ampol was posted on 2026-05-27.
+This corporate finance position at Ampol was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

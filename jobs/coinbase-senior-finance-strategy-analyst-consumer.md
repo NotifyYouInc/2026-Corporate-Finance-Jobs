@@ -5,12 +5,12 @@
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7760206?gh_jid=7760206) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7993006?gh_jid=7993006) |
 
 ## About This Role
 
-This corporate finance position at Coinbase was posted on 2026-03-29.
+This corporate finance position at Coinbase was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

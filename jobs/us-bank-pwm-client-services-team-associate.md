@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/PWM-Client-Services-Team-Associate_2026-0014730) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Omaha-NE/PWM-Client-Services-Team-Associate_2026-0016359) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-06-05.
+This corporate finance position at U.S. Bank was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

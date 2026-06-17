@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/PWM-Business-Service-Officer_JR033963-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/PWM-Business-Service-Officer_JR031591-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-16.
+This corporate finance position at Morgan Stanley was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

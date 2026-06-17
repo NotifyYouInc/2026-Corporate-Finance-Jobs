@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Coordonnateur-ou-coordonnatrice--l-actuariat--Assurance-de-dommages_R2604515) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-en-actuariat_R2607622) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-04-06.
+This corporate finance position at Desjardins was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397494/snr-startup-investor-manager-aws-worldwide-startups) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430020/snr-startup-investor-manager-aws-worldwide-startups) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-04-21.
+This corporate finance position at Amazon was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

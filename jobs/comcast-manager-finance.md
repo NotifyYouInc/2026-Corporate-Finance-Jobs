@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Schaumburg, Illinois, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Schaumburg-1475-E-Woodfield-Rd/Manager--Finance_R434192-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Manager--Finance_R437525) |
 
 ## About This Role
 
-This corporate finance position at Comcast was posted on 2026-04-01.
+This corporate finance position at Comcast was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

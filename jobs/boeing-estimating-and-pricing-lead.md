@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Estimating-and-Pricing-Lead_JR2026514042-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Estimating-and-Pricing-Lead_JR2026514225-2) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-06-08.
+This corporate finance position at Boeing was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

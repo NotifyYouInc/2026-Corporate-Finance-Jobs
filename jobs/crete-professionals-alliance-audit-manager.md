@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crete Professionals Alliance](https://scoutify.ai/companies/crete-professionals-alliance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Somerset, New Jersey, United States |
+| Location | Syracuse, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/crete-professionals-alliance/6fca41fa-139e-4f88-bd0b-d9b66a395719) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/crete-professionals-alliance/e9025e2b-b4a7-4ffb-9c20-c7c2226c3558) |
 
 ## About This Role
 
-This corporate finance position at Crete Professionals Alliance was posted on 2026-04-24.
+This corporate finance position at Crete Professionals Alliance was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

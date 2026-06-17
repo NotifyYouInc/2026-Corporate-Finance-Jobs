@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000130577057-ciudad-de-mexico-billing-agent-customs-brokerage) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000131230799-ciudad-de-mexico-billing-agent-customs-brokerage) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-06-05.
+This corporate finance position at Expeditors International of Washington was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

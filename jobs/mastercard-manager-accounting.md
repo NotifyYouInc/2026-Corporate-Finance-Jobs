@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Purchase, New York, United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Accounting_R-276447) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Manager--Accounting_R-277816) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-04-23.
+This corporate finance position at Mastercard was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

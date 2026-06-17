@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pietermaritzburg, KwaZulu-Natal, South Africa |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Pietermaritzburg/Private-Wealth-Advisor_R26600-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Private-Wealth-Advisor_R50406-1) |
 
 ## About This Role
 
-This corporate finance position at FirstRand was posted on 2026-04-22.
+This corporate finance position at FirstRand was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

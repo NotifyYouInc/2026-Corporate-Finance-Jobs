@@ -1,16 +1,16 @@
-# Portfolio Manager II, Business Banking at Wintrust
+# Portfolio Manager II - Business Banking at Wintrust
 
 | Field | Details |
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Northfield, Minnesota, United States |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Northfield-IL/Portfolio-Manager-II--Business-Banking_26945) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Milwaukee-WI/Portfolio-Manager-II---Business-Banking_261083-1) |
 
 ## About This Role
 
-This corporate finance position at Wintrust was posted on 2026-05-22.
+This corporate finance position at Wintrust was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

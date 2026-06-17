@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Insulet Corporation](https://scoutify.ai/companies/insulet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/GB---United-Kingdom-London---Office/Sr-FP-A-Analyst_REQ-2026-15240) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Guadalajara-Jalisco/Sr-FP-A-Analyst_REQ-2026-16810) |
 
 ## About This Role
 
-This corporate finance position at Insulet Corporation was posted on 2026-03-11.
+This corporate finance position at Insulet Corporation was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

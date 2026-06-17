@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Sr-Analyst-III-Controllership_51556390-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Sr-Analyst-III-Controllership_51581717) |
 
 ## About This Role
 
-This corporate finance position at DXC Technology was posted on 2026-05-21.
+This corporate finance position at DXC Technology was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
