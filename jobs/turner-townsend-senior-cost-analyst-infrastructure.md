@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000128371518-senior-cost-analyst-infrastructure) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000131552789-senior-cost-analyst-infrastructure) |
 
 ## About This Role
 
-This corporate finance position at Turner & Townsend was posted on 2026-05-26.
+This corporate finance position at Turner & Townsend was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

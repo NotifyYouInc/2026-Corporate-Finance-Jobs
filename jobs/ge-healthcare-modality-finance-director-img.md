@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Modality-Finance-Director--IMG_R4036225) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Modality-Finance-Director--IMG_R4042189-1) |
 
 ## About This Role
 
-This corporate finance position at GE HealthCare was posted on 2026-02-11.
+This corporate finance position at GE HealthCare was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pickering, Ontario, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PICKERING-Ontario-Canada/Investment-Advisor_R-0000176260-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Investment-Advisor_R-0000176460) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-09.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Haryana, IN |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/India---Gurgaon-Office/Accounts-Payable-Analyst_JR35887) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/India---Gurgaon-Office/Accounts-Payable-Analyst_JR36350) |
 
 ## About This Role
 
-This corporate finance position at Dyson was posted on 2026-04-09.
+This corporate finance position at Dyson was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

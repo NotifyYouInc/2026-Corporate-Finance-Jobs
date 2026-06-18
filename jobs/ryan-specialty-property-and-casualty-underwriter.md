@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/New-York---New-York---1185-Ave-of-Americas/Property-and-Casualty-Underwriter_JR26-4629-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Remote---District-of-Columbia/Property-and-Casualty-Underwriter_JR26-4777-2) |
 
 ## About This Role
 
-This corporate finance position at Ryan Specialty was posted on 2026-05-08.
+This corporate finance position at Ryan Specialty was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

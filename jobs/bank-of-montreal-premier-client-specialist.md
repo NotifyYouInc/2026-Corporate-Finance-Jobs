@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Castro Valley, California, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Castro-Valley-CA-USA/Premier-Client-Specialist_R260017038) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Scottsdale-AZ-USA/Premier-Client-Specialist_R260017610) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-06-04.
+This corporate finance position at Bank of Montreal was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

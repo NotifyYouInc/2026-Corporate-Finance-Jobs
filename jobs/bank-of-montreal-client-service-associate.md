@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Winnipeg, Manitoba, Canada |
+| Location | London, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Winnipeg-MB-CAN/Client-Service-Associate_R250031909) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/London-ON-CAN/Client-Service-Associate_R260017574) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-05-29.
+This corporate finance position at Bank of Montreal was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

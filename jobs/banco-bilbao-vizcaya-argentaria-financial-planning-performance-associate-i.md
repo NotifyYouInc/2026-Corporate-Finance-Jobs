@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/FINANCIAL-PLANNING---PERFORMANCE-ASSOCIATE-I_JR00103997) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/FINANCIAL-PLANNING---PERFORMANCE-ASSOCIATE-I_JR00106474) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-15.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

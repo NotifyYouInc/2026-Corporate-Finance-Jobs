@@ -5,12 +5,12 @@
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Singapore/Manager--Treasury-Processing-Centre_JR005072) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Singapore/Manager--Treasury-Processing-Centre_JR006410) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-02-19.
+This corporate finance position at RHB was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

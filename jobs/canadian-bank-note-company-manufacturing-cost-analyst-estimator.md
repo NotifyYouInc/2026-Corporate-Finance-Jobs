@@ -5,12 +5,12 @@
 | Company | [Canadian Bank Note Company](https://scoutify.ai/companies/canadianbanknotecompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CanadianBankNoteCompany/744000112775182-manufacturing-cost-analyst-estimator) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CanadianBankNoteCompany/744000131523988-manufacturing-cost-analyst-estimator) |
 
 ## About This Role
 
-This corporate finance position at Canadian Bank Note Company was posted on 2026-03-04.
+This corporate finance position at Canadian Bank Note Company was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS---Brisbane/Financial-Viability-Analyst_J00176216) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS-Sydney-Blue-Street/Financial-Viability-Analyst_J00177209) |
 
 ## About This Role
 
-This corporate finance position at Equifax was posted on 2026-05-15.
+This corporate finance position at Equifax was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

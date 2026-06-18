@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Prince Frederick, Maryland, United States |
+| Location | Gurnee, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/MD---Prince-Frederick/Financial-Advisor---PNC-Wealth-Management_R225588-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/IL---Gurnee/Financial-Advisor---PNC-Wealth-Management_R225985) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-08.
+This corporate finance position at PNC Financial was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

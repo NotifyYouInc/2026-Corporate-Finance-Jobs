@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Catalent](https://scoutify.ai/companies/catalent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | Chelsea, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Malvern-PA/Senior-Accountant_0094418) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Chelsea-MA/Senior-Accountant_0095050) |
 
 ## About This Role
 
-This corporate finance position at Catalent was posted on 2026-04-30.
+This corporate finance position at Catalent was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

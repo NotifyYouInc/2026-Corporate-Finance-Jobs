@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Miami-Florida/Private-Wealth-Associate_R0019063) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Dallas-Texas/Private-Wealth-Associate_R0019081) |
 
 ## About This Role
 
-This corporate finance position at Abglobal was posted on 2026-06-05.
+This corporate finance position at Abglobal was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

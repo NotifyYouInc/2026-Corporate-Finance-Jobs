@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | East Haven, Connecticut, United States |
+| Location | Canton, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/East-Haven-CT/Private-Client-Advisor_R-40262) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Canton-OH/Private-Client-Advisor_R-40304) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-06-09.
+This corporate finance position at KeyBank was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

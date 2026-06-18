@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Morristown, Tennessee, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Morristown-New-Jersey-United-States-of-America/Private-Wealth-Management-Associate_JR031965-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Private-Wealth-Management-Associate_JR038572) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-03-30.
+This corporate finance position at Morgan Stanley was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

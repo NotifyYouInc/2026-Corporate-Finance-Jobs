@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Wausau, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WA-Seattle/Client-Specialist_R2026645-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Wausau/Client-Specialist_R2026665) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-06-02.
+This corporate finance position at Baird was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

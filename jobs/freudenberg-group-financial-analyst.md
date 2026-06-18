@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Manchester, New Hampshire, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Durham-NC/Financial-Analyst_R_00097415) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Manchester-NH/Financial-Analyst_R_00103166) |
 
 ## About This Role
 
-This corporate finance position at Freudenberg Group was posted on 2026-02-26.
+This corporate finance position at Freudenberg Group was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

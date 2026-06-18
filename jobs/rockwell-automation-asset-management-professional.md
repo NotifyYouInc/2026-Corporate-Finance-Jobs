@@ -1,16 +1,16 @@
-# Asset Management Professional at Rockwell Automation
+# ASSET MANAGEMENT PROFESSIONAL at Rockwell Automation
 
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Zapopan, Jalisco, Mexico |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mexico-Zapopan/Asset-Management-Professional_R26-2169-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Poland-Katowice-Francuska-36/ASSET-MANAGEMENT-PROFESSIONAL_R26-4420) |
 
 ## About This Role
 
-This corporate finance position at Rockwell Automation was posted on 2026-05-11.
+This corporate finance position at Rockwell Automation was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

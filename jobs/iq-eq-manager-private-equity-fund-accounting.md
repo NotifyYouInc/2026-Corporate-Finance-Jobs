@@ -1,16 +1,16 @@
-# Manager - Private Equity Fund Accounting  at IQ-EQ
+# Manager - Private Equity Fund Accounting at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Garden City, Kansas, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000130567510-manager-private-equity-fund-accounting) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000131531299-manager-private-equity-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-06-05.
+This corporate finance position at IQ-EQ was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

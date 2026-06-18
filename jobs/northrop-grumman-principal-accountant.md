@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Falls Church, Virginia, United States |
+| Location | Saint Rose, Louisiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/Principal-Accountant_R10230793) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Louisiana-Saint-Rose/Principal-Accountant_R10235915) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-04-23.
+This corporate finance position at Northrop Grumman was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

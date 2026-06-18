@@ -5,12 +5,12 @@
 | Company | [Genmab](https://scoutify.ai/companies/genmab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Princeton, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton-NJ/Senior-Manager--Strategic-Finance---Corporate-Valuation_R16733) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton-NJ/Senior-Manager--Strategic-Finance---Corporate-Valuation_R16972) |
 
 ## About This Role
 
-This corporate finance position at Genmab was posted on 2026-06-05.
+This corporate finance position at Genmab was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

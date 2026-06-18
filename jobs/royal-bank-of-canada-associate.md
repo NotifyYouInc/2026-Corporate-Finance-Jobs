@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guelph, Ontario, Canada |
+| Location | Saskatoon, Saskatchewan, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GUELPH-Ontario-Canada/Associate_R-0000175519-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/SASKATOON-Saskatchewan-Canada/Associate_R-0000176267-2) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-09.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

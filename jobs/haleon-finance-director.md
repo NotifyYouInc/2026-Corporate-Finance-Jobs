@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/JAKARTA-PONDOK-OFFICE-TOWER/Finance-Director_543260) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Taiwan---Taipei/Finance-Director_544625) |
 
 ## About This Role
 
-This corporate finance position at Haleon was posted on 2026-05-09.
+This corporate finance position at Haleon was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

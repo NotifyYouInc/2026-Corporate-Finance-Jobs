@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Albuquerque, New Mexico, United States |
+| Location | San Mateo, Calabarzon, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Albuquerque-New-Mexico-United-States-of-America/Registered-Client-Service-Associate_JR037302) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/San-Mateo-California-United-States-of-America/Registered-Client-Service-Associate_JR038162-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-05-22.
+This corporate finance position at Morgan Stanley was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

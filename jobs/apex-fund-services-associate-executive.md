@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | France |
+| Location | Mauritius |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Associate-Executive_JR-0012585) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Associate-Executive_JR-0023467) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-02-20.
+This corporate finance position at Apex Fund Services was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Eden Prairie, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Senior-Financial-Analyst_R48037) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Senior-Financial-Analyst_R48363) |
 
 ## About This Role
 
-This corporate finance position at C.H. Robinson was posted on 2026-05-01.
+This corporate finance position at C.H. Robinson was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Lima, Lima Province, Peru |
 | Category | Corporate Finance |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/WHOLESALE-RISK-ASSOCIATE-I_JR00106364) |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/WHOLESALE-RISK-ASSOCIATE-I_JR00106447) |
 
 ## About This Role
 

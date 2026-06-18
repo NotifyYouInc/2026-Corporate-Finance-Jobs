@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Taipei/Assistant-Director-of-Finance_REQ10340849) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Tamarindo/Assistant-Director-of-Finance_REQ10382569) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-05-08.
+This corporate finance position at Four Seasons Hotels was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/CW021---Registered-Private-Wealth-Client-Associate_26018933-2) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Houston/Registered-Private-Wealth-Client-Associate_26020273) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-01.
+This corporate finance position at Bank of America was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

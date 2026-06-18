@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Des Moines, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DES-MOINES-IA/Commercial-Collections-Representative_R-541397) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DES-MOINES-IA/Commercial-Collections-Representative_R-550950) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-08.
+This corporate finance position at Wells Fargo was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

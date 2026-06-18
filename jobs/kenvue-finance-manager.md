@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São José dos Campos, São Paulo, Brazil |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Brazil-Sao-Paulo-Sao-Jose-dos-Campos/Finance-Manager_2607046008W) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Mexico-Distrito-Federal-Mexico-City/Finance-Manager_2607046803W) |
 
 ## About This Role
 
-This corporate finance position at Kenvue was posted on 2026-05-08.
+This corporate finance position at Kenvue was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

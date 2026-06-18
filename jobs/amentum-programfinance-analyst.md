@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Aberdeen, South Dakota, United States |
+| Location | Aberdeen Proving Ground, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Aberdeen-Proving-Ground/Program-Finance-Analyst_R0155769) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Aberdeen-Proving-Ground/Program-Finance-Analyst_R0163119) |
 
 ## About This Role
 
-This corporate finance position at Amentum was posted on 2026-03-06.
+This corporate finance position at Amentum was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

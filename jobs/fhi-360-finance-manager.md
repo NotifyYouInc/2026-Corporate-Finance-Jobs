@@ -1,16 +1,16 @@
-# Finance Manager at Fhi 360
+# FINANCE MANAGER at Fhi 360
 
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nairobi, Nairobi County, Kenya |
+| Location | Maputo, Maputo City, Mozambique |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Nairobi-Kenya/Finance-Manager_Requisition-2026200575) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Maputo-Mozambique/FINANCE-MANAGER_Requisition-2026200895) |
 
 ## About This Role
 
-This corporate finance position at Fhi 360 was posted on 2026-04-06.
+This corporate finance position at Fhi 360 was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

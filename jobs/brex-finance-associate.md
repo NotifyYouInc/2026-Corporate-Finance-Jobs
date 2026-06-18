@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brex](https://scoutify.ai/companies/brex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.brex.com/careers/8525702002?gh_jid=8525702002) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.brex.com/careers/8565563002?gh_jid=8565563002) |
 
 ## About This Role
 
-This corporate finance position at Brex was posted on 2026-04-27.
+This corporate finance position at Brex was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

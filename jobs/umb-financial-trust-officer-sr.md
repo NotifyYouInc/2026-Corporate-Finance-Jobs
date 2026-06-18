@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rockford, Illinois, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Rockford-IL/Trust-Officer-Sr_R-8483) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Dubuque-IA/Trust-Officer-Sr_R-8819) |
 
 ## About This Role
 
-This corporate finance position at UMB Financial was posted on 2026-04-01.
+This corporate finance position at UMB Financial was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

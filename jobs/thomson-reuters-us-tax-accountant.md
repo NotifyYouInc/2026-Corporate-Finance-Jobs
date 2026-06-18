@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/US-Tax-Accountant_JREQ201120-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/US-Tax-Accountant_JREQ201131) |
 
 ## About This Role
 
-This corporate finance position at Thomson Reuters was posted on 2026-06-09.
+This corporate finance position at Thomson Reuters was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

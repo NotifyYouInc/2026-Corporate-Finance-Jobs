@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tres Ríos, Cartago Province, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Costa-Rica---Cartago---Tres-Rios/Intern--Order-to-Cash--Costa-Rica--2026_440782) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Costa-Rica---Cartago---Tres-Rios/Intern--Order-to-Cash--Costa-Rica--2026_440764) |
 
 ## About This Role
 
-This corporate finance position at GSK was posted on 2026-05-07.
+This corporate finance position at GSK was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

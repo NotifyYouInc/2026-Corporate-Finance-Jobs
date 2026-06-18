@@ -5,12 +5,12 @@
 | Company | [Lilly](https://scoutify.ai/companies/lilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | China |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/cmp/job/China-Shang-Hai-/Finance-Intern-T-E_R-106958) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/cmp/job/China-Shang-Hai-/Finance-Intern-T-E_R-107191) |
 
 ## About This Role
 
-This corporate finance position at Lilly was posted on 2026-06-09.
+This corporate finance position at Lilly was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
