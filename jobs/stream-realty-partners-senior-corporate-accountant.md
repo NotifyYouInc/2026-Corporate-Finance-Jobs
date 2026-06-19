@@ -5,12 +5,12 @@
 | Company | [Stream Realty Partners](https://scoutify.ai/companies/streamrealtypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StreamRealty/744000129549424-senior-corporate-accountant) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StreamRealty/744000131741370-senior-corporate-accountant) |
 
 ## About This Role
 
-This corporate finance position at Stream Realty Partners was posted on 2026-06-01.
+This corporate finance position at Stream Realty Partners was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

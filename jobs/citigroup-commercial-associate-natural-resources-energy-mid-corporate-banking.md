@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Commercial-Associate--Natural-Resources--Energy--Mid-Corporate-Banking_26960986) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Commercial-Associate--Natural-Resources--Energy--Mid-Corporate-Banking_26962812) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-15.
+This corporate finance position at Citigroup was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

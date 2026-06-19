@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Tax-Analyst_R-524089-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MINNEAPOLIS-MN/Tax-Analyst_R-539505-1) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-10.
+This corporate finance position at Wells Fargo was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

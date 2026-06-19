@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Director--Asset-Services_R318496) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Washington-District-of-Columbia-USA/Director--Asset-Services_R323077) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-05-04.
+This corporate finance position at Cushman & Wakefield was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

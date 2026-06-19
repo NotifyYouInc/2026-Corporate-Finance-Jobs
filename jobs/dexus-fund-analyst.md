@@ -5,12 +5,12 @@
 | Company | [Dexus](https://scoutify.ai/companies/dexus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://dexus.wd3.myworkdayjobs.com/dexuscareers/job/Sydney-QQT/Fund-Analyst_R0005936) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://dexus.wd3.myworkdayjobs.com/dexuscareers/job/Sydney-QQT/Fund-Analyst_R0005935) |
 
 ## About This Role
 
-This corporate finance position at Dexus was posted on 2026-06-11.
+This corporate finance position at Dexus was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

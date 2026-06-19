@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GCM Grosvenor](https://scoutify.ai/companies/gcmgrosvenor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7684273003) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7685550003) |
 
 ## About This Role
 
-This corporate finance position at GCM Grosvenor was posted on 2026-03-30.
+This corporate finance position at GCM Grosvenor was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

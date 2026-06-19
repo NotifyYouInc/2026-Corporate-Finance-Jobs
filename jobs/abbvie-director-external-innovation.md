@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012384706-director-external-innovation) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013588296-director-external-innovation) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-30.
+This corporate finance position at AbbVie was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

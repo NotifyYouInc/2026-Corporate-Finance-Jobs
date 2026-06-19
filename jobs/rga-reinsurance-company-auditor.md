@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chesterfield, Missouri, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Auditor_J27418) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Hong-Kong-Hong-Kong/Auditor_J27889) |
 
 ## About This Role
 
-This corporate finance position at RGA Reinsurance Company was posted on 2026-05-13.
+This corporate finance position at RGA Reinsurance Company was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

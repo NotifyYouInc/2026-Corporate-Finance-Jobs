@@ -5,12 +5,12 @@
 | Company | [Heidelberg Materials](https://scoutify.ai/companies/heidelbergmaterials?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Accountant_JR10014255) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Accountant_JR10016171-1) |
 
 ## About This Role
 
-This corporate finance position at Heidelberg Materials was posted on 2026-03-30.
+This corporate finance position at Heidelberg Materials was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

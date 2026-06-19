@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurnee, Illinois, United States |
+| Location | Goodyear, Arizona, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/IL---Gurnee/Financial-Advisor---PNC-Wealth-Management_R225985) |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/AZ---Goodyear-85395/Financial-Advisor---PNC-Wealth-Management_R225969-1) |
 
 ## About This Role
 

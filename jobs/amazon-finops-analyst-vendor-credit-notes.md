@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429741/finops-analyst-vendor-credit-notes) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432815/finops-analyst-vendor-credit-notes) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-26.
+This corporate finance position at Amazon was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

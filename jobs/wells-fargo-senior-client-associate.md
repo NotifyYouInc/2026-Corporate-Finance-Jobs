@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | Beverly Hills, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BUFFALO-NY/Senior-Client-Associate_R-550890) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BEVERLY-HILLS-CA/Senior-Client-Associate_R-552527) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-04.
+This corporate finance position at Wells Fargo was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

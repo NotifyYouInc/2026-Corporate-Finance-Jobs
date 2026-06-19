@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Brisbane-Queensland/Assistant-Manager--Business-Services_JR103101-2) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Parramatta-New-South-Wales/Assistant-Manager--Business-Services_JR103306) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-04-30.
+This corporate finance position at Bdo was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

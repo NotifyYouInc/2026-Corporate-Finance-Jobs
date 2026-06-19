@@ -5,12 +5,12 @@
 | Company | [Datasite](https://scoutify.ai/companies/datasite?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---MN---Minneapolis/Sr-Corporate-Accountant_R36165) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---MN---Minneapolis/Sr-Corporate-Accountant_R36180) |
 
 ## About This Role
 
-This corporate finance position at Datasite was posted on 2026-05-19.
+This corporate finance position at Datasite was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000127945179-invoice-processing-senior-analyst-gbs-fssc) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000131795873-invoice-processing-senior-analyst-gbs-fssc) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-05-22.
+This corporate finance position at SGS was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

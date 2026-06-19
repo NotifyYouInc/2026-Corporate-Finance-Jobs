@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Scottsdale, Arizona, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Scottsdale/Staff-Accountant_REQ10381310) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Office-Toronto/Staff-Accountant_REQ10382764-1) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-05-30.
+This corporate finance position at Four Seasons Hotels was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

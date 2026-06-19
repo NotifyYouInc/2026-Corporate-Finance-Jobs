@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000110395395-responsable-comptable-fournisseurs-hf) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000131824865-responsable-comptable-fournisseurs-hf) |
 
 ## About This Role
 
-This corporate finance position at Talan was posted on 2026-02-20.
+This corporate finance position at Talan was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miamisburg, Ohio, United States |
+| Location | Fort Wright, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Miamisburg/Client-Assistant_R2026599-2) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Fort-Wright/Client-Assistant_R2026673-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-05-15.
+This corporate finance position at Baird was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

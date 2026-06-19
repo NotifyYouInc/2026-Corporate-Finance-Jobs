@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carta](https://scoutify.ai/companies/carta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7728557003) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7770789003) |
 
 ## About This Role
 
-This corporate finance position at Carta was posted on 2026-05-08.
+This corporate finance position at Carta was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

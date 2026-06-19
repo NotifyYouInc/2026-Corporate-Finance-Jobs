@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eisneramper](https://scoutify.ai/companies/eisneramper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | La Jolla, California, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/La-Jolla/XMLNAME-2027-Tax-Staff-I---Private-Client-Services--PCS-_Req-8846) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/Raleigh/XMLNAME-2027-Tax-Staff-I---Private-Client-Services--PCS-_Req-9039) |
 
 ## About This Role
 
-This corporate finance position at Eisneramper was posted on 2026-04-20.
+This corporate finance position at Eisneramper was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

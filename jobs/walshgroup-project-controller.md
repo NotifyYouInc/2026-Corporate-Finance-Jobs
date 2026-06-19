@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WalshGroup](https://scoutify.ai/companies/walshgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/TX_Dallas_225065/Project-Controller_JR14412) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/FL_Miami_218069/Project-Controller_JR15227-1) |
 
 ## About This Role
 
-This corporate finance position at WalshGroup was posted on 2026-04-15.
+This corporate finance position at WalshGroup was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

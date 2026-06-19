@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Grandview Heights, Ohio, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Financial-Services-Analyst_098232-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Financial-Services-Analyst_098602) |
 
 ## About This Role
 
-This corporate finance position at Nationwide was posted on 2026-05-20.
+This corporate finance position at Nationwide was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

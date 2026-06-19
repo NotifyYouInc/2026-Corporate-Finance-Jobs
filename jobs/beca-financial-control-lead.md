@@ -5,12 +5,12 @@
 | Company | [Beca](https://scoutify.ai/companies/beca?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Auckland-New-Zealand/Financial-Control-Lead_JR101602) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Auckland-New-Zealand/Financial-Control-Lead_JR101814) |
 
 ## About This Role
 
-This corporate finance position at Beca was posted on 2026-05-18.
+This corporate finance position at Beca was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

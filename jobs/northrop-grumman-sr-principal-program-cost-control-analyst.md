@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Diego, California, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Sr-Principal-Program-Cost-Control-Analyst_R10232107) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Sr-Principal-Program-Cost-Control-Analyst_R10235119-1) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-05-06.
+This corporate finance position at Northrop Grumman was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

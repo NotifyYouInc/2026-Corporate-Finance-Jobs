@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000109161230-ppp-expert-financial-analyst) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000131824000-ppp-expert-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Assystem was posted on 2026-02-13.
+This corporate finance position at Assystem was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

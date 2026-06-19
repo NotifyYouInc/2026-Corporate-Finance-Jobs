@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Sydney-New-South-Wales/Senior-Accountant_JR103008) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Melbourne-Victoria/Senior-Accountant_JR103277-1) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-04-14.
+This corporate finance position at Bdo was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Kuala-Lumpur/Finance-Executive_JR2505655) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Kuala-Lumpur/Finance-Executive_JR2502265) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-06-10.
+This corporate finance position at AIG was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

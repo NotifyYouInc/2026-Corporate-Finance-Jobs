@@ -1,16 +1,16 @@
-# Investor Relations-  Assistant Vice President  at iCapital Network
+# Investor Relations - Assistant Vice President at iCapital Network
 
 | Field | Details |
 |-------|---------|
 | Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8482690002) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8574831002) |
 
 ## About This Role
 
-This corporate finance position at iCapital Network was posted on 2026-04-07.
+This corporate finance position at iCapital Network was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

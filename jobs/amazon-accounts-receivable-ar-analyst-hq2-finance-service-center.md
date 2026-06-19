@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10392291/accounts-receivable-ar-analyst-hq2-finance-service-center) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406064/accounts-receivable-ar-analyst-hq2-finance-service-center) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-04-15.
+This corporate finance position at Amazon was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

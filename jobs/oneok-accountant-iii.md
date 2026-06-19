@@ -5,12 +5,12 @@
 | Company | [Oneok](https://scoutify.ai/companies/oneok?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://oneok.wd1.myworkdayjobs.com/oneok/job/Dallas-TX/Accountant-III_R7985-2) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://oneok.wd1.myworkdayjobs.com/oneok/job/Dallas-TX/Accountant-III_R7634-1) |
 
 ## About This Role
 
-This corporate finance position at Oneok was posted on 2026-05-21.
+This corporate finance position at Oneok was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

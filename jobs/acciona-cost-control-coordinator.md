@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, CA |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Ontario/Cost-Control-Coordinator_20091100-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Ontario/Cost-Control-Coordinator_20097913) |
 
 ## About This Role
 
-This corporate finance position at Acciona was posted on 2026-04-01.
+This corporate finance position at Acciona was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

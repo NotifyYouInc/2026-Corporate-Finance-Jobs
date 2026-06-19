@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Richmond-Virginia-United-States-of-America/Senior-Property-Accountant_JR17348) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Montreal-Quebec-Canada/Senior-Property-Accountant_JR17993) |
 
 ## About This Role
 
-This corporate finance position at Colliers was posted on 2026-03-03.
+This corporate finance position at Colliers was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

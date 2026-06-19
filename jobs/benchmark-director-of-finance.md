@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newton, Massachusetts, United States |
+| Location | Riverside, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Boston-Marriott-Newton/Director-of-Finance_R0058934) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Mission-Inn-Hotel--Spa/Director-of-Finance_R0063620-1) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-05-29.
+This corporate finance position at Benchmark was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

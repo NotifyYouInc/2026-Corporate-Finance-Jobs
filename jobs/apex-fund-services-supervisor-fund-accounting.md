@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Supervisor---Fund-Accounting_JR-0013804) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore-Fortune-Summit/Supervisor---Fund-Accounting_JR-0020127) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-05-18.
+This corporate finance position at Apex Fund Services was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

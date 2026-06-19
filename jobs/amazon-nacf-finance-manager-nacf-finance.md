@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444052/nacf-finance-manager-nacf-finance) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447420/nacf-finance-manager-nacf-finance) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-09.
+This corporate finance position at Amazon was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

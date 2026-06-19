@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stonebridge Companies](https://scoutify.ai/companies/sbcos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Doubletree---DIA/Accounting-Manager_R0030790) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Renaissance-Hotel---NYC/Accounting-Manager_R0031618) |
 
 ## About This Role
 
-This corporate finance position at Stonebridge Companies was posted on 2026-04-30.
+This corporate finance position at Stonebridge Companies was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

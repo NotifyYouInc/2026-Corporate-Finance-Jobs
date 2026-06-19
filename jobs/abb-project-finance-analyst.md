@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Luis Potosí, San Luis Potosí, Mexico |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Project-Finance-Analyst_JR00026301) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ciudad-de-Mexico-Ciudad-de-Mexico-Mexico/Project-Finance-Analyst_JR00037343) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-02-27.
+This corporate finance position at ABB was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

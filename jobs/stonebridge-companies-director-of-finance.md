@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stonebridge Companies](https://scoutify.ai/companies/sbcos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Montgomery, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Residence-Inn---Seattle/Director-of-Finance_R0031381) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Margaritaville-Lake-Conroe---Montgomery/Director-of-Finance_R0031606) |
 
 ## About This Role
 
-This corporate finance position at Stonebridge Companies was posted on 2026-06-01.
+This corporate finance position at Stonebridge Companies was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

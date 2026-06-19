@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Morristown, Tennessee, United States |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Morristown-New-Jersey-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR033562-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Denver-Colorado-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR038585-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-05-20.
+This corporate finance position at Morgan Stanley was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
