@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jaipur, Rajasthan, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Order-to-Cash-Operations-Associate_AIOC-S01649419-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Order-to-Cash-Operations-Associate_AIOC-S01650220-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-06-05.
+This corporate finance position at Accenture was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

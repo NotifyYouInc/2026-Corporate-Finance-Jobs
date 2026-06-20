@@ -5,12 +5,12 @@
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Waukesha, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Cost-Accountant_JR14029) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Cost-Accountant_JR14916) |
 
 ## About This Role
 
-This corporate finance position at Generac was posted on 2026-05-11.
+This corporate finance position at Generac was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

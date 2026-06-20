@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Batesville, Arkansas, United States |
+| Location | Aibonito, Aibonito, Puerto Rico |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Batesville-Indiana/Plant-Controller_JR-200601-2) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Aibonito-Puerto-Rico/Plant-Controller_JR-203227-2) |
 
 ## About This Role
 
-This corporate finance position at Baxter International was posted on 2026-05-08.
+This corporate finance position at Baxter International was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

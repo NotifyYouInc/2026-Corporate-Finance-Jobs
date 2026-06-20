@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000130698079-billing-analyst-gbs) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000131997360-billing-analyst-gbs) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-06-08.
+This corporate finance position at SGS was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

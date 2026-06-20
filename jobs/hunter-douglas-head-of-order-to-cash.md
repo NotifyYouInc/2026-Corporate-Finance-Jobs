@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hunter Douglas](https://scoutify.ai/companies/hunter-douglas?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Broomfield, Colorado, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7766200003?gh_jid=7766200003) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7771823003?gh_jid=7771823003) |
 
 ## About This Role
 
-This corporate finance position at Hunter Douglas was posted on 2026-06-10.
+This corporate finance position at Hunter Douglas was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

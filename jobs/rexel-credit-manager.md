@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Beaverton, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000116498750-credit-manager) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000131957699-credit-manager) |
 
 ## About This Role
 
-This corporate finance position at REXEL was posted on 2026-03-24.
+This corporate finance position at REXEL was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

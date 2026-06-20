@@ -5,12 +5,12 @@
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Burlington, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Burlington---338-S-Main-Street/Credit---Collections-Specialist-I---Remote_2617273) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Burlington---338-S-Main-Street/Credit---Collections-Specialist-I---Remote_2617281) |
 
 ## About This Role
 
-This corporate finance position at Labcorp was posted on 2026-05-29.
+This corporate finance position at Labcorp was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000131772159-junior-cash-application) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000131997419-junior-cash-application) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edmonton, Alberta, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Edmonton---103-St/Senior-Manager--Assurance_JR6162) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Senior-Manager--Assurance_JR6443) |
 
 ## About This Role
 
-This corporate finance position at BDO Dunwoody was posted on 2026-04-16.
+This corporate finance position at BDO Dunwoody was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Analyst---Corporate-Accounting_10327252) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Analyst---Corporate-Accounting_10329347) |
 
 ## About This Role
 
-This corporate finance position at Toyota was posted on 2026-05-09.
+This corporate finance position at Toyota was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

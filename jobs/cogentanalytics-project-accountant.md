@@ -5,12 +5,12 @@
 | Company | [Cogentanalytics](https://scoutify.ai/companies/cogentanalytics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Anderson, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.lever.co/cogentanalytics/c72419f3-6a4f-4fb1-a157-0af8daa9d62c) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.lever.co/cogentanalytics/1afc695a-8d28-4934-a531-98d8f85656c0) |
 
 ## About This Role
 
-This corporate finance position at Cogentanalytics was posted on 2026-05-14.
+This corporate finance position at Cogentanalytics was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

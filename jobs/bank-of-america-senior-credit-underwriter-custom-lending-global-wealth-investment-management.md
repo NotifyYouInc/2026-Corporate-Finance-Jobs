@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Senior-Credit-Underwriter---Custom-Lending---Global-Wealth---Investment-Management_26004712) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Saint-Louis/Senior-Credit-Underwriter---Custom-Lending---Global-Wealth---Investment-Management_26004354-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-02-17.
+This corporate finance position at Bank of America was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

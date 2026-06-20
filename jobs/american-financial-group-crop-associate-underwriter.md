@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Financial Group](https://scoutify.ai/companies/gaig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lawrence, Kansas, United States |
+| Location | Fresno, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Lawrence-KS-USA/Crop-Associate-Underwriter_R8632) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Fresno-CA-USA/Crop-Associate-Underwriter_R9110) |
 
 ## About This Role
 
-This corporate finance position at American Financial Group was posted on 2026-03-03.
+This corporate finance position at American Financial Group was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

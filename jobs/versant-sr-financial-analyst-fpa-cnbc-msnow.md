@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131222219-sr-financial-analyst-fpa-cnbc-msnow) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131965924-sr-financial-analyst-fpa-cnbc-msnow) |
 
 ## About This Role
 
-This corporate finance position at Versant was posted on 2026-06-09.
+This corporate finance position at Versant was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

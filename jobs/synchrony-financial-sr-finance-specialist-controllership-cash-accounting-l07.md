@@ -5,12 +5,12 @@
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Sr-Finance-Specialist-Controllership---Cash-Accounting--L07-_2600652-4) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Sr-Finance-Specialist-Controllership---Cash-Accounting--L07-_2601744-1) |
 
 ## About This Role
 
-This corporate finance position at Synchrony Financial was posted on 2026-03-17.
+This corporate finance position at Synchrony Financial was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/388-GREENWICH-STREET---TOWER/Investment-Banking-Vice-President---Technology_26942427) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Investment-Banking-Vice-President---Technology_26971256) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-30.
+This corporate finance position at Citigroup was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

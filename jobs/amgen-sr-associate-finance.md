@@ -1,16 +1,16 @@
-# Sr. Associate Finance at Amgen
+# Sr Associate Finance at Amgen
 
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | New Albany, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Finance_R-230001) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Ohio---New-Albany/Sr-Associate-Finance_R-247024) |
 
 ## About This Role
 
-This corporate finance position at Amgen was posted on 2026-04-14.
+This corporate finance position at Amgen was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

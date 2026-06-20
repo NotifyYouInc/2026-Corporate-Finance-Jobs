@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | North Carolina, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-MO-Remote/Project-Financial-Analyst-II_25100665) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-NC-Remote/Project-Financial-Analyst-II_25107757) |
 
 ## About This Role
 
-This corporate finance position at Syneoshealth was posted on 2026-04-07.
+This corporate finance position at Syneoshealth was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

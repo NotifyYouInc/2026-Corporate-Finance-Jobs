@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Bellevue, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PITTSBURGH-PA/Brokerage-Support-Associate-Manager_R-540302-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BELLEVUE-WA/Brokerage-Support-Associate-Manager_R-519351-1) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-23.
+This corporate finance position at Wells Fargo was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

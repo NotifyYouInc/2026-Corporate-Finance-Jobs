@@ -5,12 +5,12 @@
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Diego, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Credit-Analyst_JR4843) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Credit-Analyst_JR4657) |
 
 ## About This Role
 
-This corporate finance position at Axos Bank was posted on 2026-06-08.
+This corporate finance position at Axos Bank was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

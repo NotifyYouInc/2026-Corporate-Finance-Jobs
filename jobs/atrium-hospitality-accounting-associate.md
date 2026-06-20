@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Atrium Hospitality](https://scoutify.ai/companies/atrium-hospitality?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mesquite, Texas, United States |
+| Location | Saint Charles, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Mesquite-TX/Accounting-Associate_R48694) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Saint-Charles-MO/Accounting-Associate_R48750) |
 
 ## About This Role
 
-This corporate finance position at Atrium Hospitality was posted on 2026-06-08.
+This corporate finance position at Atrium Hospitality was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

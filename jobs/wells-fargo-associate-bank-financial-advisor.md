@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/RALEIGH-NC/Associate-Bank-Financial-Advisor_R-548472) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WASHINGTON-DC/Associate-Bank-Financial-Advisor_R-551738) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-28.
+This corporate finance position at Wells Fargo was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

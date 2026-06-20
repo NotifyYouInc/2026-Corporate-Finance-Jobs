@@ -5,12 +5,12 @@
 | Company | [Apollo Global](https://scoutify.ai/companies/athene?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/El-Segundo-California/Associate--IG-Credit-Research_R253978) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/El-Segundo-California/Associate--IG-Credit-Research_R260144) |
 
 ## About This Role
 
-This corporate finance position at Apollo Global was posted on 2026-04-22.
+This corporate finance position at Apollo Global was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

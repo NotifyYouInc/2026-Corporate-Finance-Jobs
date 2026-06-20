@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000126558610-vp-operations-financial-strategy-initiatives) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131959315-vp-operations-financial-strategy-initiatives) |
 
 ## About This Role
 
-This corporate finance position at Versant was posted on 2026-05-14.
+This corporate finance position at Versant was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/AAO-Milwaukee---750-W-Virginia-St/Reimbursement-Analyst_R223912) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/AAO-Oak-Brook---2025-Windsor-Dr/Reimbursement-Analyst_R246021) |
 
 ## About This Role
 
-This corporate finance position at Advocate Health was posted on 2026-03-24.
+This corporate finance position at Advocate Health was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

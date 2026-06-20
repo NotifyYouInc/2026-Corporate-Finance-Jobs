@@ -5,12 +5,12 @@
 | Company | [QTS](https://scoutify.ai/companies/qtsdatacenters?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Vice-President--Investments_R2026-1097) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Vice-President--Investments_R2026-1283-1) |
 
 ## About This Role
 
-This corporate finance position at QTS was posted on 2026-05-22.
+This corporate finance position at QTS was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

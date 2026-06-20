@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EMC Insurance](https://scoutify.ai/companies/emcins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kansas, US |
+| Location | Mississippi, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Kansas/Commercial-Underwriter-I_R6332) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Mississippi---Work-From-Home/Commercial-Underwriter-I_R6429) |
 
 ## About This Role
 
-This corporate finance position at EMC Insurance was posted on 2026-03-31.
+This corporate finance position at EMC Insurance was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

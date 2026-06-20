@@ -5,12 +5,12 @@
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Simi Valley, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Accounts-Payable-Clerk-III_7309) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Accounts-Payable-Clerk-III_7943) |
 
 ## About This Role
 
-This corporate finance position at AeroVironment was posted on 2026-03-23.
+This corporate finance position at AeroVironment was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

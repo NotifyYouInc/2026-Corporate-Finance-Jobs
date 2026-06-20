@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Darien, Illinois, United States |
+| Location | McKinney, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Darien/Wealth-Management-Client-Associate_26020050-2) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/McKinney/Wealth-Management-Client-Associate_26020547) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-09.
+This corporate finance position at Bank of America was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

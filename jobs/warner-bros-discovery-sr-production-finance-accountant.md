@@ -1,16 +1,16 @@
-# Sr. Production Finance Accountant at Warner Bros Discovery
+# Sr Production Finance Accountant at Warner Bros Discovery
 
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Sr-Production-Finance-Accountant_R000105527-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/Sr-Production-Finance-Accountant_R000106234) |
 
 ## About This Role
 
-This corporate finance position at Warner Bros Discovery was posted on 2026-05-15.
+This corporate finance position at Warner Bros Discovery was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

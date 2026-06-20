@@ -5,12 +5,12 @@
 | Company | [Privia Health](https://scoutify.ai/companies/privia-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/priviahealth/744000129856300-ar-manager-ortho-athena) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/priviahealth/744000131937571-ar-manager-ortho-athena) |
 
 ## About This Role
 
-This corporate finance position at Privia Health was posted on 2026-06-02.
+This corporate finance position at Privia Health was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

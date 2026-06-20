@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Lauderdale/Credit-Officer-II_26019493-2) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Boston/Credit-Officer-II_26020578) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-04.
+This corporate finance position at Bank of America was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Maine](https://scoutify.ai/companies/maine?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Winthrop, Massachusetts, United States |
+| Location | Augusta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Winthrop-Maine/Senior-Staff-Accountant_R26-01217) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Senior-Staff-Accountant_R26-02427) |
 
 ## About This Role
 
-This corporate finance position at Maine was posted on 2026-05-15.
+This corporate finance position at Maine was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

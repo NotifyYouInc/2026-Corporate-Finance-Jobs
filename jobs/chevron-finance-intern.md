@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maracaibo, Zulia, Venezuela |
+| Location | Caracas, Distrito Federal, Venezuela |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Maracaibo-Zulia-Venezuela/Finance-Intern_R000069053) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Caracas-Dependencias-Federales-Venezuela/Finance-Intern_R000071601) |
 
 ## About This Role
 
-This corporate finance position at Chevron was posted on 2026-02-23.
+This corporate finance position at Chevron was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 
