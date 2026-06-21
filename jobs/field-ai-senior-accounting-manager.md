@@ -5,12 +5,12 @@
 | Company | [Field AI](https://scoutify.ai/companies/field-ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.lever.co/field-ai/efb2b349-f2a6-4b81-ae67-4320e78ae065) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://jobs.lever.co/field-ai/1bd398fc-8ed2-4837-a681-680dc470da2b) |
 
 ## About This Role
 
-This corporate finance position at Field AI was posted on 2026-05-20.
+This corporate finance position at Field AI was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

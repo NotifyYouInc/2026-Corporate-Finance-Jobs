@@ -1,16 +1,16 @@
-# Accounting Clerk at Stonebridge Companies
+# Accounts Receivable Specialist I at ZoomInfo Technologies LLC
 
 | Field | Details |
 |-------|---------|
-| Company | [Stonebridge Companies](https://scoutify.ai/companies/sbcos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bozeman, Montana, United States |
+| Company | [ZoomInfo Technologies LLC](https://scoutify.ai/companies/zoominfo-technologies-llc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Best-Western-Plus-Bozeman/Accounting-Clerk_R0031658) |
+| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8577355002) |
 
 ## About This Role
 
-This corporate finance position at Stonebridge Companies was posted on 2026-06-13.
+This corporate finance position at ZoomInfo Technologies LLC was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

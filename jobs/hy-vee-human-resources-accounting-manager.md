@@ -1,16 +1,16 @@
-# Accounting Clerk at Stonebridge Companies
+# Human Resources, Accounting Manager at Hy-Vee
 
 | Field | Details |
 |-------|---------|
-| Company | [Stonebridge Companies](https://scoutify.ai/companies/sbcos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bozeman, Montana, United States |
+| Company | [Hy-Vee](https://scoutify.ai/companies/hy-vee?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Iowa, US |
 | Category | Corporate Finance |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Best-Western-Plus-Bozeman/Accounting-Clerk_R0031658) |
+| Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Mt-Ayr-N-Fillmore-St-Mt-Ayr-IA/Human-Resources--Accounting-Manager_R236747) |
 
 ## About This Role
 
-This corporate finance position at Stonebridge Companies was posted on 2026-06-13.
+This corporate finance position at Hy-Vee was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

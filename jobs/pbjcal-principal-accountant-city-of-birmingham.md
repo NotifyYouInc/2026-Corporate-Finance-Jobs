@@ -1,16 +1,16 @@
-# Financial Analyst 2 at Adobe
+# Principal Accountant - City of Birmingham at Pbjcal
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Pbjcal](https://scoutify.ai/companies/pbjcal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Birmingham, Alabama, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-14 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Financial-Analyst-2_R169695-1) |
+| Apply | [View on company site](https://pbjcal.wd503.myworkdayjobs.com/jobsquest/job/Merit-System/Principal-Accountant---City-of-Birmingham_R0015481) |
 
 ## About This Role
 
-This corporate finance position at Adobe was posted on 2026-06-14.
+This corporate finance position at Pbjcal was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

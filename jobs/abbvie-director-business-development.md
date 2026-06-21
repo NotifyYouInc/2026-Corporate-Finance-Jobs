@@ -1,16 +1,16 @@
-# Accounting Clerk at Stonebridge Companies
+# Director, Business Development at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [Stonebridge Companies](https://scoutify.ai/companies/sbcos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bozeman, Montana, United States |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Best-Western-Plus-Bozeman/Accounting-Clerk_R0031658) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013612716-director-business-development) |
 
 ## About This Role
 
-This corporate finance position at Stonebridge Companies was posted on 2026-06-13.
+This corporate finance position at AbbVie was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

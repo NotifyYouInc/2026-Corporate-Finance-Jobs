@@ -5,12 +5,12 @@
 | Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000131765189-treasury-analyst) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000132033129-treasury-analyst) |
 
 ## About This Role
 
-This corporate finance position at Sonic Automotive was posted on 2026-06-11.
+This corporate finance position at Sonic Automotive was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 
