@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Singapore/Actuarial-Manager_730055WD-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Singapore/Actuarial-Manager_736983WD) |
 
 ## About This Role
 
-This corporate finance position at PwC was posted on 2026-05-19.
+This corporate finance position at PwC was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

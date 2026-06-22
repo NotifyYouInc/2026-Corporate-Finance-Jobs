@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/Medical-Underwriting--Analyst_JR-67030) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/Medical-Underwriting--Analyst_JR-67488) |
 
 ## About This Role
 
-This corporate finance position at AIA Group was posted on 2026-05-28.
+This corporate finance position at AIA Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

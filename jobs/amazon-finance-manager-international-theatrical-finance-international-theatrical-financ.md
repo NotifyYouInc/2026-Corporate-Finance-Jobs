@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10407430/finance-manager-international-theatrical-finance-international-theatrical-finance) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408772/finance-manager-international-theatrical-finance-international-theatrical-finance) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-04-30.
+This corporate finance position at Amazon was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

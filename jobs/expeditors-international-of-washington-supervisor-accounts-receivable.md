@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000128877359-supervisor-accounts-receivable) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000132104409-supervisor-accounts-receivable) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-05-28.
+This corporate finance position at Expeditors International of Washington was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

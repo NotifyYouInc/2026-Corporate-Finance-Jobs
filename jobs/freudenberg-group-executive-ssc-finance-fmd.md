@@ -5,12 +5,12 @@
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Bangalore/Executive-SSC---Finance--F-M-D-_R_00100940) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Bangalore/Executive-SSC---Finance--F-M-D-_R_00103473) |
 
 ## About This Role
 
-This corporate finance position at Freudenberg Group was posted on 2026-05-05.
+This corporate finance position at Freudenberg Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

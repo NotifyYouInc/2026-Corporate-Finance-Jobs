@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brookfield](https://scoutify.ai/companies/brookfield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/Manager--Tax_R2047857) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Sydney-New-South-Wales/Manager--Tax_R2050740) |
 
 ## About This Role
 
-This corporate finance position at Brookfield was posted on 2026-04-20.
+This corporate finance position at Brookfield was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

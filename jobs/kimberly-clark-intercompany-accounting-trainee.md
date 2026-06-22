@@ -5,12 +5,12 @@
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Pune-Kharadi-Hub/Intercompany-Accounting-Trainee_884120-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Pune-Kharadi-Hub/Intercompany-Accounting-Trainee_885951) |
 
 ## About This Role
 
-This corporate finance position at Kimberly-Clark was posted on 2026-03-04.
+This corporate finance position at Kimberly-Clark was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Launceston, Tasmania, Australia |
+| Location | Weipa, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Launceston/Senior-Adviser-Finance_R53395) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Weipa/Senior-Adviser-Finance_R56957) |
 
 ## About This Role
 
-This corporate finance position at Rio Tinto was posted on 2026-04-01.
+This corporate finance position at Rio Tinto was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

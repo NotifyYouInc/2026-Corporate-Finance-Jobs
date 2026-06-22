@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Titusville, Florida, United States |
+| Location | Zug, Zug, Switzerland |
 | Category | Corporate Finance |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Director-Transcend-Technology-Finance_R-081372-1) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Director-Transcend-Technology-Finance_R-082578-1) |
 
 ## About This Role
 

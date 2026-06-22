@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Changsha, Hunan, China |
+| Location | Beijing, Beijing, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Changsha--Hunan-Province/Sr-Associate-I--Surgical-Field-Sales_R-2026-46417-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Beijing-China/Sr-Associate-I--Surgical-Field-Sales_R-2026-47662-1) |
 
 ## About This Role
 
-This corporate finance position at Alcon was posted on 2026-04-20.
+This corporate finance position at Alcon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

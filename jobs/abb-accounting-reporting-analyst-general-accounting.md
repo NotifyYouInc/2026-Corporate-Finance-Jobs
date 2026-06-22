@@ -1,16 +1,16 @@
-# Accounting & Reporting Analyst - General Accounting at ABB
+# Accounting & Reporting analyst - General Accounting at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Analyst---General-Accounting_JR00036619-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-analyst---General-Accounting_JR00037682) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-06-03.
+This corporate finance position at ABB was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

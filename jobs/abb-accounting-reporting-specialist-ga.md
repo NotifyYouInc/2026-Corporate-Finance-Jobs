@@ -1,16 +1,16 @@
-# Accounting & Reporting Specialist - GA at ABB
+# Accounting & Reporting Specialist GA at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Specialist---GA_JR00033546) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Specialist-GA_JR00036904) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-05-06.
+This corporate finance position at ABB was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
