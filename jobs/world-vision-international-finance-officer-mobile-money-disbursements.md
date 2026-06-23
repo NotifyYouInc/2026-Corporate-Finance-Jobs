@@ -1,16 +1,16 @@
-# FINANCE OFFICER- MOBILE MONEY DISBURSEMENTS at World Vision International
+# Finance Officer- Mobile Money Disbursements at World Vision International
 
 | Field | Details |
 |-------|---------|
 | Company | [World Vision International](https://scoutify.ai/companies/world-vision-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Arusha, Arusha, Tanzania |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/Arusha-Tanzania/FINANCE-OFFICER--MOBILE-MONEY-DISBURSEMENTS_JR49890) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/Arusha-Tanzania/Finance-Officer--Mobile-Money-Disbursements_JR50604) |
 
 ## About This Role
 
-This corporate finance position at World Vision International was posted on 2026-04-29.
+This corporate finance position at World Vision International was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

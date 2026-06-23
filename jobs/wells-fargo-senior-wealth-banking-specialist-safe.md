@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Corte Madera, California, United States |
+| Location | Palo Alto, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CORTE-MADERA-CA/Senior-Wealth-Banking-Specialist--SAFE-_R-550683) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PALO-ALTO-CA/Senior-Wealth-Banking-Specialist--SAFE-_R-552974-1) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-10.
+This corporate finance position at Wells Fargo was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Jeppesen ForeFlight](https://scoutify.ai/companies/jeppesen-foreflight?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/for1029fref/JobBoard/64ac66bb-52b9-46df-9a34-49db2308f2fe/OpportunityDetail?opportunityId=9c1c4e62-3e6b-4569-a96a-d44709825b6f) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/for1029fref/JobBoard/64ac66bb-52b9-46df-9a34-49db2308f2fe/OpportunityDetail?opportunityId=6980c7e5-cf28-4646-b9bb-826718842d3d) |
 
 ## About This Role
 
-This corporate finance position at Jeppesen ForeFlight was posted on 2026-06-10.
+This corporate finance position at Jeppesen ForeFlight was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

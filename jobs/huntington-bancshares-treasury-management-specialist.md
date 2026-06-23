@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnetonka, Minnesota, United States |
+| Location | Charleston, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Treasury-Management-Specialist_R0072873) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Charleston-WV/Treasury-Management-Specialist_R0073119) |
 
 ## About This Role
 
-This corporate finance position at Huntington Bancshares was posted on 2026-06-04.
+This corporate finance position at Huntington Bancshares was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

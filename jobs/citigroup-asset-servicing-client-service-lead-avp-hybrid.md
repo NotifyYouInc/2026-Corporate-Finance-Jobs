@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jersey City, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Asset-Servicing-Client-Service-Lead-AVP-Hybrid_26954328-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Asset-Servicing-Client-Service-Lead-AVP-Hybrid_26968393-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-16.
+This corporate finance position at Citigroup was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000127068629-collections-specialist) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000132288802-collections-specialist) |
 
 ## About This Role
 
-This corporate finance position at AIR Communities was posted on 2026-05-18.
+This corporate finance position at AIR Communities was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

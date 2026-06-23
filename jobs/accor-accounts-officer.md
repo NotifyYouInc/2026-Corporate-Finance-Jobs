@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Cairns, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000121895108-accounts-officer) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000132322596-accounts-officer) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-20.
+This corporate finance position at ACCOR was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

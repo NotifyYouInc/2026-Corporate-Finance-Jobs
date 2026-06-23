@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Beirut, Beyrouth, Lebanon |
 | Category | Corporate Finance |
-| Posted | 2024-10-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000020199251-accountant) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000132340359-accountant) |
 
 ## About This Role
 
-This corporate finance position at Jobs for Humanity was posted on 2024-10-14.
+This corporate finance position at Jobs for Humanity was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

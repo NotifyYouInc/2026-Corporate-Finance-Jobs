@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/St-Louis-Missouri/Tax-Director--Privately-Held-Business_JR103932) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/US-PA-Philadelphia/Tax-Director--Privately-Held-Business_JR103987) |
 
 ## About This Role
 
-This corporate finance position at Armanino was posted on 2026-05-15.
+This corporate finance position at Armanino was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

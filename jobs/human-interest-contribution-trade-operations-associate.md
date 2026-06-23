@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Human Interest](https://scoutify.ai/companies/human-interest?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Utah, US |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/humaninterest/jobs/7747332) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/humaninterest/jobs/8002856) |
 
 ## About This Role
 
-This corporate finance position at Human Interest was posted on 2026-03-24.
+This corporate finance position at Human Interest was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CO---Denver-80206/Premier-Client-Banker---PNC-Wealth-Management_R226299-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/AZ---Scottsdale-85251/Premier-Client-Banker---PNC-Wealth-Management_R226534-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-13.
+This corporate finance position at PNC Financial was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ballardspahr](https://scoutify.ai/companies/ballardspahr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://ballardspahr.wd5.myworkdayjobs.com/ballard_spahr_llp/job/PA---Philadelphia/Pricing-Analyst_REQ-374) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ballardspahr.wd5.myworkdayjobs.com/ballard_spahr_llp/job/WA---Seattle/Pricing-Analyst_REQ-421) |
 
 ## About This Role
 
-This corporate finance position at Ballardspahr was posted on 2026-04-29.
+This corporate finance position at Ballardspahr was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

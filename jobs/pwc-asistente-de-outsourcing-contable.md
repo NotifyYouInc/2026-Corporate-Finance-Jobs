@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Lima/Asistente-de-Outsourcing-Contable_732746WD) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Lima/Asistente-de-Outsourcing-Contable_737214WD-1) |
 
 ## About This Role
 
-This corporate finance position at PwC was posted on 2026-05-29.
+This corporate finance position at PwC was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/INSURGENTES-Sandoz/Record-to-Report-Senior-Specialist_REQ-10027872-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/INSURGENTES-Sandoz/Record-to-Report-Senior-Specialist_REQ-10029658) |
 
 ## About This Role
 
-This corporate finance position at Sandoz was posted on 2026-03-26.
+This corporate finance position at Sandoz was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tlalnepantla, México, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000131939235-accounts-payable-specialist) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000132292839-accounts-payable-specialist) |
 
 ## About This Role
 
-This corporate finance position at Smiths Group was posted on 2026-06-12.
+This corporate finance position at Smiths Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

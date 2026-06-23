@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Financial-Analyst_R321594) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Toronto-Ontario-Canada/Financial-Analyst_R318470) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-06-04.
+This corporate finance position at Cushman & Wakefield was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

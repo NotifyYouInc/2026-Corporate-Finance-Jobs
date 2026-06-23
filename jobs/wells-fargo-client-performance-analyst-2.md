@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Birmingham, Alabama, United States |
+| Location | Baton Rouge, Louisiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BIRMINGHAM-AL/Client-Performance-Analyst-2_R-526347) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BATON-ROUGE-LA/Client-Performance-Analyst-2_R-547386) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-10.
+This corporate finance position at Wells Fargo was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

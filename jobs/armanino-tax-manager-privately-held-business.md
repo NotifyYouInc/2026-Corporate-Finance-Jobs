@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Salt-Lake-City-Utah/Tax-Manager--Privately-Held-Business_JR103935) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/St-Louis-Missouri/Tax-Manager--Privately-Held-Business_JR103986) |
 
 ## About This Role
 
-This corporate finance position at Armanino was posted on 2026-05-18.
+This corporate finance position at Armanino was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Richelieu, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Rglement-des-successions_R2607768) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Richelieu/Conseiller-ou-conseillre--Finances-personnelles_R2608023) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-06-11.
+This corporate finance position at Desjardins was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

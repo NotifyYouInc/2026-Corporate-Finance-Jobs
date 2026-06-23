@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bloomington, Minnesota, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/IL---Central-Illinois---Bloomington---Bloomington-Main-61701/Private-Banking-Client-Associate_38050) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Springfield-Area---Springfield---Springfield-Battlefield-65804/Private-Banking-Client-Associate_38073) |
 
 ## About This Role
 
-This corporate finance position at Commerce Bank was posted on 2026-06-08.
+This corporate finance position at Commerce Bank was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

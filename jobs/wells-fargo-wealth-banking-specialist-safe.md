@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | La Jolla, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LOS-ANGELES-CA/Wealth-Banking-Specialist--SAFE-_R-548235) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LA-JOLLA-CA/Wealth-Banking-Specialist--SAFE-_R-552511) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-27.
+This corporate finance position at Wells Fargo was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Lauderdale, Florida, United States |
+| Location | Mill Valley, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Lauderdale/Registered-Wealth-Management-Client-Associate_26020480-2) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Mill-Valley/Registered-Wealth-Management-Client-Associate_26020732) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-12.
+This corporate finance position at Bank of America was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

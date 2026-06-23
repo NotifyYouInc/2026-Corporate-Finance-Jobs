@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Miami Beach, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Denver-Colorado-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR038585-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Miami-Beach-Florida-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR038865) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-06-11.
+This corporate finance position at Morgan Stanley was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

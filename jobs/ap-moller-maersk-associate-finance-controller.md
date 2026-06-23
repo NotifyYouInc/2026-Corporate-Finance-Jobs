@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Associate-Finance-Controller_R180305-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Associate-Finance-Controller_R184962) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-05-05.
+This corporate finance position at A.P. Moller - Maersk was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

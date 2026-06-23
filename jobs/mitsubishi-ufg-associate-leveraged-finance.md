@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Germany |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/Associate--Leveraged-Finance_10075584-WD) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Frankfurt/Associate--Leveraged-Finance_10076812-WD-1) |
 
 ## About This Role
 
-This corporate finance position at Mitsubishi UFG was posted on 2026-03-16.
+This corporate finance position at Mitsubishi UFG was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

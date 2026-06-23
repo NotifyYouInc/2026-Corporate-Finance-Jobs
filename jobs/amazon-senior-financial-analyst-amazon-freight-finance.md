@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415963/senior-financial-analyst-amazon-freight-finance) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449182/senior-financial-analyst-amazon-freight-finance) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-11.
+This corporate finance position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

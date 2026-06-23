@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vienna, Vienna, Austria |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/8010-TOWERS-CRESCENT-DRIVEVIENNA/Client-Associate_R-0000172188-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Pittsburgh-Pennsylvania-United-States-of-America/Client-Associate_R-0000177001) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-18.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Process Delivery Specialist-Lead to Cash at IBM
+# PROCESS DELIVERY SPECIALIST-LEAD TO CASH at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=87726) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120052) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-03-03.
+This corporate finance position at IBM was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

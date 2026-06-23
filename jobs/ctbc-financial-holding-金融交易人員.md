@@ -5,12 +5,12 @@
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/_JR6795) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/_JR8268) |
 
 ## About This Role
 
-This corporate finance position at CTBC Financial Holding was posted on 2026-03-05.
+This corporate finance position at CTBC Financial Holding was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

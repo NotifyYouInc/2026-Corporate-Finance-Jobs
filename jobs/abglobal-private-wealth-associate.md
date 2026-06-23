@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Dallas-Texas/Private-Wealth-Associate_R0019081) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Chicago-IL/Private-Wealth-Associate_R0018880) |
 
 ## About This Role
 
-This corporate finance position at Abglobal was posted on 2026-06-10.
+This corporate finance position at Abglobal was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

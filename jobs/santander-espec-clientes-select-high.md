@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manaus, Amazonas, Brazil |
+| Location | Petrópolis, Rio de Janeiro, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/MANAUS/Espec-Clientes-Select-High_Req1577565) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PETROPOLIS/Espec-Clientes-Select-High_Req1580401) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-06-12.
+This corporate finance position at Santander was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

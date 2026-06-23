@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Project-Analyst-II_R-29998) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Project-Analyst-II_R-30520) |
 
 ## About This Role
 
-This corporate finance position at HNTB was posted on 2026-04-24.
+This corporate finance position at HNTB was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

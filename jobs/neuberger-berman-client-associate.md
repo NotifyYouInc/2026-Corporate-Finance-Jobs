@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neuberger Berman](https://scoutify.ai/companies/nb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Client-Associate_R0012158-2) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://nb.wd1.myworkdayjobs.com/NBCareers/job/Singapore/Client-Associate_R0012307-2) |
 
 ## About This Role
 
-This corporate finance position at Neuberger Berman was posted on 2026-05-14.
+This corporate finance position at Neuberger Berman was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

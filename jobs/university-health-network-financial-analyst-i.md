@@ -5,12 +5,12 @@
 | Company | [University Health Network](https://scoutify.ai/companies/universityhealthnetwork?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000130282189-financial-analyst-i) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000132252491-financial-analyst-i) |
 
 ## About This Role
 
-This corporate finance position at University Health Network was posted on 2026-06-04.
+This corporate finance position at University Health Network was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

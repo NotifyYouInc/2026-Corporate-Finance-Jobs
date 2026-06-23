@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mandaluyong City, National Capital Region, Philippines |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Manila-Phillippines/Accounting-Manager_R_105895) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Accounting-Manager_R_106387) |
 
 ## About This Role
 
-This corporate finance position at Remitly was posted on 2026-06-11.
+This corporate finance position at Remitly was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

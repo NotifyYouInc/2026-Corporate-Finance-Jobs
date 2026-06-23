@@ -5,12 +5,12 @@
 | Company | [Estiahealth](https://scoutify.ai/companies/estiahealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://estiahealth.wd105.myworkdayjobs.com/estia_health_careers/job/Sydney-Office/Financial-Analyst_21903) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://estiahealth.wd105.myworkdayjobs.com/estia_health_careers/job/Sydney-Office/Financial-Analyst_22595) |
 
 ## About This Role
 
-This corporate finance position at Estiahealth was posted on 2026-03-10.
+This corporate finance position at Estiahealth was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
