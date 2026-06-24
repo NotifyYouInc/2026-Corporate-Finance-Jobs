@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Joseph, Missouri, United States |
+| Location | Apple Valley, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Joseph-MO/WM-Affluent-Banker_2026-0012056) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Apple-Valley-MN/WM-Affluent-Banker_2026-0016846) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bancorp was posted on 2026-05-07.
+This corporate finance position at U.S. Bancorp was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

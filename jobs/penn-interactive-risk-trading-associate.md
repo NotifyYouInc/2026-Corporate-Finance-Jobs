@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Penn Interactive](https://scoutify.ai/companies/penn-interactive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United Kingdom |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/penninteractive/jobs/6007561004) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/penninteractive/jobs/6082931004) |
 
 ## About This Role
 
-This corporate finance position at Penn Interactive was posted on 2026-05-27.
+This corporate finance position at Penn Interactive was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

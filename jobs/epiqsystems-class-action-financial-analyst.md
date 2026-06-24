@@ -5,12 +5,12 @@
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/IND-Hyderabad-Sohini-Tech-Park-3rd-Floor-Financial-District/Class-Action-Financial-Analyst_R0033484) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/IND-Hyderabad-Sohini-Tech-Park-3rd-Floor-Financial-District/Class-Action-Financial-Analyst_R0034486) |
 
 ## About This Role
 
-This corporate finance position at Epiqsystems was posted on 2026-03-10.
+This corporate finance position at Epiqsystems was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

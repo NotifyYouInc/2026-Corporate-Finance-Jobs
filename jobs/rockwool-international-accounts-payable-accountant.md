@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwool International](https://scoutify.ai/companies/rockwool-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Subang Jaya, Selangor, Malaysia |
+| Location | Poznań, Greater Poland, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Subang-Jaya-Office/Accounts-Payable-Accountant_R0033006-2) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Pozna/Accounts-Payable-Accountant_R0035430) |
 
 ## About This Role
 
-This corporate finance position at Rockwool International was posted on 2026-05-19.
+This corporate finance position at Rockwool International was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Audit-Manager_R-50862-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Noida-Uttar-Pradesh-India/Audit-Manager_R-51128) |
 
 ## About This Role
 
-This corporate finance position at Crowe was posted on 2026-04-06.
+This corporate finance position at Crowe was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

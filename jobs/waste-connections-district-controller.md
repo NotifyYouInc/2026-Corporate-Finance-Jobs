@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, CA |
+| Location | Abbotsford, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/7125-Ridge-Landfill/District-Controller_R-98764) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/7305-Abbotsford/District-Controller_R-100686) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-05-06.
+This corporate finance position at Waste Connections was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Maplewood, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Treasury-Manager---Capital-Structure-and-Corporate-Development_R01163768) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Treasury-Manager---Capital-Structure-and-Corporate-Development_R01166611) |
 
 ## About This Role
 
-This corporate finance position at 3M Company was posted on 2026-04-14.
+This corporate finance position at 3M Company was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

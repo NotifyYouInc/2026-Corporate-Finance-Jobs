@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | Wichita, Kansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Plaza-Lobby-64112/Private-Client-Advisor_37467) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/KS---Central-Kansas---Wichita---Wichita-Waterfront-67206/Private-Client-Advisor_38087) |
 
 ## About This Role
 
-This corporate finance position at Commerce Bank was posted on 2026-05-01.
+This corporate finance position at Commerce Bank was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

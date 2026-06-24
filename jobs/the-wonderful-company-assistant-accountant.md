@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000131807394-assistant-accountant) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000132513742-assistant-accountant) |
 
 ## About This Role
 
-This corporate finance position at The Wonderful Company was posted on 2026-06-12.
+This corporate finance position at The Wonderful Company was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ghj](https://scoutify.ai/companies/ghj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westwood, Massachusetts, United States |
+| Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.lever.co/ghj/3a6d1b41-4bc1-4635-8fe5-45c42d76f13d) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.lever.co/ghj/f3013df2-c6d4-474f-89e5-924bf3a8ee78) |
 
 ## About This Role
 
-This corporate finance position at Ghj was posted on 2026-06-15.
+This corporate finance position at Ghj was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

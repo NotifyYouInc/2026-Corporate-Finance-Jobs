@@ -5,12 +5,12 @@
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Westlake-Village/Merrill-Advisor-Development-Program---Financial-Advisor--Valley-Coast-Market_26015210) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Woodland-Hills/Merrill-Advisor-Development-Program---Financial-Advisor--Valley-Coast-Market_26020904) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-28.
+This corporate finance position at Bank of America was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

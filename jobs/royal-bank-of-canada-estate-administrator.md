@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OTTAWA-Ontario-Canada/Estate-Administrator_R-0000174229-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Estate-Administrator_R-0000176909-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-28.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

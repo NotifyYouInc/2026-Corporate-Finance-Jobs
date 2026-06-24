@@ -1,16 +1,16 @@
-# Sr Investment Associate at Northern Trust
+# Sr. Investment Associate at Northern Trust
 
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/San-Francisco-CA/Sr-Investment-Associate_R154804) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Atlanta-GA/Sr-Investment-Associate_R155955-1) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-05-08.
+This corporate finance position at Northern Trust was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [TransPerfect](https://scoutify.ai/companies/transperfect?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Payroll-Analyst_R2025-243515) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Payroll-Analyst_R2025-244106) |
 
 ## About This Role
 
-This corporate finance position at TransPerfect was posted on 2026-03-23.
+This corporate finance position at TransPerfect was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

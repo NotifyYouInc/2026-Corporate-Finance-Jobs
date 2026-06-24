@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Germany |
+| Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/FRANKFURT-Frankfurt/CIB-GLOBAL-TRAINING-PROGRAM-ANALYST-II_JR00099029) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Hong-Kong/CIB-GLOBAL-TRAINING-PROGRAM-ANALYST-II_JR00099302) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-25.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Winnipeg, Manitoba, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Manager--Canadian-Tax-Services_JR6396) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Manager--Canadian-Tax-Services_JR6463) |
 
 ## About This Role
 
-This corporate finance position at BDO Dunwoody was posted on 2026-06-03.
+This corporate finance position at BDO Dunwoody was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

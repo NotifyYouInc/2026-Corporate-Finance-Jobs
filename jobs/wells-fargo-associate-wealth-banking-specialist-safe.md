@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Deerfield, Illinois, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DEERFIELD-IL/Associate-Wealth-Banking-Specialist--SAFE-_R-548058) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SCOTTSDALE-AZ/Associate-Wealth-Banking-Specialist--SAFE-_R-551449) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-03.
+This corporate finance position at Wells Fargo was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

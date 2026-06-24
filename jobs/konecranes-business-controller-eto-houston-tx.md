@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000117737091-business-controller-eto-houston-tx) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000132498319-business-controller-eto-houston-tx) |
 
 ## About This Role
 
-This corporate finance position at Konecranes was posted on 2026-03-30.
+This corporate finance position at Konecranes was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

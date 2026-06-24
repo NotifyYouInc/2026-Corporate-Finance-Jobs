@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Riverside, California, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Riverside-CA/Cash-Application-Associate_R0035423) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Vancouver-BC/Cash-Application-Associate_R0037010) |
 
 ## About This Role
 
-This corporate finance position at HUB International was posted on 2026-03-25.
+This corporate finance position at HUB International was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

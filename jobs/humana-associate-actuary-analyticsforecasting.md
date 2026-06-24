@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Associate-Actuary--Analytics-Forecasting_R-415211) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Associate-Actuary--Analytics-Forecasting_R-418875) |
 
 ## About This Role
 
-This corporate finance position at Humana was posted on 2026-05-05.
+This corporate finance position at Humana was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

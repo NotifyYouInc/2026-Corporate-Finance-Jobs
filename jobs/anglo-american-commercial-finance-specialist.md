@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Moura, Queensland, Australia |
+| Location | Moranbah, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000132327814-commercial-finance-specialist) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000132555369-commercial-finance-specialist) |
 
 ## About This Role
 
-This corporate finance position at Anglo American was posted on 2026-06-16.
+This corporate finance position at Anglo American was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

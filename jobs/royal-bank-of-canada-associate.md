@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saskatoon, Saskatchewan, Canada |
+| Location | Kelowna, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/SASKATOON-Saskatchewan-Canada/Associate_R-0000176267-2) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/KELOWNA-British-Columbia-Canada/Associate_R-0000170960) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-10.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

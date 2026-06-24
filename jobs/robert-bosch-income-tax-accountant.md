@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
+| Location | Farmington Hills, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122094343-income-tax-accountant) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132476724-income-tax-accountant) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-04-21.
+This corporate finance position at Robert Bosch was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

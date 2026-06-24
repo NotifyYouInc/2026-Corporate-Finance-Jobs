@@ -5,12 +5,12 @@
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Malta, Montana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Manufacturing-Cost-Analyst_JR-2601831) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Manufacturing-Cost-Analyst_JR-2602770) |
 
 ## About This Role
 
-This corporate finance position at GlobalFoundries was posted on 2026-04-24.
+This corporate finance position at GlobalFoundries was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

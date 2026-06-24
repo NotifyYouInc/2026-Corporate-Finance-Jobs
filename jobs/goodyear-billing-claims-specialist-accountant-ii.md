@@ -1,16 +1,16 @@
-# Billing & Claims Specialist -Accountant II at Goodyear
+# Billing & Claims Specialist - Accountant II at Goodyear
 
 | Field | Details |
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/CR-GBS-Heredia-Office/Billing---Claims-Specialist--Accountant-II_JR-40106408) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/CR-GBS-Heredia-Office/Billing---Claims-Specialist---Accountant-II_JR-40109674) |
 
 ## About This Role
 
-This corporate finance position at Goodyear was posted on 2026-03-31.
+This corporate finance position at Goodyear was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

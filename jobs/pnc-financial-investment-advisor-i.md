@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Fort-Lauderdale/Investment-Advisor-I_R208464-2) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PNC-Center---Cleveland-OH001/Investment-Advisor-I_R226437-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-02-24.
+This corporate finance position at PNC Financial was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

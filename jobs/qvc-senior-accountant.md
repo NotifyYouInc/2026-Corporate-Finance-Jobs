@@ -5,12 +5,12 @@
 | Company | [QVC](https://scoutify.ai/companies/qvc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | West Chester, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://qvc.wd5.myworkdayjobs.com/qrg/job/USA-OH-West-Chester/Senior-Accountant_R81726) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://qvc.wd5.myworkdayjobs.com/qrg/job/USA-PA-West-Chester/Senior-Accountant_R82500-1) |
 
 ## About This Role
 
-This corporate finance position at QVC was posted on 2026-03-27.
+This corporate finance position at QVC was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

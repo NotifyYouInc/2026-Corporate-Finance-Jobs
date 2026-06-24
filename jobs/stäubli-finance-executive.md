@@ -5,12 +5,12 @@
 | Company | [Stäubli](https://scoutify.ai/companies/stubli?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Puchong, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000131581669-finance-executive) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000132558509-finance-executive) |
 
 ## About This Role
 
-This corporate finance position at Stäubli was posted on 2026-06-11.
+This corporate finance position at Stäubli was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

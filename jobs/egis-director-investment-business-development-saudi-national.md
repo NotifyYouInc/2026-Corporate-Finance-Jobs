@@ -5,12 +5,12 @@
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000108421378-director-investment-business-development-saudi-national) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000132558149-director-investment-business-development-saudi-national) |
 
 ## About This Role
 
-This corporate finance position at Egis was posted on 2026-02-10.
+This corporate finance position at Egis was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

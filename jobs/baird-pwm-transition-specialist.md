@@ -5,12 +5,12 @@
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/US---Remote/PWM-Transition-Specialist_R2026170-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/US---Remote/PWM-Transition-Specialist_R2026684-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-06-05.
+This corporate finance position at Baird was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

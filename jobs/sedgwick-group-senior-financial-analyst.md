@@ -5,12 +5,12 @@
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Tampa-FL/Senior-Financial-Analyst_R71602) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Tampa-FL/Senior-Financial-Analyst_R74152) |
 
 ## About This Role
 
-This corporate finance position at Sedgwick Group was posted on 2026-03-12.
+This corporate finance position at Sedgwick Group was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

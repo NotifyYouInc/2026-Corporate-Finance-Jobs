@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransPerfect](https://scoutify.ai/companies/transperfect?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Staff-Accountant_R2025-243632) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Staff-Accountant_R2025-244107) |
 
 ## About This Role
 
-This corporate finance position at TransPerfect was posted on 2026-04-07.
+This corporate finance position at TransPerfect was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

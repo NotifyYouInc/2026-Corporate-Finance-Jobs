@@ -1,16 +1,16 @@
-# Associate Director, Fund accounting at IQ-EQ
+# Associate Director, Fund Accounting  at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000119199347-associate-director-fund-accounting) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000132549299-associate-director-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-04-07.
+This corporate finance position at IQ-EQ was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

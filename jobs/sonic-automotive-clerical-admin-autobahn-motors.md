@@ -5,12 +5,12 @@
 | Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Belmont, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000131508499-clerical-admin-autobahn-motors) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000132480189-clerical-admin-autobahn-motors) |
 
 ## About This Role
 
-This corporate finance position at Sonic Automotive was posted on 2026-06-10.
+This corporate finance position at Sonic Automotive was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

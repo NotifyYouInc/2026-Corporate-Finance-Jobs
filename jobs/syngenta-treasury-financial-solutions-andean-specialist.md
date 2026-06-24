@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000129594038-treasury-financial-solutions-andean-specialist) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000132506723-treasury-financial-solutions-andean-specialist) |
 
 ## About This Role
 
-This corporate finance position at Syngenta was posted on 2026-06-01.
+This corporate finance position at Syngenta was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Treasury-Associate_R2381) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Treasury-Associate_R2416) |
 
 ## About This Role
 
-This corporate finance position at HarbourVest was posted on 2026-06-02.
+This corporate finance position at HarbourVest was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

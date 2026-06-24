@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnesota, US |
+| Location | Mendota Heights, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000116717447-corporate-controller) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000132493418-corporate-controller) |
 
 ## About This Role
 
-This corporate finance position at Dungarvin was posted on 2026-03-25.
+This corporate finance position at Dungarvin was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

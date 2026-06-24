@@ -5,12 +5,12 @@
 | Company | [Rochester Regional Health](https://scoutify.ai/companies/rochester-regional-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rochester, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://rrhs.wd5.myworkdayjobs.com/rrh/job/Riedman-Campus/Financial-Analyst_REQ_227816) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://rrhs.wd5.myworkdayjobs.com/rrh/job/Riedman-Campus/Financial-Analyst_REQ_236143) |
 
 ## About This Role
 
-This corporate finance position at Rochester Regional Health was posted on 2026-02-09.
+This corporate finance position at Rochester Regional Health was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

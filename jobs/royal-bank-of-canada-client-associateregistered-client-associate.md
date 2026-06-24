@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Boulder, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Colorado-Springs-Colorado-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000176017-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Boulder-Colorado-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000177282) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-08.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

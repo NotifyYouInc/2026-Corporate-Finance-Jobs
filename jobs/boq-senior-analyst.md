@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boq](https://scoutify.ai/companies/boq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Perth-Office---St-Georges-Terrace/Senior-Analyst_JR101205-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Sydney-Office---George-Street/Senior-Analyst_JR101553) |
 
 ## About This Role
 
-This corporate finance position at Boq was posted on 2026-03-27.
+This corporate finance position at Boq was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

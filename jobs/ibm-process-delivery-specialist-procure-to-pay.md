@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94424) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120607) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-02-25.
+This corporate finance position at IBM was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

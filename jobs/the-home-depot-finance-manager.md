@@ -5,12 +5,12 @@
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Finance-Manager_Req175660) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/PENNANT-PARK-ATLANTA---9141/Finance-Manager_Req183763) |
 
 ## About This Role
 
-This corporate finance position at The Home Depot was posted on 2026-04-06.
+This corporate finance position at The Home Depot was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mill Valley, California, United States |
+| Location | Toms River, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Mill-Valley/Registered-Wealth-Management-Client-Associate_26020732) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Toms-River/Registered-Wealth-Management-Client-Associate_26020836) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-15.
+This corporate finance position at Bank of America was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

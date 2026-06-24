@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Urbandale, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Urbandale---Meredith/Staff-Accountant-I_R_350849) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Urbandale---Meredith/Staff-Accountant-I_R_353551) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-05-28.
+This corporate finance position at Marsh & McLennan Companies was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

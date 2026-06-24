@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-AB-CALGARY-111--919-72nd-Ave-NE--72ND-AVE-Ste-A/Senior-Financial-Analyst_01841143-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/SG-01-SINGAPORE-051-TC--51-Calshot-Rd--51-CALSHOT-RD-051-TC/Senior-Financial-Analyst_01852327) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-04-24.
+This corporate finance position at RTX was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

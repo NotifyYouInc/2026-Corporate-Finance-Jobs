@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maplewood, Minnesota, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Senior-Corporate-Auditor_R01166242) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/IN-BANGALORE/Senior-Corporate-Auditor_R01166577) |
 
 ## About This Role
 
-This corporate finance position at 3M Company was posted on 2026-06-10.
+This corporate finance position at 3M Company was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Granby, Quebec, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Granby/Conseiller-principal-ou-conseillre-principale--Gestion-de-patrimoine_R2606549-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Saint-Georges/Conseiller-principal-ou-conseillre-principale-en-gestion-de-patrimoine_R2608043) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-05-11.
+This corporate finance position at Desjardins was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

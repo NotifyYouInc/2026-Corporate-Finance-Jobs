@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | South Brisbane, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000130628919-financial-controller) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000132557459-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-06.
+This corporate finance position at ACCOR was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

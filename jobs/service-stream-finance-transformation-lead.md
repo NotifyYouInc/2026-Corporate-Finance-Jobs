@@ -5,12 +5,12 @@
 | Company | [Service Stream](https://scoutify.ai/companies/service-stream?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://servicestream.wd3.myworkdayjobs.com/servicestream_careers/job/VIC---Melbourne---655-Collins-St/Finance-Transformation-Lead_JR-117425) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://servicestream.wd3.myworkdayjobs.com/servicestream_careers/job/VIC---Melbourne---655-Collins-St/Finance-Transformation-Lead_JR-118264) |
 
 ## About This Role
 
-This corporate finance position at Service Stream was posted on 2026-03-06.
+This corporate finance position at Service Stream was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
