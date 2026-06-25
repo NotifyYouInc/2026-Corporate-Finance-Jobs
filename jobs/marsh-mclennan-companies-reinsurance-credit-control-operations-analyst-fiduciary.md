@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Manila---SixNEO/Reinsurance-Credit-Control-Operations-Analyst--Fiduciary-_R_350280) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Manila---SixNEO/Reinsurance-Credit-Control-Operations-Analyst--Fiduciary-_R_348852) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-05-27.
+This corporate finance position at Marsh & McLennan Companies was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Atrium Hospitality](https://scoutify.ai/companies/atrium-hospitality?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Charles, Missouri, United States |
+| Location | Glendale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Saint-Charles-MO/Accounting-Associate_R48750) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Glendale-AZ/Accounting-Associate_R48826) |
 
 ## About This Role
 
-This corporate finance position at Atrium Hospitality was posted on 2026-06-12.
+This corporate finance position at Atrium Hospitality was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

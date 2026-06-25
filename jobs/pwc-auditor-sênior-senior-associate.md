@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Curitiba, Paraná, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/HA---Curitiba/Auditor-Snior---Senior-Associate_713043WD-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/So-Paulo/Auditor-Snior---Senior-Associate_725912WD) |
 
 ## About This Role
 
-This corporate finance position at PwC was posted on 2026-04-16.
+This corporate finance position at PwC was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

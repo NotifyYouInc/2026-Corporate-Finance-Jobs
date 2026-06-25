@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Houston-TX/Trust-Real-Estate-Asset-Manager_R0070491) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Trust-Real-Estate-Asset-Manager_R0073246) |
 
 ## About This Role
 
-This corporate finance position at Huntington Bancshares was posted on 2026-03-13.
+This corporate finance position at Huntington Bancshares was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

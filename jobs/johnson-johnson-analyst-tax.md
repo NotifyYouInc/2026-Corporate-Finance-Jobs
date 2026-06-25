@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brazil |
+| Location | São José dos Campos, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/So-Jos-dos-Campos-So-Paulo-Brazil/Analyst-Tax_R-062990) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/So-Jos-dos-Campos-So-Paulo-Brazil/Analyst-Tax_R-083134-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-03-13.
+This corporate finance position at Johnson & Johnson was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

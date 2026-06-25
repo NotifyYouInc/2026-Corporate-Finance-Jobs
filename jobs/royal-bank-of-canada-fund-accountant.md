@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Fund-Accountant_R-0000163305) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-CENTRE-155-WELLINGTON-ST-WTORONTO/Fund-Accountant_R-0000173620) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-18.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

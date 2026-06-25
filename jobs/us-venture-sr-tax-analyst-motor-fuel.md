@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Venture](https://scoutify.ai/companies/usventure?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Arkansas, US |
+| Location | Georgia, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://usventure.wd1.myworkdayjobs.com/usvexternal/job/Remote-Texas/Sr-Tax-Analyst---Motor-Fuel_R6883-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://usventure.wd1.myworkdayjobs.com/usvexternal/job/Remote-Texas/Sr-Tax-Analyst---Motor-Fuel_R7637) |
 
 ## About This Role
 
-This corporate finance position at U.S. Venture was posted on 2026-04-14.
+This corporate finance position at U.S. Venture was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

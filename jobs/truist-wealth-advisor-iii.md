@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Location | Pensacola, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charleston-WV/Wealth-Advisor-III_R0112614) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Pensacola-FL/Wealth-Advisor-III_R0115918) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-03-24.
+This corporate finance position at Truist was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Mumbai-HO/Assistant-Finance-Manager_R-1172671-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Taipei/Assistant-Finance-Manager_R-1182252) |
 
 ## About This Role
 
-This corporate finance position at Unilever was posted on 2026-02-25.
+This corporate finance position at Unilever was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

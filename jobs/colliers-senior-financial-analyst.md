@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rosemont, California, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Rosemont-Illinois-United-States-of-America/Senior-Financial-Analyst_JR17198) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Rosemont-Illinois-United-States-of-America/Senior-Financial-Analyst_JR18006) |
 
 ## About This Role
 
-This corporate finance position at Colliers was posted on 2026-03-06.
+This corporate finance position at Colliers was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

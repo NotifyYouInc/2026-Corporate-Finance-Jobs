@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gunvor](https://scoutify.ai/companies/gunvor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Calgary/Settlements-Analyst_JR102523-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/Settlements-Analyst_JR102698-1) |
 
 ## About This Role
 
-This corporate finance position at Gunvor was posted on 2026-03-09.
+This corporate finance position at Gunvor was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

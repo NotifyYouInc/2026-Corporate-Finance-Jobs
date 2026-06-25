@@ -1,16 +1,16 @@
-# Sr. Investment Associate at Northern Trust
+# Sr Investment Associate at Northern Trust
 
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Atlanta-GA/Sr-Investment-Associate_R155955-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Atlanta-GA/Sr-Investment-Associate_R156871) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-06-16.
+This corporate finance position at Northern Trust was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

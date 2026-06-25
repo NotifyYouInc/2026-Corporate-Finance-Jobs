@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dalian, Liaoning, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Financial-Planning---Analysis-Representa_14354937) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Software-Development-Engineer_ATCI-R1-S1862007) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-06-15.
+This corporate finance position at Accenture was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

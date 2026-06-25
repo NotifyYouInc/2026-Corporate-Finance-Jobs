@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3184568/senior-ar-analyst-with-italian-amazon-advertising) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411145/senior-ar-analyst-with-italian-amazon-advertising) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-02-19.
+This corporate finance position at Amazon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

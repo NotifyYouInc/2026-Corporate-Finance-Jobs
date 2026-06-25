@@ -5,12 +5,12 @@
 | Company | [KPMG Australia](https://scoutify.ai/companies/kpmg-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Perth, Western Australia, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001032958-assistant-manager-technical-accounting-advisory-marc) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001164013-assistant-manager-technical-accounting-advisory-marc) |
 
 ## About This Role
 
-This corporate finance position at KPMG Australia was posted on 2026-04-29.
+This corporate finance position at KPMG Australia was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

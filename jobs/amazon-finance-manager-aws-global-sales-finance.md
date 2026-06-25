@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430402/finance-manager-aws-global-sales-finance) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10425397/finance-manager-aws-global-sales-finance) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-26.
+This corporate finance position at Amazon was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

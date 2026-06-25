@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wuxi, Jiangsu, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Accounting-Associate_R0000371197-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accounting-Associate_R0000377018) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-05-21.
+This corporate finance position at Caterpillar was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

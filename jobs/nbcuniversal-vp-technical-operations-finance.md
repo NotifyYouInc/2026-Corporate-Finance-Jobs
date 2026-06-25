@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000130554171-vp-technical-operations-finance) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000132717850-vp-technical-operations-finance) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-06-05.
+This corporate finance position at NBCUniversal was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

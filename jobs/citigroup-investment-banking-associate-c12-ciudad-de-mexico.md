@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Investment-Banking-Associate---C12---Ciudad-De-Mexico_26969006-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Investment-Banking-Associate---C12---Ciudad-De-Mexico_26972278-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-05.
+This corporate finance position at Citigroup was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

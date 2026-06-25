@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sinaloa, MX |
+| Location | Miami, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/MX---1ST-FLOOR-14-SINALOA-PENON-MARKEN-MXEXI/Billing-Associate--Americas-M-F-8am-to-5pm-EST_R26004483) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---MIAMI-2-MARKEN-FLDOL/Billing-Associate--Americas-M-F-8am-to-5pm-EST_R26007649) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-03-04.
+This corporate finance position at United Parcel Service (UPS) was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

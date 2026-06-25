@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Mateo, Calabarzon, Philippines |
+| Location | Middleton, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/San-Mateo-California-United-States-of-America/Registered-Client-Service-Associate_JR038162-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Middleton-Massachusetts-United-States-of-America/Registered-Client-Service-Associate_JR036976-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-06-10.
+This corporate finance position at Morgan Stanley was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

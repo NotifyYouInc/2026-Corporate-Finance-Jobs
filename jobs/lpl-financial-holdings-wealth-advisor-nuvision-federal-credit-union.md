@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Walnut Creek, California, United States |
+| Location | Anchorage, Alaska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Walnut-Creek-CA/Wealth-Advisor---Nuvision-Federal-Credit-Union_R-051196-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Anchorage-AK/Wealth-Advisor---Nuvision-Federal-Credit-Union_R-051512-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-06-15.
+This corporate finance position at LPL Financial Holdings was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

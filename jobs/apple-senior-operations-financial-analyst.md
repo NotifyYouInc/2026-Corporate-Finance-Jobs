@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646455/senior-operations-financial-analyst) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200661944/senior-operations-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Apple was posted on 2026-02-11.
+This corporate finance position at Apple was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

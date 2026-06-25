@@ -1,16 +1,16 @@
-# Accountant -  People Manager at Marsh & McLennan Companies
+# Accountant - People Manager at Marsh & McLennan Companies
 
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Bogota---Calle-26/Accountant----People-Manager_R_346929) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Bogota---Calle-26/Accountant---People-Manager_R_355808) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-04-07.
+This corporate finance position at Marsh & McLennan Companies was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

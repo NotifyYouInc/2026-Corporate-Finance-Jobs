@@ -5,12 +5,12 @@
 | Company | [National Indemnity](https://scoutify.ai/companies/national-indemnity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://nationalindemnity.wd5.myworkdayjobs.com/BHHC/job/Omaha-NE/Accounting-Specialist_R14773) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://nationalindemnity.wd5.myworkdayjobs.com/BHHC/job/Omaha-NE/Accounting-Specialist_R14772-1) |
 
 ## About This Role
 
-This corporate finance position at National Indemnity was posted on 2026-04-21.
+This corporate finance position at National Indemnity was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Wellesley-Hills-Massachusetts/Associate-Director--Portfolio-Management---SLC-Management_JR00116559-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Associate--Portfolio-Management---SLC-Management_JR00124929-1) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-03-16.
+This corporate finance position at Sun Life Financial was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

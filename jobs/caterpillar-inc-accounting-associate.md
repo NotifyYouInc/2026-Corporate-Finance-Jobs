@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Accounting-Associate_R0000372688) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accounting-Associate_R0000377018) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar Inc. was posted on 2026-05-29.
+This corporate finance position at Caterpillar Inc. was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

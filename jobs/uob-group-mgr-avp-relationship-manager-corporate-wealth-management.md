@@ -5,12 +5,12 @@
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Kuala-Lumpur-City-Area/MGR-AVP--Relationship-Manager--Corporate-Wealth-Management_JR86834-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Kuala-Lumpur-City-Area/MGR-AVP--Relationship-Manager--Corporate-Wealth-Management_JR88903) |
 
 ## About This Role
 
-This corporate finance position at UOB Group was posted on 2026-05-15.
+This corporate finance position at UOB Group was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

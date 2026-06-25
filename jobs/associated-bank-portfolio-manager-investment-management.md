@@ -1,16 +1,16 @@
-# Portfolio Manager, Investment Management at Associated Bank
+# Portfolio Manager - Investment Management at Associated Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Associated Bank](https://scoutify.ai/companies/associatedbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Madison-8040-Excelsior/Portfolio-Manager--Investment-Management_JR105513) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Chicago-525-Monroe/Portfolio-Manager---Investment-Management_JR105902) |
 
 ## About This Role
 
-This corporate finance position at Associated Bank was posted on 2026-04-09.
+This corporate finance position at Associated Bank was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

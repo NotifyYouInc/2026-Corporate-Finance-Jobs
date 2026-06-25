@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Senior-Finance-Analyst_REQ492480) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Finance-Analyst_REQ513228) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-16.
+This corporate finance position at JLL was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001002882-finance-operations-analyst-interline-and-iata-bsp) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001164796-finance-operations-analyst-interline-and-iata-bsp) |
 
 ## About This Role
 
-This corporate finance position at Qantas Group was posted on 2026-04-16.
+This corporate finance position at Qantas Group was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

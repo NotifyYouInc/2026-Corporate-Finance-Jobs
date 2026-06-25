@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sterling, Virginia, United States |
+| Location | Largo, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Senior-Analyst--Program-Cost-Controls--Hybrid-_01824709) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Senior-Analyst--Program-Cost-Controls--Hybrid-_01853266) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-02-17.
+This corporate finance position at RTX was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

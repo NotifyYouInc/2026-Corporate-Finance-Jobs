@@ -5,12 +5,12 @@
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Riga, Riga, Latvia |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Riga-BC--BU/Junior-Accountant-Payroll_R582458-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Riga-BC--BU/Junior-Accountant-Payroll_R598455-1) |
 
 ## About This Role
 
-This corporate finance position at Alimentation Couche-Tard was posted on 2026-04-22.
+This corporate finance position at Alimentation Couche-Tard was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
