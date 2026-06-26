@@ -1,16 +1,16 @@
-# KPB Sr. Fiduciary Strategist at KeyBank
+# KPB Sr Fiduciary Strategist at KeyBank
 
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Portland-ME/KPB-Sr-Fiduciary-Strategist_R-39938) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Seattle-WA/KPB-Sr-Fiduciary-Strategist_R-36698) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-05-29.
+This corporate finance position at KeyBank was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

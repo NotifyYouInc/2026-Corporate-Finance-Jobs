@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Manager---Record-to-Report--R2R-_R-52231-2026) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Manager---Record-to-Report--R2R-_R-53986-2026-1) |
 
 ## About This Role
 
-This corporate finance position at HARMAN International was posted on 2026-05-06.
+This corporate finance position at HARMAN International was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

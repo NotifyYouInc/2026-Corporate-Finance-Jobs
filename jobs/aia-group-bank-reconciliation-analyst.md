@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-MPI/Bank-Reconciliation-Analyst_JR-66412) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-MPI/Bank-Reconciliation-Analyst_JR-66411) |
 
 ## About This Role
 
-This corporate finance position at AIA Group was posted on 2026-06-01.
+This corporate finance position at AIA Group was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

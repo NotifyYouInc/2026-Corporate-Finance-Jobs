@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000129910199-accountant-2) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000132994518-accountant-2) |
 
 ## About This Role
 
-This corporate finance position at SanDisk was posted on 2026-06-03.
+This corporate finance position at SanDisk was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

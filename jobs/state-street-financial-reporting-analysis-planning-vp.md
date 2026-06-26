@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Financial-Reporting---Analysis---Planning--VP_R-792084) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Financial-Reporting---Analysis---Planning--VP_R-792668) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-16.
+This corporate finance position at State Street was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

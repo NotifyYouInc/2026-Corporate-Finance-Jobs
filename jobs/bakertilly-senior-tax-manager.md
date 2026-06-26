@@ -5,12 +5,12 @@
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TN-Nashville/Senior-Tax-Manager_JR106765) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TN-Nashville/Tax-Manager_JR105385) |
 
 ## About This Role
 
-This corporate finance position at Bakertilly was posted on 2026-06-12.
+This corporate finance position at Bakertilly was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

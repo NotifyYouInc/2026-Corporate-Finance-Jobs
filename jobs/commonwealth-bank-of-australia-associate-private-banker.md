@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/VIC-CBD-Melbourne-Area/Associate-Private-Banker_REQ256783) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Brisbane-City-QLD---180-Ann-Street/Associate-Private-Banker_REQ260459-1) |
 
 ## About This Role
 
-This corporate finance position at Commonwealth Bank of Australia was posted on 2026-04-12.
+This corporate finance position at Commonwealth Bank of Australia was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Agra, Uttar Pradesh, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26073335) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26075081) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-06-16.
+This corporate finance position at Marriott International was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

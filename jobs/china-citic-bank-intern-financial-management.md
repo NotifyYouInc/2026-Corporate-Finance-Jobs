@@ -5,12 +5,12 @@
 | Company | [China CITIC Bank](https://scoutify.ai/companies/china-citic-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cncbinternational.wd3.myworkdayjobs.com/cncbiexternalcareersite/job/New-York/Intern--Financial-Management_JR2268) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://cncbinternational.wd3.myworkdayjobs.com/cncbiexternalcareersite/job/New-York/Intern--Financial-Management_JR2448) |
 
 ## About This Role
 
-This corporate finance position at China CITIC Bank was posted on 2026-04-28.
+This corporate finance position at China CITIC Bank was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

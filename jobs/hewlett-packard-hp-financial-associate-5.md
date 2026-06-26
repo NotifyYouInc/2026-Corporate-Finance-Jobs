@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Shanghai-Shanghai-China/Financial-Associate_3156647) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Financial-Associate-5_3164670-1) |
 
 ## About This Role
 
-This corporate finance position at Hewlett Packard (HP) was posted on 2026-03-12.
+This corporate finance position at Hewlett Packard (HP) was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

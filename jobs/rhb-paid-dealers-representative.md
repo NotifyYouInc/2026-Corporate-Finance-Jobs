@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Location | Kota Kinabalu, Sabah, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Selangor/Paid-Dealer-s-Representative_JR004066) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Sabah/Paid-Dealer-s-Representative_JR006278) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-06-04.
+This corporate finance position at RHB was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

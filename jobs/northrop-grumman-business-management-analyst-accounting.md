@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Linthicum, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/Business-Management-Analyst---Accounting_R10230262) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Business-Management-Analyst---Accounting_R10237016) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-04-23.
+This corporate finance position at Northrop Grumman was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

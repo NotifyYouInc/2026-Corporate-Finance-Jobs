@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quincy, Massachusetts, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Financial-Reporting--Officer_R-781976) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Financial-Reporting--Officer_R-792481) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-29.
+This corporate finance position at State Street was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
