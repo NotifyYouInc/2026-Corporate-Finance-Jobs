@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Baltimore, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/FP-A-Analyst---Financial-Planning---Analysis--AI---Automation-Focus-_R031168) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/FP-A-Analyst---Financial-Planning---Analysis--AI---Automation-Focus-_R031226-1) |
 
 ## About This Role
 
-This corporate finance position at Ciena was posted on 2026-06-12.
+This corporate finance position at Ciena was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

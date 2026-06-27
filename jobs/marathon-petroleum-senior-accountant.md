@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Anacortes, Washington, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Anacortes-Washington/Senior-Accountant_00022420) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Mexico-City-MX/Senior-Accountant_00022575) |
 
 ## About This Role
 
-This corporate finance position at Marathon Petroleum was posted on 2026-06-08.
+This corporate finance position at Marathon Petroleum was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

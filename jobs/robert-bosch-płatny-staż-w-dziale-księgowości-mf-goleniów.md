@@ -1,16 +1,16 @@
-# Płatny Staż w dziale Księgowości (m/f) - Goleniów  at Robert Bosch
+# Płatny Staż w dziale Księgowości (m/f) - Goleniów at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Poland |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112857309-patny-staz-w-dziale-ksiegowosci-mf-goleniow) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133058409-patny-staz-w-dziale-ksiegowosci-mf-goleniow) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-03-05.
+This corporate finance position at Robert Bosch was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

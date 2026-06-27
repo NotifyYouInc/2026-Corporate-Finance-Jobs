@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Aveiro, Aveiro, Portugal |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115726355-extracurricular-internship-controlling-fmdiv) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133113269-extracurricular-internship-controlling-fmdiv) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-03-19.
+This corporate finance position at Robert Bosch was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boca Raton, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4704035005) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4707867005) |
 
 ## About This Role
 
-This corporate finance position at INFUSE was posted on 2026-06-08.
+This corporate finance position at INFUSE was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

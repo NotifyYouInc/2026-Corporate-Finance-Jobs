@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlottesville, Virginia, United States |
+| Location | Florida, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Virginia-Guesthouse-at-UVA/Accounts-Receivable-Clerk_R0058420) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/South-Seas-Resort/Accounts-Receivable-Clerk_R0063909) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-02-19.
+This corporate finance position at Benchmark was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

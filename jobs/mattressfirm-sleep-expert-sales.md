@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattressfirm](https://scoutify.ai/companies/mattressfirm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Parker, Colorado, United States |
+| Location | Long Beach, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Parker-Colorado/Sleep-Expert---Sales_JR-P0062288) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers/job/Long-Beach-California/Sleep-Expert---Sales_JR-P0062340) |
 
 ## About This Role
 
-This corporate finance position at Mattressfirm was posted on 2026-06-16.
+This corporate finance position at Mattressfirm was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

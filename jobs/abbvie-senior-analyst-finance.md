@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Chicago, Illinois, United States |
+| Location | Barceloneta, Barceloneta, Puerto Rico |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013213346-senior-analyst-finance) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013703389-senior-analyst-finance) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-05-19.
+This corporate finance position at AbbVie was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

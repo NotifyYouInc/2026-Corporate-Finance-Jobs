@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000132416949-head-of-finance-and-accounting-mfd-germany) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000133035164-head-of-finance-and-accounting-mfd-germany) |
 
 ## About This Role
 
-This corporate finance position at Ramboll was posted on 2026-06-16.
+This corporate finance position at Ramboll was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

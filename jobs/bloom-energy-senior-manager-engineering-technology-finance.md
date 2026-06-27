@@ -5,12 +5,12 @@
 | Company | [Bloom Energy](https://scoutify.ai/companies/bloomenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Jose, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Senior-Manager--Engineering---Technology-Finance_JR-22854) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Senior-Manager--Engineering---Technology-Finance_JR-23539) |
 
 ## About This Role
 
-This corporate finance position at Bloom Energy was posted on 2026-05-27.
+This corporate finance position at Bloom Energy was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

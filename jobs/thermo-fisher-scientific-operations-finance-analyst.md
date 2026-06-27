@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Middletown, New Jersey, United States |
+| Location | Basingstoke, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middletown-Virginia-USA/Operations-Finance-Analyst_R-01349399) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Basingstoke-United-Kingdom/Operations-Finance-Analyst_R-01357260) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-04-17.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

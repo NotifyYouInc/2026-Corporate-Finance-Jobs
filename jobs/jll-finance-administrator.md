@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Chon Buri, Chon Buri, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Finance-Administrator_REQ499766-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chon-buri-Thailand/Finance-Administrator_REQ516265) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-04-10.
+This corporate finance position at JLL was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

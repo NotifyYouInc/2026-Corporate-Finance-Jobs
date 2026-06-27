@@ -5,12 +5,12 @@
 | Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8445067002) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8598078002) |
 
 ## About This Role
 
-This corporate finance position at Ethos Life was posted on 2026-03-04.
+This corporate finance position at Ethos Life was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

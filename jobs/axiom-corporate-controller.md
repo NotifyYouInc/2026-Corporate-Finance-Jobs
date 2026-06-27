@@ -5,12 +5,12 @@
 | Company | [Axiom](https://scoutify.ai/companies/axiom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8580957002&gh_jid=8580957002) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8601067002&gh_jid=8601067002) |
 
 ## About This Role
 
-This corporate finance position at Axiom was posted on 2026-06-05.
+This corporate finance position at Axiom was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

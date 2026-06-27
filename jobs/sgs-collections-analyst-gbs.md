@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129860674-collections-analyst-gbs) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000133128745-collections-analyst-gbs) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-06-02.
+This corporate finance position at SGS was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

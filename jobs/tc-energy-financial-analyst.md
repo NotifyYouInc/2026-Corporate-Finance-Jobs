@@ -5,12 +5,12 @@
 | Company | [TC Energy](https://scoutify.ai/companies/tcenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Calgary, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Financial-Analyst_JR-10072) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Financial-Analyst_JR-10379) |
 
 ## About This Role
 
-This corporate finance position at TC Energy was posted on 2026-04-17.
+This corporate finance position at TC Energy was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

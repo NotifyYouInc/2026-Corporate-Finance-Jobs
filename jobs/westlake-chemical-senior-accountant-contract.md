@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Westlake Chemical](https://scoutify.ai/companies/westlake-chemical?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Ontario, CA |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/Senior-Accountant--Contract-_R31361) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://westlake.wd1.myworkdayjobs.com/westlake/job/CA---Woodbridge-ON/Senior-Accountant--Contract-_R32749) |
 
 ## About This Role
 
-This corporate finance position at Westlake Chemical was posted on 2026-02-10.
+This corporate finance position at Westlake Chemical was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

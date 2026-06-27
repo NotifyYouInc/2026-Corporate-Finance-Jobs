@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IL03-01-Chicago-500-W-Monroe-St/Associate--Business-Development_R4037570-2) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IL03-01-Chicago-500-W-Monroe-St/Associate--Business-Development_R4042473-1) |
 
 ## About This Role
 
-This corporate finance position at GE HealthCare was posted on 2026-03-09.
+This corporate finance position at GE HealthCare was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

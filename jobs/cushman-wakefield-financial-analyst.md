@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Madrid, Madrid, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Toronto-Ontario-Canada/Financial-Analyst_R318470) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---ESP---Madrid---Calle-Orense-4/Financial-Analyst_R324633) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-06-15.
+This corporate finance position at Cushman & Wakefield was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

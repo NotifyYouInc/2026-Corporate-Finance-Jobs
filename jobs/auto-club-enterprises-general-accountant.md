@@ -5,12 +5,12 @@
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/General-Accountant_JR202635418) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/General-Accountant_JR202637337) |
 
 ## About This Role
 
-This corporate finance position at Auto Club Enterprises was posted on 2026-03-20.
+This corporate finance position at Auto Club Enterprises was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

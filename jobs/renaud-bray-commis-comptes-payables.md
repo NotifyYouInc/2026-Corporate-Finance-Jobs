@@ -5,12 +5,12 @@
 | Company | [Renaud-Bray](https://scoutify.ai/companies/renaudbray?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000131948920-commis-comptes-payables) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000133072684-commis-comptes-payables) |
 
 ## About This Role
 
-This corporate finance position at Renaud-Bray was posted on 2026-06-12.
+This corporate finance position at Renaud-Bray was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

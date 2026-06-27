@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Temple Terrace, Florida, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Florida-APC-Temple-Terrace-FL-33637/Dealership-Accountant-I_R110305) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/BMW-of-Freehold-Freehold-NJ-07728/Dealership-Accountant-I_R111231) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-06-05.
+This corporate finance position at Lithia Motors was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

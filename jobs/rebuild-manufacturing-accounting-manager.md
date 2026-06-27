@@ -5,12 +5,12 @@
 | Company | [Re:Build Manufacturing](https://scoutify.ai/companies/rebuild-manufacturing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Framingham, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4691859005) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4702648005) |
 
 ## About This Role
 
-This corporate finance position at Re:Build Manufacturing was posted on 2026-05-01.
+This corporate finance position at Re:Build Manufacturing was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

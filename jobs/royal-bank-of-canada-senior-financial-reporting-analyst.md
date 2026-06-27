@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Financial-Reporting-Analyst_R-0000158585-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Financial-Reporting-Analyst_R-0000176105-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-02-05.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

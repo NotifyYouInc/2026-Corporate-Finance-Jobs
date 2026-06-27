@@ -5,12 +5,12 @@
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Dublin/Assistant-Relationship-Manager-100---m-f-d----Ireland_r-18510-2) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Dublin/Assistant-Relationship-Manager-100---m-f-d----Ireland_r-18804-1) |
 
 ## About This Role
 
-This corporate finance position at Julius Baer was posted on 2026-06-09.
+This corporate finance position at Julius Baer was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

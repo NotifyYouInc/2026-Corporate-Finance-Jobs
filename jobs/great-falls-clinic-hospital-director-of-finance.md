@@ -1,16 +1,16 @@
-# Director of Finance at Great Falls Clinic Hospital
+# Director Of Finance at Great Falls Clinic Hospital
 
 | Field | Details |
 |-------|---------|
 | Company | [Great Falls Clinic Hospital](https://scoutify.ai/companies/great-falls-clinic-hospital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Great Falls, Montana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://recruiting.ultipro.com/sur1004srgy/JobBoard/aa616d8f-f2a8-46c2-8f8e-1ca56e162ffd/OpportunityDetail?opportunityId=5244c281-dafd-484d-9b46-039b2dda11f9) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://recruiting.ultipro.com/sur1004srgy/JobBoard/aa616d8f-f2a8-46c2-8f8e-1ca56e162ffd/OpportunityDetail?opportunityId=16828c8a-ea9c-4bcd-8448-c7465527df94) |
 
 ## About This Role
 
-This corporate finance position at Great Falls Clinic Hospital was posted on 2026-06-09.
+This corporate finance position at Great Falls Clinic Hospital was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

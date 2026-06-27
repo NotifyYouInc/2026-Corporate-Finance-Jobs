@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lévis, Quebec, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Associ-ou-associe-en-services-financiers--Clientle-courtage-valeurs-mobilires_R2607521) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Associ-ou-associe-en-services-financiers--Services-Financiers-en-gestion-patrimoine_R2608117) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-06-04.
+This corporate finance position at Desjardins was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

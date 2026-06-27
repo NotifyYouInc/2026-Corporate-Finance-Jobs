@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Minor International PCL](https://scoutify.ai/companies/minorinternationalpcl?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Victoria, La Rivière Anglaise, Seychelles |
+| Location | Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000109346215-cluster-director-of-finance) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000133046891-cluster-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at Minor International PCL was posted on 2026-02-14.
+This corporate finance position at Minor International PCL was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
