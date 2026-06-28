@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452046/finance-manager-amazon-shipping) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428660/finance-manager-amazon-shipping) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-17.
+This corporate finance position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

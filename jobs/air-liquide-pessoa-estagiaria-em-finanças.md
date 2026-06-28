@@ -1,16 +1,16 @@
-# Lead Revenue Audit Clerk at Boyd Gaming
+# PESSOA ESTAGIARIA EM FINANÇAS at Air Liquide
 
 | Field | Details |
 |-------|---------|
-| Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vinton, Virginia, United States |
+| Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Recife, Pernambuco, Brazil |
 | Category | Corporate Finance |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013716866-lead-revenue-audit-clerk) |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Brazil-Recife/PESSOA-ESTAGIARIA-EM-FINANAS_R10094150) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-06-20.
+This corporate finance position at Air Liquide was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

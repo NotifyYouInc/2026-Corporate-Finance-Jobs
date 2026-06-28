@@ -1,16 +1,16 @@
-# Financial Analyst, GFS FP&A at Amazon
+# Senior Financial Analyst, Global Engineering Services - Launch Finance at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427878/financial-analyst-gfs-fp-a) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440961/senior-financial-analyst-global-engineering-services-launch-finance) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-22.
+This corporate finance position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

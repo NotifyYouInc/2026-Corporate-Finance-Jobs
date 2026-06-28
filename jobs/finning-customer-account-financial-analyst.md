@@ -1,16 +1,16 @@
-# Lead Revenue Audit Clerk at Boyd Gaming
+# Customer Account Financial Analyst at Finning
 
 | Field | Details |
 |-------|---------|
-| Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vinton, Virginia, United States |
+| Company | [Finning](https://scoutify.ai/companies/finning?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Edmonton, Alberta, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013716866-lead-revenue-audit-clerk) |
+| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Customer-Account-Financial-Analyst_R-2026-3019) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-06-20.
+This corporate finance position at Finning was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

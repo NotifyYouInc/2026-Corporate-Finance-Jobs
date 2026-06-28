@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Medellín, Antioquia, Colombia |
+| Location | Colorado, US |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447954/financial-analyst-csgo-customer-service-finance) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428265/financial-analyst-csgo-customer-service-finance) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-12.
+This corporate finance position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

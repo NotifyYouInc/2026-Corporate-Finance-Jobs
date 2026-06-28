@@ -1,16 +1,16 @@
-# Lead Revenue Audit Clerk at Boyd Gaming
+# Underwriter I , Specialty Energy Middle Market at AIG
 
 | Field | Details |
 |-------|---------|
-| Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vinton, Virginia, United States |
+| Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013716866-lead-revenue-audit-clerk) |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/Underwriter-I---Specialty-Energy-Middle-Market_JR2602233) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-06-20.
+This corporate finance position at AIG was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

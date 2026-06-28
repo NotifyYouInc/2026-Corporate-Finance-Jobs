@@ -1,16 +1,16 @@
-# Financial Analyst, GFS FP&A at Amazon
+# Financial Data Analyst at CAI
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Miramar, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427878/financial-analyst-gfs-fp-a) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Financial-Analyst_R6473) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-22.
+This corporate finance position at CAI was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

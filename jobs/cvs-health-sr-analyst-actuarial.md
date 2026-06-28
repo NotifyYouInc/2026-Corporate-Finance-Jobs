@@ -1,16 +1,16 @@
-# Lead Revenue Audit Clerk at Boyd Gaming
+# Sr. Analyst, Actuarial at CVS Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vinton, Virginia, United States |
+| Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013716866-lead-revenue-audit-clerk) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/GA---Atlanta/Sr-Analyst--Actuarial_R0942308) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-06-20.
+This corporate finance position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Financial Analyst, GFS FP&A at Amazon
+# Senior Manager, Finance - AI & Automation at Eulerity
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Eulerity](https://scoutify.ai/companies/eulerity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427878/financial-analyst-gfs-fp-a) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/eulerity/jobs/4690784006) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-22.
+This corporate finance position at Eulerity was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

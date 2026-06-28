@@ -1,16 +1,16 @@
-# Lead Revenue Audit Clerk at Boyd Gaming
+# Sr Analyst, Actuarial (ADP) at CVS Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vinton, Virginia, United States |
+| Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Woonsocket, Rhode Island, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013716866-lead-revenue-audit-clerk) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Analyst--Actuarial--ADP-_R0942496) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-06-20.
+This corporate finance position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

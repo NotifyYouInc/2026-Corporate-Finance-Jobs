@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10425400/senior-financial-analyst-aws-regions-finance-public-sector) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441460/senior-financial-analyst-aws-regions-finance-public-sector) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-20.
+This corporate finance position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

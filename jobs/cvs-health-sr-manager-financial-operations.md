@@ -1,4 +1,4 @@
-# Actuarial Analyst at CVS Health
+# Sr. Manager, Financial Operations at CVS Health
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Woonsocket, Rhode Island, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Actuarial-Analyst_R0942324) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Manager--Financial-Operations_R0942438) |
 
 ## About This Role
 

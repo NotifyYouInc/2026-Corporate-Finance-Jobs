@@ -1,16 +1,16 @@
-# Financial Analyst, GFS FP&A at Amazon
+# Finance Manager, Central Finance, NA Customer Fulfillment at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Bellevue, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427878/financial-analyst-gfs-fp-a) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432280/finance-manager-central-finance-na-customer-fulfillment) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-22.
+This corporate finance position at Amazon was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
