@@ -6,7 +6,7 @@
 | Location | Medellín, Antioquia, Colombia |
 | Category | Corporate Finance |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CO---MEDELLIN-II-GLOBAL-BUSINESS-SERVICES-GBS-COMEL/GBS-Intermed-Billing-Associate_R26021383) |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CO---MEDELLIN-II-GLOBAL-BUSINESS-SERVICES-GBS-COMEL/GBS-Intermed-Billing-Associate_R26021386) |
 
 ## About This Role
 

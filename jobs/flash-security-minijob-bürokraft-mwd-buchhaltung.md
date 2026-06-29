@@ -5,12 +5,12 @@
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000132995749-minijob-burokraft-mwd-buchhaltung) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000133264299-minijob-burokraft-mwd-buchhaltung) |
 
 ## About This Role
 
-This corporate finance position at flash-security was posted on 2026-06-19.
+This corporate finance position at flash-security was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

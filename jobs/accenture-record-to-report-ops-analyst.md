@@ -6,7 +6,7 @@
 | Location | Jaipur, Rajasthan, India |
 | Category | Corporate Finance |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Record-to-Report-Ops-Analyst_AIOC-S01651336-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Record-to-Report-Ops-Analyst_AIOC-S01591262-1) |
 
 ## About This Role
 

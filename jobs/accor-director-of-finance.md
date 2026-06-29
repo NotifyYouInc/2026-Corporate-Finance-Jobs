@@ -1,16 +1,16 @@
-# Director OF Finance   at ACCOR
+# Director of Finance at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hurghada, Red Sea, Egypt |
+| Location | Cairns, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000132563119-director-of-finance) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000133255989-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-17.
+This corporate finance position at ACCOR was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

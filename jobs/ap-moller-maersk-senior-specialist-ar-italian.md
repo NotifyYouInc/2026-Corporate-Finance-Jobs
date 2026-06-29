@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Philippines-Pasig-1600/Senior-Specialist--AR---Italian_R183744) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Philippines-Pasig-1600/Senior-Specialist--AR---Italian_R185187) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-06-11.
+This corporate finance position at A.P. Moller - Maersk was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

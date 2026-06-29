@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/Securities---Derivatives-Intermediate-Analyst_26957858) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taipei-Taipei-City-Taiwan/Securities---Derivatives-Intermediate-Analyst_26973653) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-24.
+This corporate finance position at Citigroup was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

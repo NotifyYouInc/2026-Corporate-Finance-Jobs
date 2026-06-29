@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Credit-and-Collections-Analyst_3156611-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Team-Lead--Credit-and-Collections_3156620-1) |
 
 ## About This Role
 
-This corporate finance position at Hewlett Packard (HP) was posted on 2026-06-04.
+This corporate finance position at Hewlett Packard (HP) was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

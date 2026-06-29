@@ -5,12 +5,12 @@
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Malaysia---Petaling-Jaya/FP-A-COE-Analyst---EM_883678-1) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Malaysia---Petaling-Jaya/FP-A-COE-Analyst---EM_886009-1) |
 
 ## About This Role
 
-This corporate finance position at Kimberly-Clark was posted on 2026-02-11.
+This corporate finance position at Kimberly-Clark was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

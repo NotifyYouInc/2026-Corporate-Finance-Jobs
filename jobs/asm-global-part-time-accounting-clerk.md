@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Moosic, Pennsylvania, United States |
+| Location | Bethel, Connecticut, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Moosic-PA/Part-Time-Accounting-Clerk_R100123199-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Bethel-NY/Part-Time-Accounting-Clerk_R100123197) |
 
 ## About This Role
 
-This corporate finance position at ASM Global was posted on 2026-06-12.
+This corporate finance position at ASM Global was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

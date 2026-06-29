@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Queensland](https://scoutify.ai/companies/university-of-queensland?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Australia |
+| Location | Queensland, AU |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://uq.wd3.myworkdayjobs.com/uqcareers/job/St-Lucia-Campus/Finance-Partner_R-63958-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://uq.wd3.myworkdayjobs.com/uqcareers/job/St-Lucia-Campus/Finance-Partner_R-65906-1) |
 
 ## About This Role
 
-This corporate finance position at University of Queensland was posted on 2026-05-06.
+This corporate finance position at University of Queensland was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

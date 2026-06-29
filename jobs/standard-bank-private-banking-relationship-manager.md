@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cape Town, Western Cape, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000133003350-private-banking-relationship-manager) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000133225489-private-banking-relationship-manager) |
 
 ## About This Role
 
-This corporate finance position at Standard Bank was posted on 2026-06-19.
+This corporate finance position at Standard Bank was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

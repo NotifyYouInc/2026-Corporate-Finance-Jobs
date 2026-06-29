@@ -1,16 +1,16 @@
-# Intern Finance at Airasia
+# Intern , Finance at Airasia
 
 | Field | Details |
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Wisma-Capital-A/Intern-Finance_JR0033190) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/KL-Sentral---Redstation/Intern---Finance_JR0034839) |
 
 ## About This Role
 
-This corporate finance position at Airasia was posted on 2026-04-13.
+This corporate finance position at Airasia was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

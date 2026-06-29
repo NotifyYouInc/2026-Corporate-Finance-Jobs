@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Uppsala, Uppsala, Sweden |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Cost-Accountant-III_R-01348144) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Uppsala-Sweden/Cost-Accountant-III_R-01356669) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-04-01.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

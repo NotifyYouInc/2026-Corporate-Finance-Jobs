@@ -5,12 +5,12 @@
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bochum, North Rhine-Westphalia, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000132117324-kauffraukaufmann-fur-buromanagement-schwerpunkt-forderungsmanagement-mwd-in-bochum) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000133263059-kauffraukaufmann-fur-buromanagement-schwerpunkt-forderungsmanagement-mwd-in-bochum) |
 
 ## About This Role
 
-This corporate finance position at flash-security was posted on 2026-06-15.
+This corporate finance position at flash-security was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
