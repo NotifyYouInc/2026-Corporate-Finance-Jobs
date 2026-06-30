@@ -5,12 +5,12 @@
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000133140829-bookkeeper) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000133469004-bookkeeper) |
 
 ## About This Role
 
-This corporate finance position at Jobs for Humanity was posted on 2026-06-19.
+This corporate finance position at Jobs for Humanity was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Hong-Kong-Manulife-Financial-Centre/Assistant-Actuarial-Manager_JR26041258) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Hong-Kong-Manulife-Financial-Centre/Assistant-Actuarial-Manager_JR26061124) |
 
 ## About This Role
 
-This corporate finance position at Manulife was posted on 2026-04-23.
+This corporate finance position at Manulife was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

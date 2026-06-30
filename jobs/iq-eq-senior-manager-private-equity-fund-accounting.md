@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000131530737-senior-manager-private-equity-fund-accounting) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133394165-senior-manager-private-equity-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-06-10.
+This corporate finance position at IQ-EQ was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

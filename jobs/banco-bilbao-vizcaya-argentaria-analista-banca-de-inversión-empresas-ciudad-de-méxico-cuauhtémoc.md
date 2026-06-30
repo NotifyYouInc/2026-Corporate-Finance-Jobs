@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Analista-Banca-de-Inversin-Empresas--Ciudad-de-Mxico--Cuauhtmoc-_JR00099851-2) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Analista-Banca-de-Inversin-Empresas--Ciudad-de-Mxico--Cuauhtmoc-_JR00107182) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-14.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

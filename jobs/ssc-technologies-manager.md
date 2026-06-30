@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Pune-India---Commerzone-Building-7/Manager_R41494) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Maharashtra-Navi-Mumbai/Manager_R44147) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-04-06.
+This corporate finance position at SS&C Technologies was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

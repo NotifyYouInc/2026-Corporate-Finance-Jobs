@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Pune-Maharashtra-India/I2C-DS-Collection---Dispute-Mgmt-Team-Lead_R-078507) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bogot-Distrito-Capital-Colombia/I2C-DS-Collection---Dispute-Mgmt-Team-Lead_R-082295-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-06-07.
+This corporate finance position at Johnson & Johnson was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

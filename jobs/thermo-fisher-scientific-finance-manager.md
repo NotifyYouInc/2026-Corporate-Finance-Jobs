@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Sunnyvale, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Finance-Manager_R-01350828) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sunnyvale-California-USA/Finance-Manager_R-01353883) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-04-28.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

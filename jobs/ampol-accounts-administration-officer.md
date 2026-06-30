@@ -6,7 +6,7 @@
 | Location | Fremantle, Western Australia, Australia |
 | Category | Corporate Finance |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001171126-accounts-administration-officer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001173137-accounts-administration-officer) |
 
 ## About This Role
 

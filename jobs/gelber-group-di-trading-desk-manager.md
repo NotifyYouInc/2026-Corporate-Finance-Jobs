@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gelber Group](https://scoutify.ai/companies/gelbergroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4656678006) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4684319006) |
 
 ## About This Role
 
-This corporate finance position at Gelber Group was posted on 2026-02-22.
+This corporate finance position at Gelber Group was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

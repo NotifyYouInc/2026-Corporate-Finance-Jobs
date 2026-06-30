@@ -5,12 +5,12 @@
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHI---Manila/Auditor--Internal-Controls-Assurance_354190) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Cebu-Philippines/Auditor--Internal-Controls-Assurance_356767) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-04-22.
+This corporate finance position at QBE Insurance was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

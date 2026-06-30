@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ghj](https://scoutify.ai/companies/ghj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Long Beach, California, United States |
+| Location | Covington, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.lever.co/ghj/c51b7270-75fd-41fd-a271-e1212c3926ff) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.lever.co/ghj/d4f9e1ea-6b75-4f21-81a9-03ccf826fd95) |
 
 ## About This Role
 
-This corporate finance position at Ghj was posted on 2026-06-12.
+This corporate finance position at Ghj was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

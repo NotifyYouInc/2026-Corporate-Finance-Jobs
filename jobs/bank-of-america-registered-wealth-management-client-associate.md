@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toms River, New Jersey, United States |
+| Location | Smithtown, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Toms-River/Registered-Wealth-Management-Client-Associate_26020836) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Smithtown/Registered-Wealth-Management-Client-Associate_26021307) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-16.
+This corporate finance position at Bank of America was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

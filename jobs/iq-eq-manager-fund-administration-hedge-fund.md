@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Norwood, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000129237635-manager-fund-administration-hedge-fund) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133470060-manager-fund-administration-hedge-fund) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-05-29.
+This corporate finance position at IQ-EQ was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

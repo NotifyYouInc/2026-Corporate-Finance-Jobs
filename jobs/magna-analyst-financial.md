@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Holland, Michigan, United States |
+| Location | Newaygo, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Holland-Michigan-US/Analyst--Financial_R00231109) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Newaygo-Michigan-US/Analyst--Financial_R00248457) |
 
 ## About This Role
 
-This corporate finance position at Magna was posted on 2026-02-17.
+This corporate finance position at Magna was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

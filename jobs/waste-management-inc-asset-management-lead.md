@@ -5,12 +5,12 @@
 | Company | [Waste Management, Inc.](https://scoutify.ai/companies/wastemanagementinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Auckland, NZ |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WasteManagement8/6000000001140939-asset-management-lead) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WasteManagement8/6000000001172935-asset-management-lead) |
 
 ## About This Role
 
-This corporate finance position at Waste Management, Inc. was posted on 2026-06-09.
+This corporate finance position at Waste Management, Inc. was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

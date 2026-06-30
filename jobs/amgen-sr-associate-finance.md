@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Albany, Indiana, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Ohio---New-Albany/Sr-Associate-Finance_R-247024) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Finance_R-246880) |
 
 ## About This Role
 
-This corporate finance position at Amgen was posted on 2026-06-12.
+This corporate finance position at Amgen was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Florence, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013713896-financial-controller) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013730666-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-06-19.
+This corporate finance position at Boyd Gaming was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

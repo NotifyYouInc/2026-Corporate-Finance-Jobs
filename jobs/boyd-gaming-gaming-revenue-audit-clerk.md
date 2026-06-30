@@ -5,12 +5,12 @@
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Biloxi, Mississippi, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990011875546-gaming-revenue-audit-clerk) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013733946-gaming-revenue-audit-clerk) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-02-26.
+This corporate finance position at Boyd Gaming was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

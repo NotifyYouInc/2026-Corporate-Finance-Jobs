@@ -1,16 +1,16 @@
-# Accounts Receivable Executive at ACCOR
+# Accounts Receivable Executive  at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calangute, Goa, India |
+| Location | Nashik, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000129910719-accounts-receivable-executive) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000133508729-accounts-receivable-executive) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-03.
+This corporate finance position at ACCOR was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

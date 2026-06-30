@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Middleton, England, United Kingdom |
+| Location | Greenwich, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Middleton-Massachusetts-United-States-of-America/Registered-Client-Service-Associate_JR036976-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Greenwich-Connecticut-United-States-of-America/Registered-Client-Service-Associate_JR039309) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-06-17.
+This corporate finance position at Morgan Stanley was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

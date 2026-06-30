@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | Quincy, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kansas-City-Missouri/Fund-Accounting--Officer_R-789188) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Fund-Accounting--Officer_R-792790) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-01.
+This corporate finance position at State Street was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

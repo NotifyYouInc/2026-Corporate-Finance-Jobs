@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Memphis, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/San-Antonio-TX---Regions-Mortgage-San-Antonio-Office/Credit-Products-Commercial-Portfolio-Manager_R101765) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Memphis-TN---6200-Poplar-Avenue/Credit-Products-Commercial-Portfolio-Manager_R103656) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-04-07.
+This corporate finance position at Regions Bank was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

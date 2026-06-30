@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Assistant-Controller_R0120009-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Assistant-Controller_R0120754-1) |
 
 ## About This Role
 
-This corporate finance position at LSEG was posted on 2026-05-26.
+This corporate finance position at LSEG was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

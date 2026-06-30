@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Tampa-FL-USA/Audit-Senior-Associate---Commercial-Services_R-51345) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Nashville-TN-USA/Audit-Senior-Associate---Commercial-Services_R-51475) |
 
 ## About This Role
 
-This corporate finance position at Crowe was posted on 2026-05-28.
+This corporate finance position at Crowe was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

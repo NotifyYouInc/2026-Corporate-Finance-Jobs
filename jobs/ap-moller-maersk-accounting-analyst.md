@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Mexico-Mexico-City-11000/Accounting-Analyst_R182008) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Mexico-Mexico-City-11000/Accounting-Analyst_R185258) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-05-29.
+This corporate finance position at A.P. Moller - Maersk was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

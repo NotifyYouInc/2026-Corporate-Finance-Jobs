@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beneva](https://scoutify.ai/companies/beneva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Québec, Quebec, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Analyste-en-actuariat---Assurance-collective_R16647) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Conseiller-actuariat---Assurance-collective_R16970) |
 
 ## About This Role
 
-This corporate finance position at Beneva was posted on 2026-05-13.
+This corporate finance position at Beneva was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

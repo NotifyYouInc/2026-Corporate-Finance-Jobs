@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cremorne, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000125753005-finance-manager-marketing) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000133473099-finance-manager-marketing) |
 
 ## About This Role
 
-This corporate finance position at SEEK was posted on 2026-05-11.
+This corporate finance position at SEEK was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5165477007?gh_jid=5165477007) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5171086007?gh_jid=5171086007) |
 
 ## About This Role
 
-This corporate finance position at Anduril was posted on 2026-06-15.
+This corporate finance position at Anduril was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

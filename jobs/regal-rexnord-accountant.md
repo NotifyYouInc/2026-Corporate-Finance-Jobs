@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Kitts and Nevis |
+| Location | Tianjin, Tianjin, China |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Sandy-Point-Saint-Kitts-Saint-Kitts-and-Nevis/Accountant_R26_01529) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tianjin--China/Accountant_R26_02962) |
 
 ## About This Role
 
-This corporate finance position at Regal Rexnord was posted on 2026-03-31.
+This corporate finance position at Regal Rexnord was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

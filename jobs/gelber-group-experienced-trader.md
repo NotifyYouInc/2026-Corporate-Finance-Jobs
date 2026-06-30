@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gelber Group](https://scoutify.ai/companies/gelbergroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4683960006) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4684327006) |
 
 ## About This Role
 
-This corporate finance position at Gelber Group was posted on 2026-05-22.
+This corporate finance position at Gelber Group was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

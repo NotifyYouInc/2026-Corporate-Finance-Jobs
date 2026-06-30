@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerity Partners](https://scoutify.ai/companies/ceritypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Norfolk-Office/Principal-Wealth-Advisor---Business-Development_R602) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Wealth-Advisor_R723) |
 
 ## About This Role
 
-This corporate finance position at Cerity Partners was posted on 2026-05-06.
+This corporate finance position at Cerity Partners was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

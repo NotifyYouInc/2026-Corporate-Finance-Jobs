@@ -1,16 +1,16 @@
-# Experienced Brazil B3 Futures Trader at Gelber Group
+# Experienced Brazil B3 Futures Trader  at Gelber Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Gelber Group](https://scoutify.ai/companies/gelbergroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4656682006) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gelbergroup/jobs/4684321006) |
 
 ## About This Role
 
-This corporate finance position at Gelber Group was posted on 2026-03-18.
+This corporate finance position at Gelber Group was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

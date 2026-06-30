@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Perth, Western Australia, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Melbourne-Victoria/Manager--Audit_JR103061-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Perth-Western-Australia/Manager--Audit_JR103354) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-04-20.
+This corporate finance position at Bdo was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

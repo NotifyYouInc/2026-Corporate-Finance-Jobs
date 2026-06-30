@@ -5,12 +5,12 @@
 | Company | [Techo-Bloc](https://scoutify.ai/companies/techobloc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saint-Hubert, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000126759924-commis-aux-comptes-recevables) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000133347204-commis-aux-comptes-recevables) |
 
 ## About This Role
 
-This corporate finance position at Techo-Bloc was posted on 2026-05-15.
+This corporate finance position at Techo-Bloc was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

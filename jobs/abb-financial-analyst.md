@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Financial-Analyst_JR00013585) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Singapore-Central-Singapore-Singapore/Financial-Analyst_JR00038588-1) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-06-12.
+This corporate finance position at ABB was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brentwood, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Brentwood-TN/Team-Operations-Associate_R-102369) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Brentwood-TN/Team-Operations-Associate_R-102577) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-04-21.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

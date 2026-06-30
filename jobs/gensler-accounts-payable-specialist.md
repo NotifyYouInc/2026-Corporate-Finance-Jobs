@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/San-Jose-Costa-Rica/Accounts-Payable-Specialist_R-17301) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Bangalore-India/Accounts-Payable-Specialist_R-17919) |
 
 ## About This Role
 
-This corporate finance position at Gensler was posted on 2026-03-25.
+This corporate finance position at Gensler was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/PKG-PORT-KLANG-BR/Wealth-Executive_JR0000025236) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/MLK-MELAKA-1-BR/Wealth-Executive_JR0000025243) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-06-22.
+This corporate finance position at Hong Leong Bank was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

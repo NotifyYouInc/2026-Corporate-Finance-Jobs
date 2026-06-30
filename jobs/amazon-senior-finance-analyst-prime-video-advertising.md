@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444211/senior-finance-analyst-prime-video-advertising) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456137/senior-finance-analyst-prime-video-advertising) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-09.
+This corporate finance position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

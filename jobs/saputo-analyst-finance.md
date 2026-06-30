@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Saputo](https://scoutify.ai/companies/saputo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Weybridge, England, United Kingdom |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Weybridge-Surrey/Analyst--Finance_JR62862) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Montral-QC/Analyst--Finance_JR65006) |
 
 ## About This Role
 
-This corporate finance position at Saputo was posted on 2026-03-26.
+This corporate finance position at Saputo was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

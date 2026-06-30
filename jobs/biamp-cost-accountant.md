@@ -5,12 +5,12 @@
 | Company | [Biamp](https://scoutify.ai/companies/biamp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Beaverton, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://biamp.wd12.myworkdayjobs.com/biamp/job/Beaverton-OR/Cost-Accountant_JR100365) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://biamp.wd12.myworkdayjobs.com/biamp/job/Beaverton-OR/Cost-Accountant_JR100394) |
 
 ## About This Role
 
-This corporate finance position at Biamp was posted on 2026-05-15.
+This corporate finance position at Biamp was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

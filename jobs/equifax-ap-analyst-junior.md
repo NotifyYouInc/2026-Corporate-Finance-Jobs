@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/AP-Analyst-Junior_J00176466-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/AP-Analyst-Junior_J00177742) |
 
 ## About This Role
 
-This corporate finance position at Equifax was posted on 2026-05-01.
+This corporate finance position at Equifax was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
