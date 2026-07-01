@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Tax-Intermediate-Analyst_26972432) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Tax-Intermediate-Analyst_26970777) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-21.
+This corporate finance position at Citigroup was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

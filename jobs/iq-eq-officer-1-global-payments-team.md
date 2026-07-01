@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133000613-officer-1-global-payments-team) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133855299-officer-1-global-payments-team) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-06-19.
+This corporate finance position at IQ-EQ was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

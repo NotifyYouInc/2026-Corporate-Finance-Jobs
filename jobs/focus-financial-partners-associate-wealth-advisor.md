@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/6092010004) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/6099991004) |
 
 ## About This Role
 
-This corporate finance position at Focus Financial Partners was posted on 2026-06-16.
+This corporate finance position at Focus Financial Partners was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

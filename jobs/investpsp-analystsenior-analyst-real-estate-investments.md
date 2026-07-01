@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Investpsp](https://scoutify.ai/companies/investpsp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Analyst-Senior-Analyst--Real-Estate-Investments_R4752) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/London/Analyst-Senior-Analyst--Real-Estate-Investments_R4810) |
 
 ## About This Role
 
-This corporate finance position at Investpsp was posted on 2026-05-22.
+This corporate finance position at Investpsp was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

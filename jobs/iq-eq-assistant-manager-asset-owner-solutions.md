@@ -1,16 +1,16 @@
-# Assistant Manager - Asset Owner Solutions at IQ-EQ
+# Assistant Manager, Asset Owner Solutions at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000111766616-assistant-manager-asset-owner-solutions) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133805059-assistant-manager-asset-owner-solutions) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-02-27.
+This corporate finance position at IQ-EQ was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

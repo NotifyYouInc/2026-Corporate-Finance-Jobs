@@ -5,12 +5,12 @@
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Thousand Oaks, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Thousand-Oaks-CA-TDY/Accountant_REQ34224-2) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Thousand-Oaks-CA-TDY/Accountant_REQ35009-1) |
 
 ## About This Role
 
-This corporate finance position at Teledyne was posted on 2026-04-13.
+This corporate finance position at Teledyne was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

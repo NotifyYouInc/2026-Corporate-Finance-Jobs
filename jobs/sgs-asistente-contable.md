@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000117012527-asistente-contable) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000133688689-asistente-contable) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-03-26.
+This corporate finance position at SGS was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

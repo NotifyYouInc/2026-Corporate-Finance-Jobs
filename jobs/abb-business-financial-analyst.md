@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mebane, North Carolina, United States |
+| Location | Athens, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Business-Financial-Analyst_JR00031532) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Athens-260-Dennis-St/Business-Financial-Analyst_JR00039135) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-05-22.
+This corporate finance position at ABB was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

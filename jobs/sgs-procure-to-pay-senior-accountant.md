@@ -1,16 +1,16 @@
-# Procure to Pay Senior Accountant at SGS
+# Procure To Pay Senior Accountant at SGS
 
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000132987070-procure-to-pay-senior-accountant) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000133866389-procure-to-pay-senior-accountant) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-06-19.
+This corporate finance position at SGS was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

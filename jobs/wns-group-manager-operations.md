@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000127127050-group-manager-operations) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133856034-group-manager-operations) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-05-19.
+This corporate finance position at WNS was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

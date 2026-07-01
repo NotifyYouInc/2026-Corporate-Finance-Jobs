@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/AUSTIN-TX/Trust-Officer---Fiduciary-Specialist_R-543961) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/AUSTIN-TX/Trust-Officer---Fiduciary-Specialist_R-554453) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-11.
+This corporate finance position at Wells Fargo was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

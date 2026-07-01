@@ -5,12 +5,12 @@
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Hong-Kong-City-Area/SVP--Senior-Client-Advisor--Private-Banking_JR86974-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Hong-Kong-City-Area/SVP--Senior-Client-Advisor--Private-Banking_JR89899-1) |
 
 ## About This Role
 
-This corporate finance position at UOB Group was posted on 2026-06-18.
+This corporate finance position at UOB Group was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

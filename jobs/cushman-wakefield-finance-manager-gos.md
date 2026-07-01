@@ -1,16 +1,16 @@
-# Finance Manager (GOS) at Cushman & Wakefield
+# Finance Manager - GOS at Cushman & Wakefield
 
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Missouri, US |
+| Location | Redmond, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Finance-Manager--GOS-_R310897) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---WA---Redmond---1-Microsoft-Way/Finance-Manager---GOS_R324008-1) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-03-25.
+This corporate finance position at Cushman & Wakefield was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Tokyo, JP |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Minato-ku-Tokyo/XMLNAME--AIG-Sonpo--_JR2600931-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Minato-ku-Tokyo/XMLNAME--AIG-Sonpo--_JR2602696-1) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-03-02.
+This corporate finance position at AIG was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

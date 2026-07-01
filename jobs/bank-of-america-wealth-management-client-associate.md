@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pepper Pike, Ohio, United States |
+| Location | Northbrook, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pepper-Pike/Wealth-Management-Client-Associate_26021314) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Northbrook/Wealth-Management-Client-Associate_26021493) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-22.
+This corporate finance position at Bank of America was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

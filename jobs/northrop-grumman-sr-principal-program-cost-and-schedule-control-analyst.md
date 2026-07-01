@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Redondo Beach, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Sr-Principal-Program-Cost-and-Schedule-Control-Analyst_R10229607) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Sr-Principal-Program-Cost-and-Schedule-Control-Analyst_R10237395) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-04-15.
+This corporate finance position at Northrop Grumman was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

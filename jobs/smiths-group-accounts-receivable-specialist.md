@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000129898747-accounts-receivable-specialist) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000133717438-accounts-receivable-specialist) |
 
 ## About This Role
 
-This corporate finance position at Smiths Group was posted on 2026-06-03.
+This corporate finance position at Smiths Group was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

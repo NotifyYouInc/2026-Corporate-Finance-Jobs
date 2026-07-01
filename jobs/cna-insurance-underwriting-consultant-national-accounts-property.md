@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Westerville, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Radnor-PA-USA/Underwriting-Consultant--National-Accounts-Property_R-7260) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Westerville-OH-USA/Underwriting-Consultant--National-Accounts-Property_R-7686) |
 
 ## About This Role
 
-This corporate finance position at CNA Insurance was posted on 2026-04-06.
+This corporate finance position at CNA Insurance was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

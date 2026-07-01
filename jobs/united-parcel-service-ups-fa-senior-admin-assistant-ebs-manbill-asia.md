@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PH---ALABANG-GLOBAL-BUSINESS-SERVICES---GBS-PHMNT/F-A-Senior-Admin-Assistant---EBS-Manbill--Asia-_R26018557) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PH---ALABANG-GLOBAL-BUSINESS-SERVICES---GBS-PHMNT/F-A-Senior-Admin-Assistant---EBS-Manbill--Asia-_R26021718) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-06-02.
+This corporate finance position at United Parcel Service (UPS) was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

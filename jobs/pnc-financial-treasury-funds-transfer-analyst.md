@@ -1,16 +1,16 @@
-# Treasury Funds Transfer Analyst at PNC Financial
+# Treasury / Funds Transfer Analyst at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Texas, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Philadelphia-19103/Treasury-Funds-Transfer-Analyst_R212627) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-TX-TXH01/Treas-Funds-Transf-Analyst_R225016-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-12.
+This corporate finance position at PNC Financial was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

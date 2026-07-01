@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kampala, Central Region, Uganda |
+| Location | Port Douglas, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26062470) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26076887) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-05-21.
+This corporate finance position at Marriott International was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

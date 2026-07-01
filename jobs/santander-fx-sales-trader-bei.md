@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hermosillo, Sonora, Mexico |
+| Location | Chihuahua, Chihuahua, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Hermosillo/FX-Sales-Trader-BEI_Req1546629) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Chihuahua/FX-Sales-Trader-BEI_Req1588952) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-02-20.
+This corporate finance position at Santander was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

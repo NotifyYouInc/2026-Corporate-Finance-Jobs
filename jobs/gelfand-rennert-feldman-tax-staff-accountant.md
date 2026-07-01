@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gelfand, Rennert & Feldman](https://scoutify.ai/companies/gelfandrennertfeldman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | White Plains, New York, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gelfandrennertfeldman/jobs/6099009004) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gelfandrennertfeldman/jobs/6099781004) |
 
 ## About This Role
 
-This corporate finance position at Gelfand, Rennert & Feldman was posted on 2026-06-22.
+This corporate finance position at Gelfand, Rennert & Feldman was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

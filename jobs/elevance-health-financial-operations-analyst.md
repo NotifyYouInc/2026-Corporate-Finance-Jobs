@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Financial-Operations-Analyst_JR193679) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-MASON-4361-IRWIN-SIMPSON-RD/Financial-Operations-Analyst_JR194821) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-06-10.
+This corporate finance position at Elevance Health was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

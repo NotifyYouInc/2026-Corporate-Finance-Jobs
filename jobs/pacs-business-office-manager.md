@@ -5,12 +5,12 @@
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Vasona-Creek-Healthcare-Center/Business-Office-Manager_JR171017-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Winding-Trails-Post-Acute/Business-Office-Manager_JR173379) |
 
 ## About This Role
 
-This corporate finance position at Pacs was posted on 2026-05-28.
+This corporate finance position at Pacs was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

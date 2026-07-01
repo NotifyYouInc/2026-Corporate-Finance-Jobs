@@ -5,12 +5,12 @@
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager---Wholesale-Credit--Credit-Evaluation-_JR0000023935) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager---Wholesale-Credit--Credit-Evaluation-_JR0000025262) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-05-25.
+This corporate finance position at Hong Leong Bank was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

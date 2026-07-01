@@ -5,12 +5,12 @@
 | Company | [Limetax](https://scoutify.ai/companies/limetax?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/limetax/2dcfb8e8-92d3-4c06-979b-63164f71b42d) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/limetax/5f2e2f35-76f5-48da-98da-bfbd72344c0f) |
 
 ## About This Role
 
-This corporate finance position at Limetax was posted on 2026-05-06.
+This corporate finance position at Limetax was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

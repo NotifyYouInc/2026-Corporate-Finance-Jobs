@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mascot, New South Wales, Australia |
+| Location | Fortitude Valley, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Fortitude-Valley/Senior-Financial-Accountant_R10222308) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Fortitude-Valley/Senior-Financial-Accountant_R10237454) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-03-03.
+This corporate finance position at Northrop Grumman was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

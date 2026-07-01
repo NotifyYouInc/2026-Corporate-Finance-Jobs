@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayne Farms](https://scoutify.ai/companies/wayne-farms?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Moultrie, Georgia, United States |
+| Location | Decatur, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://waynefarms.wd1.myworkdayjobs.com/waynefarms/job/Georgia---Moultrie-Plant/Complex-Admin-Support-Clerk_2026-62611) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://waynefarms.wd1.myworkdayjobs.com/waynefarms/job/Alabama---Decatur-Prepared-Foods-Plant/Complex-Admin-Support-Clerk_2026-64732) |
 
 ## About This Role
 
-This corporate finance position at Wayne Farms was posted on 2026-05-01.
+This corporate finance position at Wayne Farms was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

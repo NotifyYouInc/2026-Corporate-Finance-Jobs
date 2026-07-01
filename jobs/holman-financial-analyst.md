@@ -5,12 +5,12 @@
 | Company | [Holman](https://scoutify.ai/companies/holmanautogroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mount Laurel, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Mount-Laurel-NJ-US/Financial-Analyst_R0053966) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Mount-Laurel-NJ-US/Financial-Analyst_R0055610-1) |
 
 ## About This Role
 
-This corporate finance position at Holman was posted on 2026-03-06.
+This corporate finance position at Holman was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

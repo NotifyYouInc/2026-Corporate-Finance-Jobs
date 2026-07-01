@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eversource Energy](https://scoutify.ai/companies/eversource-energy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Connecticut, US |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/Associate-Analyst--Revenue-Requirements_R-029943) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/Associate-Analyst--Revenue-Requirements_R-031025) |
 
 ## About This Role
 
-This corporate finance position at Eversource Energy was posted on 2026-03-20.
+This corporate finance position at Eversource Energy was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

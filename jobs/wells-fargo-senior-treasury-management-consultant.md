@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SALT-LAKE-CITY-UT/Senior-Treasury-Management-Consultant_R-550706-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MCLEAN-VA/Senior-Treasury-Management-Consultant_R-547779) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-08.
+This corporate finance position at Wells Fargo was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

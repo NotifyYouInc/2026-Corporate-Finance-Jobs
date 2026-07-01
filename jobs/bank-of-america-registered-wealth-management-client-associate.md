@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Smithtown, New York, United States |
+| Location | Mount Pleasant, South Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Smithtown/Registered-Wealth-Management-Client-Associate_26021307) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Mount-Pleasant/Registered-Wealth-Management-Client-Associate_26021453-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-22.
+This corporate finance position at Bank of America was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

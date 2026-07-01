@@ -5,12 +5,12 @@
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Analyst--Studios-Billing_R000103878) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Analyst--Studios-Billing_R000092748) |
 
 ## About This Role
 
-This corporate finance position at Warner Bros Discovery was posted on 2026-03-18.
+This corporate finance position at Warner Bros Discovery was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

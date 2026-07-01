@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [AFL](https://scoutify.ai/companies/afl?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Company | [AFL](https://scoutify.ai/companies/recruiting-ultipro-com-oj3650?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Surrey, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=ba2d64e4-5c69-40be-a3a1-4a524e78d767) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://recruiting.ultipro.com/afl1002/JobBoard/5a5e4ec3-facb-4728-9c2e-38850493860b/OpportunityDetail?opportunityId=78792446-140e-479a-82ed-a05e434ef942) |
 
 ## About This Role
 
-This corporate finance position at AFL was posted on 2026-06-01.
+This corporate finance position at AFL was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

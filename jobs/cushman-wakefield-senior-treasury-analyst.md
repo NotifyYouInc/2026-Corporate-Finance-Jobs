@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Senior-Treasury-Analyst_R305918) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Senior-Treasury-Analyst_R325041) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-04-27.
+This corporate finance position at Cushman & Wakefield was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

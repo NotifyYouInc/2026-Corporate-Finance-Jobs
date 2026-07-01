@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kfar Saba, Central District, Israel |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000130145802-accounts-payable-and-indirect-tax-professional) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000133634977-accounts-payable-and-indirect-tax-professional) |
 
 ## About This Role
 
-This corporate finance position at SanDisk was posted on 2026-06-04.
+This corporate finance position at SanDisk was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Brunswick, New Jersey, United States |
+| Location | Suzhou, Jiangsu, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Finance-Analyst_R-072606) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Suzhou-Jiangsu-China/Finance-Analyst_R-078872) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-05-19.
+This corporate finance position at Johnson & Johnson was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

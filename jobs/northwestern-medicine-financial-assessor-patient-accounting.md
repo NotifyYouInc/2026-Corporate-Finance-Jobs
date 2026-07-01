@@ -1,16 +1,16 @@
-# Financial Assessor Patient Accounting  at Northwestern Medicine
+# Financial Assessor Patient Accounting   at Northwestern Medicine
 
 | Field | Details |
 |-------|---------|
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Warrenville, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000126820809-financial-assessor-patient-accounting) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000133690689-financial-assessor-patient-accounting) |
 
 ## About This Role
 
-This corporate finance position at Northwestern Medicine was posted on 2026-05-16.
+This corporate finance position at Northwestern Medicine was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

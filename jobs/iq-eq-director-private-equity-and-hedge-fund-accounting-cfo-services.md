@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000127750129-director-private-equity-and-hedge-fund-accounting-cfo-services) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133685260-director-private-equity-and-hedge-fund-accounting-cfo-services) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-05-21.
+This corporate finance position at IQ-EQ was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

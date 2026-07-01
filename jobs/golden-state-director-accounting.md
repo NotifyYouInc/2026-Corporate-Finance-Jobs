@@ -5,12 +5,12 @@
 | Company | [Golden State](https://scoutify.ai/companies/golden-state?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/goldenstate/jobs/7902015) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/goldenstate/jobs/8025086) |
 
 ## About This Role
 
-This corporate finance position at Golden State was posted on 2026-05-06.
+This corporate finance position at Golden State was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

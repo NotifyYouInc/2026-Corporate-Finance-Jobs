@@ -1,16 +1,16 @@
-#  Manager – Management Company Accounting (Private Equity Funds) at IQ-EQ
+# Manager – Management Company Accounting (Private Equity Funds) at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000132738950-manager-management-company-accounting-private-equity-funds) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133690629-manager-management-company-accounting-private-equity-funds) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-06-18.
+This corporate finance position at IQ-EQ was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

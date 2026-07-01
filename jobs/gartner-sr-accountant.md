@@ -1,16 +1,16 @@
-# Sr Accountant at Gartner
+# Sr. Accountant at Gartner
 
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Haryana, IN |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Sr-Accountant_108195) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Sr-Accountant_111562) |
 
 ## About This Role
 
-This corporate finance position at Gartner was posted on 2026-02-27.
+This corporate finance position at Gartner was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

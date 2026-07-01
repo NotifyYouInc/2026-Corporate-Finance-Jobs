@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-World-Plaza/FM-Securities-Settlements---Senior-Analyst_REQ-10114379-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-World-Plaza/FM-Securities-Settlements---Senior-Analyst_REQ-10116999-1) |
 
 ## About This Role
 
-This corporate finance position at ING was posted on 2026-05-11.
+This corporate finance position at ING was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
