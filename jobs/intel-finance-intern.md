@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Finance-Intern_JR0280345) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0285186) |
 
 ## About This Role
 
-This corporate finance position at Intel was posted on 2026-02-17.
+This corporate finance position at Intel was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Trucordia](https://scoutify.ai/companies/trucordia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lindon, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trucordia1/3743990012845646-accounting-clerk) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trucordia1/3743990013780296-accounting-clerk) |
 
 ## About This Role
 
-This corporate finance position at Trucordia was posted on 2026-04-27.
+This corporate finance position at Trucordia was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

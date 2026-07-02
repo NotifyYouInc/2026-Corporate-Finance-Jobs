@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Spclst--Shared-Svcs-Accounting_R398356) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/MYS---Kuala-Lumpur---Kuala-Lumpur/Spclst--Shared-Svcs-Accounting_R403040-1) |
 
 ## About This Role
 
-This corporate finance position at Merck was posted on 2026-05-14.
+This corporate finance position at Merck was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

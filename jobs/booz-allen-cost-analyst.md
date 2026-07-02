@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cost-Analyst_R0241885) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Cost-Analyst_R0242977) |
 
 ## About This Role
 
-This corporate finance position at Booz Allen was posted on 2026-06-10.
+This corporate finance position at Booz Allen was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

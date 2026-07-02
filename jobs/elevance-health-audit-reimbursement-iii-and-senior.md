@@ -5,12 +5,12 @@
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Audit---Reimbursement-III-and-Senior_JR192528) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Audit---Reimbursement-III-and-Senior_JR197941) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-05-08.
+This corporate finance position at Elevance Health was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

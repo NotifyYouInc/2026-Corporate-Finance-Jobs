@@ -1,16 +1,16 @@
-# Patient Account Representative  at U.S. Physical Therapy
+# Patient Account Representative at U.S. Physical Therapy
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Physical Therapy](https://scoutify.ai/companies/usphysicaltherapy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Franklin, Tennessee, United States |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990013238716-patient-account-representative) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990013774926-patient-account-representative) |
 
 ## About This Role
 
-This corporate finance position at U.S. Physical Therapy was posted on 2026-05-20.
+This corporate finance position at U.S. Physical Therapy was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

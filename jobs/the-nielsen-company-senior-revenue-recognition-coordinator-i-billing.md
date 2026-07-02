@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013759276-senior-revenue-recognition-coordinator-i-billing) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013781886-senior-revenue-recognition-coordinator-i-billing) |
 
 ## About This Role
 
-This corporate finance position at The Nielsen Company was posted on 2026-06-24.
+This corporate finance position at The Nielsen Company was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Tax Accountant at Crane Co.
+# Sr. Tax Accountant at Crane Co.
 
 | Field | Details |
 |-------|---------|
 | Company | [Crane Co.](https://scoutify.ai/companies/cranecompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Stamford, Connecticut, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Stamford-Connecticut/Sr-Tax-Accountant_JR101463) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Stamford-Connecticut/Sr-Tax-Accountant_JR101997-1) |
 
 ## About This Role
 
-This corporate finance position at Crane Co. was posted on 2026-04-13.
+This corporate finance position at Crane Co. was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Mexico-City/Lead-Financial-Analyst_R-112565) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/United-States-Virtual/Lead-Financial-Analyst_R-114366-1) |
 
 ## About This Role
 
-This corporate finance position at Assurant was posted on 2026-02-27.
+This corporate finance position at Assurant was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

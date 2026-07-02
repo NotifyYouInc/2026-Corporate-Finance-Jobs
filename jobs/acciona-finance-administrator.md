@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Adelaide, South Australia, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Sydney/Finance-Administrator_20095864) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Adelaide/Finance-Administrator_20098425) |
 
 ## About This Role
 
-This corporate finance position at Acciona was posted on 2026-04-24.
+This corporate finance position at Acciona was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hilton Head Island, South Carolina, United States |
+| Location | Burbank, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Hilton-Head-Island-SC-USA/Sr-Financial-Analyst_10142525) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Sr-Financial-Analyst_10153588) |
 
 ## About This Role
 
-This corporate finance position at Disney was posted on 2026-02-13.
+This corporate finance position at Disney was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

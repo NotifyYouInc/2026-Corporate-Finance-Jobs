@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Atlanta-GA-USA/Underwriting-Consultant--Technology-P-C-_R-7636) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Walnut-Creek-CA-USA/Underwriting-Consultant--Technology-P-C-_R-7696) |
 
 ## About This Role
 
-This corporate finance position at CNA Insurance was posted on 2026-06-12.
+This corporate finance position at CNA Insurance was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

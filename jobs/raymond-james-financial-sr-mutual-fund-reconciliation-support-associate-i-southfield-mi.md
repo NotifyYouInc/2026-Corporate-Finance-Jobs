@@ -5,12 +5,12 @@
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Southfield, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Southfield-Michigan---United-States/Sr-Mutual-Fund-Reconciliation-Support-Associate-I-Southfield--MI_R-0011218) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Southfield-Michigan---United-States/Sr-Mutual-Fund-Reconciliation-Support-Associate-I-Southfield--MI_R-0011740) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-05-18.
+This corporate finance position at Raymond James Financial was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

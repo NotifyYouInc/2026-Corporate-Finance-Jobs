@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133504679-finance-administrator) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000134177508-finance-administrator) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-06-23.
+This corporate finance position at IQ-EQ was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

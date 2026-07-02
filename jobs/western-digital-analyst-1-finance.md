@@ -6,7 +6,7 @@
 | Location | Kuching, Sarawak, Malaysia |
 | Category | Corporate Finance |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000133857639-analyst-1-finance) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000133972529-analyst-1-finance) |
 
 ## About This Role
 

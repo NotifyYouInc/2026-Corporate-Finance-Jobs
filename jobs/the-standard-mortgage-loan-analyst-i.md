@@ -5,12 +5,12 @@
 | Company | [The Standard](https://scoutify.ai/companies/standard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Portland, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Mortgage-Loan-Analyst-I_REQ006472) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Mortgage-Loan-Analyst-I_REQ006716) |
 
 ## About This Role
 
-This corporate finance position at The Standard was posted on 2026-03-31.
+This corporate finance position at The Standard was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

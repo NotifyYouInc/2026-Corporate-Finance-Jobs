@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Ocala, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/San-Antonio-TX-Job-Posting-Location/Land-Analyst_R26_0000002755-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Ocala-FL-Job-Posting-Location/Land-Analyst_R26_0000002814) |
 
 ## About This Role
 
-This corporate finance position at Lennar Corporation was posted on 2026-06-23.
+This corporate finance position at Lennar Corporation was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

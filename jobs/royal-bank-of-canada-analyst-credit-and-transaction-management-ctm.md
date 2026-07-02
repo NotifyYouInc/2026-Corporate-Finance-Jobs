@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Putrajaya, Putrajaya, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Analyst---Credit-and-Transaction-Management--CTM-_R-0000163776-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Analyst---Credit-and-Transaction-Management--CTM-_R-0000178378) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-16.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

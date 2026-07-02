@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Credit---Collections-Analyst_JR336870) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Credit---Collections-Analyst_JR347936) |
 
 ## About This Role
 
-This corporate finance position at Salesforce was posted on 2026-04-14.
+This corporate finance position at Salesforce was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

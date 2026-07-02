@@ -1,16 +1,16 @@
-#  Accounts Payable Specialist (Contract) at Veracyte
+# Accounts Payable Specialist (Contract) at Veracyte
 
 | Field | Details |
 |-------|---------|
 | Company | [Veracyte](https://scoutify.ai/companies/veracyte?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | South San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://veracyte.com/job-detail?gh_jid=5105549007) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://veracyte.com/job-detail?gh_jid=5173516007) |
 
 ## About This Role
 
-This corporate finance position at Veracyte was posted on 2026-04-20.
+This corporate finance position at Veracyte was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

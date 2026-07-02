@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/Business-Unit-Controller--BUC--Complex-Products-AVP_10075891-WD) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/Business-Unit-Controller--BUC--Complex-Products-AVP_10076804-WD) |
 
 ## About This Role
 
-This corporate finance position at Mitsubishi UFG was posted on 2026-04-17.
+This corporate finance position at Mitsubishi UFG was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

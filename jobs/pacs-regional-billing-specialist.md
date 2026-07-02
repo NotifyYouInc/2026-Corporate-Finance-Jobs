@@ -5,12 +5,12 @@
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/PACS/Regional-Billing-Specialist_JR167807) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/PACS/Regional-Billing-Specialist_JR173490) |
 
 ## About This Role
 
-This corporate finance position at Pacs was posted on 2026-04-21.
+This corporate finance position at Pacs was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

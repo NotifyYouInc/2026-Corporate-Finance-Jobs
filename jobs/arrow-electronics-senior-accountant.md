@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/KR-Seoul-Korea-Centerpoint-Seocho/Senior-Accountant_R243165) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Senior-Accountant_R244751) |
 
 ## About This Role
 
-This corporate finance position at Arrow Electronics was posted on 2026-04-24.
+This corporate finance position at Arrow Electronics was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

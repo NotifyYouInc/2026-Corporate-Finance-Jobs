@@ -5,12 +5,12 @@
 | Company | [Covetrus](https://scoutify.ai/companies/covetrus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://covetrus.wd5.myworkdayjobs.com/covetruscareers/job/Brisbane-Queensland-AU/Accounts-Payable-Officer_R-14209) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://covetrus.wd5.myworkdayjobs.com/covetruscareers/job/Brisbane-Queensland-AU/Accounts-Payable-Officer_R-14324) |
 
 ## About This Role
 
-This corporate finance position at Covetrus was posted on 2026-06-02.
+This corporate finance position at Covetrus was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DLA Piper](https://scoutify.ai/companies/dla-piper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Palo Alto, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/Reston-VA/Practice-Group-Analyst_R2026-2096) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/Palo-Alto-CA/Practice-Group-Analyst_R2026-2645) |
 
 ## About This Role
 
-This corporate finance position at DLA Piper was posted on 2026-02-25.
+This corporate finance position at DLA Piper was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

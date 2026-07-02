@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ghj](https://scoutify.ai/companies/ghj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Carson, California, United States |
+| Location | West Hollywood, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.lever.co/ghj/2b126c70-adab-4e6e-889f-e42d5317ea33) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.lever.co/ghj/5b94856c-cd48-4465-be1d-3796e145a65c) |
 
 ## About This Role
 
-This corporate finance position at Ghj was posted on 2026-06-09.
+This corporate finance position at Ghj was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

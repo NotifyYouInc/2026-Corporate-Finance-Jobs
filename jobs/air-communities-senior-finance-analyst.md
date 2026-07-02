@@ -5,12 +5,12 @@
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000129868159-senior-finance-analyst) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000134030080-senior-finance-analyst) |
 
 ## About This Role
 
-This corporate finance position at AIR Communities was posted on 2026-06-02.
+This corporate finance position at AIR Communities was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

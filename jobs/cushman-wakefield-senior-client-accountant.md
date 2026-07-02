@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saint Louis, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Senior-Client-Accountant_R318000-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Senior-Client-Accountant_R325865-1) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-04-29.
+This corporate finance position at Cushman & Wakefield was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

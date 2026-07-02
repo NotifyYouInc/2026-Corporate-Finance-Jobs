@@ -5,12 +5,12 @@
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Querétaro, Chiapas, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MEX---Queretaro-Business-Services/OCR-Entry_JR265612) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MEX---Queretaro-Business-Services/OCR-Entry_JR266766) |
 
 ## About This Role
 
-This corporate finance position at PPG Industries was posted on 2026-04-24.
+This corporate finance position at PPG Industries was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

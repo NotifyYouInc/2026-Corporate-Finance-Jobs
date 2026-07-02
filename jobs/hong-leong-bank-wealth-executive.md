@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Location | Ipoh, Perak, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/MTJ-Jln-Song-Ban-Keng-BMertaj/Wealth-Executive_JR0000025261) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/JIP-JALAN-IPOH-BR/Wealth-Executive_JR0000025281) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-06-24.
+This corporate finance position at Hong Leong Bank was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

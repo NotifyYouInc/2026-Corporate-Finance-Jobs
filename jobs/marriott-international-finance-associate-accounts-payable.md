@@ -1,16 +1,16 @@
-# Finance Associate - Accounts Payable at Marriott International
+# Finance Associate- Accounts Payable at Marriott International
 
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ahmedabad, Gujarat, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26058463) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26077715) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-05-13.
+This corporate finance position at Marriott International was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

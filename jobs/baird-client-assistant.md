@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Wright, Kentucky, United States |
+| Location | Anchorage, Alaska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Fort-Wright/Client-Assistant_R2026673-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/AK-Anchorage/Client-Assistant_R2026703-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-06-12.
+This corporate finance position at Baird was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
