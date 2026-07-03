@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000131580288-senior-accountant-sec-reporting-technical-accounting) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000134405850-senior-accountant-sec-reporting-technical-accounting) |
 
 ## About This Role
 
-This corporate finance position at Western Digital was posted on 2026-06-11.
+This corporate finance position at Western Digital was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Colombia-Bogota-111111/FinOps-Associate_R176014-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Indonesia-Jakarta-12920/FinOps-Associate_R185906) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-03-25.
+This corporate finance position at A.P. Moller - Maersk was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

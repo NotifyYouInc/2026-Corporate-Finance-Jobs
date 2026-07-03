@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/London/Analyst--Primary--Investment-Program-_R2285) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Hong-Kong/Associate--Primary_R2438) |
 
 ## About This Role
 
-This corporate finance position at HarbourVest was posted on 2026-03-19.
+This corporate finance position at HarbourVest was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

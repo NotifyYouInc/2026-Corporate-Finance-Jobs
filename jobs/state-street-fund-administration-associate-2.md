@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Fund-Administration--Associate-2_R-792486) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Fund-Administration--Associate-2_R-792438) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-17.
+This corporate finance position at State Street was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

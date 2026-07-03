@@ -5,12 +5,12 @@
 | Company | [Vertex Pharmaceuticals](https://scoutify.ai/companies/vrtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Financial-Planning---Analysis-Senior-Manager_REQ-27913) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Financial-Planning---Analysis-Senior-Manager_REQ-29422) |
 
 ## About This Role
 
-This corporate finance position at Vertex Pharmaceuticals was posted on 2026-02-04.
+This corporate finance position at Vertex Pharmaceuticals was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

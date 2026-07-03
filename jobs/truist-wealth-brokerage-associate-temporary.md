@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Roanoke, Virginia, United States |
+| Location | Ponte Vedra Beach, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Roanoke-VA/Wealth-Brokerage-Associate---Temporary_R0114889) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Ponte-Vedra-Beach-FL/Wealth-Brokerage-Associate---Temporary_R0116206) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-05-21.
+This corporate finance position at Truist was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

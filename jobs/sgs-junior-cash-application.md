@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000131997419-junior-cash-application) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000134349199-junior-cash-application) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-06-12.
+This corporate finance position at SGS was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

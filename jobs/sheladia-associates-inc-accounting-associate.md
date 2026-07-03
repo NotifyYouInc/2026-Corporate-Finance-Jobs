@@ -6,7 +6,7 @@
 | Location | Rockville, Maryland, United States |
 | Category | Corporate Finance |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sheladiaassociates/744000127952207-accounting-associate) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sheladiaassociates/744000127954299-accounting-associate) |
 
 ## About This Role
 

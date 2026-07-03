@@ -5,12 +5,12 @@
 | Company | [NeuraFlash, Part of Accenture](https://scoutify.ai/companies/neuraflash-part-of-accenture?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ramsey, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/neuraflash/jobs/6015632004) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/neuraflash/jobs/6102099004) |
 
 ## About This Role
 
-This corporate finance position at NeuraFlash, Part of Accenture was posted on 2026-06-05.
+This corporate finance position at NeuraFlash, Part of Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

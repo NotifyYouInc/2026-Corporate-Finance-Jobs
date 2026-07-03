@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Reno, Nevada, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Reno-NV/Wealth-Management-Advisor_2026-0005399) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Wealth-Management-Advisor_2026-0018747-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-03-06.
+This corporate finance position at U.S. Bank was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

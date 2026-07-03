@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tallahassee, Florida, United States |
+| Location | San José, San José, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Tallahassee/Finance-Manager_R0160268) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-Costa-Rica-San-Jose/Finance-Manager_R0164326-1) |
 
 ## About This Role
 
-This corporate finance position at Amentum was posted on 2026-05-07.
+This corporate finance position at Amentum was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

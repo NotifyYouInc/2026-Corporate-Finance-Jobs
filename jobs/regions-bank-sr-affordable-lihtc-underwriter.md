@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Great Neck, New York, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Great-Neck-NY--Regions-Affordable-Housing---NY-Office-New-York-NY/Sr-Affordable-LIHTC-Underwriter_R103370) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Great-Neck-NY--Regions-Affordable-Housing---NY-Office-New-York-NY/Sr-Affordable-LIHTC-Underwriter_R103551) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-06-16.
+This corporate finance position at Regions Bank was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

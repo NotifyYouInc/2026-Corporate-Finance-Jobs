@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Scottsdale, Arizona, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Scottsdale-AZ/PWM-Senior-Private-Wealth-Advisor_2025-0018108-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Seattle-WA/PWM-Senior-Private-Wealth-Advisor_2026-0018626-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bancorp was posted on 2026-04-26.
+This corporate finance position at U.S. Bancorp was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

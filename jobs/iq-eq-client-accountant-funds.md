@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000115908449-client-accountant-funds) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000134328189-client-accountant-funds) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-03-20.
+This corporate finance position at IQ-EQ was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

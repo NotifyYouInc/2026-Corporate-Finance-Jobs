@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/New-York---New-York---1185-Ave-of-Americas/Property-and-Casualty-Underwriting-Associate_JR26-4163-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Atlanta---Georgia---Perimeter/Property-and-Casualty-Underwriting-Associate_JR26-4893-1) |
 
 ## About This Role
 
-This corporate finance position at Ryan Specialty was posted on 2026-03-16.
+This corporate finance position at Ryan Specialty was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

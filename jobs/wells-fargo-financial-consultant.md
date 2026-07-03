@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Coral Gables, Florida, United States |
+| Location | Brentwood, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CORAL-GABLES-FL/Financial-Consultant_R-532134) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BRENTWOOD-TN/Financial-Consultant_R-553544) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-27.
+This corporate finance position at Wells Fargo was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

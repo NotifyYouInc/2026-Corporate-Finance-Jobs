@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Vadodara-73-East-Ave/Senior-Accountant_R46519) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Charlotte-North-Carolina/Senior-Accountant_R49146) |
 
 ## About This Role
 
-This corporate finance position at Xylem was posted on 2026-03-11.
+This corporate finance position at Xylem was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

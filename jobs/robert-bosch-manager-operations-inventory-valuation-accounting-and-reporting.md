@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128405204-manager-operations-inventory-valuation-accounting-and-reporting) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134399259-manager-operations-inventory-valuation-accounting-and-reporting) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-05-26.
+This corporate finance position at Robert Bosch was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wausau, Wisconsin, United States |
+| Location | Glasgow, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Wausau/Client-Specialist_R2026665) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Glasgow/Client-Specialist_R2026707-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-06-10.
+This corporate finance position at Baird was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

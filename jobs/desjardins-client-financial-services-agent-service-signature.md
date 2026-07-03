@@ -1,16 +1,16 @@
-# Client Financial Services Agent Service Signature at Desjardins
+# Client Financial Services Agent (Service Signature) at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Saint-Georges, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Joliette/Adjoint-ou-adjointe-en-Services-Financiers_R2608232) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Service-Signature-Beauce-Appalaches-Etchemins/Adjoint-ou-adjointe---Services-Financiers_R2608321) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-06-19.
+This corporate finance position at Desjardins was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

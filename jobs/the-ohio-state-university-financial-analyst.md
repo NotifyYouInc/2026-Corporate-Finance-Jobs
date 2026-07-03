@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Financial-Analyst_R151823-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Remote-Location/Financial-Analyst_R153875-1) |
 
 ## About This Role
 
-This corporate finance position at The Ohio State University was posted on 2026-05-22.
+This corporate finance position at The Ohio State University was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

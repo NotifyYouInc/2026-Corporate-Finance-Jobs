@@ -1,16 +1,16 @@
-# Actuarial, Analyst at AIA Group
+# Actuarial Analyst at AIA Group
 
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-MY-AIA-Malaysia/Actuarial--Analyst_JR-64741) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/Actuarial-Analyst_JR-67904) |
 
 ## About This Role
 
-This corporate finance position at AIA Group was posted on 2026-03-06.
+This corporate finance position at AIA Group was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

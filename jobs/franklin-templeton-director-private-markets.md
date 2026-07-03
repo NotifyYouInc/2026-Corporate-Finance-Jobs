@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Franklin Templeton](https://scoutify.ai/companies/franklintempleton?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Tennessee, US |
 | Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Washington-Washington-United-States-of-America/Director--Private-Markets_866624) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Tennessee-United-States-of-America/Director--Private-Markets_866621) |
 
 ## About This Role
 
-This corporate finance position at Franklin Templeton was posted on 2026-06-18.
+This corporate finance position at Franklin Templeton was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Kolkata-Biswa-Bangla-Sarani/Fund-Accountant_JR-0022982) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Fund-Accountant_JR-0016924) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-06-24.
+This corporate finance position at Apex Fund Services was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

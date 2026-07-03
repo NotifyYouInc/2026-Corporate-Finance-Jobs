@@ -5,12 +5,12 @@
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Switzerland |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Income-Specialist-100---f-m-d-_r-18600-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Income-Specialist-100---f-m-d-_r-18837) |
 
 ## About This Role
 
-This corporate finance position at Julius Baer was posted on 2026-06-10.
+This corporate finance position at Julius Baer was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

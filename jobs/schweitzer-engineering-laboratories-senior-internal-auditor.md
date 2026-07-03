@@ -5,12 +5,12 @@
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pullman, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pullman---One/Senior-Internal-Auditor_2026-21333) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Senior-Internal-Auditor_2026-21831) |
 
 ## About This Role
 
-This corporate finance position at Schweitzer Engineering Laboratories was posted on 2026-05-18.
+This corporate finance position at Schweitzer Engineering Laboratories was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

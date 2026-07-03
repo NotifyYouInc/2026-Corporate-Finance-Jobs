@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayne Farms](https://scoutify.ai/companies/wayne-farms?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Georgia, US |
+| Location | Decatur, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://waynefarms.wd1.myworkdayjobs.com/waynefarms/job/Georgia---Moultrie-Plant/Accounting-Supervisor_2026-62259-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://waynefarms.wd1.myworkdayjobs.com/waynefarms/job/Alabama---Decatur-Prepared-Foods-Plant/Accounting-Supervisor_2026-64714) |
 
 ## About This Role
 
-This corporate finance position at Wayne Farms was posted on 2026-04-15.
+This corporate finance position at Wayne Farms was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

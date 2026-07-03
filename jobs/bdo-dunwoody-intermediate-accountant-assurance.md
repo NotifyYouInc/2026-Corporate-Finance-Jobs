@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | North Bay, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Intermediate-Accountant--Assurance_JR5782) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/North-Bay---Devonshire-Avenue/Intermediate-Accountant--Assurance_JR6502) |
 
 ## About This Role
 
-This corporate finance position at BDO Dunwoody was posted on 2026-05-13.
+This corporate finance position at BDO Dunwoody was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

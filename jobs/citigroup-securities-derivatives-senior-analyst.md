@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/Securities---Derivatives-Senior-Analyst_26961732) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/Securities---Derivatives-Senior-Analyst_26972462) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-19.
+This corporate finance position at Citigroup was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

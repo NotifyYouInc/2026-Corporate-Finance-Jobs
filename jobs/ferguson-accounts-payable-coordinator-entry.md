@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newport News, Virginia, United States |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Accounts-Payable-Coordinator---Entry_R-134773) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Accounts-Payable-Coordinator---Entry_R-137871) |
 
 ## About This Role
 
-This corporate finance position at Ferguson was posted on 2026-03-18.
+This corporate finance position at Ferguson was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

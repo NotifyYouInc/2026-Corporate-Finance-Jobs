@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northmarq](https://scoutify.ai/companies/northmarq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | West Palm Beach, Florida, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5191327008) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5283007008) |
 
 ## About This Role
 
-This corporate finance position at Northmarq was posted on 2026-04-16.
+This corporate finance position at Northmarq was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

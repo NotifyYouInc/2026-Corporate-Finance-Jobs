@@ -5,12 +5,12 @@
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Perth, Western Australia, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Perth-Western-Australia/Assistant-Manager_JR103170-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Perth-Western-Australia/Assistant-Manager--Audit_JR103388) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-05-28.
+This corporate finance position at Bdo was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

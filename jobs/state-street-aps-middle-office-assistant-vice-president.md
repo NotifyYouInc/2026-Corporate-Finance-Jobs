@@ -1,16 +1,16 @@
-# APS Middle Office - Assistant Vice President at State Street
+# APS Middle Office-Assistant Vice President at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/APS-Middle-Office---Assistant-Vice-President_R-786952) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/APS-Middle-Office-Assistant-Vice-President_R-787127) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-03.
+This corporate finance position at State Street was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

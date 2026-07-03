@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3207400/finance-manager-operations-product-development-opd) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459566/finance-manager-operations-product-development-opd) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-03-18.
+This corporate finance position at Amazon was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

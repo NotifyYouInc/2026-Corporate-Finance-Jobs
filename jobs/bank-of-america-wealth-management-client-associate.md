@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Towson, Maryland, United States |
+| Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Towson/Wealth-Management-Client-Associate_26021520-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Austin/Wealth-Management-Client-Associate_26021739) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-24.
+This corporate finance position at Bank of America was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

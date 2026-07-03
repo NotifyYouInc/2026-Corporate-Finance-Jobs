@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000131388959-vyr-finansu-kontroliere-ius) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000134411009-vyr-finansu-kontroliere-ius) |
 
 ## About This Role
 
-This corporate finance position at Ignitis Grupe was posted on 2026-06-10.
+This corporate finance position at Ignitis Grupe was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

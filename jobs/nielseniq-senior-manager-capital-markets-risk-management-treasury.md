@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125388733-senior-manager-capital-markets-risk-management-treasury) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134378678-senior-manager-capital-markets-risk-management-treasury) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-05-08.
+This corporate finance position at NielsenIQ was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

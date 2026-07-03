@@ -5,12 +5,12 @@
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000123066889-senior-associate-debt-services-clo) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000134261914-senior-associate-debt-services-clo) |
 
 ## About This Role
 
-This corporate finance position at MUFG Investor Services was posted on 2026-04-26.
+This corporate finance position at MUFG Investor Services was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

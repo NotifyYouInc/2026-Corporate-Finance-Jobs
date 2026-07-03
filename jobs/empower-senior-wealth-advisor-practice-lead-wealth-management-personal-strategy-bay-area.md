@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/CA-San-Francisco---Remote/Senior-Wealth-Advisor---Practice-Lead---Wealth-Management---Personal-Strategy---Bay-area-region_R0057075) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/CA-San-Francisco---Remote/Senior-Wealth-Advisor---Practice-Lead---Wealth-Management---Personal-Strategy---Bay-area-region_R0059209) |
 
 ## About This Role
 
-This corporate finance position at Empower was posted on 2026-03-05.
+This corporate finance position at Empower was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

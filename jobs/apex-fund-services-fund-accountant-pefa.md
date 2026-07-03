@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad-Sy-No-53/Fund-Accountant---PEFA_JR-0023216) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore-Fortune-Summit/Fund-Accountant---PEFA_JR-0023869) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-06-16.
+This corporate finance position at Apex Fund Services was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

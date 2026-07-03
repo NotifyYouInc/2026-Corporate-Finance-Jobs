@@ -5,12 +5,12 @@
 | Company | [Holman](https://scoutify.ai/companies/holmanautogroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Raleigh-NC-US/Platform-Controller---Holman-North-Carolina_R0054253-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Raleigh-NC-US/Platform-Controller---Holman-North-Carolina_R0055688-1) |
 
 ## About This Role
 
-This corporate finance position at Holman was posted on 2026-03-20.
+This corporate finance position at Holman was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

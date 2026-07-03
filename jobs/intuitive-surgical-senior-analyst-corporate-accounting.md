@@ -1,16 +1,16 @@
-# Senior Analyst, Corporate Accounting  at Intuitive Surgical
+# Senior Analyst, Corporate Accounting at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Mexicali, Baja California, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000118223473-senior-analyst-corporate-accounting) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000134348209-senior-analyst-corporate-accounting) |
 
 ## About This Role
 
-This corporate finance position at Intuitive Surgical was posted on 2026-04-01.
+This corporate finance position at Intuitive Surgical was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

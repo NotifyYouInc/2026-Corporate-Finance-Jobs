@@ -1,16 +1,16 @@
-# Finance - Intern at Valeo
+# Finance Intern at Valeo
 
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Troy, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Finance---Intern_REQ2026073456) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Finance-Intern_REQ2026076715) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-05-13.
+This corporate finance position at Valeo was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

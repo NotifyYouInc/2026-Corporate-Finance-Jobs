@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Senior-Economist_R201992) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Senior-Economist_R214069-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-02-18.
+This corporate finance position at PNC Financial was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cremorne, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000133815501-senior-finance-manager-finance-business-partnering) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000134384008-senior-finance-manager-finance-business-partnering) |
 
 ## About This Role
 
-This corporate finance position at SEEK was posted on 2026-06-24.
+This corporate finance position at SEEK was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

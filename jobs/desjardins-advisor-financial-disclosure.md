@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Divulgation-financire--Rseau-des-Caisses_R2605347-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Divulgation-financire_R2608329) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-04-21.
+This corporate finance position at Desjardins was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

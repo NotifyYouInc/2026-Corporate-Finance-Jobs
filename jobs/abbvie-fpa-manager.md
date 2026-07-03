@@ -1,16 +1,16 @@
-# FP&A Manager at AbbVie
+# FP＆A Manager  at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | Minato City, Tokyo, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011640996-fpa-manager) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013802111-fpa-manager) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-11.
+This corporate finance position at AbbVie was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Bega Group](https://scoutify.ai/companies/bega-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://begacheese.wd3.myworkdayjobs.com/bega_careers/job/Docklands-VIC/Commercial-Finance-Analyst_JR-6904) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://begacheese.wd3.myworkdayjobs.com/bega_careers/job/Docklands-VIC/Commercial-Finance-Analyst_JR-7344) |
 
 ## About This Role
 
-This corporate finance position at Bega Group was posted on 2026-03-12.
+This corporate finance position at Bega Group was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Pyrotek](https://scoutify.ai/companies/pyrotek3?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Spokane, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Pyrotek3/744000134020809-sr-tax-associate) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Pyrotek3/744000134328026-sr-tax-associate) |
 
 ## About This Role
 
-This corporate finance position at Pyrotek was posted on 2026-06-24.
+This corporate finance position at Pyrotek was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

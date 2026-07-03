@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taupo, Waikato Region, New Zealand |
+| Location | Dunedin, Otago, New Zealand |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Taupo-Branch/Agribusiness-Analyst_JR106718) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Moray-Place-Branch/Agribusiness-Analyst_JR107520) |
 
 ## About This Role
 
-This corporate finance position at Westpac New Zealand was posted on 2026-02-10.
+This corporate finance position at Westpac New Zealand was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

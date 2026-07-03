@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cleveland, Ohio, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Cleveland/Senior-Trust-Officer_26019545) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/Senior-Trust-Officer_26020906-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-05.
+This corporate finance position at Bank of America was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
