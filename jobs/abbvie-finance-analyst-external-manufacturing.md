@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013165446-finance-analyst-external-manufacturing) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013823196-finance-analyst-external-manufacturing) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-05-15.
+This corporate finance position at AbbVie was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

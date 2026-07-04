@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Nassau, New Providence, Bahamas |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Toronto/Finance-Associate_703989WD-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Nassau/Finance-Associate_737867WD) |
 
 ## About This Role
 
-This corporate finance position at PwC was posted on 2026-04-30.
+This corporate finance position at PwC was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

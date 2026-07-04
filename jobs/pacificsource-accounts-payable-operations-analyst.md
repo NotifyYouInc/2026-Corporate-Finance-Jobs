@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacificsource](https://scoutify.ai/companies/pacificsource?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | Portland, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://pacificsource.wd5.myworkdayjobs.com/pacificsource/job/Springfield-OR/Accounts-Payable-Operations-Analyst_2026-615-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://pacificsource.wd5.myworkdayjobs.com/pacificsource/job/Portland-OR/Accounts-Payable-Operations-Analyst_2026-651-1) |
 
 ## About This Role
 
-This corporate finance position at Pacificsource was posted on 2026-06-19.
+This corporate finance position at Pacificsource was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

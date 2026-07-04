@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---NLD---Utrecht---Reykjavikstraat-1/Manager-Client-Accounting_R310005) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---NLD---Utrecht---Reykjavikstraat-1/Manager-Client-Accounting_R321960-1) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-05-05.
+This corporate finance position at Cushman & Wakefield was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

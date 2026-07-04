@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Wilde-East-Towne-Honda-Madison-WI-53718/Dealership-Accountant-I_R111628) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Dallas-APC-Dallas-TX-75228/Dealership-Accountant-I_R111761) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-06-24.
+This corporate finance position at Lithia Motors was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Paris-France/Financial-Analyst_R1531675) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bratislava-Slovakia/Financial-Analyst_R1546326) |
 
 ## About This Role
 
-This corporate finance position at IQVIA was posted on 2026-04-30.
+This corporate finance position at IQVIA was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

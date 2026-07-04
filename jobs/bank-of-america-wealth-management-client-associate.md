@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Oak Brook, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Austin/Wealth-Management-Client-Associate_26021739) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Oak-Brook/Wealth-Management-Client-Associate_26022065-1) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-25.
+This corporate finance position at Bank of America was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

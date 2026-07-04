@@ -5,12 +5,12 @@
 | Company | [Akerman](https://scoutify.ai/companies/akerman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://recruiting.ultipro.com/ake1000asepa/JobBoard/b855fc7e-c6e0-90cc-b829-ddbebeb6f274/OpportunityDetail?opportunityId=277d55df-3817-4152-b5f3-97e761801e7a) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://recruiting.ultipro.com/ake1000asepa/JobBoard/b855fc7e-c6e0-90cc-b829-ddbebeb6f274/OpportunityDetail?opportunityId=c716897a-61f3-419b-9166-4f433a384811) |
 
 ## About This Role
 
-This corporate finance position at Akerman was posted on 2026-06-25.
+This corporate finance position at Akerman was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

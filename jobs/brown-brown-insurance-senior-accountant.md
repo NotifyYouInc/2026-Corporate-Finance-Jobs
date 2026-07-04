@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Daytona Beach, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Vermont/Senior-Accountant_R26_0000001972) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Senior-Accountant_R26_0000002290-1) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-05-28.
+This corporate finance position at Brown & Brown Insurance was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

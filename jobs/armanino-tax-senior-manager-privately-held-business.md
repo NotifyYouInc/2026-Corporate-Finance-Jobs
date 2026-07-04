@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Dallas-Texas/Tax-Senior-Manager--Privately-Held-Business_JR103992) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Downtown-Los-Angeles-California/Tax-Senior-Manager--Privately-Held-Business_JR104034) |
 
 ## About This Role
 
-This corporate finance position at Armanino was posted on 2026-06-16.
+This corporate finance position at Armanino was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

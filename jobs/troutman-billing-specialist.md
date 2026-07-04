@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Troutman](https://scoutify.ai/companies/troutman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://troutman.wd5.myworkdayjobs.com/tprecruit1/job/New-York/Billing-Specialist_R4104) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://troutman.wd5.myworkdayjobs.com/tprecruit1/job/Atlanta/Billing-Specialist_R4342) |
 
 ## About This Role
 
-This corporate finance position at Troutman was posted on 2026-05-05.
+This corporate finance position at Troutman was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

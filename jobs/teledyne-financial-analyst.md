@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mountain View, California, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Mountain-View-CA/Financial-Analyst_REQ33655-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---West-Lafayette-IN/Financial-Analyst_REQ34516) |
 
 ## About This Role
 
-This corporate finance position at Teledyne was posted on 2026-03-09.
+This corporate finance position at Teledyne was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Empower-Financial-Planner_R0056915) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Empower-Financial-Planner_R0059703) |
 
 ## About This Role
 
-This corporate finance position at Empower was posted on 2026-02-27.
+This corporate finance position at Empower was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

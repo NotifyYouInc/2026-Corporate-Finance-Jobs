@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000133859199-senior-accountant) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000134480659-senior-accountant) |
 
 ## About This Role
 
-This corporate finance position at Turner & Townsend was posted on 2026-06-24.
+This corporate finance position at Turner & Townsend was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

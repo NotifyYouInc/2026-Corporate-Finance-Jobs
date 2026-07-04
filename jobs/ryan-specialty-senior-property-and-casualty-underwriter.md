@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Connecticut, US |
+| Location | California, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Remote---Connecticut/Senior-Property-and-Casualty-Underwriter_JR26-4494-2) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Remote---California/Senior-Property-and-Casualty-Underwriter_JR26-4811-1) |
 
 ## About This Role
 
-This corporate finance position at Ryan Specialty was posted on 2026-04-27.
+This corporate finance position at Ryan Specialty was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

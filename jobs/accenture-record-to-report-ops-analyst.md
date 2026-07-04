@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jaipur, Rajasthan, India |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Record-to-Report-Ops-Analyst_AIOC-S01591262-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Record-to-Report-Ops-Analyst_AIOC-S01652439-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-06-19.
+This corporate finance position at Accenture was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

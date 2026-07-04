@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Newrez](https://scoutify.ai/companies/newrez?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tempe, Arizona, United States |
+| Location | Coppell, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/Team-Lead---Investor-Reporting--On-Site-_R9029) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/Team-Lead---Investor-Reporting--On-Site-_R10027) |
 
 ## About This Role
 
-This corporate finance position at Newrez was posted on 2026-04-03.
+This corporate finance position at Newrez was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Langdon, North Dakota, United States |
+| Location | Hudson, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-NHC-Langdon-NH/Finance-Manager---Northeast-Business-Unit_R598070) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-FR004-HUDSON-NH/Finance-Manager---Northeast-Business-Unit_R600473) |
 
 ## About This Role
 
-This corporate finance position at Alimentation Couche-Tard was posted on 2026-06-16.
+This corporate finance position at Alimentation Couche-Tard was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

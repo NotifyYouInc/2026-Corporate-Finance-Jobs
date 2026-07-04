@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hunt Valley, Maryland, United States |
+| Location | Portage, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Hunt-Valley/Registered-Wealth-Management-Client-Associate_26021523-2) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Portage/Registered-Wealth-Management-Client-Associate_26022078) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-24.
+This corporate finance position at Bank of America was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Eindhoven, North Brabant, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000128875669-valuations-analyst-eindhoven) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000134461619-valuations-analyst-eindhoven) |
 
 ## About This Role
 
-This corporate finance position at Colliers International UK was posted on 2026-05-28.
+This corporate finance position at Colliers International UK was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Darwin, Northern Territory, Australia |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000133879769-director-of-finance) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000134492119-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-24.
+This corporate finance position at ACCOR was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

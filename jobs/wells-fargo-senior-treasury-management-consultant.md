@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | Melville, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MCLEAN-VA/Senior-Treasury-Management-Consultant_R-547779) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MELVILLE-NY/Senior-Treasury-Management-Consultant_R-555504) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-23.
+This corporate finance position at Wells Fargo was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

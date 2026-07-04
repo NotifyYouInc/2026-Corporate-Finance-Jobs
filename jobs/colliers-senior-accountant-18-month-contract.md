@@ -1,16 +1,16 @@
-# Senior Accountant (18-Month Contract) at Colliers
+# Senior Accountant (18 month contract) at Colliers
 
 | Field | Details |
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Vancouver-British-Columbia-Canada/Senior-Accountant--18-Month-Contract-_JR17470) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Vancouver-British-Columbia-Canada/Senior-Accountant--18-month-contract-_JR18077) |
 
 ## About This Role
 
-This corporate finance position at Colliers was posted on 2026-03-19.
+This corporate finance position at Colliers was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

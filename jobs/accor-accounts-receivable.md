@@ -1,16 +1,16 @@
-# Accounts Receivable at ACCOR
+# Accounts Receivable  at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indonesia |
+| Location | Nashik, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110907405-accounts-receivable) |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000134597729-accounts-receivable) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-24.
+This corporate finance position at ACCOR was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

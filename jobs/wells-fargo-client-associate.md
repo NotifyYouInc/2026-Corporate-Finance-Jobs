@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Baton Rouge, Louisiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SPOKANE-WA/Client-Associate_R-552954) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BATON-ROUGE-LA/Client-Associate_R-555375) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-15.
+This corporate finance position at Wells Fargo was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

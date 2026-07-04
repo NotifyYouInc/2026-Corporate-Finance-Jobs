@@ -5,12 +5,12 @@
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saint-Hubert, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990013543486-responsable-des-comptes-recevable-et-de-la-facturation-bilingue-anglaisfrancais) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990013807564-responsable-des-comptes-recevable-et-de-la-facturation-bilingue-anglaisfrancais) |
 
 ## About This Role
 
-This corporate finance position at Cornerstone Building Brands was posted on 2026-06-09.
+This corporate finance position at Cornerstone Building Brands was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

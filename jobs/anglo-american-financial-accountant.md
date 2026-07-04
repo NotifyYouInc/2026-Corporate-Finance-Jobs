@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Springs, Gauteng, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000126179795-financial-accountant) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000134498499-financial-accountant) |
 
 ## About This Role
 
-This corporate finance position at Anglo American was posted on 2026-05-12.
+This corporate finance position at Anglo American was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

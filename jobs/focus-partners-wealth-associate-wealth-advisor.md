@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Focus Partners Wealth](https://scoutify.ai/companies/focuspartnerswealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Santa Rosa, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focuspartnerswealth/jobs/6099990004) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focuspartnerswealth/jobs/6103311004) |
 
 ## About This Role
 
-This corporate finance position at Focus Partners Wealth was posted on 2026-06-23.
+This corporate finance position at Focus Partners Wealth was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000132717608-senior-financial-systems-analyst-workday-financials) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000134529679-senior-financial-systems-analyst-workday-financials) |
 
 ## About This Role
 
-This corporate finance position at AIR Communities was posted on 2026-06-17.
+This corporate finance position at AIR Communities was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

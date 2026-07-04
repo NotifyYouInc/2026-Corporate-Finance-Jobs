@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Silgan Dispensing Systems](https://scoutify.ai/companies/silgan-dispensing-systems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Antioch, California, United States |
+| Location | Hazleton, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Antioch-California/Plant-Controller_R7481) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Hazleton-Pennsylvania/Plant-Controller_R7650) |
 
 ## About This Role
 
-This corporate finance position at Silgan Dispensing Systems was posted on 2026-06-02.
+This corporate finance position at Silgan Dispensing Systems was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

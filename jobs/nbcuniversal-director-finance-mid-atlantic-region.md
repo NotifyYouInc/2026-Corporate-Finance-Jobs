@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000130862789-director-finance-mid-atlantic-region) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000134503619-director-finance-mid-atlantic-region) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-06-08.
+This corporate finance position at NBCUniversal was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

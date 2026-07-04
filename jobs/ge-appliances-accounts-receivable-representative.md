@@ -5,12 +5,12 @@
 | Company | [GE Appliances](https://scoutify.ai/companies/ge-appliances?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Louisville, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Accounts-Receivable-Representative_REQ-25642) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Accounts-Receivable-Representative_REQ-26111) |
 
 ## About This Role
 
-This corporate finance position at GE Appliances was posted on 2026-05-06.
+This corporate finance position at GE Appliances was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

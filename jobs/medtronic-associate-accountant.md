@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Associate-Accountant_R62395-2) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Associate-Accountant_R70457-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-04-07.
+This corporate finance position at Medtronic was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

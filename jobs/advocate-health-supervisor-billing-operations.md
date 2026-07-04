@@ -5,12 +5,12 @@
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Charlotte-NC---2709-Water-Ridge-Pkwy/Supervisor-Billing-Operations_R216262) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Supervisor-Billing-Operations_R248243) |
 
 ## About This Role
 
-This corporate finance position at Advocate Health was posted on 2026-02-26.
+This corporate finance position at Advocate Health was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
