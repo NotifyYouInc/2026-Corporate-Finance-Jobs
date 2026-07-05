@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nova Lima, Minas Gerais, Brazil |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Contas-a-Pagar-Pleno---Hbrido_14302607) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Analista-de-Contas-a-Pagar-Pleno---Hbrido_14385163) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-29.
+This corporate finance position at Accenture was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

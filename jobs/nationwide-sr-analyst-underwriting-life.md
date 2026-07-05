@@ -1,12 +1,12 @@
-# Financial Services Analyst at Nationwide
+# Sr Analyst, Underwriting - Life at Nationwide
 
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Grandview Heights, Ohio, United States |
+| Location | United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Financial-Services-Analyst_098943) |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Sr-Analyst--Underwriting---Life_098937) |
 
 ## About This Role
 

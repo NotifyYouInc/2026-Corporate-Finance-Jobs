@@ -1,16 +1,16 @@
-# Accountant at City of New York
+# Finance Associate at FLUIDSTACK
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [FLUIDSTACK](https://scoutify.ai/companies/fluidstack?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013826746-accountant) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/ede18ce8-35c0-42ba-9d30-b56b23cf1c24) |
 
 ## About This Role
 
-This corporate finance position at City of New York was posted on 2026-06-27.
+This corporate finance position at FLUIDSTACK was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

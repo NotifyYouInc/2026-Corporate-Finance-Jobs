@@ -1,16 +1,16 @@
-# Accountant at City of New York
+# Senior Finance Accountant at Jobs for Humanity
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013826746-accountant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000134607779-senior-finance-accountant) |
 
 ## About This Role
 
-This corporate finance position at City of New York was posted on 2026-06-27.
+This corporate finance position at Jobs for Humanity was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

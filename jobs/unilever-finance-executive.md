@@ -1,16 +1,16 @@
-# Accountant at City of New York
+# Finance Executive at Unilever
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013826746-accountant) |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Mumbai-Regional-Office/Finance-Executive_R-1182842) |
 
 ## About This Role
 
-This corporate finance position at City of New York was posted on 2026-06-27.
+This corporate finance position at Unilever was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-#  Accounting Manager at Bjak
+# Accounting Manager - Hybrid at hsag
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Company | [hsag](https://scoutify.ai/companies/hsag?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Arizona, US |
 | Category | Corporate Finance |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/21f607f2-d442-4a17-a372-1aa40b0b6a53) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.lever.co/hsag/820ea988-ac77-4c50-928d-a92985975739) |
 
 ## About This Role
 
-This corporate finance position at Bjak was posted on 2026-06-27.
+This corporate finance position at hsag was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
