@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000133860255-payroll-finance-analyst) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000134709489-payroll-finance-analyst) |
 
 ## About This Role
 
-This corporate finance position at Entain was posted on 2026-06-24.
+This corporate finance position at Entain was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

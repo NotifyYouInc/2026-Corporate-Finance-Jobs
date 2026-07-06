@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000112078037-accounting-manager) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000134697324-accounting-manager) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-03-02.
+This corporate finance position at Expeditors International of Washington was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

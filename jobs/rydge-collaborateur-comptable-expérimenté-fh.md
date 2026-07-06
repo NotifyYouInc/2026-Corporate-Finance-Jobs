@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Courbevoie, Île-de-France, France |
+| Location | France |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000131065333-collaborateur-comptable-experimente-fh) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000134730259-collaborateur-comptable-experimente-fh) |
 
 ## About This Role
 
-This corporate finance position at Rydge was posted on 2026-06-09.
+This corporate finance position at Rydge was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

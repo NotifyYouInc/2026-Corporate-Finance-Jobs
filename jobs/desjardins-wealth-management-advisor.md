@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Québec, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Conseiller-ou-conseillre-en-gestion-de-patrimoine_R2608424) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2608244-1) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-06-26.
+This corporate finance position at Desjardins was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

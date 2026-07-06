@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan](https://scoutify.ai/companies/ryan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Bengaluru/Senior-Tax-Associate--Transaction-Tax-Compliance_R0018714-1) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Manila/Senior-Tax-Associate--Transaction-Tax-Compliance_R0019826-1) |
 
 ## About This Role
 
-This corporate finance position at Ryan was posted on 2026-04-24.
+This corporate finance position at Ryan was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

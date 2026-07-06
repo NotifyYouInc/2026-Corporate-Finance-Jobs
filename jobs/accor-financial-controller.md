@@ -1,16 +1,16 @@
-# Financial Controller at ACCOR
+# FINANCIAL CONTROLLER at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Phu Quoc, An Giang, Vietnam |
 | Category | Corporate Finance |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000133221069-financial-controller) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000134693150-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-21.
+This corporate finance position at ACCOR was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

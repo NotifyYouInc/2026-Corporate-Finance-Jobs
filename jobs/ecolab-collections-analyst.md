@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/ARG---Provincia-de-Buenos-Aires---Buenos-Aires/Collections-Analyst_R00290706) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Collections-Analyst_R00297298) |
 
 ## About This Role
 
-This corporate finance position at Ecolab was posted on 2026-06-12.
+This corporate finance position at Ecolab was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

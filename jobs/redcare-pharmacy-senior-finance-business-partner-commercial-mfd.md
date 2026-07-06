@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Germany |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130719074-senior-finance-business-partner-commercial-mfd) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000134714979-senior-finance-business-partner-commercial-mfd) |
 
 ## About This Role
 
-This corporate finance position at Redcare Pharmacy was posted on 2026-06-08.
+This corporate finance position at Redcare Pharmacy was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

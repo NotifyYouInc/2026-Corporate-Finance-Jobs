@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sejong, Sejong-si, South Korea |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000125963753-aumovio-star-internship-financial-controller) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000134684288-aumovio-star-internship-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at Aumovio was posted on 2026-05-12.
+This corporate finance position at Aumovio was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

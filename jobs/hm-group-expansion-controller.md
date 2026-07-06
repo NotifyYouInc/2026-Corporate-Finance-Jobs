@@ -1,16 +1,16 @@
-# Expansion Controller  at H&M Group
+# Expansion Controller at H&M Group
 
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Shibuya, Tokyo, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000131242674-expansion-controller) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000134684559-expansion-controller) |
 
 ## About This Role
 
-This corporate finance position at H&M Group was posted on 2026-06-09.
+This corporate finance position at H&M Group was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

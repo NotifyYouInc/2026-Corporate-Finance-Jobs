@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phuket, Phuket, Thailand |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26077646) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26079245) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-06-25.
+This corporate finance position at Marriott International was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

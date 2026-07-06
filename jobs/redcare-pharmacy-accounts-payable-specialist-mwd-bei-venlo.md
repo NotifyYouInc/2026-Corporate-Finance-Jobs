@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mönchengladbach, North Rhine-Westphalia, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130721926-accounts-payable-specialist-mwd-bei-venlo) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000134712839-accounts-payable-specialist-mwd-bei-venlo) |
 
 ## About This Role
 
-This corporate finance position at Redcare Pharmacy was posted on 2026-06-08.
+This corporate finance position at Redcare Pharmacy was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

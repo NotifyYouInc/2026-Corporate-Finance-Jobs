@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sofia-Bulgaria/Sr-Finance-Coordinator---Troubleshooting_R-01353924) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sofia-Bulgaria/Sr-Finance-Coordinator---Troubleshooting_R-01355567) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-05-26.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

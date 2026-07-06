@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Stoke-on-Trent, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000133017058-accounts-payable-assistant) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000134736258-accounts-payable-assistant) |
 
 ## About This Role
 
-This corporate finance position at bet365 was posted on 2026-06-19.
+This corporate finance position at bet365 was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

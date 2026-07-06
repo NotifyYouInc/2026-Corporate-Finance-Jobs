@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Record-to-Report-Ops-Associate_AIOC-S01652457-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Record-to-Report-Ops-Associate_AIOC-S01652519-1) |
 
 ## About This Role
 

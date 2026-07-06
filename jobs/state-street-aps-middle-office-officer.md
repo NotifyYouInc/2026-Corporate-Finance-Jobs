@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maharashtra, IN |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/APS-Middle-Office---Officer_R-786774) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/APS-Middle-Office---Officer_R-787125) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-18.
+This corporate finance position at State Street was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

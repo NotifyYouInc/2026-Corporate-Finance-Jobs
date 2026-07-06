@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Issy-les-Moulineaux, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bogot-Distrito-Capital-Colombia/I2C-DS-Collection---Dispute-Mgmt-Team-Lead_R-082295-1) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Issy-les-Moulineaux-France/I2C-DS-Collection---Dispute-Mgmt-Team-Lead_R-084458-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-06-23.
+This corporate finance position at Johnson & Johnson was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 
