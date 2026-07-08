@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerfrance Brocéliande](https://scoutify.ai/companies/cerfrancebrocliande?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dol-de-Bretagne, Brittany, France |
-| Category | Corporate Finance |
-| Posted | 2025-10-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000088108005-comptable-marche-agricole-fh) |
+| Location | La Guerche-de-Bretagne, Brittany, France |
+| Category | Accounting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000135213180-comptable-marche-agricole-fh) |
 
 ## About This Role
 
-This corporate finance position at Cerfrance Brocéliande was posted on 2025-10-15.
+This accounting position at Cerfrance Brocéliande was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

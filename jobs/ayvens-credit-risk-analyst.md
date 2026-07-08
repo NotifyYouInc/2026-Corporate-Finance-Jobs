@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bristol, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/Credit-Risk-Analyst_JR_10039785) |
+| Location | Bucharest, București, Romania |
+| Category | Financial Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/LPSC---Bucharest/Credit-Risk-Analyst_JR_10040499) |
 
 ## About This Role
 
-This corporate finance position at Ayvens was posted on 2026-06-07.
+This financial analyst position at Ayvens was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

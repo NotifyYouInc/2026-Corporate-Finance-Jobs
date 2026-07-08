@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nantes, Pays de la Loire, France |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000130545543-gestionnaire-paie-confirme-fh) |
+| Location | Brive-la-Gaillarde, Nouvelle-Aquitaine, France |
+| Category | Accounting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000135288029-gestionnaire-paie-confirme-fh) |
 
 ## About This Role
 
-This corporate finance position at Rydge was posted on 2026-06-05.
+This accounting position at Rydge was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

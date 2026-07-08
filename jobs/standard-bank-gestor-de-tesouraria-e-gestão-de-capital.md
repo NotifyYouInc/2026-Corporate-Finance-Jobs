@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Luanda, Luanda, Angola |
-| Category | Corporate Finance |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000121625053-gestor-de-tesouraria-e-gestao-de-capital) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000135230399-gestor-de-tesouraria-e-gestao-de-capital) |
 
 ## About This Role
 
-This corporate finance position at Standard Bank was posted on 2026-04-19.
+This treasury & capital markets position at Standard Bank was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Financial Planning Client Administrator at Evelyn Partners
+# Financial Planning Client Administrator  at Evelyn Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Evelyn Partners](https://scoutify.ai/companies/evelynpartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Liverpool, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000133648135-financial-planning-client-administrator) |
+| Location | 4 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000135276705-financial-planning-client-administrator) |
 
 ## About This Role
 
-This corporate finance position at Evelyn Partners was posted on 2026-06-23.
+This wealth management / private banking position at Evelyn Partners was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

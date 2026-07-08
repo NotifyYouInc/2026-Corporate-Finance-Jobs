@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Shanghai/Sr-Analyst--FP-A_JR-193927) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Warsaw-Masovian/Sr-Analyst--FP-A_JR-196015-1) |
 
 ## About This Role
 
-This corporate finance position at Vantive was posted on 2026-05-07.
+This fp&a / strategic finance position at Vantive was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

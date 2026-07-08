@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Atlanta-GA-USA/Accounts-Payable-Associate_R26_0000001372-1) |
+| Category | Accounting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Atlanta-GA-USA/Accounts-Payable-Associate_R26_0000002186-1) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-04-14.
+This accounting position at Brown & Brown Insurance was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

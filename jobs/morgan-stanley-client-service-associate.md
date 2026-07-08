@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Buffalo, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Buffalo-New-York-United-States-of-America/Client-Service-Associate_JR039018-1) |
+| Location | Houston, Texas, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Houston-Texas-United-States-of-America/Client-Service-Associate_JR039237) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-06-27.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

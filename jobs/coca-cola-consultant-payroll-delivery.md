@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Ireland---Drogheda/Consultant--Payroll-Delivery_R-138984) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Poland---Warsaw/Consultant--Payroll-Delivery_R-143006) |
 
 ## About This Role
 
-This corporate finance position at Coca-Cola was posted on 2026-04-06.
+This accounting position at Coca-Cola was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

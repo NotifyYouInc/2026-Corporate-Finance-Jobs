@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Belém, Pará, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012958513-operador-financeiro-jr) |
+| Location | Videira, Santa Catarina, Brazil |
+| Category | Financial Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013876376-operador-financeiro-jr) |
 
 ## About This Role
 
-This corporate finance position at MSX International was posted on 2026-05-04.
+This financial analyst position at MSX International was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

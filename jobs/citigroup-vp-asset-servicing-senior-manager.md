@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/VP--Asset-Servicing-Senior-Manager_26935380) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/VP--Asset-Servicing-Senior-Manager_26975587) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-10.
+This asset management / portfolio management position at Citigroup was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

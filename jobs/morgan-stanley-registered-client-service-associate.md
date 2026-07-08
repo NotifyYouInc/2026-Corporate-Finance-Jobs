@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Greenwich, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Greenwich-Connecticut-United-States-of-America/Registered-Client-Service-Associate_JR039309) |
+| Location | New York City, New York, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Registered-Client-Service-Associate_JR039411-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-06-22.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Investment-Analyst_JR25101412) |
+| Location | London, England, United Kingdom |
+| Category | Financial Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/UK-London-4th-Floor-One-Strand/Senior-Equity-Analyst_JR25110951-1) |
 
 ## About This Role
 
-This corporate finance position at Manulife was posted on 2026-05-22.
+This financial analyst position at Manulife was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Group Manager, Finance at TD Bank
+# Senior Group Manager Finance at TD Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-Group-Manager--Finance_R_1455442-1) |
+| Location | New York City, New York, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Senior-Group-Manager-Finance_R_1496050) |
 
 ## About This Role
 
-This corporate finance position at TD Bank was posted on 2026-04-07.
+This fp&a / strategic finance position at TD Bank was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

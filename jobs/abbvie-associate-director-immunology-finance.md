@@ -1,16 +1,16 @@
-# Associate Director,  Immunology Finance at AbbVie
+# Associate Director, Immunology Finance at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Illinois, US |
-| Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011714026-associate-director-immunology-finance) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013874771-associate-director-immunology-finance) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-02-17.
+This fp&a / strategic finance position at AbbVie was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

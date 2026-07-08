@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Client-Service-Associate_26008598) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Client-Service-Associate_26022633) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-24.
+This wealth management / private banking position at Bank of America was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

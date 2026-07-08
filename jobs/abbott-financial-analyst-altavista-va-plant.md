@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Virginia, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Financial-Analyst---Altavista--VA-Plant_31146398-1) |
+| Location | Altavista, Virginia, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Financial-Analyst---Altavista--VA-Plant_31154948-1) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-04-02.
+This financial analyst position at Abbott was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

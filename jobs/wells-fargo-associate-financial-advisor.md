@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Napa, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NAPA-CA/Associate-Financial-Advisor_R-550520) |
+| Location | Arlington, Texas, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ARLINGTON-TX/Associate-Financial-Advisor_R-556439) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-08.
+This wealth management / private banking position at Wells Fargo was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

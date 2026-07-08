@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stout Risius Ross](https://scoutify.ai/companies/stout-risius-ross?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://stout.wd5.myworkdayjobs.com/stout-careers/job/Chicago-IL/Associate--Investment-Banking---Industrials_r1958-2) |
+| Location | 4 locations |
+| Category | Investment Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://stout.wd5.myworkdayjobs.com/stout-careers/job/Chicago-IL/Associate--Investment-Banking---Industrials_r2068) |
 
 ## About This Role
 
-This corporate finance position at Stout Risius Ross was posted on 2026-03-25.
+This investment banking position at Stout Risius Ross was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

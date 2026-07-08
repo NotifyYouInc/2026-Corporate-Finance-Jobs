@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Lauderdale, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/FORT-LAUDERDALE-FL/Associate-Private-Client-Financial-Advisor_R-550527) |
+| Location | Johnson City, Tennessee, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/JOHNSON-CITY-NY/Associate-Private-Client-Financial-Advisor_R-555507) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-05.
+This wealth management / private banking position at Wells Fargo was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

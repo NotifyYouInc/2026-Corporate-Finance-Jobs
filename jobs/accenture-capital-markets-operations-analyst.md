@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Capital-Markets-Operations-Analyst_AIOC-S01636203) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Capital-Markets-Operations-Analyst_AIOC-S01652872-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-20.
+This treasury & capital markets position at Accenture was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ampol](https://scoutify.ai/companies/ampol?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000000982105-settlements-officer-6-month-contract) |
+| Category | Accounting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001200929-settlements-officer-6-month-contract) |
 
 ## About This Role
 
-This corporate finance position at Ampol was posted on 2026-04-08.
+This accounting position at Ampol was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

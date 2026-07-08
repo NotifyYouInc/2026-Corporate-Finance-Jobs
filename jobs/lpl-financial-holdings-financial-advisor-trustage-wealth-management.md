@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Arizona, US |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Remote-Arizona/Financial-Advisor---TruStage-Wealth-Management_R-050942-1) |
+| Location | United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Remote-USA/Financial-Advisor---TruStage-Wealth-Management_R-051830-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-06-01.
+This wealth management / private banking position at LPL Financial Holdings was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

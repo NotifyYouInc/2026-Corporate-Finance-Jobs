@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San José, San José, Costa Rica |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-Costa-Rica-San-Jose/Finance-Manager_R0164326-1) |
+| Location | Pirmasens, Rheinland-Pfalz, Germany |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/Oconus-Germany-Pirmasens/Finance-Manager_R0164374) |
 
 ## About This Role
 
-This corporate finance position at Amentum was posted on 2026-06-25.
+This fp&a / strategic finance position at Amentum was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

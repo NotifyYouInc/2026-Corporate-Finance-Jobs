@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Medelln/Commercial-Finance-Analyst_R1116962-1) |
+| Location | 2 locations |
+| Category | Financial Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Commercial-Finance-Analyst_R1126028-1) |
 
 ## About This Role
 
-This corporate finance position at Dentsu was posted on 2026-03-31.
+This financial analyst position at Dentsu was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

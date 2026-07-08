@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paramus, New Jersey, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131983084-senior-director-accounting) |
+| Category | Accounting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135312674-senior-director-accounting) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-06-12.
+This accounting position at Veolia was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

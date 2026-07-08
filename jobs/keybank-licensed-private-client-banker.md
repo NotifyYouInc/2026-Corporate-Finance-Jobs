@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mentor, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Mentor-OH/Licensed-Private-Client-Banker_R-40561) |
+| Location | 2 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Seattle-WA/Licensed-Private-Client-Banker_R-40721-1) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-06-24.
+This wealth management / private banking position at KeyBank was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

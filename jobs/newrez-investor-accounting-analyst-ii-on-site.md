@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Newrez](https://scoutify.ai/companies/newrez?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Coppell, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/Investor-Accounting-Analyst-II--On-site-_R9522) |
+| Category | Accounting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/Investor-Accounting-Analyst-II--On-site-_R9868) |
 
 ## About This Role
 
-This corporate finance position at Newrez was posted on 2026-03-09.
+This accounting position at Newrez was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

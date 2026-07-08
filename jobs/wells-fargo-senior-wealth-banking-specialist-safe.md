@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MELVILLE-NY/Senior-Wealth-Banking-Specialist--SAFE-_R-554322-1) |
+| Location | 5 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Wealth-Banking-Specialist--SAFE-_R-551409-1) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-26.
+This wealth management / private banking position at Wells Fargo was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

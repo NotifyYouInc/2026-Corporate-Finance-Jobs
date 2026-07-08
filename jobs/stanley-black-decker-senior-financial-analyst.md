@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Cuautitln-Izcalli-Mxico-Mexico/Senior-Financial-Analyst_REQ-1000045718) |
+| Location | Pune, Maharashtra, India |
+| Category | Financial Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Pune-Pune-District-Maharashtra-India/Senior-Financial-Analyst_REQ-1000045276-1) |
 
 ## About This Role
 
-This corporate finance position at Stanley Black & Decker was posted on 2026-03-10.
+This financial analyst position at Stanley Black & Decker was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
