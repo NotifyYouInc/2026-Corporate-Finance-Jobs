@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Middleton, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Middleton-Wisconsin-United-States-of-America/Wealth-Management-Associate_JR038739) |
+| Location | Glens Falls, New York, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Glens-Falls-New-York-United-States-of-America/Wealth-Management-Associate_JR040047-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-06-11.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Customer-Service---Operations-Credit-Analyst_R-00280903-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Financial Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Customer-Service---Operations-Credit-Analyst_R-00278874) |
 
 ## About This Role
 
-This corporate finance position at NatWest Group was posted on 2026-06-26.
+This financial analyst position at NatWest Group was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Alpharetta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Alpharetta-GA-30005/Lease-Admin-Coordinator-II---REMOTE_R167497) |
+| Category | Accounting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Alpharetta-GA-30005/Lease-Admin-Coordinator-II---REMOTE_R176808) |
 
 ## About This Role
 
-This corporate finance position at Ryder System was posted on 2026-03-23.
+This accounting position at Ryder System was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

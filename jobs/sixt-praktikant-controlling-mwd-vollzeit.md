@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Germany |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000135245334-praktikant-controlling-mwd-vollzeit) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000135421379-praktikant-controlling-mwd-vollzeit) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Sixt was posted on 2026-07-01.
+This fp&a / strategic finance position at Sixt was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

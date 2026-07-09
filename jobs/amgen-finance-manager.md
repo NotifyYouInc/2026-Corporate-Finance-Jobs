@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | FP&A / Strategic Finance |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Finance-Manager_R-248193-1) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Finance-Manager_R-248189-1) |
 
 ## About This Role
 

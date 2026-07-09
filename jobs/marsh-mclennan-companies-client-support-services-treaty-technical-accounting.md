@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Manila---SixNEO/Client-Support-Services---Treaty-Technical-Accounting_R_350279) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Manila---SixNEO/Client-Support-Services---Treaty-Technical-Accounting_R_350262) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-06-15.
+This actuary / insurance analytics position at Marsh & McLennan Companies was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

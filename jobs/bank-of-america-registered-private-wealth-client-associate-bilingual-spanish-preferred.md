@@ -6,7 +6,7 @@
 | Location | Miami, Florida, United States |
 | Category | Wealth Management / Private Banking |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Miami/Registered-Private-Wealth-Client-Associate---Bilingual-Spanish-Preferred_26022545) |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Miami/Registered-Private-Wealth-Client-Associate---Bilingual-Spanish-Preferred_26022683-2) |
 
 ## About This Role
 

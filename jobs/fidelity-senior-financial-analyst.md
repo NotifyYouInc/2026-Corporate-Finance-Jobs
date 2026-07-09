@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Covington-KY/Senior-Financial-Analyst_2129783) |
+| Location | Westlake, Ohio, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Financial-Analyst_2130965-1) |
 
 ## About This Role
 
-This corporate finance position at Fidelity was posted on 2026-05-27.
+This fp&a / strategic finance position at Fidelity was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

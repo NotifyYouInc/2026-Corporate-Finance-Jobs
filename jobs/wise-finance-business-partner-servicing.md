@@ -1,16 +1,16 @@
-# Finance Business Partner - Servicing at WISE
+# Finance Business Partner - Servicing  at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124154149-finance-business-partner-servicing) |
+| Location | Tallinn, Harjumaa, Estonia |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000135440709-finance-business-partner-servicing) |
 
 ## About This Role
 
-This corporate finance position at WISE was posted on 2026-05-01.
+This fp&a / strategic finance position at WISE was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

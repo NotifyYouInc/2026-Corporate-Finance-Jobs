@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alphalion](https://scoutify.ai/companies/alphalion?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphalion/jobs/5192317008) |
+| Location | United States |
+| Category | Accounting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphalion/jobs/5288673008) |
 
 ## About This Role
 
-This corporate finance position at Alphalion was posted on 2026-04-17.
+This accounting position at Alphalion was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

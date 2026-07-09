@@ -1,16 +1,16 @@
-# IN_Senior Associate _ Investment Banking_INFRA_ Advisory_ Mumbai at PwC
+# IN_Senior Associate_Investment Banking_Infra_Advisory_Mumbai at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate---Investment-Banking-INFRA--Advisory--Mumbai_718627WD-1) |
+| Category | Investment Banking |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate-Investment-Banking-Infra-Advisory-Mumbai_738715WD-1) |
 
 ## About This Role
 
-This corporate finance position at PwC was posted on 2026-04-03.
+This investment banking position at PwC was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

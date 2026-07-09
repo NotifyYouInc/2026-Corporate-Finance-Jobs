@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Washington---Seattle/Market-Finance-Lead_R-414811) |
+| Location | Fort Lauderdale, Florida, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Fort-Lauderdale-FL/Market-Finance-Lead_R-421463) |
 
 ## About This Role
 
-This corporate finance position at Humana was posted on 2026-04-30.
+This fp&a / strategic finance position at Humana was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Monterrey/Lead-Finance-Specialist---FP-A-Operations_R5040198-1) |
+| Location | 2 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Monterrey/Lead-Finance-Specialist---FP-A-Operations_R5045466-2) |
 
 ## About This Role
 
-This corporate finance position at GE Vernova was posted on 2026-04-29.
+This fp&a / strategic finance position at GE Vernova was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

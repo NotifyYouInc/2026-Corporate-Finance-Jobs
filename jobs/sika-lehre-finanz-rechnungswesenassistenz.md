@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vienna, Vienna, Austria |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000129384149-lehre-finanz-rechnungswesenassistenz) |
+| Category | Accounting |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000135413829-lehre-finanz-rechnungswesenassistenz) |
 
 ## About This Role
 
-This corporate finance position at Sika was posted on 2026-06-01.
+This accounting position at Sika was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

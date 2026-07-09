@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manly, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000113926293-assistant-financial-controller) |
+| Location | Darwin, Northern Territory, Australia |
+| Category | Accounting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000135363779-assistant-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-11.
+This accounting position at ACCOR was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

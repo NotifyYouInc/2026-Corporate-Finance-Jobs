@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Austin, Texas, United States |
+| Location | San Diego, California, United States |
 | Category | Wealth Management / Private Banking |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Austin-78703/Senior-Relationship-Strategist---PNC-Private-Bank_R225971-1) |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CA---San-Diego-92130/Senior-Relationship-Strategist---PNC-Private-Bank_R227998-1) |
 
 ## About This Role
 

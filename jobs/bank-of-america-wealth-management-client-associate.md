@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Frontenac, Missouri, United States |
+| Location | Brea, California, United States |
 | Category | Wealth Management / Private Banking |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Frontenac/Wealth-Management-Client-Associate_26022596) |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Brea/Wealth-Management-Client-Associate_26022675) |
 
 ## About This Role
 

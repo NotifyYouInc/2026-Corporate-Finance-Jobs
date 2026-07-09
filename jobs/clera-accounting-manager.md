@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/e6be4003-306e-40ae-8a1f-bbb5704b4d14) |
+| Location | 3 locations |
+| Category | Accounting |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/db867bc3-fdb9-421f-91bb-8ede36f17769) |
 
 ## About This Role
 
-This corporate finance position at Clera was posted on 2026-06-05.
+This accounting position at Clera was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

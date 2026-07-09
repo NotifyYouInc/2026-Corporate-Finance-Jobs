@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FNBO](https://scoutify.ai/companies/firstnational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Sr-Analyst--Finance_R-20260673) |
+| Location | Omaha, Nebraska, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Sr-Analyst--Finance_R-20261155) |
 
 ## About This Role
 
-This corporate finance position at FNBO was posted on 2026-04-17.
+This fp&a / strategic finance position at FNBO was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

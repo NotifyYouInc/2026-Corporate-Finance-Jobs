@@ -5,12 +5,12 @@
 | Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rueil-Malmaison, Île-de-France, France |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000135285419-responsable-comptable-hf) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000135428173-responsable-comptable-hf) |
 
 ## About This Role
 
-This accounting position at Quadient was posted on 2026-07-01.
+This accounting position at Quadient was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

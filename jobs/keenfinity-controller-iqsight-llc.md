@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Keenfinity](https://scoutify.ai/companies/keenfinity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Fairport, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000130272380-controller-iqsight-llc) |
+| Category | Accounting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000135361609-controller-iqsight-llc) |
 
 ## About This Role
 
-This corporate finance position at Keenfinity was posted on 2026-06-04.
+This accounting position at Keenfinity was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

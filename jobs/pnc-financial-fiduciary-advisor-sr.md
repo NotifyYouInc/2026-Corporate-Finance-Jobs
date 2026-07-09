@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Princeton, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NJ---Princeton/Fiduciary-Advisor-Sr_R224727-1) |
+| Location | Pittsburgh, Pennsylvania, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Fiduciary-Advisor-Sr_R227785-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-05.
+This wealth management / private banking position at PNC Financial was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

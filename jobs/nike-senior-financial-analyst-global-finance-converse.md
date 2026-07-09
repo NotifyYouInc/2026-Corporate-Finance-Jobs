@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Senior-Financial-Analyst--Global-Finance---Converse_R-82813) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Senior-Financial-Analyst--Global-Finance---Converse_R-87078-1) |
 
 ## About This Role
 
-This corporate finance position at Nike was posted on 2026-05-12.
+This fp&a / strategic finance position at Nike was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
