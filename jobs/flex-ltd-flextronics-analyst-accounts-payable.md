@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Analyst---Accounts-Payable_WD223159) |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Analyst---Accounts-Payable_WD222483) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-06-23.
+This accounting position at FLEX LTD. Flextronics was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

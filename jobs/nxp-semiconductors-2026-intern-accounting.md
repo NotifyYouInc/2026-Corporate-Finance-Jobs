@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/XMLNAME-2026-Intern---Accounting_R-10062529) |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/XMLNAME-2026-Intern---Accounting_R-10064303) |
 
 ## About This Role
 
-This corporate finance position at NXP Semiconductors was posted on 2026-06-04.
+This accounting position at NXP Semiconductors was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

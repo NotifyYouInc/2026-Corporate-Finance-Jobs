@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Private-Wealth-Advisor--Private-Client---Personal-Strategy-_R0058311) |
+| Location | 2 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/TX-Dallas---Remote/Private-Wealth-Advisor--Private-Client---Personal-Strategy-_R0059848) |
 
 ## About This Role
 
-This corporate finance position at Empower was posted on 2026-04-23.
+This wealth management / private banking position at Empower was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

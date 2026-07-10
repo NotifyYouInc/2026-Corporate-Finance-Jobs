@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Program-Cost-Control-Analyst---Level-3_R10237583) |
+| Location | Redondo Beach, California, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Program-Cost-Control-Analyst---Level-3_R10238781-1) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-06-24.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

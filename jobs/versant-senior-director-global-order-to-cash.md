@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Orlando, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131964675-senior-director-global-order-to-cash) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135580279-senior-director-global-order-to-cash) |
 
 ## About This Role
 
-This corporate finance position at Versant was posted on 2026-06-12.
+This fp&a / strategic finance position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

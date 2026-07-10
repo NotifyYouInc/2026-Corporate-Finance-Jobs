@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Senior-Finance-Manager--Onsite---Plano--TX-_R117233) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Senior-Finance-Manager--Onsite---Plano--TX-_R118305) |
 
 ## About This Role
 
-This corporate finance position at Samsung was posted on 2026-05-18.
+This fp&a / strategic finance position at Samsung was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

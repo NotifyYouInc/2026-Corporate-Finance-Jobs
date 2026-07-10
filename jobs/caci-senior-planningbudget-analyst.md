@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chantilly, Virginia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Senior-Planning-Budget-Analyst_323862) |
+| Location | 2 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Senior-Planning-Budget-Analyst_325605) |
 
 ## About This Role
 
-This corporate finance position at CACI was posted on 2026-05-20.
+This fp&a / strategic finance position at CACI was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

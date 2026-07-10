@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/Transaction-Processing--Associate-2_R-789128) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Financial Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Chennai-India/Transaction-Processing--Associate-2_R-793308-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-14.
+This financial analyst position at State Street was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

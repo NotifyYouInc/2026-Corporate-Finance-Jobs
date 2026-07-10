@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Diego, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Program-Cost-and-Schedule-Control-Analyst_R10237945-1) |
+| Location | 2 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Program-Cost-and-Schedule-Control-Analyst_R10238788) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-06-26.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

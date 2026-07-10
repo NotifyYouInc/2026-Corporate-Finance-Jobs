@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Financial Group](https://scoutify.ai/companies/gaig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Tax-Analyst_R8920) |
+| Category | Accounting |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Tax-Analyst_R9184) |
 
 ## About This Role
 
-This corporate finance position at American Financial Group was posted on 2026-04-30.
+This accounting position at American Financial Group was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

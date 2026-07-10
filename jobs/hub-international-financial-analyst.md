@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
-| Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Calgary-AB/Financial-Analyst_R0034486-1) |
+| Location | 2 locations |
+| Category | Financial Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/San-Antonio---TX---106-S-St-Marys-Street/Financial-Analyst_R0037121) |
 
 ## About This Role
 
-This corporate finance position at HUB International was posted on 2026-02-11.
+This financial analyst position at HUB International was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

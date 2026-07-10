@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Diego, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000131945889-senior-associate-investor-services) |
+| Location | San Francisco, California, United States |
+| Category | Investor Relations |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000135569759-senior-associate-investor-services) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-06-12.
+This investor relations position at IQ-EQ was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jacksonville, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Client-Executive---Assistant-Vice-President_26966269) |
+| Category | Sales & Trading |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Client-Executive---Assistant-Vice-President_26976643) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-15.
+This sales & trading position at Citigroup was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Financial Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Mumbai-India/Senior-Associate_R44718) |
+| Location | Evansville, Indiana, United States |
+| Category | Investor Relations |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Evansville-IN/Senior-Associate_R44711) |
 
 ## About This Role
 
-This financial analyst position at SS&C Technologies was posted on 2026-07-01.
+This investor relations position at SS&C Technologies was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

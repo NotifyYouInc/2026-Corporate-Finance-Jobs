@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438185/cost-management-specialist-sort-center) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465434/cost-management-specialist-sort-center) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-03.
+This fp&a / strategic finance position at Amazon was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

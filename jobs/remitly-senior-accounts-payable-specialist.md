@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Managua, Managua Department, Nicaragua |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Managua-Nicaragua/Senior-Accounts-Payable-Specialist_R_106492) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Manila-Phillippines/Senior-Accounts-Payable-Specialist_R_106473) |
 
 ## About This Role
 
-This accounting position at Remitly was posted on 2026-07-01.
+This accounting position at Remitly was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

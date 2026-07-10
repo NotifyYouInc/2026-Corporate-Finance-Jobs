@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Strategic-Finance-Internship_R000153716) |
+| Location | Brussels, Brussels Capital, Belgium |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Strategic-Finance-Internship_R000154729) |
 
 ## About This Role
 
-This corporate finance position at Procter & Gamble was posted on 2026-06-18.
+This fp&a / strategic finance position at Procter & Gamble was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

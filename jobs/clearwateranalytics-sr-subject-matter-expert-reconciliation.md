@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Bengaluru/Sr-Subject-Matter-Expert-Reconciliation_R6920) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Mumbai/Sr-Subject-Matter-Expert-Reconciliation_R6928) |
 
 ## About This Role
 
-This corporate finance position at Clearwateranalytics was posted on 2026-05-29.
+This accounting position at Clearwateranalytics was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

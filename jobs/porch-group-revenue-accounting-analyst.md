@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Porch Group](https://scoutify.ai/companies/porch-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/IN-Remote/Revenue-Accounting-Analyst_JR101176) |
+| Category | Accounting |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/IN-Remote/Revenue-Accounting-Analyst_JR101301) |
 
 ## About This Role
 
-This corporate finance position at Porch Group was posted on 2026-04-13.
+This accounting position at Porch Group was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

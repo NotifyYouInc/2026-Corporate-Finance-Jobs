@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Irving-Texas-US/Financial-Analyst_R-19645) |
+| Location | 2 locations |
+| Category | Financial Analyst |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Budapest-Hungary/Financial-Analyst_R-19917) |
 
 ## About This Role
 
-This corporate finance position at Flowserve was posted on 2026-06-01.
+This financial analyst position at Flowserve was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

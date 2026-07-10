@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Iselin, New Jersey, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133404625-senior-associate-private-equity-fund-accounting) |
+| Location | New York City, New York, United States |
+| Category | Accounting |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000135597044-senior-associate-private-equity-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-06-22.
+This accounting position at IQ-EQ was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

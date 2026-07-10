@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Selangor, MY |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Selangor/Relationship-Manager--Premier-Banking_JR006473-1) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Selangor/Relationship-Manager--Premier-Banking_JR006530-1) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-06-25.
+This wealth management / private banking position at RHB was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

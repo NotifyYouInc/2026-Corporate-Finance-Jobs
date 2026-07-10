@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brea, California, United States |
+| Location | Hunt Valley, Maryland, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Brea/Wealth-Management-Client-Associate_26022675) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Hunt-Valley/Wealth-Management-Client-Associate_26022819) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-07-01.
+This wealth management / private banking position at Bank of America was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

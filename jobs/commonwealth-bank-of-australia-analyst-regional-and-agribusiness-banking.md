@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/NSW-Central--Western-Area/Analyst---Regional-and-Agribusiness-Banking_REQ259206) |
+| Location | Cairns, Queensland, Australia |
+| Category | Financial Analyst |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/North-and-Far-North-QLD-Area/Analyst---Regional-and-Agribusiness-Banking_REQ261182) |
 
 ## About This Role
 
-This corporate finance position at Commonwealth Bank of Australia was posted on 2026-05-27.
+This financial analyst position at Commonwealth Bank of Australia was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

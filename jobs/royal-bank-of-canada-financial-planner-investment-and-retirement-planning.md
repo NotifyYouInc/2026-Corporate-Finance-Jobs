@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Abbotsford, British Columbia, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/ABBOTSFORD-British-Columbia-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000178447) |
+| Location | 2 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TERRACE-British-Columbia-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000178961) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-25.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

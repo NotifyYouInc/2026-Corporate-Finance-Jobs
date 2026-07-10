@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Northridge, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Budget-Analyst_R10235384) |
+| Location | El Segundo, California, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Budget-Analyst_R10238858) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-06-05.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Houston---One-Thousand-Main/Trader---Middle-Distillates_R204240) |
+| Category | Sales & Trading |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Houston---One-Thousand-Main/Trader---Middle-Distillates_R206616) |
 
 ## About This Role
 
-This corporate finance position at Shell was posted on 2026-05-19.
+This sales & trading position at Shell was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

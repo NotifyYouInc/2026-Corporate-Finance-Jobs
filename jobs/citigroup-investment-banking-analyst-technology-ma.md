@@ -1,16 +1,16 @@
-# Investment Banking Analyst, Technology M&A at Citigroup
+# Investment Banking Analyst - Technology M&A at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Investment-Banking-Analyst--Technology-M-A_26941852) |
+| Category | Investment Banking |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Investment-Banking-Analyst---Technology-M-A_26970860) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-02-26.
+This investment banking position at Citigroup was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

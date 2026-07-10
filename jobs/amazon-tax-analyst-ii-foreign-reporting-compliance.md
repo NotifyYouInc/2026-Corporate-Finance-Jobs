@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10396739/tax-analyst-ii-foreign-reporting-compliance) |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465505/tax-analyst-ii-foreign-reporting-compliance) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-04-20.
+This accounting position at Amazon was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

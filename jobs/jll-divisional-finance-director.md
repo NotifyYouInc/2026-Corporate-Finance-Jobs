@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Divisional-Finance-Director_REQ503375) |
+| Location | 3 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Divisional-Finance-Director_REQ519072-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-04-29.
+This fp&a / strategic finance position at JLL was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

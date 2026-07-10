@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Envista](https://scoutify.ai/companies/envista?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Jose, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/CRI---San-Jose---Multiple-OpCo/Cash-Collection-Representative-II_R5026149) |
+| Location | San José, San José, Costa Rica |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/CRI---San-Jose---Multiple-OpCo/Cash-Collection-Representative-II_R5026762) |
 
 ## About This Role
 
-This corporate finance position at Envista was posted on 2026-04-24.
+This accounting position at Envista was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

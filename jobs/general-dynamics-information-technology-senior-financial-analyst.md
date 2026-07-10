@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Falls Church, Virginia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Senior-Financial-Analyst_RQ219988-1) |
+| Location | United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Financial-Analyst_RQ223432-1) |
 
 ## About This Role
 
-This corporate finance position at General Dynamics Information Technology was posted on 2026-05-18.
+This financial analyst position at General Dynamics Information Technology was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

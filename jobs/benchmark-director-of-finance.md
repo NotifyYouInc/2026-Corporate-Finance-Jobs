@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newton, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Boston-Marriott-Newton/Director-of-Finance_R0063784) |
+| Location | Tampa, Florida, United States |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Westin-Tampa-Bay/Director-of-Finance_R0064412-1) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-06-16.
+This accounting position at Benchmark was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

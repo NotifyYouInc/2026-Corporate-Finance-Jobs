@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000130148009-sachbearbeiterin-buchhaltungcontrollingaccounting-mwx) |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000135646870-sachbearbeiterin-buchhaltungcontrollingaccounting-mwx) |
 
 ## About This Role
 
-This corporate finance position at flash-security was posted on 2026-06-04.
+This accounting position at flash-security was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

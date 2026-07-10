@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/purestorage/jobs/7191724?gh_jid=7191724) |
+| Location | Chicago, Illinois, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8044810) |
 
 ## About This Role
 
-This corporate finance position at Pure Storage was posted on 2026-02-18.
+This fp&a / strategic finance position at Pure Storage was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

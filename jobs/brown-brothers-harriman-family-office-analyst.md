@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Houston/Family-Office-Analyst_70911) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Charlotte/Family-Office-Analyst_71624) |
 
 ## About This Role
 
-This corporate finance position at Brown Brothers Harriman was posted on 2026-04-21.
+This wealth management / private banking position at Brown Brothers Harriman was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

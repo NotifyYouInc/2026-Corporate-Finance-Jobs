@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Tax-Manager-Candidate---Tax-Section--Tax-Department--TAX-_1033853-67) |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Tax-Manager-Candidate---Tax-Section--Tax-Department--TAX-_1034631-1) |
 
 ## About This Role
 
-This corporate finance position at Rakuten was posted on 2026-05-27.
+This accounting position at Rakuten was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
