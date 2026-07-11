@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valorhospitality](https://scoutify.ai/companies/valorhospitality?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Texas, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://valorhospitality.wd503.myworkdayjobs.com/who-we-are/job/Hilton-College-Station-Texas/Director-of-Finance_JR107867) |
+| Location | College Station, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://valorhospitality.wd503.myworkdayjobs.com/who-we-are/job/Hilton-College-Station-Texas/Director-of-Finance_JR108498) |
 
 ## About This Role
 
-This corporate finance position at Valorhospitality was posted on 2026-03-06.
+This accounting position at Valorhospitality was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

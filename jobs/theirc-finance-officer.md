@@ -1,16 +1,16 @@
-# Finance Officer at Theirc
+# FINANCE OFFICER at Theirc
 
 | Field | Details |
 |-------|---------|
 | Company | [Theirc](https://scoutify.ai/companies/theirc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ramallah, West Bank, Palestinian Territory |
-| Category | Corporate Finance |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Ramallah-occupied-Palestinian-Territory-oPT/Finance-Officer_JR00003530) |
+| Location | Bunia, Ituri, Democratic Republic of the Congo |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Bunia-Democratic-Republic-of-the-Congo/FINANCE-OFFICER_JR00004049) |
 
 ## About This Role
 
-This corporate finance position at Theirc was posted on 2026-05-24.
+This accounting position at Theirc was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

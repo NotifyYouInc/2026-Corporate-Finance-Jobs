@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000132251434-epbcs-analyst-it) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000135733996-epbcs-analyst-it) |
 
 ## About This Role
 
-This corporate finance position at Mattel was posted on 2026-06-15.
+This fp&a / strategic finance position at Mattel was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Procure-to-Pay-Operations-Analyst_AIOC-S01635668-1) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/Procure-to-Pay-Operations-Analyst_14453959) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-03.
+This accounting position at Accenture was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

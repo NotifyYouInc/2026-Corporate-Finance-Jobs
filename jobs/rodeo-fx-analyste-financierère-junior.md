@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rodeo FX](https://scoutify.ai/companies/rodeo-fx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rodeofx/744000129251241-analyste-financierere-junior) |
+| Category | Financial Analyst |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/rodeofx/744000135735169-analyste-financierere-junior) |
 
 ## About This Role
 
-This corporate finance position at Rodeo FX was posted on 2026-05-29.
+This financial analyst position at Rodeo FX was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

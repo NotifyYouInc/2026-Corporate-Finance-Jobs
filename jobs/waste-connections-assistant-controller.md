@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Elkhart, Indiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/3180-Waste-Away-District-Main/Assistant-Controller_R-99117) |
+| Location | Knoxville, Tennessee, United States |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/6032-Knoxville-MainYd2400Chpmn/Assistant-Controller_R-101138) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-05-12.
+This accounting position at Waste Connections was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

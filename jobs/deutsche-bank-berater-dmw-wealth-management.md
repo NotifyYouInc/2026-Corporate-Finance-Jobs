@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Starnberg, Bavaria, Germany |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Starnberg-Wittelsbacher-Str/Berater--d-m-w--Wealth-Management_R0426699) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Berlin-Sophie-C-PlBismarckstr/Berater--d-m-w--Wealth-Management_R0426593) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-06-24.
+This wealth management / private banking position at Deutsche Bank was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fayetteville, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Fayetteville-AR---Fayetteville-Branch/Private-Wealth-Management-Trust-Advisor_R102374-1) |
+| Location | Indianapolis, Indiana, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Indianapolis-IN---One-Indiana-Square-Office/Private-Wealth-Management-Trust-Advisor_R103850) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-05-01.
+This wealth management / private banking position at Regions Bank was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

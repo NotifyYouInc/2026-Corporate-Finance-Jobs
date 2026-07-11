@@ -1,16 +1,16 @@
-# Accounts Assistant at ACCOR
+# Accounts Assistant  at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000133854339-accounts-assistant) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Accounting |
+| Posted | 2026-07-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000135812659-accounts-assistant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-24.
+This accounting position at ACCOR was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

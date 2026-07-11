@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nantes, Pays de la Loire, France |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000131381180-controleur-de-gestion-hf-nantes-44) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000135730149-controleur-de-gestion-hf-nantes-44) |
 
 ## About This Role
 
-This corporate finance position at Eurofins Scientific was posted on 2026-06-10.
+This fp&a / strategic finance position at Eurofins Scientific was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

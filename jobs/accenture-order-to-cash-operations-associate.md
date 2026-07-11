@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Jaipur, Rajasthan, India |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Order-to-Cash-Operations-Associate_AIOC-S01653092-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Order-to-Cash-Operations-Associate_AIOC-S01653294-1) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-07-02.
+This accounting position at Accenture was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

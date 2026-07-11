@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Sr-Supervisor_26969609) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Fund-Accounting-Sr-Supervisor_26975246) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-12.
+This accounting position at Citigroup was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

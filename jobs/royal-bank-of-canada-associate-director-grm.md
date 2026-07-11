@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate-Director--GRM_R-0000160639-1) |
+| Category | Financial Analyst |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate-Director--GRM_R-0000178828-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-02-25.
+This financial analyst position at Royal Bank of Canada was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

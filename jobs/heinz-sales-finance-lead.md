@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newmarket, Auckland, New Zealand |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Newmarket---Auckland/Sales-Finance-Lead_R-103763) |
+| Location | London, England, United Kingdom |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/London---The-Shard/Sales-Finance-Lead_R-104366) |
 
 ## About This Role
 
-This corporate finance position at Heinz was posted on 2026-06-15.
+This fp&a / strategic finance position at Heinz was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

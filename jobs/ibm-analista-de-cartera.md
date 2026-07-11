@@ -1,16 +1,16 @@
-# Analista de cartera at IBM
+# Analista de Cartera at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102040) |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=123979) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-03-12.
+This accounting position at IBM was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

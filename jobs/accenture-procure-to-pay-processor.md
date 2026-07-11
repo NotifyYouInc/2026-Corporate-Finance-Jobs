@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dalian, Liaoning, China |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Procure-to-Pay-Processor_13706470) |
+| Location | Medellín, Antioquia, Colombia |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Medellin-Rivana-2/Procure-to-Pay-Processor_14473797) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-09.
+This accounting position at Accenture was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

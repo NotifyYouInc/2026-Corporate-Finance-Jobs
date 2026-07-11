@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000133092200-finance-assistant-uae-national) |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000135687874-finance-assistant-uae-national) |
 
 ## About This Role
 
-This corporate finance position at Turner & Townsend was posted on 2026-06-19.
+This accounting position at Turner & Townsend was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

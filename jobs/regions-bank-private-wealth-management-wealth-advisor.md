@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Gainesville-GA---Regions-Administration-Building/Private-Wealth-Management-Wealth-Advisor_R100970) |
+| Location | Atlanta, Georgia, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Atlanta-GA---Buckhead-Branch/Private-Wealth-Management-Wealth-Advisor_R101025) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-03-30.
+This wealth management / private banking position at Regions Bank was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

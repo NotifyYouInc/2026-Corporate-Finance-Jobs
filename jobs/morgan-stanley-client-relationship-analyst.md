@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Evansville, Indiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Evansville-Indiana-United-States-of-America/Client-Relationship-Analyst_JR031029) |
+| Location | Boston, Massachusetts, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-04 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Boston-Massachusetts-United-States-of-America/Client-Relationship-Analyst_JR039855) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-03-05.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

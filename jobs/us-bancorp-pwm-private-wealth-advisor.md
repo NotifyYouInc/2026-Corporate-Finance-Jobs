@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Palm Beach, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Palm-Beach-FL/PWM-Private-Wealth-Advisor_2026-0018703-1) |
+| Location | Kansas City, Missouri, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Kansas-City-MO/PWM-Private-Wealth-Advisor_2026-0017527) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bancorp was posted on 2026-06-26.
+This wealth management / private banking position at U.S. Bancorp was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

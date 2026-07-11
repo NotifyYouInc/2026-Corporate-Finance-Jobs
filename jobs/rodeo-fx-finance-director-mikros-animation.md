@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rodeo FX](https://scoutify.ai/companies/rodeo-fx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rodeofx/744000134493526-finance-director-mikros-animation) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/rodeofx/744000135757669-finance-director-mikros-animation) |
 
 ## About This Role
 
-This corporate finance position at Rodeo FX was posted on 2026-06-26.
+This fp&a / strategic finance position at Rodeo FX was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

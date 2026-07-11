@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Germany |
-| Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000114399177-trainee-corporate-controlling-all-genders) |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000135707219-trainee-corporate-controlling-all-genders) |
 
 ## About This Role
 
-This corporate finance position at METRO/MAKRO was posted on 2026-03-12.
+This fp&a / strategic finance position at METRO/MAKRO was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

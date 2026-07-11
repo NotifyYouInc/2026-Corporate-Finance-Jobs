@@ -1,0 +1,22 @@
+# Controller (m/w/d) mit Schwerpunkt SAP S/4 HANA at Umdasch
+
+| Field | Details |
+|-------|---------|
+| Company | [Umdasch](https://scoutify.ai/companies/umdasch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Amstetten, Lower Austria, Austria |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UmdaschGroup/744000135688169-controller-mwd-mit-schwerpunkt-sap-s4-hana) |
+
+## About This Role
+
+This fp&a / strategic finance position at Umdasch was posted on 2026-07-03.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Assistant-Vice-President-1_JR-0022791) |
+| Location | Gujarat, IN |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Gift-City-Hiranandani-Signature/Account-Manager---Fund-Accounting_JR-0019756) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-06-05.
+This asset management / portfolio management position at Apex Fund Services was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

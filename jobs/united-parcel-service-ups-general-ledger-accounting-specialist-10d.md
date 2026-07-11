@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Texas, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---DALLAS-SANDY-LAKE-TXCOP/General-Ledger-Accounting-Specialist---10D_R26010455) |
+| Location | Dallas, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---DALLAS-SANDY-LAKE-TXCOP/General-Ledger-Accounting-Specialist---10D_R26022628) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-04-03.
+This accounting position at United Parcel Service (UPS) was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
