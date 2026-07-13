@@ -5,12 +5,12 @@
 | Company | [Air New Zealand](https://scoutify.ai/companies/air-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001199597-finance-specialist) |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001207788-finance-specialist) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Air New Zealand was posted on 2026-07-01.
+This fp&a / strategic finance position at Air New Zealand was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

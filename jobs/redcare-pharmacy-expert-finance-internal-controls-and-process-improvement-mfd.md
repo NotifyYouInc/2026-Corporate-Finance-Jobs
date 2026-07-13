@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sevenum, Limburg, The Netherlands |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130721189-expert-finance-internal-controls-and-process-improvement-mfd) |
+| Location | Köln, North Rhine-Westphalia, Germany |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000135919329-expert-finance-internal-controls-and-process-improvement-mfd) |
 
 ## About This Role
 
-This corporate finance position at Redcare Pharmacy was posted on 2026-06-08.
+This fp&a / strategic finance position at Redcare Pharmacy was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

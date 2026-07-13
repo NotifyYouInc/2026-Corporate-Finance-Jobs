@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New South Wales, AU |
-| Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000117210907-senior-finance-business-partner) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000135904129-senior-finance-business-partner) |
 
 ## About This Role
 
-This corporate finance position at SEEK was posted on 2026-03-27.
+This fp&a / strategic finance position at SEEK was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

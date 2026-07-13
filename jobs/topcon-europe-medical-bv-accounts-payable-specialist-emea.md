@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Topcon Europe Medical B.V.](https://scoutify.ai/companies/topcon-europe-medical-bv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Capelle aan den IJssel, South Holland, The Netherlands |
-| Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topconeuropemedicalbv/744000115611992-accounts-payable-specialist-emea) |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topconeuropemedicalbv/744000135935950-accounts-payable-specialist-emea) |
 
 ## About This Role
 
-This corporate finance position at Topcon Europe Medical B.V. was posted on 2026-03-19.
+This accounting position at Topcon Europe Medical B.V. was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

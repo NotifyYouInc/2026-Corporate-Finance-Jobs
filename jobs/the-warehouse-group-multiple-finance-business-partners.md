@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Warehouse Group](https://scoutify.ai/companies/the-warehouse-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/thewarehousegroup1/744000130701800-multiple-finance-business-partners) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/thewarehousegroup1/744000135878349-multiple-finance-business-partners) |
 
 ## About This Role
 
-This corporate finance position at The Warehouse Group was posted on 2026-06-08.
+This fp&a / strategic finance position at The Warehouse Group was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

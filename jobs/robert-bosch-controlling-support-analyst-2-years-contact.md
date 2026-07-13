@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Thailand |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135650850-controlling-support-analyst-2-years-contact) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135902199-controlling-support-analyst-2-years-contact) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Robert Bosch was posted on 2026-07-03.
+This fp&a / strategic finance position at Robert Bosch was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

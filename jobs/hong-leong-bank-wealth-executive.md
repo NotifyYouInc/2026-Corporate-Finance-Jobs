@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kajang, Selangor, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/KJG-J-SG-CHUA-KAJANG-BR/Wealth-Executive_JR0000025294) |
+| Location | Selangor, MY |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/GOM-TAMAN-SRI-GOMBAK-BR/Wealth-Executive_JR0000025389) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-06-29.
+This wealth management / private banking position at Hong Leong Bank was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

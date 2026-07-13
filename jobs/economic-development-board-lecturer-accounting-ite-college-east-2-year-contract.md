@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-CE-College-East/Lecturer---Accounting--ITE-College-East----2-Year-Contract_JR-10000049024) |
+| Location | Singapore |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-CE-College-East/Lecturer---Accounting--ITE-College-East----2-Year-Contract_JR-10000052372) |
 
 ## About This Role
 
-This corporate finance position at Economic Development Board was posted on 2026-04-06.
+This accounting position at Economic Development Board was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

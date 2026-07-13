@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Hyderabad-GBS-India/Specialist_R18027) |
+| Category | Accounting |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Hyderabad-GBS-India/Specialist_R18932) |
 
 ## About This Role
 
-This corporate finance position at International Flavors & Fragrances was posted on 2026-05-20.
+This accounting position at International Flavors & Fragrances was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

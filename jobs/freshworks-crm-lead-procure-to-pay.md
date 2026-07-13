@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000111538152-lead-procure-to-pay) |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000135944161-lead-procure-to-pay) |
 
 ## About This Role
 
-This corporate finance position at Freshworks CRM was posted on 2026-02-26.
+This accounting position at Freshworks CRM was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

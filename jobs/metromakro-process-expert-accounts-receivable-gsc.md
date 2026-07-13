@@ -1,16 +1,16 @@
-# Process Expert - Accounts Receivable (GSC) at METRO/MAKRO
+# Process Expert - Accounts Receivable (GSC)  at METRO/MAKRO
 
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000135242879-process-expert-accounts-receivable-gsc) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000135929901-process-expert-accounts-receivable-gsc) |
 
 ## About This Role
 
-This accounting position at METRO/MAKRO was posted on 2026-07-01.
+This accounting position at METRO/MAKRO was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

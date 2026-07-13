@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Karnataka-IN/Executive-Accounts_JR0000043394) |
+| Location | Karnataka, IN |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Karnataka-IN/Executive-Accounts_JR0000044211) |
 
 ## About This Role
 
-This corporate finance position at Marmon Holdings was posted on 2026-06-10.
+This accounting position at Marmon Holdings was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

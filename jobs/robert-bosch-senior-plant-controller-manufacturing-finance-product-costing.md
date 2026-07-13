@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135428920-senior-plant-controller-manufacturing-finance-product-costing) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135906829-senior-plant-controller-manufacturing-finance-product-costing) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Robert Bosch was posted on 2026-07-02.
+This fp&a / strategic finance position at Robert Bosch was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alliaxis](https://scoutify.ai/companies/aliaxis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jigani, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-KA---Jigani-Plant/Senior-Manager---Plant-Controller_R-55841-2) |
+| Location | Attibele, Karnataka, India |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-KA---Attibele-26/Senior-Manager---Plant-Controller_R-56730) |
 
 ## About This Role
 
-This corporate finance position at Alliaxis was posted on 2026-04-07.
+This fp&a / strategic finance position at Alliaxis was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

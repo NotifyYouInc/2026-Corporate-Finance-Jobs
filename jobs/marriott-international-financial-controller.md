@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26079245) |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26082478) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-06-29.
+This accounting position at Marriott International was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

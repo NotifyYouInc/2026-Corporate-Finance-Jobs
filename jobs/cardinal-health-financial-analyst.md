@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Singapore/Financial-Analyst_20179026) |
+| Location | Singapore |
+| Category | Financial Analyst |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Singapore/Financial-Analyst_20183473) |
 
 ## About This Role
 
-This corporate finance position at Cardinal Health was posted on 2026-04-16.
+This financial analyst position at Cardinal Health was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

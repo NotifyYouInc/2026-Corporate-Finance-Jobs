@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Finance_R-248191) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Finance_R-248190-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Amgen was posted on 2026-07-01.
+This fp&a / strategic finance position at Amgen was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

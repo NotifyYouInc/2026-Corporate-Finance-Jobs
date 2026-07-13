@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Analyst---Accounts-Payable_REQ472800-1) |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Analyst---Accounts-Payable_REQ519338) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-14.
+This accounting position at JLL was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

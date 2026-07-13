@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-_JR7743) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-_JR8502) |
 
 ## About This Role
 
-This corporate finance position at CTBC Financial Holding was posted on 2026-05-18.
+This fp&a / strategic finance position at CTBC Financial Holding was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

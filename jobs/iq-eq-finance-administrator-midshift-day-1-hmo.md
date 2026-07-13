@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133504940-finance-administrator-midshift-day-1-hmo) |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000135907639-finance-administrator-midshift-day-1-hmo) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-06-23.
+This accounting position at IQ-EQ was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

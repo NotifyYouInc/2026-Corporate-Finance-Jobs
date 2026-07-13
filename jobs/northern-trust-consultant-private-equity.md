@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant--Private-Equity_R154039-1) |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant--Private-Equity_R156512) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-06-15.
+This accounting position at Northern Trust was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

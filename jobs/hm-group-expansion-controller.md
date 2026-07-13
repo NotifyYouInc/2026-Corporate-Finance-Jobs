@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Shibuya, Tokyo, Japan |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000135695910-expansion-controller) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000135946981-expansion-controller) |
 
 ## About This Role
 
-This fp&a / strategic finance position at H&M Group was posted on 2026-07-03.
+This fp&a / strategic finance position at H&M Group was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

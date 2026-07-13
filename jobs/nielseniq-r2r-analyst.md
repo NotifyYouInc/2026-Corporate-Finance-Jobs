@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126857239-r2r-analyst) |
+| Category | Accounting |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000135870099-r2r-analyst) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-05-17.
+This accounting position at NielsenIQ was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Madrid--Spain/Investment-Banking-Senior-Analyst_26969704) |
+| Location | Singapore, Singapore |
+| Category | Investment Banking |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Investment-Banking-Senior-Analyst_26976137) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-17.
+This investment banking position at Citigroup was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sevenum, Limburg, The Netherlands |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000134717249-senior-accounting-project-manager-mfd) |
+| Location | Köln, North Rhine-Westphalia, Germany |
+| Category | Project Manager |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000135920684-senior-accounting-project-manager-mfd) |
 
 ## About This Role
 
-This corporate finance position at Redcare Pharmacy was posted on 2026-06-29.
+This project manager position at Redcare Pharmacy was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
