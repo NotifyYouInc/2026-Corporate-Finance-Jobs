@@ -1,16 +1,16 @@
-# Business Development Associate** at Morgan Stanley
+# Business Development Associate at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Allentown, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Allentown-Pennsylvania-United-States-of-America/Business-Development-Associate--_JR031880-1) |
+| Location | Newport, Rhode Island, United States |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Newport-Rhode-Island-United-States-of-America/Business-Development-Associate_JR039682-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-03-11.
+This sales development (sdr / bdr) position at Morgan Stanley was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

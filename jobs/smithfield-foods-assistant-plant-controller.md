@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Carolina, US |
-| Category | Corporate Finance |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Tar-Heel-NC/Assistant-Plant-Controller_R-2026-2075) |
+| Location | Milan, Tennessee, United States |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Milan-MO/Assistant-Plant-Controller_R-2026-8733-1) |
 
 ## About This Role
 
-This corporate finance position at Smithfield Foods was posted on 2026-05-16.
+This accounting position at Smithfield Foods was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

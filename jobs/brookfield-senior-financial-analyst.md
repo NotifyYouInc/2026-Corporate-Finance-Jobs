@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brookfield](https://scoutify.ai/companies/brookfield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/Senior-Financial-Analyst_R2050814) |
+| Category | Financial Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/Senior-Financial-Analyst_R2051316) |
 
 ## About This Role
 
-This corporate finance position at Brookfield was posted on 2026-06-05.
+This financial analyst position at Brookfield was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

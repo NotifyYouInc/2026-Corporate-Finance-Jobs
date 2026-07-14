@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Birmingham, Alabama, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Financial-Division-Executive_R100628) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Financial-Division-Executive_R103933) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-02-26.
+This fp&a / strategic finance position at Regions Bank was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

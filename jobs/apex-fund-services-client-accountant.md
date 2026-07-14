@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | France |
-| Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Client-Accountant_JR-0021075) |
+| Location | Mauritius |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Client-Accountant_JR-0024120-1) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-03-09.
+This accounting position at Apex Fund Services was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

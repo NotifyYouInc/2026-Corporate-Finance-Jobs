@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Seoul-Seoul-Korea/Finance-Analyst_JR00032320) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Financial Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Finance-Analyst_JR00039347) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-04-22.
+This financial analyst position at ABB was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

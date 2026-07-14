@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/Finance-Lead_WD30265528) |
+| Location | San Pedro Garza García, Nuevo León, Mexico |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/Finance-Lead_WD30273467-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson Controls was posted on 2026-03-30.
+This fp&a / strategic finance position at Johnson Controls was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

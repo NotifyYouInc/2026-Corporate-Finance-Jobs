@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/McLean-VA/Treasury-Sales-Consultant---Commercial_R0111039) |
+| Location | 3 locations |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Treasury-Sales-Consultant---Commercial_R0115625) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-02-05.
+This treasury & capital markets position at Truist was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

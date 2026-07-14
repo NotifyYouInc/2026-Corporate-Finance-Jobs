@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Financial Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000135400419-trust-analyst) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000136128639-trust-analyst) |
 
 ## About This Role
 
-This financial analyst position at IQ-EQ was posted on 2026-07-02.
+This financial analyst position at IQ-EQ was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

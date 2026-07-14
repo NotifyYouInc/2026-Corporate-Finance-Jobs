@@ -1,16 +1,16 @@
-# Senior Cyber Underwriter, Financial Lines at AIG
+# Senior Cyber Underwriter Financial Lines at AIG
 
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Sydney/Senior-Cyber-Underwriter--Financial-Lines_JR2602015) |
+| Location | Madrid, Madrid, Spain |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Madrid/Senior-Cyber-Underwriter-Financial-Lines_JR2602364) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-05-13.
+This actuary / insurance analytics position at AIG was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

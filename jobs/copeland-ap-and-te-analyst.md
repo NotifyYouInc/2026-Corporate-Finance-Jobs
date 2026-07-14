@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Quezon-City-Manila-Philippines/AP-and-T-E-Analyst_JR113839) |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Quezon-City-Manila-Philippines/AP-and-T-E-Analyst_JR116407-1) |
 
 ## About This Role
 
-This corporate finance position at Copeland was posted on 2026-04-01.
+This accounting position at Copeland was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

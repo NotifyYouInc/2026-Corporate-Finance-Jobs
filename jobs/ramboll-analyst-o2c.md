@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000133856769-analyst-o2c) |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000136138299-analyst-o2c) |
 
 ## About This Role
 
-This corporate finance position at Ramboll was posted on 2026-06-24.
+This accounting position at Ramboll was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

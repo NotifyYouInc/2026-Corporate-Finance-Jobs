@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Praca-dla-absolwentw-kierunkw-finansowych_R-792211-1) |
+| Location | Gdańsk, Pomerania, Poland |
+| Category | Financial Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Praca-dla-absolwentw-kierunkw-finansowych_R-793598-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-10.
+This financial analyst position at State Street was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

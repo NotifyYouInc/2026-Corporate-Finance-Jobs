@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nature's Bakery](https://scoutify.ai/companies/nature-s-bakery?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pasadena, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/naturesbakery/jobs/4688140006) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/naturesbakery/jobs/4694882006) |
 
 ## About This Role
 
-This corporate finance position at Nature's Bakery was posted on 2026-06-09.
+This accounting position at Nature's Bakery was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chamberlain Group](https://scoutify.ai/companies/chamberlain?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
-| Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Sr-Manager--FP-A_JR30269-2) |
+| Location | Oak Brook, Illinois, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Sr-Manager--FP-A_JR31079-1) |
 
 ## About This Role
 
-This corporate finance position at Chamberlain Group was posted on 2026-02-12.
+This fp&a / strategic finance position at Chamberlain Group was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

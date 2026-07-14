@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Finance-Lead_REQ511006) |
+| Location | Gurugram, Haryana, India |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-Lead_REQ510192) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-26.
+This fp&a / strategic finance position at JLL was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

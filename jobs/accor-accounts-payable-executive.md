@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mysuru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000112587577-accounts-payable-executive) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000136136957-accounts-payable-executive) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-03-04.
+This accounting position at ACCOR was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

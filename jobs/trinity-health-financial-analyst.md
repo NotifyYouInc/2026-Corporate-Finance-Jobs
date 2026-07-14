@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsauken, New Jersey, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Pennsauken-New-Jersey/Financial-Analyst_00663526) |
+| Location | Boise, Idaho, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Alphonsus-Regional-Medical-Center---Boise-Idaho/Financial-Analyst_00678713) |
 
 ## About This Role
 
-This corporate finance position at Trinity Health was posted on 2026-04-29.
+This financial analyst position at Trinity Health was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

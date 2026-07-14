@@ -1,16 +1,16 @@
-# FINANCE CRM INTERNSHIP PROGRAM at Western Digital
+# Finance CRM Internship Program at Western Digital
 
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000134685725-finance-crm-internship-program) |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000136163730-finance-crm-internship-program) |
 
 ## About This Role
 
-This corporate finance position at Western Digital was posted on 2026-06-29.
+This accounting position at Western Digital was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

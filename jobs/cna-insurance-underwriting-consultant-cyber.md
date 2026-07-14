@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/New-York-NY-USA/Underwriting-Consultant---Cyber_R-7445) |
+| Location | Los Angeles, California, United States |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/US--CA73---Los-Angeles-633-West-5th-Street/Underwriting-Consultant---Cyber_R-7743) |
 
 ## About This Role
 
-This corporate finance position at CNA Insurance was posted on 2026-05-08.
+This actuary / insurance analytics position at CNA Insurance was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

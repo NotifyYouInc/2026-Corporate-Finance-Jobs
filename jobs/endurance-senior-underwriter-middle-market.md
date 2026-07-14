@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endurance](https://scoutify.ai/companies/endurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://endurance.wd103.myworkdayjobs.com/sompointernational/job/Alpharetta-Georgia/Senior-Underwriter--Middle-Market_R3763) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://endurance.wd103.myworkdayjobs.com/sompointernational/job/New-York-City-New-York/Senior-Underwriter--Middle-Market_R4203) |
 
 ## About This Role
 
-This corporate finance position at Endurance was posted on 2026-03-16.
+This actuary / insurance analytics position at Endurance was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

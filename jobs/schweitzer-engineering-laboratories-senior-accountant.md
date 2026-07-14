@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Australia---Melbourne/Senior-Accountant_2026-21812-1) |
+| Location | Pullman, Washington, United States |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Senior-Accountant_2026-21928) |
 
 ## About This Role
 
-This corporate finance position at Schweitzer Engineering Laboratories was posted on 2026-06-26.
+This accounting position at Schweitzer Engineering Laboratories was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

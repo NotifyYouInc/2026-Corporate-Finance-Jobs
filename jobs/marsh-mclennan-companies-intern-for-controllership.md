@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Shanghai---Huai-Hai/Intern-for-Controllership_R_348490) |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Shanghai---Huai-Hai/Intern-for-Controllership_R_357604) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-05-14.
+This accounting position at Marsh & McLennan Companies was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

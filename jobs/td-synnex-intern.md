@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/intern_R49209) |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/intern_R53395) |
 
 ## About This Role
 
-This corporate finance position at TD Synnex was posted on 2026-04-30.
+This accounting position at TD Synnex was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

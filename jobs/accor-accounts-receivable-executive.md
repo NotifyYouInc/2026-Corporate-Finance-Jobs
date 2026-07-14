@@ -1,16 +1,16 @@
-# Accounts Receivable Executive  at ACCOR
+# Accounts Receivable Executive at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nashik, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000133508729-accounts-receivable-executive) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000136135229-accounts-receivable-executive) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-23.
+This accounting position at ACCOR was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

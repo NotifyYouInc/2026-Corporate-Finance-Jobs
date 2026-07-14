@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teamshares](https://scoutify.ai/companies/teamshares?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.lever.co/teamshares/9b7116de-559e-45ac-b6a9-672cd3fb7ccd) |
+| Location | Not specified |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.lever.co/teamshares/a6b995bf-29e8-46b6-974a-fb8f2de5c042) |
 
 ## About This Role
 
-This corporate finance position at Teamshares was posted on 2026-04-13.
+This accounting position at Teamshares was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

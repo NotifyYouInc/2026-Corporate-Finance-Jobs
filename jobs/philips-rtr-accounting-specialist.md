@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Suzhou, Jiangsu, China |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/RTR-Accounting-Specialist_585293) |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/RTR-Accounting-Specialist_586323) |
 
 ## About This Role
 
-This corporate finance position at Philips was posted on 2026-06-15.
+This accounting position at Philips was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

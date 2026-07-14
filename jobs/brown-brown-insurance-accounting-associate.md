@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Columbia, South Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Columbia-KY-USA/Accounting-Associate_R26_0000000685) |
+| Location | Daytona Beach, Florida, United States |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Direct-Bill-Analyst_R25_0000000049) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-02-20.
+This accounting position at Brown & Brown Insurance was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

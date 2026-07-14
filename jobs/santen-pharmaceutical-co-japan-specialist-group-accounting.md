@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Osaka, Osaka, Japan |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000126184260-japan-specialist-group-accounting) |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000136164139-japan-specialist-group-accounting) |
 
 ## About This Role
 
-This corporate finance position at Santen Pharmaceutical Co. was posted on 2026-05-13.
+This accounting position at Santen Pharmaceutical Co. was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

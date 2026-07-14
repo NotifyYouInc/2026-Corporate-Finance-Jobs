@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-Main-8500-Carnegie-Blvd/Wealth-Management-Client-Relationship-Manager_R260500394) |
+| Location | Dallas, Texas, United States |
+| Category | Account Manager |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Wealth-Client-Relationship-Mgr_R260200274-3) |
 
 ## About This Role
 
-This corporate finance position at TIAA was posted on 2026-05-22.
+This account manager position at TIAA was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

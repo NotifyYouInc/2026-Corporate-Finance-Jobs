@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-WA-Yakima/Tax-Manager_JR104477) |
+| Location | Nashville, Tennessee, United States |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TN-Nashville/Tax-Manager_JR105808) |
 
 ## About This Role
 
-This corporate finance position at Bakertilly was posted on 2026-06-04.
+This accounting position at Bakertilly was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

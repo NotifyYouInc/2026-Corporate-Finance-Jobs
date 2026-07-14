@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oakville, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-ON/Accountant_R263864) |
+| Location | Vilnius, Vilnius, Lithuania |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Vilnius-Lithuania/Accountant_R2610847) |
 
 ## About This Role
 
-This corporate finance position at Cencora was posted on 2026-03-13.
+This accounting position at Cencora was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

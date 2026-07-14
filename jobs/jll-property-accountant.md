@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Cebu-Philippines/Property-Accountant_REQ510131) |
+| Location | Iloilo, Western Visayas, Philippines |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Iloilo-Philippines/Property-Accountant_REQ518450) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-25.
+This accounting position at JLL was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sg--Singapore/Wealth-Mortgage-Specialist_26953136) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sg--Singapore/Wealth-Mortgage-Specialist_26976903) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-13.
+This wealth management / private banking position at Citigroup was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

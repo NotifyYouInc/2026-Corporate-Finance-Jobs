@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/CIB-Portfolio-Manager_R-542876) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/CIB-Portfolio-Manager_R-557405) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-11.
+This asset management / portfolio management position at Wells Fargo was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
