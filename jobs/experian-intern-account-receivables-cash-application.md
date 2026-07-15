@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136139706-intern-account-receivables-cash-application) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136400619-intern-account-receivables-cash-application) |
 
 ## About This Role
 
-This accounting position at Experian was posted on 2026-07-07.
+This accounting position at Experian was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

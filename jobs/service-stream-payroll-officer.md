@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Service Stream](https://scoutify.ai/companies/service-stream?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Hope Valley, South Australia, Australia |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://servicestream.wd3.myworkdayjobs.com/servicestream_careers/job/VIC---Melbourne---655-Collins-St/Payroll-Officer_JR-118381) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://servicestream.wd3.myworkdayjobs.com/servicestream_careers/job/SA---Hope-Valley/Payroll-Officer_JR-116586-1) |
 
 ## About This Role
 
-This accounting position at Service Stream was posted on 2026-07-03.
+This accounting position at Service Stream was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

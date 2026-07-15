@@ -1,0 +1,22 @@
+# Commercial Portfolio Manager at Rockland Trust
+
+| Field | Details |
+|-------|---------|
+| Company | [Rockland Trust](https://scoutify.ai/companies/us2-cx-oj92722?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Plymouth, Minnesota, United States |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://eehb.fa.us2.oraclecloud.com/jobs/#2716) |
+
+## About This Role
+
+This asset management / portfolio management position at Rockland Trust was posted on 2026-06-22.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

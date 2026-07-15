@@ -1,16 +1,16 @@
-# Collaborateur comptable F/H at Rydge
+# Collaborateur Comptable F/H  at Rydge
 
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | France |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000134730579-collaborateur-comptable-fh) |
+| Location | Clermont-Ferrand, Rhône-Alpes, France |
+| Category | Accounting |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000136400877-collaborateur-comptable-fh) |
 
 ## About This Role
 
-This corporate finance position at Rydge was posted on 2026-06-29.
+This accounting position at Rydge was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

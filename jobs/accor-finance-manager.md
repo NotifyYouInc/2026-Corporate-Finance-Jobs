@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
-| Category | Corporate Finance |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000133225859-finance-manager) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Financial Analyst |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000136403379-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-21.
+This financial analyst position at ACCOR was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

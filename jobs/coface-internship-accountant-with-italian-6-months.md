@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Romania |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000118850707-internship-accountant-with-italian-6-months) |
+| Category | Accounting |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000136404169-internship-accountant-with-italian-6-months) |
 
 ## About This Role
 
-This corporate finance position at Coface was posted on 2026-04-06.
+This accounting position at Coface was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 
