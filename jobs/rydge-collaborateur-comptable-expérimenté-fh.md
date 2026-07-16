@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | France |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000134730259-collaborateur-comptable-experimente-fh) |
+| Location | Montargis, Centre-Val de Loire, France |
+| Category | Accounting |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000136732780-collaborateur-comptable-experimente-fh) |
 
 ## About This Role
 
-This corporate finance position at Rydge was posted on 2026-06-29.
+This accounting position at Rydge was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

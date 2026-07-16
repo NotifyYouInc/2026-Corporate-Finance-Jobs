@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000126687900-tax-accountant) |
+| Category | Accounting |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000136743555-tax-accountant) |
 
 ## About This Role
 
-This corporate finance position at Smiths Group was posted on 2026-05-15.
+This accounting position at Smiths Group was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

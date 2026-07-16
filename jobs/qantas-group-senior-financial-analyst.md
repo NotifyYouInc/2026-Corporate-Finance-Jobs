@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001207389-senior-financial-analyst) |
+| Category | Financial Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001222186-senior-financial-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Qantas Group was posted on 2026-07-03.
+This financial analyst position at Qantas Group was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

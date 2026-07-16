@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Hong-Kong/Client-Advisor--Rank--VP-_JR00008326-7) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Hong-Kong/Client-Advisor--Rank--VP-_JR00009261) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-06-02.
+This wealth management / private banking position at OCBC was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

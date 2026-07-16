@@ -1,16 +1,16 @@
-# Associate Director - Client Coverage at Commonwealth Bank of Australia
+# Associate Director Client Coverage at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Associate-Director---Client-Coverage_REQ257372) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Investment Banking |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/VIC-CBD-Melbourne-Area/Associate-Director-Client-Coverage_REQ261608) |
 
 ## About This Role
 
-This corporate finance position at Commonwealth Bank of Australia was posted on 2026-04-29.
+This investment banking position at Commonwealth Bank of Australia was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

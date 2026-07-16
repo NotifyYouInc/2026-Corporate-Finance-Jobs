@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Huntsman Corporation](https://scoutify.ai/companies/huntsman-corporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Malaysia---Kuala-Lumpur/Global-Reporting---Analytics-Intern---Functions_J-019624) |
+| Category | Financial Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Malaysia---Kuala-Lumpur/Global-Reporting---Analytics-Intern---Functions_J-020039) |
 
 ## About This Role
 
-This corporate finance position at Huntsman Corporation was posted on 2026-03-16.
+This financial analyst position at Huntsman Corporation was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

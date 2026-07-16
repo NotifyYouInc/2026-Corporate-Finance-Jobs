@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Annonay, Rhône-Alpes, France |
-| Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000124812499-alternant-expertise-comptable-fh) |
+| Location | Marseille, Provence-Alpes-Côte d'Azur, France |
+| Category | Accounting |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000136737562-alternant-expertise-comptable-fh) |
 
 ## About This Role
 
-This corporate finance position at Rydge was posted on 2026-05-06.
+This accounting position at Rydge was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sydney-New-South-Wales-Australia/Trader---Vice-President_26957404) |
+| Location | Singapore, Singapore |
+| Category | Sales & Trading |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Trader---Vice-President_26978280-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-23.
+This sales & trading position at Citigroup was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

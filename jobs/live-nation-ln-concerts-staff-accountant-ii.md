@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/New-York-NY-USA/LN-Concerts--Staff-Accountant-II_JR-89990) |
+| Location | Beverly Hills, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Staff-Accountant-II_JR-91603) |
 
 ## About This Role
 
-This corporate finance position at Live Nation was posted on 2026-05-05.
+This accounting position at Live Nation was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000136127874-senior-analyst-financial-reporting) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Accounting |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000136735622-senior-analyst-financial-reporting) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Freshworks CRM was posted on 2026-07-07.
+This accounting position at Freshworks CRM was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

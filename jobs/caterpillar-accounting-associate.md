@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tianjin, Tianjin, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Accounting-Associate_R0000380763) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accounting-Associate_R0000380685-1) |
 
 ## About This Role
 
-This accounting position at Caterpillar was posted on 2026-07-07.
+This accounting position at Caterpillar was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Illinois, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Itasca-IL/Senior-Client-Service-Associate_R-102297) |
+| Location | Boston, Massachusetts, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Boston-MA/Senior-Client-Service-Associate_R-102599) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-03-19.
+This wealth management / private banking position at Wealth Enhancement Group was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

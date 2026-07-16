@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Penang/Premier-Relationship-Manager_JR00008220-1) |
+| Location | Macau, Macao |
+| Category | Account Manager |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Macau/Premier-Relationship-Manager_JR00009266) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-05-26.
+This account manager position at OCBC was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

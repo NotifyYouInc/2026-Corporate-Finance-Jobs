@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Novena, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/CDA---Novena-Office-Tower-A-Level-23/Assistant-Manager---Manager--Grant-and-Reserves-Management---CDA-_JR-10000043518) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/CDA---Novena-Office-Tower-A-Level-23/Senior-Manager---Manager--Grant-and-Finance-Business-Partnering-_JR-10000052972) |
 
 ## About This Role
 
-This corporate finance position at Economic Development Board was posted on 2026-05-07.
+This fp&a / strategic finance position at Economic Development Board was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

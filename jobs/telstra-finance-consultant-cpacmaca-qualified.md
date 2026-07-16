@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Telstra](https://scoutify.ai/companies/telstra?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Metro-Manila/Finance-Consultant--CPA-CMA-CA-Qualified-_JR-10168371) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Metro-Manila/Finance-Consultant--CPA-CMA-CA-Qualified-_JR-10169941) |
 
 ## About This Role
 
-This corporate finance position at Telstra was posted on 2026-06-17.
+This fp&a / strategic finance position at Telstra was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
