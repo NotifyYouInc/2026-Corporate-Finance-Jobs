@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Gibraltar Industries](https://scoutify.ai/companies/gibraltar-industries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
+| Company | [Gibraltar Industries](https://scoutify.ai/companies/gibraltar-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | United States |
+| Category | Accounting |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://gibraltar.rec.pro.ukg.net/GIB1002GIBIN/JobBoard/ec03ae70-6d19-4e13-8576-caab2d725c12/OpportunityDetail?opportunityId=643a4563-c232-4f50-ba63-efe5f9928b22) |
+| Apply | [View on company site](https://gibraltar.rec.pro.ukg.net/GIB1002GIBIN/JobBoard/bcc50adc-fc2e-4805-aab3-6a34b5abb8ad/OpportunityDetail?opportunityId=643a4563-c232-4f50-ba63-efe5f9928b22) |
 
 ## About This Role
 
-This corporate finance position at Gibraltar Industries was posted on 2026-06-15.
+This accounting position at Gibraltar Industries was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

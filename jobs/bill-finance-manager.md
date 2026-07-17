@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BILL](https://scoutify.ai/companies/bill?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://www.bill.com/job?6102365004&gh_jid=6102365004) |
+| Category | Financial Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.bill.com/job?6111992004&gh_jid=6111992004) |
 
 ## About This Role
 
-This fp&a / strategic finance position at BILL was posted on 2026-07-02.
+This financial analyst position at BILL was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/NBJ-TMN-NUSA-BESTARI-JAYA-BR/Senior-Executive---Business-Channels--Personal-Banker-_JR0000024151) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/TDD-TMN-DANAU-DESA-BR/Executive---Business-Channels--Personal-Banker-Associate-_JR0000022716) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-06-18.
+This wealth management / private banking position at Hong Leong Bank was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

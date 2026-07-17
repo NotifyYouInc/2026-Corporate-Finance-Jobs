@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stvinc](https://scoutify.ai/companies/stvinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://stvinc.wd5.myworkdayjobs.com/stv/job/Douglassville-Pennsylvania/Billing-Specialist_JR5539) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://stvinc.wd5.myworkdayjobs.com/stv/job/Douglassville-Pennsylvania/Billing-Specialist_JR5878) |
 
 ## About This Role
 
-This corporate finance position at Stvinc was posted on 2026-04-22.
+This accounting position at Stvinc was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

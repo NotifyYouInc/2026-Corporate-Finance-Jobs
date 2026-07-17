@@ -1,16 +1,16 @@
-# Senior Project Accounting Analyst - PMO at Ramboll
+# Senior project accounting analyst - PMO at Ramboll
 
 | Field | Details |
 |-------|---------|
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000134697456-senior-project-accounting-analyst-pmo) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000137045050-senior-project-accounting-analyst-pmo) |
 
 ## About This Role
 
-This corporate finance position at Ramboll was posted on 2026-06-29.
+This accounting position at Ramboll was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

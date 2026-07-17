@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Kuala-Lumpur/Accounting-Intern_JR-200715) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Kuala-Lumpur/Accounting-Intern_JR-205657) |
 
 ## About This Role
 
-This corporate finance position at Baxter International was posted on 2026-04-20.
+This accounting position at Baxter International was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

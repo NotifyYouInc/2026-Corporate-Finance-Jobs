@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/HU_Szekesfehervar_Aszalvolgyi-ut-5/Commercial-Controller_R-51190-2026-1) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/HU_Szekesfehervar_Aszalvolgyi-ut-5/Commercial-Controller_R-54078-2026) |
 
 ## About This Role
 
-This corporate finance position at HARMAN International was posted on 2026-02-16.
+This accounting position at HARMAN International was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

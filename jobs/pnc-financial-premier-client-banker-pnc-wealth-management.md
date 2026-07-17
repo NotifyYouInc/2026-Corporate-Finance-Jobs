@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Scottsdale, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/AZ---Scottsdale-85251/Premier-Client-Banker---PNC-Wealth-Management_R226534-1) |
+| Location | Mayfield Heights, Ohio, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Mayfield-Heights/Premier-Client-Banker---PNC-Wealth-Management_R228899-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-16.
+This wealth management / private banking position at PNC Financial was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

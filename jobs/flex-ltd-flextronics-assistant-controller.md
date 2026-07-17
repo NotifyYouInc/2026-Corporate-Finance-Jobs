@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Columbia, South Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-SC-Columbia/Assistant-Controller_WD222045) |
+| Location | Manchester, New Hampshire, United States |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-CT-Manchester/Assistant-Controller_WD224767) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-06-01.
+This accounting position at FLEX LTD. Flextronics was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

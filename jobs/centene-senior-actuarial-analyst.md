@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | District of Columbia, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IL/Senior-Actuarial-Analyst_1635470) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Senior-Actuarial-Analyst_1643506) |
 
 ## About This Role
 
-This corporate finance position at Centene was posted on 2026-04-03.
+This actuary / insurance analytics position at Centene was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

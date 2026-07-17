@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26070709) |
+| Location | Ghāziābād, Uttar Pradesh, India |
+| Category | Financial Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085105) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-06-10.
+This financial analyst position at Marriott International was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

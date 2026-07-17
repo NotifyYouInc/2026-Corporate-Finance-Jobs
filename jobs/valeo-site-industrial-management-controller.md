@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Winchester, Nevada, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Winchester-KY/Site-Industrial-Management-Controller_REQ2026076387) |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/San-Luis-Potosi/Site-Industrial-Management-Controller_REQ2026077866) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-06-12.
+This accounting position at Valeo was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

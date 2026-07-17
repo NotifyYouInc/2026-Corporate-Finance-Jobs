@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Cost-Control-Specialist_R321484-1) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Cost-Control-Specialist_R325934) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-05-22.
+This accounting position at Cushman & Wakefield was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

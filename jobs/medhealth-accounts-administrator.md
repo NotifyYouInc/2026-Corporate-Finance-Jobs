@@ -5,12 +5,12 @@
 | Company | [Medhealth](https://scoutify.ai/companies/medhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Osborne Park, Western Australia, Australia |
 | Category | Accounting |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MedHealth3/744000136742369-accounts-administrator) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MedHealth3/744000136916159-accounts-administrator) |
 
 ## About This Role
 
-This accounting position at Medhealth was posted on 2026-07-09.
+This accounting position at Medhealth was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

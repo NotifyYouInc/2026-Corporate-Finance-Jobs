@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Umdasch](https://scoutify.ai/companies/umdasch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Amstetten, Lower Austria, Austria |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UmdaschGroup/744000127585808-group-accountant-mwd) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UmdaschGroup/744000137047168-group-accountant-mwd) |
 
 ## About This Role
 
-This corporate finance position at Umdasch was posted on 2026-05-21.
+This accounting position at Umdasch was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

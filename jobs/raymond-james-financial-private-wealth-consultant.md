@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Florida, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Private-Wealth-Consultant_R-0010422-1) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Remote-Texas---United-States/Private-Wealth-Consultant_R-0011918-1) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-04-02.
+This wealth management / private banking position at Raymond James Financial was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

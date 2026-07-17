@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Associate-Actuary_R-419754-1) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Associate-Actuary_R-420147) |
 
 ## About This Role
 
-This corporate finance position at Humana was posted on 2026-06-15.
+This actuary / insurance analytics position at Humana was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

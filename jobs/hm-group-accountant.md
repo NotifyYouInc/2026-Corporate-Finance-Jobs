@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taiwan |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000133864515-accountant) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000137057624-accountant) |
 
 ## About This Role
 
-This corporate finance position at H&M Group was posted on 2026-06-24.
+This accounting position at H&M Group was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

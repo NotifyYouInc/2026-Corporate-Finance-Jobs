@@ -1,0 +1,22 @@
+# Portfolio Manager - Assumed at SCOR
+
+| Field | Details |
+|-------|---------|
+| Company | [SCOR](https://scoutify.ai/companies/ocs-cx-oj97530?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Ilfov, RO |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5044) |
+
+## About This Role
+
+This asset management / portfolio management position at SCOR was posted on 2026-06-16.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

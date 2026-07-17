@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jersey City, New Jersey, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Jersey-City-New-Jersey-United-States-of-America/Associate-Director--Financial-Control_R-0000176596-1) |
+| Location | Putrajaya, Putrajaya, Malaysia |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Associate-Director--Financial-Control_R-0000179933) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-11.
+This accounting position at Royal Bank of Canada was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

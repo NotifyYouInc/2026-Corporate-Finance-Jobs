@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Green Bay, Wisconsin, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Green-Bay-Wisconsin---United-States/Registered-Client-Associate_R-0010614) |
+| Location | Scottsdale, Arizona, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Scottsdale-Arizona---United-States/Registered-Client-Associate_R-0011922) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-04-14.
+This wealth management / private banking position at Raymond James Financial was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

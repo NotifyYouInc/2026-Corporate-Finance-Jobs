@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Sydney-New-South-Wales/Senior-Auditor_JR103212) |
+| Location | Adelaide, South Australia, Australia |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Adelaide-South-Australia/Senior-Auditor_JR103409) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-05-25.
+This accounting position at Bdo was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

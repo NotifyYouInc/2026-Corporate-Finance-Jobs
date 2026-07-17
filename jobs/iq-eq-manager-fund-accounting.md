@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Hyderabad, Telangana, India |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000136146499-manager-fund-accounting) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000137060349-manager-fund-accounting) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-07.
+This accounting position at IQ-EQ was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

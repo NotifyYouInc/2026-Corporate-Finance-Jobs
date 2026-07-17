@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Chicago-Illinois---United-States/Consumer-Investment-Banking-Associate-I--Chicago-_R-0010912) |
+| Category | Investment Banking |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Chicago-Illinois---United-States/Consumer-Investment-Banking-Associate-I--Chicago-_R-0011943) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-04-30.
+This investment banking position at Raymond James Financial was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

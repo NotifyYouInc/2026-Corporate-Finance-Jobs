@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Mapletree-Business-City-Singapore-Singapore/Accounting-Manager_R117175) |
+| Location | Plano, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Accounting-Manager_R118338) |
 
 ## About This Role
 
-This corporate finance position at Samsung was posted on 2026-05-18.
+This accounting position at Samsung was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

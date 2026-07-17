@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/One-Pennsylvania-Plaza-26th-Floor-New-York-NY-USA/Finance-Manager_R116396) |
+| Location | Plano, Texas, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Finance-Manager_R118340) |
 
 ## About This Role
 
-This corporate finance position at Samsung was posted on 2026-04-14.
+This financial analyst position at Samsung was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

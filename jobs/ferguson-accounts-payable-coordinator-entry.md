@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Accounts-Payable-Coordinator---Entry_R-137871) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Accounts-Payable-Coordinator---Entry_R-138349) |
 
 ## About This Role
 
-This corporate finance position at Ferguson was posted on 2026-06-25.
+This accounting position at Ferguson was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

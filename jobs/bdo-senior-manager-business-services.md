@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Melbourne-Victoria/Senior-Manager--Business-Services_JR103435-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Brisbane-Queensland/Senior-Manager--Business-Services_JR103327-3) |
 
 ## About This Role
 
-This accounting position at Bdo was posted on 2026-07-02.
+This accounting position at Bdo was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

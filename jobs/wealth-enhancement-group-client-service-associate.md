@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Clinton, Maryland, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Clinton-WI/Client-Service-Associate_R-102403) |
+| Location | Richmond, Virginia, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Richmond-VA/Client-Service-Associate_R-102588) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-04-30.
+This wealth management / private banking position at Wealth Enhancement Group was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
