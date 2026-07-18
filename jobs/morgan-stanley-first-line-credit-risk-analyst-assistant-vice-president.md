@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Purchase-New-York-United-States-of-America/First-Line-Credit-Risk-Analyst---Assistant-Vice-President_PT-JR034419) |
+| Location | Purchase, New York, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Purchase-New-York-United-States-of-America/First-Line-Credit-Risk-Analyst---Assistant-Vice-President_PT-JR040280) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-09.
+This financial analyst position at Morgan Stanley was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

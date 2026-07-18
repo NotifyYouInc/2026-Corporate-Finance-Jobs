@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Davenport, Iowa, United States |
+| Location | New Albany, Indiana, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Davenport-Iowa-United-States-of-America/Registered-Client-Relationship-Analyst_JR040015) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-Albany-Ohio-United-States-of-America/Registered-Client-Relationship-Anaylst_JR040405) |
 
 ## About This Role
 
-This wealth management / private banking position at Morgan Stanley was posted on 2026-07-03.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

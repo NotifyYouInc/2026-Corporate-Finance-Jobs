@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000135307879-sr-finance-analyst-operational-finance) |
+| Category | Financial Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000137147344-sr-finance-analyst-operational-finance) |
 
 ## About This Role
 
-This fp&a / strategic finance position at NBCUniversal was posted on 2026-07-01.
+This financial analyst position at NBCUniversal was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

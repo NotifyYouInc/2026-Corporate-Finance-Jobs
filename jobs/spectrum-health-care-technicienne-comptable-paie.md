@@ -5,12 +5,12 @@
 | Company | [Spectrum Health Care](https://scoutify.ai/companies/spectrum-health-care?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/spectrumhealthcare/744000135781039-technicienne-comptable-paie) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/spectrumhealthcare/744000137209180-technicienne-comptable-paie) |
 
 ## About This Role
 
-This accounting position at Spectrum Health Care was posted on 2026-07-03.
+This accounting position at Spectrum Health Care was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

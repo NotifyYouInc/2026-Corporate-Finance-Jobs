@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Prologis](https://scoutify.ai/companies/prologis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Mexico-City-Mexico/Tax-Associate_R6471-1) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Mexico-City-Mexico/Tax-Associate_R6665-1) |
 
 ## About This Role
 
-This corporate finance position at Prologis was posted on 2026-03-23.
+This accounting position at Prologis was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

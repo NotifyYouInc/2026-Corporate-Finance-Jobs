@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santa Catarina, Nuevo León, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5017-Carrier---Finance-Shared-Galeana-469-Ote-Santa-Catarina-66350-Mexico/Manager--Accounting---Controllership_30204160) |
+| Category | Accounting |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5017-Carrier---Finance-Shared-Galeana-469-Ote-Santa-Catarina-66350-Mexico/Manager--Accounting---Controllership_30212924-1) |
 
 ## About This Role
 
-This corporate finance position at Carrier Global was posted on 2026-04-10.
+This accounting position at Carrier Global was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

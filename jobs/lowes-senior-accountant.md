@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mooresville, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Senior-Accountant_JR-02411814) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Senior-Accountant_JR-02585265) |
 
 ## About This Role
 
-This corporate finance position at Lowe's was posted on 2026-03-05.
+This accounting position at Lowe's was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

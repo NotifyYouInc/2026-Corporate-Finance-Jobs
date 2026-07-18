@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Bellevue/Merrill-Advisor-Development-Program---Financial-Advisor--Greater-Seattle-Market_26010926-1) |
+| Location | 4 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Bellevue/Merrill-Advisor-Development-Program---Financial-Advisor--Greater-Seattle-Market_26023912) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-25.
+This wealth management / private banking position at Bank of America was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

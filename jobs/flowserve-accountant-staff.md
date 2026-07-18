@@ -1,16 +1,16 @@
-# Accountant, Staff at Flowserve
+# Accountant Staff at Flowserve
 
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mendoza, Mendoza, Argentina |
-| Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Mendoza-Argentina/Accountant--Staff_R-18141-1) |
+| Location | Querétaro, Chiapas, Mexico |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Queretaro-BSC-Mexico/Accountant-Staff_R-20012-1) |
 
 ## About This Role
 
-This corporate finance position at Flowserve was posted on 2026-03-02.
+This accounting position at Flowserve was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

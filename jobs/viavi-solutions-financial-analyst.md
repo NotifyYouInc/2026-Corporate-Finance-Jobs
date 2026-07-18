@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Viavi Solutions](https://scoutify.ai/companies/viavisolutions?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chandler, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-HQ-AZ-USA/Financial-Analyst_260004604) |
+| Location | San Jose, California, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/San-Jose-CA-USA/Financial-Analyst_260004872-1) |
 
 ## About This Role
 
-This corporate finance position at Viavi Solutions was posted on 2026-05-01.
+This financial analyst position at Viavi Solutions was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

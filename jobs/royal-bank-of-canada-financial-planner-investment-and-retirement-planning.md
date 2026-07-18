@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Laval, Quebec, Canada |
+| Location | Prince George, British Columbia, Canada |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/LAVAL-Quebec-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000179340-2) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PRINCE-GEORGE-British-Columbia-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000180204) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-03.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

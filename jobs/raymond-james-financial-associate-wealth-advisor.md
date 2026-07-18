@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Scottsdale, Arizona, United States |
+| Location | Albuquerque, New Mexico, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Scottsdale-Arizona---United-States/Associate-Wealth-Advisor_R-0011919) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Albuquerque-New-Mexico---United-States/Associate-Wealth-Advisor_R-0011968) |
 
 ## About This Role
 
-This wealth management / private banking position at Raymond James Financial was posted on 2026-07-09.
+This wealth management / private banking position at Raymond James Financial was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

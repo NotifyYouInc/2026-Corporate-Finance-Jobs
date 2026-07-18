@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Client-Service-Associate_R260017769) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Vancouver-BC-CAN/Client-Service-Associate_R260020487) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-06-15.
+This wealth management / private banking position at Bank of Montreal was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

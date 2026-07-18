@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Calgary-Group-Benefits/Associate-Group-Underwriter_JR00123934) |
+| Location | 4 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Calgary-Alberta/Associate-Group-Underwriter_JR00125925) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-05-12.
+This actuary / insurance analytics position at Sun Life Financial was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

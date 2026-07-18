@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Irvine-California/Tax-Senior-Manager--Private-Client-Advisors_JR103946-1) |
+| Location | St. Louis, Missouri, United States |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/St-Louis-Missouri/Tax-Senior-Manager--Private-Client-Advisors_JR104080) |
 
 ## About This Role
 
-This corporate finance position at Armanino was posted on 2026-05-22.
+This accounting position at Armanino was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

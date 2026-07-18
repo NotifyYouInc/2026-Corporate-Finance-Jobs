@@ -1,16 +1,16 @@
-# Practicante de Contabilidad at Nutreco
+# Practicante de contabilidad at Nutreco
 
 | Field | Details |
 |-------|---------|
 | Company | [Nutreco](https://scoutify.ai/companies/nutreco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://nutreco.wd3.myworkdayjobs.com/nutreco_external/job/Monterrey/Practicante-de-Contabilidad_VAC29268) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://nutreco.wd3.myworkdayjobs.com/nutreco_external/job/Monterrey/Practicante-de-contabilidad_VAC29269-1) |
 
 ## About This Role
 
-This accounting position at Nutreco was posted on 2026-07-06.
+This accounting position at Nutreco was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Maharashtra, IN |
 | Category | Financial Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Investment-Performance-Analysis---Senior-Associate_R-793452-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/Investment-Performance-Analysis---Senior-Associate_R-793989) |
 
 ## About This Role
 
-This financial analyst position at State Street was posted on 2026-07-03.
+This financial analyst position at State Street was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

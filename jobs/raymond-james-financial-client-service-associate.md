@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hallandale Beach, Florida, United States |
+| Location | Brea, California, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Hallandale-Beach-Florida---United-States/Client-Service-Associate_R-0011938) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Brea-California---United-States/Client-Service-Associate_R-0011969) |
 
 ## About This Role
 
-This wealth management / private banking position at Raymond James Financial was posted on 2026-07-10.
+This wealth management / private banking position at Raymond James Financial was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

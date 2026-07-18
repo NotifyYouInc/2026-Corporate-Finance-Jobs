@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Denver-CO/Commercial-Real-Estate-Credit-Analyst_2026-0013419) |
+| Location | Minneapolis, Minnesota, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Commercial-Real-Estate-Credit-Analyst_2026-0020435) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-19.
+This financial analyst position at U.S. Bank was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

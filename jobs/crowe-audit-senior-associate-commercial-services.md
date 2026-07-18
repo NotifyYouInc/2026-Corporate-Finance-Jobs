@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nashville, Tennessee, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Nashville-TN-USA/Audit-Senior-Associate---Commercial-Services_R-51475) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Oakbrook-Terrace-IL-USA/Audit-Senior-Associate---Commercial-Services_R-51612) |
 
 ## About This Role
 
-This corporate finance position at Crowe was posted on 2026-06-22.
+This accounting position at Crowe was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

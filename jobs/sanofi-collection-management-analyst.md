@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/Collection-Management-Analyst_R2846292) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/Collection-Management-Analyst_R2863913) |
 
 ## About This Role
 
-This corporate finance position at Sanofi was posted on 2026-03-10.
+This accounting position at Sanofi was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

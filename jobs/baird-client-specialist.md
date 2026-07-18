@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Glasgow, Kentucky, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Glasgow/Client-Specialist_R2026707-1) |
+| Location | Houston, Texas, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Houston/Client-Specialist_R2026757-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-06-25.
+This wealth management / private banking position at Baird was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

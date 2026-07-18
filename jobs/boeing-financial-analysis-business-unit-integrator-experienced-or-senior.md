@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Charles, Missouri, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Financial-Analysis-Business-Unit-Integrator--Experienced-or-Senior-_JR2026509446-1) |
+| Location | 5 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ogden-UT/Financial-Analysis-Business-Unit-Integrator--Experienced-or-Senior-_JR2026518666-2) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-05-08.
+This fp&a / strategic finance position at Boeing was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

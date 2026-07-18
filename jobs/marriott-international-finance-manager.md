@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Delhi, Delhi, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26078869) |
+| Location | Amritsar, Punjab, India |
+| Category | Financial Analyst |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085571) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-06-27.
+This financial analyst position at Marriott International was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Private-Banking-Advisor_R-0000175889-1) |
+| Location | Westmount, Quebec, Canada |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WESTMOUNT-Quebec-Canada/Private-Banking-Advisor_R-0000180065) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-08.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

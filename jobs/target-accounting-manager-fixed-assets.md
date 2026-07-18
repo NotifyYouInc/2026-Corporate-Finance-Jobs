@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brooklyn Park, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Accounting-Manager--Fixed-Assets_R0000434893) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Accounting-Manager--Fixed-Assets_R0000445186) |
 
 ## About This Role
 
-This corporate finance position at Target was posted on 2026-04-14.
+This accounting position at Target was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

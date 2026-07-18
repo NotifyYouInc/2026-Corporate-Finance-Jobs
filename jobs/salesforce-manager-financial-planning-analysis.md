@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Manager--Financial-Planning---Analysis_JR336855) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Manager--Financial-Planning---Analysis_JR351314) |
 
 ## About This Role
 
-This corporate finance position at Salesforce was posted on 2026-04-16.
+This fp&a / strategic finance position at Salesforce was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

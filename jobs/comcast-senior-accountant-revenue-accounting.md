@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phoenixville, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Phoenixville-200-Cresson-Blvd/Senior-Accountant--Revenue-Accounting_R433865) |
+| Location | Philadelphia, Pennsylvania, United States |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Senior-Accountant--Revenue-Accounting_R440921) |
 
 ## About This Role
 
-This corporate finance position at Comcast was posted on 2026-03-25.
+This accounting position at Comcast was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

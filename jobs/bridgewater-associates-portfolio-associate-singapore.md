@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Bridgewater Associates](https://scoutify.ai/companies/bwaltpostings?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Bridgewater Associates](https://scoutify.ai/companies/bridgewater89?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bwaltpostings/jobs/8340707002) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bridgewater89/jobs/8340706002) |
 
 ## About This Role
 
-This corporate finance position at Bridgewater Associates was posted on 2026-04-17.
+This asset management / portfolio management position at Bridgewater Associates was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

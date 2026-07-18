@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westlock, Alberta, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Westlock-AB-CAN/Financial-Planner_R260014226) |
+| Location | Barrie, Ontario, Canada |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Barrie-ON-CAN/Financial-Planner_R260020279) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-05-08.
+This wealth management / private banking position at Bank of Montreal was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

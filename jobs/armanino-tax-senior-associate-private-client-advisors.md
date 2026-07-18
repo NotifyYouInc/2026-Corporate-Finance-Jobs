@@ -5,12 +5,12 @@
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/St-Louis-Missouri/Tax-Senior-Associate--Private-Client-Advisors_JR104053) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/St-Louis-Missouri/Tax-Senior-Associate--Private-Client-Advisors_JR104079) |
 
 ## About This Role
 
-This accounting position at Armanino was posted on 2026-07-06.
+This accounting position at Armanino was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

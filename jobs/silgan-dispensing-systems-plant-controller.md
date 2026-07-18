@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Silgan Dispensing Systems](https://scoutify.ai/companies/silgan-dispensing-systems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hazleton, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Hazleton-Pennsylvania/Plant-Controller_R7650) |
+| Location | Edison, New Jersey, United States |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Edison-New-Jersey/Plant-Controller_R7741) |
 
 ## About This Role
 
-This corporate finance position at Silgan Dispensing Systems was posted on 2026-06-26.
+This accounting position at Silgan Dispensing Systems was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Richmond, Virginia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond/Billing-Operations-Specialist--CoStar-Group---Richmond--VA_R38606) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond---CoStar-Tower/Billing-Operations-Specialist--CoStar-Group---Richmond--VA_R39348) |
 
 ## About This Role
 
-This corporate finance position at CoStar Group was posted on 2026-03-31.
+This accounting position at CoStar Group was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

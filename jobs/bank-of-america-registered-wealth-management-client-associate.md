@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portage, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Portage/Registered-Wealth-Management-Client-Associate_26022078) |
+| Location | Dover, Delaware, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dover/Registered-Wealth-Management-Client-Associate_26023918-1) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-26.
+This wealth management / private banking position at Bank of America was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

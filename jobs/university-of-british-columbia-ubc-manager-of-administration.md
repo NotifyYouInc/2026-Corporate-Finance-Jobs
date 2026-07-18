@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of British Columbia (UBC)](https://scoutify.ai/companies/university-of-british-columbia-ubc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | British Columbia, CA |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Alternate-Site---Williams-Lake-BC-Canada/Manager-of-Administration_JR23812-1) |
+| Location | Williams Lake, British Columbia, Canada |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Alternate-Site---Williams-Lake-BC-Canada/Manager-of-Administration_JR25187) |
 
 ## About This Role
 
-This corporate finance position at University of British Columbia (UBC) was posted on 2026-03-06.
+This accounting position at University of British Columbia (UBC) was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

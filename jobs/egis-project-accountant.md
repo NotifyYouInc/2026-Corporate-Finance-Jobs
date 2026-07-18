@@ -1,16 +1,16 @@
-# Project Accountant at Egis
+# Project Accountant  at Egis
 
 | Field | Details |
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000111536775-project-accountant) |
+| Location | Hong Kong, Hong Kong |
+| Category | Accounting |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000137252409-project-accountant) |
 
 ## About This Role
 
-This corporate finance position at Egis was posted on 2026-02-26.
+This accounting position at Egis was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

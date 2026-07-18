@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sonic Automotive](https://scoutify.ai/companies/sonicautomotive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Roseville, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000127746259-automotive-accounting-specialist) |
+| Location | Avondale, Arizona, United States |
+| Category | Accounting |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SonicAutomotive/744000137252202-automotive-accounting-specialist) |
 
 ## About This Role
 
-This corporate finance position at Sonic Automotive was posted on 2026-05-21.
+This accounting position at Sonic Automotive was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

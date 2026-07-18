@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Wealth Management / Private Banking |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Richmond-VA/Client-Service-Associate_R-102588) |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Milwaukee-WI/Client-Service-Associate_R-102611) |
 
 ## About This Role
 

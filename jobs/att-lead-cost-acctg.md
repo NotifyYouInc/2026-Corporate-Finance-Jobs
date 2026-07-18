@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Lead-Cost-Acctg_R-107122) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Lead-Cost-Acctg_R-115599) |
 
 ## About This Role
 
-This corporate finance position at AT&T was posted on 2026-05-22.
+This accounting position at AT&T was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
