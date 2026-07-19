@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fau](https://scoutify.ai/companies/fau?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boca Raton, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://fau.wd1.myworkdayjobs.com/fau/job/Boca-Raton/Accounting-Specialist_REQ21630) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://fau.wd1.myworkdayjobs.com/fau/job/Boca-Raton/Accounting-Specialist_REQ22426) |
 
 ## About This Role
 
-This corporate finance position at Fau was posted on 2026-04-10.
+This accounting position at Fau was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

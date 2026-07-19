@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Texas, US |
-| Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8595121002?gh_jid=8595121002) |
+| Location | Austin, Texas, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8629380002?gh_jid=8629380002) |
 
 ## About This Role
 
-This corporate finance position at SpaceX was posted on 2026-06-17.
+This financial analyst position at SpaceX was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
