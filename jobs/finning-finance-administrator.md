@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Finning](https://scoutify.ai/companies/finning?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Edmonton, Alberta, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Finance-Administrator_R-2026-2803) |
+| Category | Financial Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Finance-Administrator_R-2026-3253) |
 
 ## About This Role
 
-This corporate finance position at Finning was posted on 2026-05-27.
+This financial analyst position at Finning was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

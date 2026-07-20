@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [STOW Group](https://scoutify.ai/companies/stow-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lokeren, Flanders, Belgium |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/stowgroup/744000135239740-industrial-controller) |
+| Category | Accounting |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/stowgroup/744000137322999-industrial-controller) |
 
 ## About This Role
 
-This fp&a / strategic finance position at STOW Group was posted on 2026-07-01.
+This accounting position at STOW Group was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

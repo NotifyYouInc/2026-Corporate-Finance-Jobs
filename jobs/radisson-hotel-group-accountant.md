@@ -1,16 +1,16 @@
-# Accountant at Radisson Hotel Group
+# Accountant  at Radisson Hotel Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Accounting |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000137303129-accountant) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000137372376-accountant) |
 
 ## About This Role
 
-This accounting position at Radisson Hotel Group was posted on 2026-07-12.
+This accounting position at Radisson Hotel Group was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

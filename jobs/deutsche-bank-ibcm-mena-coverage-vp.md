@@ -1,0 +1,22 @@
+# IBCM - MENA Coverage - VP at Deutsche Bank
+
+| Field | Details |
+|-------|---------|
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Investment Banking |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Dubai-ICD-Brookfield-Place-Dubai-International-Financial-Centre/IBCM---MENA-Coverage---VP_R0441844) |
+
+## About This Role
+
+This investment banking position at Deutsche Bank was posted on 2026-07-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

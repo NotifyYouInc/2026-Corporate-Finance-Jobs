@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualifacts](https://scoutify.ai/companies/qualifacts?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vadodara, Gujarat, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://qualifacts.wd5.myworkdayjobs.com/qualifacts_external_careers/job/Vadodara/RCMS-AR-Specialist-II_R-102468) |
+| Category | Accounting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://qualifacts.wd5.myworkdayjobs.com/qualifacts_external_careers/job/Vadodara/RCMS-AR-Specialist-II_R-102502) |
 
 ## About This Role
 
-This corporate finance position at Qualifacts was posted on 2026-06-01.
+This accounting position at Qualifacts was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

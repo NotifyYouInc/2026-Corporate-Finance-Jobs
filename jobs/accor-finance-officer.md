@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000124800899-finance-officer) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Accounting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000137336319-finance-officer) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-06.
+This accounting position at ACCOR was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

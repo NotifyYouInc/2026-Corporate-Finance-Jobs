@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Atlanta---2859-Paces-Ferry-Rd/Associate-Underwriter-Windstorm-Risk_R0016769) |
+| Location | Chicago, Illinois, United States |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Chicago---1-South-Wacker-Drive/Associate-Underwriter-Windstorm-Risk_R0018153-1) |
 
 ## About This Role
 
-This corporate finance position at Howden was posted on 2026-03-20.
+This actuary / insurance analytics position at Howden was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

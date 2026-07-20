@@ -1,0 +1,22 @@
+# Praktikum - Location Controlling  at Aumovio
+
+| Field | Details |
+|-------|---------|
+| Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Lindau, Bavaria, Germany |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000137373725-praktikum-location-controlling) |
+
+## About This Role
+
+This fp&a / strategic finance position at Aumovio was posted on 2026-07-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

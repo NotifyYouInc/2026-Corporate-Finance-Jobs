@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Investment Banking |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Sydney-Australia/Vice-President--Leveraged-Finance_JR040440-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Sydney-Australia/Vice-President--Leveraged-Finance_JR039727) |
 
 ## About This Role
 
-This investment banking position at Morgan Stanley was posted on 2026-07-10.
+This investment banking position at Morgan Stanley was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

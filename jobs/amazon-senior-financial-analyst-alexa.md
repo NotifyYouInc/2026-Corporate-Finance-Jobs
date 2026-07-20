@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457020/senior-financial-analyst-alexa) |
+| Category | Financial Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10471925/senior-financial-analyst-alexa) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-23.
+This financial analyst position at Amazon was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

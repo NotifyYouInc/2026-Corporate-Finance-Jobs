@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/Assistant-Finance-Manager_R-067512-1) |
+| Category | Financial Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/Assistant-Finance-Manager_R-087706) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-04-01.
+This financial analyst position at Johnson & Johnson was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-07-05 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Maharashtra-Navi-Mumbai/Associate_R44088) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Investor Relations |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Kuala-Lumpur-Malaysia/Associate_R44412) |
 
 ## About This Role
 
-This accounting position at SS&C Technologies was posted on 2026-07-05.
+This investor relations position at SS&C Technologies was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

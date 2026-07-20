@@ -1,0 +1,22 @@
+# Business Analyst Europe North at Digital Realty
+
+| Field | Details |
+|-------|---------|
+| Company | [Digital Realty](https://scoutify.ai/companies/us2-cx-oj30015?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Not specified |
+| Category | Business Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://hdep.fa.us2.oraclecloud.com/jobs/#7997) |
+
+## About This Role
+
+This business analyst position at Digital Realty was posted on 2026-07-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

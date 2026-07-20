@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsylvania, US |
+| Location | 5 locations |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-PA-PAH01/Special-Assets-Consultant---Midland_R228054-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-KS-KSH01/Special-Assets-Consultant---Midland_R228581-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at PNC Financial was posted on 2026-07-02.
+This asset management / portfolio management position at PNC Financial was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

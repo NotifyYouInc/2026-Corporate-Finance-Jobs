@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Darwin, Northern Territory, Australia |
+| Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000137002969-director-of-finance) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000137380750-director-of-finance) |
 
 ## About This Role
 
-This fp&a / strategic finance position at ACCOR was posted on 2026-07-10.
+This fp&a / strategic finance position at ACCOR was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

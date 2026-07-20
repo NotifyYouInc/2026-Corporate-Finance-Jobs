@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brisbane, Queensland, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Brisbane/Finance-Support-Administrator_R5031122-1) |
+| Category | Accounting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Brisbane/Finance-Support-Administrator_R5037287-1) |
 
 ## About This Role
 
-This corporate finance position at GE Aerospace was posted on 2026-03-20.
+This accounting position at GE Aerospace was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Associ-ou-associe-en-services-financiers--Services-Financiers-en-gestion-patrimoine_R2608117) |
+| Location | 5 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Jonquire/Associ-ou-associe-en-services-financiers_R2608944-1) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-06-19.
+This wealth management / private banking position at Desjardins was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

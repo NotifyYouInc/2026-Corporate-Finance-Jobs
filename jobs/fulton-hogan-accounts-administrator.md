@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fulton Hogan](https://scoutify.ai/companies/fulton-hogan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mascot, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Mascot/Accounts-Administrator_R25951-1) |
+| Location | Cambridge, Tasmania, Australia |
+| Category | Accounting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Cambridge/Accounts-Administrator_R26083-1) |
 
 ## About This Role
 
-This corporate finance position at Fulton Hogan was posted on 2026-06-25.
+This accounting position at Fulton Hogan was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

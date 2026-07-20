@@ -1,16 +1,16 @@
-# Manager - Wholesale Credit (Credit Evaluation) at Hong Leong Bank
+# Manager, Wholesale Credit (Credit Evaluation) at Hong Leong Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager---Wholesale-Credit--Credit-Evaluation-_JR0000025262) |
+| Location | Malaysia |
+| Category | Financial Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager--Wholesale-Credit--Credit-Evaluation-_JR0000023154) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-06-24.
+This financial analyst position at Hong Leong Bank was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

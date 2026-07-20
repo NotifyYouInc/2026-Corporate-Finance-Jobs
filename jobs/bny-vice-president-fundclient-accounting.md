@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lake Mary, Florida, United States |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | Accounting |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#77140) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#78697) |
 
 ## About This Role
 
-This accounting position at BNY was posted on 2026-05-26.
+This accounting position at BNY was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

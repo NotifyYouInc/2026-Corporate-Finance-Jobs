@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Financial Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#152790) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#152376) |
 
 ## About This Role
 
-This financial analyst position at Honeywell was posted on 2026-07-10.
+This financial analyst position at Honeywell was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

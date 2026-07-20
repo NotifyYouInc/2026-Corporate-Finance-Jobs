@@ -1,16 +1,16 @@
-# FINANCE TRAINEE at Valeo
+# Finance Trainee at Valeo
 
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Juárez, Chiapas, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Juarez/FINANCE-TRAINEE_REQ2026074295) |
+| Location | Fuenlabrada, Madrid, Spain |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Fuenlabrada/Finance-Trainee_REQ2026078375) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-05-08.
+This fp&a / strategic finance position at Valeo was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

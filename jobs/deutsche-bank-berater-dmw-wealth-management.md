@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Berlin-Sophie-C-PlBismarckstr/Berater--d-m-w--Wealth-Management_R0426593) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Hamburg-An-der-Alster-63-64/Berater--d-m-w--Wealth-Management-Digital-Affluents_R0426594) |
 
 ## About This Role
 
-This wealth management / private banking position at Deutsche Bank was posted on 2026-07-03.
+This wealth management / private banking position at Deutsche Bank was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

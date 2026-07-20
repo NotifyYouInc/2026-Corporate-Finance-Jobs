@@ -5,12 +5,12 @@
 | Company | [KPMG Australia](https://scoutify.ai/companies/kpmg-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Accounting |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001222479-payroll-specialist) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001228507-payroll-specialist) |
 
 ## About This Role
 
-This accounting position at KPMG Australia was posted on 2026-07-09.
+This accounting position at KPMG Australia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

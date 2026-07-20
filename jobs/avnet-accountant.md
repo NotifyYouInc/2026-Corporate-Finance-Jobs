@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tlaquepaque, Jalisco, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Tlaquepaque-Jalisco-Mexico/Accountant_JR-021765) |
+| Location | Taiwan |
+| Category | Accounting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Accountant_JR-023630) |
 
 ## About This Role
 
-This corporate finance position at Avnet was posted on 2026-03-04.
+This accounting position at Avnet was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

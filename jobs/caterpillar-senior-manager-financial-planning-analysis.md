@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Manager-Financial-Planning---Analysis_R0000356730) |
+| Location | Rayong, Rayong, Thailand |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rayong-Thailand/Senior-Manager-Financial-Planning---Analysis_R0000382087) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-12.
+This fp&a / strategic finance position at Caterpillar was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

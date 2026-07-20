@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Treasury-Specialist_JR00025021-2) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Treasury-Specialist_JR00025020) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-06-23.
+This treasury & capital markets position at ABB was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

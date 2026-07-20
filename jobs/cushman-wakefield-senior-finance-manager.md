@@ -1,16 +1,16 @@
-# Senior Finance Manager at Cushman & Wakefield
+# Senior/ Finance Manager at Cushman & Wakefield
 
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Melbourne-Australia/Senior-Finance-Manager_R318515) |
+| Location | Singapore, Singapore |
+| Category | Financial Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Singapore/Senior--Finance-Manager_R327862) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-05-22.
+This financial analyst position at Cushman & Wakefield was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

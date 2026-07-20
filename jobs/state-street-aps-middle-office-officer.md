@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/APS-Middle-Office---Officer_R-786948) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/APS-Middle-Office---Officer_R-786972) |
 
 ## About This Role
 
-This asset management / portfolio management position at State Street was posted on 2026-07-03.
+This asset management / portfolio management position at State Street was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

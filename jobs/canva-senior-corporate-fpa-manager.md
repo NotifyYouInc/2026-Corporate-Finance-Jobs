@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001175162-senior-corporate-fpa-manager) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001228863-senior-corporate-fpa-manager) |
 
 ## About This Role
 
-This corporate finance position at Canva was posted on 2026-06-23.
+This fp&a / strategic finance position at Canva was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

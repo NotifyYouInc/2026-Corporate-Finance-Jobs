@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sertis](https://scoutify.ai/companies/sertis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8537055002) |
+| Category | Accounting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8630634002) |
 
 ## About This Role
 
-This corporate finance position at Sertis was posted on 2026-05-06.
+This accounting position at Sertis was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

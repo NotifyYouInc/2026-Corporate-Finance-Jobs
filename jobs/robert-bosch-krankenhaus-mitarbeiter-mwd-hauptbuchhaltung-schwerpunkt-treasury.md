@@ -5,12 +5,12 @@
 | Company | [Robert Bosch Krankenhaus](https://scoutify.ai/companies/robertboschkrankenhausgmbh?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RobertBoschKrankenhausGmbH/744000135262966-mitarbeiter-mwd-hauptbuchhaltung-schwerpunkt-treasury) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RobertBoschKrankenhausGmbH/744000137371089-mitarbeiter-mwd-hauptbuchhaltung-schwerpunkt-treasury) |
 
 ## About This Role
 
-This accounting position at Robert Bosch Krankenhaus was posted on 2026-07-01.
+This accounting position at Robert Bosch Krankenhaus was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
