@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000975113-senior-manager-indirect-tax) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001229659-senior-manager-indirect-tax) |
 
 ## About This Role
 
-This corporate finance position at Canva was posted on 2026-04-02.
+This accounting position at Canva was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

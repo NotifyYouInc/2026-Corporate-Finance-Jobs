@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nashville, Tennessee, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Nashville-TN/Wealth-Support-Specialist-II_R0115171) |
+| Location | Orlando, Florida, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Orlando-FL/Wealth-Support-Specialist-II_R0116755) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-05-29.
+This wealth management / private banking position at Truist was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

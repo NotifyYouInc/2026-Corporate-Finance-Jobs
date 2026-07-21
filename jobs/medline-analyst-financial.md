@@ -5,12 +5,12 @@
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Financial Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Analyst-Financial_R2613457) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Analyst-Financial_R2613412) |
 
 ## About This Role
 
-This financial analyst position at Medline was posted on 2026-07-03.
+This financial analyst position at Medline was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

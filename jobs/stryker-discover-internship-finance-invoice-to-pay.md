@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Warsaw-Poland/Discover-Internship--Finance--Invoice-to-Pay_R562128) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Warsaw-Poland/Discover-Internship--Finance--Invoice-to-Pay_R568744) |
 
 ## About This Role
 
-This corporate finance position at Stryker was posted on 2026-03-25.
+This accounting position at Stryker was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

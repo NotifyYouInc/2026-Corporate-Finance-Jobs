@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000131237949-sr-financial-analyst-supply-chain) |
+| Category | Financial Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137549059-sr-financial-analyst-supply-chain) |
 
 ## About This Role
 
-This corporate finance position at Mattel was posted on 2026-06-09.
+This financial analyst position at Mattel was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

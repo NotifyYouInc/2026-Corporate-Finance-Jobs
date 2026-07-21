@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Philippines/Finance-Administrator_R-111018) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Philippines/Payment-Services-Administrator_R-125504) |
 
 ## About This Role
 
-This corporate finance position at Travel + Leisure Co. was posted on 2026-04-30.
+This accounting position at Travel + Leisure Co. was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

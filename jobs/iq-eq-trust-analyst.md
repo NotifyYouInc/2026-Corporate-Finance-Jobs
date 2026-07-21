@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000137052189-trust-analyst) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000137575924-trust-analyst) |
 
 ## About This Role
 
-This wealth management / private banking position at IQ-EQ was posted on 2026-07-10.
+This wealth management / private banking position at IQ-EQ was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415960/finance-manager-amazon-freight-finance) |
+| Category | Financial Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473425/finance-manager-amazon-freight-finance) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-11.
+This financial analyst position at Amazon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

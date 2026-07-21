@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Florida, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Asset-Management-Senior-Trading-Associate---UMA-Trading_R-0010899) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Asset-Management-Senior-Trading-Associate---UMA-Trading_R-0011942) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-04-30.
+This asset management / portfolio management position at Raymond James Financial was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

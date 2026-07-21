@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Program-Accounting-Associate-Analyst_41276) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Program-Accounting-Associate-Analyst_41681) |
 
 ## About This Role
 
-This accounting position at Guidehouse was posted on 2026-07-03.
+This accounting position at Guidehouse was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

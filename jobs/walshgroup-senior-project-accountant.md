@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WalshGroup](https://scoutify.ai/companies/walshgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mount Pleasant, South Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/WI_Mount-Pleasant_223143/Senior-Project-Accountant_JR15286) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/IL_Chicago_826084/Senior-Project-Accountant_JR15601) |
 
 ## About This Role
 
-This corporate finance position at WalshGroup was posted on 2026-06-16.
+This accounting position at WalshGroup was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

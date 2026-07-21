@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EF Education First](https://scoutify.ai/companies/ocs-cx-oj35125?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Italy |
+| Location | Switzerland |
 | Category | Accounting |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://fa-evad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2680) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://fa-evad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#1980) |
 
 ## About This Role
 
-This accounting position at EF Education First was posted on 2026-06-25.
+This accounting position at EF Education First was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

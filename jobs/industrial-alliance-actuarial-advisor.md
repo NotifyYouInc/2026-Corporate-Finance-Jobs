@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Qubec-Qubec/Conseiller-re--en-actuariat_JR10026053) |
+| Location | 2 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Actuarial-Advisor_JR10027031-1) |
 
 ## About This Role
 
-This corporate finance position at Industrial Alliance was posted on 2026-04-01.
+This actuary / insurance analytics position at Industrial Alliance was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

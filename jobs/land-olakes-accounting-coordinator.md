@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Land O'Lakes](https://scoutify.ai/companies/landolakes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ames, Iowa, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Ames-IA-USA/Finance-Coordinator_R-38259) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Ames-IA-USA/Accounting-Coordinator_R-39454) |
 
 ## About This Role
 
-This corporate finance position at Land O'Lakes was posted on 2026-03-06.
+This accounting position at Land O'Lakes was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

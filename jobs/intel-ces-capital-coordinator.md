@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San José, San José, Costa Rica |
-| Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/CES-Capital-Coordinator_JR0282443-1) |
+| Location | Malaysia |
+| Category | Financial Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/CES-Capital-Coordinator_JR0285517) |
 
 ## About This Role
 
-This corporate finance position at Intel was posted on 2026-03-30.
+This financial analyst position at Intel was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

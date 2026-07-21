@@ -1,16 +1,16 @@
-# Underwriter IV- Commercial at PNC Financial
+# Underwriter IV - Commercial at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsylvania, US |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-PA-PAH01/Underwriter-IV--Commercial_R214988-2) |
+| Location | Ohio, US |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-OH-OHH01/Underwriter-IV---Commercial_R229034-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-05-12.
+This actuary / insurance analytics position at PNC Financial was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

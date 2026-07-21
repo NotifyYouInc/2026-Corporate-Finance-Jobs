@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/KS---Central-Kansas---Wichita---Wichita-Waterfront-67206/Private-Banking-Relationship-Manager_37704) |
+| Location | Leawood, Kansas, United States |
+| Category | Account Manager |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/KS---Johnson-County---Leawood---Leawood-Nall-66211/Private-Banking-Relationship-Manager_38200) |
 
 ## About This Role
 
-This corporate finance position at Commerce Bank was posted on 2026-03-17.
+This account manager position at Commerce Bank was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

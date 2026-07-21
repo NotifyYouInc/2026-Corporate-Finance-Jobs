@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Delhi, Delhi, India |
 | Category | Account Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#246472) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#246721) |
 
 ## About This Role
 
-This account manager position at Kotak Mahindra Bank was posted on 2026-07-13.
+This account manager position at Kotak Mahindra Bank was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

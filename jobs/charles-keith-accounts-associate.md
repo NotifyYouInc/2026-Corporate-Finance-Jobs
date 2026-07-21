@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Charles & Keith](https://scoutify.ai/companies/charles-keith?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://charleskeith.wd3.myworkdayjobs.com/external/job/Singapore/ACCOUNTS-ASSOCIATE_JR101578) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://charleskeith.wd3.myworkdayjobs.com/external/job/Singapore/ACCOUNTS-ASSOCIATE_JR101684) |
 
 ## About This Role
 
-This corporate finance position at Charles & Keith was posted on 2026-05-19.
+This accounting position at Charles & Keith was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

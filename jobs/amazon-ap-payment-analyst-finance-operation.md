@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chengdu, Sichuan, China |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204025/ap-payment-analyst-finance-operation) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473327/ap-payment-analyst-finance-operation) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-03-13.
+This accounting position at Amazon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

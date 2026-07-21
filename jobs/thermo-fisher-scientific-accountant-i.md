@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bohemia-New-York-USA/Accountant-I_R-01344251) |
+| Location | Matamoros, Coahuila, Mexico |
+| Category | Accounting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Matamoros-Mexico/Accountant-I_R-01359752) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-11.
+This accounting position at Thermo Fisher Scientific was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

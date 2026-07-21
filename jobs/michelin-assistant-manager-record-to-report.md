@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Pune/Assistant-Manager---Record-to-Report_R-2026003537-1) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Pune/Assistant-Manager---Record-to-Report_R-2026025691-1) |
 
 ## About This Role
 
-This corporate finance position at Michelin was posted on 2026-03-23.
+This accounting position at Michelin was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

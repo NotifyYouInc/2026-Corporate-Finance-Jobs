@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Hong-Kong-Hong-Kong/FX-Structuring--Associate---Vice-President_JR030778) |
+| Category | Sales & Trading |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Hong-Kong-Hong-Kong/FX-Structuring--Associate---Vice-President_JR040437) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-02-26.
+This sales & trading position at Morgan Stanley was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

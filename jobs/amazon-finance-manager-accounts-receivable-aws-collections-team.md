@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456181/finance-manager-accounts-receivable-aws-collections-team) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473397/finance-manager-accounts-receivable-aws-collections-team) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-23.
+This accounting position at Amazon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

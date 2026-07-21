@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Columbus, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Columbus-OH-USA/Audit-Senior-Associate---Financial-Services_R-51280-1) |
+| Location | Atlanta, Georgia, United States |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Atlanta-GA-USA/Audit-Senior-Associate---Financial-Services_R-51615) |
 
 ## About This Role
 
-This corporate finance position at Crowe was posted on 2026-05-18.
+This accounting position at Crowe was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

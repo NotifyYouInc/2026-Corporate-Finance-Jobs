@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scotts Miracle-Gro](https://scoutify.ai/companies/scotts-miracle-gro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Marysville, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/Orders-to-Cash-Analyst_R24902) |
+| Category | Accounting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/Orders-to-Cash-Analyst_R26142) |
 
 ## About This Role
 
-This corporate finance position at Scotts Miracle-Gro was posted on 2026-02-26.
+This accounting position at Scotts Miracle-Gro was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

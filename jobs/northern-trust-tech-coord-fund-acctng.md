@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Tech-Coord--Fund-Acctng_R154658-1) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Tech-Coord--Fund-Acctng_R155771-1) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-05-12.
+This accounting position at Northern Trust was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

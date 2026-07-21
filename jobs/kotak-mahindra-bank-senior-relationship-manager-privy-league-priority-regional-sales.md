@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Gurugram, Haryana, India |
 | Category | Account Manager |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#248804) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#246722) |
 
 ## About This Role
 
-This account manager position at Kotak Mahindra Bank was posted on 2026-07-11.
+This account manager position at Kotak Mahindra Bank was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

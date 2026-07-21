@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Providence, Rhode Island, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Providence-Rhode-Island-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000178488) |
+| Location | Lancaster, California, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Lancaster-Pennsylvania-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000180385) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-25.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

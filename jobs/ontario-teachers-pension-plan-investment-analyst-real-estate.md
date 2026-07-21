@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ontario Teachers' Pension Plan](https://scoutify.ai/companies/otppb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Analyst--Real-Estate_7005-1) |
+| Location | Dallas, Texas, United States |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Dallas-USA/Investment-Analyst--Real-Estate_7111) |
 
 ## About This Role
 
-This corporate finance position at Ontario Teachers' Pension Plan was posted on 2026-05-15.
+This asset management / portfolio management position at Ontario Teachers' Pension Plan was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dematic](https://scoutify.ai/companies/kiongroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Grand Rapids, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Financial-Analyst_JR-0090175) |
+| Location | Guadalupe, Nuevo León, Mexico |
+| Category | Financial Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Guadalupe-Mexico/Financial-Analyst_JR-0091311) |
 
 ## About This Role
 
-This corporate finance position at Dematic was posted on 2026-04-02.
+This financial analyst position at Dematic was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

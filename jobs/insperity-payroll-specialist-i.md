@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Texas, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Payroll-Specialist-I_JR102397) |
+| Location | Brea, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Brea-CA/Payroll-Specialist-I_JR102903) |
 
 ## About This Role
 
-This corporate finance position at Insperity was posted on 2026-03-24.
+This accounting position at Insperity was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

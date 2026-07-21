@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118049897-dir-finance) |
+| Location | Toyosu, Tokyo, Japan |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000137595490-dir-finance) |
 
 ## About This Role
 
-This corporate finance position at Renesas Electronics was posted on 2026-04-01.
+This treasury & capital markets position at Renesas Electronics was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

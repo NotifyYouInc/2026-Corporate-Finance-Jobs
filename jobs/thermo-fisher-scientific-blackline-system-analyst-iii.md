@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Budapest-Hungary/Blackline-System-Analyst-III_R-01356960) |
+| Location | Quezon City, National Capital Region, Philippines |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Blackline-System-Analyst-III_R-01354517-1) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-06-22.
+This accounting position at Thermo Fisher Scientific was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

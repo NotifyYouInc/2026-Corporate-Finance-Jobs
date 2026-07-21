@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Waltham, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5161362007?gh_jid=5161362007) |
+| Location | Costa Mesa, California, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5185988007?gh_jid=5185988007) |
 
 ## About This Role
 
-This corporate finance position at Anduril was posted on 2026-06-11.
+This financial analyst position at Anduril was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001224621-manager-group-fleet-analytics) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001231024-manager-group-fleet-analytics) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Qantas Group was posted on 2026-07-10.
+This fp&a / strategic finance position at Qantas Group was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
