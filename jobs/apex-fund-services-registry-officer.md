@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nadi, Western, Fiji |
-| Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Nadi/Registry-Officer_JR-0023036) |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Nadi/Registry-Officer_JR-0023667-1) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-05-07.
+This accounting position at Apex Fund Services was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

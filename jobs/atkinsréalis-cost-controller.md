@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mississauga, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Cost-Controller_R-156355) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/CABCVancouver745-Thurlow-St/Junior-Cost-Controller_R-159526) |
 
 ## About This Role
 
-This corporate finance position at AtkinsRéalis was posted on 2026-05-28.
+This accounting position at AtkinsRéalis was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

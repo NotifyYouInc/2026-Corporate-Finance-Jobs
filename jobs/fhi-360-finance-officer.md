@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quelimane, Zambezia Province, Mozambique |
+| Location | Bunia, Ituri, Democratic Republic of the Congo |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Quelimane-Mozambique/Finance-Officer_Requisition-2026200996) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/DRC-Bunia-F-Manzikala-Ave/Finance-Officer_Requisition-2026201026) |
 
 ## About This Role
 
-This accounting position at Fhi 360 was posted on 2026-07-02.
+This accounting position at Fhi 360 was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

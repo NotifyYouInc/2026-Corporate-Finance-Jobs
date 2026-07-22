@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000123849060-ap-specialist) |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000137804500-ap-specialist) |
 
 ## About This Role
 
-This corporate finance position at H&M Group was posted on 2026-04-30.
+This accounting position at H&M Group was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

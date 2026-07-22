@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Xiamen, Fujian, China |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Xiamen-Fujian-China/Cost-Accounting-Capability-Specialist_R0125040) |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Xiamen-Fujian-China/Cost-Accounting-Capability-Specialist_R0135175-1) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-04-02.
+This accounting position at Hitachi was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

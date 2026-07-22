@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cleveland, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cleveland-Ohio-Office/Accounts-Receivable-Analyst_R-107385) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Manila-Philippines/Accounts-Receivable-Analyst_R-108458) |
 
 ## About This Role
 
-This corporate finance position at MRI Software was posted on 2026-03-31.
+This accounting position at MRI Software was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

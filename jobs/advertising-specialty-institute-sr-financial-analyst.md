@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advertising Specialty Institute](https://scoutify.ai/companies/advertising-specialty-institute?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsylvania, US |
-| Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/advertisingspecialtyinstitute/jobs/5112996008) |
+| Location | Trevose, Pennsylvania, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/advertisingspecialtyinstitute/jobs/5348587008) |
 
 ## About This Role
 
-This corporate finance position at Advertising Specialty Institute was posted on 2026-02-06.
+This financial analyst position at Advertising Specialty Institute was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

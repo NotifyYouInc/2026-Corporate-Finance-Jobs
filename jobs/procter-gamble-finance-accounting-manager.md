@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Athens, Attica, Greece |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/ATHENS-GENERAL-OFFICE/Finance---Accounting-Manager_R000147728) |
+| Location | Philippines |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Taguig-City/Finance---Accounting-Manager_R000155005) |
 
 ## About This Role
 
-This corporate finance position at Procter & Gamble was posted on 2026-03-17.
+This accounting position at Procter & Gamble was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

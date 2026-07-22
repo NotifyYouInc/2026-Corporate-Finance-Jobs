@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Intermediate-Credit-Analyst_REQ-10116384) |
+| Category | Financial Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Intermediate-Credit-Analyst_REQ-10117255-1) |
 
 ## About This Role
 
-This corporate finance position at ING was posted on 2026-06-25.
+This financial analyst position at ING was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

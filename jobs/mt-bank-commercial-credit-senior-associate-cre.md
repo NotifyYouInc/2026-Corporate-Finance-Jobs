@@ -1,16 +1,16 @@
-# Commercial Credit Senior Associate, CRE at M&T Bank
+# Commercial Credit Senior Associate - CRE at M&T Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/New-York-NY/Commercial-Credit-Senior-Associate--CRE_R87062) |
+| Location | Radnor, Pennsylvania, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Radnor-PA/Commercial-Credit-Senior-Associate---CRE_R87576) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-06-24.
+This financial analyst position at M&T Bank was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wilmington, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Wealth-Client-Service-Associate_R85249-1) |
+| Location | Boston, Massachusetts, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Boston-MA/Wealth-Client-Service-Associate_R87568) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-05-12.
+This wealth management / private banking position at M&T Bank was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

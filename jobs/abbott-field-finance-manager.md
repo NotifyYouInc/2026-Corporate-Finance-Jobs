@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Brighton, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---New-Brighton/Field-Finance-Manager_31152521-1) |
+| Location | Austin, Texas, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Austin/Field-Finance-Manager_31154269-1) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-06-05.
+This financial analyst position at Abbott was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

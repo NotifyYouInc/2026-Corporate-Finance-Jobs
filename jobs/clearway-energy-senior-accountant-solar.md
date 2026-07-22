@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clearway Energy](https://scoutify.ai/companies/clearway-energy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Princeton, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clearwayjobs/jobs/5156952007) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clearwayjobs/jobs/5178315007) |
 
 ## About This Role
 
-This corporate finance position at Clearway Energy was posted on 2026-06-10.
+This accounting position at Clearway Energy was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

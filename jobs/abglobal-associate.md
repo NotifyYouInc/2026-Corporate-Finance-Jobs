@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Stamford, Connecticut, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Stamford-Connecticut/Associate_R0019109) |
+| Location | Philadelphia, Pennsylvania, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Philadelphia-Pennsylvania/Associate_R0019308-1) |
 
 ## About This Role
 
-This corporate finance position at Abglobal was posted on 2026-06-11.
+This wealth management / private banking position at Abglobal was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

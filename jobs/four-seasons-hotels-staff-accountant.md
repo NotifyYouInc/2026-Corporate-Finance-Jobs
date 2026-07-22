@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Office-Toronto/Staff-Accountant_REQ10382764-1) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Office-Toronto/Staff-Accountant_REQ10386020) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-06-11.
+This accounting position at Four Seasons Hotels was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

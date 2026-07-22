@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pariveda](https://scoutify.ai/companies/pariveda?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/pariveda/c2e71171-e488-45f0-a2f1-b0dfc4385545) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pariveda/0820537a-2795-4a89-a43c-866a644ed877) |
 
 ## About This Role
 
-This corporate finance position at Pariveda was posted on 2026-04-24.
+This accounting position at Pariveda was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

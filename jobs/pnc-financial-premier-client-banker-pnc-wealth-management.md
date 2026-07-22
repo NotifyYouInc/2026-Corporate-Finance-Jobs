@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mayfield Heights, Ohio, United States |
+| Location | Doylestown, Pennsylvania, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Mayfield-Heights/Premier-Client-Banker---PNC-Wealth-Management_R228899-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Doylestown/Premier-Client-Banker---PNC-Wealth-Management_R228979-1) |
 
 ## About This Role
 
-This wealth management / private banking position at PNC Financial was posted on 2026-07-09.
+This wealth management / private banking position at PNC Financial was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

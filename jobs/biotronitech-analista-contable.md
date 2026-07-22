@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Biotronitech](https://scoutify.ai/companies/blancassandovalassociatespa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Santiago de Surco, Lima region, Peru |
+| Location | Miraflores, Lima region, Peru |
 | Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000136060569-analista-contable) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000137771363-analista-contable) |
 
 ## About This Role
 
-This accounting position at Biotronitech was posted on 2026-07-06.
+This accounting position at Biotronitech was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

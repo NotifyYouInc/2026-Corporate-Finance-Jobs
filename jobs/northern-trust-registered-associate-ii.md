@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bonita Springs, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bonita-Springs-FL/Registered-Associate-II_R149111-1) |
+| Location | Tempe, Arizona, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Tempe-AZ/Registered-Associate-II_R154051) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-06-02.
+This wealth management / private banking position at Northern Trust was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

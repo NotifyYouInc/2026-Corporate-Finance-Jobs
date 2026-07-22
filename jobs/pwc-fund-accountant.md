@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kuala-Lumpur/Fund-Accountant_673016WD) |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kuala-Lumpur/Fund-Accountant_744788WD) |
 
 ## About This Role
 
-This corporate finance position at PwC was posted on 2026-06-24.
+This accounting position at PwC was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

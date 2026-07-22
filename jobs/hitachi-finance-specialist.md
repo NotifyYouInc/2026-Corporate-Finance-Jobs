@@ -1,16 +1,16 @@
-# Finance Specialist at Hitachi
+# Finance specialist at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kathmandu, Bagmati Province, Nepal |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Kathmandu-Bagmati-Nepal/Finance-Specialist_R0134889) |
+| Location | 2 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/Finance-specialist_R0137092-1) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-06-26.
+This fp&a / strategic finance position at Hitachi was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

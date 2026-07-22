@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Richmond, Virginia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Senior-Trust-Advisor_R0111783) |
+| Location | Memphis, Tennessee, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Memphis-TN/Senior-Trust-Advisor_R0116817) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-02-26.
+This wealth management / private banking position at Truist was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

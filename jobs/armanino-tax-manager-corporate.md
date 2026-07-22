@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Jose, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/San-Jose-California/Tax-Manager--Corporate_JR103954) |
+| Location | Dallas, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Dallas-Texas/Tax-Manager--Corporate_JR104085) |
 
 ## About This Role
 
-This corporate finance position at Armanino was posted on 2026-05-27.
+This accounting position at Armanino was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

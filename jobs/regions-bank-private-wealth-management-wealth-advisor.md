@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Shreveport, Louisiana, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Atlanta-GA---Buckhead-Branch/Private-Wealth-Management-Wealth-Advisor_R101025) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Shreveport-LA---Investments-Center/Private-Wealth-Management-Wealth-Advisor_R104255) |
 
 ## About This Role
 
-This wealth management / private banking position at Regions Bank was posted on 2026-07-03.
+This wealth management / private banking position at Regions Bank was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

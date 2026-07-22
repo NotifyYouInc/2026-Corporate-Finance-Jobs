@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001203334-head-of-payroll-americas-emea) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001233020-head-of-payroll-americas-emea) |
 
 ## About This Role
 
-This accounting position at Canva was posted on 2026-07-02.
+This accounting position at Canva was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

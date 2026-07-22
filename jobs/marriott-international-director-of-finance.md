@@ -1,16 +1,16 @@
-# Director Of Finance at Marriott International
+# Director of Finance at Marriott International
 
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maldives |
+| Location | Pune, Maharashtra, India |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26082525) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26087388) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Marriott International was posted on 2026-07-06.
+This fp&a / strategic finance position at Marriott International was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

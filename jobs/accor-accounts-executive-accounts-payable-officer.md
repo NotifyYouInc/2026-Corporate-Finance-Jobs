@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taupo, Waikato Region, New Zealand |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000137579949-accounts-executive-accounts-payable-officer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000137782079-accounts-executive-accounts-payable-officer) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-14.
+This accounting position at ACCOR was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

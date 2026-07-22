@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Senior-Financial-Analyst--Brand-Finance_Req-038132) |
+| Category | Financial Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Senior-Financial-Analyst--Brand-Finance_Req-038777) |
 
 ## About This Role
 
-This corporate finance position at Conagra Brands was posted on 2026-05-20.
+This financial analyst position at Conagra Brands was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

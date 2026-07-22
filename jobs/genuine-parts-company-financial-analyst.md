@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/USA-GPC-Windy-Hill/Financial-Analyst_R26_0000016916) |
+| Location | Birmingham, Alabama, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Financial-Analyst_R26_0000022396) |
 
 ## About This Role
 
-This corporate finance position at Genuine Parts Company was posted on 2026-06-09.
+This financial analyst position at Genuine Parts Company was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

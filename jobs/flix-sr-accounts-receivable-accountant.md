@@ -1,16 +1,16 @@
-#  Sr Accounts Receivable Accountant at Flix
+# Sr Accounts Receivable Accountant at Flix
 
 | Field | Details |
 |-------|---------|
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://flix.careers/job/8611154002?gh_jid=8611154002) |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://flix.careers/job/8634022002?gh_jid=8634022002) |
 
 ## About This Role
 
-This corporate finance position at Flix was posted on 2026-06-26.
+This accounting position at Flix was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

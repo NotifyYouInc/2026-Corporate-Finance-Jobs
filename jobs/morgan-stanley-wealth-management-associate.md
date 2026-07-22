@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Colchester, Vermont, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Wealth-Management-Analyst_JR030727-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Colchester-Vermont-United-States-of-America/Wealth-Management-Associate_JR040150) |
 
 ## About This Role
 
-This leadership development program position at Morgan Stanley was posted on 2026-07-07.
+This leadership development program position at Morgan Stanley was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

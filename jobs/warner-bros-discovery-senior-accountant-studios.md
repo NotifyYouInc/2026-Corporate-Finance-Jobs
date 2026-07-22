@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/Senior-Accountant--Studios_R000105528) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/Senior-Accountant--Studios_R000106999) |
 
 ## About This Role
 
-This corporate finance position at Warner Bros Discovery was posted on 2026-05-21.
+This accounting position at Warner Bros Discovery was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

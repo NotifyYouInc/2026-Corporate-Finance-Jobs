@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/IT-Controller-I---IT-Controller-II_JR111831-1) |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/IT-Controller-I---IT-Controller-II_JR115267-1) |
 
 ## About This Role
 
-This corporate finance position at Xcel Energy was posted on 2026-02-24.
+This accounting position at Xcel Energy was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

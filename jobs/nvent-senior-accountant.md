@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maryland, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Millington-MD-US/Senior-Accountant_R21004) |
+| Location | Madison, Wisconsin, United States |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Madison-WI-US/Senior-Accountant_R22647) |
 
 ## About This Role
 
-This corporate finance position at nVent was posted on 2026-03-27.
+This accounting position at nVent was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

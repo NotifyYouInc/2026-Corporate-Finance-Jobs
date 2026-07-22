@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/OPS-INVESTMENT-BANKING-ANALYST-I_JR00100143-1) |
+| Location | Singapore, Singapore |
+| Category | Investment Banking |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Singapore/OPS-INVESTMENT-BANKING-ANALYST-I_JR00109227) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-21.
+This investment banking position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

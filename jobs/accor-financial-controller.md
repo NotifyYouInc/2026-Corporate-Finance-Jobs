@@ -1,16 +1,16 @@
-# FINANCIAL CONTROLLER at ACCOR
+# Financial Controller at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phu Quoc, An Giang, Vietnam |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000134693150-financial-controller) |
+| Location | Brisbane, Queensland, Australia |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000137798559-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-29.
+This accounting position at ACCOR was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

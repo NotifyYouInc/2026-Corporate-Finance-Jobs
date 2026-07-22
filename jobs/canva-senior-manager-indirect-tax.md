@@ -6,7 +6,7 @@
 | Location | San Francisco, California, United States |
 | Category | Accounting |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001229659-senior-manager-indirect-tax) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001233048-senior-manager-indirect-tax) |
 
 ## About This Role
 

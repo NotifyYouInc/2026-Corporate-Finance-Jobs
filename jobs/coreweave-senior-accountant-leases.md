@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CoreWeave](https://scoutify.ai/companies/coreweave?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://coreweave.com/careers/job?4669134006&board=coreweave&gh_jid=4669134006) |
+| Location | Dallas, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://coreweave.com/careers/job?4696710006&board=coreweave&gh_jid=4696710006) |
 
 ## About This Role
 
-This corporate finance position at CoreWeave was posted on 2026-04-03.
+This accounting position at CoreWeave was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

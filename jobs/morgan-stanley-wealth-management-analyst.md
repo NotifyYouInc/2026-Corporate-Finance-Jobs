@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Scottsdale, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Scottsdale-Arizona-United-States-of-America/Wealth-Management-Analyst_JR036155-2) |
+| Location | New York City, New York, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Wealth-Management-Analyst_JR040472-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-05-06.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

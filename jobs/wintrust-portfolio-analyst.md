@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newark, New Jersey, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Newark-NJ/Portfolio-Analyst_261191-1) |
+| Location | Menomonee Falls, Wisconsin, United States |
+| Category | Quant Research |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Portfolio-Analyst_261307-1) |
 
 ## About This Role
 
-This financial analyst position at Wintrust was posted on 2026-07-01.
+This quant research position at Wintrust was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Corpay](https://scoutify.ai/companies/corpay?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Sales & Trading |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Sydney---Cross-Border/FX-Dealer-Associate_R08798) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Brisbane---Cross-Border/FX-Dealer-Associate_R08803) |
 
 ## About This Role
 
-This sales & trading position at Corpay was posted on 2026-07-13.
+This sales & trading position at Corpay was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

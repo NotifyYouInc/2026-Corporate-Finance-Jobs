@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Hong Kong, Hong Kong |
 | Category | Sales & Trading |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Altimus/Vice-President---Global-Markets_JR-0000121558-2) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Vice-President---Global-Markets_JR-0000122681) |
 
 ## About This Role
 
-This sales & trading position at Barclays was posted on 2026-07-09.
+This sales & trading position at Barclays was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

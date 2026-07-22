@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Land O'Lakes](https://scoutify.ai/companies/landolakes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saskatoon, Saskatchewan, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Saskatoon-SK-CAN/Accountant_R-38824) |
+| Location | Arden Hills, Minnesota, United States |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Accountant_R-39564) |
 
 ## About This Role
 
-This corporate finance position at Land O'Lakes was posted on 2026-05-05.
+This accounting position at Land O'Lakes was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

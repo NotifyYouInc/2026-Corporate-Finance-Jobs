@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LGT](https://scoutify.ai/companies/lgt?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Adelaide, South Australia, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Adelaide/Associate_JR7873-1) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Sydney/Associate_JR8060-1) |
 
 ## About This Role
 
-This corporate finance position at LGT was posted on 2026-06-09.
+This wealth management / private banking position at LGT was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

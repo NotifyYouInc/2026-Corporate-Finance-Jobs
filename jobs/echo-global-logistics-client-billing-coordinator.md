@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Echo Global Logistics](https://scoutify.ai/companies/echo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Chicago-IL/Client-Billing-Coordinator_R4198) |
+| Location | Long Beach, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Long-Beach-CA/Client-Billing-Coordinator_R4461) |
 
 ## About This Role
 
-This corporate finance position at Echo Global Logistics was posted on 2026-04-10.
+This accounting position at Echo Global Logistics was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

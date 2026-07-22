@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Deerfield, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Deerfield-Illinois-United-States-of-America/Financial-Planning-Analyst_JR037875-1) |
+| Location | West Des Moines, Iowa, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/West-Des-Moines-Iowa-United-States-of-America/Financial-Planning-Analyst_JR038953-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-05-28.
+This fp&a / strategic finance position at Morgan Stanley was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Atlanta-GA/Sr-Investment-Associate_R156871) |
+| Location | Chicago, Illinois, United States |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Investment-Associate_R157837) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-06-17.
+This venture capital / private equity position at Northern Trust was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

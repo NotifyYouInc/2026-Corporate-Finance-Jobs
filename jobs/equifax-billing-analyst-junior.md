@@ -1,16 +1,16 @@
-# Billing Analyst Junior at Equifax
+# Billing Analyst - Junior at Equifax
 
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/Billing-Analyst-Junior_J00177007) |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/Billing-Analyst---Junior_J00178026) |
 
 ## About This Role
 
-This corporate finance position at Equifax was posted on 2026-05-20.
+This accounting position at Equifax was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

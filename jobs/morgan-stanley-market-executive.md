@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mclean-Virginia-United-States-of-America/Market-Executive_JR036490) |
+| Location | Rochester, New York, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Rochester-New-York-United-States-of-America/Market-Executive_JR040273) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-05-08.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
