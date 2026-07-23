@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000122367729-fund-accounting-manager-private-equity) |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000137983110-fund-accounting-manager-private-equity) |
 
 ## About This Role
 
-This corporate finance position at MUFG Investor Services was posted on 2026-04-23.
+This venture capital / private equity position at MUFG Investor Services was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

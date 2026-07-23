@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453885/senior-startup-investor-manager-vc-aws-startup-investor-management) |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10475928/senior-startup-investor-manager-vc-aws-startup-investor-management) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-19.
+This venture capital / private equity position at Amazon was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Juárez, Chiapas, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Juarez/Finance-Manager_WD223699) |
+| Location | Penang, MY |
+| Category | Financial Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Finance-Manager_WD225204) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-06-24.
+This financial analyst position at FLEX LTD. Flextronics was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

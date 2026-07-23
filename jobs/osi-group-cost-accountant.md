@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OSI Group](https://scoutify.ai/companies/osi-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/osi1000osig/JobBoard/5c31fa30-0b12-4718-abf6-664d6271de12/OpportunityDetail?opportunityId=1e109709-1a92-4ea4-a76b-dfec6abe6acf) |
+| Location | Oakland, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/osi1000osig/JobBoard/5c31fa30-0b12-4718-abf6-664d6271de12/OpportunityDetail?opportunityId=52258985-ac6a-490f-b21a-a9ad28813e4c) |
 
 ## About This Role
 
-This corporate finance position at OSI Group was posted on 2026-06-24.
+This accounting position at OSI Group was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

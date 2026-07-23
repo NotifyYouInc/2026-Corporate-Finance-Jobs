@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ludhiana, Punjab, India |
+| Location | Patiāla, Punjab, India |
 | Category | Account Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#246857) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#247032) |
 
 ## About This Role
 
-This account manager position at Kotak Mahindra Bank was posted on 2026-07-15.
+This account manager position at Kotak Mahindra Bank was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

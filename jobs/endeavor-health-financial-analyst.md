@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endeavor Health](https://scoutify.ai/companies/nshs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Arlington Heights, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/NCO-3040-Salt-Creek-Ln-Arlington-Heights/Financial-Analyst_R39103) |
+| Location | Warrenville, Illinois, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/SRO-Corporate-Center-Warrenville-4201-Winfield-Road/Financial-Analyst_R44874) |
 
 ## About This Role
 
-This corporate finance position at Endeavor Health was posted on 2026-06-09.
+This financial analyst position at Endeavor Health was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

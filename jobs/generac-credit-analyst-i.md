@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Waukesha, Wisconsin, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Credit-Analyst-I_JR14596) |
+| Category | Financial Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Credit-Analyst-I_JR15465) |
 
 ## About This Role
 
-This corporate finance position at Generac was posted on 2026-05-29.
+This financial analyst position at Generac was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

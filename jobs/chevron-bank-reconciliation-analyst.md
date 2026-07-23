@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Bank-Reconciliation-Analyst_R000070237-1) |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Bank-Reconciliation-Analyst_R000072416) |
 
 ## About This Role
 
-This corporate finance position at Chevron was posted on 2026-04-01.
+This accounting position at Chevron was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

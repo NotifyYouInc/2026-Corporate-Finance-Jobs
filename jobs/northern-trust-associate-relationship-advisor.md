@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-Relationship-Advisor_R156028) |
+| Location | New York City, New York, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/New-York-NY/Associate-Relationship-Advisor_R157904) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-06-02.
+This wealth management / private banking position at Northern Trust was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

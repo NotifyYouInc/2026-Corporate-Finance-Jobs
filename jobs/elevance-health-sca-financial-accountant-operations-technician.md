@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 7 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/PA-HARRISBURG-2400-THEA-DR-STE-3B/SCA-Financial---Accountant-Operations-Technician_JR194258) |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/MA-HINGHAM-75-SGT-WILLIAM-B-TERRY-DR-STE-2012/SCA-Financial---Accountant-Operations-Technician_JR198416) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-06-05.
+This accounting position at Elevance Health was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

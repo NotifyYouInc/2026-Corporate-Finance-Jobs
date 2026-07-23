@@ -1,16 +1,16 @@
-# Senior Credit Analyst, Innovation Banking at Western Alliance Bancorporation
+# Senior Credit Analyst - Innovation Banking at Western Alliance Bancorporation
 
 | Field | Details |
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/San-Francisco-CA/Senior-Credit-Analyst--Innovation-Banking_R13073-1) |
+| Category | Financial Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/San-Francisco-CA/Senior-Credit-Analyst---Innovation-Banking_R13405) |
 
 ## About This Role
 
-This corporate finance position at Western Alliance Bancorporation was posted on 2026-05-14.
+This financial analyst position at Western Alliance Bancorporation was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

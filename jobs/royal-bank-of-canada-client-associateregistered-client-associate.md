@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lancaster, California, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Lancaster-Pennsylvania-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000180385) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Scottsdale-Arizona-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000180818) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-13.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

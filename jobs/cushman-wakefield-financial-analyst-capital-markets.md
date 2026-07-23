@@ -1,16 +1,16 @@
-# Financial Analyst - Capital Markets at Cushman & Wakefield
+# Financial Analyst, Capital Markets at Cushman & Wakefield
 
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Washington-District-of-Columbia-USA/Financial-Analyst---Capital-Markets_R325495) |
+| Category | Financial Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Washington-District-of-Columbia-USA/Financial-Analyst--Capital-Markets_R326147-1) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-06-25.
+This financial analyst position at Cushman & Wakefield was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

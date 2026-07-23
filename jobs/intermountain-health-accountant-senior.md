@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Las Vegas, Nevada, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Nevada-Central-Office/Accountant-Senior_R173292) |
+| Location | Salt Lake City, Utah, United States |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Key-Bank-Tower/Accountant-Senior_R177117) |
 
 ## About This Role
 
-This corporate finance position at Intermountain Health was posted on 2026-06-01.
+This accounting position at Intermountain Health was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

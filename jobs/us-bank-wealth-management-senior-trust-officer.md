@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Orange, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Orange-CA/Wealth-Management-Senior-Trust-Officer_2026-0008323) |
+| Location | Minneapolis, Minnesota, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Wealth-Management-Senior-Trust-Officer---Saint-Paul--MN_2026-0020834) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-13.
+This wealth management / private banking position at U.S. Bank was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

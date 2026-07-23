@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Merrill-Advisor-Development-Program---Financial-Advisor--Midtown-Manhattan-Market_26011362) |
+| Location | White Plains, New York, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/White-Plains/Merrill-Advisor-Development-Program---Financial-Advisor--Midtown-Manhattan-Market_26024513) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-25.
+This wealth management / private banking position at Bank of America was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

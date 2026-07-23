@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lima, Lima Province, Peru |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/FINANCIAL-PLANNING---PERFORMANCE-ASSOCIATE-I_JR00106474) |
+| Location | Hong Kong, Hong Kong |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Hong-Kong/FINANCIAL-PLANNING---PERFORMANCE-ASSOCIATE-I_JR00109465) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-11.
+This fp&a / strategic finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000132989969-staff-financial-analyst) |
+| Location | Toyosu, Tokyo, Japan |
+| Category | Financial Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000137993460-staff-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Renesas Electronics was posted on 2026-06-19.
+This financial analyst position at Renesas Electronics was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

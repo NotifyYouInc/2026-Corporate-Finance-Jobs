@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Transat](https://scoutify.ai/companies/transat?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000133694109-directeurtrice-rapports-financiers-et-optimisation) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000137977299-directeurtrice-rapports-financiers-et-optimisation) |
 
 ## About This Role
 
-This corporate finance position at Transat was posted on 2026-06-23.
+This fp&a / strategic finance position at Transat was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

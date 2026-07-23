@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Finance-Associate-Senior_R213522-1) |
+| Location | 3 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Finance-Associate-Senior_R229008-2) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-06.
+This fp&a / strategic finance position at PNC Financial was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tbilisi, Tbilisi, Georgia |
+| Location | Da Nang, Da Nang City, Vietnam |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26081878) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26088006) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-07-03.
+This accounting position at Marriott International was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

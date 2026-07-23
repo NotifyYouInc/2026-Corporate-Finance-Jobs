@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Radnor, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Radnor-PA/Commercial-Credit-Associate_R86220) |
+| Location | Wethersfield, Connecticut, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wethersfield-CT/Commercial-Credit-Associate_R88198) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-06-03.
+This financial analyst position at M&T Bank was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

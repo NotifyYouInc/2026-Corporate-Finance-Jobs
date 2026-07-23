@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Grand Rapids, Michigan, United States |
+| Location | Center, Texas, United States |
 | Category | Financial Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Mercy-Health-West-Michigan-Hospital-Campus---Grand-Rapids-Mi/Financial-Analyst_00675649) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Alphonsus-Regional-Medical-Center---Boise-Idaho/Financial-Analyst_00680984) |
 
 ## About This Role
 
-This financial analyst position at Trinity Health was posted on 2026-07-09.
+This financial analyst position at Trinity Health was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

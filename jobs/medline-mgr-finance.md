@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Northfield, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Mgr-Finance_R2610335) |
+| Location | Nuevo Laredo, Tamaulipas, Mexico |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Nuevo-Laredo-Tamaulipas/Gerente-de-finanzas_R2614374) |
 
 ## About This Role
 
-This corporate finance position at Medline was posted on 2026-06-09.
+This fp&a / strategic finance position at Medline was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

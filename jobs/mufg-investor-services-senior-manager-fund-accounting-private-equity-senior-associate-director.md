@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000122368439-senior-manager-fund-accounting-private-equity-senior-associate-director) |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000137983379-senior-manager-fund-accounting-private-equity-senior-associate-director) |
 
 ## About This Role
 
-This corporate finance position at MUFG Investor Services was posted on 2026-04-23.
+This accounting position at MUFG Investor Services was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

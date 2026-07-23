@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Philadelphia/Underwriter-III---Commercial_R225867-1) |
+| Location | Texas, US |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-TX-TXH01/Underwriter-III---Commercial_R229464-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-11.
+This actuary / insurance analytics position at PNC Financial was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

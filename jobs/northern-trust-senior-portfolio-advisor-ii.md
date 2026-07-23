@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Atlanta-GA/Senior-Portfolio-Advisor-II_R154852-1) |
+| Location | Palm Beach, Florida, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Palm-Beach-FL/Senior-Portfolio-Advisor-II_R157913-1) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-05-06.
+This wealth management / private banking position at Northern Trust was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

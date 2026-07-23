@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dick's Sporting Goods](https://scoutify.ai/companies/dickssportinggoods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Payables-Associate-I---Accounting-Operations_202603933) |
+| Location | United States |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Payables-Associate-I---Accounting-Operations_202623664) |
 
 ## About This Role
 
-This corporate finance position at Dick's Sporting Goods was posted on 2026-03-10.
+This accounting position at Dick's Sporting Goods was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

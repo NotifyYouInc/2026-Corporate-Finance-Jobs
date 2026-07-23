@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Link Snacks](https://scoutify.ai/companies/linksnacks?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Accounting |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000137804786-head-of-financial-accounting-contol-emea) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000137985269-head-of-financial-accounting-contol-emea) |
 
 ## About This Role
 

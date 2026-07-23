@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-04 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Boston-Massachusetts-United-States-of-America/Client-Relationship-Analyst_JR039855) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Columbus-Ohio-United-States-of-America/Client-Relationship-Analyst_JR040404) |
 
 ## About This Role
 
-This wealth management / private banking position at Morgan Stanley was posted on 2026-07-04.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

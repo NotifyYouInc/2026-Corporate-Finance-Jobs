@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Germany |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000135946219-praktikantin-finance-mwd) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000138036559-praktikantin-finance-mwd) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Scalable Capital was posted on 2026-07-06.
+This fp&a / strategic finance position at Scalable Capital was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

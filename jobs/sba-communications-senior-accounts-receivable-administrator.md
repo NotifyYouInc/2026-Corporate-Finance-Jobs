@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SBA Communications](https://scoutify.ai/companies/sba-communications?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boca Raton, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://sbasite.wd5.myworkdayjobs.com/sba_communications_careers/job/Boca-Raton-FL-Corporate-Office/Senior-Accounts-Receivable-Administrator_JR102384) |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://sbasite.wd5.myworkdayjobs.com/sba_communications_careers/job/Boca-Raton-FL-Corporate-Office/Senior-Accounts-Receivable-Administrator_JR102473) |
 
 ## About This Role
 
-This corporate finance position at SBA Communications was posted on 2026-06-04.
+This accounting position at SBA Communications was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

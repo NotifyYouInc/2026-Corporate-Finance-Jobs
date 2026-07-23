@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | O'Fallon, Missouri, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Accounting_R-274851) |
+| Location | Purchase, New York, United States |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Accounting_R-282469) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-04-07.
+This accounting position at Mastercard was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

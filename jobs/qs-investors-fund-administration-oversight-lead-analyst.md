@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/FTISC-Hyderabad-F3328/Fund-Administration---Oversight-Lead-Analyst_868780) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Mexico-City-Mexico/Senior-Analyst-Middle-Office-Client-Service_868489) |
 
 ## About This Role
 
-This accounting position at QS Investors was posted on 2026-07-13.
+This asset management / portfolio management position at QS Investors was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

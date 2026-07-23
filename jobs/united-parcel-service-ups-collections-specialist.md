@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PH---ALABANG-GLOBAL-BUSINESS-SERVICES---GBS-PHMNT/Collections-Specialist_R25045893-1) |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PH---ALABANG-GLOBAL-BUSINESS-SERVICES---GBS-PHMNT/Collections-Specialist_R26022543) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-04-06.
+This accounting position at United Parcel Service (UPS) was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

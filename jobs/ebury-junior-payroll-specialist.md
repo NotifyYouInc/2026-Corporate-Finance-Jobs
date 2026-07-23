@@ -1,16 +1,16 @@
-# Junior Payroll Specialist   at Ebury
+# Junior Payroll Specialist at Ebury
 
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Spain |
-| Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4802787101) |
+| Location | Málaga, Andalusia, Spain |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4929417101) |
 
 ## About This Role
 
-This corporate finance position at Ebury was posted on 2026-03-09.
+This accounting position at Ebury was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

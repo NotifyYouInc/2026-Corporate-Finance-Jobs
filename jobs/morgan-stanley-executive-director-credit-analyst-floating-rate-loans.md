@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Boston-Massachusetts-United-States-of-America/Executive-Director---Credit-Analyst--Floating-Rate-Loans_JR038501) |
+| Location | London, England, United Kingdom |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Executive-Director---Credit-Analyst--Floating-Rate-Loans_JR040181) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-06-08.
+This asset management / portfolio management position at Morgan Stanley was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

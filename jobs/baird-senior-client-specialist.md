@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/NC-Raleigh/Senior-Client-Specialist_R2026513-1) |
+| Location | Denver, Colorado, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/CO-Denver/Senior-Client-Specialist_R2026768-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-04-24.
+This wealth management / private banking position at Baird was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

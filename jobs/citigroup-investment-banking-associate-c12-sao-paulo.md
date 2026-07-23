@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Investment-Banking-Associate---C12---SAO-PAULO_26969356) |
+| Category | Investment Banking |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Investment-Banking-Associate---C12---SAO-PAULO_26979276) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-05.
+This investment banking position at Citigroup was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

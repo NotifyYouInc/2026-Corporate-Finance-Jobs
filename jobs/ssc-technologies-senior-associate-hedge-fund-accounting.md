@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Dallas-TX/Senior-Associate--Hedge-Fund-Accounting_R42655) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/San-Francisco-CA---221-Main-Street/Senior-Associate--Hedge-Fund-Accounting_R44462-1) |
 
 ## About This Role
 
-This accounting position at SS&C Technologies was posted on 2026-07-01.
+This accounting position at SS&C Technologies was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

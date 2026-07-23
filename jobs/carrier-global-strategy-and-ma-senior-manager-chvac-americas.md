@@ -1,0 +1,22 @@
+# Strategy and M&A Senior Manager, CHVAC Americas at Carrier Global
+
+| Field | Details |
+|-------|---------|
+| Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Kennesaw, Georgia, United States |
+| Category | Corporate Development & M&A |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG10-ALC-HQ-1025-Cobb-Place-Boulevard-Kennesaw-GA-30145-USA/Strategy-and-M-A-Senior-Manager--CHVAC-Americas_30212234) |
+
+## About This Role
+
+This corporate development & m&a position at Carrier Global was posted on 2026-07-16.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bloomington-MN/TripleTree---Investment-Banking-Analyst_R241285-1) |
+| Category | Investment Banking |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bloomington-MN/TripleTree---Investment-Banking-Analyst_R247070-1) |
 
 ## About This Role
 
-This corporate finance position at Capital One was posted on 2026-04-24.
+This investment banking position at Capital One was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

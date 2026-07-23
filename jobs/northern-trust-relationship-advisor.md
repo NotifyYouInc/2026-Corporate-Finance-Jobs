@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Palm Beach, Florida, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Phoenix-AZ/Relationship-Advisor_R150777) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Palm-Beach-FL/Relationship-Advisor_R157914-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Northern Trust was posted on 2026-07-11.
+This wealth management / private banking position at Northern Trust was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Partners](https://scoutify.ai/companies/global?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Hampshire, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Remote---NH/Senior-Tax-Analyst_R0030360) |
+| Location | Newton, Massachusetts, United States |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Senior-Tax-Analyst_R0031677) |
 
 ## About This Role
 
-This corporate finance position at Global Partners was posted on 2026-03-06.
+This accounting position at Global Partners was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

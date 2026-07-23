@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Brisbane/Finance-Manager_20095801) |
+| Location | 4 locations |
+| Category | Financial Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Sydney/Finance-Manager_20099615) |
 
 ## About This Role
 
-This corporate finance position at Acciona was posted on 2026-04-28.
+This financial analyst position at Acciona was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [OTTO FUCHS KG](https://scoutify.ai/companies/otto-fuchs-kg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Viersen, North Rhine-Westphalia, Germany |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ottofuchskg/744000135295458-buchhalter-mwd) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ottofuchskg/744000138040289-buchhalter-mwd) |
 
 ## About This Role
 
-This accounting position at OTTO FUCHS KG was posted on 2026-07-01.
+This accounting position at OTTO FUCHS KG was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

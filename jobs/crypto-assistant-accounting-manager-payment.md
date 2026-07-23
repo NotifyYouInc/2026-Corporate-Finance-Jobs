@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/d9e6a82d-8796-47bf-baa4-c1b7a3549b5a) |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.lever.co/crypto/4c1f8f31-9427-4d3b-a43a-66b8432264a7) |
 
 ## About This Role
 
-This corporate finance position at Crypto was posted on 2026-06-12.
+This accounting position at Crypto was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

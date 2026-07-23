@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/National-Account-Strategic-Underwriter_JR196228) |
+| Location | 11 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/National-Account-Strategic-Underwriter_JR199816) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-06-09.
+This actuary / insurance analytics position at Elevance Health was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

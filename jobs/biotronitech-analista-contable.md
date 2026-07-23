@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Biotronitech](https://scoutify.ai/companies/blancassandovalassociatespa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miraflores, Lima region, Peru |
+| Location | Comas, Junin, Peru |
 | Category | Accounting |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000137771363-analista-contable) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000137981799-analista-contable) |
 
 ## About This Role
 
