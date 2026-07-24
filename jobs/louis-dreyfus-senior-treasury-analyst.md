@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000128360142-senior-treasury-analyst) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000138252399-senior-treasury-analyst) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-05-26.
+This treasury & capital markets position at Louis Dreyfus was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

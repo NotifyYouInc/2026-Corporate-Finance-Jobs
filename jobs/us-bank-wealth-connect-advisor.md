@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hopkins, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Wealth-Connect-Advisor_2026-0013720-1) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Wealth-Connect-Advisor_2026-0020845) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-21.
+This wealth management / private banking position at U.S. Bank was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

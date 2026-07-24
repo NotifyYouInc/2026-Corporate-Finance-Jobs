@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Warner Bros.](https://scoutify.ai/companies/warnerbros?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/Sr-Analyst--FP-A_R000105820) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/Sr-Analyst--FP-A_R000107099) |
 
 ## About This Role
 
-This corporate finance position at Warner Bros. was posted on 2026-05-27.
+This fp&a / strategic finance position at Warner Bros. was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

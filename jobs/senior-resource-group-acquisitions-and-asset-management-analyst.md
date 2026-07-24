@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Senior Resource Group](https://scoutify.ai/companies/seniorresourcegroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Solana Beach, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000133709619-acquisitions-and-asset-management-analyst) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorResourceGroupLLC/744000138208149-acquisitions-and-asset-management-analyst) |
 
 ## About This Role
 
-This corporate finance position at Senior Resource Group was posted on 2026-06-23.
+This asset management / portfolio management position at Senior Resource Group was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

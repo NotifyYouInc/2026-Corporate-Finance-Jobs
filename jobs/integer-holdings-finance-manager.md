@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Integer Holdings](https://scoutify.ai/companies/integer-holdings?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hudson, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://integer.wd1.myworkdayjobs.com/external/job/Hudson-MA/Finance-Manager_R35513) |
+| Location | Plano, Texas, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://integer.wd1.myworkdayjobs.com/external/job/Plano-TX/Finance-Manager_R35854) |
 
 ## About This Role
 
-This corporate finance position at Integer Holdings was posted on 2026-06-15.
+This financial analyst position at Integer Holdings was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

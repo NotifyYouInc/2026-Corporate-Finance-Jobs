@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vialto](https://scoutify.ai/companies/vialto?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Philippines---Remote/Associate_REQ908031) |
+| Location | Gurugram, Haryana, India |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Gurugram/Associate_REQ907932) |
 
 ## About This Role
 
-This corporate finance position at Vialto was posted on 2026-06-22.
+This accounting position at Vialto was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

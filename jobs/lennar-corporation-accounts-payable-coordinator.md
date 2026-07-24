@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Location | Irvine, California, United States |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Charleston-SC-Job-Posting-Location/Accounts-Payable-Coordinator_R26_0000002899) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irvine-CA-Job-Posting-Location/Accounts-Payable-Coordinator_R26_0000003208) |
 
 ## About This Role
 
-This accounting position at Lennar Corporation was posted on 2026-07-01.
+This accounting position at Lennar Corporation was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

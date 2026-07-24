@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/San-Diego-CA-USA/Wealth-Management-Advisor_R260400577-3) |
+| Location | Waltham, Massachusetts, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Waltham-MA-225-Wyman-St-TIAA/Wealth-Management-Advisor_R260600405-3) |
 
 ## About This Role
 
-This corporate finance position at TIAA was posted on 2026-06-12.
+This wealth management / private banking position at TIAA was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

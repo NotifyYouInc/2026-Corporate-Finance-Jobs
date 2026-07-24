@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000133470619-gl-analyst-i) |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138198909-gl-analyst-i) |
 
 ## About This Role
 
-This corporate finance position at Experian was posted on 2026-06-22.
+This accounting position at Experian was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

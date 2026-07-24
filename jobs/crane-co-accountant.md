@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crane Co.](https://scoutify.ai/companies/cranecompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-California/Accountant_JR101247) |
+| Location | The Woodlands, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/The-Woodlands-Texas/Accountant_JR102136) |
 
 ## About This Role
 
-This corporate finance position at Crane Co. was posted on 2026-03-13.
+This accounting position at Crane Co. was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

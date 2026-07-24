@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Polaris](https://scoutify.ai/companies/polaris?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Medina, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Medina-MN-USA/Sr-Financial-Analyst_R29905-1) |
+| Location | Wyoming, Michigan, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Wyoming-MN-USA/Sr-Financial-Analyst_R30486-1) |
 
 ## About This Role
 
-This corporate finance position at Polaris was posted on 2026-06-04.
+This financial analyst position at Polaris was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

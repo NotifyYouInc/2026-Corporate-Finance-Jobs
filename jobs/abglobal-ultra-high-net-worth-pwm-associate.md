@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nashville, Tennessee, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Ultra-High-Net-Worth-PWM-Associate_R0018775) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Ultra-High-Net-Worth-PWM-Associate_R0019338) |
 
 ## About This Role
 
-This corporate finance position at Abglobal was posted on 2026-05-01.
+This wealth management / private banking position at Abglobal was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

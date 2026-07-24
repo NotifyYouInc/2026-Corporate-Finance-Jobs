@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Financial-Analyst_WD30261376-1) |
+| Location | Dalian, Liaoning, China |
+| Category | Financial Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Dalian-Liaoning-China/Financial-Analyst_WD30274599) |
 
 ## About This Role
 
-This corporate finance position at Johnson Controls was posted on 2026-02-24.
+This financial analyst position at Johnson Controls was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

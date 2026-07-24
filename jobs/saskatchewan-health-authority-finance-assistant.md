@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Saskatchewan Health Authority](https://scoutify.ai/companies/ca3-cx-oj95672?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Battleford, Saskatchewan, Canada |
+| Location | Saskatoon, Saskatchewan, Canada |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://emqk.fa.ca3.oraclecloud.com/jobs/#124492) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://emqk.fa.ca3.oraclecloud.com/jobs/#124836) |
 
 ## About This Role
 
-This accounting position at Saskatchewan Health Authority was posted on 2026-07-15.
+This accounting position at Saskatchewan Health Authority was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

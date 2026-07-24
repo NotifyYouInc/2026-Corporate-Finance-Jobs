@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Laval, Pays de la Loire, France |
+| Location | Péronne, Hauts-de-France, France |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000137818380-collaborateur-comptable-fh) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000138261399-collaborateur-comptable-fh) |
 
 ## About This Role
 
-This accounting position at Rydge was posted on 2026-07-15.
+This accounting position at Rydge was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

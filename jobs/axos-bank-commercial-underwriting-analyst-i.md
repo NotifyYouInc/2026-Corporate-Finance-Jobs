@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Diego, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Commercial-Underwriting-Analyst-I_JR4871) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Commercial-Underwriting-Analyst-I_JR4901) |
 
 ## About This Role
 
-This corporate finance position at Axos Bank was posted on 2026-06-16.
+This actuary / insurance analytics position at Axos Bank was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

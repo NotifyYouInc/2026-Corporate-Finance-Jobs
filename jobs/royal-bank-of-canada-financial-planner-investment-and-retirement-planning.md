@@ -1,16 +1,16 @@
-# Financial Planner, Investment and Retirement Planning at Royal Bank of Canada
+# Financial Planner Investment and Retirement Planning at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Winnipeg, Manitoba, Canada |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/100-MILE-HOUSE-British-Columbia-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000180232-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WINNIPEG-Manitoba-Canada/Financial-Planner-Investment-and-Retirement-Planning_R-0000180923-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-10.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

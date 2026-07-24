@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Relativity Space](https://scoutify.ai/companies/relativity-space-relativity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Long Beach, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://boards.greenhouse.io/relativity/jobs/8569889002?gh_jid=8569889002) |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/relativity/jobs/8637660002?gh_jid=8637660002) |
 
 ## About This Role
 
-This corporate finance position at Relativity Space was posted on 2026-05-28.
+This accounting position at Relativity Space was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

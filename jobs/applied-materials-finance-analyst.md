@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Finance-Analyst_R2616713) |
+| Location | Singapore, Singapore |
+| Category | Financial Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Finance-Analyst_R2624275) |
 
 ## About This Role
 
-This corporate finance position at Applied Materials was posted on 2026-04-07.
+This financial analyst position at Applied Materials was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

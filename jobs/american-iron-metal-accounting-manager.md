@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Iron & Metal](https://scoutify.ai/companies/americanironandmetal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lévis, Quebec, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AmericanIronandMetal/744000137740600-accounting-manager) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AmericanIronandMetal/744000138188890-accounting-manager) |
 
 ## About This Role
 
-This accounting position at American Iron & Metal was posted on 2026-07-14.
+This accounting position at American Iron & Metal was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

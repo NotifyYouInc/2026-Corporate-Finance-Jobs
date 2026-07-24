@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/IND-KA-Bangalore---Cherry-Hills/Tax-Associate_JR105905) |
+| Location | Kochi, Kerala, India |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/IND-KL-Kochi/Tax-Associate_JR107143-1) |
 
 ## About This Role
 
-This corporate finance position at Bakertilly was posted on 2026-06-03.
+This accounting position at Bakertilly was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

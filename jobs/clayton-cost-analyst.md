@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clayton](https://scoutify.ai/companies/claytonhomes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Waco, Texas, United States |
+| Location | Perris, California, United States |
 | Category | Financial Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Waco-TX/Cost-Analyst_JR132110-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Perris-CA/Cost-Analyst_JR132554) |
 
 ## About This Role
 
-This financial analyst position at Clayton was posted on 2026-07-13.
+This financial analyst position at Clayton was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

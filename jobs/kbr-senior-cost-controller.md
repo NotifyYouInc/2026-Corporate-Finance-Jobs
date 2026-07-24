@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Senior-Cost-Controller_R2126047) |
+| Location | 5 locations |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/Senior-Cost-Controller_R2126766) |
 
 ## About This Role
 
-This fp&a / strategic finance position at KBR was posted on 2026-07-06.
+This accounting position at KBR was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide Building Society](https://scoutify.ai/companies/em2-cx-oj74935?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://dnn.fa.em2.oraclecloud.com/jobs/#4075) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://dnn.fa.em2.oraclecloud.com/jobs/#4054) |
 
 ## About This Role
 
-This accounting position at Nationwide Building Society was posted on 2026-07-07.
+This accounting position at Nationwide Building Society was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

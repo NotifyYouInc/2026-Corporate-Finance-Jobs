@@ -1,16 +1,16 @@
-# Investment Performance Analysis - Senior Associate at State Street
+# Investment Performance Analysis -Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maharashtra, IN |
+| Location | Pune, Maharashtra, India |
 | Category | Financial Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/Investment-Performance-Analysis---Senior-Associate_R-793989) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/Investment-Performance-Analysis--Senior-Associate_R-794470) |
 
 ## About This Role
 
-This financial analyst position at State Street was posted on 2026-07-10.
+This financial analyst position at State Street was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

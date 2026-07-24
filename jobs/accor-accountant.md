@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Auckland, Auckland, New Zealand |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000133476644-accountant) |
+| Location | Scottsdale, Arizona, United States |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000138191039-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-23.
+This accounting position at ACCOR was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

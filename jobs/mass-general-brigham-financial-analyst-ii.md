@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Somerville, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Financial-Analyst-II_RQ4058681) |
+| Location | Boston, Massachusetts, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Financial-Analyst-II_RQ4072792) |
 
 ## About This Role
 
-This corporate finance position at Mass General Brigham was posted on 2026-04-02.
+This financial analyst position at Mass General Brigham was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

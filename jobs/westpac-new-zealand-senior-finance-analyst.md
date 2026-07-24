@@ -5,12 +5,12 @@
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Financial Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Senior-Finance-Analyst_JR107415) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Senior-Finance-Analyst_JR107576) |
 
 ## About This Role
 
-This financial analyst position at Westpac New Zealand was posted on 2026-07-15.
+This financial analyst position at Westpac New Zealand was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

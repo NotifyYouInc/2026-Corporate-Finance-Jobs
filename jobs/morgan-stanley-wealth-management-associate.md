@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colchester, Vermont, United States |
+| Location | Middleton, Wisconsin, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Colchester-Vermont-United-States-of-America/Wealth-Management-Associate_JR040150) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Middleton-Massachusetts-United-States-of-America/Wealth-Management-Associate_JR040778) |
 
 ## About This Role
 
-This leadership development program position at Morgan Stanley was posted on 2026-07-14.
+This leadership development program position at Morgan Stanley was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

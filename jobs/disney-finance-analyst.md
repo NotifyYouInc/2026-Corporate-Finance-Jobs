@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/London-United-Kingdom/Finance-Analyst_10141978) |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Financial Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Taguig-Philippines/Finance-Analyst_10155462) |
 
 ## About This Role
 
-This corporate finance position at Disney was posted on 2026-02-09.
+This financial analyst position at Disney was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

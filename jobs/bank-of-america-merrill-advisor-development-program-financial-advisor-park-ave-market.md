@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Merrill-Advisor-Development-Program---Financial-Advisor--Park-Ave-Market_26011371-2) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Merrill-Advisor-Development-Program---Financial-Advisor--Park-Ave-Market_26024715-1) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-25.
+This wealth management / private banking position at Bank of America was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

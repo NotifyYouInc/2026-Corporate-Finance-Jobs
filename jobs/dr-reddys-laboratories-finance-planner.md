@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000134396908-finance-planner) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000138260438-finance-planner) |
 
 ## About This Role
 
-This corporate finance position at Dr. Reddy's Laboratories was posted on 2026-06-26.
+This fp&a / strategic finance position at Dr. Reddy's Laboratories was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Marseille, Provence-Alpes-Côte d'Azur, France |
+| Location | Péronne, Hauts-de-France, France |
 | Category | Accounting |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000136737562-alternant-expertise-comptable-fh) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000138258637-alternant-expertise-comptable-fh) |
 
 ## About This Role
 
-This accounting position at Rydge was posted on 2026-07-09.
+This accounting position at Rydge was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

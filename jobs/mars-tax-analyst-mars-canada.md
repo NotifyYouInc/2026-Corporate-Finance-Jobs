@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bolton, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/CAN-Ontario-Bolton/Tax-Analyst---Mars--Canada-_R152527-1) |
+| Location | Toronto, Ontario, Canada |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/CAN-Ontario-Toronto/Tax-Analyst---Mars--Canada-_R161021-1) |
 
 ## About This Role
 
-This corporate finance position at Mars was posted on 2026-04-07.
+This accounting position at Mars was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Diego, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/San-Diego-CA/Sr-Investment-Officer_R154412) |
+| Location | Denver, Colorado, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Denver-CO/Sr-Investment-Officer_R156786) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-05-05.
+This wealth management / private banking position at Northern Trust was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

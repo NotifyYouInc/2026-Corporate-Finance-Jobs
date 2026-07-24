@@ -1,16 +1,16 @@
-# Client Service Associate at Focus Partners Wealth
+# Client Service Associate  at Focus Partners Wealth
 
 | Field | Details |
 |-------|---------|
 | Company | [Focus Partners Wealth](https://scoutify.ai/companies/focuspartnerswealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focuspartnerswealth/jobs/6100897004) |
+| Location | Albany, New York, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focuspartnerswealth/jobs/6117935004) |
 
 ## About This Role
 
-This corporate finance position at Focus Partners Wealth was posted on 2026-06-24.
+This wealth management / private banking position at Focus Partners Wealth was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

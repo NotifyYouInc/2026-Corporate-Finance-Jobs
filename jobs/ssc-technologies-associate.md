@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Investor Relations |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Kuala-Lumpur-Malaysia/Associate_R44412) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Financial Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Mumbai-India---Nirlon-Knowledge-Park/Associate_R45022) |
 
 ## About This Role
 
-This investor relations position at SS&C Technologies was posted on 2026-07-13.
+This financial analyst position at SS&C Technologies was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

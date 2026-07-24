@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Plano, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Credit-Analyst_10326157) |
+| Location | Chandler, Arizona, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Chandler-Arizona/Credit-Analyst_10331464) |
 
 ## About This Role
 
-This corporate finance position at Toyota was posted on 2026-04-30.
+This financial analyst position at Toyota was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

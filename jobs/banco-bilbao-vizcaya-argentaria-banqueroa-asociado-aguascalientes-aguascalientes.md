@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Aguascalientes, Aguascalientes, Mexico |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/SUC-AGUASCALIENTES-6384/Banquero-a-Asociado--Aguascalientes--Aguascalientes-_JR00109305-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/SUC-AGUASCALIENTES-6384/Banquero-a-Asociado--Aguascalientes--Aguascalientes-_JR00109431-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-16.
+This wealth management / private banking position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

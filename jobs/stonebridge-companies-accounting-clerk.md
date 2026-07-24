@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stonebridge Companies](https://scoutify.ai/companies/sbcos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bozeman, Montana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Best-Western-Plus-Bozeman/Accounting-Clerk_R0031658) |
+| Location | Ocean City, New Jersey, United States |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://sbcos.wd1.myworkdayjobs.com/sbcos2/job/Aloft---Ocean-City-Bayside/Accounting-Clerk_R0032212) |
 
 ## About This Role
 
-This corporate finance position at Stonebridge Companies was posted on 2026-06-13.
+This accounting position at Stonebridge Companies was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

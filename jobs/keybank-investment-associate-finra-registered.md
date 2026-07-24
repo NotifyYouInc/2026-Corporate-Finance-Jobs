@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Amherst-NY/Investment-Associate--FINRA-Registered_R-40566) |
+| Location | Camillus, New York, United States |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Camillus-NY/Investment-Associate--FINRA-Registered_R-40831) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-06-26.
+This venture capital / private equity position at KeyBank was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
