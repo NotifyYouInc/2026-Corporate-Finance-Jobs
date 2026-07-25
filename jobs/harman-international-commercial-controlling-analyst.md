@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Székesfehérvár, Fejér, Hungary |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/HU_Szekesfehervar_Aszalvolgyi-ut-5/Commercial-Controlling-Analyst_R-54077-2026) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Commercial-Controlling-Analyst/32237) |
 
 ## About This Role
 
-This fp&a / strategic finance position at HARMAN International was posted on 2026-07-10.
+This fp&a / strategic finance position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/La-Sarre/Conseiller-ou-conseillre-en-gestion-de-patrimoine_R2605706) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Mascouche/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2609168-2) |
 
 ## About This Role
 
-This wealth management / private banking position at Desjardins was posted on 2026-07-15.
+This wealth management / private banking position at Desjardins was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

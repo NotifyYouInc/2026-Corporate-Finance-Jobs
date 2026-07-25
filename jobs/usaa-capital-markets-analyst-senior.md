@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Capital-Markets-Analyst-Senior_R0118406) |
+| Category | Investment Banking |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Capital-Markets-Analyst-Senior_R0118940) |
 
 ## About This Role
 
-This corporate finance position at USAA was posted on 2026-06-26.
+This investment banking position at USAA was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

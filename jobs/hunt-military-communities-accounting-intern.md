@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hunt Military Communities](https://scoutify.ai/companies/recruiting2-ultipro-com-oj52732?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/hun1008hcbb/JobBoard/a501bac4-eef8-405b-b29d-022e29a6b358/OpportunityDetail?opportunityId=60c11378-6e45-4c23-86e3-a66eb19eb463) |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/hun1008hcbb/JobBoard/a501bac4-eef8-405b-b29d-022e29a6b358/OpportunityDetail?opportunityId=7ef0eb03-ec59-4c47-b15e-9d7766178bdc) |
 
 ## About This Role
 
-This corporate finance position at Hunt Military Communities was posted on 2026-06-26.
+This accounting position at Hunt Military Communities was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

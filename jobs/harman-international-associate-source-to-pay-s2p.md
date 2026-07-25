@@ -1,16 +1,16 @@
-# Associate - Source to Pay (S2P) at HARMAN International
+# Associate, Source to Pay (S2P) at HARMAN International
 
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Associate---Source-to-Pay--S2P-_R-53105-2026) |
+| Category | Accounting |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Associate-Source-to-Pay-S2P/31607) |
 
 ## About This Role
 
-This corporate finance position at HARMAN International was posted on 2026-05-14.
+This accounting position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

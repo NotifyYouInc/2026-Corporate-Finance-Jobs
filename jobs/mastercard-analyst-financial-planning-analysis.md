@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Analyst--Financial-Planning---Analysis_R-272084) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Analyst--Financial-Planning---Analysis_R-281266) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-03-10.
+This fp&a / strategic finance position at Mastercard was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

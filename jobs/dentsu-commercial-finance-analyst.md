@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Madrid, Madrid, Spain |
 | Category | Financial Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Commercial-Finance-Analyst_R1126028-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Madrid/Commercial-Finance-Analyst_R1127687) |
 
 ## About This Role
 
-This financial analyst position at Dentsu was posted on 2026-07-01.
+This financial analyst position at Dentsu was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

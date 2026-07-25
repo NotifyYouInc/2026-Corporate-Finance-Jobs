@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000130280964-accounting-generalist) |
+| Location | Chicago, Illinois, United States |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000138372449-accounting-generalist) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-04.
+This accounting position at ACCOR was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

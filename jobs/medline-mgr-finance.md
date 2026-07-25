@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nuevo Laredo, Tamaulipas, Mexico |
+| Location | Pune, Maharashtra, India |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Nuevo-Laredo-Tamaulipas/Gerente-de-finanzas_R2614374) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Mgr-Finance_R2610272-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Medline was posted on 2026-07-15.
+This fp&a / strategic finance position at Medline was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

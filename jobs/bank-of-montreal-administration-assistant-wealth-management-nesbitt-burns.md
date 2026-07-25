@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Granby, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Granby-QC-CAN/Assistant-e--administratif-ive---Gestion-de-patrimoine--Nesbitt-Burns_R260011198) |
+| Location | Laval, Quebec, Canada |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Laval-QC-CAN/Administration-Assistant--Wealth-Management--Nesbitt-Burns_R260021206) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-04-10.
+This wealth management / private banking position at Bank of Montreal was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

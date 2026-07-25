@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Omaha, Nebraska, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Omaha-Nebraska-United-States-of-America/Associate-Financial-Advisor_R-0000172358) |
+| Location | Lincoln, Nebraska, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Lincoln-Nebraska-United-States-of-America/Associate-Financial-Advisor_R-0000176659) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-16.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

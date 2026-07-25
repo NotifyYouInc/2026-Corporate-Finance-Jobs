@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Miami, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Miami-Florida-United-States-of-America/Private-Wealth-Management-International-Registered-Client-Service-Associate---Bilingual--Spanish-English_JR033768) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Miami-Florida-United-States-of-America/Private-Wealth-Management-International-Registered-Client-Service-Associate---Bilingual--Spanish-English_JR040574-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-07.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

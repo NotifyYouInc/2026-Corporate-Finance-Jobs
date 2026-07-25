@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Power](https://scoutify.ai/companies/capitalpower?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://capitalpower.wd10.myworkdayjobs.com/External/job/Home-Office---USA/Commercial-Analyst_JR807083) |
+| Location | United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://capitalpower.wd10.myworkdayjobs.com/External/job/Home-Office---USA/Commercial-Analyst_JR807125) |
 
 ## About This Role
 
-This corporate finance position at Capital Power was posted on 2026-06-04.
+This financial analyst position at Capital Power was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

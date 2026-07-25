@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLUIDSTACK](https://scoutify.ai/companies/fluidstack?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/bb02090e-e546-4a12-91f6-24f83db69cb3) |
+| Location | San Francisco, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/aadcfc86-7b89-4bf7-9932-0943e9ccee25) |
 
 ## About This Role
 
-This corporate finance position at FLUIDSTACK was posted on 2026-03-08.
+This accounting position at FLUIDSTACK was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

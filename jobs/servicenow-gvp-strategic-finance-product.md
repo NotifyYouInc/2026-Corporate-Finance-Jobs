@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000127510871-gvp-strategic-finance-product) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138371858-gvp-strategic-finance-product) |
 
 ## About This Role
 
-This corporate finance position at ServiceNow was posted on 2026-05-20.
+This fp&a / strategic finance position at ServiceNow was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

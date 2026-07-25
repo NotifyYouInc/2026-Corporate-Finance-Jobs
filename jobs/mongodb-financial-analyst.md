@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7695474) |
+| Location | San Francisco, California, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8069479) |
 
 ## About This Role
 
-This corporate finance position at MongoDB was posted on 2026-03-11.
+This financial analyst position at MongoDB was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

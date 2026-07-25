@@ -5,12 +5,12 @@
 | Company | [Blue Cloud Pediatric Surgery Centers](https://scoutify.ai/companies/bluecloud-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
 | Category | Accounting |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://bluecloud.rec.pro.ukg.net/BLU1503BLPS/JobBoard/acf747ad-6830-44fa-a40c-a52d7d0573f7/OpportunityDetail?opportunityId=a09ceaac-eb0e-487f-ade8-456c3166aac3) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://bluecloud.rec.pro.ukg.net/BLU1503BLPS/JobBoard/acf747ad-6830-44fa-a40c-a52d7d0573f7/OpportunityDetail?opportunityId=f84dd75a-3bda-44ac-8104-27c20a1e4337) |
 
 ## About This Role
 
-This accounting position at Blue Cloud Pediatric Surgery Centers was posted on 2026-06-24.
+This accounting position at Blue Cloud Pediatric Surgery Centers was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

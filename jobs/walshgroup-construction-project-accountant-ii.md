@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WalshGroup](https://scoutify.ai/companies/walshgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/PA_Pittsburgh_Office/Construction-Project-Accountant-II_JR15084) |
+| Location | Phoenix, Arizona, United States |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/AZ_Phoenix_826066/Construction-Project-Accountant-II_JR15719) |
 
 ## About This Role
 
-This corporate finance position at WalshGroup was posted on 2026-06-02.
+This accounting position at WalshGroup was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arch Capital Group](https://scoutify.ai/companies/archgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://archgroup.wd1.myworkdayjobs.com/careers/job/Home-Base-MD/Underwriting-Specialist--Middle-Market-Solutions_R26_403) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://archgroup.wd1.myworkdayjobs.com/careers/job/Charlotte-NC-United-States-of-America/Underwriting-Specialist--Middle-Market-Solutions_R26_679) |
 
 ## About This Role
 
-This corporate finance position at Arch Capital Group was posted on 2026-04-29.
+This actuary / insurance analytics position at Arch Capital Group was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

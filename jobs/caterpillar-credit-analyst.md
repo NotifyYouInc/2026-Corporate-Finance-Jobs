@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Yokohama, Kanagawa, Japan |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nishi-ku-Yokohama-shi-Kanagawa/Credit-Analyst_R0000358377) |
+| Location | Santa Catarina, Nuevo León, Mexico |
+| Category | Financial Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/MEX---Santa-Catarina---CFSC/Credit-Analyst_R0000383187) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-04-02.
+This financial analyst position at Caterpillar was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/San-Francisco-California-USA/Financial-Analyst--Capital-Markets--Multifamily-_R318978) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Charlotte-North-Carolina-USA/Financial-Analyst--Capital-Markets--Multifamily-_R328458) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-06-23.
+This financial analyst position at Cushman & Wakefield was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

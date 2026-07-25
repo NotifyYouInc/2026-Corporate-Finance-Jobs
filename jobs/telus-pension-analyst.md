@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TELUS](https://scoutify.ai/companies/telus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Fredericton-New-Brunswick-Canada/Pension-Analyst_R-22309) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Toronto-Ontario-Canada/Pension-Analyst_R-22435) |
 
 ## About This Role
 
-This actuary / insurance analytics position at TELUS was posted on 2026-07-07.
+This actuary / insurance analytics position at TELUS was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

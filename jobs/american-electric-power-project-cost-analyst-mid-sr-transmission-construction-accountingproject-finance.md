@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Corpus Christi, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Corpus-Christi-TX/Project-Cost-Analyst--Mid---Sr----TRANSMISSION--Construction-Accounting-Project-Finance-_R15873) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Corpus-Christi-TX/Project-Cost-Analyst--Mid---Sr----TRANSMISSION--Construction-Accounting-Project-Finance-_R17363) |
 
 ## About This Role
 
-This corporate finance position at American Electric Power was posted on 2026-05-21.
+This fp&a / strategic finance position at American Electric Power was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

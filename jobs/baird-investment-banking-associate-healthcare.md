@@ -1,16 +1,16 @@
-# Investment Banking Associate, Healthcare at Baird
+# Investment Banking Associate - Healthcare at Baird
 
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/IL-Chicago/Investment-Banking-Associate--Healthcare_R2026329-1) |
+| Location | London, England, United Kingdom |
+| Category | Investment Banking |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/EUR-London/Investment-Banking-Associate---Healthcare_R2026756) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-03-06.
+This investment banking position at Baird was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

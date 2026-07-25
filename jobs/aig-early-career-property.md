@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Early-Career-Trade-Credit_JR26EC333) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Early-Career-Property_JR26EC332) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-06-01.
+This actuary / insurance analytics position at AIG was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nemacolin Woodlands Resort](https://scoutify.ai/companies/nemacolin-woodlands-resort?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Farmington, New Mexico, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://recruiting.ultipro.com/lum1000nwl/JobBoard/c00e73a9-0a5f-4082-8257-fcddd1029261/OpportunityDetail?opportunityId=25f9be7d-765d-4010-ae7a-927dd9dd885b) |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://recruiting.ultipro.com/lum1000nwl/JobBoard/c00e73a9-0a5f-4082-8257-fcddd1029261/OpportunityDetail?opportunityId=216b5ae7-1d38-4229-9869-88906409bae7) |
 
 ## About This Role
 
-This corporate finance position at Nemacolin Woodlands Resort was posted on 2026-06-16.
+This accounting position at Nemacolin Woodlands Resort was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

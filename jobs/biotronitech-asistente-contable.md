@@ -1,16 +1,16 @@
-# ASISTENTE CONTABLE at Biotronitech
+# Asistente Contable at Biotronitech
 
 | Field | Details |
 |-------|---------|
 | Company | [Biotronitech](https://scoutify.ai/companies/blancassandovalassociatespa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Santiago de Surco, Lima region, Peru |
+| Location | Comas, Junin, Peru |
 | Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000136060409-asistente-contable) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000138417963-asistente-contable) |
 
 ## About This Role
 
-This accounting position at Biotronitech was posted on 2026-07-06.
+This accounting position at Biotronitech was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

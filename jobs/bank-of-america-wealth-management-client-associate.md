@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Rancho Santa Fe, California, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/San-Antonio/Wealth-Management-Client-Associate_26024454) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Rancho-Santa-Fe/Wealth-Management-Client-Associate_26024814) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-07-16.
+This wealth management / private banking position at Bank of America was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

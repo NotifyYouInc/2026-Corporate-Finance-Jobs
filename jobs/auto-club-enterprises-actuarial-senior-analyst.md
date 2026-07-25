@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Costa Mesa, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Actuarial-Senior-Analyst_JR202635895) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Actuarial-Senior-Analyst_JR202637911-1) |
 
 ## About This Role
 
-This corporate finance position at Auto Club Enterprises was posted on 2026-04-10.
+This actuary / insurance analytics position at Auto Club Enterprises was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Greece |
-| Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000108433697-accounts-payable-accountant) |
+| Location | Páros, South Aegean, Greece |
+| Category | Accounting |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000138448349-accounts-payable-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-02-10.
+This accounting position at ACCOR was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

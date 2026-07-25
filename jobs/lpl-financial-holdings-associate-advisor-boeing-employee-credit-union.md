@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tacoma, Washington, United States |
+| Location | Everett, Washington, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tacoma-WA/Associate-Advisor---Boeing-Employee-Credit-Union_R-052196-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Everett-WA-98201/Associate-Advisor---Boeing-Employee-Credit-Union_R-052197-1) |
 
 ## About This Role
 
-This wealth management / private banking position at LPL Financial Holdings was posted on 2026-07-10.
+This wealth management / private banking position at LPL Financial Holdings was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

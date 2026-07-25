@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Thailand |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/TH_Chonburi_Thailand/Financial-Accounting-Specialist_R-54312-2026) |
+| Category | Accounting |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Financial-Accounting-Specialist/32065) |
 
 ## About This Role
 
-This corporate finance position at HARMAN International was posted on 2026-06-29.
+This accounting position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

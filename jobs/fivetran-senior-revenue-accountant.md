@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7619856003) |
+| Location | Oakland, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7808286003) |
 
 ## About This Role
 
-This corporate finance position at Fivetran was posted on 2026-02-17.
+This accounting position at Fivetran was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
