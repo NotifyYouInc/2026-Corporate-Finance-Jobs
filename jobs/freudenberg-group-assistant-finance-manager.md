@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Hong-Kong/Assistant-Finance-Manager_R_00099843) |
+| Location | Shanghai, Shanghai, China |
+| Category | Financial Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Shanghai/Assistant-Finance-Manager_R_00104449) |
 
 ## About This Role
 
-This corporate finance position at Freudenberg Group was posted on 2026-04-17.
+This financial analyst position at Freudenberg Group was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

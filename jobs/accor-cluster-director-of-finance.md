@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Corporate Finance |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000121622257-cluster-director-of-finance) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000138495280-cluster-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-19.
+This fp&a / strategic finance position at ACCOR was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

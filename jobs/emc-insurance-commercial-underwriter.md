@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EMC Insurance](https://scoutify.ai/companies/emcins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mississippi, US |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Mississippi---Work-From-Home/Commercial-Underwriter_R6394) |
+| Location | Minnesota, US |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Minnesota/Commercial-Underwriter_R6473) |
 
 ## About This Role
 
-This corporate finance position at EMC Insurance was posted on 2026-05-15.
+This actuary / insurance analytics position at EMC Insurance was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

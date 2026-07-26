@@ -1,12 +1,12 @@
-# Client Service Associate  at Focus Financial Partners
+# Client Service Associate at Focus Financial Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Wealth Management / Private Banking |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/6118994004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/6119111004) |
 
 ## About This Role
 

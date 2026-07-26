@@ -1,16 +1,16 @@
-# Director, Accounts Receivable at Ensemble Health Partners
+# Director Accounts Receivable at Ensemble Health Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director--Accounts-Receivable_R039031) |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director-Accounts-Receivable_R047895) |
 
 ## About This Role
 
-This corporate finance position at Ensemble Health Partners was posted on 2026-03-23.
+This accounting position at Ensemble Health Partners was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
