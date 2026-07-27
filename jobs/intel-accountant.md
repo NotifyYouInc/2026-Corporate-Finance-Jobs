@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Accountant_JR0284853) |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Accountant_JR0285809) |
 
 ## About This Role
 
-This corporate finance position at Intel was posted on 2026-06-22.
+This accounting position at Intel was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

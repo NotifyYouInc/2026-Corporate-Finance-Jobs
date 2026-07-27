@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Strategic-Investment-Manager_R107675-1) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Strategy & Operations |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Strategic-Investment-Manager_R107748-2) |
 
 ## About This Role
 
-This corporate finance position at Tencent was posted on 2026-06-24.
+This strategy & operations position at Tencent was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

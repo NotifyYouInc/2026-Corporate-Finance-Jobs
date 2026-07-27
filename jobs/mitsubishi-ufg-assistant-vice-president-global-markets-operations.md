@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Manila-Branch/Assistant-Vice-President--Global-Markets-Operations_10074793-WD) |
+| Location | Hong Kong, Hong Kong |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Hong-Kong---Airside/Assistant-Vice-President--Global-Markets-Operations_10078120-WD) |
 
 ## About This Role
 
-This corporate finance position at Mitsubishi UFG was posted on 2026-02-25.
+This treasury & capital markets position at Mitsubishi UFG was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

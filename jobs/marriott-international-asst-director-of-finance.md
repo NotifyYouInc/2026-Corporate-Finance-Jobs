@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Iloilo, Western Visayas, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26070875) |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26088015) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-06-10.
+This accounting position at Marriott International was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

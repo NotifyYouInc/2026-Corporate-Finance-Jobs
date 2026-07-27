@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ArcelorMittal Canada](https://scoutify.ai/companies/arcelormittal-canada?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Reims, Grand Est, France |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://emfg.fa.em4.oraclecloud.com/jobs/#21639) |
+| Location | Dąbrowa Górnicza, Silesia, Poland |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://emfg.fa.em4.oraclecloud.com/jobs/#39845) |
 
 ## About This Role
 
-This corporate finance position at ArcelorMittal Canada was posted on 2026-03-06.
+This accounting position at ArcelorMittal Canada was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

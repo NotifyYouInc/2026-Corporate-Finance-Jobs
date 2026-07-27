@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Financial-Accounting-and-Analysis-Intern--4-6-Months-_R107631) |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Financial-Accounting-and-Analysis-Intern--4-6-Months-_R107818) |
 
 ## About This Role
 
-This corporate finance position at Tencent was posted on 2026-06-05.
+This accounting position at Tencent was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

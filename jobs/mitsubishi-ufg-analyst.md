@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Analyst_10076881-WD-1) |
+| Location | New York City, New York, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/Analyst_10077750-WD-1) |
 
 ## About This Role
 
-This corporate finance position at Mitsubishi UFG was posted on 2026-06-09.
+This financial analyst position at Mitsubishi UFG was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

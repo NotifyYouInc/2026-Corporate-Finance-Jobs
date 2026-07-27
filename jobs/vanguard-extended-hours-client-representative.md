@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Texas, US |
+| Location | Wisconsin, US |
 | Category | Wealth Management / Private Banking |
 | Posted | 2026-07-18 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Texas/Extended-Hours-Client-Representative_180689) |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wisconsin/Extended-Hours-Client-Representative_180674) |
 
 ## About This Role
 

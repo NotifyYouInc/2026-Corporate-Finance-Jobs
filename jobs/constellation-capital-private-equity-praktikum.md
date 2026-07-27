@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Constellation Capital](https://scoutify.ai/companies/constellationcapitalag?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pfäffikon, Zurich, Switzerland |
+| Location | Freienbach, Schwyz, Switzerland |
 | Category | Venture Capital / Private Equity |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ConstellationCapitalAG/744000131463282-private-equity-praktikum) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ConstellationCapitalAG/744000138502729-private-equity-praktikum) |
 
 ## About This Role
 
-This venture capital / private equity position at Constellation Capital was posted on 2026-06-10.
+This venture capital / private equity position at Constellation Capital was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

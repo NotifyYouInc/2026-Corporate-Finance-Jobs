@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Area-Head-PTP--SAA_R187105-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Area-Head-PTP--SAA_R189962-2) |
 
 ## About This Role
 
-This accounting position at A.P. Moller - Maersk was posted on 2026-07-17.
+This accounting position at A.P. Moller - Maersk was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rancho Santa Fe, California, United States |
+| Location | Chagrin Falls, Ohio, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Rancho-Santa-Fe/Wealth-Management-Client-Associate_26024814) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chagrin-Falls/Wealth-Management-Client-Associate_26024845) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-07-17.
+This wealth management / private banking position at Bank of America was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

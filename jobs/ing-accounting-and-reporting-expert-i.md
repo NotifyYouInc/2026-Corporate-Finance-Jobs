@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Accounting-and-Reporting-Expert-I_REQ-10111633-1) |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Accounting-and-Reporting-Expert-I_REQ-10118019) |
 
 ## About This Role
 
-This corporate finance position at ING was posted on 2026-03-23.
+This accounting position at ING was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

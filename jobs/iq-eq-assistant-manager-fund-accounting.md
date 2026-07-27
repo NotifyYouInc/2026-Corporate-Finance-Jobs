@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138256129-assistant-manager-fund-accounting) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138593289-assistant-manager-fund-accounting) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-17.
+This accounting position at IQ-EQ was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

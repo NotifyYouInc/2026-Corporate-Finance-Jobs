@@ -5,12 +5,12 @@
 | Company | [Fredley Group of Companies](https://scoutify.ai/companies/fredleygroupofcompanies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FredleyGroupOfCompanies/744000134959715-accounting-sales-officer) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FredleyGroupOfCompanies/744000138575758-accounting-sales-officer) |
 
 ## About This Role
 
-This accounting position at Fredley Group of Companies was posted on 2026-06-30.
+This accounting position at Fredley Group of Companies was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

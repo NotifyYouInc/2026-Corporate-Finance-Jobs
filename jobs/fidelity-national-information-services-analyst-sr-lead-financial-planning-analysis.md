@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-HRYN-402/Analyst-Sr-Lead--Financial-Planning---Analysis_JR0307162) |
+| Location | Hyderabad, Telangana, India |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-HRYN-402/Analyst-Sr-Lead--Financial-Planning---Analysis_JR0308513) |
 
 ## About This Role
 
-This corporate finance position at Fidelity National Information Services was posted on 2026-05-14.
+This fp&a / strategic finance position at Fidelity National Information Services was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

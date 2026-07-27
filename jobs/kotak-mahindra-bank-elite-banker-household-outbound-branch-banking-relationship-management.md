@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Delhi, Delhi, India |
+| Location | Uttarakhand, IN |
 | Category | Wealth Management / Private Banking |
 | Posted | 2026-07-18 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#249887) |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#242033) |
 
 ## About This Role
 

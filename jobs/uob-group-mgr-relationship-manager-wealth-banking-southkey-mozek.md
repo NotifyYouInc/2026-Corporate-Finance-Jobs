@@ -1,0 +1,22 @@
+# MGR, Relationship Manager - Wealth Banking (Southkey Mozek) at UOB Group
+
+| Field | Details |
+|-------|---------|
+| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Malaysia |
+| Category | Account Manager |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Southkey-Mozek-City-Area/MGR--Relationship-Manager---Wealth-Banking--Southkey-Mozek-_JR90879) |
+
+## About This Role
+
+This account manager position at UOB Group was posted on 2026-07-20.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

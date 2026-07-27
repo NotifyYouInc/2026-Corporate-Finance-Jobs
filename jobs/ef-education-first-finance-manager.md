@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EF Education First](https://scoutify.ai/companies/ocs-cx-oj35125?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Italy |
+| Location | San Ġiljan, Saint Julian, Malta |
 | Category | Financial Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://fa-evad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2336) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://fa-evad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2844) |
 
 ## About This Role
 
-This financial analyst position at EF Education First was posted on 2026-05-18.
+This financial analyst position at EF Education First was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

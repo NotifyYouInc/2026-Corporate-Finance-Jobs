@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Sales & Trading |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000138022255-option-trader) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000138597279-option-trader) |
 
 ## About This Role
 
-This sales & trading position at Louis Dreyfus was posted on 2026-07-16.
+This sales & trading position at Louis Dreyfus was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

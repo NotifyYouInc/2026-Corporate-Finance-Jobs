@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---DLF-Building/Specialist---Investments_R_356986) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---DLF-Building/Specialist---Investments_R_357179) |
 
 ## About This Role
 
-This asset management / portfolio management position at Marsh & McLennan Companies was posted on 2026-07-01.
+This asset management / portfolio management position at Marsh & McLennan Companies was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

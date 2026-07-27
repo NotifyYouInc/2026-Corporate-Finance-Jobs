@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Luis Potosí, San Luis Potosí, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Financial-Planning---Analysis-Analyst_JR00035936) |
+| Location | Bengaluru, Karnataka, India |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning---Analysis-Analyst_JR00041589) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-05-29.
+This fp&a / strategic finance position at ABB was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

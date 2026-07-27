@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Taiwan---Taipei/Finance-Director_544625) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Financial Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Field-Worker---BRA-Sao-Paulo/Finance-Director_546342) |
 
 ## About This Role
 
-This corporate finance position at Haleon was posted on 2026-06-11.
+This financial analyst position at Haleon was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

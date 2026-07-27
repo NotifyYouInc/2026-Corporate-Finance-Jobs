@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Poland |
-| Category | Financial Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766826) |
+| Location | London, England, United Kingdom |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771007) |
 
 ## About This Role
 
-This financial analyst position at JPMorgan Chase was posted on 2026-07-10.
+This treasury & capital markets position at JPMorgan Chase was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Delhi, Delhi, India |
 | Category | Account Manager |
 | Posted | 2026-07-18 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#250030) |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#250031) |
 
 ## About This Role
 

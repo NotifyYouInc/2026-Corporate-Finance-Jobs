@@ -5,12 +5,12 @@
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Senior-Analyst---Corporate-Services_JR-0021255) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Senior-Analyst---Corporate-Services_JR-0021253) |
 
 ## About This Role
 
-This accounting position at Apex Fund Services was posted on 2026-07-10.
+This accounting position at Apex Fund Services was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

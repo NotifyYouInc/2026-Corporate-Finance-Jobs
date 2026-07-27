@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [InMobi](https://scoutify.ai/companies/inmobi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7793050) |
+| Location | Bengaluru, Karnataka, India |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/8029868) |
 
 ## About This Role
 
-This corporate finance position at InMobi was posted on 2026-04-20.
+This fp&a / strategic finance position at InMobi was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

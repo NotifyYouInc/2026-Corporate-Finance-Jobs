@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132120535-accounting-associates-graduate-global-finance) |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138555109-accounting-associates-graduate-global-finance) |
 
 ## About This Role
 
-This corporate finance position at Experian was posted on 2026-06-15.
+This accounting position at Experian was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tangkak, Johor, Malaysia |
+| Location | Ampang, Kuala Lumpur, Malaysia |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/TGK-TANGKAK-BR/Wealth-Executive_JR0000025543) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/APG-AMPANG-POINT-BR/Wealth-Executive_JR0000025574) |
 
 ## About This Role
 
-This wealth management / private banking position at Hong Leong Bank was posted on 2026-07-16.
+This wealth management / private banking position at Hong Leong Bank was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

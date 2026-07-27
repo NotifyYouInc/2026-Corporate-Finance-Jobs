@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Capital-Markets-Operations-New-Associate_AIOC-S01652945-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Capital-Markets-Operations-New-Associate_AIOC-S01655809-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Accenture was posted on 2026-07-01.
+This asset management / portfolio management position at Accenture was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
