@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11000/Banquero-a-Patrimonial-Sr-Lomas--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00101093) |
+| Location | Miguel Hidalgo, Mexico City, Mexico |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11000/Banquero-a-Patrimonial-Sr-Lomas--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00109857) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-13.
+This wealth management / private banking position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

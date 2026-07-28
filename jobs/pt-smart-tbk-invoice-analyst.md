@@ -5,12 +5,12 @@
 | Company | [PT SMART Tbk](https://scoutify.ai/companies/pt-smart-tbk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/Invoice-Analyst_R-26000886) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/Invoice-Analyst_R-26001091) |
 
 ## About This Role
 
-This accounting position at PT SMART Tbk was posted on 2026-07-07.
+This accounting position at PT SMART Tbk was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

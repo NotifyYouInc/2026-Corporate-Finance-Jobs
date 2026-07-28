@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Northfield, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Northfield-IL/Portfolio-Manager--Business-Banking_26653) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Northfield-IL/Portfolio-Manager--Business-Banking_261342) |
 
 ## About This Role
 
-This corporate finance position at Wintrust was posted on 2026-04-14.
+This asset management / portfolio management position at Wintrust was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

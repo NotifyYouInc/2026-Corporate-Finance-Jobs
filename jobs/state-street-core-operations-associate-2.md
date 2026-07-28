@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Core-Operations--Associate-2_R-789629) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Core-Operations--Associate-2_R-794676) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-06.
+This accounting position at State Street was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

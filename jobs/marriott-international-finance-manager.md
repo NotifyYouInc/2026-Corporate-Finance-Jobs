@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Amritsar, Punjab, India |
+| Location | Kochi, Kerala, India |
 | Category | Financial Analyst |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085571) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26089958) |
 
 ## About This Role
 
-This financial analyst position at Marriott International was posted on 2026-07-11.
+This financial analyst position at Marriott International was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

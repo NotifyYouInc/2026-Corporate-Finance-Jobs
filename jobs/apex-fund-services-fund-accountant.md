@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | Trianon, South Province, New Caledonia |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Belgrade/Fund-Accountant_JR-0024864) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Fund-Accountant_JR-0024200) |
 
 ## About This Role
 
-This accounting position at Apex Fund Services was posted on 2026-07-14.
+This accounting position at Apex Fund Services was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

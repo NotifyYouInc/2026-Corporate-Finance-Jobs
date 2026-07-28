@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oak Brook, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Oak-Brook-IL---Field-Mgmt/Senior-Financial-Representative_R-050589) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Senior-Financial-Representative_R-052097-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-05-14.
+This wealth management / private banking position at LPL Financial Holdings was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

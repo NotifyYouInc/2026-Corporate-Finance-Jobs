@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Senior-Finance-Manager_REQ514115) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Financial Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sydney-NSW/Senior-Finance-Manager_REQ522229) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-11.
+This financial analyst position at JLL was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

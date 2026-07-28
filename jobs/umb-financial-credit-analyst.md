@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kansas City, Missouri, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Credit-Analyst_R-8910) |
+| Category | Financial Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Credit-Analyst_R-9124) |
 
 ## About This Role
 
-This corporate finance position at UMB Financial was posted on 2026-06-11.
+This financial analyst position at UMB Financial was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

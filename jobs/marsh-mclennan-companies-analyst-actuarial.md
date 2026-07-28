@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---DLF-Building/Analyst---Actuarial_R_348307-1) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Noida---Sector-135/Analyst---Actuarial_R_358837) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-05-26.
+This actuary / insurance analytics position at Marsh & McLennan Companies was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

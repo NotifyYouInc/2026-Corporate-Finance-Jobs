@@ -5,12 +5,12 @@
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Assistant-Director--Corporate-Controllership_R2459) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Assistant-Director--Corporate-Controllership_R2463) |
 
 ## About This Role
 
-This accounting position at HarbourVest was posted on 2026-07-17.
+This accounting position at HarbourVest was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

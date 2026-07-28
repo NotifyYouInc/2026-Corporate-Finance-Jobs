@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Seattle/Assurance-Associate---Fall-2027_JR118411-1) |
+| Location | Stamford, Connecticut, United States |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Stamford/Assurance-Associate---Fall-2027_JR116051) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-03-18.
+This accounting position at RSM was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FWD Group](https://scoutify.ai/companies/fwd-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://fwd.wd3.myworkdayjobs.com/fwdcareersite/job/Malaysia---KL-Eco-City/Manager--TIM-Actuarial-IFRS17_JR-0026657) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://fwd.wd3.myworkdayjobs.com/fwdcareersite/job/Malaysia---KL-Eco-City/Manager--TIM-Actuarial-IFRS17_JR-0027223) |
 
 ## About This Role
 
-This corporate finance position at FWD Group was posted on 2026-05-06.
+This actuary / insurance analytics position at FWD Group was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

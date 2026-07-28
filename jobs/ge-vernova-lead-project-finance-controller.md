@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Lead-Project-Finance-Controller_R5036860) |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Lead-Project-Finance-Controller_R5047533-2) |
 
 ## About This Role
 
-This corporate finance position at GE Vernova was posted on 2026-04-06.
+This accounting position at GE Vernova was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

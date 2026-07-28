@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WalshGroup](https://scoutify.ai/companies/walshgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Goodyear, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/AZ_Goodyear_225131/Project-Accountant-I_JR15434) |
+| Location | Tampa, Florida, United States |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/FL_Tampa_218096/Project-Accountant-I_JR15742) |
 
 ## About This Role
 
-This corporate finance position at WalshGroup was posted on 2026-06-26.
+This accounting position at WalshGroup was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

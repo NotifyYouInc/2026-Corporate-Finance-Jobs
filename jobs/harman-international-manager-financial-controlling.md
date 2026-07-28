@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Worthing, England, United Kingdom |
+| Location | Shirakawa, Fukushima, Japan |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Manager-Financial-Controlling/31908) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Manager-Financial-Controlling/32359) |
 
 ## About This Role
 
-This fp&a / strategic finance position at HARMAN International was posted on 2026-07-18.
+This fp&a / strategic finance position at HARMAN International was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

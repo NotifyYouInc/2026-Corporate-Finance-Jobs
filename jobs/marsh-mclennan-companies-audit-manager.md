@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Audit-Manager_R_344509) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Melbourne---727-Collins/Audit-Manager_R_358645) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-04-07.
+This accounting position at Marsh & McLennan Companies was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

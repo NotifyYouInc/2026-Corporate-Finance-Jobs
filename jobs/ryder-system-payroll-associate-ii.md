@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/CAN---Remote-ON/Payroll-Associate-II_R170792) |
+| Location | Ontario, CA |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/CAN---Remote-ON/Payroll-Associate-II_R178193) |
 
 ## About This Role
 
-This corporate finance position at Ryder System was posted on 2026-04-28.
+This accounting position at Ryder System was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

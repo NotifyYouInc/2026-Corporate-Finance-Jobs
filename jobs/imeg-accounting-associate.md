@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IMEG](https://scoutify.ai/companies/imeg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rock Island, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Rock-Island-IL/Accounting-Associate_R-16084-1) |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Rock-Island-IL/Accounting-Associate_R-16296) |
 
 ## About This Role
 
-This corporate finance position at IMEG was posted on 2026-05-07.
+This accounting position at IMEG was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

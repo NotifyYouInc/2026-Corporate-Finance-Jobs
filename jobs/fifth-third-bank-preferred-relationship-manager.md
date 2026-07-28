@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Katy-TX/Preferred-Relationship-Manager_R70151) |
+| Category | Account Manager |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Bloomfield-Hills-MI/Preferred-Relationship-Manager_R70776) |
 
 ## About This Role
 
-This wealth management / private banking position at Fifth Third Bank was posted on 2026-07-02.
+This account manager position at Fifth Third Bank was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

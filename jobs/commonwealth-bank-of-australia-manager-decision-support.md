@@ -1,16 +1,16 @@
-# Manager Decision Support at Commonwealth Bank of Australia
+# Manager - Decision Support at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Manager-Decision-Support_REQ259353) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Manager---Decision-Support_REQ262219) |
 
 ## About This Role
 
-This corporate finance position at Commonwealth Bank of Australia was posted on 2026-05-29.
+This fp&a / strategic finance position at Commonwealth Bank of Australia was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

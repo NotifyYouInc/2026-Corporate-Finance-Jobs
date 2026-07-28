@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Stamford, Connecticut, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CT---Stamford-06901/Analyst---Solebury-Investor-Relations_R217522-1) |
+| Category | Investor Relations |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CT---Stamford-06901/Analyst---Solebury-Investor-Relations_R230030-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-04-03.
+This investor relations position at PNC Financial was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

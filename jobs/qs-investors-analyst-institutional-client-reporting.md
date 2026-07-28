@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Poznań, Greater Poland, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Poznan-Poland/Analyst---Institutional-Client-Reporting_866894) |
+| Location | Hyderabad, Telangana, India |
+| Category | Financial Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Analyst---Institutional-Client-Reporting_868511) |
 
 ## About This Role
 
-This corporate finance position at QS Investors was posted on 2026-03-11.
+This financial analyst position at QS Investors was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

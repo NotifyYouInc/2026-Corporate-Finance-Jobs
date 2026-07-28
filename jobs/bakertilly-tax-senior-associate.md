@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-OR-Eugene/Tax-Senior-Associate_JR104480) |
+| Location | Madison, Wisconsin, United States |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/Madison-WI/Tax-Senior-Associate_JR107083) |
 
 ## About This Role
 
-This corporate finance position at Bakertilly was posted on 2026-06-04.
+This accounting position at Bakertilly was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Overland Park, Kansas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Overland-Park-KS-USA/Wealth-Management-Advisor---Overland-Park--KS_R260400365-2) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Overland-Park-KS-USA/Wealth-Management-Advisor---Overland-Park--KS_R260700408-3) |
 
 ## About This Role
 
-This corporate finance position at TIAA was posted on 2026-05-21.
+This wealth management / private banking position at TIAA was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

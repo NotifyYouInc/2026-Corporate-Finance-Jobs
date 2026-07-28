@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Location | Cleveland, Ohio, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLESTON-SC/Client-Associate_R-558898-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CLEVELAND-OH/Client-Associate_R-561523) |
 
 ## About This Role
 
-This wealth management / private banking position at Wells Fargo was posted on 2026-07-17.
+This wealth management / private banking position at Wells Fargo was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

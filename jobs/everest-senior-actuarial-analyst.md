@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everest](https://scoutify.ai/companies/everestre?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/Zurich-Switzerland/Senior-Actuarial-Analyst_R7238-1) |
+| Location | 2 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/Senior-Actuarial-Analyst_R7338-1) |
 
 ## About This Role
 
-This corporate finance position at Everest was posted on 2026-06-22.
+This actuary / insurance analytics position at Everest was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

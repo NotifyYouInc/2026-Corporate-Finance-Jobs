@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Venture Capital / Private Equity |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465359/startup-senior-investor-manager-vc-or-angel-aws-worldwide-startups) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10479603/startup-senior-investor-manager-vc-or-angel-aws-worldwide-startups) |
 
 ## About This Role
 
-This venture capital / private equity position at Amazon was posted on 2026-07-03.
+This venture capital / private equity position at Amazon was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

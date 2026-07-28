@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Miami/Senior-Staff-Accountant_REQ10379615) |
+| Location | Fort Lauderdale, Florida, United States |
+| Category | Accounting |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Fort-Lauderdale/Senior-Staff-Accountant_REQ10386514) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-05-08.
+This accounting position at Four Seasons Hotels was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Recife, Pernambuco, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Brazil-Recife/PESSOA-ESTAGIARIA-EM-FINANAS_R10094150) |
+| Location | Brazil |
+| Category | Financial Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Brazil-Sau-Paulo/ESTAGIARIO_R10095977) |
 
 ## About This Role
 
-This corporate finance position at Air Liquide was posted on 2026-06-20.
+This financial analyst position at Air Liquide was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

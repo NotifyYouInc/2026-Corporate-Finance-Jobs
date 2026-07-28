@@ -1,16 +1,16 @@
-# Senior Underwriter at Industrial Alliance
+# Senior underwriter at Industrial Alliance
 
 | Field | Details |
 |-------|---------|
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Toronto-Ontario/Senior-Underwriter_JR10025469) |
+| Location | 4 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Senior-underwriter_JR10027068) |
 
 ## About This Role
 
-This corporate finance position at Industrial Alliance was posted on 2026-04-22.
+This actuary / insurance analytics position at Industrial Alliance was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

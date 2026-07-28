@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Principal-Pricing-Analyst_R10226249) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Principal-Pricing-Analyst_R10241153) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-03-17.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

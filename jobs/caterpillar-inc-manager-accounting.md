@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tianjin, Tianjin, China |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Manager-Accounting_R0000375298) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Manager-Accounting_R0000382796) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar Inc. was posted on 2026-06-11.
+This accounting position at Caterpillar Inc. was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

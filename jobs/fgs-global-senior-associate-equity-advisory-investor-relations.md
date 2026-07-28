@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FGS Global](https://scoutify.ai/companies/fgsglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fgsglobal/jobs/5166656007) |
+| Category | Investor Relations |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fgsglobal/jobs/5191772007) |
 
 ## About This Role
 
-This corporate finance position at FGS Global was posted on 2026-06-18.
+This investor relations position at FGS Global was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

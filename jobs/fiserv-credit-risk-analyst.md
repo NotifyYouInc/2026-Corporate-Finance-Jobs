@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Berkeley Heights, New Jersey, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Credit-Risk-Analyst_R-10396409-1) |
+| Location | Thāne, Maharashtra, India |
+| Category | Financial Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Credit-Risk-Analyst_R-10399092) |
 
 ## About This Role
 
-This corporate finance position at Fiserv was posted on 2026-06-10.
+This financial analyst position at Fiserv was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

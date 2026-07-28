@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138551110-manager-trust-services) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138768457-manager-trust-services) |
 
 ## About This Role
 
-This wealth management / private banking position at IQ-EQ was posted on 2026-07-20.
+This wealth management / private banking position at IQ-EQ was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

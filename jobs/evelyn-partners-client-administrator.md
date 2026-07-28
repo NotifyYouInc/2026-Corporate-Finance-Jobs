@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evelyn Partners](https://scoutify.ai/companies/evelynpartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manchester, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000133649160-client-administrator) |
+| Location | Leeds, England, United Kingdom |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000138806850-client-administrator) |
 
 ## About This Role
 
-This corporate finance position at Evelyn Partners was posted on 2026-06-23.
+This wealth management / private banking position at Evelyn Partners was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

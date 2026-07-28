@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manchester, New Hampshire, United States |
+| Location | Memphis, Tennessee, United States |
 | Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-CT-Manchester/Assistant-Controller_WD224767) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TN-Memphis/Assistant-Controller_WD224878) |
 
 ## About This Role
 
-This accounting position at FLEX LTD. Flextronics was posted on 2026-07-10.
+This accounting position at FLEX LTD. Flextronics was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

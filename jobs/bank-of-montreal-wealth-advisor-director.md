@@ -1,16 +1,16 @@
-# Wealth Advisor,  Director at Bank of Montreal
+# Wealth Advisor, Director at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Winnetka, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Winnetka-IL-USA/Director--Private-Wealth-Advisor_R260003906) |
+| Location | La Jolla, California, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/La-Jolla-CA-USA/Wealth-Advisor--Director_R260021433) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-06-18.
+This wealth management / private banking position at Bank of Montreal was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

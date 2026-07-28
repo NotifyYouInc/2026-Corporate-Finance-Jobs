@@ -1,16 +1,16 @@
-# Associate Capital Markets Group at Mitsubishi UFG
+# Associate, Capital Markets Group at Mitsubishi UFG
 
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Sydney/Associate-Capital-Markets-Group_10076720-WD-1) |
+| Location | Singapore, Singapore |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Singapore---Marina-One-East-Tower-Securities/Associate--Capital-Markets-Group_10077817-WD) |
 
 ## About This Role
 
-This corporate finance position at Mitsubishi UFG was posted on 2026-05-19.
+This treasury & capital markets position at Mitsubishi UFG was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
