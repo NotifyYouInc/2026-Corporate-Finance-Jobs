@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westfield, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Indiana---Westfield/Site-Controller_31151579-1) |
+| Location | Paul, Idaho, United States |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Site-Controller_31156503-1) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-06-01.
+This accounting position at Abbott was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

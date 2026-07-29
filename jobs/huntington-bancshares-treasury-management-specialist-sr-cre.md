@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Farmers-Branch-TX/Treasury-Management-Specialist-Sr---CRE_R0072823) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Cleveland-OH/Treasury-Management-Specialist-Sr---CRE_R0074107) |
 
 ## About This Role
 
-This corporate finance position at Huntington Bancshares was posted on 2026-06-10.
+This treasury & capital markets position at Huntington Bancshares was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

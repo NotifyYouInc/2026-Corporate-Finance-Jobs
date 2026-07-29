@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Dallas/Cost-Accountant_WD222847-1) |
+| Location | Guadalajara, Jalisco, Mexico |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Cost-Accountant_WD225475) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-06-11.
+This accounting position at FLEX LTD. Flextronics was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

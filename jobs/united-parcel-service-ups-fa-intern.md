@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Medellín, Antioquia, Colombia |
-| Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CO---MEDELLIN-II-GLOBAL-BUSINESS-SERVICES-GBS-COMEL/F-A-Intern_R26022557) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CO---MEDELLIN-II-GLOBAL-BUSINESS-SERVICES-GBS-COMEL/F-A-Intern_R26024727) |
 
 ## About This Role
 
-This accounting position at United Parcel Service (UPS) was posted on 2026-07-02.
+This fp&a / strategic finance position at United Parcel Service (UPS) was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Biotronitech](https://scoutify.ai/companies/blancassandovalassociatespa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Surco, Lima region, Peru |
+| Location | Lima, Lima Province, Peru |
 | Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000136100749-contador-senior-bilingue) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000138963769-contador-senior-bilingue) |
 
 ## About This Role
 
-This accounting position at Biotronitech was posted on 2026-07-06.
+This accounting position at Biotronitech was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

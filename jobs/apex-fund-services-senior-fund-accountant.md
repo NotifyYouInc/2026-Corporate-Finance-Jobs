@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Accounting |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Senior-Fund-Accountant_JR-0024438) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Kolkata-Biswa-Bangla-Sarani/Senior-Fund-Accountant_JR-0024903) |
 
 ## About This Role
 
-This accounting position at Apex Fund Services was posted on 2026-07-09.
+This accounting position at Apex Fund Services was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

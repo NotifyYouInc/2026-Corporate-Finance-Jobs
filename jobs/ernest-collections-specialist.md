@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ernest](https://scoutify.ai/companies/ernest?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | California, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ernestpackagingsolutions/jobs/4659715006) |
+| Location | Commerce, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ernestpackagingsolutions/jobs/4698457006) |
 
 ## About This Role
 
-This corporate finance position at Ernest was posted on 2026-03-04.
+This accounting position at Ernest was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

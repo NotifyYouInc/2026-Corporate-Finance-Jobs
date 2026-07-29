@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/The-Tower-at-PNC-Plaza-PAA86/Underwriter-II---Commercial_R219673-2) |
+| Location | Chicago, Illinois, United States |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Franklin-Building---Chicago-IL016/Underwriter-II---Commercial_R230175-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-05-01.
+This actuary / insurance analytics position at PNC Financial was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indore, Madhya Pradesh, India |
+| Location | Uttarakhand, IN |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085860) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26090749) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-07-13.
+This accounting position at Marriott International was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

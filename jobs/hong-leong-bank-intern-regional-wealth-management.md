@@ -1,16 +1,16 @@
-# Intern, Regional Wealth Management at Hong Leong Bank
+# Intern - Regional Wealth Management at Hong Leong Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Singapore, Singapore |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Intern--Regional-Wealth-Management_JR0000025426) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/Singapore/Intern---Regional-Wealth-Management_JR0000025618) |
 
 ## About This Role
 
-This wealth management / private banking position at Hong Leong Bank was posted on 2026-07-08.
+This wealth management / private banking position at Hong Leong Bank was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

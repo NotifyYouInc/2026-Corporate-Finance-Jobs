@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Financial-Analyst_R243367-1) |
+| Location | 3 locations |
+| Category | Financial Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Financial-Analyst_R247500-1) |
 
 ## About This Role
 
-This corporate finance position at Capital One was posted on 2026-05-27.
+This financial analyst position at Capital One was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

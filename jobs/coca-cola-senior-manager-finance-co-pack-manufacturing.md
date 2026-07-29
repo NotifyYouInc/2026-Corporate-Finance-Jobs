@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Manager--Finance---Co-Pack-Manufacturing_R-136747) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Manager--Finance---Co-Pack-Manufacturing_R-143556) |
 
 ## About This Role
 
-This corporate finance position at Coca-Cola was posted on 2026-04-10.
+This fp&a / strategic finance position at Coca-Cola was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

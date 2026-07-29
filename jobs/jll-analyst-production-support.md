@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Analyst--Production-Support_REQ510718) |
+| Location | Dallas, Texas, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Analyst--Production-Support_REQ523800) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-29.
+This financial analyst position at JLL was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Analyst--Accounts-Receivable--Hybrid-_01835847) |
+| Location | Richardson, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Analyst--Accounts-Receivable--Hybrid-_01860065) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-04-03.
+This accounting position at RTX was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpartanNash](https://scoutify.ai/companies/spartannash?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Byron Center, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Byron-Center-Michigan/Accountant-II_R85884) |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Byron-Center-Michigan/Accountant-II_R87546) |
 
 ## About This Role
 
-This corporate finance position at SpartanNash was posted on 2026-06-01.
+This accounting position at SpartanNash was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

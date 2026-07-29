@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tucson, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Tucson-AZ/Staff-Accountant_R100122737) |
+| Location | Houston, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Houston-TX/Staff-Accountant_R100124072-1) |
 
 ## About This Role
 
-This corporate finance position at ASM Global was posted on 2026-05-15.
+This accounting position at ASM Global was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

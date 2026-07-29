@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/Vendor-Claims-Analyst_R48742) |
+| Location | 2 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/Vendor-Claims-Analyst_R53415) |
 
 ## About This Role
 
-This corporate finance position at TD Synnex was posted on 2026-03-09.
+This actuary / insurance analytics position at TD Synnex was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

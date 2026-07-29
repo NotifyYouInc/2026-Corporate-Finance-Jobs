@@ -1,16 +1,16 @@
-# Accounts Receivable Associate - NAM at Allegis Global Solutions
+# Accounts Receivable Associate - NAM  at Allegis Global Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000137377762-accounts-receivable-associate-nam) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000138999479-accounts-receivable-associate-nam) |
 
 ## About This Role
 
-This accounting position at Allegis Global Solutions was posted on 2026-07-13.
+This accounting position at Allegis Global Solutions was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

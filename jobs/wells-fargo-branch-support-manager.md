@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Wayne, New Jersey, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ALEXANDRIA-VA/Branch-Support-Manager_R-561228-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WAYNE-PA/Branch-Support-Manager_R-561731) |
 
 ## About This Role
 
-This wealth management / private banking position at Wells Fargo was posted on 2026-07-17.
+This wealth management / private banking position at Wells Fargo was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

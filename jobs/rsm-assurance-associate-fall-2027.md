@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Stamford, Connecticut, United States |
+| Location | Detroit, Michigan, United States |
 | Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Stamford/Assurance-Associate---Fall-2027_JR116051) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/Assurance-Associate---Fall-2027_JR118362) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-07-20.
+This accounting position at RSM was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000119218652-chief-accountant) |
+| Location | Saitama, Saitama, Japan |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000138996793-chief-accountant) |
 
 ## About This Role
 
-This corporate finance position at Red Bull was posted on 2026-04-07.
+This accounting position at Red Bull was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

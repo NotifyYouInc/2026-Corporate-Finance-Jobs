@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [J.B. Hunt Transport Services](https://scoutify.ai/companies/j-b-hunt-transport-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lowell, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00625522) |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Lowell-AR---Commerce-Center-2/Billing-Representative-I_00635338) |
 
 ## About This Role
 
-This corporate finance position at J.B. Hunt Transport Services was posted on 2026-05-01.
+This accounting position at J.B. Hunt Transport Services was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000130719689-principal-finance-analyst) |
+| Category | Financial Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000138988339-principal-finance-analyst) |
 
 ## About This Role
 
-This corporate finance position at Intuitive Surgical was posted on 2026-06-08.
+This financial analyst position at Intuitive Surgical was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

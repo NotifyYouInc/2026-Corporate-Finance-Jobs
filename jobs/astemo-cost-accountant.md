@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astemo](https://scoutify.ai/companies/astemo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Berea, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://astemo.wd102.myworkdayjobs.com/global_career_site/job/Berea-Kentucky-United-States/Cost-Accountant_J0050707-1) |
+| Location | Greenfield, Wisconsin, United States |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://astemo.wd102.myworkdayjobs.com/global_career_site/job/Greenfield-Indiana-United-States-of-America/Cost-Accountant_J0051211) |
 
 ## About This Role
 
-This corporate finance position at Astemo was posted on 2026-05-18.
+This accounting position at Astemo was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

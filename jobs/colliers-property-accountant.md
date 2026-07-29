@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Carolina, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/North-Carolina-United-States-of-America/Property-Accountant_JR17350) |
+| Location | Toronto, Ontario, Canada |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/Property-Accountant_JR18140-1) |
 
 ## About This Role
 
-This corporate finance position at Colliers was posted on 2026-03-03.
+This accounting position at Colliers was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lincoln, Nebraska, United States |
+| Location | New York City, New York, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Lincoln-Nebraska-United-States-of-America/Associate-Financial-Advisor_R-0000176659) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/Associate-Financial-Advisor_R-0000181286) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-17.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

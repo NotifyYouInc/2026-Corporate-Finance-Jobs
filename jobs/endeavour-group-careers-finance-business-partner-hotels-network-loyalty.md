@@ -5,12 +5,12 @@
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000138772969-finance-business-partner-hotels-network-loyalty) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000138987609-finance-business-partner-hotels-network-loyalty) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Endeavour Group Careers was posted on 2026-07-21.
+This fp&a / strategic finance position at Endeavour Group Careers was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

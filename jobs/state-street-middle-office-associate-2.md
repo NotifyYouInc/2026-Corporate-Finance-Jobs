@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hangzhou, Zhejiang, China |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Middle-Office--Associate-2_R-792946) |
+| Category | Financial Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Middle-Office--Associate-2_R-793474) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-25.
+This financial analyst position at State Street was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

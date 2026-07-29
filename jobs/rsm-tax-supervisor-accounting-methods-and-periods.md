@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/New-York/Tax-Supervisor---Accounting-Methods-and-Periods_JR113111) |
+| Location | 7 locations |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Philadelphia/Tax-Supervisor---Accounting-Methods-and-Periods_JR113117) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-06-01.
+This accounting position at RSM was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/BOS-Singapore/Team-Head_JR00008701) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/BOS-Singapore/Team-Head_JR00006528) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-06-17.
+This wealth management / private banking position at OCBC was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

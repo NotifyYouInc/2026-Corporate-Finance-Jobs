@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irving, Texas, United States |
+| Location | New York City, New York, United States |
 | Category | Account Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769300) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772592) |
 
 ## About This Role
 
-This account manager position at JPMorgan Chase was posted on 2026-07-21.
+This account manager position at JPMorgan Chase was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

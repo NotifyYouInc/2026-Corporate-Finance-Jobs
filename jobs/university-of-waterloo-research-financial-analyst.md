@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Waterloo](https://scoutify.ai/companies/university-of-waterloo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Waterloo, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://uwaterloo.wd3.myworkdayjobs.com/uw_careers/job/Waterloo-Ontario-Canada/Research-Financial-Analyst_2026-00290-1) |
+| Category | Financial Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://uwaterloo.wd3.myworkdayjobs.com/uw_careers/job/Waterloo-Ontario-Canada/Research-Financial-Analyst_2026-01469-2) |
 
 ## About This Role
 
-This corporate finance position at University of Waterloo was posted on 2026-03-11.
+This financial analyst position at University of Waterloo was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Downer Group](https://scoutify.ai/companies/ocs-cx-oj31911?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Beenleigh, Queensland, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Accounting |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#731907) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#734817) |
 
 ## About This Role
 
-This accounting position at Downer Group was posted on 2026-07-09.
+This accounting position at Downer Group was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

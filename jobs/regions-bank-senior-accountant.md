@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Birmingham, Alabama, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Senior-Accountant_R101111-1) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Salt-Lake-City-UT-LOB/Senior-Accountant_R104177-1) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-03-18.
+This accounting position at Regions Bank was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

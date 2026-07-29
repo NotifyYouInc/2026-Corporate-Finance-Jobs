@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexicali, Baja California, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000113276577-financial-analyst) |
+| Category | Financial Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000138965309-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Intuitive Surgical was posted on 2026-03-06.
+This financial analyst position at Intuitive Surgical was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
