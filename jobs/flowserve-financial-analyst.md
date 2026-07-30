@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Financial Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Budapest-Hungary/Financial-Analyst_R-19917) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Kuala-Lumpur-Malaysia/Financial-Analyst_R-20274) |
 
 ## About This Role
 
-This financial analyst position at Flowserve was posted on 2026-07-03.
+This financial analyst position at Flowserve was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

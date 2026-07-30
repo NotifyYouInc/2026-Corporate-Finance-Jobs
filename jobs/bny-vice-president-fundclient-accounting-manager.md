@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Luxembourg |
 | Category | Accounting |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#76199) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#79735) |
 
 ## About This Role
 
-This accounting position at BNY was posted on 2026-06-15.
+This accounting position at BNY was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

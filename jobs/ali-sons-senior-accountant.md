@@ -5,12 +5,12 @@
 | Company | [Ali & Sons](https://scoutify.ai/companies/ocs-cx-oj4055?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United Arab Emirates |
 | Category | Accounting |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://fa-evjm-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4287) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://fa-evjm-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4288) |
 
 ## About This Role
 
-This accounting position at Ali & Sons was posted on 2026-06-24.
+This accounting position at Ali & Sons was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

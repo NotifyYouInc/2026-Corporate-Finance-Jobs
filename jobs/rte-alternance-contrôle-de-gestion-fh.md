@@ -5,12 +5,12 @@
 | Company | [RTE](https://scoutify.ai/companies/rte1?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Puteaux, Île-de-France, France |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RTE1/744000138262594-alternance-controle-de-gestion-fh) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RTE1/744000139217539-alternance-controle-de-gestion-fh) |
 
 ## About This Role
 
-This fp&a / strategic finance position at RTE was posted on 2026-07-17.
+This fp&a / strategic finance position at RTE was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

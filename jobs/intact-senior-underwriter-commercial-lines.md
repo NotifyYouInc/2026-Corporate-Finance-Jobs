@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Mississauga-Ontario-CAN/Senior-Underwriter--Commercial-Lines_R153168-1) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Mississauga-Ontario-CAN/Senior-Underwriter--Commercial-Lines_R154820) |
 
 ## About This Role
 
-This corporate finance position at Intact was posted on 2026-04-27.
+This actuary / insurance analytics position at Intact was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

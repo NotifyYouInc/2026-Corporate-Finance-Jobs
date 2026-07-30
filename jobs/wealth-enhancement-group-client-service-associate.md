@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Liberty, Iowa, United States |
+| Location | Clinton, Maryland, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/North-Liberty-IA/Client-Service-Associate_R-102629) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Clinton-WI/Client-Service-Associate_R-102636) |
 
 ## About This Role
 
-This wealth management / private banking position at Wealth Enhancement Group was posted on 2026-07-16.
+This wealth management / private banking position at Wealth Enhancement Group was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

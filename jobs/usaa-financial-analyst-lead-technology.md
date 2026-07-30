@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Financial Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Financial-Analyst-Lead---Technology_R0118372) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Financial-Analyst-Lead---Technology_R0119117) |
 
 ## About This Role
 
-This financial analyst position at USAA was posted on 2026-07-16.
+This financial analyst position at USAA was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

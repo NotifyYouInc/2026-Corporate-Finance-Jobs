@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/Private-Client-Relationship-Manager_JR6678) |
+| Category | Account Manager |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/Private-Client-Relationship-Manager_JR6843) |
 
 ## About This Role
 
-This corporate finance position at Capital Group was posted on 2026-05-21.
+This account manager position at Capital Group was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | Sunshine Coast, Queensland, Australia |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000136154229-assistant-financial-controller) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139206579-assistant-financial-controller) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-07.
+This accounting position at ACCOR was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

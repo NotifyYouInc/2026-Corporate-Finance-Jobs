@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deloitte NZ](https://scoutify.ai/companies/deloitte-nz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hamilton, Waikato Region, New Zealand |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deloittenz/6000000001073694-assistant-manager-audit) |
+| Location | Wellington, Wellington Region, New Zealand |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deloittenz/6000000001252525-assistant-manager-audit) |
 
 ## About This Role
 
-This corporate finance position at Deloitte NZ was posted on 2026-05-14.
+This accounting position at Deloitte NZ was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

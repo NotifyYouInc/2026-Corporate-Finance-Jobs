@@ -1,0 +1,22 @@
+# Business Office Manager - Senior Living Community at MorningStar Senior Living
+
+| Field | Details |
+|-------|---------|
+| Company | [MorningStar Senior Living](https://scoutify.ai/companies/morningstar-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Houston, Texas, United States |
+| Category | Human Resources / People Ops |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://morningstar.rec.pro.ukg.net/MOR1028MORN/JobBoard/54f838bd-15f3-4736-a257-c00969e3a813/OpportunityDetail?opportunityId=7423e1c9-306d-483f-845e-819764213f62) |
+
+## About This Role
+
+This human resources / people ops position at MorningStar Senior Living was posted on 2026-07-22.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

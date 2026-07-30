@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cleveland-Cliffs](https://scoutify.ai/companies/aksteel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Butler, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://aksteel.wd1.myworkdayjobs.com/careers/job/Butler-Works/Financial-Analyst_R12783) |
+| Location | East Chicago, Indiana, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Financial-Analyst_R13144) |
 
 ## About This Role
 
-This corporate finance position at Cleveland-Cliffs was posted on 2026-05-21.
+This financial analyst position at Cleveland-Cliffs was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

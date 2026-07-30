@@ -5,12 +5,12 @@
 | Company | [BMS International](https://scoutify.ai/companies/bmsinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Grand Baie, Rivière du Rempart, Mauritius |
 | Category | Accounting |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BMSInternational/744000129716796-business-controller-hf) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BMSInternational/744000139206419-business-controller-hf) |
 
 ## About This Role
 
-This accounting position at BMS International was posted on 2026-06-02.
+This accounting position at BMS International was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

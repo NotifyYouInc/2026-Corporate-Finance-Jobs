@@ -1,16 +1,16 @@
-# Senior Finance Manager at WISE
+# Senior Finance Manager  at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000135584564-senior-finance-manager) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Financial Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139222388-senior-finance-manager) |
 
 ## About This Role
 
-This accounting position at WISE was posted on 2026-07-02.
+This financial analyst position at WISE was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

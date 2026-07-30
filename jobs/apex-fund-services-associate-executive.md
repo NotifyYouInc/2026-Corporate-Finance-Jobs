@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mauritius |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Associate-Executive_JR-0023467) |
+| Location | Trianon, South Province, New Caledonia |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Associate-Executive_JR-0024773-1) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-06-11.
+This accounting position at Apex Fund Services was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

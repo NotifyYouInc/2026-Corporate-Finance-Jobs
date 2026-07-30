@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clayton](https://scoutify.ai/companies/claytonhomes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Maryville, Tennessee, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Staff-Accountant_JR128726) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Staff-Accountant_JR132688) |
 
 ## About This Role
 
-This corporate finance position at Clayton was posted on 2026-03-05.
+This accounting position at Clayton was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

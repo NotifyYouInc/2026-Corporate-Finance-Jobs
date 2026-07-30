@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Seattle-WA/Private-Client-Advisor_R-40145) |
+| Location | South Bend, Indiana, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/South-Bend-IN/Private-Client-Advisor_R-41129) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-06-24.
+This wealth management / private banking position at KeyBank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

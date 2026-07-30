@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Whitley Penn](https://scoutify.ai/companies/recruiting-ultipro-com-oj118263?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://recruiting.ultipro.com/whi1006wpl/JobBoard/bf9b8b62-5ece-4a4f-aa1f-97eba460105c/OpportunityDetail?opportunityId=163037df-bfa4-4703-b3bd-1fb79bc6ba74) |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://recruiting.ultipro.com/whi1006wpl/JobBoard/bf9b8b62-5ece-4a4f-aa1f-97eba460105c/OpportunityDetail?opportunityId=400b0984-387e-47d2-83e6-b7f0bfad84a8) |
 
 ## About This Role
 
-This corporate finance position at Whitley Penn was posted on 2026-06-25.
+This accounting position at Whitley Penn was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

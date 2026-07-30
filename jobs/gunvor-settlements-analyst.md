@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gunvor](https://scoutify.ai/companies/gunvor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/Settlements-Analyst_JR102698-1) |
+| Location | Singapore, Singapore |
+| Category | Financial Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Singapore/Settlements-Analyst_JR102731-1) |
 
 ## About This Role
 
-This corporate finance position at Gunvor was posted on 2026-06-17.
+This financial analyst position at Gunvor was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

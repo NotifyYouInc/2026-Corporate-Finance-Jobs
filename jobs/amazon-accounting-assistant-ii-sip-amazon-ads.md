@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459583/accounting-assistant-ii-sip-amazon-ads) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10482178/accounting-assistant-ii-sip-amazon-ads) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-26.
+This accounting position at Amazon was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

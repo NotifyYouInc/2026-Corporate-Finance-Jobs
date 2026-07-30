@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nevada, US |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Home-Office---US-NV/Specialist-Finance-Shared-Svcs_276498) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Home-Office---US-NV/Specialist-Finance-Shared-Svcs_277610) |
 
 ## About This Role
 
-This corporate finance position at MGM Resorts International was posted on 2026-06-19.
+This accounting position at MGM Resorts International was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

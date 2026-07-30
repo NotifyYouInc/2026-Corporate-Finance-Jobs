@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Costa Rica |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Credit-Controller-Representative-III_R-01351870) |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Credit-Controller-Representative-III_R-01360142) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-05-15.
+This accounting position at Thermo Fisher Scientific was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Farmington Hills, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Suburban-Honda-Farmington-Hills-MI-48335/Dealership-Accounting-Coordinator-I_R111309) |
+| Location | Troy, Michigan, United States |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Suburban-Cadillac-of-Troy-Troy-MI-48084/Dealership-Accounting-Coordinator-I_R113596) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-06-19.
+This accounting position at Lithia Motors was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

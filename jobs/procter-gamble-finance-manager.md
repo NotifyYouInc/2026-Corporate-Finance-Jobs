@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Almaty, Almaty, Kazakhstan |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Almaty/Finance-Manager_R000146237) |
+| Location | Cairo, Cairo, Egypt |
+| Category | Financial Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/CAIRO-BUSINESS-OFFICE/Finance-Manager_R000155893) |
 
 ## About This Role
 
-This corporate finance position at Procter & Gamble was posted on 2026-02-20.
+This financial analyst position at Procter & Gamble was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

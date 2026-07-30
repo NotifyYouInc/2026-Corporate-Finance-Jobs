@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fulton Hogan](https://scoutify.ai/companies/fulton-hogan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mile End, South Australia, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Mile-End/Management-Accountant_R25949-1) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Auckland/Management-Accountant_R26304-1) |
 
 ## About This Role
 
-This corporate finance position at Fulton Hogan was posted on 2026-06-26.
+This accounting position at Fulton Hogan was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

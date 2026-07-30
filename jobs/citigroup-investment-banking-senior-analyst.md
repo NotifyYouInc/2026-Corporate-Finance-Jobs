@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Paris, Île-de-France, France |
 | Category | Investment Banking |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Madrid--Spain/Investment-Banking-Senior-Analyst_26979871) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Paris--France/Investment-Banking-Senior-Analyst_26980009) |
 
 ## About This Role
 
-This investment banking position at Citigroup was posted on 2026-07-20.
+This investment banking position at Citigroup was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

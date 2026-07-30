@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Kuala-Lumpur/Intern_JR-191944) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Kuala-Lumpur/Intern_JR-196666) |
 
 ## About This Role
 
-This corporate finance position at Vantive was posted on 2026-03-25.
+This accounting position at Vantive was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

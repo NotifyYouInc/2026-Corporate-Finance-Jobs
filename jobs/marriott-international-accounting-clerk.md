@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oman |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26077191) |
+| Location | Germany |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26091460) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-06-26.
+This accounting position at Marriott International was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

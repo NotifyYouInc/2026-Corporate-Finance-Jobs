@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caisse de dépôt et placement du Québec (CDPQ)](https://scoutify.ai/companies/cdpq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://cdpq.wd10.myworkdayjobs.com/CDPQ-recrutement-universitaire/job/Singapore/Intern_R04724) |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://cdpq.wd10.myworkdayjobs.com/CDPQ-recrutement-universitaire/job/Singapore/Intern_R05006) |
 
 ## About This Role
 
-This corporate finance position at Caisse de dépôt et placement du Québec (CDPQ) was posted on 2026-04-23.
+This venture capital / private equity position at Caisse de dépôt et placement du Québec (CDPQ) was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

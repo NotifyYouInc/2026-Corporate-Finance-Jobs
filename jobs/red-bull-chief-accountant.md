@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saitama, Saitama, Japan |
 | Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000138996793-chief-accountant) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000139193429-chief-accountant) |
 
 ## About This Role
 
-This accounting position at Red Bull was posted on 2026-07-22.
+This accounting position at Red Bull was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

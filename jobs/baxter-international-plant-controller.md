@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Aibonito, Aibonito, Puerto Rico |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Aibonito-Puerto-Rico/Plant-Controller_JR-203227-2) |
+| Location | Mountain Home, Idaho, United States |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Mountain-Home-Arkansas/Plant-Controller_JR-206214-1) |
 
 ## About This Role
 
-This corporate finance position at Baxter International was posted on 2026-06-12.
+This accounting position at Baxter International was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

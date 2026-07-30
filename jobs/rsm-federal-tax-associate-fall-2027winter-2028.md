@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Denver, Colorado, United States |
 | Category | Accounting |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Pittsburgh/Federal-Tax-Associate--Fall-2026-Winter-2027-_JR112855) |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Federal-Tax-Associate--Fall-2027-Winter-2028-_JR118751) |
 
 ## About This Role
 

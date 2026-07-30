@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Santiago de Querétaro, Querétaro, Mexico |
 | Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000138962059-plant-controller-automotive-queretaro-mexico) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000139167269-plant-controller-automotive-queretaro-mexico) |
 
 ## About This Role
 
-This accounting position at Sika was posted on 2026-07-21.
+This accounting position at Sika was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

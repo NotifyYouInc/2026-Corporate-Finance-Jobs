@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Livonia, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/Senior-Accountant--Remote_00664932) |
+| Location | Pennsylvania, US |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Newtown-Square-Pennsylvania/Senior-Accountant--Remote_00679393) |
 
 ## About This Role
 
-This corporate finance position at Trinity Health was posted on 2026-06-15.
+This accounting position at Trinity Health was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

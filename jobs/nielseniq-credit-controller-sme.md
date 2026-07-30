@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114895597-credit-controller-sme) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139212945-credit-controller-sme) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-03-16.
+This accounting position at NielsenIQ was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

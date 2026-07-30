@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DMA](https://scoutify.ai/companies/dmainc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://dmainc.wd5.myworkdayjobs.com/dma/job/Toronto/Senior-Tax-Manager--Property-Tax_REQ437) |
+| Location | California, US |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://dmainc.wd5.myworkdayjobs.com/dma/job/California---Remote/Senior-Tax-Manager--Property-Tax_REQ574) |
 
 ## About This Role
 
-This corporate finance position at DMA was posted on 2026-04-14.
+This accounting position at DMA was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

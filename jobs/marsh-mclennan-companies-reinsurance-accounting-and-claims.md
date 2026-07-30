@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Reinsurance-Accounting-and-Claims_R_347916) |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Reinsurance-Accounting-and-Claims_R_357422) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-05-07.
+This accounting position at Marsh & McLennan Companies was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

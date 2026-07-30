@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sacramento, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Managed-Care-Analyst-II_R-125098) |
+| Category | Financial Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Managed-Care-Analyst-II_R-136204) |
 
 ## About This Role
 
-This corporate finance position at Sutter Health was posted on 2026-03-19.
+This financial analyst position at Sutter Health was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

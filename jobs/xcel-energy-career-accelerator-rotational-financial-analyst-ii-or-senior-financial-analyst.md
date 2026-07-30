@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Career-Accelerator--Rotational---Financial-Analyst-II-or-Senior-Financial-Analyst_JR112717-2) |
+| Location | 2 locations |
+| Category | Financial Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Career-Accelerator--Rotational---Financial-Analyst-II-or-Senior-Financial-Analyst_JR115182-1) |
 
 ## About This Role
 
-This corporate finance position at Xcel Energy was posted on 2026-03-02.
+This financial analyst position at Xcel Energy was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

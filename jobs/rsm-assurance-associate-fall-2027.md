@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | Denver, Colorado, United States |
 | Category | Accounting |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/Assurance-Associate---Fall-2027_JR118362) |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Assurance-Associate---Fall-2027_JR117022-1) |
 
 ## About This Role
 

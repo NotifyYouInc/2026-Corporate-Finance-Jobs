@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tucson, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Principal-Specialist--Program-Cost-Controls_01855730) |
+| Location | Indianapolis, Indiana, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Principal-Specialist--Program-Cost-Controls_01859173-1) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-06-26.
+This financial analyst position at RTX was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

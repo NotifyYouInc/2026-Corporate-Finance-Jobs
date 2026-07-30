@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | North Carolina, US |
 | Category | Financial Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Finance-Analyst_2015505-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Finance-Analyst_2020504) |
 
 ## About This Role
 
-This financial analyst position at Cisco was posted on 2026-07-07.
+This financial analyst position at Cisco was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/DUBAI-GENERAL-OFFICE/Financial-Analysis-Manager_R000149539) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/DUBAI-GENERAL-OFFICE/Financial-Analysis-Manager_R000155899) |
 
 ## About This Role
 
-This corporate finance position at Procter & Gamble was posted on 2026-05-14.
+This fp&a / strategic finance position at Procter & Gamble was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

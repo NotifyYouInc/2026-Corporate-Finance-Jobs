@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Carmel, Indiana, United States |
+| Location | Cherryville, North Carolina, United States |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Billing-Specialist-I_R202679997) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Cherryville-NC/Billing-Specialist-I_R202680321) |
 
 ## About This Role
 
-This accounting position at Cox was posted on 2026-07-17.
+This accounting position at Cox was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

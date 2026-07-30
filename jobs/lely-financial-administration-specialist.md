@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ireland |
+| Location | Mitchelstown, Munster, Ireland |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000135722020-financial-administration-specialist) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000139230715-financial-administration-specialist) |
 
 ## About This Role
 
-This accounting position at Lely was posted on 2026-07-03.
+This accounting position at Lely was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

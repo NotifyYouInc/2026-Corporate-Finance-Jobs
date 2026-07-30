@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gloucester, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Gloucester/Senior-Finance-Manager---FP-A-Management_R5036038-1) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Gloucester/Senior-Finance-Manager---FP-A-Management_R5037794-1) |
 
 ## About This Role
 
-This corporate finance position at GE Aerospace was posted on 2026-06-12.
+This fp&a / strategic finance position at GE Aerospace was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

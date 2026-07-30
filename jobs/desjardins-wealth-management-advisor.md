@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nicolet, Quebec, Canada |
+| Location | 2 locations |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Nicolet/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2609418) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Amos/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2608075) |
 
 ## About This Role
 
-This wealth management / private banking position at Desjardins was posted on 2026-07-22.
+This wealth management / private banking position at Desjardins was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

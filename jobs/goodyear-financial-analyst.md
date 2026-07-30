@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Akron, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-OH-Akron-Corp-Hdqtrs/Financial-Analyst_JR-40109030) |
+| Location | Texarkana, Texas, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-AR-Texarkana-Plt-NA02/Financial-Analyst_JR-40111015) |
 
 ## About This Role
 
-This corporate finance position at Goodyear was posted on 2026-05-19.
+This financial analyst position at Goodyear was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

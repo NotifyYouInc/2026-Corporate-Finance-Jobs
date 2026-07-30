@@ -5,12 +5,12 @@
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Oakbrook-Terrace-IL-USA/Audit-Senior-Associate---Commercial-Services_R-51612) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Washington-DC-USA/Audit-Senior-Associate---Commercial-Services_R-51726-1) |
 
 ## About This Role
 
-This accounting position at Crowe was posted on 2026-07-10.
+This accounting position at Crowe was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
