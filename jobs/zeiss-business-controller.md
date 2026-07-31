@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Taipei/Business-Controller_JR_1047144) |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Taipei/Business-Controller_JR_1051527) |
 
 ## About This Role
 
-This corporate finance position at Zeiss was posted on 2026-02-06.
+This accounting position at Zeiss was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

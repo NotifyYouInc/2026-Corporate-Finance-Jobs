@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Seoul/Accounting-Supervisor_REQ10378459-1) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Hotel-Tokyo-at-Otemachi/Accounting-Supervisor_REQ10386479) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-04-27.
+This accounting position at Four Seasons Hotels was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

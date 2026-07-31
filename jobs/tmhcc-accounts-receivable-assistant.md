@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tmhcc](https://scoutify.ai/companies/tmhcc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Encino, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/California---Encino/Accounts-Receivable-Assistant_2026-166) |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/California---Encino/Accounts-Receivable-Assistant_2026-734) |
 
 ## About This Role
 
-This corporate finance position at Tmhcc was posted on 2026-02-25.
+This accounting position at Tmhcc was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

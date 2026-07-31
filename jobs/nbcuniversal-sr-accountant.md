@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Miami, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000129584420-sr-accountant) |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000139461949-sr-accountant) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-06-01.
+This accounting position at NBCUniversal was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-en-actuariat_R2607622) |
+| Location | 3 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-principal-ou-conseillre-principale-en-actuariat--Escouade-tarification-en-assurance-de-dommages_R2609414) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-06-09.
+This actuary / insurance analytics position at Desjardins was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

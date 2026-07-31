@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Leander, Texas, United States |
+| Location | Sugar Land, Texas, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Leander-TX/Private-Banking-Officer-II_R261139) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Sugar-Land-TX/Private-Banking-Officer-II_R261283-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Frostbank was posted on 2026-07-01.
+This wealth management / private banking position at Frostbank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

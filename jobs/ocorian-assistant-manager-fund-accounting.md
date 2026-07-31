@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Moka, Moka, Mauritius |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000127355509-assistant-manager-fund-accounting) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000139365090-assistant-manager-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at Ocorian was posted on 2026-05-20.
+This accounting position at Ocorian was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

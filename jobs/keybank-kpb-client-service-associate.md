@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/KPB-Client-Service-Associate_R-40163) |
+| Location | Brooklyn, New York, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/KPB-Client-Service-Associate_R-41122) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-06-08.
+This wealth management / private banking position at KeyBank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Southfield-MI/Senior-Banker--Income-Property-Group_R-39969) |
+| Location | Atlanta, Georgia, United States |
+| Category | Investment Banking |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Atlanta-GA/Senior-Banker--Income-Property-Group_R-41123) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-05-28.
+This investment banking position at KeyBank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

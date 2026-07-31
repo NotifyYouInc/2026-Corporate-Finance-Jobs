@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012877916-manager-tax-accounting) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014257316-manager-tax-accounting) |
 
 ## About This Role
 
-This corporate finance position at Wabtec was posted on 2026-04-29.
+This accounting position at Wabtec was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

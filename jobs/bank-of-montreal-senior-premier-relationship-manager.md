@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wauwatosa, Wisconsin, United States |
+| Location | Maple Grove, Minnesota, United States |
 | Category | Account Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Wauwatosa-WI-USA/Senior-Premier-Relationship-Manager_R260021405) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Maple-Grove-MN-USA/Senior-Premier-Relationship-Manager_R260021868) |
 
 ## About This Role
 
-This account manager position at Bank of Montreal was posted on 2026-07-20.
+This account manager position at Bank of Montreal was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

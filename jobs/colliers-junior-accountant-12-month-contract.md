@@ -5,12 +5,12 @@
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Vancouver-British-Columbia-Canada/Junior-Accountant--12-month-contract-_JR18236-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Vancouver-British-Columbia-Canada/Junior-Accountant--12-month-contract-_JR18229) |
 
 ## About This Role
 
-This accounting position at Colliers was posted on 2026-07-23.
+This accounting position at Colliers was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

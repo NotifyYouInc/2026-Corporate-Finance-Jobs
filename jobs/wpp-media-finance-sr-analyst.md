@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5171038008) |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5276318008) |
 
 ## About This Role
 
-This corporate finance position at WPP Media was posted on 2026-05-05.
+This accounting position at WPP Media was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

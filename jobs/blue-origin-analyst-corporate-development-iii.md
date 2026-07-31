@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Analyst---Corporate-Development-III_R63500) |
+| Category | Corporate Development & M&A |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Analyst---Corporate-Development-III_R68790) |
 
 ## About This Role
 
-This corporate finance position at Blue Origin was posted on 2026-04-25.
+This corporate development & m&a position at Blue Origin was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

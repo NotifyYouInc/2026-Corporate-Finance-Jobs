@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Port Louis, Port Louis, Mauritius |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000139213959-officer-2-private-wealth-administration) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000139533794-officer-2-private-wealth-administration) |
 
 ## About This Role
 
-This wealth management / private banking position at IQ-EQ was posted on 2026-07-23.
+This wealth management / private banking position at IQ-EQ was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Specialty1 Partners](https://scoutify.ai/companies/specialty1-partners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/specialty1/jobs/4659717006) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/specialty1/jobs/4698887006) |
 
 ## About This Role
 
-This corporate finance position at Specialty1 Partners was posted on 2026-03-05.
+This accounting position at Specialty1 Partners was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

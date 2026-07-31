@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ontario, CA |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Canada-Inc/Accountant_R252906-1) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Canada-Inc/Accountant_R259886) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-05-27.
+This accounting position at Sysco was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

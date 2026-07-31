@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133690629-manager-management-company-accounting-private-equity-funds) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000139359729-manager-management-company-accounting-private-equity-funds) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-06-23.
+This accounting position at IQ-EQ was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

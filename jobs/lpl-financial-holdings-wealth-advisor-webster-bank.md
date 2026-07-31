@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Connecticut, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Cromwell-CT/Wealth-Advisor---Webster-Bank_R-049428-1) |
+| Location | West Haven, Connecticut, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/West-Haven-CT/Wealth-Advisor---Webster-Bank_R-052470-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-03-16.
+This wealth management / private banking position at LPL Financial Holdings was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

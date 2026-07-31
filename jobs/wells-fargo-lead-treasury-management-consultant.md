@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LAS-VEGAS-NV/Lead-Treasury-Management-Consultant_R-559544-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SALT-LAKE-CITY-UT/Lead-Treasury-Management-Consultant_R-561788) |
 
 ## About This Role
 
-This strategy / management consulting position at Wells Fargo was posted on 2026-07-14.
+This strategy / management consulting position at Wells Fargo was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

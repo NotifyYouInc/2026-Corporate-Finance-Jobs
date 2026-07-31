@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766912) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770730) |
 
 ## About This Role
 
-This accounting position at JPMorgan Chase was posted on 2026-07-10.
+This asset management / portfolio management position at JPMorgan Chase was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

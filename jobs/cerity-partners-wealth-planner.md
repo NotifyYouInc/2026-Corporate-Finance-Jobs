@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerity Partners](https://scoutify.ai/companies/ceritypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Wealth-Planner_R717) |
+| Location | El Segundo, California, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/El-Segundo-Office/Wealth-Planner_R765) |
 
 ## About This Role
 
-This corporate finance position at Cerity Partners was posted on 2026-06-12.
+This wealth management / private banking position at Cerity Partners was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

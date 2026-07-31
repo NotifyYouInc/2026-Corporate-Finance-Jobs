@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Yunnan, CN |
+| Location | Shanghai, Shanghai, China |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26084427) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26092026) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Marriott International was posted on 2026-07-09.
+This fp&a / strategic finance position at Marriott International was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

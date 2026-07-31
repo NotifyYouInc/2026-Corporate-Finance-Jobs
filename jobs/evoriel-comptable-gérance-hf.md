@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000133016719-comptable-gerance-hf) |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000139532519-comptable-gerance-hf) |
 
 ## About This Role
 
-This corporate finance position at Evoriel was posted on 2026-06-19.
+This accounting position at Evoriel was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

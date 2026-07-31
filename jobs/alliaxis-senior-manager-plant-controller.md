@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alliaxis](https://scoutify.ai/companies/aliaxis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Attibele, Karnataka, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-KA---Attibele-26/Senior-Manager---Plant-Controller_R-56730) |
+| Location | Bhiwadi, Rajasthan, India |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-RJ---Bhiwadi/Senior-Manager---Plant-Controller_R-57705) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Alliaxis was posted on 2026-07-06.
+This accounting position at Alliaxis was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

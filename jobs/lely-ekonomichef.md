@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lidköping, Västra Götaland, Sweden |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000135702759-ekonomichef) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000139536076-ekonomichef) |
 
 ## About This Role
 
-This accounting position at Lely was posted on 2026-07-03.
+This accounting position at Lely was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

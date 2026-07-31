@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Utah, US |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Program-Cost-Control-Analyst---Level-4_R10233506) |
+| Location | Linthicum, Maryland, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Program-Cost-Control-Analyst---Level-4_R10241741) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-05-19.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Melbourne-Australia/Tax-Manager_R-164727) |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Melbourne-Australia/Tax-Manager_R-173689) |
 
 ## About This Role
 
-This corporate finance position at Mondelez International was posted on 2026-04-14.
+This accounting position at Mondelez International was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Citi Private Bank - UHNW Private Banker at Citigroup
+# Citi Private Bank | UHNW Private Banker at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Greenwich-Connecticut-United-States/Citi-Private-Bank---UHNW-Private-Banker_25926626) |
+| Location | Denver, Colorado, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Denver-Colorado-United-States/Citi-Private-Bank---UHNW-Private-Banker_26981870) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-21.
+This wealth management / private banking position at Citigroup was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

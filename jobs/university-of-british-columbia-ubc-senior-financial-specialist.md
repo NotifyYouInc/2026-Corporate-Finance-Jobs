@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of British Columbia (UBC)](https://scoutify.ai/companies/university-of-british-columbia-ubc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Senior-Financial-Specialist_JR24513) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Senior-Financial-Specialist_JR25404) |
 
 ## About This Role
 
-This corporate finance position at University of British Columbia (UBC) was posted on 2026-05-11.
+This accounting position at University of British Columbia (UBC) was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

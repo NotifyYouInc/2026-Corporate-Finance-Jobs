@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brea, California, United States |
+| Location | Dallas, Texas, United States |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Brea-CA/Payroll-Specialist-I_JR102903) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Dallas-TX/Payroll-Specialist-I_JR102848) |
 
 ## About This Role
 
-This accounting position at Insperity was posted on 2026-07-14.
+This accounting position at Insperity was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

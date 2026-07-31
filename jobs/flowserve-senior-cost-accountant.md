@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Querétaro, Chiapas, Mexico |
 | Category | Accounting |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Kuala-Lumpur-Malaysia/Senior-Cost-Accountant_R-20263-1) |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Queretaro-BSC-Mexico/Senior-Cost-Accountant_R-20288-1) |
 
 ## About This Role
 

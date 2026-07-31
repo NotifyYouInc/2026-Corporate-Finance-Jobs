@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/Supervisory-Accountant--Reinsurance_JR2506345) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/CT-Wilton/Supervisory-Accountant--Reinsurance_JR2600144-1) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-06-15.
+This accounting position at AIG was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

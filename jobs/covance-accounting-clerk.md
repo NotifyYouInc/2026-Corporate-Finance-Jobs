@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Tokyo/Accounting-Clerk_262956) |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Tokyo/Accounting-Clerk_264113) |
 
 ## About This Role
 
-This corporate finance position at Covance was posted on 2026-06-11.
+This accounting position at Covance was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

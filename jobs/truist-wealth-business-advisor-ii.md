@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Wealth-Business-Advisor-II_R0115438) |
+| Location | Tampa, Florida, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Tampa-FL/Wealth-Business-Advisor-II_R0116928) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-06-05.
+This wealth management / private banking position at Truist was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

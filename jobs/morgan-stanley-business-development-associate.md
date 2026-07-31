@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newport, Rhode Island, United States |
+| Location | Deerfield, Illinois, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Newport-Rhode-Island-United-States-of-America/Business-Development-Associate_JR039682-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Deerfield-Illinois-United-States-of-America/Business-Development-Associate_JR041286) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Morgan Stanley was posted on 2026-07-07.
+This sales development (sdr / bdr) position at Morgan Stanley was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

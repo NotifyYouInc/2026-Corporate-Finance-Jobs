@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cavite, Central Luzon, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Finance-Analyst_R263153) |
+| Location | Chon Buri, Chon Buri, Thailand |
+| Category | Financial Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Thailand-Chon-Buri/Finance-Analyst_R263707) |
 
 ## About This Role
 
-This corporate finance position at Analog Devices was posted on 2026-06-17.
+This financial analyst position at Analog Devices was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

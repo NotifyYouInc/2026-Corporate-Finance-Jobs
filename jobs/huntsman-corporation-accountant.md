@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntsman Corporation](https://scoutify.ai/companies/huntsman-corporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Louisiana, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Louisiana---Geismar/Accountant_J-019712) |
+| Location | Heredia, Heredia Province, Costa Rica |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Costa-Rica---Heredia/Accountant_J-020104) |
 
 ## About This Role
 
-This corporate finance position at Huntsman Corporation was posted on 2026-04-17.
+This accounting position at Huntsman Corporation was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

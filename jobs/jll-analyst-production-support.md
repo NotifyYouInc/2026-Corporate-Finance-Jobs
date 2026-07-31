@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Austin, Texas, United States |
 | Category | Financial Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Analyst--Production-Support_REQ523800) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Analyst--Production-Support_REQ524385) |
 
 ## About This Role
 
-This financial analyst position at JLL was posted on 2026-07-21.
+This financial analyst position at JLL was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

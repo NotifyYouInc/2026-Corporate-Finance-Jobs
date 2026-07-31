@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dominium](https://scoutify.ai/companies/recruiting2-ultipro-com-oj31050?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/dom1001domms/JobBoard/f2ecae96-94c0-46c5-9dbf-87e14f3008df/OpportunityDetail?opportunityId=9a34c0b7-251c-4a0d-9c03-297f09d13128) |
+| Location | Dallas, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/dom1001domms/JobBoard/f2ecae96-94c0-46c5-9dbf-87e14f3008df/OpportunityDetail?opportunityId=f5c837d2-ace5-4453-9ac0-ee7599e87ae2) |
 
 ## About This Role
 
-This corporate finance position at Dominium was posted on 2026-06-24.
+This accounting position at Dominium was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

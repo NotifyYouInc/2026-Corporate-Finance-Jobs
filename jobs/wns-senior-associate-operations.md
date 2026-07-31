@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000137365789-senior-associate-operations) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000139541529-senior-associate-operations) |
 
 ## About This Role
 
-This accounting position at WNS was posted on 2026-07-13.
+This accounting position at WNS was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

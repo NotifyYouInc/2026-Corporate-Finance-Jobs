@@ -1,16 +1,16 @@
-# Analista contable at QIMA
+# ANALISTA CONTABLE at QIMA
 
 | Field | Details |
 |-------|---------|
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000110463321-analista-contable) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000139368598-analista-contable) |
 
 ## About This Role
 
-This corporate finance position at QIMA was posted on 2026-02-20.
+This accounting position at QIMA was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

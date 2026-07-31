@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kemper](https://scoutify.ai/companies/kemper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Chicago-IL/Senior-Accountant_R-26-0036362) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Chicago-Illinois/Senior-Accountant_R-26-0037453) |
 
 ## About This Role
 
-This corporate finance position at Kemper was posted on 2026-05-12.
+This accounting position at Kemper was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Wisconsin-River Falls](https://scoutify.ai/companies/university-of-wisconsin-river-falls?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Stevens Point, Wisconsin, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://wisconsin.wd1.myworkdayjobs.com/uw_comprehensives/job/Stevens-Point-WI/Accountant-III_JR10008673) |
+| Location | University, Florida, United States |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://wisconsin.wd1.myworkdayjobs.com/uw_comprehensives/job/River-Falls-WI/Accountant-III_JR10013016) |
 
 ## About This Role
 
-This corporate finance position at University of Wisconsin-River Falls was posted on 2026-02-20.
+This accounting position at University of Wisconsin-River Falls was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

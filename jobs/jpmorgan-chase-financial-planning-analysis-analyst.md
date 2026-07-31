@@ -5,12 +5,12 @@
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771069) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769958) |
 
 ## About This Role
 
-This fp&a / strategic finance position at JPMorgan Chase was posted on 2026-07-22.
+This fp&a / strategic finance position at JPMorgan Chase was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

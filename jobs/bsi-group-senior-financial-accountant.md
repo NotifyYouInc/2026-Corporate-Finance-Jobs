@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BSI Group](https://scoutify.ai/companies/bsi-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milton Keynes, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://bsigroup.wd3.myworkdayjobs.com/bsi_careers/job/Milton-Keynes/Senior-Financial-Accountant_JR0019677) |
+| Location | United Kingdom |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://bsigroup.wd3.myworkdayjobs.com/bsi_careers/job/United-Kingdom/Senior-Financial-Accountant_JR0020609-1) |
 
 ## About This Role
 
-This corporate finance position at BSI Group was posted on 2026-02-26.
+This accounting position at BSI Group was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

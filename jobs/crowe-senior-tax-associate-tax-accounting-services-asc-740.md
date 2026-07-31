@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 10 locations |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Tax-Function-Solutions-Senior-Associate_R-51636-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Senior-Tax-Associate--Tax-Accounting-Services--ASC-740-_R-51628) |
 
 ## About This Role
 
-This accounting position at Crowe was posted on 2026-07-17.
+This accounting position at Crowe was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

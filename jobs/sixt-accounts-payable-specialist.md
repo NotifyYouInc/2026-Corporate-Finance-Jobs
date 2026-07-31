@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tulsa, Oklahoma, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000133064021-accounts-payable-specialist) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000139363519-accounts-payable-specialist) |
 
 ## About This Role
 
-This corporate finance position at Sixt was posted on 2026-06-19.
+This accounting position at Sixt was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bogot-Distrito-Capital-Colombia/Payroll-Analyst_R-087088) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/Payroll-Analyst_R-085919) |
 
 ## About This Role
 
-This accounting position at Johnson & Johnson was posted on 2026-07-21.
+This accounting position at Johnson & Johnson was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

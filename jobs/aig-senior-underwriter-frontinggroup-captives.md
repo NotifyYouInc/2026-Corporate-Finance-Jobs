@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/MA-Boston/Senior-Underwriter--Fronting-Group-Captives_JR2601565-1) |
+| Location | 2 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/Senior-Underwriter--Fronting-Group-Captives_JR2602605) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-04-28.
+This actuary / insurance analytics position at AIG was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

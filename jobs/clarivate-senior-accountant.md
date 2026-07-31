@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ann Arbor, Michigan, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R186--Ann-Arbor/Senior-Accountant_JREQ135952-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/USA---Philadelphia-PA/Senior-Accountant_JREQ136110-1) |
 
 ## About This Role
 
-This accounting position at Clarivate was posted on 2026-07-22.
+This accounting position at Clarivate was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

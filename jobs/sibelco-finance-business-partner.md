@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sibelco](https://scoutify.ai/companies/sibelco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://sibelco.wd502.myworkdayjobs.com/sibelco-careers/job/Houston-HQ-Office/Finance-Business-Partner_J015557) |
+| Location | Singapore |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://sibelco.wd502.myworkdayjobs.com/sibelco-careers/job/HQ---APAC-Sub-Regional-Office/Finance-Business-Partner_J017637) |
 
 ## About This Role
 
-This corporate finance position at Sibelco was posted on 2026-02-19.
+This fp&a / strategic finance position at Sibelco was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000137380750-director-of-finance) |
+| Location | Luang Prabang, Luang Prabang Province, Laos |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139525011-director-of-finance) |
 
 ## About This Role
 
-This fp&a / strategic finance position at ACCOR was posted on 2026-07-13.
+This accounting position at ACCOR was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
