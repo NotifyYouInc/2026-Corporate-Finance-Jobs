@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Finance-Manager_2014306-1) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Financial Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mexico-City-Mexico/Finance-Manager_2019836) |
 
 ## About This Role
 
-This corporate finance position at Cisco was posted on 2026-06-16.
+This financial analyst position at Cisco was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

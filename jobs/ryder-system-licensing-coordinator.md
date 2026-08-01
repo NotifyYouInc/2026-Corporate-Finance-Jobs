@@ -5,12 +5,12 @@
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Accounting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Alpharetta-GA-30005/Licensing-Coordinator_R178094) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Little-Rock-AR-72206/Licensing-Coordinator_R178829) |
 
 ## About This Role
 
-This accounting position at Ryder System was posted on 2026-07-16.
+This accounting position at Ryder System was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Manager--Finance-Business-Partner_R-280703-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia-Bldg-978/Manager--Finance-Business-Partner_R-282666) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Mastercard was posted on 2026-07-03.
+This fp&a / strategic finance position at Mastercard was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

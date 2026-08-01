@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Enid, Oklahoma, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/54th-St-Enid-Plant---Enid-Oklahoma/Senior-Administrator-Accounting_R0461817-1) |
+| Category | Accounting |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Willow-Philly-Enid-Plant---Enid-Oklahoma/Senior-Administrator-Accounting_R0475250-1) |
 
 ## About This Role
 
-This corporate finance position at Tyson Foods was posted on 2026-05-19.
+This accounting position at Tyson Foods was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

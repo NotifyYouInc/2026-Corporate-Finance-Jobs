@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Detroit, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Detroit-Michigan-United-States-of-America/Treasury-Associate_JR-202613301) |
+| Location | Warren, Michigan, United States |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Treasury-Associate_JR-202615946) |
 
 ## About This Role
 
-This corporate finance position at General Motors was posted on 2026-06-15.
+This treasury & capital markets position at General Motors was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

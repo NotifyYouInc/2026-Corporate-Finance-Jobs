@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Querétaro, Chiapas, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MEX---Queretaro-Business-Services/AP-ANALYST_JR266735) |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MEX---Queretaro-Business-Services/AP-ANALYST_JR268905-1) |
 
 ## About This Role
 
-This corporate finance position at PPG Industries was posted on 2026-06-19.
+This accounting position at PPG Industries was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

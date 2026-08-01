@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Silgan Dispensing Systems](https://scoutify.ai/companies/silgan-dispensing-systems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Antioch, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Antioch-California/Plant-Accountant_R7517) |
+| Location | Plover, Wisconsin, United States |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Plover-Wisconsin/Plant-Accountant_R7815) |
 
 ## About This Role
 
-This corporate finance position at Silgan Dispensing Systems was posted on 2026-06-08.
+This accounting position at Silgan Dispensing Systems was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fairfield, California, United States |
+| Location | New York City, New York, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fairfield/Registered-Wealth-Management-Client-Associate_26025146) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Registered-Wealth-Management-Client-Associate_26026060) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-07-20.
+This wealth management / private banking position at Bank of America was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

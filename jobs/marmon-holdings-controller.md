@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Finland |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/FIN__Kanta-Hme_Autotehtaantie-1/Controller_JR0000041317) |
+| Location | Louisville, Kentucky, United States |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Louisville-KY/Controller_JR0000044709) |
 
 ## About This Role
 
-This corporate finance position at Marmon Holdings was posted on 2026-04-30.
+This accounting position at Marmon Holdings was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | 3 locations |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Salt-Lake-City-Utah/Audit-Manager_JR104089) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/San-Ramon-California/Audit-Manager_JR104120) |
 
 ## About This Role
 
-This accounting position at Armanino was posted on 2026-07-15.
+This accounting position at Armanino was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Warsaw-Office/Accountant--Ksigowa--Ksigowy-_JR_10038627-1) |
+| Category | Accounting |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Warsaw-Office/Accountant--Ksigowa--Ksigowy-_JR_10040549-2) |
 
 ## About This Role
 
-This corporate finance position at Ayvens was posted on 2026-04-01.
+This accounting position at Ayvens was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

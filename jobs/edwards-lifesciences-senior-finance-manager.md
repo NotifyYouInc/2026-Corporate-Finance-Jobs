@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irvine, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Senior-Finance-Manager_Req-47809) |
+| Category | Financial Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Senior-Finance-Manager_Req-49537) |
 
 ## About This Role
 
-This corporate finance position at Edwards Lifesciences was posted on 2026-06-09.
+This financial analyst position at Edwards Lifesciences was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

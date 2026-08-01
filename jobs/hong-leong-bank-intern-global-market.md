@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Intern---Global-Market_JR0000024545) |
+| Location | Malaysia |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Intern---Global-Market_JR0000025649) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-05-06.
+This treasury & capital markets position at Hong Leong Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

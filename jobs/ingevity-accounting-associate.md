@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ingevity](https://scoutify.ai/companies/ingevity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Covington, Kentucky, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ingevity.wd1.myworkdayjobs.com/ingevity/job/Covington-VA/Accounting-Associate_R0002452) |
+| Category | Accounting |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://ingevity.wd1.myworkdayjobs.com/ingevity/job/Covington-VA/Accounting-Associate_R0002512) |
 
 ## About This Role
 
-This corporate finance position at Ingevity was posted on 2026-05-19.
+This accounting position at Ingevity was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

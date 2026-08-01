@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Charlotte---NC/Senior-Accountant-I-1_R16832) |
+| Location | Newport Beach, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Senior-Accountant-I_R17400) |
 
 ## About This Role
 
-This corporate finance position at Pacific Life was posted on 2026-04-17.
+This accounting position at Pacific Life was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

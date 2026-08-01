@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Cristóbal, San Cristóbal, Dominican Republic |
+| Location | St. Petersburg, Florida, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Cristobal/Commercial-Finance-Manager_J2457570) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Commercial-Finance-Manager_J2458567) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Jabil was posted on 2026-07-14.
+This fp&a / strategic finance position at Jabil was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

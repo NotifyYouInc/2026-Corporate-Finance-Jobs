@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Atlanta-GA---Regions-Plaza-Office/Regions-Business-Capital-Portfolio-Manager_R102401) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Atlanta-GA---Regions-Plaza-Office/Regions-Business-Capital-Portfolio-Manager_R104264) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-05-11.
+This asset management / portfolio management position at Regions Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

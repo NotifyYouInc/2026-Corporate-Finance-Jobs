@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Director--Tax--Retirement---Estate-Planning_JR00124072) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Director--Tax--Retirement---Estate-Planning_JR00126306) |
 
 ## About This Role
 
-This corporate finance position at Sun Life was posted on 2026-05-21.
+This wealth management / private banking position at Sun Life was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

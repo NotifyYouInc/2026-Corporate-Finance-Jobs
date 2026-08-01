@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toulouse, Occitanie, France |
-| Category | Corporate Finance |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Bruguires/Contrleur-se--de-gestion_R237622) |
+| Location | Lyon, Rhône-Alpes, France |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Lyon/Contrleur-se--de-gestion_R260572) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-02-07.
+This fp&a / strategic finance position at Sysco was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Houston/Registered-Private-Wealth-Client-Associate_26020273) |
+| Location | San Francisco, California, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/San-Francisco/Registered-Private-Wealth-Client-Associate_26026134-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-10.
+This wealth management / private banking position at Bank of America was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

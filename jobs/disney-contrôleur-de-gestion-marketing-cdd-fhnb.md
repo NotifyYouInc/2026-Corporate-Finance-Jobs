@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | France |
-| Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Serris-France/Contrleur-de-gestion-Marketing-CDD---F-H-NB_10145280-1) |
+| Location | Serris, Île-de-France, France |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Serris-France/Contrleur-de-gestion-Marketing-CDD---F-H-NB_10156653) |
 
 ## About This Role
 
-This corporate finance position at Disney was posted on 2026-03-18.
+This fp&a / strategic finance position at Disney was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

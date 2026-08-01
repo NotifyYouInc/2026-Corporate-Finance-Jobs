@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renaud-Bray](https://scoutify.ai/companies/renaudbray?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000131935514-directeur-des-finances) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000139602835-directeur-des-finances) |
 
 ## About This Role
 
-This corporate finance position at Renaud-Bray was posted on 2026-06-12.
+This fp&a / strategic finance position at Renaud-Bray was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

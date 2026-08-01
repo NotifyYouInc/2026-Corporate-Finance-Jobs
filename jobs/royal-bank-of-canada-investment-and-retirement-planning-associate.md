@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Alberta, CA |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Investment-and-Retirement-Planning-Associate_R-0000181069) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/STRATHCONA-COUNTY-Alberta-Canada/Investment-and-Retirement-Planning-Associate_R-0000181788) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-17.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

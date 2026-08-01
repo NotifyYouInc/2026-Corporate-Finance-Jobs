@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bird Construction](https://scoutify.ai/companies/bird-construction?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Winnipeg, Manitoba, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://bird.wd3.myworkdayjobs.com/birdconstructioncareers/job/Winnipeg-MB/Salary-Payroll-Administrator_JR-8909) |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://bird.wd3.myworkdayjobs.com/birdconstructioncareers/job/Winnipeg-MB/Salary-Payroll-Administrator_JR-9268) |
 
 ## About This Role
 
-This corporate finance position at Bird Construction was posted on 2026-06-04.
+This accounting position at Bird Construction was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

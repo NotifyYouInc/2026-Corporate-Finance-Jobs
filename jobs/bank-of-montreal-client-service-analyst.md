@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | La Jolla, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/La-Jolla-CA-USA/Client-Service-Analyst_R260017287-1) |
+| Location | Madison, Wisconsin, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Madison-WI-USA/Client-Service-Analyst_R260021733) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-06-11.
+This wealth management / private banking position at Bank of Montreal was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

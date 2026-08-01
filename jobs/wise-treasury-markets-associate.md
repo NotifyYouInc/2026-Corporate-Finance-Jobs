@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124754434-treasury-markets-associate) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139659387-treasury-markets-associate) |
 
 ## About This Role
 
-This corporate finance position at WISE was posted on 2026-05-05.
+This treasury & capital markets position at WISE was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

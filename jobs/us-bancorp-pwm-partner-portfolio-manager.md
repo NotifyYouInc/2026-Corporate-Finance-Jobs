@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Louis, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Louis-MO/PWM-Partner-Portfolio-Manager_2026-0006487) |
+| Location | 2 locations |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tampa-FL/PWM-Partner-Portfolio-Manager_2026-0021317) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bancorp was posted on 2026-05-01.
+This asset management / portfolio management position at U.S. Bancorp was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altus Spine](https://scoutify.ai/companies/recruiting-ultipro-com-oj5046?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://recruiting.ultipro.com/ace1006acepr/JobBoard/96c6847b-2841-4f65-8e40-1dfb1661bfaf/OpportunityDetail?opportunityId=1907653f-a74a-473b-bf52-dce78492d5bb) |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://recruiting.ultipro.com/ace1006acepr/JobBoard/96c6847b-2841-4f65-8e40-1dfb1661bfaf/OpportunityDetail?opportunityId=b3c0e620-89e9-412d-91ef-cc1c94830843) |
 
 ## About This Role
 
-This corporate finance position at Altus Spine was posted on 2026-06-26.
+This accounting position at Altus Spine was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

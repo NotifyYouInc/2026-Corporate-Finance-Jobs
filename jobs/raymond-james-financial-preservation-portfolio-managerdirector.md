@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Florida, US |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/FL---Saint-Petersburg---880-Carillon-Pkwy-Tower-4/Preservation-Portfolio-Manager-Director_R-0011235) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/FL---Saint-Petersburg---880-Carillon-Pkwy-Tower-4/Preservation-Portfolio-Manager-Director_R-0011986-1) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-05-18.
+This asset management / portfolio management position at Raymond James Financial was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

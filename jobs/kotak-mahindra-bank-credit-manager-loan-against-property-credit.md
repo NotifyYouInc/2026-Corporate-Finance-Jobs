@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Lucknow, Uttar Pradesh, India |
 | Category | Financial Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#250077) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#250930) |
 
 ## About This Role
 
-This financial analyst position at Kotak Mahindra Bank was posted on 2026-07-20.
+This financial analyst position at Kotak Mahindra Bank was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

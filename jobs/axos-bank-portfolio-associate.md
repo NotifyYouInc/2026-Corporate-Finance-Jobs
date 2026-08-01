@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Diego, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Portfolio-Associate_JR4056) |
+| Location | New York City, New York, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/New-York-NY/Portfolio-Associate_JR5011) |
 
 ## About This Role
 
-This corporate finance position at Axos Bank was posted on 2026-04-13.
+This financial analyst position at Axos Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

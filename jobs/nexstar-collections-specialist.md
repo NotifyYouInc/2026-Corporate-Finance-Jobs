@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexstar](https://scoutify.ai/companies/nexstar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/TX-Irving/Collections-Specialist_REQ-40571) |
+| Category | Accounting |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/TX-Irving/Collections-Specialist_REQ-42383) |
 
 ## About This Role
 
-This corporate finance position at Nexstar was posted on 2026-03-12.
+This accounting position at Nexstar was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

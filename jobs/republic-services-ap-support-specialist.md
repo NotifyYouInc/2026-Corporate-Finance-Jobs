@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Jose, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/San-Jose-CA-USA/A-P-Support-Specialist_R-175923-1) |
+| Location | United States |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/USA---Remote/A-P-Support-Specialist_R-180071) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-05-27.
+This accounting position at Republic Services was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

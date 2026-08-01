@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Hangzhou---China/Sr-Accountant_R-1274) |
+| Location | Kirkland, Washington, United States |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Kirkland-WA/Sr-Accountant_R-1799) |
 
 ## About This Role
 
-This corporate finance position at Monolithic Power Systems was posted on 2026-03-27.
+This accounting position at Monolithic Power Systems was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

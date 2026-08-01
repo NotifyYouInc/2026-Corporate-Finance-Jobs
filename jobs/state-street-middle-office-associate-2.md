@@ -1,16 +1,16 @@
-# Middle Office, Associate 2 at State Street
+# Middle Office Associate 2 at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Financial Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Middle-Office--Associate-2_R-793474) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Middle-Office-Associate-2_R-794862) |
 
 ## About This Role
 
-This financial analyst position at State Street was posted on 2026-07-22.
+This accounting position at State Street was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

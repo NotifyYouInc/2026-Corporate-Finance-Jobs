@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Winding-Trails-Post-Acute/Business-Office-Manager_JR173379) |
+| Location | United States |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Pine-Ridge-Post-Acute/Business-Office-Manager_JR176324) |
 
 ## About This Role
 
-This corporate finance position at Pacs was posted on 2026-06-24.
+This accounting position at Pacs was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

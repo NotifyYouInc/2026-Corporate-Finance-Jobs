@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ipojuca, Pernambuco, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Brazil-Pernambuco-Ipojuca-55594-900/Accounting-Specialist_R177375) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/MX---Mexico-City/Accounting-Specialist_R190595) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-04-06.
+This accounting position at A.P. Moller - Maersk was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

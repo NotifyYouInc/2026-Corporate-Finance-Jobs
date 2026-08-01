@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | St. Louis, Missouri, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Accountant---Evernorth---Hybrid_25017010) |
+| Category | Accounting |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Accountant---Evernorth---Hybrid_26009336) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-02-26.
+This accounting position at Cigna was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

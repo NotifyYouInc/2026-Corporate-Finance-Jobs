@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barueri, São Paulo, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/BARUERI/Espec-Clientes-Select-High_Req1588286) |
+| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/RIO-DE-JANEIRO/Espec-Clientes-Select-High_Req1595874) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-06-26.
+This wealth management / private banking position at Santander was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

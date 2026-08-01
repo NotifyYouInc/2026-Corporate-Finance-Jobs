@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kalamazoo, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Kalamazoo-MI-USA/BU-Finance-Mgr-Hauling_R-172456) |
+| Location | Pierson, Florida, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Pierson-MI-USA/BU-Finance-Mgr-Hauling_R-180075) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-04-02.
+This fp&a / strategic finance position at Republic Services was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Arlington-VA-Alexandria/Project-Finance-Associate-II_R-29188) |
+| Location | Tampa, Florida, United States |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/Project-Finance-Associate-II_R-30889) |
 
 ## About This Role
 
-This corporate finance position at HNTB was posted on 2026-02-18.
+This accounting position at HNTB was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

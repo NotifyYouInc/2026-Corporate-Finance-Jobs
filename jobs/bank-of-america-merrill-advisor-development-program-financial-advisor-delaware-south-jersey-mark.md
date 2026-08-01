@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mount Laurel, New Jersey, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Mount-Laurel/Merrill-Advisor-Development-Program---Financial-Advisor--Delaware-South-Jersey-Market_26011284) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Mount-Laurel/Merrill-Advisor-Development-Program---Financial-Advisor--Delaware-South-Jersey-Market_26026004) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-24.
+This wealth management / private banking position at Bank of America was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

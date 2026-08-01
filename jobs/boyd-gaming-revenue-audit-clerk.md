@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012415507-revenue-audit-clerk) |
+| Location | Norfolk, Virginia, United States |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990014281056-revenue-audit-clerk) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-04-01.
+This accounting position at Boyd Gaming was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

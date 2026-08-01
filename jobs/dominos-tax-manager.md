@@ -5,12 +5,12 @@
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ann Arbor, Michigan, United States |
 | Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000136974448-tax-manager) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000139756087-tax-manager) |
 
 ## About This Role
 
-This accounting position at Domino's was posted on 2026-07-10.
+This accounting position at Domino's was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

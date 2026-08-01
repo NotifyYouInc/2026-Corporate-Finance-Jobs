@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maple Grove, Minnesota, United States |
+| Location | South Pasadena, California, United States |
 | Category | Account Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Maple-Grove-MN-USA/Senior-Premier-Relationship-Manager_R260021868) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/South-Pasadena-CA-USA/Senior-Premier-Relationship-Manager_R260021672-1) |
 
 ## About This Role
 
-This account manager position at Bank of Montreal was posted on 2026-07-23.
+This account manager position at Bank of Montreal was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

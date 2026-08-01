@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Paul, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Corp-Trust-Finl-Mgmt-Analyst-4_2026-0018020-1) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Financial Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Corp-Trust-Finl-Mgmt-Analyst-4_2026-0022001) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bancorp was posted on 2026-06-17.
+This financial analyst position at U.S. Bancorp was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

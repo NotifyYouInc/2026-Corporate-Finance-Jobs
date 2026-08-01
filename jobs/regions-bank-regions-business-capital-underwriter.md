@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Atlanta-GA---Regions-Plaza-Office/Regions-Business-Capital-Underwriter_R102037-1) |
+| Location | 2 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Atlanta-GA---Regions-Plaza-Office/Regions-Business-Capital-Underwriter_R104260) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-04-27.
+This actuary / insurance analytics position at Regions Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneDigital](https://scoutify.ai/companies/onedigital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Greenville, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Greenville-SC/Payroll-Specialist_R8958) |
+| Location | Phoenix, Arizona, United States |
+| Category | Accounting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Phoenix-AZ/Payroll-Specialist_R9226) |
 
 ## About This Role
 
-This corporate finance position at OneDigital was posted on 2026-05-21.
+This accounting position at OneDigital was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
