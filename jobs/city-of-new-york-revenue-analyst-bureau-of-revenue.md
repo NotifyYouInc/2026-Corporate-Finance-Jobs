@@ -1,16 +1,16 @@
-# Vouchering Unit, Supervisor at City of New York
+# Revenue Analyst, Bureau of Revenue at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Accounting |
+| Location | Long Island City, New York, United States |
+| Category | Financial Analyst |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014282596-vouchering-unit-supervisor) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014283211-revenue-analyst-bureau-of-revenue) |
 
 ## About This Role
 
-This accounting position at City of New York was posted on 2026-07-25.
+This financial analyst position at City of New York was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

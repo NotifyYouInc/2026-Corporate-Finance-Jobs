@@ -1,16 +1,16 @@
-# BANCO DE TALENTOS | Finanças at ACCOR
+# Investment Lead at Stripe
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
-| Category | Accounting |
+| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
+| Category | Venture Capital / Private Equity |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139825139-banco-de-talentos-financas) |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8083464) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-25.
+This venture capital / private equity position at Stripe was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

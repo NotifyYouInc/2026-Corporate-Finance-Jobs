@@ -1,16 +1,16 @@
-# Accountant-General at Marriott International
+# Income Auditor (Saudi National) at IHG Hotels & Resorts
 
 | Field | Details |
 |-------|---------|
-| Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [IHG Hotels & Resorts](https://scoutify.ai/companies/ocs-cx-oj54062?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saudi Arabia |
 | Category | Accounting |
 | Posted | 2026-07-26 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26092623) |
+| Apply | [View on company site](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#158292) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-07-26.
+This accounting position at IHG Hotels & Resorts was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

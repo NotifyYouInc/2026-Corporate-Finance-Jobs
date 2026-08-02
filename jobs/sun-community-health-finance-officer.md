@@ -1,16 +1,16 @@
-# BANCO DE TALENTOS | Finanças at ACCOR
+# Finance Officer at Sun Community Health
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Company | [Sun Community Health](https://scoutify.ai/companies/suncommunityhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Mandalay, Mandalay Region, Myanmar |
 | Category | Accounting |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139825139-banco-de-talentos-financas) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SunCommunityHealth/744000139825639-finance-officer) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-25.
+This accounting position at Sun Community Health was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

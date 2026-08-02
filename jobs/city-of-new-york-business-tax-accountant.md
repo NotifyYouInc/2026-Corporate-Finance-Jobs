@@ -1,16 +1,16 @@
-# BANCO DE TALENTOS | Finanças at ACCOR
+# Business Tax Accountant at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Accounting |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139825139-banco-de-talentos-financas) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014283046-business-tax-accountant) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-25.
+This accounting position at City of New York was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

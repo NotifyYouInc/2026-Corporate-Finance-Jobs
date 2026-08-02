@@ -1,16 +1,16 @@
-# BANCO DE TALENTOS | Finanças at ACCOR
+# Senior Tax Analyst at Blackbaud
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Company | [Blackbaud](https://scoutify.ai/companies/blackbaud?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Accounting |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139825139-banco-de-talentos-financas) |
+| Apply | [View on company site](https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Hyderabad---India/Senior-Tax-Analyst_R0014491) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-25.
+This accounting position at Blackbaud was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

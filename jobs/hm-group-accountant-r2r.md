@@ -1,16 +1,16 @@
-# Accounting Generalist at ACCOR
+# Accountant-R2R at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Whistler, British Columbia, Canada |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139685409-accounting-generalist) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000139825549-accountant-r2r) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-24.
+This accounting position at H&M Group was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

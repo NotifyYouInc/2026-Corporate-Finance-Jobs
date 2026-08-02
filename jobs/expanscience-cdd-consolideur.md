@@ -1,16 +1,16 @@
-# BANCO DE TALENTOS | Finanças at ACCOR
+# CDD - Consolideur at Expanscience
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Company | [Expanscience](https://scoutify.ai/companies/expanscience?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | France |
 | Category | Accounting |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139825139-banco-de-talentos-financas) |
+| Apply | [View on company site](https://expanscience.wd3.myworkdayjobs.com/expanscience_careers/job/Paris-la-Dfense-France/CDD---Consolideur_JR100240) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-25.
+This accounting position at Expanscience was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 
