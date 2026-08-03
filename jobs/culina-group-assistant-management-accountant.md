@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Culina Group](https://scoutify.ai/companies/culinagroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Skelmersdale, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000116461587-assistant-management-accountant) |
+| Location | United Kingdom |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000139951100-assistant-management-accountant) |
 
 ## About This Role
 
-This corporate finance position at Culina Group was posted on 2026-03-24.
+This accounting position at Culina Group was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

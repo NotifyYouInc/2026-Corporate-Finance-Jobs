@@ -5,12 +5,12 @@
 | Company | [Columbia Sportswear](https://scoutify.ai/companies/columbia-sportswear?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Tokyo-Tokyo-Japan/Sr-Accountant_R-025604) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Tokyo-Tokyo-Japan/Sr-Accountant_R-019873) |
 
 ## About This Role
 
-This accounting position at Columbia Sportswear was posted on 2026-07-17.
+This accounting position at Columbia Sportswear was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

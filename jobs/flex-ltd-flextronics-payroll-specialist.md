@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shenzhen, Guangdong, China |
-| Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Shenzhen/Payroll-Specialist_WD216713) |
+| Location | Israel |
+| Category | Accounting |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Israel-Migdal-Ha-Emek/Payroll-Specialist_WD226149) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-03-09.
+This accounting position at FLEX LTD. Flextronics was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

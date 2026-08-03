@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121522912-senior-manager-leases) |
+| Category | Accounting |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139865939-senior-manager-leases) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-04-17.
+This accounting position at NielsenIQ was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

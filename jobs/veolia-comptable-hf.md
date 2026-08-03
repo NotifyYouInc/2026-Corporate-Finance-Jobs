@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Blainville-sur-Orne, Normandy, France |
 | Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138572529-comptable-hf) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139923309-comptable-hf) |
 
 ## About This Role
 
-This accounting position at Veolia was posted on 2026-07-20.
+This accounting position at Veolia was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

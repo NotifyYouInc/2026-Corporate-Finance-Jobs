@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10479667/tax-analyst-withholding-tax) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484282/tax-analyst-withholding-tax) |
 
 ## About This Role
 
-This accounting position at Amazon was posted on 2026-07-21.
+This accounting position at Amazon was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

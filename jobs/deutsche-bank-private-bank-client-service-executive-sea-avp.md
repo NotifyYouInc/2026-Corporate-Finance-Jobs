@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/Private-Bank---Client-Service-Executive--SEA--AVP_R0442111-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/Private-Bank---Client-Service-Executive--SEA--AVP_R0443823-2) |
 
 ## About This Role
 
-This wealth management / private banking position at Deutsche Bank was posted on 2026-07-10.
+This wealth management / private banking position at Deutsche Bank was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fredley Group of Companies](https://scoutify.ai/companies/fredleygroupofcompanies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FredleyGroupOfCompanies/744000137374600-general-accounting-officer-food-beverages) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FredleyGroupOfCompanies/744000139941679-general-accounting-officer-food-beverages) |
 
 ## About This Role
 
-This accounting position at Fredley Group of Companies was posted on 2026-07-13.
+This accounting position at Fredley Group of Companies was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

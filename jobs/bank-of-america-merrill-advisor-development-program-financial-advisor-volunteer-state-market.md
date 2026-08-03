@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chattanooga/Merrill-Advisor-Development-Program--Financial-Advisor--Volunteer-State-Market_26010923) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chattanooga/Merrill-Advisor-Development-Program--Financial-Advisor--Volunteer-State-Market_26025754-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-24.
+This wealth management / private banking position at Bank of America was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

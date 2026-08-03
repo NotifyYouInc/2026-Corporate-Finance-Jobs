@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sydney-NSW/Precinct-Finance-Manager_REQ491805) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Financial Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Melbourne-VIC/Precinct-Finance-Manager_REQ524446) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-16.
+This financial analyst position at JLL was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

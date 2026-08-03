@@ -5,12 +5,12 @@
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84243) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84178) |
 
 ## About This Role
 
-This accounting position at eClerx was posted on 2026-07-23.
+This accounting position at eClerx was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

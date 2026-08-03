@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Beca](https://scoutify.ai/companies/beca?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Auckland-New-Zealand/Senior-Project-Accountant_JR101774) |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Auckland-New-Zealand/Senior-Project-Accountant_JR101988) |
 
 ## About This Role
 
-This corporate finance position at Beca was posted on 2026-06-10.
+This accounting position at Beca was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

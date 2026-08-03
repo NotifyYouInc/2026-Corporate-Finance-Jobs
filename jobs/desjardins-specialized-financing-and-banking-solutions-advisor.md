@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | 2 locations |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Jonquire/Associ-ou-associe-en-services-financiers_R2608944-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Saint-Jean-sur-Richelieu/Associ-ou-associe-en-services-financiers--Clientle-SSD_R2608868) |
 
 ## About This Role
 
-This wealth management / private banking position at Desjardins was posted on 2026-07-13.
+This wealth management / private banking position at Desjardins was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

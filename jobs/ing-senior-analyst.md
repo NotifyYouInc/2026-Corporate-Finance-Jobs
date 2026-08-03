@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Senior-Analyst_REQ-10118348) |
+| Category | Financial Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Senior-Analyst_REQ-10118659) |
 
 ## About This Role
 
-This accounting position at ING was posted on 2026-07-20.
+This financial analyst position at ING was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

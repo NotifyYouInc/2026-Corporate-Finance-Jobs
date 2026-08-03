@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TAL](https://scoutify.ai/companies/tal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000128105618-manager-strategic-transactions) |
+| Category | Strategy & Operations |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000139912039-manager-strategic-transactions) |
 
 ## About This Role
 
-This corporate finance position at TAL was posted on 2026-05-25.
+This strategy & operations position at TAL was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

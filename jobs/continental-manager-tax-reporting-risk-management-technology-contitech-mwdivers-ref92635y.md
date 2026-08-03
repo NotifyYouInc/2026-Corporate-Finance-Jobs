@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Eschborn, Hesse, Germany |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000135443689-manager-tax-reporting-risk-management-technology-contitech-mwdivers-ref92635y) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000139923839-manager-tax-reporting-risk-management-technology-contitech-mwdivers-ref92635y) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Continental was posted on 2026-07-02.
+This compliance & risk management position at Continental was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

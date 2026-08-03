@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Accountant_R030418) |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Accountant_R031375) |
 
 ## About This Role
 
-This corporate finance position at Ciena was posted on 2026-03-19.
+This accounting position at Ciena was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

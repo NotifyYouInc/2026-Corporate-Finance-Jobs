@@ -1,16 +1,16 @@
-# PROJECT CONTROLLER at SURBANA
+# Project Controller at SURBANA
 
 | Field | Details |
 |-------|---------|
 | Company | [SURBANA](https://scoutify.ai/companies/surbana?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/PROJECT-CONTROLLER_JR115413-2) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/SMEC-Malaysia-Kuala-Lumpur/Project-Controller_JR117886) |
 
 ## About This Role
 
-This corporate finance position at SURBANA was posted on 2026-03-04.
+This accounting position at SURBANA was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
