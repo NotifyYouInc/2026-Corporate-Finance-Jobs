@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cork, Munster, Ireland |
 | Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000139538849-financial-administration-specialist) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000140165499-financial-administration-specialist) |
 
 ## About This Role
 
-This accounting position at Lely was posted on 2026-07-24.
+This accounting position at Lely was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

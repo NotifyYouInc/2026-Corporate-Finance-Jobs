@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000135261912-apprentie-controleurse-de-gestion-pullman-lyon-hf) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000140166979-apprentie-controleurse-de-gestion-pullman-lyon-hf) |
 
 ## About This Role
 
-This fp&a / strategic finance position at ACCOR was posted on 2026-07-01.
+This fp&a / strategic finance position at ACCOR was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

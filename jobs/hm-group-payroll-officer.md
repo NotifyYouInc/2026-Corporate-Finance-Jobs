@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000120013447-payroll-officer) |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000140158301-payroll-officer) |
 
 ## About This Role
 
-This corporate finance position at H&M Group was posted on 2026-04-10.
+This accounting position at H&M Group was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

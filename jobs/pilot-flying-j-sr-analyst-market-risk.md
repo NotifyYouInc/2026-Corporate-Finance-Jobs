@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000135309470-sr-analyst-market-risk) |
+| Category | Corporate Finance |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000140093709-sr-analyst-market-risk) |
 
 ## About This Role
 
-This financial analyst position at Pilot Flying J was posted on 2026-07-01.
+This corporate finance position at Pilot Flying J was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

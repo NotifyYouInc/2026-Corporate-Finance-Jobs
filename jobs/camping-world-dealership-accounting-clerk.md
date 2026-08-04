@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colfax, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Colfax-NC/Dealership-Accounting-Clerk_26_05135) |
+| Location | Manassas, Virginia, United States |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Manassas-VA/Dealership-Accounting-Clerk_26_07237-1) |
 
 ## About This Role
 
-This corporate finance position at Camping World was posted on 2026-05-22.
+This accounting position at Camping World was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

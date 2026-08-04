@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/DC---Washington-20006/Investment-Advisor-III---PNC-Private-Bank_R227051-1) |
+| Location | 9 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15219/Investment-Advisor-III---PNC-Private-Bank_R230451-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-23.
+This wealth management / private banking position at PNC Financial was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

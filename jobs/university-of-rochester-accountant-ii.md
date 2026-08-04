@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Rochester](https://scoutify.ai/companies/university-of-rochester?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rochester, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Saunders-Research-Building/Accountant-II_R271903) |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Strong-Memorial-Hospital/Accountant-II_R273285) |
 
 ## About This Role
 
-This corporate finance position at University of Rochester was posted on 2026-06-04.
+This accounting position at University of Rochester was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

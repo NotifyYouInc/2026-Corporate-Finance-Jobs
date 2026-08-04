@@ -5,12 +5,12 @@
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Bogota-Colombia/Billing-Analyst-II_R2611468) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Bogota-Colombia/Billing-Analyst-II_R2610675) |
 
 ## About This Role
 
-This accounting position at Cencora was posted on 2026-07-07.
+This accounting position at Cencora was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

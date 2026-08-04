@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Dallas-TX/Senior-Private-Banker_R69181) |
+| Location | Cincinnati, Ohio, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Private-Banker_R71095) |
 
 ## About This Role
 
-This corporate finance position at Fifth Third Bank was posted on 2026-06-08.
+This wealth management / private banking position at Fifth Third Bank was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

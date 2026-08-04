@@ -1,16 +1,16 @@
-# Portfolio Senior Analyst - AVP at Deutsche Bank
+# Portfolio Senior Analyst, AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Quant Research |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/Portfolio-Senior-Analyst---AVP_R0442640-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Knowledge-Pk-B1/Portfolio-Senior-Analyst--AVP_R0442118-2) |
 
 ## About This Role
 
-This quant research position at Deutsche Bank was posted on 2026-07-15.
+This asset management / portfolio management position at Deutsche Bank was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

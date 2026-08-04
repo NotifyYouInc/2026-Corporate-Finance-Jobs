@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PL---WROCLAW-GLOBAL-BUSINESS-SERVICES---GBS-PLWCW/AR-Administrator-with-French--m-f-x-_R26022691) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PL---WROCLAW-GLOBAL-BUSINESS-SERVICES---GBS-PLWCW/AR-Administrator-with-French--m-f-x-_R26025297) |
 
 ## About This Role
 
-This accounting position at United Parcel Service (UPS) was posted on 2026-07-03.
+This accounting position at United Parcel Service (UPS) was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Finance Executive (Income Audit) at Marriott International
+# Finance Executive - Income Audit at Marriott International
 
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nadi, Western, Fiji |
+| Location | India |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26087294) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26093652) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-07-15.
+This accounting position at Marriott International was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

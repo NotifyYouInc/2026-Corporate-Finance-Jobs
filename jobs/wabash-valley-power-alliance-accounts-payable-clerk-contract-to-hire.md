@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabash Valley Power Alliance](https://scoutify.ai/companies/wabashvalleypoweralliance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000133077451-accounts-payable-clerk-contract-to-hire) |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000140094069-accounts-payable-clerk-contract-to-hire) |
 
 ## About This Role
 
-This corporate finance position at Wabash Valley Power Alliance was posted on 2026-06-19.
+This accounting position at Wabash Valley Power Alliance was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

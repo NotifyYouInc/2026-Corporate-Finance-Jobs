@@ -1,16 +1,16 @@
-# Staff Accountant - Core Accounting - Finance & Administration at Bloomberg
+# Staff Accountant, Core Accounting - Finance & Administration at Bloomberg
 
 | Field | Details |
 |-------|---------|
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Staff-Accountant-Core-Accounting-Finance-Administration/19828) |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Staff-Accountant-Core-Accounting-Finance-Administration/21079) |
 
 ## About This Role
 
-This corporate finance position at Bloomberg was posted on 2026-05-24.
+This accounting position at Bloomberg was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

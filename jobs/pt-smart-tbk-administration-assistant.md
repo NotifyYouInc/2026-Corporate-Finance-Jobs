@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PT SMART Tbk](https://scoutify.ai/companies/pt-smart-tbk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/Bangka-Barat/Administration-Assistant_R-26000710) |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/Seruyan/Administration-Assistant_R-26001092) |
 
 ## About This Role
 
-This corporate finance position at PT SMART Tbk was posted on 2026-05-18.
+This accounting position at PT SMART Tbk was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

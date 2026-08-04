@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woodward Governor](https://scoutify.ai/companies/woodward?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Niles, Illinois, United States |
+| Location | Rockford, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://woodward.wd5.myworkdayjobs.com/woodward/job/Niles-IL-US/Senior-Financial-Analyst_JR110470-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://woodward.wd5.myworkdayjobs.com/woodward/job/Rockford---Rock-Cut-Campus-RCC/Senior-Financial-Analyst_JR112637) |
 
 ## About This Role
 
-This corporate finance position at Woodward Governor was posted on 2026-04-17.
+This corporate finance position at Woodward Governor was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

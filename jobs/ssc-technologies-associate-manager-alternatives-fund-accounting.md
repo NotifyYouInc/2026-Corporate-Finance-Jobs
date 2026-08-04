@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Dallas-TX/Associate-Manager--Alternatives-Fund-Accounting_R43245) |
+| Location | Windsor, Connecticut, United States |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Windsor-CT/Associate-Manager--Alternatives-Fund-Accounting_R44887) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-06-04.
+This accounting position at SS&C Technologies was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

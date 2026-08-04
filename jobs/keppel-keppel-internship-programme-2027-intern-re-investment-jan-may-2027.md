@@ -5,12 +5,12 @@
 | Company | [Keppel](https://scoutify.ai/companies/keppel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://keppel.wd3.myworkdayjobs.com/keppelcareers/job/Singapore/XMLNAME--Keppel-Internship-Programme-2027--Intern--RE-Investment--Jan---May-2027-_10016247) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://keppel.wd3.myworkdayjobs.com/keppelcareers/job/Singapore/XMLNAME--Keppel-Internship-Programme-2027--Intern--RE-Investment--Jan---May-2027-_10016342) |
 
 ## About This Role
 
-This asset management / portfolio management position at Keppel was posted on 2026-07-27.
+This asset management / portfolio management position at Keppel was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

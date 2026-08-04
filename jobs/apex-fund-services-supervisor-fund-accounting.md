@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Supervisor---Fund-Accounting_JR-0024173) |
+| Location | Makati City, National Capital Region, Philippines |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Makati-City-Ayala-Avenue/Supervisor---Fund-Accounting_JR-0024729) |
 
 ## About This Role
 
-This accounting position at Apex Fund Services was posted on 2026-07-14.
+This venture capital / private equity position at Apex Fund Services was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

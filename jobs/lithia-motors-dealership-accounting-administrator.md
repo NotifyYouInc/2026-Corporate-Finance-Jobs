@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Eugene, Oregon, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Eugene-APC-Eugene-OR-97401/Dealership-Accounting-Administrator_R111561) |
+| Location | Arizona, US |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Remote---AZ/Dealership-Accounting-Administrator_R107489) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-06-24.
+This accounting position at Lithia Motors was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

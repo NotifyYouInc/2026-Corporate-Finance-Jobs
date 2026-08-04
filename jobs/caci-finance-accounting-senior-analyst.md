@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Finance---Accounting-Senior-Analyst_325609-1) |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Finance---Accounting-Senior-Analyst_329101) |
 
 ## About This Role
 
-This corporate finance position at CACI was posted on 2026-05-01.
+This accounting position at CACI was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mountain Brook, Alabama, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Mountain-Brook-AL---Crestline-Branch-Birmingham-AL/Trust-Relationship-Specialist_R101152-1) |
+| Location | Birmingham, Alabama, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Trust-Relationship-Specialist_R104424-1) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-03-17.
+This wealth management / private banking position at Regions Bank was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

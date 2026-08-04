@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/JAKARTA-PONDOK-OFFICE-TOWER/Finance-Business-Partner_545123) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Taiwan---Taipei/Finance-Business-Partner_546615) |
 
 ## About This Role
 
-This corporate finance position at Haleon was posted on 2026-06-12.
+This fp&a / strategic finance position at Haleon was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

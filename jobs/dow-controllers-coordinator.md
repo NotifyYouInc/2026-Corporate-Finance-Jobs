@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Navi Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Controllers-Coordinator_R2064431) |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Controllers-Coordinator_R2066962) |
 
 ## About This Role
 
-This corporate finance position at Dow was posted on 2026-03-18.
+This accounting position at Dow was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

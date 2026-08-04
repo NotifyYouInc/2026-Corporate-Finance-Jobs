@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fib](https://scoutify.ai/companies/fib?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://fib.wd1.myworkdayjobs.com/fibcareers/job/Portland-OR/Credit-Analyst-III_2026-15066) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://fib.wd1.myworkdayjobs.com/fibcareers/job/Great-Falls-MT/Credit-Analyst-III_2026-15413) |
 
 ## About This Role
 
-This corporate finance position at Fib was posted on 2026-05-11.
+This corporate finance position at Fib was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Champions Group Holdings](https://scoutify.ai/companies/championsgroupholdings?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brea, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/championsgroupholdings/jobs/5276882008) |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/championsgroupholdings/jobs/5276884008) |
 
 ## About This Role
 
-This corporate finance position at Champions Group Holdings was posted on 2026-06-23.
+This accounting position at Champions Group Holdings was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clydeco](https://scoutify.ai/companies/clydeco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kansas City, Missouri, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://clydeco.wd103.myworkdayjobs.com/clydecocareers/job/Kansas-City/Billing-Clerk_JR1995) |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://clydeco.wd103.myworkdayjobs.com/clydecocareers/job/Kansas-City/Billing-Clerk_JR2518) |
 
 ## About This Role
 
-This corporate finance position at Clydeco was posted on 2026-05-01.
+This accounting position at Clydeco was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

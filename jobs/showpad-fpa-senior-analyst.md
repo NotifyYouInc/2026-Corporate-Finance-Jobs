@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Showpad](https://scoutify.ai/companies/showpad?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/showpad/jobs/8067565) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/showpad/jobs/8089857) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Showpad was posted on 2026-07-15.
+This fp&a / strategic finance position at Showpad was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

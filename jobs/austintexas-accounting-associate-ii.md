@@ -5,12 +5,12 @@
 | Company | [Austintexas](https://scoutify.ai/companies/austintexas?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/APD-Headquarters/Accounting-Associate-II_JR104536) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Austin-Public-Health/Accounting-Associate-II_JR104534-1) |
 
 ## About This Role
 
-This accounting position at Austintexas was posted on 2026-07-23.
+This accounting position at Austintexas was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

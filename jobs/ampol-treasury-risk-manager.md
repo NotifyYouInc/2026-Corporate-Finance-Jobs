@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ampol](https://scoutify.ai/companies/ampol?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Alexandria, New South Wales, Australia |
-| Category | Compliance & Risk Management |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001258014-treasury-risk-manager) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001263673-treasury-risk-manager) |
 
 ## About This Role
 
-This compliance & risk management position at Ampol was posted on 2026-07-24.
+This treasury & capital markets position at Ampol was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

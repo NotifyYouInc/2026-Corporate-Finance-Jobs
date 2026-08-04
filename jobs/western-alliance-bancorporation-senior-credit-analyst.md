@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/San-Diego-CA/Senior-Credit-Analyst_R13075-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Denver-CO/Senior-Credit-Analyst_R13516) |
 
 ## About This Role
 
-This corporate finance position at Western Alliance Bancorporation was posted on 2026-05-15.
+This corporate finance position at Western Alliance Bancorporation was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

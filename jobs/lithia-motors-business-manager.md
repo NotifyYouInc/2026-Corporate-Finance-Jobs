@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/DTLA-APC-Los-Angeles-CA-90015/Business-Manager_R103653) |
+| Location | Roseville, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Sullivan-APC-Roseville-CA-95661/Business-Manager_R113449) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-03-03.
+This accounting position at Lithia Motors was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

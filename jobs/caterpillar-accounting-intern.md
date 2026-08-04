@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shanghai-Shanghai/Accounting-Intern_R0000364102) |
+| Location | Tianjin, Tianjin, China |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Accounting-Intern_R0000384134) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-04-20.
+This accounting position at Caterpillar was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Financial Group](https://scoutify.ai/companies/gaig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fresno, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Fresno-CA-USA/Crop-Associate-Underwriter_R9110) |
+| Location | Lawrence, Kansas, United States |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Lawrence-KS-USA/Crop-Associate-Underwriter_R9298) |
 
 ## About This Role
 
-This corporate finance position at American Financial Group was posted on 2026-06-12.
+This actuary / insurance analytics position at American Financial Group was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

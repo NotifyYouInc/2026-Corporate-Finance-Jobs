@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Corebridge Financial](https://scoutify.ai/companies/corebridgefinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jersey City, New Jersey, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/NJ-Jersey-City/Sr-Accountant_JR2600288) |
+| Location | London, England, United Kingdom |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/3-St-Helens-Place-London--EC3A-6AB/Sr-Accountant_JR2600761) |
 
 ## About This Role
 
-This corporate finance position at Corebridge Financial was posted on 2026-03-09.
+This accounting position at Corebridge Financial was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

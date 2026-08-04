@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Memphis, Tennessee, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Memphis-TN---6200-Poplar-Avenue/Credit-Products-Commercial-Portfolio-Manager_R103656) |
+| Location | 2 locations |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Ridgeland-MS---Renaissance-Office-Jackson-MS/Credit-Products-Commercial-Portfolio-Manager_R104430-1) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-06-22.
+This asset management / portfolio management position at Regions Bank was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

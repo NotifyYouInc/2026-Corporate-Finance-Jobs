@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/A2R-DPS-Analyst_R-076226-2) |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/A2R-DPS-Analyst_R-090020-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-05-24.
+This accounting position at Johnson & Johnson was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
