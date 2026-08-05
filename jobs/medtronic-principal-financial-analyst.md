@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Financial-Analyst_R72109) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Financial-Analyst_R72648-1) |
 
 ## About This Role
 
-This financial analyst position at Medtronic was posted on 2026-07-19.
+This fp&a / strategic finance position at Medtronic was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

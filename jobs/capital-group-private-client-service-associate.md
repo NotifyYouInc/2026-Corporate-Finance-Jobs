@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/Private-Client-Service-Associate_JR6274) |
+| Location | 2 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Chicago/Private-Client-Service-Associate_JR6845) |
 
 ## About This Role
 
-This corporate finance position at Capital Group was posted on 2026-03-16.
+This wealth management / private banking position at Capital Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

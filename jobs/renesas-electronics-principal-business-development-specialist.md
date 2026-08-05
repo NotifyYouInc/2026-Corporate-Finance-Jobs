@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toyosu, Tokyo, Japan |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118326117-principal-business-development-specialist) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000140366529-principal-business-development-specialist) |
 
 ## About This Role
 
-This corporate finance position at Renesas Electronics was posted on 2026-04-02.
+This sales development (sdr / bdr) position at Renesas Electronics was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

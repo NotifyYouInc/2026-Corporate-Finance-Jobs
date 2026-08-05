@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chandler, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000131759307-project-accountant-construction-administrative-support) |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000140338459-project-accountant-construction-administrative-support) |
 
 ## About This Role
 
-This corporate finance position at Turner & Townsend was posted on 2026-06-11.
+This accounting position at Turner & Townsend was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

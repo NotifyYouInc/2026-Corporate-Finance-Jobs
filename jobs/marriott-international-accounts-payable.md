@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Balikpapan, East Kalimantan, Indonesia |
+| Location | India |
 | Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085050) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26094267) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-07-10.
+This accounting position at Marriott International was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

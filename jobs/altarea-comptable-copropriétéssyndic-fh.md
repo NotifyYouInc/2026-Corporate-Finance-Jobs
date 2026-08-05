@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTAREA](https://scoutify.ai/companies/altarea?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTAREA/744000119054337-comptable-coproprietessyndic-fh) |
+| Location | Nice, Provence-Alpes-Côte d'Azur, France |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTAREA/744000140403141-comptable-coproprietessyndic-fh) |
 
 ## About This Role
 
-This corporate finance position at ALTAREA was posted on 2026-04-07.
+This accounting position at ALTAREA was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

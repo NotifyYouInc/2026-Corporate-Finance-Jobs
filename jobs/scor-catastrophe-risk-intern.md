@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SCOR](https://scoutify.ai/companies/ocs-cx-oj97530?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Hong Kong, Hong Kong |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-01-08 |
-| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4578) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5266) |
 
 ## About This Role
 
-This actuary / insurance analytics position at SCOR was posted on 2026-01-08.
+This actuary / insurance analytics position at SCOR was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

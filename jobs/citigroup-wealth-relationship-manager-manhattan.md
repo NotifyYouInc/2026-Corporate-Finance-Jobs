@@ -1,16 +1,16 @@
-# Wealth Relationship Manager –Manhattan at Citigroup
+# Wealth Relationship Manager - Manhattan at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth-Relationship-Manager--Manhattan_26970867-1) |
+| Category | Account Manager |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth-Relationship-Manager---Manhattan_26971782) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-17.
+This account manager position at Citigroup was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

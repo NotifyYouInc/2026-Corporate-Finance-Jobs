@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cardinal Group](https://scoutify.ai/companies/cardinal-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/car1054cgma/JobBoard/49be3260-4e42-4260-b93e-6c36c2807ea9/OpportunityDetail?opportunityId=17b481f2-623a-48d7-8f01-2023f6ab3789) |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/car1054cgma/JobBoard/49be3260-4e42-4260-b93e-6c36c2807ea9/OpportunityDetail?opportunityId=d41c11c4-1d3d-47b9-a163-019fc2ad9ca3) |
 
 ## About This Role
 
-This corporate finance position at Cardinal Group was posted on 2026-06-11.
+This accounting position at Cardinal Group was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

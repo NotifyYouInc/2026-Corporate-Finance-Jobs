@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Financial Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-1_26975635) |
+| Location | Gurugram, Haryana, India |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Securities---Derivatives-Analyst-1_26981673) |
 
 ## About This Role
 
-This financial analyst position at Citigroup was posted on 2026-07-03.
+This treasury & capital markets position at Citigroup was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

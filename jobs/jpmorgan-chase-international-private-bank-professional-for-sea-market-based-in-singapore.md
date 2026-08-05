@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762165) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774804) |
 
 ## About This Role
 
-This corporate finance position at JPMorgan Chase was posted on 2026-06-26.
+This wealth management / private banking position at JPMorgan Chase was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arco Educação](https://scoutify.ai/companies/arco-educao?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/arcoeducacao/jobs/6099179004) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/arcoeducacao/jobs/6128849004) |
 
 ## About This Role
 
-This corporate finance position at Arco Educação was posted on 2026-06-22.
+This corporate finance position at Arco Educação was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

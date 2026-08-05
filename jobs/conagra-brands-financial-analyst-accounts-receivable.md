@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Omaha, Nebraska, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Financial-Analyst--Accounts-Receivable_Req-037851-1) |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Financial-Analyst--Accounts-Receivable_Req-039420) |
 
 ## About This Role
 
-This corporate finance position at Conagra Brands was posted on 2026-05-11.
+This accounting position at Conagra Brands was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

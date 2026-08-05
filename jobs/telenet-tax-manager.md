@@ -5,12 +5,12 @@
 | Company | [Telenet](https://scoutify.ai/companies/em2-cx-oj105850?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mechelen, Flanders, Belgium |
 | Category | Accounting |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://ebza.fa.em2.oraclecloud.com/jobs/#5355) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ebza.fa.em2.oraclecloud.com/jobs/#5768) |
 
 ## About This Role
 
-This accounting position at Telenet was posted on 2026-06-29.
+This accounting position at Telenet was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

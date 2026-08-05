@@ -5,12 +5,12 @@
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Actuarial-Analyst_J28307) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Valuation-Analyst_J28289) |
 
 ## About This Role
 
-This actuary / insurance analytics position at RGA Reinsurance Company was posted on 2026-07-22.
+This actuary / insurance analytics position at RGA Reinsurance Company was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

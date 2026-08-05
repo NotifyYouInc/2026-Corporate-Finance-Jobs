@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Convera](https://scoutify.ai/companies/convera?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/convera/jobs/4882434101) |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/convera/jobs/4894706101) |
 
 ## About This Role
 
-This corporate finance position at Convera was posted on 2026-06-09.
+This accounting position at Convera was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

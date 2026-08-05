@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toyosu, Tokyo, Japan |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000140178485-staffsr-staff-financial-analyst) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000140379709-staffsr-staff-financial-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Renesas Electronics was posted on 2026-07-28.
+This fp&a / strategic finance position at Renesas Electronics was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

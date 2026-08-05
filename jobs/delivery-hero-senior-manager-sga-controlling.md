@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000139524180-senior-manager-sga-controlling) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000140406884-senior-manager-sga-controlling) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Delivery Hero was posted on 2026-07-24.
+This fp&a / strategic finance position at Delivery Hero was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

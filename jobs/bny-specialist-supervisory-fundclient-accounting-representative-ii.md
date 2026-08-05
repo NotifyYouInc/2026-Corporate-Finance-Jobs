@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#76226) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#80035) |
 
 ## About This Role
 
-This accounting position at BNY was posted on 2026-05-15.
+This accounting position at BNY was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

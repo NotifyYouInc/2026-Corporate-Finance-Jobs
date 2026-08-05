@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Madison-WI-USA/Client-Service-Analyst_R260021733) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Salt-Lake-City-UT-USA/Client-Service-Analyst_R260022204) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of Montreal was posted on 2026-07-24.
+This wealth management / private banking position at Bank of Montreal was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

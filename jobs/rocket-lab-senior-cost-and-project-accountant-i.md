@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rocket Lab](https://scoutify.ai/companies/rocketlab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Albuquerque, New Mexico, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7750358003) |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7819041003) |
 
 ## About This Role
 
-This corporate finance position at Rocket Lab was posted on 2026-05-27.
+This accounting position at Rocket Lab was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

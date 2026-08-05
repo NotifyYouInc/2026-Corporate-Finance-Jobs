@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Associate---Commercial-Real-Estate-Portfolio-Manager_R-526779) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Associate---Commercial-Real-Estate-Portfolio-Manager_R-557573) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-13.
+This asset management / portfolio management position at Wells Fargo was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# General Manager – Finance at Thales
+# General Manager - Finance at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rydalmere, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rydalmere/General-Manager---Finance_R0329795) |
+| Location | 2 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Melbourne/General-Manager---Finance_R0336248) |
 
 ## About This Role
 
-This corporate finance position at Thales was posted on 2026-05-28.
+This fp&a / strategic finance position at Thales was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

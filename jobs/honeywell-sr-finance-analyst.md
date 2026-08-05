@@ -1,16 +1,16 @@
-# Sr Finance Analyst at Honeywell
+# Sr. Finance Analyst at Honeywell
 
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Financial Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#152376) |
+| Location | Shanghai, Shanghai, China |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153503) |
 
 ## About This Role
 
-This financial analyst position at Honeywell was posted on 2026-07-13.
+This fp&a / strategic finance position at Honeywell was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

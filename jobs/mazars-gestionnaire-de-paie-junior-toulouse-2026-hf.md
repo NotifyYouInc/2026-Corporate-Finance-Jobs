@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MAZARS](https://scoutify.ai/companies/mazars?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Labège, Occitanie, France |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000131214409-gestionnaire-de-paie-junior-toulouse-2026-hf) |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000140334529-gestionnaire-de-paie-junior-toulouse-2026-hf) |
 
 ## About This Role
 
-This corporate finance position at MAZARS was posted on 2026-06-09.
+This accounting position at MAZARS was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

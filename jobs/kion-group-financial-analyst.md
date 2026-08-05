@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guadalupe, Nuevo León, Mexico |
-| Category | Financial Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Guadalupe-Mexico/Financial-Analyst_JR-0091311-1) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Mississauga-Canada/Financial-Analyst_JR-0091069-1) |
 
 ## About This Role
 
-This financial analyst position at KION Group was posted on 2026-07-14.
+This corporate finance position at KION Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

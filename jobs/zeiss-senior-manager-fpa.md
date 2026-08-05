@@ -1,16 +1,16 @@
-# Senior Manager – FP&A at Zeiss
+# Senior Manager FP&A at Zeiss
 
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Senior-Manager---FP-A_JR_1050779) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Senior-Manager-FP-A_JR_1051818) |
 
 ## About This Role
 
-This corporate finance position at Zeiss was posted on 2026-06-23.
+This fp&a / strategic finance position at Zeiss was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

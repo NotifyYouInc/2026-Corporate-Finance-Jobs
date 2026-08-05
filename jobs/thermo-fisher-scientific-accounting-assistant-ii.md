@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ottawa, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ottawa-Canada/Accounting-Assistant-II_R-01344864) |
+| Location | Quezon City, National Capital Region, Philippines |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Accounting-Assistant-II_R-01361728) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-17.
+This accounting position at Thermo Fisher Scientific was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

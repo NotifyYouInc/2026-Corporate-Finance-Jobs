@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/BOS-Singapore/Relationship-Manager_JR00006519) |
+| Location | Hong Kong, Hong Kong |
+| Category | Account Manager |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/BOS-Hong-Kong/Relationship-Manager_JR00009862-1) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-03-24.
+This account manager position at OCBC was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

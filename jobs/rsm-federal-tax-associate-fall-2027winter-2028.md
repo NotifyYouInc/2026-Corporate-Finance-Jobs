@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Seattle/Federal-Tax-Associate--Fall-2027-Winter-2028-_JR114929) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Las-Vegas/FY28-Federal-Tax-Associate--Fall-2027-Jan-2028-_JR112687) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-07-27.
+This accounting position at RSM was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuching, Sarawak, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000133972529-analyst-1-finance) |
+| Location | Pasir Gudang, Johor, Malaysia |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000140364673-analyst-1-finance) |
 
 ## About This Role
 
-This corporate finance position at Western Digital was posted on 2026-06-24.
+This fp&a / strategic finance position at Western Digital was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

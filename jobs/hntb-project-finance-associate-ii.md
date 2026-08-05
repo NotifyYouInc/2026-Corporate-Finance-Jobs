@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/Project-Finance-Associate-II_R-30889) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/Project-Finance-Associate-II_R-30925) |
 
 ## About This Role
 
-This accounting position at HNTB was posted on 2026-07-24.
+This accounting position at HNTB was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

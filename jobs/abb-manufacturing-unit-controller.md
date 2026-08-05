@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Xinhui, Inner Mongolia, China |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xinhui-Guangdong-China/Manufacturing-Unit-Controller_JR00030617) |
+| Location | Xiamen, Fujian, China |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Manufacturing-Unit-Controller_JR00042471) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-06-08.
+This accounting position at ABB was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

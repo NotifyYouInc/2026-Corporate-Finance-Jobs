@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Denver, Colorado, United States |
 | Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Minneapolis/Assurance-Associate---Fall-2028_JR120341) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Assurance-Associate---Fall-2028_JR120396) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-07-22.
+This accounting position at RSM was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

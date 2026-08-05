@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maputo, Maputo City, Mozambique |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Maputo-Mozambique/FINANCE-MANAGER_Requisition-2026200895) |
+| Location | Bunia, Ituri, Democratic Republic of the Congo |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Bunia-DRC/FINANCE-MANAGER_Requisition-2026201086) |
 
 ## About This Role
 
-This corporate finance position at Fhi 360 was posted on 2026-06-11.
+This fp&a / strategic finance position at Fhi 360 was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

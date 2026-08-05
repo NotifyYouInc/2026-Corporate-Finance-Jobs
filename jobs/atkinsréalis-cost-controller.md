@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/CABCVancouver745-Thurlow-St/Junior-Cost-Controller_R-159526) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/CACalgaryGreenLine/Cost-Controller_R-160495) |
 
 ## About This Role
 
-This accounting position at AtkinsRéalis was posted on 2026-07-15.
+This accounting position at AtkinsRéalis was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

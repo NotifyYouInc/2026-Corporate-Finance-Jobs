@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PT SMART Tbk](https://scoutify.ai/companies/pt-smart-tbk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/Financial-Planning---Reporting_R-26000450) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/Financial-Planning---Reporting_R-26001072) |
 
 ## About This Role
 
-This corporate finance position at PT SMART Tbk was posted on 2026-03-30.
+This fp&a / strategic finance position at PT SMART Tbk was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

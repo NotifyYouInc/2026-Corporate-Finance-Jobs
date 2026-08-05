@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cleveland, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Advisor-Professional-Development-Program-Private-Client-Advisor-Trainee_R-39268) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Advisor-Professional-Development-Program-Private-Client-Advisor-Trainee_R-41199) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-04-22.
+This wealth management / private banking position at KeyBank was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

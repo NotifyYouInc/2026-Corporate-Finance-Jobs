@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Manager--Valuation_J27065) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Manager--Valuation_J28355) |
 
 ## About This Role
 
-This corporate finance position at RGA Reinsurance Company was posted on 2026-04-21.
+This actuary / insurance analytics position at RGA Reinsurance Company was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

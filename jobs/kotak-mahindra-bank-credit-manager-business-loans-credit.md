@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Rājkot, Gujarat, India |
 | Category | Corporate Finance |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#251244) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#251413) |
 
 ## About This Role
 
-This corporate finance position at Kotak Mahindra Bank was posted on 2026-07-28.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

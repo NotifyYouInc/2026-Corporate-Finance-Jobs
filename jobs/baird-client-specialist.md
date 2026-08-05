@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Grand Rapids, Michigan, United States |
+| Location | Chapel Hill, North Carolina, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/MI-Grand-Rapids/Client-Specialist_R2026808-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/NC-Chapel-Hill/Client-Specialist_R2026809-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Baird was posted on 2026-07-27.
+This wealth management / private banking position at Baird was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

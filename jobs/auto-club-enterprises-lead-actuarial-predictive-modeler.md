@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Coppell, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Lead-Actuarial-Predictive-Modeler_JR202636308) |
+| Location | Costa Mesa, California, United States |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Lead-Actuarial-Predictive-Modeler_JR202638140) |
 
 ## About This Role
 
-This corporate finance position at Auto Club Enterprises was posted on 2026-05-08.
+This actuary / insurance analytics position at Auto Club Enterprises was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

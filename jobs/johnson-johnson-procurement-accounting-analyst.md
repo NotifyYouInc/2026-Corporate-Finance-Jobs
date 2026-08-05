@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/Procurement-Accounting-Analyst_R-076924) |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/Procurement-Accounting-Analyst_R-089809) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-05-23.
+This accounting position at Johnson & Johnson was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

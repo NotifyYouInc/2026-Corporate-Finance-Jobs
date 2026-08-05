@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guangzhou, Guangdong, China |
-| Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/CHN-Guangdong-Guangzhou/Accountant---Record-to-Report_R151303-2) |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/CHN-Guangdong-Guangzhou/Accountant---Record-to-Report_R161362-1) |
 
 ## About This Role
 
-This corporate finance position at Mars was posted on 2026-03-25.
+This accounting position at Mars was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

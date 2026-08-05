@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000113832743-global-ea-finance-business-partner) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000140341758-global-ea-finance-business-partner) |
 
 ## About This Role
 
-This corporate finance position at Turner & Townsend was posted on 2026-03-11.
+This fp&a / strategic finance position at Turner & Townsend was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

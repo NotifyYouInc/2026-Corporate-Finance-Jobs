@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Financial Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Client---Credit--Internship--So-Paulo---Brazil--2026_26978007) |
+| Category | Corporate Finance |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Client---Credit--Internship--So-Paulo---Brazil--2026_26979958) |
 
 ## About This Role
 
-This financial analyst position at Citigroup was posted on 2026-07-15.
+This corporate finance position at Citigroup was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

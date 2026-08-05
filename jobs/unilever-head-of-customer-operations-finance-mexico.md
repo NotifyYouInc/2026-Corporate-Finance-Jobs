@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Col-Bosques-de-las-Lomas-Mexico/Head-of-Customer-Operations-Finance-Mexico_R-1177561) |
+| Location | Col. Bosques de las Lomas, Mexico City, Mexico |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Col-Bosques-de-las-Lomas-Mexico/Head-of-Customer-Operations-Finance-Mexico_R-1185457) |
 
 ## About This Role
 
-This corporate finance position at Unilever was posted on 2026-03-20.
+This fp&a / strategic finance position at Unilever was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
