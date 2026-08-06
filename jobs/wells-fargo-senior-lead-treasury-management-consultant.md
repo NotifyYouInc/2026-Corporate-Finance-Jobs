@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portland, Oregon, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PORTLAND-OR/Senior-Lead-Treasury-Management-Consultant_R-546617) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Treasury-Management-Consultant_R-561744) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-27.
+This treasury & capital markets position at Wells Fargo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

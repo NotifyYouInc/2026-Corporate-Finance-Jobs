@@ -1,16 +1,16 @@
-# VYR. FINANSŲ KONTROLIERĖ (-IUS) at Ignitis Grupe
+# VYR. FINANSŲ KONTROLIERĖ (-IUS)  at Ignitis Grupe
 
 | Field | Details |
 |-------|---------|
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000134411009-vyr-finansu-kontroliere-ius) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000140607041-vyr-finansu-kontroliere-ius) |
 
 ## About This Role
 
-This corporate finance position at Ignitis Grupe was posted on 2026-06-26.
+This fp&a / strategic finance position at Ignitis Grupe was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasadena, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Playhouse-Plaza---Pasadena-CA/Capital-Markets-Servicing-Specialist_R101997-1) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Playhouse-Plaza---Pasadena-CA/Capital-Markets-Servicing-Specialist_R104749) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-04-27.
+This treasury & capital markets position at Regions Bank was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

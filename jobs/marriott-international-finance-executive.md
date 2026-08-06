@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Amritsar, Punjab, India |
+| Location | Kochi, Kerala, India |
 | Category | Accounting |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26093594) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26094953) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-07-28.
+This accounting position at Marriott International was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

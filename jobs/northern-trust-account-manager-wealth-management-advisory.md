@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Miami-FL/Account-Manager--Wealth-Management-Advisory_R148581) |
+| Location | Chicago, Illinois, United States |
+| Category | Account Manager |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Account-Manager--Wealth-Management-Advisory_R158064) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-03-23.
+This account manager position at Northern Trust was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

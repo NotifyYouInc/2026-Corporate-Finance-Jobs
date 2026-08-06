@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chapel Hill, North Carolina, United States |
+| Location | Anchorage, Alaska, United States |
 | Category | Wealth Management / Private Banking |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/NC-Chapel-Hill/Client-Specialist_R2026809-1) |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/AK-Anchorage/Client-Specialist_R2026818-1) |
 
 ## About This Role
 

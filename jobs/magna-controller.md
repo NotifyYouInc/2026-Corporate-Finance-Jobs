@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shepherdsville, Kentucky, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Shepherdsville-Kentucky-US/Controller_R00239554) |
+| Location | Polinyà, Catalonia, Spain |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Polinya-ES/Controller_R00253830) |
 
 ## About This Role
 
-This corporate finance position at Magna was posted on 2026-04-22.
+This accounting position at Magna was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

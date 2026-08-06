@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lake Forest, California, United States |
+| Location | Houston, Texas, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Lake-Forest-IL/Associate-Relationship-Advisor_R158567) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Houston-TX/Associate-Relationship-Advisor_R159061) |
 
 ## About This Role
 
-This wealth management / private banking position at Northern Trust was posted on 2026-07-22.
+This wealth management / private banking position at Northern Trust was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Bangkok-Thailand/Accountant-II_R2611808) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Vilnius-Lithuania/Accountant-II_R2612361) |
 
 ## About This Role
 
-This accounting position at Cencora was posted on 2026-07-22.
+This accounting position at Cencora was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

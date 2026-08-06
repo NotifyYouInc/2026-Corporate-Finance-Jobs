@@ -1,16 +1,16 @@
-# Accounting Administrator at Ayvens
+# Accounting administrator at Ayvens
 
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/LPSC---Bucharest/Accounting-Administrator_JR_10040548-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/LPSC---Bucharest/Accounting-administrator_JR_10040855) |
 
 ## About This Role
 
-This accounting position at Ayvens was posted on 2026-07-06.
+This accounting position at Ayvens was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

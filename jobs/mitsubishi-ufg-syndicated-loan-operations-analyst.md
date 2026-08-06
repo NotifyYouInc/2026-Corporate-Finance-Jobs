@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tampa-FL/Syndicated-Loan-Operations-Analyst_10076742-WD) |
+| Category | Data Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tampa-FL/Syndicated-Loan-Operations-Analyst_10078187-WD) |
 
 ## About This Role
 
-This corporate finance position at Mitsubishi UFG was posted on 2026-06-04.
+This data analyst position at Mitsubishi UFG was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

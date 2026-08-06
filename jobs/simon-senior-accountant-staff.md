@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Simon](https://scoutify.ai/companies/simon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Senior-Accountant--Staff_R13618) |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Senior-Accountant--Staff_R13811) |
 
 ## About This Role
 
-This corporate finance position at Simon was posted on 2026-06-15.
+This accounting position at Simon was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

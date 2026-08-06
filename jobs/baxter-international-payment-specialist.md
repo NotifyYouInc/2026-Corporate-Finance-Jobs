@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Kuala-Lumpur/Payment-Specialist_JR-199044) |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Kuala-Lumpur/Payment-Specialist_JR-206797) |
 
 ## About This Role
 
-This corporate finance position at Baxter International was posted on 2026-03-24.
+This accounting position at Baxter International was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Singapore/Associate---Fund-Accounting-Investor-Services_R44418) |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Singapore/Associate---Fund-Accounting-Investor-Services_R45466) |
 
 ## About This Role
 
-This accounting position at SS&C Technologies was posted on 2026-07-17.
+This venture capital / private equity position at SS&C Technologies was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

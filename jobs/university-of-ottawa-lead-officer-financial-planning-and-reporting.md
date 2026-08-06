@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Ottawa](https://scoutify.ai/companies/university-of-ottawa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Lead-Officer--Financial-Planning-and-Reporting_JR35258) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Lead-Officer--Financial-Planning-and-Reporting_JR38096-1) |
 
 ## About This Role
 
-This corporate finance position at University of Ottawa was posted on 2026-05-21.
+This fp&a / strategic finance position at University of Ottawa was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

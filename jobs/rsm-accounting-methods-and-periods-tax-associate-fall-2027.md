@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Los Angeles, California, United States |
 | Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Accounting-Methods-and-Periods-Tax-Associate---Fall-2027_JR118894) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Los-Angeles/Accounting-Methods-and-Periods-Tax-Associate---Fall-2027_JR120436) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-07-22.
+This accounting position at RSM was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

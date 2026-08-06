@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Manager-Planning-and-Forecasting_REQ255186) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Manager-Planning-and-Forecasting_REQ262593-1) |
 
 ## About This Role
 
-This corporate finance position at Commonwealth Bank of Australia was posted on 2026-03-17.
+This fp&a / strategic finance position at Commonwealth Bank of Australia was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

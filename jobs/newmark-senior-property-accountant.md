@@ -5,12 +5,12 @@
 | Company | [Newmark](https://scoutify.ai/companies/us6-cx-oj75140?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Memphis, Tennessee, United States |
 | Category | Accounting |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://hdow.fa.us6.oraclecloud.com/jobs/#249007) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://hdow.fa.us6.oraclecloud.com/jobs/#249457) |
 
 ## About This Role
 
-This accounting position at Newmark was posted on 2026-06-26.
+This accounting position at Newmark was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

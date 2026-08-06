@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FGS Global](https://scoutify.ai/companies/fgsglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fgsglobal/jobs/5190641007) |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fgsglobal/jobs/5199241007) |
 
 ## About This Role
 
-This fp&a / strategic finance position at FGS Global was posted on 2026-07-20.
+This accounting position at FGS Global was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

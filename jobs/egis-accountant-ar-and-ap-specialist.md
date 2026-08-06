@@ -5,12 +5,12 @@
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000137575284-accountant-ar-and-ap-specialist) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000140590029-accountant-ar-and-ap-specialist) |
 
 ## About This Role
 
-This accounting position at Egis was posted on 2026-07-14.
+This accounting position at Egis was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

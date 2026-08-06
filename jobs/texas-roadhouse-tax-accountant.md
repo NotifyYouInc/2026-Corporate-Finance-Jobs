@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Texas Roadhouse](https://scoutify.ai/companies/texas-roadhouse?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Louisville, Kentucky, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://texasroadhouse.wd12.myworkdayjobs.com/externaljobboard/job/Support-Center/Tax-Accountant_JR003656) |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://texasroadhouse.wd12.myworkdayjobs.com/externaljobboard/job/Support-Center/Tax-Accountant_JR004451-1) |
 
 ## About This Role
 
-This corporate finance position at Texas Roadhouse was posted on 2026-04-03.
+This accounting position at Texas Roadhouse was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

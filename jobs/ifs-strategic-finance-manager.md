@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000133071013-strategic-finance-manager) |
+| Location | United Kingdom |
+| Category | Strategy & Operations |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000140630449-strategic-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at IFS was posted on 2026-06-19.
+This strategy & operations position at IFS was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

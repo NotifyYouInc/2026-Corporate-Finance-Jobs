@@ -5,12 +5,12 @@
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Charlotte-NC---1021-Morehead-Medical-Dr/Financial-Analyst-Senior_R233940) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Charlotte-NC---4400-Golf-Acres-Dr/Financial-Analyst-Senior_R257020) |
 
 ## About This Role
 
-This corporate finance position at Advocate Health was posted on 2026-05-18.
+This corporate finance position at Advocate Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

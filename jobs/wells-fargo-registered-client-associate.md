@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Naperville, Illinois, United States |
+| Location | Roswell, Georgia, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NAPERVILLE-IL/Registered-Client-Associate_R-562877) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ROSWELL-GA/Registered-Client-Associate_R-563932-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Wells Fargo was posted on 2026-07-25.
+This wealth management / private banking position at Wells Fargo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/XMLNAME---_JR8470) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/XMLNAME---_JR8713) |
 
 ## About This Role
 
-This actuary / insurance analytics position at CTBC Financial Holding was posted on 2026-07-03.
+This actuary / insurance analytics position at CTBC Financial Holding was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

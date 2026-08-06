@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
-| Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138791010-accountant-3-fund-accounting) |
+| Location | Hyderabad, Telangana, India |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000140599599-accountant-3-fund-accounting) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-21.
+This venture capital / private equity position at IQ-EQ was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

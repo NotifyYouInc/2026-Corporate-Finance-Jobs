@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott Vacations Worldwide](https://scoutify.ai/companies/mymvw?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Manager-Income-Tax-Accounting---Compliance_JR90030-1) |
+| Location | United States |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Manager-Income-Tax-Accounting---Compliance_JR91002-1) |
 
 ## About This Role
 
-This corporate finance position at Marriott Vacations Worldwide was posted on 2026-04-29.
+This accounting position at Marriott Vacations Worldwide was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

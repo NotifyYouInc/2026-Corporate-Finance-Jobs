@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5888636004) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6130305004) |
 
 ## About This Role
 
-This corporate finance position at BTG Pactual was posted on 2026-04-09.
+This asset management / portfolio management position at BTG Pactual was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

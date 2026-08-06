@@ -1,16 +1,16 @@
-# Accounting Specialist – Distribution & Private Equity (DFS)  at Intact
+# Accounting Specialist – Distribution & Private Equity (DFS) at Intact
 
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Spcialiste-comptable---Distribution-et-placements-privs_R153223) |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Accounting-Specialist---Distribution---Private-Equity--DFS-_R154871) |
 
 ## About This Role
 
-This corporate finance position at Intact was posted on 2026-05-15.
+This venture capital / private equity position at Intact was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

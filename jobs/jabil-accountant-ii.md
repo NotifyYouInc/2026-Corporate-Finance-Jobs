@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Cristóbal, Táchira, Venezuela |
+| Location | Memphis, Tennessee, United States |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Cristobal/Accountant-II_J2457580) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Accountant-II_J2458864) |
 
 ## About This Role
 
-This accounting position at Jabil was posted on 2026-07-14.
+This accounting position at Jabil was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

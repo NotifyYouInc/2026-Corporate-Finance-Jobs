@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gelang Patah, Johor, Malaysia |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Malaysia-Johor-Gelang-Patah-81550/Assistant---FinOps_R188118-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Malaysia-Johor-Gelang-Patah-81550/Assistant---FinOps_R190747-1) |
 
 ## About This Role
 
-This accounting position at A.P. Moller - Maersk was posted on 2026-07-14.
+This accounting position at A.P. Moller - Maersk was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

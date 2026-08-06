@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everest](https://scoutify.ai/companies/everestre?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/Mexico-City-Mexico/Underwriter-I--Insurance_R7280) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/Mexico-City-Mexico/Underwriter-I--Insurance_R7362) |
 
 ## About This Role
 
-This corporate finance position at Everest was posted on 2026-06-16.
+This actuary / insurance analytics position at Everest was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

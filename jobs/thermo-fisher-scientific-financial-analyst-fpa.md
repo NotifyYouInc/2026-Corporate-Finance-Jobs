@@ -1,16 +1,16 @@
-# Financial Analyst (FP&A) at Thermo Fisher Scientific
+# Financial Analyst - FP&A at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Gangnam-gu-Korea-Republic-of/Financial-Analyst--FP-A-_R-01354337-1) |
+| Location | Mississauga, Ontario, Canada |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mississauga-Canada/Financial-Analyst---FP-A_R-01362135) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-06-02.
+This fp&a / strategic finance position at Thermo Fisher Scientific was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

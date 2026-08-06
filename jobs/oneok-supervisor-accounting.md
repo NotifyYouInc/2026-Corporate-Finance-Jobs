@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oneok](https://scoutify.ai/companies/oneok?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://oneok.wd1.myworkdayjobs.com/oneok/job/Dallas-TX/Supervisor---Accounting_R7851-2) |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://oneok.wd1.myworkdayjobs.com/oneok/job/Dallas-TX/Supervisor---Accounting_R8480-3) |
 
 ## About This Role
 
-This corporate finance position at Oneok was posted on 2026-04-27.
+This accounting position at Oneok was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

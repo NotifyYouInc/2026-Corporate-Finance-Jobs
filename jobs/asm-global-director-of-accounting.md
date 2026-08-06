@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Norwalk, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Norwalk-CT/Director-of-Accounting_R100121258) |
+| Location | Long Beach, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Long-Beach-CA/Director-of-Accounting_R100124233) |
 
 ## About This Role
 
-This corporate finance position at ASM Global was posted on 2026-03-17.
+This accounting position at ASM Global was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

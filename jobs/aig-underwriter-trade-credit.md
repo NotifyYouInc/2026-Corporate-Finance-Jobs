@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Sao-Paulo/Underwriter--Trade-Credit_JR2602068) |
+| Location | Singapore, Singapore |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Singapore/Underwriter--Trade-Credit_JR2602612) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-06-10.
+This actuary / insurance analytics position at AIG was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

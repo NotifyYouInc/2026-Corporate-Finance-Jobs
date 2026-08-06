@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000139202209-senior-accountant-end-to-end-reporting-hybrid-day-1-hmo-2-dependents) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000140593593-senior-accountant-end-to-end-reporting-hybrid-day-1-hmo-2-dependents) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-23.
+This accounting position at IQ-EQ was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

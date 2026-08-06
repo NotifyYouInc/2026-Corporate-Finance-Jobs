@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Clientes-Select-High_Req1590067) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Clientes-Select-High_Req1589006) |
 
 ## About This Role
 
-This wealth management / private banking position at Santander was posted on 2026-07-28.
+This wealth management / private banking position at Santander was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

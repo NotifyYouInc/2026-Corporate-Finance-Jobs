@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Auckland, Auckland, New Zealand |
-| Category | Financial Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Relationship-Associate_JR107572) |
+| Location | Wellington, Wellington Region, New Zealand |
+| Category | Corporate Finance |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Hapori-Pneke/Relationship-Associate_JR107662-1) |
 
 ## About This Role
 
-This financial analyst position at Westpac New Zealand was posted on 2026-07-15.
+This corporate finance position at Westpac New Zealand was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/Finance-Process---Operations-Processor_14429322) |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/Finance-Process---Operations-Processor_14616546) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-28.
+This accounting position at Accenture was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | McKinney, Texas, United States |
+| Location | Tucson, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Sr-Anlyst--Prgrm-Cost-Cntrls_01837835) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-842--1151-E-Hermans-Rd--BLDG-842/Sr-Anlyst--Prgrm-Cost-Cntrls_01862762) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-04-14.
+This corporate finance position at RTX was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

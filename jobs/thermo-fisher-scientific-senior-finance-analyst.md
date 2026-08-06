@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Jakarta-Indonesia/Senior-Finance-Analyst_R-01353138) |
+| Location | Singapore, Singapore |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Senior-Finance-Analyst_R-01361685) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-05-19.
+This fp&a / strategic finance position at Thermo Fisher Scientific was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

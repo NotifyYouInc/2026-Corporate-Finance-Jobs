@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melville, New York, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Melville68-South-Service-Road114011/Associate-Relationship-Manager_20400) |
+| Location | New York City, New York, United States |
+| Category | Account Manager |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/New-York1400-Broadway114025/Associate-Relationship-Manager_20815) |
 
 ## About This Role
 
-This wealth management / private banking position at Flagstar was posted on 2026-07-01.
+This account manager position at Flagstar was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

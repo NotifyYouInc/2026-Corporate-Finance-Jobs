@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Noida---Sector-135/Analyst---Actuarial_R_358837) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Noida---Sector-135/Analyst---Actuarial_R_359977) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Marsh & McLennan Companies was posted on 2026-07-21.
+This actuary / insurance analytics position at Marsh & McLennan Companies was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nanaimo, British Columbia, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/NANAIMO-British-Columbia-Canada/Administrative-Assistant_R-0000180647-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Administrative-Assistant_R-0000182485-2) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-17.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

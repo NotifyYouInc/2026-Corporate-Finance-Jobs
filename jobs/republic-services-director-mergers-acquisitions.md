@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Livonia, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Livonia-MI-USA/Director--Mergers---Acquisitions_R-173820) |
+| Location | San Pablo, California, United States |
+| Category | Corporate Development & M&A |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/San-Pablo-CA-USA/Director--Mergers---Acquisitions_R-180681-1) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-04-23.
+This corporate development & m&a position at Republic Services was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

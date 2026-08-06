@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Springdale, Arkansas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Manager-Finance_R0456369) |
+| Location | Arkansas, US |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Manager-Finance_R0471057) |
 
 ## About This Role
 
-This corporate finance position at Tyson Foods was posted on 2026-04-16.
+This accounting position at Tyson Foods was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

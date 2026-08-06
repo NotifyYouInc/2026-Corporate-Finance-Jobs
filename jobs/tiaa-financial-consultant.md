@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Coralville, Iowa, United States |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Coralville-IA-USA/Financial-Consultant_R260700475-3) |
+| Location | 2 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Financial-Consultant_R260700577-1) |
 
 ## About This Role
 
-This financial advisory & consulting position at TIAA was posted on 2026-07-27.
+This wealth management / private banking position at TIAA was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

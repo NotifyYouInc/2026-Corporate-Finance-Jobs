@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Human Resources / People Ops |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000140404959-senior-payroll-specialist) |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000140603992-senior-payroll-specialist) |
 
 ## About This Role
 
-This human resources / people ops position at WISE was posted on 2026-07-29.
+This accounting position at WISE was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

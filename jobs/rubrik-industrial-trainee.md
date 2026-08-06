@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.8014930?gh_jid=8014930) |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.8083001?gh_jid=8083001) |
 
 ## About This Role
 
-This corporate finance position at Rubrik was posted on 2026-06-29.
+This accounting position at Rubrik was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Brokerage Client Assistant - RCAST at Wells Fargo
+# Brokerage Client Assistant – RCAST at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Brokerage-Client-Assistant---RCAST_R-555033-1) |
+| Location | Las Vegas, Nevada, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LAS-VEGAS-NV/Brokerage-Client-Assistant---RCAST_R-564218) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-23.
+This wealth management / private banking position at Wells Fargo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

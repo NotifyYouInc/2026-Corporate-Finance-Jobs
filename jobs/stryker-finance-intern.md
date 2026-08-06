@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Suzhou, Jiangsu, China |
 | Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Suzhou-China/Finance-Intern_R569213) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Suzhou-China/Finance-Intern_R570147) |
 
 ## About This Role
 
-This accounting position at Stryker was posted on 2026-07-20.
+This accounting position at Stryker was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

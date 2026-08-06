@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Virginia, US |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Program-Cost-Control-Analyst---Level-2_R10233138) |
+| Location | 2 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Program-Cost-Control-Analyst---Level-2_R10242954) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-05-15.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

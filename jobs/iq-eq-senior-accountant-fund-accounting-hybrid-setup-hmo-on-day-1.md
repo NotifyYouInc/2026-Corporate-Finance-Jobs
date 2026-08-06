@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000139202499-senior-accountant-fund-accounting-hybrid-setup-hmo-on-day-1) |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000140592920-senior-accountant-fund-accounting-hybrid-setup-hmo-on-day-1) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-23.
+This venture capital / private equity position at IQ-EQ was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

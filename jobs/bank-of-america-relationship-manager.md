@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Minneapolis/Relationship-Manager_26022867) |
+| Location | Atlanta, Georgia, United States |
+| Category | Account Manager |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Atlanta/Relationship-Manager_26026738) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-07-06.
+This account manager position at Bank of America was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

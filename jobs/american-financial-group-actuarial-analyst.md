@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Financial Group](https://scoutify.ai/companies/gaig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Actuarial-Analyst_R8892) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Actuarial-Analyst_R9301) |
 
 ## About This Role
 
-This corporate finance position at American Financial Group was posted on 2026-04-27.
+This actuary / insurance analytics position at American Financial Group was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

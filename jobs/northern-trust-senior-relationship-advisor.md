@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Stuart, Florida, United States |
+| Location | Austin, Texas, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Stuart-FL/Senior-Relationship-Advisor_R158373) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Austin-TX/Senior-Relationship-Advisor_R158576) |
 
 ## About This Role
 
-This wealth management / private banking position at Northern Trust was posted on 2026-07-22.
+This wealth management / private banking position at Northern Trust was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

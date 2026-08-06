@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Alameda, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Supervisor-Financial-Planning-and-Analysis_31152414-2) |
+| Location | Lake Forest, California, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Supervisor-Financial-Planning-and-Analysis_31156919-1) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-06-16.
+This fp&a / strategic finance position at Abbott was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
