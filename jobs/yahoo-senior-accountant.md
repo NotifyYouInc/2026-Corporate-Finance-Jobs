@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yahoo](https://scoutify.ai/companies/yahoo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/India/Senior-Accountant_JR0026767) |
+| Location | United States |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Senior-Accountant_JR0027396) |
 
 ## About This Role
 
-This corporate finance position at Yahoo was posted on 2026-02-05.
+This accounting position at Yahoo was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

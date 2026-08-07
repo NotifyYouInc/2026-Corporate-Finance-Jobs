@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Senior Lifestyle](https://scoutify.ai/companies/seniorlifestyle?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New Jersey, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorLifestyle1/744000112249097-business-office-assistant) |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorLifestyle1/744000140749997-business-office-assistant) |
 
 ## About This Role
 
-This corporate finance position at Senior Lifestyle was posted on 2026-03-02.
+This accounting position at Senior Lifestyle was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

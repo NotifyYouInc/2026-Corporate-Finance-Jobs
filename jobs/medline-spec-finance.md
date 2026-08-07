@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Spec-Finance_R2612001) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Spec-Finance_R2614951) |
 
 ## About This Role
 
-This corporate finance position at Medline was posted on 2026-06-24.
+This fp&a / strategic finance position at Medline was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

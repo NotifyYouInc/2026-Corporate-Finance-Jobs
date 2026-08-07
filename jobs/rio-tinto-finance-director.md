@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | California, US |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Boron/Finance-Director_R50786) |
+| Location | Boron, California, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Boron/Finance-Director_R62311) |
 
 ## About This Role
 
-This corporate finance position at Rio Tinto was posted on 2026-02-20.
+This fp&a / strategic finance position at Rio Tinto was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

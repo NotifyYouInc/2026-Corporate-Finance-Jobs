@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Knoxville, Tennessee, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000117062387-accounting-associate-accounts-receivable) |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000140754029-accounting-associate-accounts-receivable) |
 
 ## About This Role
 
-This corporate finance position at Pilot Flying J was posted on 2026-03-26.
+This accounting position at Pilot Flying J was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

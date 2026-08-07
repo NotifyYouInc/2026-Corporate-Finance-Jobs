@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empath Health](https://scoutify.ai/companies/empath-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://recruiting.ultipro.com/tid1000/JobBoard/aee20ff8-316e-4349-b3a3-14132b6404e5/OpportunityDetail?opportunityId=d8cea006-45f2-48f8-ae8d-1f6e44d8f620) |
+| Location | Florida, US |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://recruiting.ultipro.com/tid1000/JobBoard/aee20ff8-316e-4349-b3a3-14132b6404e5/OpportunityDetail?opportunityId=83de492c-835b-4de1-81e7-602878b60b0b) |
 
 ## About This Role
 
-This corporate finance position at Empath Health was posted on 2026-05-26.
+This accounting position at Empath Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

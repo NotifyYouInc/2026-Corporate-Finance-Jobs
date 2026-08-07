@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ottawa, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OTTAWA-Ontario-Canada/Associate-Advisor_R-0000177963-2) |
+| Location | Burlington, Ontario, Canada |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BURLINGTON-Ontario-Canada/Associate-Advisor_R-0000182677) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-22.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

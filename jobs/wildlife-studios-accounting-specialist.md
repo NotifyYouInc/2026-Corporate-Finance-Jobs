@@ -5,12 +5,12 @@
 | Company | [Wildlife Studios](https://scoutify.ai/companies/wildlifestudios?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Accounting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wildlifestudios/jobs/8548843002) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wildlifestudios/jobs/8659590002) |
 
 ## About This Role
 
-This accounting position at Wildlife Studios was posted on 2026-07-16.
+This accounting position at Wildlife Studios was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

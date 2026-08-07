@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Albany, New York, United States |
+| Location | Temple Terrace, Florida, United States |
 | Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Albany-CJD-Fiat-Albany-NY-12205/Dealership-Accountant_R113706) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Florida-APC-Temple-Terrace-FL-33637/Dealership-Accountant_R114191) |
 
 ## About This Role
 
-This accounting position at Lithia Motors was posted on 2026-07-24.
+This accounting position at Lithia Motors was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

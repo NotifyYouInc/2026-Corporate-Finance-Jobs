@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NEXTDC](https://scoutify.ai/companies/nextdc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Treasury & Capital Markets |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTDC/744000138553839-treasury-analyst) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTDC/744000140826550-treasury-analyst) |
 
 ## About This Role
 
-This treasury & capital markets position at NEXTDC was posted on 2026-07-20.
+This treasury & capital markets position at NEXTDC was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Whitby, Ontario, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/4-WOODROW-CRTWHITBY/Associate_R-0000182476-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Associate_R-0000182422-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-29.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

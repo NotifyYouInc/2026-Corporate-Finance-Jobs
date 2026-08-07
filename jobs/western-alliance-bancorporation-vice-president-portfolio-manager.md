@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phoenix, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Vice-President--Portfolio-Manager_R12888) |
+| Location | La Mesa, California, United States |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/La-Mesa-CA/Vice-President--Portfolio-Manager_R13541) |
 
 ## About This Role
 
-This corporate finance position at Western Alliance Bancorporation was posted on 2026-04-28.
+This asset management / portfolio management position at Western Alliance Bancorporation was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

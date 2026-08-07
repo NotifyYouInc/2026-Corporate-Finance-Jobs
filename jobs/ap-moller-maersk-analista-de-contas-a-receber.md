@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Santos, São Paulo, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Brazil-So-Paulo-Santos-11060-002/Analista-de-Contas-a-Receber_R180719) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/BrazilSo-PauloSao-Paulo04794-000/Analista-de-Contas-a-Receber_R184881-1) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-05-27.
+This accounting position at A.P. Moller - Maersk was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

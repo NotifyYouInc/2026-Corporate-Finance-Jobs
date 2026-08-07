@@ -1,16 +1,16 @@
-# Credit Advisor - Global Wealth & Investment Management at Bank of America
+# Credit Advisor, Global Wealth & Investment Management at Bank of America
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Los-Angeles/Credit-Advisor---Global-Wealth---Investment-Management_26018567) |
+| Location | New York City, New York, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Credit-Advisor--Global-Wealth---Investment-Management_26026881) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-05-28.
+This wealth management / private banking position at Bank of America was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

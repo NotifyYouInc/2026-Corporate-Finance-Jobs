@@ -1,16 +1,16 @@
-# Accounting Clerk (Full-time) at ACCOR
+# Accounting Clerk | Full-time at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wailea-Makena, Hawaii, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000126410009-accounting-clerk-full-time) |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000140759250-accounting-clerk-full-time) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-13.
+This accounting position at ACCOR was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

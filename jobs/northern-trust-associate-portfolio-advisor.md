@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sarasota, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Sarasota-FL/Associate-Portfolio-Advisor_R156277) |
+| Location | Houston, Texas, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Houston-TX/Associate-Portfolio-Advisor_R159227) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-06-15.
+This wealth management / private banking position at Northern Trust was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

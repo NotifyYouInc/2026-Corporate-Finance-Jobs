@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Atlanta-GA/Financial-Analyst-II_R-29388) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Raleigh-NC-Raleigh-Field/Financial-Analyst-II_R-30944) |
 
 ## About This Role
 
-This corporate finance position at HNTB was posted on 2026-03-09.
+This corporate finance position at HNTB was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

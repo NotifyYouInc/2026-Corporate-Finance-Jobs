@@ -5,12 +5,12 @@
 | Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Accounting |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000136402205-finance-assistant) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000140787499-finance-assistant) |
 
 ## About This Role
 
-This accounting position at Radius was posted on 2026-07-08.
+This accounting position at Radius was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

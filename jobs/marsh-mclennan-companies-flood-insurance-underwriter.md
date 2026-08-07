@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kalispell, Montana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Kalispell---Timberwolf/Flood-Insurance-Underwriter_R_346874) |
+| Location | 6 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Kalispell---Timberwolf/Flood-Insurance-Underwriter_R_359375) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-04-16.
+This actuary / insurance analytics position at Marsh & McLennan Companies was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

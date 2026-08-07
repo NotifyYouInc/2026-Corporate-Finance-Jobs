@@ -5,12 +5,12 @@
 | Company | [Vermeer](https://scoutify.ai/companies/vermeer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pella, Iowa, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Credit-Analyst_REQ-21512-2) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Credit-Analyst_REQ-21812-1) |
 
 ## About This Role
 
-This corporate finance position at Vermeer was posted on 2026-06-09.
+This corporate finance position at Vermeer was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

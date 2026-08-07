@@ -5,12 +5,12 @@
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Jose, California, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8092326?gh_jid=8092326) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8096228?gh_jid=8096228) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Roku was posted on 2026-07-28.
+This fp&a / strategic finance position at Roku was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

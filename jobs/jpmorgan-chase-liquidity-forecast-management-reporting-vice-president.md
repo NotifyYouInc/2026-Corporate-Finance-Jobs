@@ -1,16 +1,16 @@
-# Liquidity Forecast & Management Reporting Vice President at JPMorgan Chase
+# Liquidity Forecast & Management Reporting, Vice President at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771415) |
+| Location | Brooklyn, New York, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675683) |
 
 ## About This Role
 
-This treasury & capital markets position at JPMorgan Chase was posted on 2026-07-22.
+This fp&a / strategic finance position at JPMorgan Chase was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

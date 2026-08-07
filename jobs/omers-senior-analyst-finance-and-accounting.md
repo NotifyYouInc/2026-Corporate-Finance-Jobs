@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Omers](https://scoutify.ai/companies/omers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/Senior-Analyst--Finance-and-Accounting_JR-8075) |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/Senior-Analyst--Finance-and-Accounting_JR-8290) |
 
 ## About This Role
 
-This corporate finance position at Omers was posted on 2026-05-19.
+This accounting position at Omers was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

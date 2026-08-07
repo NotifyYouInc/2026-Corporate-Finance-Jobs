@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000115283675-treasury-analyst) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000140779069-treasury-analyst) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-03-17.
+This treasury & capital markets position at NBCUniversal was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

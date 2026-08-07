@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kingston, Kingston, Jamaica |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000123304449-senior-associate-accounts-receivable-collections) |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000140757583-senior-associate-accounts-receivable-collections) |
 
 ## About This Role
 
-This corporate finance position at Sutherland was posted on 2026-04-27.
+This accounting position at Sutherland was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jackson](https://scoutify.ai/companies/jackson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lansing, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jackson.wd1.myworkdayjobs.com/jackson_careers/job/Lansing-MI/Investment-Accountant-I_REQ-03783) |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jackson.wd1.myworkdayjobs.com/jackson_careers/job/Lansing-MI/Investment-Accountant-I_REQ-03874) |
 
 ## About This Role
 
-This corporate finance position at Jackson was posted on 2026-05-18.
+This accounting position at Jackson was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

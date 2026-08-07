@@ -5,12 +5,12 @@
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Raleigh-NC-Raleigh-Field/Financial-Analyst-I_R-30512) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Raleigh-NC-Raleigh-Field/Financial-Analyst-I_R-30943) |
 
 ## About This Role
 
-This corporate finance position at HNTB was posted on 2026-06-12.
+This corporate finance position at HNTB was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

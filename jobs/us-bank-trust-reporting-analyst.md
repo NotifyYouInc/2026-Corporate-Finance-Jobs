@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Houston-TX/Trust-Reporting-Analyst_2026-0006215) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Boston-MA/Trust-Reporting-Analyst_2026-0022403) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-18.
+This data analyst position at U.S. Bank was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

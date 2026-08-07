@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Melio](https://scoutify.ai/companies/melio?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/melio/jobs/7719441003) |
+| Location | New York City, New York, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/melio/jobs/7822216003) |
 
 ## About This Role
 
-This corporate finance position at Melio was posted on 2026-05-05.
+This fp&a / strategic finance position at Melio was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

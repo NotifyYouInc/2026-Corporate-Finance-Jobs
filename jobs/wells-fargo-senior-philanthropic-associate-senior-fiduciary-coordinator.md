@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westlake Village, California, United States |
+| Location | 2 locations |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WESTLAKE-VILLAGE-CA/Senior-Philanthropic-Associate---Senior-Fiduciary-Coordinator_R-563238) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DALLAS-TX/Senior-Philanthropic-Associate---Senior-Fiduciary-Coordinator_R-561985) |
 
 ## About This Role
 
-This wealth management / private banking position at Wells Fargo was posted on 2026-07-29.
+This wealth management / private banking position at Wells Fargo was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

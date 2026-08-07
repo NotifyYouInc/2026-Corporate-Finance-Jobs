@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Aberdeen Proving Ground, Maryland, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Junior-Business-and-Financial-Operations-Specialist--Group-4-_328812) |
+| Location | Hawaii, US |
+| Category | Corporate Finance |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Junior-Business-and-Financial-Operations-Specialist--Group-4-_329578) |
 
 ## About This Role
 
-This financial analyst position at CACI was posted on 2026-07-24.
+This corporate finance position at CACI was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

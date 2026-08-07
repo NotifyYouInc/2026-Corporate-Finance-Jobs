@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, MY |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/TMD-TAMAN-MIDAH-BR/Wealth-Executive_JR0000025653) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/PNT-PJ-NEW-TOWN-BR/Wealth-Executive_JR0000025724-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Hong Leong Bank was posted on 2026-07-29.
+This wealth management / private banking position at Hong Leong Bank was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

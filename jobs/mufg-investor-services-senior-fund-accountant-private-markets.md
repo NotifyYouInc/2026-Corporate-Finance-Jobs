@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000139362509-senior-fund-accountant-private-markets) |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000140821729-senior-fund-accountant-private-markets) |
 
 ## About This Role
 
-This accounting position at MUFG Investor Services was posted on 2026-07-23.
+This venture capital / private equity position at MUFG Investor Services was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

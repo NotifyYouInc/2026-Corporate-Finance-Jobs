@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Montreal-Quebec-Canada/Senior-Property-Accountant_JR17993) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Vancouver-British-Columbia-Canada/Senior-Property-Accountant_JR18252) |
 
 ## About This Role
 
-This corporate finance position at Colliers was posted on 2026-06-11.
+This accounting position at Colliers was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

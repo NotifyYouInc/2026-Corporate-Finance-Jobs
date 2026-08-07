@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Oshkosh, Wisconsin, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Internal-Audit-Intern_R46423) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Internal-Audit-Intern_R48679) |
 
 ## About This Role
 
-This corporate finance position at Oshkosh was posted on 2026-05-07.
+This compliance & risk management position at Oshkosh was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

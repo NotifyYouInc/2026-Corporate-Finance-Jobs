@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heidelberg Materials](https://scoutify.ai/companies/heidelbergmaterials?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Parramatta, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/AUS--Parramatta--Macquarie-St--PLANT-3751-Aust-Shared-Sevices-Centre/Payroll-Analyst---Parramatta_JR10013952) |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Parramatta-NSW/Payroll-Analyst---Parramatta_JR10017539-1) |
 
 ## About This Role
 
-This corporate finance position at Heidelberg Materials was posted on 2026-03-18.
+This accounting position at Heidelberg Materials was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

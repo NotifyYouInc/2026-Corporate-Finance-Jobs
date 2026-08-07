@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Advisor--Finance-Operations_20177957) |
+| Location | Dublin, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Advisor--Finance-Operations_20184628) |
 
 ## About This Role
 
-This corporate finance position at Cardinal Health was posted on 2026-03-27.
+This accounting position at Cardinal Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

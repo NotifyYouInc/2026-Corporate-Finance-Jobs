@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fuenlabrada, Madrid, Spain |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Fuenlabrada/Finance-Trainee_REQ2026078375) |
+| Location | Querétaro, Chiapas, Mexico |
+| Category | Corporate Finance |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Queretaro/Finance-Trainee_REQ2026077678) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Valeo was posted on 2026-07-13.
+This corporate finance position at Valeo was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

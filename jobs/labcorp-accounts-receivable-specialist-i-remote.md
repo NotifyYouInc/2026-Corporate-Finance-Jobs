@@ -1,16 +1,16 @@
-# Accounts Receivable Specialist I -  Remote at Labcorp
+# Accounts Receivable Specialist I - Remote at Labcorp
 
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Burlington, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Burlington-NC/Accounts-Receivable-Specialist-I----Remote_2541268) |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Burlington-NC/Accounts-Receivable-Specialist-I---Remote_2622464) |
 
 ## About This Role
 
-This corporate finance position at Labcorp was posted on 2026-03-12.
+This accounting position at Labcorp was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Columbia, South Carolina, United States |
+| Location | Madison, Wisconsin, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Columbia-MD/Associate-Financial-Advisor_R-102583) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Madison-WI/Associate-Financial-Advisor_R-102643) |
 
 ## About This Role
 
-This wealth management / private banking position at Wealth Enhancement Group was posted on 2026-07-01.
+This wealth management / private banking position at Wealth Enhancement Group was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Luis Potosí, San Luis Potosí, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Accounts-Payable-Analyst_R0124294) |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Accounts-Payable-Analyst_R0139512) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-03-26.
+This accounting position at Hitachi was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
