@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jasper, Alberta, Canada |
 | Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139165839-assistant-director-finance-and-business-support) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000140960170-assistant-director-finance-and-business-support) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-22.
+This accounting position at ACCOR was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

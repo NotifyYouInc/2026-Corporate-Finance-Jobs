@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000135694600-estagio-em-fpa) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000140945419-estagio-em-fpa) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Dr. Reddy's Laboratories was posted on 2026-07-03.
+This fp&a / strategic finance position at Dr. Reddy's Laboratories was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

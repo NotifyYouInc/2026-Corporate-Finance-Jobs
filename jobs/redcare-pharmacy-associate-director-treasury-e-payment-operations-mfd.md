@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Treasury & Capital Markets |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000135756664-associate-director-treasury-e-payment-operations-mfd) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000140943739-associate-director-treasury-e-payment-operations-mfd) |
 
 ## About This Role
 
-This treasury & capital markets position at Redcare Pharmacy was posted on 2026-07-03.
+This treasury & capital markets position at Redcare Pharmacy was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

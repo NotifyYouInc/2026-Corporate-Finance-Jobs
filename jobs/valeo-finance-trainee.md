@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Querétaro, Chiapas, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Queretaro/Finance-Trainee_REQ2026077678) |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/San-Luis-Potosi/Finance-Trainee_REQ2026079355) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-07-30.
+This accounting position at Valeo was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

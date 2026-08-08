@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saratoga Springs, New York, United States |
+| Location | Jupiter, Florida, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Saratoga-Springs/Registered-Wealth-Management-Client-Associate_26026305-2) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jupiter/Registered-Wealth-Management-Client-Associate_26027131) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-07-27.
+This wealth management / private banking position at Bank of America was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

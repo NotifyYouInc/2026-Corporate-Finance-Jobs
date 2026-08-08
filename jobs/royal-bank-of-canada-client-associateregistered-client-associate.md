@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Stillwater, Oklahoma, United States |
+| Location | Leawood, Kansas, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Stillwater-Minnesota-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000182711) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Leawood-Kansas-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000182770) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-30.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

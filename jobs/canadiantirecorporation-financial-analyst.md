@@ -5,12 +5,12 @@
 | Company | [Canadiantirecorporation](https://scoutify.ai/companies/canadiantirecorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Toronto-ON/Financial-Analyst_JR162254) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Toronto-ON/Financial-Analyst_JR163361) |
 
 ## About This Role
 
-This corporate finance position at Canadiantirecorporation was posted on 2026-06-12.
+This corporate finance position at Canadiantirecorporation was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

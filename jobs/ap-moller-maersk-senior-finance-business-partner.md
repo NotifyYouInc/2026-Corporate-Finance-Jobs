@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-California-Los-Angeles-90731/Senior-Finance-Business-Partner_R182935) |
+| Location | Charlotte, North Carolina, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-North-Carolina-Charlotte-28273/Senior-Finance-Business-Partner_R184185) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-05-29.
+This fp&a / strategic finance position at A.P. Moller - Maersk was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Investment Banking |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Investment-Banking-Senior-Associate---Technology_26972569) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Investment-Banking-Senior-Associate---Technology_26981322) |
 
 ## About This Role
 
-This investment banking position at Citigroup was posted on 2026-07-16.
+This investment banking position at Citigroup was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

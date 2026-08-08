@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 6 locations |
+| Location | 8 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Firstside-Center-Bldg-PA373/Underwriting-Associate---Commercial_R222081-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Firstside-Center-Bldg-PA373/Underwriting-Associate---Commercial_R230645-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-05-12.
+This corporate finance position at PNC Financial was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

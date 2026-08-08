@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Australia |
+| Location | O'Fallon, Missouri, United States |
 | Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Manager--Accounting_R-280999) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager--Accounting_R-286477) |
 
 ## About This Role
 
-This accounting position at Mastercard was posted on 2026-07-20.
+This accounting position at Mastercard was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

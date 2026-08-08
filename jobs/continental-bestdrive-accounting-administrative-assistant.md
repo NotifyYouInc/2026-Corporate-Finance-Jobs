@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Grove City, Ohio, United States |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000135326954-bestdrive-accounting-administrative-assistant) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000140977698-bestdrive-accounting-administrative-assistant) |
 
 ## About This Role
 
-This accounting position at Continental was posted on 2026-07-01.
+This accounting position at Continental was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

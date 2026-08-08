@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aspen Skiing Company](https://scoutify.ai/companies/aspenskiingcompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000120037657-accounts-payable-clerk) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000141002939-accounts-payable-clerk) |
 
 ## About This Role
 
-This corporate finance position at Aspen Skiing Company was posted on 2026-04-10.
+This accounting position at Aspen Skiing Company was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

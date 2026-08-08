@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vistra](https://scoutify.ai/companies/vst?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Analyst--SG-A-Planning_40015270-1) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Analyst--SG-A-Planning_40016392-2) |
 
 ## About This Role
 
-This corporate finance position at Vistra was posted on 2026-03-05.
+This fp&a / strategic finance position at Vistra was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/MX---UPS-CAPITAL-MEXICO-CITY-MX38X/Finance-Specialist_R26014207) |
+| Location | Eindhoven, North Brabant, The Netherlands |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/NL---EINDHOVEN-I-NLEVN/Finance-Specialist_R26026205) |
 
 ## About This Role
 
-This accounting position at United Parcel Service (UPS) was posted on 2026-07-22.
+This fp&a / strategic finance position at United Parcel Service (UPS) was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

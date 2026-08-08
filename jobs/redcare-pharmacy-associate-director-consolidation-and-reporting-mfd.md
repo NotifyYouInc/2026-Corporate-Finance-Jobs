@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000135759919-associate-director-consolidation-and-reporting-mfd) |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000140931989-associate-director-consolidation-and-reporting-mfd) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Redcare Pharmacy was posted on 2026-07-03.
+This accounting position at Redcare Pharmacy was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

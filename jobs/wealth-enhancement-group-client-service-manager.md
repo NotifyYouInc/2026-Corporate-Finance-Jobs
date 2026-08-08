@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | McKinney, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/McKinney-TX/Client-Service-Manager_R-102430) |
+| Location | Jacksonville, Florida, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Jacksonville-FL/Client-Service-Manager_R-102647-1) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-05-05.
+This wealth management / private banking position at Wealth Enhancement Group was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

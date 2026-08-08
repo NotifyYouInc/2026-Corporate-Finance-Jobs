@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Idaho, US |
 | Category | Accounting |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Vancouver-British-Columbia-Canada/Senior-Property-Accountant_JR18252) |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Idaho-United-States-of-America/Senior-Property-Accountant_JR18286) |
 
 ## About This Role
 

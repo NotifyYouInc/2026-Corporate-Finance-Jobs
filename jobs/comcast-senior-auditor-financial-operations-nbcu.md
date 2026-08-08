@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Senior-Auditor--Financial-Operations--NBCU-_R438391) |
+| Location | California, US |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CA---Universal-City-Bldg-1440-10-Univ-City-Plaza/Senior-Auditor--Financial-Operations--NBCU-_R442240) |
 
 ## About This Role
 
-This corporate finance position at Comcast was posted on 2026-05-31.
+This accounting position at Comcast was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cfr](https://scoutify.ai/companies/cfr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pearland, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cfr.wd5.myworkdayjobs.com/buc-careers/job/TX---Pearland/Junior-Internal-Auditor_R4930) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://cfr.wd5.myworkdayjobs.com/buc-careers/job/TX---Pearland/Junior-Internal-Auditor_R5486) |
 
 ## About This Role
 
-This corporate finance position at Cfr was posted on 2026-04-28.
+This compliance & risk management position at Cfr was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

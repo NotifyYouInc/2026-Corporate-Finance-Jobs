@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=7768907) |
+| Location | Mountain View, California, United States |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=8049315) |
 
 ## About This Role
 
-This corporate finance position at Waymo was posted on 2026-03-31.
+This accounting position at Waymo was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

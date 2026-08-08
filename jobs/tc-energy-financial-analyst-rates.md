@@ -1,16 +1,16 @@
-# Financial Analyst, Rates at TC Energy
+# Financial Analyst-Rates at TC Energy
 
 | Field | Details |
 |-------|---------|
 | Company | [TC Energy](https://scoutify.ai/companies/tcenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Financial-Analyst--Rates_JR-10557) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Financial-Analyst-Rates_JR-10569) |
 
 ## About This Role
 
-This corporate finance position at TC Energy was posted on 2026-07-29.
+This corporate finance position at TC Energy was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

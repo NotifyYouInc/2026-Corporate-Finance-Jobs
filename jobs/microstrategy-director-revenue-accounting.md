@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Virginia, US |
 | Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000140758049-director-revenue-accounting) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000140938062-director-revenue-accounting) |
 
 ## About This Role
 
-This accounting position at MicroStrategy was posted on 2026-07-30.
+This accounting position at MicroStrategy was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

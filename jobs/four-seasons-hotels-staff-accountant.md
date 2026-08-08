@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Boston, Massachusetts, United States |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Office-Toronto/Staff-Accountant_REQ10386020) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Boston/Staff-Accountant_REQ10387485-1) |
 
 ## About This Role
 
-This accounting position at Four Seasons Hotels was posted on 2026-07-14.
+This accounting position at Four Seasons Hotels was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

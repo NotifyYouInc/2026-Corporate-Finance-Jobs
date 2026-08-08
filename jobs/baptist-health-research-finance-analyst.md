@@ -5,12 +5,12 @@
 | Company | [Baptist Health](https://scoutify.ai/companies/baptist-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lexington, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://bhs.wd1.myworkdayjobs.com/careers/job/Lexington-KY/Research-Finance-Analyst_R26098745) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://bhs.wd1.myworkdayjobs.com/careers/job/Lexington-KY/Research-Finance-Analyst_R26104736) |
 
 ## About This Role
 
-This corporate finance position at Baptist Health was posted on 2026-06-19.
+This corporate finance position at Baptist Health was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

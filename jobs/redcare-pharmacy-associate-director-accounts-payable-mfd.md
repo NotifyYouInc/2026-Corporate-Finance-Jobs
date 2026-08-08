@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000135923364-associate-director-accounts-payable-mfd) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000140946969-associate-director-accounts-payable-mfd) |
 
 ## About This Role
 
-This accounting position at Redcare Pharmacy was posted on 2026-07-06.
+This accounting position at Redcare Pharmacy was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

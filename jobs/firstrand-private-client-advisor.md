@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Upington, Northern Cape, South Africa |
-| Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Upington/Private-Client-Advisor_R48537) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Private-Client-Advisor_R52254) |
 
 ## About This Role
 
-This corporate finance position at FirstRand was posted on 2026-04-22.
+This wealth management / private banking position at FirstRand was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

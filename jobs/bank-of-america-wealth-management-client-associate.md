@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Frederick, Maryland, United States |
+| Location | Omaha, Nebraska, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Frederick/Wealth-Management-Client-Associate_26026713-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Omaha/Wealth-Management-Client-Associate_26027123) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-07-29.
+This wealth management / private banking position at Bank of America was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000140173479-financial-planning-analysis-reporting) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000140967729-financial-planning-analysis-reporting) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Salomon was posted on 2026-07-28.
+This fp&a / strategic finance position at Salomon was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

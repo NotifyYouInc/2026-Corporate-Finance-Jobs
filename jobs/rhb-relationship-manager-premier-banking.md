@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Selangor, MY |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Selangor/Relationship-Manager--Premier-Banking_JR006530-1) |
+| Location | Johor, MY |
+| Category | Account Manager |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Johor/Relationship-Manager--Premier-Banking_JR006758-1) |
 
 ## About This Role
 
-This wealth management / private banking position at RHB was posted on 2026-07-03.
+This account manager position at RHB was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

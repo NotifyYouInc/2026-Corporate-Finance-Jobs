@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sacramento, California, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Financial-Analyst-IV_R-133951) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Financial-Analyst-IV_R-136691-1) |
 
 ## About This Role
 
-This corporate finance position at Sutter Health was posted on 2026-07-27.
+This corporate finance position at Sutter Health was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

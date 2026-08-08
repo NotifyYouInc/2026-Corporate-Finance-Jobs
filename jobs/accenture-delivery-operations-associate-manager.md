@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Delivery-Operations-Associate-Manager_AIOC-S01652421-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Delivery-Operations-Associate-Manager_AIOC-S01658951-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-06-26.
+This treasury & capital markets position at Accenture was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

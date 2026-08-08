@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Fiduciary-Support-Specialist-II_R0112099) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Fiduciary-Support-Specialist-II_R0117278) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-03-05.
+This wealth management / private banking position at Truist was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guelph, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Guelph-Ontario-CA/Accountant_R00243298) |
+| Location | Hefei, Anhui, China |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Hefei-City-Anhui-CN/Accountant_R00253829) |
 
 ## About This Role
 
-This corporate finance position at Magna was posted on 2026-05-19.
+This accounting position at Magna was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

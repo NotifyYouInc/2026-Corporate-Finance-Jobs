@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irvine, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990013711736-financial-controller-korean-bilingual) |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990014388436-financial-controller-korean-bilingual) |
 
 ## About This Role
 
-This corporate finance position at SBT Global, Inc. was posted on 2026-06-19.
+This accounting position at SBT Global, Inc. was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

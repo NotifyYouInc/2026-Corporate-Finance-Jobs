@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | 7 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/LADS---Engineering-Financial-Analyst---P3----Hybrid-_01843412) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/LADS---Engineering-Financial-Analyst---P3----Hybrid-_01861739) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-05-12.
+This corporate finance position at RTX was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

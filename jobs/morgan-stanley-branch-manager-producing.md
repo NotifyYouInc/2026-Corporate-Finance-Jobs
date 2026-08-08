@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Middleton, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Middleton-Wisconsin-United-States-of-America/Branch-Manager--Non-Producing_JR024753) |
+| Location | Billings, Montana, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Billings-Montana-United-States-of-America/Branch-Manager--Producing_JR038973-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-06-19.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

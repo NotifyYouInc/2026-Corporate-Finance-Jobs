@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milan, Lombardy, Italy |
-| Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000117346767-accounting-specialist) |
+| Location | Italy |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000140943981-accounting-specialist) |
 
 ## About This Role
 
-This corporate finance position at AUTO1 Group was posted on 2026-03-27.
+This accounting position at AUTO1 Group was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

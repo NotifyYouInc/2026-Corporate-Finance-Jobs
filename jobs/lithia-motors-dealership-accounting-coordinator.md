@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Klamath Falls, Oregon, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Klamath-Falls-CJD-Klamath-Falls-OR-97603/Dealership-Accounting-Coordinator_R108685) |
+| Location | Wesley Chapel, Florida, United States |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Wesley-Chapel-Toyota-Wesley-Chapel-FL-33544/Dealership-Accounting-Coordinator_R114236) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-05-16.
+This accounting position at Lithia Motors was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

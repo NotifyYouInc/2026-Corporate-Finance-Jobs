@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | San Francisco, California, United States |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/db867bc3-fdb9-421f-91bb-8ede36f17769) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b6e923e4-beaa-47e2-adfb-830d40d1f02d) |
 
 ## About This Role
 
-This accounting position at Clera was posted on 2026-07-02.
+This accounting position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

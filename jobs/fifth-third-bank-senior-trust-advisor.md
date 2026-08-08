@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dayton, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Dayton-OH/Senior-Trust-Advisor_R68991) |
+| Location | 2 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Raleigh-NC/Senior-Trust-Advisor_R71152) |
 
 ## About This Role
 
-This corporate finance position at Fifth Third Bank was posted on 2026-06-10.
+This wealth management / private banking position at Fifth Third Bank was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

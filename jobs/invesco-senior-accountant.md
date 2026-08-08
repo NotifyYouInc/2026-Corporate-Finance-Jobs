@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Senior-Accountant_R-13801) |
+| Category | Accounting |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Senior-Accountant_R-14833) |
 
 ## About This Role
 
-This corporate finance position at Invesco was posted on 2026-04-21.
+This accounting position at Invesco was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 
