@@ -1,16 +1,16 @@
-# Senior Tax Accountant at MicroStrategy
+# A/R Accounting Coordinator at ASM Global
 
 | Field | Details |
 |-------|---------|
-| Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Virginia, US |
+| Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Cincinnati, Ohio, United States |
 | Category | Accounting |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000140964599-senior-tax-accountant) |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Cincinnati-OH/A-R-Accounting-Coordinator_R100124313) |
 
 ## About This Role
 
-This accounting position at MicroStrategy was posted on 2026-07-31.
+This accounting position at ASM Global was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Accounting |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000140931989-associate-director-consolidation-and-reporting-mfd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000140943770-associate-director-consolidation-and-reporting-mfd) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Accounts Receivable  at ACCOR
+# Accounts Receivable at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nashik, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000134597729-accounts-receivable) |
+| Location | Makkah, Mecca Region, Saudi Arabia |
+| Category | Accounting |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000141069919-accounts-receivable) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-27.
+This accounting position at ACCOR was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

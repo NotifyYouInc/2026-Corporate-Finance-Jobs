@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Howard Beach, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Howard-Beach-NY/Financial-Advisor---Flagstar-Bank_R-049563) |
+| Location | New York, US |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Long-Island-NY/Financial-Advisor---Flagstar-Bank_R-052661-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-03-19.
+This wealth management / private banking position at LPL Financial Holdings was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

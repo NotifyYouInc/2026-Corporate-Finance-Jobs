@@ -1,16 +1,16 @@
-# Senior Tax Accountant at MicroStrategy
+# Assisstant Controller at Ingram Micro
 
 | Field | Details |
 |-------|---------|
-| Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Virginia, US |
+| Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Mississauga, Ontario, Canada |
 | Category | Accounting |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000140964599-senior-tax-accountant) |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mississauga-Canada/Assisstant-Controller_R-116774-1) |
 
 ## About This Role
 
-This accounting position at MicroStrategy was posted on 2026-07-31.
+This accounting position at Ingram Micro was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

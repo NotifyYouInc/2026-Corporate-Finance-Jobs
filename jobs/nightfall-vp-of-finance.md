@@ -1,16 +1,16 @@
-# Financial Controller at Marriott International
+# VP of Finance at Nightfall
 
 | Field | Details |
 |-------|---------|
-| Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indore, Madhya Pradesh, India |
+| Company | [Nightfall](https://scoutify.ai/companies/nightfall-ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Palo Alto, California, United States |
 | Category | FP&A / Strategic Finance |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26096043) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nightfall-ai/5537bebc-0b3e-43eb-a3f1-c4ee6d925468) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Marriott International was posted on 2026-08-01.
+This fp&a / strategic finance position at Nightfall was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

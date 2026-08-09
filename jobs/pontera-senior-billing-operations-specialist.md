@@ -1,16 +1,16 @@
-# Credit Supervisor at ACCOR
+# Senior Billing Operations Specialist at Pontera
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
+| Company | [Pontera](https://scoutify.ai/companies/pontera?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Accounting |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000141065369-credit-supervisor) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pontera/jobs/6132535004) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-01.
+This accounting position at Pontera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

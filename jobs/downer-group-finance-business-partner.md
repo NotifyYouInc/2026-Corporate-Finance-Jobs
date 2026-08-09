@@ -1,16 +1,16 @@
-# Commercial Finance Analyst at Dentsu
+# Finance Business Partner at Downer Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Downer Group](https://scoutify.ai/companies/ocs-cx-oj31911?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Auckland, Auckland, New Zealand |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Singapore/Commercial-Finance-Analyst_R1127174) |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#735101) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Dentsu was posted on 2026-08-01.
+This fp&a / strategic finance position at Downer Group was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

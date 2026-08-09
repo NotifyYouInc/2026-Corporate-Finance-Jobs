@@ -1,16 +1,16 @@
-# Staff Accountant  at ACCOR
+# Staff Accountant at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami Beach, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000133108753-staff-accountant) |
+| Location | Chicago, Illinois, United States |
+| Category | Accounting |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000141079299-staff-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-19.
+This accounting position at ACCOR was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

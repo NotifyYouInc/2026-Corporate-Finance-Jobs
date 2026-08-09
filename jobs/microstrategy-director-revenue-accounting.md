@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Accounting |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000140938062-director-revenue-accounting) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000140964419-director-revenue-accounting) |
 
 ## About This Role
 

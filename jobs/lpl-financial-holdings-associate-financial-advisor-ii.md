@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Farmington, New Mexico, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Farmington-CT---Field-Mgmt/Associate-Financial-Advisor-II_R-048095) |
+| Location | Encino, California, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Encino-CA---Field-Mgmt/Associate-Financial-Advisor-II_R-052603) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-06-03.
+This wealth management / private banking position at LPL Financial Holdings was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Finance Associate at Marriott International
+# Accounts Receivable / Income Auditor - Marriott Executive Apartments Sheikh Zayed Road at Marriott International
 
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Udaipur, Rajasthan, India |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Accounting |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26096021) |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26096036) |
 
 ## About This Role
 

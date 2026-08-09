@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Treasury & Capital Markets |
+| Category | Sales & Trading |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/EM-FX-Trader--Assistant-Vice-President---Markets_R-795437-5) |
 
 ## About This Role
 
-This treasury & capital markets position at State Street was posted on 2026-07-31.
+This sales & trading position at State Street was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

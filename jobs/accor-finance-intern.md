@@ -1,12 +1,12 @@
-# Credit Supervisor at ACCOR
+# Finance Intern at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Accounting |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000141065369-credit-supervisor) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000141069659-finance-intern) |
 
 ## About This Role
 

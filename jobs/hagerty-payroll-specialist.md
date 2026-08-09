@@ -1,16 +1,16 @@
-# Credit Supervisor at ACCOR
+# Payroll Specialist at Hagerty
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
+| Company | [Hagerty](https://scoutify.ai/companies/hagerty?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | United States |
 | Category | Accounting |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000141065369-credit-supervisor) |
+| Apply | [View on company site](https://hagerty.wd5.myworkdayjobs.com/hagerty/job/United-States/Payroll-Specialist_R5342) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-01.
+This accounting position at Hagerty was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

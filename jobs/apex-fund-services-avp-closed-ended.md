@@ -1,16 +1,16 @@
-# Senior Tax Accountant at MicroStrategy
+# AVP – Closed Ended at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
-| Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Virginia, US |
+| Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Accounting |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000140964599-senior-tax-accountant) |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/AVP---Closed-Ended_JR-0018840-1) |
 
 ## About This Role
 
-This accounting position at MicroStrategy was posted on 2026-07-31.
+This accounting position at Apex Fund Services was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

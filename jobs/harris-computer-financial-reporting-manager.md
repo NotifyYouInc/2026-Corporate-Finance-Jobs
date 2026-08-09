@@ -1,16 +1,16 @@
-# Senior Tax Accountant at MicroStrategy
+# Financial Reporting Manager at Harris Computer
 
 | Field | Details |
 |-------|---------|
-| Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Virginia, US |
+| Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Ottawa, Ontario, Canada |
 | Category | Accounting |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000140964599-senior-tax-accountant) |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ottawa-Ontario/Financial-Reporting-Manager_R0044945) |
 
 ## About This Role
 
-This accounting position at MicroStrategy was posted on 2026-07-31.
+This accounting position at Harris Computer was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

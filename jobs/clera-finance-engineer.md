@@ -1,16 +1,16 @@
-# Credit Supervisor at ACCOR
+# Finance Engineer at Clera
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
-| Category | Accounting |
+| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000141065369-credit-supervisor) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/e5727e5f-1214-4a8e-a2a0-f0a81ff62118) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-01.
+This fp&a / strategic finance position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 
