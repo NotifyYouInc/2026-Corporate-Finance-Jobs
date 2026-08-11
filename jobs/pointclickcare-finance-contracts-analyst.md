@@ -5,12 +5,12 @@
 | Company | [Pointclickcare](https://scoutify.ai/companies/pointclickcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.lever.co/pointclickcare/1c6c31d1-746d-4f6e-a0f1-7cd7d5fff68e) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.lever.co/pointclickcare/2ad9ffba-40de-4995-bd62-4af1159eefb7) |
 
 ## About This Role
 
-This corporate finance position at Pointclickcare was posted on 2026-05-27.
+This corporate finance position at Pointclickcare was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

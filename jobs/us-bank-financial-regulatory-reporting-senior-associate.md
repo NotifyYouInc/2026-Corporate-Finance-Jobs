@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Financial---Regulatory-Reporting-Senior-Associate_2026-0002234) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Financial---Regulatory-Reporting-Senior-Associate_2026-0021930) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-04-07.
+This compliance & risk management position at U.S. Bank was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

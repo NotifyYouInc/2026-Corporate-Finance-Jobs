@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brea, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Brea-California---United-States/Client-Service-Associate_R-0011969) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Atlanta-Georgia---United-States/Client-Service-Associate_R-0012304) |
 
 ## About This Role
 
-This wealth management / private banking position at Raymond James Financial was posted on 2026-07-11.
+This wealth management / private banking position at Raymond James Financial was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

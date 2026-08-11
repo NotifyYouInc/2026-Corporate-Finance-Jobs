@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bosch-HomeComfort](https://scoutify.ai/companies/bosch-homecomfort?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wichita, Kansas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/bosch-homecomfort/744000134551990-manager-product-line-controlling-residential) |
+| Location | Dallas, Texas, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bosch-homecomfort/744000141320196-manager-product-line-controlling-residential) |
 
 ## About This Role
 
-This corporate finance position at Bosch-HomeComfort was posted on 2026-06-26.
+This fp&a / strategic finance position at Bosch-HomeComfort was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

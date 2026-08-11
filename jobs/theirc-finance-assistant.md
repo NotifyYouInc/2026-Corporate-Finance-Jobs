@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Theirc](https://scoutify.ai/companies/theirc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/New-York-NY-RAI-USA/Finance-Assistant_JR00002252) |
+| Location | Kousséri, Far North, Cameroon |
+| Category | Accounting |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Kousseri-Cameroon/Finance-Assistant_JR00004418) |
 
 ## About This Role
 
-This corporate finance position at Theirc was posted on 2026-03-03.
+This accounting position at Theirc was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

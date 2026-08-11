@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Tax-Analyst-2_26975907-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Tax-Analyst-2_26981429) |
 
 ## About This Role
 
-This accounting position at Citigroup was posted on 2026-07-02.
+This accounting position at Citigroup was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

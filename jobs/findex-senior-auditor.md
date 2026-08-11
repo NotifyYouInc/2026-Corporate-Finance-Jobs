@@ -1,0 +1,22 @@
+# Senior Auditor at Findex
+
+| Field | Details |
+|-------|---------|
+| Company | [Findex](https://scoutify.ai/companies/ap1-cx-oj37128?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Perth, Western Australia, Australia |
+| Category | Accounting |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5482) |
+
+## About This Role
+
+This accounting position at Findex was posted on 2026-08-04.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

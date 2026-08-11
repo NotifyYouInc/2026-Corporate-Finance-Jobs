@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Petaling-Jaya/Intern--Finance-Accounts--PTP-_JR77903) |
+| Category | Accounting |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Petaling-Jaya/Intern--Finance-Accounts--PTP-_JR79626) |
 
 ## About This Role
 
-This corporate finance position at Electrolux was posted on 2026-06-15.
+This accounting position at Electrolux was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

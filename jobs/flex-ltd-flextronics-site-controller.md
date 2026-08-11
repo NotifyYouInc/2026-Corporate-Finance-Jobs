@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Littleton, Colorado, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-MA-Littleton/Site-Controller_WD217694-1) |
+| Location | Fontana, California, United States |
+| Category | Accounting |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-CA-Fontana/Site-Controller_WD226509-1) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-03-20.
+This accounting position at FLEX LTD. Flextronics was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

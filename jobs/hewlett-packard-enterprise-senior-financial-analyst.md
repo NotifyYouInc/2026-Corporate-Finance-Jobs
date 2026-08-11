@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-Financial-Analyst_1206964) |
+| Location | Tlaquepaque, Jalisco, Mexico |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Tlaquepaque-Jalisco-Mexico/Senior-Financial-Analyst_1210787) |
 
 ## About This Role
 
-This corporate finance position at Hewlett Packard Enterprise was posted on 2026-06-03.
+This fp&a / strategic finance position at Hewlett Packard Enterprise was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

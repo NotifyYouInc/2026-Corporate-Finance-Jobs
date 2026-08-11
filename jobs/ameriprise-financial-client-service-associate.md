@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Naperville, Illinois, United States |
+| Location | Minnetonka, Minnesota, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Naperville-Illinois/Client-Service-Associate_R26_3036) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minnetonka-Minnesota/Client-Service-Associate_R26_3093) |
 
 ## About This Role
 
-This wealth management / private banking position at Ameriprise Financial was posted on 2026-07-29.
+This wealth management / private banking position at Ameriprise Financial was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

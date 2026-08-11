@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cleveland, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/Fiduciary-Advisor-III_R224072-1) |
+| Location | 3 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/Fiduciary-Advisor-III_R230657-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-05-29.
+This wealth management / private banking position at PNC Financial was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

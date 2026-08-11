@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | 2 locations |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Staff-Actuary_R0054742) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Staff-Actuary_R0047471-2) |
 
 ## About This Role
 
-This actuary / insurance analytics position at HCSC was posted on 2026-07-29.
+This actuary / insurance analytics position at HCSC was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manassas, Virginia, United States |
+| Location | Kaysville, Utah, United States |
 | Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Manassas-VA/Dealership-Accounting-Clerk_26_07237-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Kaysville-UT/Dealership-Accounting-Clerk_26_07413) |
 
 ## About This Role
 
-This accounting position at Camping World was posted on 2026-07-27.
+This accounting position at Camping World was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

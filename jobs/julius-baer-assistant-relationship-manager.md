@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Singapore/Assistant-Relationship-Manager_r-18758-1) |
+| Category | Account Manager |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Singapore/Assistant-Relationship-Manager_r-19352-1) |
 
 ## About This Role
 
-This corporate finance position at Julius Baer was posted on 2026-06-18.
+This account manager position at Julius Baer was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

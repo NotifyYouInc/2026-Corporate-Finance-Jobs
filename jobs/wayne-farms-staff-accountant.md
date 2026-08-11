@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayne Farms](https://scoutify.ai/companies/wayne-farms?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mississippi, US |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://waynefarms.wd1.myworkdayjobs.com/waynefarms/job/Mississippi---Hazlehurst-Plant/Staff-Accountant_2026-60186) |
+| Location | Kinston, North Carolina, United States |
+| Category | Accounting |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://waynefarms.wd1.myworkdayjobs.com/waynefarms/job/North-Carolina---Kinston-Plant/Staff-Accountant_2026-65969) |
 
 ## About This Role
 
-This corporate finance position at Wayne Farms was posted on 2026-02-20.
+This accounting position at Wayne Farms was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

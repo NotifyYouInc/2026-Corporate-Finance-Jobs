@@ -5,12 +5,12 @@
 | Company | [University of Southern California](https://scoutify.ai/companies/university-of-southern-california?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/Los-Angeles-CA---Health-Sciences-Campus/Financial-Analyst-I_REQ20173572) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/Los-Angeles-CA---Health-Sciences-Campus/Financial-Analyst-I_REQ20178395) |
 
 ## About This Role
 
-This corporate finance position at University of Southern California was posted on 2026-04-14.
+This corporate finance position at University of Southern California was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

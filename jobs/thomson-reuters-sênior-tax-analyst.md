@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-So-Paulo-So-Paulo/Snior-Tax-Analyst_JREQ200658-1) |
+| Category | Accounting |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-So-Paulo-So-Paulo/Snior-Tax-Analyst_JREQ202387) |
 
 ## About This Role
 
-This corporate finance position at Thomson Reuters was posted on 2026-05-13.
+This accounting position at Thomson Reuters was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

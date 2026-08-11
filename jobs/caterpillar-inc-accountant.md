@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | East Peoria, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Accountant_R0000375446) |
+| Location | Nagar, Rajasthan, India |
+| Category | Accounting |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chhatrapati-Sambhaji-Nagar--Maharashtra/Accountant_R0000384482) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar Inc. was posted on 2026-06-08.
+This accounting position at Caterpillar Inc. was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

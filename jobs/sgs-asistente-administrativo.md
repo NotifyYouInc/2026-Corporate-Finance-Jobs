@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guayaquil, Guayas, Ecuador |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000127758399-asistente-administrativo) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Accounting |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000141343909-asistente-administrativo) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-05-21.
+This accounting position at SGS was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

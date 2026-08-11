@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Globus Medical](https://scoutify.ai/companies/globusmedical?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsylvania, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Pennsylvania---Collegeville/Accounts-Receivable-Collections-Specialist_JR106237) |
+| Location | Collegeville, Pennsylvania, United States |
+| Category | Accounting |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Pennsylvania---Collegeville/Accounts-Receivable-Collections-Specialist_JR107035) |
 
 ## About This Role
 
-This corporate finance position at Globus Medical was posted on 2026-03-25.
+This accounting position at Globus Medical was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sonida Senior Living](https://scoutify.ai/companies/recruiting2-ultipro-com-oj100349?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/cap1017cslc/JobBoard/9a56b039-d57d-4146-9a3f-afcb30f3356f/OpportunityDetail?opportunityId=f40c6d54-95f5-4439-b46f-ce2c8e3d292e) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/cap1017cslc/JobBoard/9a56b039-d57d-4146-9a3f-afcb30f3356f/OpportunityDetail?opportunityId=f8993fea-5fb7-4426-b12e-bae3f0a9db59) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Sonida Senior Living was posted on 2026-04-29.
+This sales development (sdr / bdr) position at Sonida Senior Living was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Finance Executive (Accounts Payable) at Marriott International
+# Finance Executive Accounts Payable at Marriott International
 
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26073332) |
+| Location | Siliguri, West Bengal, India |
+| Category | Accounting |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26097109) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-06-16.
+This accounting position at Marriott International was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

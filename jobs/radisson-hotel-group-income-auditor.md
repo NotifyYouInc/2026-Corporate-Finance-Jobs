@@ -1,16 +1,16 @@
-# Income Auditor  at Radisson Hotel Group
+# Income Auditor at Radisson Hotel Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
-| Category | Corporate Finance |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000126856744-income-auditor) |
+| Location | Fiji |
+| Category | Accounting |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000141412624-income-auditor) |
 
 ## About This Role
 
-This corporate finance position at Radisson Hotel Group was posted on 2026-05-17.
+This accounting position at Radisson Hotel Group was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brevan Howard](https://scoutify.ai/companies/brevanhoward?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | London, England, United Kingdom |
 | Category | Sales & Trading |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Singapore/Trade-Support-Specialist_JR101539) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London-82/Trade-Support-Specialist_JR101535-2) |
 
 ## About This Role
 
-This sales & trading position at Brevan Howard was posted on 2026-07-30.
+This sales & trading position at Brevan Howard was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

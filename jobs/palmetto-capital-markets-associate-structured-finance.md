@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Palmetto](https://scoutify.ai/companies/palmetto?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5249991008) |
+| Location | 2 locations |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5378132008) |
 
 ## About This Role
 
-This corporate finance position at Palmetto was posted on 2026-06-05.
+This treasury & capital markets position at Palmetto was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

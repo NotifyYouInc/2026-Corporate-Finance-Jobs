@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madison, Wisconsin, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Madison-WI/PWM-Private-Wealth-Advisor_2026-0013567) |
+| Location | Cincinnati, Ohio, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/PWM-Private-Wealth-Advisor_2026-0021582-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-05-27.
+This wealth management / private banking position at U.S. Bank was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

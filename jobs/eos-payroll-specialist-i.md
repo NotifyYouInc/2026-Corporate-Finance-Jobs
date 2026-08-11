@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EOS ](https://scoutify.ai/companies/eos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pflugerville, Texas, United States |
+| Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://eosits.com/company/careers/?gh_jid=8652527002) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://eosits.com/company/careers/?gh_jid=8675297002) |
 
 ## About This Role
 
-This accounting position at EOS  was posted on 2026-07-29.
+This accounting position at EOS  was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

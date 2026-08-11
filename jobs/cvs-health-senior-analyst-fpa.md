@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cumberland, Rhode Island, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Senior-Analyst--FP-A_R0915479) |
+| Location | Northbrook, Illinois, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Northbrook/Senior-Analyst--FP-A_R0983744-1) |
 
 ## About This Role
 
-This corporate finance position at CVS Health was posted on 2026-05-28.
+This fp&a / strategic finance position at CVS Health was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Registered Client Service Associate (Boca Raton, FL) at Raymond James Financial
+# Senior Registered Client Service Associate- Boca Raton, FL at Raymond James Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boca Raton, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Boca-Raton-Florida---United-States/Senior-Registered-Client-Service-Associate--Boca-Raton--FL-_R-0011569) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Boca-Raton-Florida---United-States/Senior-Registered-Client-Service-Associate--Boca-Raton--FL_R-0012366) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-06-10.
+This wealth management / private banking position at Raymond James Financial was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

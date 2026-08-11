@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sonīpat, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Account Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#251354) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#252031) |
 
 ## About This Role
 
-This account manager position at Kotak Mahindra Bank was posted on 2026-07-29.
+This account manager position at Kotak Mahindra Bank was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

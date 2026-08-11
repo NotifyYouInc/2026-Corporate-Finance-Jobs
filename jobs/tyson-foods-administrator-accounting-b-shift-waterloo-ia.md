@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Waterloo, Iowa, United States |
 | Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Waterloo-Pork-Plant---Waterloo-Iowa/Administrator-Accounting---B-Shift---Waterloo--IA_R0476143) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Waterloo-Pork-Plant---Waterloo-Iowa/Administrator-Accounting---B-Shift---Waterloo--IA_R0477095) |
 
 ## About This Role
 
-This accounting position at Tyson Foods was posted on 2026-07-29.
+This accounting position at Tyson Foods was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

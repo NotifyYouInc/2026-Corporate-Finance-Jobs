@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Shanghai, Shanghai, China |
 | Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Taipei-Taiwan/Senior-accountant_R0030953) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Shanghai-China/Senior-accountant_R0031039) |
 
 ## About This Role
 
-This accounting position at Solenis was posted on 2026-07-21.
+This accounting position at Solenis was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

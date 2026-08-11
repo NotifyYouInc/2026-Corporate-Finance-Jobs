@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Helenoftroy](https://scoutify.ai/companies/helenoftroy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | El Paso, Texas, United States |
-| Category | Accounting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://helenoftroy.wd503.myworkdayjobs.com/main_hot/job/USA---El-Paso-Texas/Supervisor--AR---Credit-Risk-Management_R0006024) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://helenoftroy.wd503.myworkdayjobs.com/main_hot/job/USA---El-Paso-Texas/Supervisor--AR---Credit-Risk-Management_R0006068) |
 
 ## About This Role
 
-This accounting position at Helenoftroy was posted on 2026-07-16.
+This compliance & risk management position at Helenoftroy was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

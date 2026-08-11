@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Columbia, South Carolina, United States |
+| Location | Chapel Hill, North Carolina, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBIA-SC/Senior-Registered-Client-Associate_R-562696) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHAPEL-HILL-NC/Senior-Registered-Client-Associate_R-564698) |
 
 ## About This Role
 
-This wealth management / private banking position at Wells Fargo was posted on 2026-07-22.
+This wealth management / private banking position at Wells Fargo was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

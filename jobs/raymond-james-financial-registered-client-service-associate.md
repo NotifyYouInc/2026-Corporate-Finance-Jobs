@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Alamos, New Mexico, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Los-Alamos-New-Mexico---United-States/Registered-Client-Service-Associate_R-0010802) |
+| Location | Birmingham, Alabama, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Birmingham-Michigan---United-States/Registered-Client-Service-Associate_R-0012320-1) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-04-24.
+This wealth management / private banking position at Raymond James Financial was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

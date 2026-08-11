@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager--Accounting_R-286477) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Accounting_R-281352) |
 
 ## About This Role
 
-This accounting position at Mastercard was posted on 2026-07-31.
+This accounting position at Mastercard was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

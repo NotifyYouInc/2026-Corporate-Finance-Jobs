@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [World Vision International](https://scoutify.ai/companies/world-vision-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Honiara, Honiara, Solomon Islands |
-| Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/Honiara-Solomon-Islands/Finance-Officer_JR49351) |
+| Location | Laos |
+| Category | Accounting |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/Soukhoumma-ADP-Laos/Finance-Officer_JR51593) |
 
 ## About This Role
 
-This corporate finance position at World Vision International was posted on 2026-04-01.
+This accounting position at World Vision International was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

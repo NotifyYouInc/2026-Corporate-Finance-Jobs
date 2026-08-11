@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Actuarial-Analyst-II_JR188047-1) |
+| Location | 12 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NY-NEW-YORK-ONE-PENN-PLAZA-35TH--36TH-FL/Actuarial-Analyst-II_JR201412) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-05-05.
+This actuary / insurance analytics position at Elevance Health was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

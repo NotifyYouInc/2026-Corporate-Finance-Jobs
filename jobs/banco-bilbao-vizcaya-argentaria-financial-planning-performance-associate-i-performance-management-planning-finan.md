@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/FINANCIAL-PLANNING---PERFORMANCE-ASSOCIATE-I---PERFORMANCE-MANAGEMENT---PLANNING---FINANCIERA_JR00094913) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/FINANCIAL-PLANNING---PERFORMANCE-ASSOCIATE-I---PERFORMANCE-MANAGEMENT---PLANNING---FINANCIERA_JR00107270-1) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-06.
+This human resources / people ops position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

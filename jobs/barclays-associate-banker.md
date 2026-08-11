@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bridgewater-House/Associate-Banker_JR-0000100646) |
+| Location | Germany |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Frankfurt-Taunus-Turm/Associate-Banker_JR-0000120052) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-03-20.
+This wealth management / private banking position at Barclays was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

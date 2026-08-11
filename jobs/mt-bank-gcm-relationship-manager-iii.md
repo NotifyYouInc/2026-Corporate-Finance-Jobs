@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Minneapolis-MN/GCM-Relationship-Manager-III_R83728-2) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Minneapolis-MN/GCM-Relationship-Manager-III_R88791-1) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-03-27.
+This treasury & capital markets position at M&T Bank was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

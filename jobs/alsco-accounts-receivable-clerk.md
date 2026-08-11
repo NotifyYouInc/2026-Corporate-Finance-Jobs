@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alsco](https://scoutify.ai/companies/alsco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pompano Beach, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/als1001alsco/JobBoard/0a8883de-4664-4282-8752-c5658e72bf32/OpportunityDetail?opportunityId=58a9b352-1533-4ef7-9960-4e9b4604a28b) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Accounting |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/als1001alsco/JobBoard/0a8883de-4664-4282-8752-c5658e72bf32/OpportunityDetail?opportunityId=28fea900-c064-4187-a5cc-85a9d08571e7) |
 
 ## About This Role
 
-This corporate finance position at Alsco was posted on 2026-06-06.
+This accounting position at Alsco was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

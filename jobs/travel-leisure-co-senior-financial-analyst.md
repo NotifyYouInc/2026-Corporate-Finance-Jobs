@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Orlando, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Orlando-Corporate-Headquarters/Senior-Financial-Analyst_R-118840) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Orlando-Corporate-Headquarters/Senior-Financial-Analyst_R-126261) |
 
 ## About This Role
 
-This corporate finance position at Travel + Leisure Co. was posted on 2026-03-20.
+This fp&a / strategic finance position at Travel + Leisure Co. was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
