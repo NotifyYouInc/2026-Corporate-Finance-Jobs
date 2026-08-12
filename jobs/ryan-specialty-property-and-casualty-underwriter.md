@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Melville, New York, United States |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/London---UK---Fenchurch/Property-and-Casualty-Underwriter_JR26-4963) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Melville---New-York---Old-Country/Property-and-Casualty-Underwriter_JR26-5018-1) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Ryan Specialty was posted on 2026-07-17.
+This actuary / insurance analytics position at Ryan Specialty was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

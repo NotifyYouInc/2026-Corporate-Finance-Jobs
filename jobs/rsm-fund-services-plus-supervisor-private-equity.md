@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | West Palm Beach, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/West-Palm-Beach/Fund-Services-Plus-Supervisor---Private-Equity_JR119347) |
+| Location | 4 locations |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/New-York/Fund-Services-Plus-Supervisor---Private-Equity_JR120500) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-05-15.
+This venture capital / private equity position at RSM was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

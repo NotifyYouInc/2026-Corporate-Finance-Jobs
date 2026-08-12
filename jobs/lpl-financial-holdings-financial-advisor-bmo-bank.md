@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Des Moines, Iowa, United States |
+| Location | Elgin, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Des-Moines-IA/Financial-Advisor---BMO-Bank_R-049700-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Elgin-IL/Financial-Advisor---BMO-Bank_R-052701-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-03-27.
+This corporate finance position at LPL Financial Holdings was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

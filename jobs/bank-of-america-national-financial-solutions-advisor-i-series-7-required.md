@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lincoln, Nebraska, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Lincoln/National-Financial-Solutions-Advisor-I--Series-7-Required-_26006499) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Riverside/National-Financial-Solutions-Advisor-I--Series-7-Required-_26027546) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-02-26.
+This corporate finance position at Bank of America was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

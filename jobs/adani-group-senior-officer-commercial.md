@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adani Group](https://scoutify.ai/companies/em2-cx-oj1865?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ahmedabad, Gujarat, India |
-| Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#54871) |
+| Category | Corporate Finance |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#56074) |
 
 ## About This Role
 
-This accounting position at Adani Group was posted on 2026-07-24.
+This corporate finance position at Adani Group was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

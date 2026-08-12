@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wolfville, Nova Scotia, Canada |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WOLFVILLE-Nova-Scotia-Canada/Financial-Advisor_R-0000182889-1) |
+| Location | Port Coquitlam, British Columbia, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PORT-COQUITLAM-British-Columbia-Canada/Financial-Advisor_R-0000182939) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-08-03.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allied Solutions](https://scoutify.ai/companies/alliedsolutions?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Carmel, Indiana, United States |
-| Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Accounting-Associate_R-010912) |
+| Category | Corporate Finance |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Accounting-Associate_R-010988) |
 
 ## About This Role
 
-This accounting position at Allied Solutions was posted on 2026-07-01.
+This corporate finance position at Allied Solutions was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

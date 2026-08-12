@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Luis Potosí, San Luis Potosí, Mexico |
+| Location | Hefei, Anhui, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Finance-Business-Partners-Experienced-Professional_R0122699) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hefei-Anhui-China/Finance-Business-Partners-Experienced-Professional_R0138658) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-04-06.
+This corporate finance position at Hitachi was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

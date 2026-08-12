@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Actuarial-Analyst-I_R12913) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Actuarial-Analyst-I_R13357) |
 
 ## About This Role
 
-This corporate finance position at CareSource was posted on 2026-06-09.
+This actuary / insurance analytics position at CareSource was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

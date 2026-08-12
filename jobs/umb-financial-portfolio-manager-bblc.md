@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Portfolio-Manager---BBLC_R-8607) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Lubbock-TX/Portfolio-Manager---BBLC_R-9182) |
 
 ## About This Role
 
-This corporate finance position at UMB Financial was posted on 2026-04-29.
+This corporate finance position at UMB Financial was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

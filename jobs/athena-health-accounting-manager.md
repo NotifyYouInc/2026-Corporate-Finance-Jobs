@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Accounting-Manager_R14672) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Accounting-Manager_R15330) |
 
 ## About This Role
 
-This corporate finance position at Athena Health was posted on 2026-03-18.
+This corporate finance position at Athena Health was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

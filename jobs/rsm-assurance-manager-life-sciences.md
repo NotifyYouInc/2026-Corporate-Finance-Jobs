@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Raleigh/Assurance-Manager---Life-Sciences_JR119877) |
+| Location | Toronto, Ontario, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/Assurance-Manager---Life-Sciences_JR120505) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-07-10.
+This corporate finance position at RSM was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

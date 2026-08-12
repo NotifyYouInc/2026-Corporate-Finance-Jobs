@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Investment-Consultant-II---Merrill-Premium_26003543) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Riverside/Investment-Consultant-II---Merrill-Premium_26027418) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-21.
+This corporate finance position at Bank of America was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

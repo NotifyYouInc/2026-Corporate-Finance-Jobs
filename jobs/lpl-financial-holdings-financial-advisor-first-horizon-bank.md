@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Little Rock, Arkansas, United States |
+| Location | Mobile, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Little-Rock-AR/Financial-Advisor---First-Horizon-Bank_R-050610-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Mobile-AL/Financial-Advisor---First-Horizon-Bank_R-052704) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-05-11.
+This corporate finance position at LPL Financial Holdings was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

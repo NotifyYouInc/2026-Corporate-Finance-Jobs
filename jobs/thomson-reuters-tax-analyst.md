@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Frisco, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Tax-Analyst_JREQ199778) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Tax-Analyst_JREQ202419) |
 
 ## About This Role
 
-This corporate finance position at Thomson Reuters was posted on 2026-04-10.
+This corporate finance position at Thomson Reuters was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

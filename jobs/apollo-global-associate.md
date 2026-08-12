@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apollo Global](https://scoutify.ai/companies/athene?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/New-York-City-9-West-57th-Street/Associate_R254502) |
+| Location | London, England, United Kingdom |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/London-United-Kingdom/Associate_R254860-2) |
 
 ## About This Role
 
-This asset management / portfolio management position at Apollo Global was posted on 2026-07-16.
+This venture capital / private equity position at Apollo Global was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

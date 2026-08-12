@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Receivable-Specialist_R2067482) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Corporate Finance |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Sao-Paulo-BRA/Receivable-Specialist_R2067367) |
 
 ## About This Role
 
-This accounting position at Dow was posted on 2026-07-16.
+This corporate finance position at Dow was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

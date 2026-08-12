@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Connecticut, US |
+| Location | Iowa, US |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-REMOTE/Specialist--Government-Accounting_01850166) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-REMOTE/Specialist--Government-Accounting_01864553) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-06-09.
+This corporate finance position at RTX was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

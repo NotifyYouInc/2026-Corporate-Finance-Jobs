@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Agoo, Ilocos, Philippines |
+| Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Agoo-La-Union-PHL/Accounts-Receivables-Associate_R0247207) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bankerohan-Davao-City-PHL/Accounts-Receivables-Associate_R0262342) |
 
 ## About This Role
 
-This corporate finance position at Fresenius Medical Care was posted on 2026-06-03.
+This corporate finance position at Fresenius Medical Care was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

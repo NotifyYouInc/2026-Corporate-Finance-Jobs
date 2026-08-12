@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Chicago-IL/Private-Wealth-Associate_R0018880) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Atlanta-Georgia/Private-Wealth-Associate_R0019427) |
 
 ## About This Role
 
-This corporate finance position at Abglobal was posted on 2026-06-15.
+This corporate finance position at Abglobal was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Brown](https://scoutify.ai/companies/brown?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Providence, Rhode Island, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/121-South-Main-Street/Financial-Coordinator_REQ209538-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/111-Thayer-Street/Financial-Coordinator_REQ210526-1) |
 
 ## About This Role
 
-This corporate finance position at Brown was posted on 2026-06-08.
+This corporate finance position at Brown was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

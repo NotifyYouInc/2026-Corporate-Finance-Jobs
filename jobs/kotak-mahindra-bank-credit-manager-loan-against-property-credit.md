@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Delhi, Delhi, India |
 | Category | Corporate Finance |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#251725) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#252223) |
 
 ## About This Role
 
-This corporate finance position at Kotak Mahindra Bank was posted on 2026-07-31.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

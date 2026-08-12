@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KPMG Nederland](https://scoutify.ai/companies/kpmgnederland?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Amstelveen, North Holland, The Netherlands |
-| Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000128429533-stagiaire-mergers-acquisitions) |
+| Category | Corporate Development & M&A |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000141649739-stagiaire-mergers-acquisitions) |
 
 ## About This Role
 
-This corporate finance position at KPMG Nederland was posted on 2026-05-26.
+This corporate development & m&a position at KPMG Nederland was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

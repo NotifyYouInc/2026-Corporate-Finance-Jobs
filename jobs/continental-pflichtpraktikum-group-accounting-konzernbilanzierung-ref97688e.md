@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
-| Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000139945161-pflichtpraktikum-group-accounting-konzernbilanzierung-ref97688e) |
+| Category | Corporate Finance |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000141643309-pflichtpraktikum-group-accounting-konzernbilanzierung-ref97688e) |
 
 ## About This Role
 
-This accounting position at Continental was posted on 2026-07-27.
+This corporate finance position at Continental was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

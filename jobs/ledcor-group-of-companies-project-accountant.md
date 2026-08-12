@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ledcor Group of Companies](https://scoutify.ai/companies/ledcor-group-of-companies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Boise, Idaho, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Edmonton-AB/Project-Accountant_R28910) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Boise-ID/Project-Accountant_R30156) |
 
 ## About This Role
 
-This corporate finance position at Ledcor Group of Companies was posted on 2026-05-19.
+This corporate finance position at Ledcor Group of Companies was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 6 locations |
+| Location | Springdale, Arkansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/TP-Associate-Accountant_R0460853) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/TP-Associate-Accountant_R0477364) |
 
 ## About This Role
 
-This corporate finance position at Tyson Foods was posted on 2026-05-11.
+This corporate finance position at Tyson Foods was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

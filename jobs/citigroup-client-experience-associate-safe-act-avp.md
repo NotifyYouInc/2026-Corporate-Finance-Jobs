@@ -1,16 +1,16 @@
-# Client Experience Associate SAFE Act, AVP at Citigroup
+# Client Experience Associate SAFE ACT - AVP at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Client-Experience-Associate-SAFE-Act--AVP_26962296) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Atlanta-Georgia-United-States/Client-Experience-Associate-SAFE-ACT---AVP_26984144) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-26.
+This corporate finance position at Citigroup was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

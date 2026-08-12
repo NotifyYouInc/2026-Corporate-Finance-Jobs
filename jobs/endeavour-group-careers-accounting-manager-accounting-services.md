@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
-| Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000137589689-accounting-manager-accounting-services) |
+| Category | Corporate Finance |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000141636580-accounting-manager-accounting-services) |
 
 ## About This Role
 
-This accounting position at Endeavour Group Careers was posted on 2026-07-14.
+This corporate finance position at Endeavour Group Careers was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

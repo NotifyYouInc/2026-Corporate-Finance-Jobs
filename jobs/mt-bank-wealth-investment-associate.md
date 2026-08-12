@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Palm Beach, Florida, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Venture Capital / Private Equity |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Palm-Beach-FL/Wealth-Investment-Associate_R88634-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Boston-MA/Wealth-Investment-Associate_R88774-1) |
 
 ## About This Role
 
-This venture capital / private equity position at M&T Bank was posted on 2026-07-28.
+This venture capital / private equity position at M&T Bank was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

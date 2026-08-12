@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Indore, Madhya Pradesh, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Pasig-NCR-Philippines/Finance-Manager_R_2606_7551) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Indore-India---Remote/Finance-Manager_R_2607_9633) |
 
 ## About This Role
 
-This corporate finance position at TaskUs was posted on 2026-06-10.
+This corporate finance position at TaskUs was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

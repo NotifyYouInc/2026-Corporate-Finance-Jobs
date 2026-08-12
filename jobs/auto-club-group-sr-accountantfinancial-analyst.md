@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Auto Club Group](https://scoutify.ai/companies/acg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Michigan, US |
-| Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://acg.wd1.myworkdayjobs.com/Careers/job/MI-Admin-Office-Building-AOB/Sr-Accountant-Financial-Analyst_JR17078-1) |
+| Category | Corporate Finance |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://acg.wd1.myworkdayjobs.com/Careers/job/MI-Admin-Office-Building-AOB/Sr-Accountant-Financial-Analyst_JR17194) |
 
 ## About This Role
 
-This accounting position at Auto Club Group was posted on 2026-07-23.
+This corporate finance position at Auto Club Group was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

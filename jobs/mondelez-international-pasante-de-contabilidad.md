@@ -5,12 +5,12 @@
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Caracas, Distrito Federal, Venezuela |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Caracas-Venezuela/Pasante-de-Contabilidad_R-162396) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Caracas-Venezuela/Pasante-de-Contabilidad_R-174403-1) |
 
 ## About This Role
 
-This corporate finance position at Mondelez International was posted on 2026-03-10.
+This corporate finance position at Mondelez International was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

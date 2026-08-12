@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Ontario, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Mississauga-Ontario-CA/Assistant-Controller_R00223405) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Newmarket-Ontario-CA/Assistant-Controller_R00255120-1) |
 
 ## About This Role
 
-This corporate finance position at Magna was posted on 2026-05-22.
+This corporate finance position at Magna was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

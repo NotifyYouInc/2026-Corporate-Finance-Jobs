@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000118592515-comptable-general-fh) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000141651189-comptable-general-fh) |
 
 ## About This Role
 
-This corporate finance position at Everience was posted on 2026-04-03.
+This corporate finance position at Everience was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

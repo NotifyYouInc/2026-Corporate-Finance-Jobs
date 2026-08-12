@@ -5,12 +5,12 @@
 | Company | [Alliedreit](https://scoutify.ai/companies/alliedreit?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.lever.co/alliedreit/d6393664-854b-44fd-9c69-1556c529f8fe) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.lever.co/alliedreit/773c9b57-0ddd-4a07-a871-ffc26c203a90) |
 
 ## About This Role
 
-This corporate finance position at Alliedreit was posted on 2026-04-15.
+This corporate finance position at Alliedreit was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

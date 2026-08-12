@@ -5,12 +5,12 @@
 | Company | [Lendlease](https://scoutify.ai/companies/lendlease?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://lendlease.wd3.myworkdayjobs.com/lendleasecareers/job/Sydney---CBD-New-South-Wales-Australia/Senior-Finance-Manager_REQ-7065046) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://lendlease.wd3.myworkdayjobs.com/lendleasecareers/job/Sydney---CBD-New-South-Wales-Australia/Senior-Finance-Manager_REQ-7065545) |
 
 ## About This Role
 
-This corporate finance position at Lendlease was posted on 2026-03-18.
+This corporate finance position at Lendlease was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

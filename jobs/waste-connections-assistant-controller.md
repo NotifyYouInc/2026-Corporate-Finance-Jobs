@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Knoxville, Tennessee, United States |
-| Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/6032-Knoxville-MainYd2400Chpmn/Assistant-Controller_R-101939) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/7300-Vancouver/Assistant-Controller_R-102278-1) |
 
 ## About This Role
 
-This accounting position at Waste Connections was posted on 2026-07-23.
+This corporate finance position at Waste Connections was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toll Group](https://scoutify.ai/companies/toll-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
-| Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Bayan-Lepas/Account-Receivable-Officer_R000077295) |
+| Category | Corporate Finance |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Bayan-Lepas/Account-Receivable-Officer_R000077443) |
 
 ## About This Role
 
-This accounting position at Toll Group was posted on 2026-07-17.
+This corporate finance position at Toll Group was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

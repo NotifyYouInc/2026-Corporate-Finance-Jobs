@@ -1,16 +1,16 @@
-# Aprendiz SENA - Finanzas at Merck
+# Aprendiz SENA Finanzas at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/COL---Cundinamarca---Bogot-Colpatria/Aprendiz-SENA---Finanzas_R394638) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/COL---Cundinamarca---Bogot-Colpatria/Aprendiz-SENA-Finanzas_R410972) |
 
 ## About This Role
 
-This corporate finance position at Merck was posted on 2026-04-20.
+This corporate finance position at Merck was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

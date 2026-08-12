@@ -1,16 +1,16 @@
-#  Senior  Record to Report  Accountant at Flix
+# Senior Record to Report Accountant  at Flix
 
 | Field | Details |
 |-------|---------|
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://flix.careers/job/8634038002?gh_jid=8634038002) |
+| Category | Corporate Finance |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://flix.careers/job/8679963002?gh_jid=8679963002) |
 
 ## About This Role
 
-This accounting position at Flix was posted on 2026-07-15.
+This corporate finance position at Flix was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

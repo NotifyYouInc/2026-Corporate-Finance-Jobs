@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Eden Prairie, Minnesota, United States |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Eden-Prairie-MN/Financial-Representative_R71060) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Southfield-MI/Financial-Representative_R76480-1) |
 
 ## About This Role
 
-This corporate finance position at Sedgwick Group was posted on 2026-02-24.
+This corporate finance position at Sedgwick Group was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

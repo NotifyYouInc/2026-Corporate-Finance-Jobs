@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 6 locations |
+| Location | Cincinnati, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Manager--Accounting---Finance_JR4694-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Cincinnati-OH/Accounting-Manager_JR5066) |
 
 ## About This Role
 
-This corporate finance position at Axos Bank was posted on 2026-05-29.
+This corporate finance position at Axos Bank was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
