@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Financial Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Junior-Financial-Analyst---CAS_WD224920-1) |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Junior-Financial-Analyst---CAS_WD225703) |
 
 ## About This Role
 
-This financial analyst position at FLEX LTD. Flextronics was posted on 2026-07-14.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

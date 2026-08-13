@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Westpac](https://scoutify.ai/companies/ap1-cx-oj118843?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Geelong, Victoria, Australia |
+| Location | Australia |
 | Category | Account Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://ebuu.fa.ap1.oraclecloud.com/jobs/#70305) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ebuu.fa.ap1.oraclecloud.com/jobs/#69875) |
 
 ## About This Role
 
-This account manager position at Westpac was posted on 2026-07-09.
+This account manager position at Westpac was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

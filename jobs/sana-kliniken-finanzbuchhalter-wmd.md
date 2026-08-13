@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sana Kliniken](https://scoutify.ai/companies/ocs-cx-oj94696?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Remscheid, North Rhine-Westphalia, Germany |
-| Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://fa-eycl-saasfaeuraprod1.fa.ocs.oraclecloud.com/jobs/#6807) |
+| Location | Coburg, Bavaria, Germany |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://fa-eycl-saasfaeuraprod1.fa.ocs.oraclecloud.com/jobs/#6949) |
 
 ## About This Role
 
-This accounting position at Sana Kliniken was posted on 2026-07-22.
+This corporate finance position at Sana Kliniken was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

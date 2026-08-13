@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000135273470-assistant-credit-manager-bilingual-english-japanese-speaking) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000141840929-assistant-credit-manager-bilingual-english-japanese-speaking) |
 
 ## About This Role
 
-This accounting position at LinkedIn was posted on 2026-07-01.
+This corporate finance position at LinkedIn was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

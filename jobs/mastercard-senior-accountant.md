@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Accountant_R-286657) |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Accountant_R-287447) |
 
 ## About This Role
 
-This accounting position at Mastercard was posted on 2026-07-31.
+This corporate finance position at Mastercard was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

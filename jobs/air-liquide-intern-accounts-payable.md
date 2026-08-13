@@ -5,12 +5,12 @@
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Malaysia-Petaling-Jaya/Intern--Accounts-Payable_R10089672) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Malaysia-Petaling-Jaya/Intern--Accounts-Payable_R10095687) |
 
 ## About This Role
 
-This corporate finance position at Air Liquide was posted on 2026-04-13.
+This corporate finance position at Air Liquide was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

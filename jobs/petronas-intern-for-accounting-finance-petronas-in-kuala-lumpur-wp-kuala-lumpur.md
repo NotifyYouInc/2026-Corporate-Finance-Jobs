@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Accounting |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29021) |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29472) |
 
 ## About This Role
 
-This accounting position at PETRONAS was posted on 2026-07-28.
+This corporate finance position at PETRONAS was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Wisma-Lee-Rubber/Commercial-Banking-Relationship-Management---AVP_JR00005836) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Commercial-Banking-Relationship-Management---AVP_JR00010042) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-02-20.
+This corporate finance position at OCBC was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Trafigura](https://scoutify.ai/companies/trafigura?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://trafigura.wd3.myworkdayjobs.com/trafiguracareersite/job/Montevideo-Uruguay/Management-Accountant-LATAM_R-018234) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://trafigura.wd3.myworkdayjobs.com/trafiguracareersite/job/Montevideo-Uruguay/Management-Accountant-LATAM_R-018525) |
 
 ## About This Role
 
-This corporate finance position at Trafigura was posted on 2026-06-23.
+This corporate finance position at Trafigura was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IG Group](https://scoutify.ai/companies/ig-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Raffles-Place---Singapore/Customer-Experience-Associate--Cantonese-_R_16253) |
+| Category | Sales & Trading |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Raffles-Place---Singapore/Trainee-Sales-Trader_R_17600) |
 
 ## About This Role
 
-This corporate finance position at IG Group was posted on 2026-04-21.
+This sales & trading position at IG Group was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

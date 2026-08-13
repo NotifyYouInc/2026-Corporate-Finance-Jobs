@@ -5,12 +5,12 @@
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Trianon, South Province, New Caledonia |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Associate-Manager_JR-0023026) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Associate-Manager_JR-0024477) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-05-18.
+This corporate finance position at Apex Fund Services was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Luang Prabang, Luang Prabang Province, Laos |
-| Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139525011-director-of-finance) |
+| Location | Beirut, Beyrouth, Lebanon |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000141843889-director-of-finance) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-24.
+This corporate finance position at ACCOR was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

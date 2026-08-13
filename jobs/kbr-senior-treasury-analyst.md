@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chennai-Tamil-Nadu-India/Senior-Treasury-Analyst_R2124716) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chennai-Tamil-Nadu-India/Senior-Treasury-Analyst_R2127767) |
 
 ## About This Role
 
-This corporate finance position at KBR was posted on 2026-06-08.
+This treasury & capital markets position at KBR was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

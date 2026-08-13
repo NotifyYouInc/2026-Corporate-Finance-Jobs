@@ -5,12 +5,12 @@
 | Company | [Ninjavan](https://scoutify.ai/companies/ninjavan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.lever.co/ninjavan/c234fb87-c993-43bb-8696-3bd024941849) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.lever.co/ninjavan/c9990ab4-258d-41d8-822b-e00456f47875) |
 
 ## About This Role
 
-This corporate finance position at Ninjavan was posted on 2026-04-28.
+This corporate finance position at Ninjavan was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Grants-Accountant_R152164-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Grants-Accountant_R155913-1) |
 
 ## About This Role
 
-This corporate finance position at The Ohio State University was posted on 2026-06-09.
+This corporate finance position at The Ohio State University was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

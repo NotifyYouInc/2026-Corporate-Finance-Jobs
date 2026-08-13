@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000136132079-senior-finance-accounting-analyst) |
+| Location | Vietnam |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000141854519-senior-finance-accounting-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Informa was posted on 2026-07-07.
+This corporate finance position at Informa was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

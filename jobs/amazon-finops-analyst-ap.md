@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426225/finops-analyst-ap) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10493821/finops-analyst-ap) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-21.
+This corporate finance position at Amazon was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

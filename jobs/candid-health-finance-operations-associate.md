@@ -1,16 +1,16 @@
-# Finance Operations Associate  at Candid Health
+# Finance Operations Associate at Candid Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Candid Health](https://scoutify.ai/companies/candidhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Candid Health](https://scoutify.ai/companies/candid-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/candidhealth/d5267ead-522a-43fc-8cb1-f75c5503e23c) |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/candid-health/jobs/VN1Ulut-finance-operations-associate) |
 
 ## About This Role
 
-This accounting position at Candid Health was posted on 2026-07-02.
+This corporate finance position at Candid Health was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

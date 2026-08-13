@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Singapore-Singapore-648165/FL-FinOps-Support--FLO-FLC-_R183843) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Singapore-Singapore-648165/FL-FinOps-Support--FLO-FLC-_R188303-1) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-06-09.
+This corporate finance position at A.P. Moller - Maersk was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
