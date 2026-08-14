@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138781044-assistant-manager-corporate-accounting) |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000142062400-assistant-manager-corporate-accounting) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-21.
+This corporate finance position at IQ-EQ was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

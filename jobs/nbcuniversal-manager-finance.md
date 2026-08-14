@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Universal City, California, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000114410772-manager-finance) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000142003969-manager-finance) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-03-12.
+This corporate finance position at NBCUniversal was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

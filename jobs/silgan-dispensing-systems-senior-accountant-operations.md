@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Silgan Dispensing Systems](https://scoutify.ai/companies/silgan-dispensing-systems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brookfield, Wisconsin, United States |
+| Location | Woodland Hills, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Brookfield-WI/Senior-Accountant-Operations_R6919) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://silgancontainers.wd1.myworkdayjobs.com/silgan/job/Woodland-Hills-California/Senior-Accountant-Operations_R7918) |
 
 ## About This Role
 
-This corporate finance position at Silgan Dispensing Systems was posted on 2026-03-20.
+This corporate finance position at Silgan Dispensing Systems was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

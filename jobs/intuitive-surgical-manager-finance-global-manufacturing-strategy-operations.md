@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000131232819-manager-finance-global-manufacturing-strategy-operations) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000142011279-manager-finance-global-manufacturing-strategy-operations) |
 
 ## About This Role
 
-This corporate finance position at Intuitive Surgical was posted on 2026-06-09.
+This strategy & operations position at Intuitive Surgical was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

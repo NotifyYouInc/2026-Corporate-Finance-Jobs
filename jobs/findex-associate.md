@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Findex](https://scoutify.ai/companies/ap1-cx-oj37128?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Mildura, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5462) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5446) |
 
 ## About This Role
 
-This corporate finance position at Findex was posted on 2026-08-05.
+This corporate finance position at Findex was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

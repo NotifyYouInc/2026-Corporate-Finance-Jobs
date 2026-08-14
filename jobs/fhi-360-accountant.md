@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Juba, Central Equatoria, South Sudan |
+| Location | Accra, Greater Accra, Ghana |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Juba-South-Sudan/Accountant_Requisition-2026200554) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Accra-Ghana/Accountant_Requisition-2026201153) |
 
 ## About This Role
 
-This corporate finance position at Fhi 360 was posted on 2026-04-07.
+This corporate finance position at Fhi 360 was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

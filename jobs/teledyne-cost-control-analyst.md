@@ -5,12 +5,12 @@
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Cost-Control-Analyst_REQ33985) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Cost-Control-Analyst_REQ35878-1) |
 
 ## About This Role
 
-This corporate finance position at Teledyne was posted on 2026-03-26.
+This corporate finance position at Teledyne was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

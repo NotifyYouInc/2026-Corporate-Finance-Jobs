@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HR Connect Limited](https://scoutify.ai/companies/hr-connect-limited?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mount Maunganui, Bay of Plenty, New Zealand |
-| Category | Financial Analyst |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hrconnectlimited/744000139873977-finance-manager) |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hrconnectlimited/744000142012229-finance-manager) |
 
 ## About This Role
 
-This financial analyst position at HR Connect Limited was posted on 2026-07-26.
+This corporate finance position at HR Connect Limited was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

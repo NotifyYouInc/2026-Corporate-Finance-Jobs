@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kahului, Hawaii, United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Kahului-Hawaii-United-States-of-America/Registered-Client-Service-Associate_JR041574) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bethesda-Maryland-United-States-of-America/Registered-Client-Service-Associate_JR031827) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-08-05.
+This corporate finance position at Morgan Stanley was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

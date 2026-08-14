@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#252270) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#252507) |
 
 ## About This Role
 
-This corporate finance position at Kotak Mahindra Bank was posted on 2026-08-05.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

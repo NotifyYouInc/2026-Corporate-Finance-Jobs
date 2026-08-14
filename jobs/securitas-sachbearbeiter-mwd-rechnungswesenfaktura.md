@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Potsdam, Brandenburg, Germany |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000131986287-sachbearbeiter-mwd-rechnungswesenfaktura) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000142058078-sachbearbeiter-mwd-rechnungswesenfaktura) |
 
 ## About This Role
 
-This corporate finance position at Securitas was posted on 2026-06-12.
+This corporate finance position at Securitas was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

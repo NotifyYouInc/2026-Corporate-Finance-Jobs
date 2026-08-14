@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Credit-Risk-Analyst_R0000018085) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Credit-Risk-Analyst_R0000021049) |
 
 ## About This Role
 
-This corporate finance position at GLOBE was posted on 2026-04-23.
+This compliance & risk management position at GLOBE was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

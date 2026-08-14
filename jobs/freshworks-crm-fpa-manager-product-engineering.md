@@ -1,16 +1,16 @@
-# FP&A Manager - Product & Engineering  at Freshworks CRM
+# FP&A Manager, Product & Engineering at Freshworks CRM
 
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Mateo, California, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000138407144-fpa-manager-product-engineering) |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000142011529-fpa-manager-product-engineering) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Freshworks CRM was posted on 2026-07-17.
+This corporate finance position at Freshworks CRM was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

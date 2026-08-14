@@ -1,16 +1,16 @@
-# Lead Director - FP&A at CVS Health
+# Lead Director, FP&A at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Carolina, US |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Work-from-home/Lead-Director---FP-A_R0976440) |
+| Location | 2 locations |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Wellesley-93-Worcester-St/Lead-Director--FP-A_R0999957) |
 
 ## About This Role
 
-This fp&a / strategic finance position at CVS Health was posted on 2026-07-23.
+This corporate finance position at CVS Health was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

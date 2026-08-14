@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IEQ Capital](https://scoutify.ai/companies/ieqcapital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ieqcapital/jobs/7824510003) |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ieqcapital/jobs/7833474003) |
 
 ## About This Role
 
-This wealth management / private banking position at IEQ Capital was posted on 2026-08-03.
+This corporate finance position at IEQ Capital was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

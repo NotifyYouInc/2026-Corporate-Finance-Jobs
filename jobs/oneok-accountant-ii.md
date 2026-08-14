@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oneok](https://scoutify.ai/companies/oneok?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tulsa, Oklahoma, United States |
-| Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://oneok.wd1.myworkdayjobs.com/oneok/job/Tulsa-OK/Accountant-II_R8478-1) |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://oneok.wd1.myworkdayjobs.com/oneok/job/Tulsa-OK/Accountant-II_R8476-1) |
 
 ## About This Role
 
-This accounting position at Oneok was posted on 2026-07-30.
+This corporate finance position at Oneok was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

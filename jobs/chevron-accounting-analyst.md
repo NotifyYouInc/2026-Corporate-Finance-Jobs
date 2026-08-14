@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
-| Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Accounting-Analyst_R000072520) |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Accounting-Analyst_R000072768) |
 
 ## About This Role
 
-This accounting position at Chevron was posted on 2026-07-24.
+This corporate finance position at Chevron was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

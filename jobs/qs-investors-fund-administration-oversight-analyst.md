@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Rancho-Cordova-California-United-States-of-America/Fund-Administration---Oversight-Analyst_867155) |
+| Location | Pasadena, Texas, United States |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Pasadena-California-United-States-of-America/Fund-Administration---Oversight-Analyst_868403) |
 
 ## About This Role
 
-This corporate finance position at QS Investors was posted on 2026-05-01.
+This asset management / portfolio management position at QS Investors was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

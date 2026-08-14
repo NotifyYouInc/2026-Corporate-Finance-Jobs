@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/CLEVELAND-OH/Payroll-Tax-Supervisor_JR113189-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/OKLAHOMA-CITY-OK/Payroll-Tax-Supervisor_JR113753-1) |
 
 ## About This Role
 
-This corporate finance position at Acrisure was posted on 2026-05-15.
+This corporate finance position at Acrisure was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

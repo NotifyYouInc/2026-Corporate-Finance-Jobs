@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Senior-Financial-Analyst_R0057726) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Senior-Financial-Analyst_R0057727) |
 
 ## About This Role
 
-This corporate finance position at Wolters Kluwer was posted on 2026-06-11.
+This corporate finance position at Wolters Kluwer was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

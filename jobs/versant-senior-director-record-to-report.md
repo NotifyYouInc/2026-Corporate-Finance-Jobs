@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Orlando, Florida, United States |
-| Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135351199-senior-director-record-to-report) |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000142044739-senior-director-record-to-report) |
 
 ## About This Role
 
-This accounting position at Versant was posted on 2026-07-01.
+This corporate finance position at Versant was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

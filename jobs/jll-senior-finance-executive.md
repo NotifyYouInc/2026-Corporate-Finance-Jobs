@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Accounting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Finance-Executive_REQ520384) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mumbai-MH/Senior-Finance-Executive_REQ523840) |
 
 ## About This Role
 
-This accounting position at JLL was posted on 2026-07-16.
+This corporate finance position at JLL was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

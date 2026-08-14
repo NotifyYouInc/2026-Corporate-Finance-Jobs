@@ -5,12 +5,12 @@
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Querétaro, Chiapas, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Queretaro-BSC-Mexico/Credit-Collections-Analyst_R-19755) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Queretaro-BSC-Mexico/Credit-Collections-Analyst_R-20532) |
 
 ## About This Role
 
-This corporate finance position at Flowserve was posted on 2026-06-26.
+This corporate finance position at Flowserve was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

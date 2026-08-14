@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Principal-Specialist--Program-Cost-Controls_01859173-1) |
+| Location | Cedar Rapids, Iowa, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-139--855-35Th-St-NE--BLDG-139/Principal-Specialist--Program-Cost-Controls_01864690) |
 
 ## About This Role
 
-This financial analyst position at RTX was posted on 2026-07-23.
+This corporate finance position at RTX was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

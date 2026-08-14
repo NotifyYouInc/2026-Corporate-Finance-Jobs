@@ -5,12 +5,12 @@
 | Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/FPA---Business-Operation-Analyst_JR107358) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/FPA---Business-Operation-Analyst_JR108003) |
 
 ## About This Role
 
-This corporate finance position at Centific was posted on 2026-06-16.
+This corporate finance position at Centific was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

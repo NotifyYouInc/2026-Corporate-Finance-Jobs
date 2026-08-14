@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
-| Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000138771649-payroll-specialist-1-year-contract) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000142039339-payroll-specialist-1-year-contract) |
 
 ## About This Role
 
-This accounting position at H&M Group was posted on 2026-07-21.
+This human resources / people ops position at H&M Group was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

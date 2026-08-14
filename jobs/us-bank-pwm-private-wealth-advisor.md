@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Portland-OR/PWM-Private-Wealth-Advisor_2026-0023440-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irvine-CA/PWM-Private-Wealth-Advisor_2026-0024286) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-08-04.
+This corporate finance position at U.S. Bank was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

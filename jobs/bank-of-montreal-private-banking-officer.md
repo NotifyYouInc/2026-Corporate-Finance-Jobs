@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Private-Banking-Officer_R260013236) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Vancouver-BC-CAN/Private-Banking-Officer_R260023108-1) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-04-30.
+This corporate finance position at Bank of Montreal was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

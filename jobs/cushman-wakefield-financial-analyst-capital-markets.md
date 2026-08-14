@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Washington-District-of-Columbia-USA/Financial-Analyst--Capital-Markets_R329160) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/San-Francisco-California-USA/Financial-Analyst--Capital-Markets_R327948) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-08-05.
+This corporate finance position at Cushman & Wakefield was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

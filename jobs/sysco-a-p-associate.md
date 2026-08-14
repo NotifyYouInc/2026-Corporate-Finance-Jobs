@@ -1,16 +1,16 @@
-# A-P associate at Sysco
+# A-P Associate at Sysco
 
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Georgia, US |
-| Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Buckhead-Mid-Atlantic/A-P-associate_R258827-1) |
+| Location | Atlanta, Georgia, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Buckhead-Atlanta/A-P-Associate_R262049) |
 
 ## About This Role
 
-This accounting position at Sysco was posted on 2026-07-14.
+This corporate finance position at Sysco was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

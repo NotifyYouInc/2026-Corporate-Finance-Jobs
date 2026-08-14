@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/Billing-Analyst-Junior_J00178081) |
+| Category | Corporate Finance |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/Billing-Analyst-Junior_J00178368) |
 
 ## About This Role
 
-This accounting position at Equifax was posted on 2026-07-21.
+This corporate finance position at Equifax was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
-| Category | Accounting |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000141337879-manager-accounting-tv-networks) |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000142044959-manager-accounting-tv-networks) |
 
 ## About This Role
 
-This accounting position at Versant was posted on 2026-08-03.
+This corporate finance position at Versant was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

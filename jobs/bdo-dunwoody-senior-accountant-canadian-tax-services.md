@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Winnipeg, Manitoba, Canada |
-| Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Senior-Accountant--Canadian-Tax-Services_JR6547-1) |
+| Location | Barrie, Ontario, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Barrie/Senior-Accountant--Canadian-Tax-Services_JR6724) |
 
 ## About This Role
 
-This accounting position at BDO Dunwoody was posted on 2026-07-07.
+This corporate finance position at BDO Dunwoody was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

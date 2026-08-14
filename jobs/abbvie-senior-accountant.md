@@ -1,16 +1,16 @@
-# Senior Accountant at AbbVie
+# Senior Accountant  at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westport, Connecticut, United States |
+| Location | North Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012480226-senior-accountant) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014486896-senior-accountant) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-04-07.
+This corporate finance position at AbbVie was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

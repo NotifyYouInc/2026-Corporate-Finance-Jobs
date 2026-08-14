@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/GA-Analyst_RQ112670) |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/GA-Analyst_RQ114078) |
 
 ## About This Role
 
-This accounting position at BP was posted on 2026-07-01.
+This corporate finance position at BP was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

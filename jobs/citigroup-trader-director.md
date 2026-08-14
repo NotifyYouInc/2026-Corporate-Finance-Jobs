@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Trader---Director_26948638) |
+| Category | Sales & Trading |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Trader---Director_26985127) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-24.
+This sales & trading position at Citigroup was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

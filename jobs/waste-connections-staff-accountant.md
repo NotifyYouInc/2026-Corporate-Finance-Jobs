@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Washington, US |
+| Location | Bellevue, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/2111-Murreys-Disposal/Staff-Accountant_R-97990) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/3050-Papillion-Sanitation/Staff-Accountant_R-102029) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-04-02.
+This corporate finance position at Waste Connections was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

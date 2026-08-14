@@ -1,0 +1,22 @@
+# DE033534-Delivery Lead Manager at Accenture
+
+| Field | Details |
+|-------|---------|
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Quezon, Northern Mindanao, Philippines |
+| Category | Project Manager |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Quezon/DE033534-Delivery-Lead-Manager_CXO-133382-S78924-1) |
+
+## About This Role
+
+This project manager position at Accenture was posted on 2026-08-07.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

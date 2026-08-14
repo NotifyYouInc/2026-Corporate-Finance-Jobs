@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000111722105-payroll-specialist) |
+| Location | Seattle, Washington, United States |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000142013059-payroll-specialist) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-02-26.
+This human resources / people ops position at Expeditors International of Washington was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/stanbul-Trkiye/Financial-Planning---Analysis-Manager_R-116034) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bangkok-Thailand/Financial-Planning---Analysis-Manager_R-116787) |
 
 ## About This Role
 
-This corporate finance position at Ingram Micro was posted on 2026-06-23.
+This corporate finance position at Ingram Micro was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
