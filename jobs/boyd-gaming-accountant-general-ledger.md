@@ -5,12 +5,12 @@
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990012206686-accountant-general-ledger) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990014498496-accountant-general-ledger) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-03-18.
+This corporate finance position at Boyd Gaming was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

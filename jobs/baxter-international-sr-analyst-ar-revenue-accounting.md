@@ -1,16 +1,16 @@
-# SR Analyst, AR & Revenue Accounting at Baxter International
+# Sr Analyst, AR & Revenue Accounting at Baxter International
 
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Costa Rica |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/La-Aurora-Heredia/SR-Analyst--AR---Revenue-Accounting_JR-202303) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/La-Aurora-Heredia/Sr-Analyst--AR---Revenue-Accounting_JR-207561) |
 
 ## About This Role
 
-This corporate finance position at Baxter International was posted on 2026-05-18.
+This corporate finance position at Baxter International was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

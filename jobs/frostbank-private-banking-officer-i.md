@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Midland, Texas, United States |
+| Location | Little Elm, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Midland-TX---Tower/Private-Banking-Officer-I_R260337) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Little-Elm-TX/Private-Banking-Officer-I_R261422-1) |
 
 ## About This Role
 
-This corporate finance position at Frostbank was posted on 2026-02-24.
+This corporate finance position at Frostbank was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

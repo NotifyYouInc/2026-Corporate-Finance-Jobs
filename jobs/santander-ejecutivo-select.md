@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Huixquilucan de Degollado, México, Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Huixquilucan-de-Degollado/Ejecutivo-Select_Req1574738) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/Ejecutivo-Select_Req1599792-1) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-05-05.
+This corporate finance position at Santander was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

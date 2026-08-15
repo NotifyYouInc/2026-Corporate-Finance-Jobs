@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ulteig Engineers](https://scoutify.ai/companies/ulteig-engineers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/ult1008ulte/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=34233825-0c8e-40b7-8938-7deceb55cfe1) |
+| Location | Minneapolis, Minnesota, United States |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/ult1008ulte/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=7ddcc914-c312-454b-ad78-9a09971c3d52) |
 
 ## About This Role
 
-This accounting position at Ulteig Engineers was posted on 2026-07-02.
+This human resources / people ops position at Ulteig Engineers was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

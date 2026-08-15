@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Roseville, California, United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Roseville-California/Registered-Practice-Associate_R26_1780-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Honolulu-Hawaii/Registered-Practice-Associate_R26_3164) |
 
 ## About This Role
 
-This corporate finance position at Ameriprise Financial was posted on 2026-05-06.
+This corporate finance position at Ameriprise Financial was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

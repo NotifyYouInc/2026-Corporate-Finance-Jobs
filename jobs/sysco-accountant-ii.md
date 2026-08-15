@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Newport-Portland/Accountant-II_R237823) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Buckhead-Atlanta/Accountant-II_R262150) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-02-26.
+This corporate finance position at Sysco was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trevipay](https://scoutify.ai/companies/trevipay?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Overland Park, Kansas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.lever.co/trevipay/5d7fd37b-7237-404e-85eb-54f7ba192aaa) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.lever.co/trevipay/240b05db-5577-48b0-98b5-d27001b063b1) |
 
 ## About This Role
 
-This corporate finance position at Trevipay was posted on 2026-06-05.
+This treasury & capital markets position at Trevipay was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

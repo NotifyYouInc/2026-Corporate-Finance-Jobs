@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/Tax-Manager---Canadian-Corporations_JR119663) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Vancouver/Tax-Manager---Canadian-Corporations_JR119672) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-06-09.
+This corporate finance position at RSM was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

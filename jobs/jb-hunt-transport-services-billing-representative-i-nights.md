@@ -1,16 +1,16 @@
-# Billing Representative I, Nights at J.B. Hunt Transport Services
+# Billing Representative I Nights at J.B. Hunt Transport Services
 
 | Field | Details |
 |-------|---------|
 | Company | [J.B. Hunt Transport Services](https://scoutify.ai/companies/j-b-hunt-transport-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lowell, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I--Nights_00617992) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Billing-Representative-I-Nights_00637817) |
 
 ## About This Role
 
-This corporate finance position at J.B. Hunt Transport Services was posted on 2026-03-02.
+This corporate finance position at J.B. Hunt Transport Services was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

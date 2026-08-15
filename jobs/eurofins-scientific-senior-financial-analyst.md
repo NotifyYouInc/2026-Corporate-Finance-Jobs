@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lancaster, California, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000111164066-senior-financial-analyst) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000142215237-senior-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Eurofins Scientific was posted on 2026-02-24.
+This corporate finance position at Eurofins Scientific was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Commercial-Banking-Portfolio-Manager_R-554855) |
+| Location | 3 locations |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Commercial-Banking-Portfolio-Manager_R-566136) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-26.
+This asset management / portfolio management position at Wells Fargo was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

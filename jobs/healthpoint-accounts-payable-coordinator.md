@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HealthPoint](https://scoutify.ai/companies/gusea1p01-rec-pro-ukg-net-oj49412?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
-| Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://gusea1p01.rec.pro.ukg.net/HEA1511HONT/JobBoard/6b8d439c-5173-42c1-9022-ac494fbd145d/OpportunityDetail?opportunityId=233999af-48a5-466a-a98f-f233faa9e077) |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://gusea1p01.rec.pro.ukg.net/HEA1511HONT/JobBoard/6b8d439c-5173-42c1-9022-ac494fbd145d/OpportunityDetail?opportunityId=e7e5c4f0-d74e-42da-8885-329bcfb58d12) |
 
 ## About This Role
 
-This accounting position at HealthPoint was posted on 2026-07-23.
+This corporate finance position at HealthPoint was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

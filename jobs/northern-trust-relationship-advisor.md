@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Palm Beach, Florida, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Palm-Beach-FL/Relationship-Advisor_R157914-1) |
+| Location | Houston, Texas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Houston-TX/Relationship-Advisor_R159049-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Northern Trust was posted on 2026-07-15.
+This corporate finance position at Northern Trust was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

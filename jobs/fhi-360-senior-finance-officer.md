@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Cotonou, Littoral, Benin |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Bangkok-Thailand/Senior-Finance-Officer_Requisition-2026200303) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Cotonou-Benin/Senior-Finance-Officer_Requisition-2026200646) |
 
 ## About This Role
 
-This corporate finance position at Fhi 360 was posted on 2026-02-20.
+This corporate finance position at Fhi 360 was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

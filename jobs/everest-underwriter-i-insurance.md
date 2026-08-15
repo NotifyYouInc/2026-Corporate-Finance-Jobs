@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everest](https://scoutify.ai/companies/everestre?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/Mexico-City-Mexico/Underwriter-I--Insurance_R7362) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/Santiago-Chile/Underwriter-I--Insurance_R7363) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Everest was posted on 2026-07-30.
+This actuary / insurance analytics position at Everest was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

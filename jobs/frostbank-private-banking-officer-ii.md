@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sugar Land, Texas, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Sugar-Land-TX/Private-Banking-Officer-II_R261283-1) |
+| Location | Kingwood, West Virginia, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Kingwood-TX/Private-Banking-Officer-II_R261410) |
 
 ## About This Role
 
-This wealth management / private banking position at Frostbank was posted on 2026-07-23.
+This corporate finance position at Frostbank was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

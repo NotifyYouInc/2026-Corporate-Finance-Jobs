@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Command Alkon](https://scoutify.ai/companies/recruiting2-ultipro-com-oj24882?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 21 locations |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/com1085calkn/JobBoard/86ae0d27-3b80-490c-9e6b-d8d1a129433f/OpportunityDetail?opportunityId=6a58f911-1d0c-4d2e-8c47-2c0152854724) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/com1085calkn/JobBoard/86ae0d27-3b80-490c-9e6b-d8d1a129433f/OpportunityDetail?opportunityId=ff6a3987-7193-4b41-b7e6-020250a63c65) |
 
 ## About This Role
 
-This corporate finance position at Command Alkon was posted on 2026-06-23.
+This corporate finance position at Command Alkon was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

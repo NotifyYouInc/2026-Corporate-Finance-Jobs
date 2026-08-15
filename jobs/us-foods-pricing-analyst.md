@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [US Foods](https://scoutify.ai/companies/usfoods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Zebulon, North Carolina, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Zebulon-NC/Pricing-Analyst_R280987-1) |
+| Location | Austin, Texas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Austin-TX/Pricing-Analyst_R281355-1) |
 
 ## About This Role
 
-This financial analyst position at US Foods was posted on 2026-07-23.
+This corporate finance position at US Foods was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

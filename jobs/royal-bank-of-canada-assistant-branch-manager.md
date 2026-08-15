@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Halifax, Nova Scotia, Canada |
+| Location | Edmonton, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Assistant-Branch-Manager_R-0000177762) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/EDMONTON-Alberta-Canada/Assistant-Branch-Manager_R-0000183187-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-19.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

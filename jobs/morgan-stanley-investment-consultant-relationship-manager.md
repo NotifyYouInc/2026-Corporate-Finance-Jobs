@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/San-Francisco-California-United-States-of-America/Investment-Consultant---Relationship-Manager_JR035612) |
+| Location | Chicago, Illinois, United States |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Chicago-IL-233/Investment-Consultant---Relationship-Manager_JR041917-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-04-23.
+This asset management / portfolio management position at Morgan Stanley was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

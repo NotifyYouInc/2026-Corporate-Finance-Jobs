@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [West Cancer Center & Research Institute](https://scoutify.ai/companies/westcancercenter?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Germantown, Maryland, United States |
-| Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/westcancercenter/jobs/8632205002) |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/westcancercenter/jobs/8692078002) |
 
 ## About This Role
 
-This accounting position at West Cancer Center & Research Institute was posted on 2026-07-13.
+This corporate finance position at West Cancer Center & Research Institute was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

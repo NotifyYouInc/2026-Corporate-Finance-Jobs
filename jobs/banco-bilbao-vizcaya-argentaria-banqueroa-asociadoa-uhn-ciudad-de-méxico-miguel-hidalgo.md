@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Cuauhtémoc, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Banquero-a-Asociado-a-UHN--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00102129) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Banquero-a-Asociado-a-UHN--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00111645) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-23.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

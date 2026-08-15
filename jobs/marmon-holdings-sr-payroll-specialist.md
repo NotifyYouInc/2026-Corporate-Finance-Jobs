@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Sr-Payroll-Specialist_JR0000041813) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Sr-Payroll-Specialist_JR0000044942) |
 
 ## About This Role
 
-This corporate finance position at Marmon Holdings was posted on 2026-03-26.
+This human resources / people ops position at Marmon Holdings was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

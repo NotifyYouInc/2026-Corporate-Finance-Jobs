@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brossard, Quebec, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BROSSARD-Quebec-Canada/Financial-Planner-Relationship_R-0000171583) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Financial-Planner-Relationship_R-0000183480-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-07.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

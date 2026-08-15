@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Purchase, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Finance-Business-Partner_R-271333) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Finance-Business-Partner_R-287478) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-03-03.
+This corporate finance position at Mastercard was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

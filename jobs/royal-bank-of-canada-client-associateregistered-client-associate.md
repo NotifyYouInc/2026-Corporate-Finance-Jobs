@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phoenix, Arizona, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Phoenix-Arizona-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000182797) |
+| Location | Palm Beach Gardens, Florida, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Palm-Beach-Gardens-Florida-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000182895-2) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-31.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

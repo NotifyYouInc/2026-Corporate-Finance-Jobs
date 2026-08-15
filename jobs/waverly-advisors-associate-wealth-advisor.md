@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waverly Advisors](https://scoutify.ai/companies/waverlyadvisorsllc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lafayette, Louisiana, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/waverlyadvisorsllc/jobs/4313031009) |
+| Location | Pensacola, Florida, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/waverlyadvisorsllc/jobs/4360610009) |
 
 ## About This Role
 
-This wealth management / private banking position at Waverly Advisors was posted on 2026-07-10.
+This corporate finance position at Waverly Advisors was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

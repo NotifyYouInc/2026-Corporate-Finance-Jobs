@@ -5,12 +5,12 @@
 | Company | [Harmony Senior Services](https://scoutify.ai/companies/harmony-senior-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Roanoke, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://harmonyseniorservices.wd108.myworkdayjobs.com/harmony_careers/job/Roanoke-Virginia/Accounts-Payable-Specialist_JR-002724) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://harmonyseniorservices.wd108.myworkdayjobs.com/harmony_careers/job/Roanoke-Virginia/Accounts-Payable-Specialist_JR-003952-1) |
 
 ## About This Role
 
-This corporate finance position at Harmony Senior Services was posted on 2026-04-27.
+This corporate finance position at Harmony Senior Services was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

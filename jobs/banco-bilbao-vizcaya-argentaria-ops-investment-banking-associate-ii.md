@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Hong-Kong/OPS-INVESTMENT-BANKING-ASSOCIATE-II_JR00105890) |
+| Location | Lima, Lima Province, Peru |
+| Category | Investment Banking |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/OPS-INVESTMENT-BANKING-ASSOCIATE-II_JR00111658) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-05.
+This investment banking position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

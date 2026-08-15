@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Senior-Pricing-Analyst_JR00122474) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Senior-Pricing-Analyst_JR00126568) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-04-14.
+This corporate finance position at Sun Life Financial was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

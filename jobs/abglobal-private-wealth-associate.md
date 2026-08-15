@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Atlanta-Georgia/Private-Wealth-Associate_R0019427) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Philadelphia-Pennsylvania/Private-Wealth-Associate_R0019501) |
 
 ## About This Role
 
-This corporate finance position at Abglobal was posted on 2026-08-04.
+This corporate finance position at Abglobal was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

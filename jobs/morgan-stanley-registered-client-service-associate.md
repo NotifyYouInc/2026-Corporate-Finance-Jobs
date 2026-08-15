@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | Bellevue, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bethesda-Maryland-United-States-of-America/Registered-Client-Service-Associate_JR031827) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bellevue-Washington-United-States-of-America/Registered-Client-Service-Associate_JR041964-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-08-06.
+This corporate finance position at Morgan Stanley was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

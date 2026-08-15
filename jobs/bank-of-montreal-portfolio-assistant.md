@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Vancouver-BC-CAN/Portfolio-Assistant_R260019490) |
+| Location | Barrie, Ontario, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Barrie-ON-CAN/Portfolio-Assistant_R260023372) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of Montreal was posted on 2026-07-02.
+This corporate finance position at Bank of Montreal was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

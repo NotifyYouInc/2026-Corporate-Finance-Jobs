@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Birmingham, Alabama, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Financial-Analyst_R26_0000022396) |
+| Location | Duluth, Minnesota, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Duluth-GA-USA/Financial-Analyst_R26_0000025684) |
 
 ## About This Role
 
-This financial analyst position at Genuine Parts Company was posted on 2026-07-14.
+This corporate finance position at Genuine Parts Company was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

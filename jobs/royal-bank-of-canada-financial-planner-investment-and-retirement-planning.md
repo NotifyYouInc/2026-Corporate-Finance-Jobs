@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Campbell River, British Columbia, Canada |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAMPBELL-RIVER-British-Columbia-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000182380) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Financial-Planner--Investment-and-Retirement-Planning_R-0000183594) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-29.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

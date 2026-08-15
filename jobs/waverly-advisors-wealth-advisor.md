@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waverly Advisors](https://scoutify.ai/companies/waverlyadvisorsllc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Pensacola, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/waverlyadvisorsllc/jobs/4299641009) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/waverlyadvisorsllc/jobs/4360616009) |
 
 ## About This Role
 
-This corporate finance position at Waverly Advisors was posted on 2026-06-26.
+This corporate finance position at Waverly Advisors was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

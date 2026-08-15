@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Noida/Order-to-Cash-Operations-Associate_AIOC-S01657730) |
+| Location | Jaipur, Rajasthan, India |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Order-to-Cash-Operations-Associate_AIOC-S01660279-1) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-07-27.
+This corporate finance position at Accenture was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

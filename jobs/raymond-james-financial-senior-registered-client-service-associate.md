@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Houston-Texas---United-States/Senior-Registered-Client-Service-Associate_R-0012114) |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Houston-Texas---United-States/Senior-Registered-Client-Service-Associate_R-0012447) |
 
 ## About This Role
 
-This wealth management / private banking position at Raymond James Financial was posted on 2026-07-30.
+This corporate finance position at Raymond James Financial was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

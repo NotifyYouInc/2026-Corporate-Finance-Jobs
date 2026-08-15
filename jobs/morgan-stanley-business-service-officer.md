@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Houston-Texas-United-States-of-America/Business-Service-Officer_JR030094-1) |
+| Location | Boca Raton, Florida, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Boca-Raton-Florida-United-States-of-America/Business-Service-Officer_JR041877-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Morgan Stanley was posted on 2026-07-21.
+This corporate finance position at Morgan Stanley was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

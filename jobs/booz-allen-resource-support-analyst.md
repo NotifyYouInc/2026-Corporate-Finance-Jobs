@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Honolulu, Hawaii, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Resource-Support-Analyst_R0243459) |
+| Category | Corporate Finance |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Resource-Support-Analyst_R0246378) |
 
 ## About This Role
 
-This financial analyst position at Booz Allen was posted on 2026-07-01.
+This corporate finance position at Booz Allen was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
