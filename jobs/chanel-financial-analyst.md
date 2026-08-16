@@ -1,16 +1,16 @@
-# Finance Associate at Marriott International
+# Financial Analyst at Chanel
 
 | Field | Details |
 |-------|---------|
-| Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Company | [Chanel](https://scoutify.ai/companies/cc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26099849) |
+| Apply | [View on company site](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/So-Paulo/Financial-Analyst_JOBREQ00115859) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-08-08.
+This corporate finance position at Chanel was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

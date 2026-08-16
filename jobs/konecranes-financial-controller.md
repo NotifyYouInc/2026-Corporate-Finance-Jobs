@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Cotia, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000113901464-financial-controller) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000142384578-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at Konecranes was posted on 2026-03-11.
+This corporate finance position at Konecranes was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

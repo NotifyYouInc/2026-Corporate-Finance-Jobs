@@ -1,16 +1,16 @@
-# Finance Associate at Marriott International
+# Account Assistant Receivable - Courtyard by Marriott Subang at Marriott International
 
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Location | Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26099849) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26097813) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-08-08.
+This corporate finance position at Marriott International was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

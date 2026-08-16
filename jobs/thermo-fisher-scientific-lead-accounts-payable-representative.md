@@ -1,16 +1,16 @@
-# Accounts Receivables / Accounts Payables Specialist Future Opportunities at Epta
+# Lead Accounts Payable Representative at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
-| Company | [Epta](https://scoutify.ai/companies/ocs-cx-oj37867?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Corporate Finance |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://fa-eukp-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2882) |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Budapest-Hungary/Lead-Accounts-Payable-Representative_R-01363348) |
 
 ## About This Role
 
-This corporate finance position at Epta was posted on 2026-08-08.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

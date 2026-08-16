@@ -1,16 +1,16 @@
-# Director of R&D and Strategic Finance at Tanium
+# Power Trading Lead at OpenAI
 
 | Field | Details |
 |-------|---------|
-| Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Strategy & Operations |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/8114980) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/6e20368e-d51e-4562-8b94-0166317d52c7) |
 
 ## About This Role
 
-This strategy & operations position at Tanium was posted on 2026-08-07.
+This treasury & capital markets position at OpenAI was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

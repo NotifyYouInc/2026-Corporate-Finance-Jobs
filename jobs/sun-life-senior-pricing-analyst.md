@@ -1,16 +1,16 @@
-# Accountant (UAE National)  at Masdar
+# Senior Pricing Analyst at Sun Life
 
 | Field | Details |
 |-------|---------|
-| Company | [Masdar](https://scoutify.ai/companies/masdar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Masdar/744000142505909-accountant-uae-national) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Senior-Pricing-Analyst_JR00126568) |
 
 ## About This Role
 
-This corporate finance position at Masdar was posted on 2026-08-09.
+This corporate finance position at Sun Life was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

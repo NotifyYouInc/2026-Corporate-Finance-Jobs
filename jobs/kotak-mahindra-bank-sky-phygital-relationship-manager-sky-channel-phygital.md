@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Account Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#252031) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#252876) |
 
 ## About This Role
 
-This account manager position at Kotak Mahindra Bank was posted on 2026-08-04.
+This account manager position at Kotak Mahindra Bank was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

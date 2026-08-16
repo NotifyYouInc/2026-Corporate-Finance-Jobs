@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Senior-Financial-Analyst--Cost-Finance_Req187094) |
+| Category | Corporate Finance |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Senior-Financial-Analyst--Cost-Finance_Req189342) |
 
 ## About This Role
 
-This financial analyst position at The Home Depot was posted on 2026-07-21.
+This corporate finance position at The Home Depot was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

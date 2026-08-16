@@ -6,7 +6,7 @@
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Financial-Planner-Relationship_R-0000183480-1) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Financial-Planner-Relationship_R-0000183538-1) |
 
 ## About This Role
 

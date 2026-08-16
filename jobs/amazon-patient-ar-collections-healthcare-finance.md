@@ -1,16 +1,16 @@
-# Finance Associate at Marriott International
+# Patient AR Collections , Healthcare Finance at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Philippines |
 | Category | Corporate Finance |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26099849) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10496484/patient-ar-collections-healthcare-finance) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-08-08.
+This corporate finance position at Amazon was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

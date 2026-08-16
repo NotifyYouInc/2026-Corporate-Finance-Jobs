@@ -5,12 +5,12 @@
 | Company | [The Washington Post](https://scoutify.ai/companies/washpost?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Senior-Financial-Analyst_JR-90275844) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Senior-Financial-Analyst_JR-90275869) |
 
 ## About This Role
 
-This corporate finance position at The Washington Post was posted on 2026-06-24.
+This corporate finance position at The Washington Post was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Finance Associate at Marriott International
+# Sr. Director, Credit Risk Analytics at Prosper
 
 | Field | Details |
 |-------|---------|
-| Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Company | [Prosper](https://scoutify.ai/companies/prosper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | United States |
 | Category | Corporate Finance |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26099849) |
+| Apply | [View on company site](https://jobs.lever.co/prosper/65960f5f-fbf2-4137-9eef-12098fce7e8e) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-08-08.
+This corporate finance position at Prosper was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Johor, MY |
+| Location | Selangor, MY |
 | Category | Account Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Johor/Relationship-Manager--Premier-Banking_JR006509-1) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Selangor/Relationship-Manager--Premier-Banking_JR006812-1) |
 
 ## About This Role
 
-This account manager position at RHB was posted on 2026-08-07.
+This account manager position at RHB was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 
