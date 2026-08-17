@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United Arab Emirates |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-OTHER-UNITED-KINGDOM/GX-Enterprise-Deals-Finance-Leader_R164333-1) |
+| Location | London, England, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-LONDON-245-HAMMERSMITH-ROAD/GX-Enterprise-Deals-Finance-Leader_R167901) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Baker Hughes was posted on 2026-07-01.
+This corporate finance position at Baker Hughes was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

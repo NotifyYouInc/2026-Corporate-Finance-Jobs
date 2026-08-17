@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Conduent](https://scoutify.ai/companies/us2-cx-oj25423?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Kochi, Kerala, India |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#24924) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#24153) |
 
 ## About This Role
 
-This corporate finance position at Conduent was posted on 2026-08-07.
+This corporate finance position at Conduent was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

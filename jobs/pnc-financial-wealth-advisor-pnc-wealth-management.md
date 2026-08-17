@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---San-Antonio-78258/Wealth-Advisor---PNC-Wealth-Management_R230305) |
+| Location | Erie, Pennsylvania, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Erie-16510/Wealth-Advisor---PNC-Wealth-Management_R231945-1) |
 
 ## About This Role
 
-This wealth management / private banking position at PNC Financial was posted on 2026-07-23.
+This corporate finance position at PNC Financial was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

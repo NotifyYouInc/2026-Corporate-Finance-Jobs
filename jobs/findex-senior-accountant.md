@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Findex](https://scoutify.ai/companies/ap1-cx-oj37128?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hastings, Hawke's Bay Region, New Zealand |
-| Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5425) |
+| Location | Gold Coast, Queensland, Australia |
+| Category | Corporate Finance |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5469) |
 
 ## About This Role
 
-This accounting position at Findex was posted on 2026-07-21.
+This corporate finance position at Findex was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

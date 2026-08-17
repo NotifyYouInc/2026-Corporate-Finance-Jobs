@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Smithfield, New South Wales, Australia |
-| Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000140382439-assistant-business-controller-is-au-nz) |
+| Category | Corporate Finance |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000142554449-assistant-business-controller-is-au-nz) |
 
 ## About This Role
 
-This accounting position at Konecranes was posted on 2026-07-29.
+This corporate finance position at Konecranes was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

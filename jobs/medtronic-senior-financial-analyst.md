@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Heerlen, Limburg, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Senior-Financial-Analyst_R70343-1) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Senior-Financial-Analyst_R72986-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-06-26.
+This corporate finance position at Medtronic was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

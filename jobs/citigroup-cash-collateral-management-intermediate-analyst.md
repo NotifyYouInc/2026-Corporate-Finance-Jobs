@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Mumbai, Maharashtra, India |
 | Category | Treasury & Capital Markets |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Cash---Collateral-Management-Intermediate-Analyst_26984503) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Cash---Collateral-Management-Intermediate-Analyst_26984405-1) |
 
 ## About This Role
 
-This treasury & capital markets position at Citigroup was posted on 2026-08-07.
+This treasury & capital markets position at Citigroup was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

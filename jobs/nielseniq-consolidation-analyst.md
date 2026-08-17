@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115898636-consolidation-analyst) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142557455-consolidation-analyst) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-03-20.
+This corporate finance position at NielsenIQ was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

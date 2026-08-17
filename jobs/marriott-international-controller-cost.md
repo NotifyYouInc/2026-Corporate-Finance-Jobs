@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madinah, Medina Region, Saudi Arabia |
-| Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26060316) |
+| Location | Coimbatore, Tamil Nadu, India |
+| Category | Corporate Finance |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26100114) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-07-22.
+This corporate finance position at Marriott International was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

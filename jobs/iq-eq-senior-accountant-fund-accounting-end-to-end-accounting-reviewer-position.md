@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Venture Capital / Private Equity |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000140593949-senior-accountant-fund-accounting-end-to-end-accounting-reviewer-position) |
+| Category | Corporate Finance |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000142566809-senior-accountant-fund-accounting-end-to-end-accounting-reviewer-position) |
 
 ## About This Role
 
-This venture capital / private equity position at IQ-EQ was posted on 2026-07-30.
+This corporate finance position at IQ-EQ was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

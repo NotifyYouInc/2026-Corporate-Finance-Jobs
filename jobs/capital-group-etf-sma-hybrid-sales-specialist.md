@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/ETF---SMA-Hybrid-Sales-Specialist_JR7032) |
 
 ## About This Role
 
-This asset management / portfolio management position at Capital Group was posted on 2026-08-07.
+This account executive position at Capital Group was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Corporate Finance |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000141845290-accounts-receivable-supervisor) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000142558999-accounts-receivable-supervisor) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-08-06.
+This corporate finance position at ACCOR was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

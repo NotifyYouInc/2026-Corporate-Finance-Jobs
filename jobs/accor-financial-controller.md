@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sunshine Coast, Queensland, Australia |
-| Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000138774339-financial-controller) |
+| Location | Baghdad, Baghdad, Iraq |
+| Category | Corporate Finance |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000142507499-financial-controller) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-21.
+This corporate finance position at ACCOR was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

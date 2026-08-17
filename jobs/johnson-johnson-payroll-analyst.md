@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/Payroll-Analyst_R-085919) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/Payroll-Analyst_R-089863) |
 
 ## About This Role
 
-This accounting position at Johnson & Johnson was posted on 2026-07-24.
+This human resources / people ops position at Johnson & Johnson was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

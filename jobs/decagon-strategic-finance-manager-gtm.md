@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Go To Market Engineer |
+| Category | Strategy & Operations |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/decagon/ca3766a9-73d4-417b-8957-0ba41a2c2b67) |
 
 ## About This Role
 
-This go to market engineer position at Decagon was posted on 2026-08-07.
+This strategy & operations position at Decagon was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

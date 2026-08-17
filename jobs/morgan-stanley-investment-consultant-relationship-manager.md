@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Asset Management / Portfolio Management |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Chicago-IL-233/Investment-Consultant---Relationship-Manager_JR041917-1) |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Scottsdale-Arizona-United-States-of-America/Investment-Consultant---Relationship-Manager_JR038033) |
 
 ## About This Role
 

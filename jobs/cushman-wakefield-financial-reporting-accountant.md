@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Financial-Reporting-Accountant_R325721) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Financial-Reporting-Accountant_R321931) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-06-24.
+This corporate finance position at Cushman & Wakefield was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
