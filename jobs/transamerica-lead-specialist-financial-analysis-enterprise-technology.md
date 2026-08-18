@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Lead-Specialist--Financial-Analysis---Enterprise-Technology_R20061323) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Lead-Specialist--Financial-Analysis---Enterprise-Technology_R20062366) |
 
 ## About This Role
 
-This corporate finance position at Transamerica was posted on 2026-04-20.
+This fp&a / strategic finance position at Transamerica was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toll Group](https://scoutify.ai/companies/toll-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Bayan-Lepas/Senior-Finance-Analyst---FP-A_R000075972) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Bayan-Lepas/Senior-Finance-Analyst---FP-A_R000077593) |
 
 ## About This Role
 
-This corporate finance position at Toll Group was posted on 2026-04-17.
+This fp&a / strategic finance position at Toll Group was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

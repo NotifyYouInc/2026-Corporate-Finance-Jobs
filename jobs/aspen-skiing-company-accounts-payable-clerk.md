@@ -5,12 +5,12 @@
 | Company | [Aspen Skiing Company](https://scoutify.ai/companies/aspenskiingcompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000141002939-accounts-payable-clerk) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000142703779-accounts-payable-clerk) |
 
 ## About This Role
 
-This accounting position at Aspen Skiing Company was posted on 2026-07-31.
+This accounting position at Aspen Skiing Company was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Accountant - Associate at MillerKnoll
+# Accountant Associate at MillerKnoll
 
 | Field | Details |
 |-------|---------|
 | Company | [MillerKnoll](https://scoutify.ai/companies/millerknoll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Michigan, US |
-| Category | Corporate Finance |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Zeeland/Accountant---Associate_JR108434) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Accounting |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Accountant-Associate_JR109542-1) |
 
 ## About This Role
 
-This corporate finance position at MillerKnoll was posted on 2026-02-16.
+This accounting position at MillerKnoll was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

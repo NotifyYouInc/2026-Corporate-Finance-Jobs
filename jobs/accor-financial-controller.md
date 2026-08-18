@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Baghdad, Baghdad, Iraq |
-| Category | Corporate Finance |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000142507499-financial-controller) |
+| Location | Singapore, Singapore |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000142786209-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-08-09.
+This fp&a / strategic finance position at ACCOR was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

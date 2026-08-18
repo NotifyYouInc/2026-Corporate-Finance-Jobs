@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fnz](https://scoutify.ai/companies/fnz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Quant Research |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://fnz.wd3.myworkdayjobs.com/fnz_careers/job/Kuala-Lumpur---Malaysia/Trading-and-Settlements-Analyst_REQ-17016) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://fnz.wd3.myworkdayjobs.com/fnz_careers/job/Kuala-Lumpur---Malaysia/Trading-and-Settlements-Analyst_REQ-17329) |
 
 ## About This Role
 
-This quant research position at Fnz was posted on 2026-07-27.
+This asset management / portfolio management position at Fnz was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

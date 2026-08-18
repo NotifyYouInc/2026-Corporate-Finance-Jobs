@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Senior-Statutory-Accountant_R273397) |
+| Category | Accounting |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Senior-Statutory-Accountant_R331938-1) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-02-12.
+This accounting position at Cushman & Wakefield was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

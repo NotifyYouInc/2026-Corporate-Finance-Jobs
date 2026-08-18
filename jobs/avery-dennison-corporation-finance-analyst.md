@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phnom Penh, Phnom Penh, Cambodia |
+| Location | Querétaro, Chiapas, Mexico |
 | Category | Financial Analyst |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000139867549-finance-analyst) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000142752309-finance-analyst) |
 
 ## About This Role
 
-This financial analyst position at Avery Dennison Corporation was posted on 2026-07-26.
+This financial analyst position at Avery Dennison Corporation was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

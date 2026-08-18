@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jefferson Health](https://scoutify.ai/companies/jefferson-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jeffersonhealth.wd5.myworkdayjobs.com/thomasjeffersonexternal/job/Philadelphia-PA/Revenue-Cycle-Rep-II_REQ-0028282-1) |
+| Category | Accounting |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jeffersonhealth.wd5.myworkdayjobs.com/thomasjeffersonexternal/job/Philadelphia-PA/Revenue-Cycle-Rep-II_REQ-0033837) |
 
 ## About This Role
 
-This corporate finance position at Jefferson Health was posted on 2026-04-28.
+This accounting position at Jefferson Health was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000126899519-procure-to-pay-specialist) |
+| Category | Accounting |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000142796115-procure-to-pay-specialist) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-05-18.
+This accounting position at SGS was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

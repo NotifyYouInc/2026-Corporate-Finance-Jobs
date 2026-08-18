@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synthesis Health](https://scoutify.ai/companies/synthesis-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/synthesishealth/jobs/4692967005) |
+| Location | Huntington, West Virginia, United States |
+| Category | Accounting |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/synthesishealth/jobs/4722747005) |
 
 ## About This Role
 
-This corporate finance position at Synthesis Health was posted on 2026-05-13.
+This accounting position at Synthesis Health was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

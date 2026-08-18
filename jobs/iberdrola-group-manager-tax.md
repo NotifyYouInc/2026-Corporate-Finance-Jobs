@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Massachusetts-Boston/Manager---Tax_R-28510) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/Manager---Tax_R-32364) |
 
 ## About This Role
 
-This corporate finance position at Iberdrola Group was posted on 2026-04-07.
+This accounting position at Iberdrola Group was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

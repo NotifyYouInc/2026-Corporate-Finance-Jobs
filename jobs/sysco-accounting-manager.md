@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Work-From-Home/Accounting-Manager_R241419) |
+| Location | United States |
+| Category | Accounting |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Work-From-Home/Accounting-Manager_R262241) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-03-12.
+This accounting position at Sysco was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

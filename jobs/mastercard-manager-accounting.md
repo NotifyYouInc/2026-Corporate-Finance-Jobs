@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Purchase, New York, United States |
 | Category | Accounting |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Accounting_R-281352) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Accounting_R-287383) |
 
 ## About This Role
 
-This accounting position at Mastercard was posted on 2026-08-03.
+This accounting position at Mastercard was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bellevue-Washington-United-States-of-America/Registered-Client-Service-Associate_JR041964-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Scottsdale-Arizona-United-States-of-America/Registered-Client-Service-Associate_JR042132) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-08-07.
+This corporate finance position at Morgan Stanley was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

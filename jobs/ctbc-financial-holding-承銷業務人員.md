@@ -5,12 +5,12 @@
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Investment Banking |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/_JR8515) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/_JR8844) |
 
 ## About This Role
 
-This investment banking position at CTBC Financial Holding was posted on 2026-07-07.
+This investment banking position at CTBC Financial Holding was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

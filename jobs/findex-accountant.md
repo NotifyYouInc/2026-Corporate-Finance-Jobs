@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Findex](https://scoutify.ai/companies/ap1-cx-oj37128?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hamilton, Victoria, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5463) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5495) |
 
 ## About This Role
 
-This accounting position at Findex was posted on 2026-07-30.
+This accounting position at Findex was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

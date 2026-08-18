@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kansas City, Missouri, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Kansas-City-MO/PWM-Private-Wealth-Advisor_2026-0017527) |
+| Location | Cincinnati, Ohio, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/PWM-Private-Wealth-Advisor_2026-0024413) |
 
 ## About This Role
 
-This wealth management / private banking position at U.S. Bancorp was posted on 2026-07-03.
+This corporate finance position at U.S. Bancorp was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

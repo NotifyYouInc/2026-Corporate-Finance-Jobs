@@ -1,16 +1,16 @@
-# HOTEL ACCOUNTANT  at ACCOR
+# Hotel Accountant at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Honolulu, Hawaii, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000127567229-hotel-accountant) |
+| Location | Cairns, Queensland, Australia |
+| Category | Accounting |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000142743549-hotel-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-05-21.
+This accounting position at ACCOR was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

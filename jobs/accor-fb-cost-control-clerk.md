@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cairo, Cairo, Egypt |
-| Category | Corporate Finance |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000142506869-fb-cost-control-clerk) |
+| Category | Accounting |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000142798167-fb-cost-control-clerk) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-08-09.
+This accounting position at ACCOR was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

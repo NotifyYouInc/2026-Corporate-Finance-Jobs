@@ -1,16 +1,16 @@
-# Procure to Pay Intern at Air Liquide
+# Procure To Pay Intern at Air Liquide
 
 | Field | Details |
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Argentina |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Argentina-Munro/Procure-to-Pay-Intern_R10094760) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Argentina-Munro/Procure-To-Pay-Intern_R10097552) |
 
 ## About This Role
 
-This accounting position at Air Liquide was posted on 2026-07-07.
+This accounting position at Air Liquide was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

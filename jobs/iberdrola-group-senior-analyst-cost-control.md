@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | East Hartford, Connecticut, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-East-Hartford/Senior-Analyst---Cost-Control_R-30845) |
+| Location | Pittsfield, Massachusetts, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Massachusetts-Pittsfield/Senior-Analyst---Cost-Control_R-32231) |
 
 ## About This Role
 
-This corporate finance position at Iberdrola Group was posted on 2026-06-22.
+This fp&a / strategic finance position at Iberdrola Group was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

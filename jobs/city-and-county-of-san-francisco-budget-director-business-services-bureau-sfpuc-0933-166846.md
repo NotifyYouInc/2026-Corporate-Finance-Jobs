@@ -5,12 +5,12 @@
 | Company | [City and County of San Francisco](https://scoutify.ai/companies/city-and-county-of-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990014397356-budget-director-business-services-bureau-sfpuc-0933-166846) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990014523026-budget-director-business-services-bureau-sfpuc-0933-166846) |
 
 ## About This Role
 
-This fp&a / strategic finance position at City and County of San Francisco was posted on 2026-07-31.
+This fp&a / strategic finance position at City and County of San Francisco was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

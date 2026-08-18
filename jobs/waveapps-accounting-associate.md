@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Waveapps](https://scoutify.ai/companies/waveapps?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.lever.co/waveapps/d22e7dc3-dc5d-46f2-b97d-2af543b7100f) |
+| Category | Accounting |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.lever.co/waveapps/69616656-9b45-45e9-8170-9d4915a3fde0) |
 
 ## About This Role
 
-This corporate finance position at Waveapps was posted on 2026-05-12.
+This accounting position at Waveapps was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

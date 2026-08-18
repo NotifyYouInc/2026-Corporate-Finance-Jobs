@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jacobs Douwe Egberts](https://scoutify.ai/companies/jacobsdouweegberts?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Masai, Johor, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000119516057-general-ledger-specialist) |
+| Category | Accounting |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000142790364-general-ledger-specialist) |
 
 ## About This Role
 
-This corporate finance position at Jacobs Douwe Egberts was posted on 2026-04-09.
+This accounting position at Jacobs Douwe Egberts was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

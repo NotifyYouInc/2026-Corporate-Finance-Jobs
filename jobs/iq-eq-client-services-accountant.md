@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000115579863-client-services-accountant) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Accounting |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000142790201-client-services-accountant) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-03-19.
+This accounting position at IQ-EQ was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

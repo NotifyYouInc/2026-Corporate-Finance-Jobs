@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000141333819-securitized-research-analyst-lg-asset-management-america) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000142749769-securitized-research-analyst-lg-asset-management-america) |
 
 ## About This Role
 
-This corporate finance position at Legal & General was posted on 2026-08-03.
+This asset management / portfolio management position at Legal & General was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

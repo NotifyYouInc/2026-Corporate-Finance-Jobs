@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Querétaro, Chiapas, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Queretaro-BSC-Mexico/Accountant_R-19579) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Yangsan-Korea/Accountant_R-20455) |
 
 ## About This Role
 
-This corporate finance position at Flowserve was posted on 2026-06-01.
+This accounting position at Flowserve was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

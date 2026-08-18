@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Buckhead-Atlanta/Accountant-II_R262150) |
+| Location | Minnesota, US |
+| Category | Accounting |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Buckhead-Minnesota/Accountant-II_R262246) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-08-07.
+This accounting position at Sysco was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

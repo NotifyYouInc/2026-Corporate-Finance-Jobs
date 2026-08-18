@@ -1,16 +1,16 @@
-# Underwriting Associate - Middle Market at CNA Insurance
+# Underwriting Associate (Middle Market) at CNA Insurance
 
 | Field | Details |
 |-------|---------|
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/New-York-NY-USA/Underwriting-Associate---Middle-Market_R-7251) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Boston-MA-USA/Underwriting-Associate--Middle-Market-_R-7927) |
 
 ## About This Role
 
-This corporate finance position at CNA Insurance was posted on 2026-04-03.
+This actuary / insurance analytics position at CNA Insurance was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

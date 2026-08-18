@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/MX---Mexico-City/Accounting-Specialist_R190595) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/MX---Mexico-City/Accounting-Specialist_R191317) |
 
 ## About This Role
 
-This accounting position at A.P. Moller - Maersk was posted on 2026-07-24.
+This accounting position at A.P. Moller - Maersk was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

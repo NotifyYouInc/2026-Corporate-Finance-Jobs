@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138773729-accountant-2-fund-accounting) |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000142780078-accountant-2-fund-accounting) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-21.
+This venture capital / private equity position at IQ-EQ was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

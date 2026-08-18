@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Costa Rica |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Antonio-de-Belen-Costa-Rica/Accounts-Payable-Clerk_R565343) |
+| Category | Accounting |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Antonio-de-Belen-Costa-Rica/Accounts-Payable-Clerk_R570630) |
 
 ## About This Role
 
-This corporate finance position at Stryker was posted on 2026-05-19.
+This accounting position at Stryker was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

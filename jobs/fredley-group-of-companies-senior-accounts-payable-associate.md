@@ -5,12 +5,12 @@
 | Company | [Fredley Group of Companies](https://scoutify.ai/companies/fredleygroupofcompanies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FredleyGroupOfCompanies/744000138985669-senior-accounts-payable-associate) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FredleyGroupOfCompanies/744000142779919-senior-accounts-payable-associate) |
 
 ## About This Role
 
-This accounting position at Fredley Group of Companies was posted on 2026-07-22.
+This accounting position at Fredley Group of Companies was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

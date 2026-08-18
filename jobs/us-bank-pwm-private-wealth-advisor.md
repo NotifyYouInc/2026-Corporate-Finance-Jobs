@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | Cincinnati, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irvine-CA/PWM-Private-Wealth-Advisor_2026-0024286) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/PWM-Private-Wealth-Advisor_2026-0024182) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-08-06.
+This corporate finance position at U.S. Bank was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Austin, Texas, United States |
 | Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Assurance-Associate---Fall-2028_JR120396) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Austin/Assurance-Associate---Fall-2028_JR118383) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-07-29.
+This accounting position at RSM was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

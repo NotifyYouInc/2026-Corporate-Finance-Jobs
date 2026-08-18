@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Shanghai-Hongkou-CN---AIA-Group-Office/Assistant-Manager--Actuarial-Services_JR-67027) |
+| Location | Shanghai, Shanghai, China |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Shanghai-Hongkou-CN---AIA-Group-Office/Assistant-Manager--Actuarial-Services_JR-67123) |
 
 ## About This Role
 
-This corporate finance position at AIA Group was posted on 2026-05-28.
+This actuary / insurance analytics position at AIA Group was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

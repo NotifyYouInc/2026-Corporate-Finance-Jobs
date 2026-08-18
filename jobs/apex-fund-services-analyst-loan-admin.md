@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Financial Analyst |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Analyst---Loan-Admin_JR-0024911) |
+| Location | Pune, Maharashtra, India |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Analyst---Loan-Admin_JR-0025559) |
 
 ## About This Role
 
-This financial analyst position at Apex Fund Services was posted on 2026-07-11.
+This asset management / portfolio management position at Apex Fund Services was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

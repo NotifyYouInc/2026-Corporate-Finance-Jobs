@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/Manager--Assurance_JR6442) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Manager--Assurance_JR6763) |
 
 ## About This Role
 
-This corporate finance position at BDO Dunwoody was posted on 2026-06-11.
+This accounting position at BDO Dunwoody was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

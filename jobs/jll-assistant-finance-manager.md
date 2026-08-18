@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Assistant-Finance-Manager_REQ526654) |
+| Location | Brisbane, Queensland, Australia |
+| Category | Financial Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Brisbane-QLD/Assistant-Finance-Manager_REQ525938) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-08-10.
+This financial analyst position at JLL was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

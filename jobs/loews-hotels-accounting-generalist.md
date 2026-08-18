@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Loews Hotels](https://scoutify.ai/companies/loews-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Coral Gables, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://loewshotels.wd5.myworkdayjobs.com/loewshotels/job/FL---Coral-Gables---Loews-Coral-Gables/Accounting-Generalist_R0083142) |
+| Location | New Orleans, Louisiana, United States |
+| Category | Accounting |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://loewshotels.wd5.myworkdayjobs.com/loewshotels/job/LA---New-Orleans---Loews-New-Orleans-Hotel/Accounting-Generalist_R0087345) |
 
 ## About This Role
 
-This corporate finance position at Loews Hotels was posted on 2026-03-19.
+This accounting position at Loews Hotels was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

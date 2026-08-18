@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bonifacio-Global-City-PHL/Senior-Accountant--Accounting-to-Reporting_R0261488) |
+| Category | Accounting |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bonifacio-Global-City-PHL/Senior-Accountant--Accounting-to-Reporting_R0260747-1) |
 
 ## About This Role
 
-This corporate finance position at Fresenius Medical Care was posted on 2026-08-05.
+This accounting position at Fresenius Medical Care was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

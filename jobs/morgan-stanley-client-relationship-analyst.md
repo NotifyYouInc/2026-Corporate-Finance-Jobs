@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Columbus, Ohio, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Columbus-Ohio-United-States-of-America/Client-Relationship-Analyst_JR041427) |
+| Location | Duncan, Oklahoma, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Duncan-Oklahoma-United-States-of-America/Client-Relationship-Analyst_JR041898) |
 
 ## About This Role
 
-This wealth management / private banking position at Morgan Stanley was posted on 2026-07-28.
+This corporate finance position at Morgan Stanley was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

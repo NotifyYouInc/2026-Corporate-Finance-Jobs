@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000136990860-financial-planning-and-analysis-analyst-hybrid-day-1-hmo) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000142783068-financial-planning-and-analysis-analyst-hybrid-day-1-hmo) |
 
 ## About This Role
 
-This fp&a / strategic finance position at IQ-EQ was posted on 2026-07-10.
+This fp&a / strategic finance position at IQ-EQ was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

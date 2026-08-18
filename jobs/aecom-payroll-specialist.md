@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127488559-payroll-specialist) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000142795051-payroll-specialist) |
 
 ## About This Role
 
-This corporate finance position at AECOM was posted on 2026-05-20.
+This human resources / people ops position at AECOM was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

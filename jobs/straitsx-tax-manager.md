@@ -5,12 +5,12 @@
 | Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4925786101) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4950147101) |
 
 ## About This Role
 
-This accounting position at StraitsX was posted on 2026-07-13.
+This accounting position at StraitsX was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

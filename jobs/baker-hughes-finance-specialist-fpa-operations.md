@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Stavanger, Rogaland, Norway |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/NO-Rogaland-Stavanger-Finnestadveien-9/Finance-Specialist---FP-A-Operations_R161286) |
+| Location | Houston, Texas, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Finance-Specialist---FP-A-Operations_R165938-1) |
 
 ## About This Role
 
-This corporate finance position at Baker Hughes was posted on 2026-03-06.
+This fp&a / strategic finance position at Baker Hughes was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

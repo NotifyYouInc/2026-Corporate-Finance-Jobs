@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Veracruz, MX |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boca-del-Rio/MEX-Gte-Admision-de-Credito-Agropecuario_Req1545983) |
+| Location | Querétaro, MX |
+| Category | Financial Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-EDIFICIO-DISTRITO-QRO/MEX-Gte-Admision-de-Credito-Agropecuario_Req1598840) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-02-20.
+This financial analyst position at Santander was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

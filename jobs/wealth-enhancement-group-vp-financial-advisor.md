@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lake Oswego, Oregon, United States |
+| Location | Hartford, Connecticut, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Lake-Oswego-OR/VP-Financial-Advisor_R-102380) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Hartford-CT/VP-Financial-Advisor_R-102673) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-04-24.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

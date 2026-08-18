@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Kansas-City-Missouri-United-States-of-America/Registered-Client-Relationship-Analyst_JR040310-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Houston-Texas-United-States-of-America/Registered-Client-Relationship-Analyst_JR039949) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-08-06.
+This corporate finance position at Morgan Stanley was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
