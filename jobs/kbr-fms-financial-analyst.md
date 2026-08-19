@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lexington Park, Maryland, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Park-Maryland/FMS-Financial-Analyst_R2123738) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/FMS-Financial-Analyst_R2128142) |
 
 ## About This Role
 
-This corporate finance position at KBR was posted on 2026-05-14.
+This corporate finance position at KBR was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

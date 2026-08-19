@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Springdale, Arkansas, United States |
+| Location | Arkansas, US |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Sr-Analyst-Finance_R0462000-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Sr-Analyst-Finance_R0478095) |
 
 ## About This Role
 
-This corporate finance position at Tyson Foods was posted on 2026-05-19.
+This corporate finance position at Tyson Foods was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

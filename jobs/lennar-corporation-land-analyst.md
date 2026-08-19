@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Houston-TX-Job-Posting-Location/Land-Analyst_R26_0000003136) |
+| Location | San Antonio, Texas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/San-Antonio-TX-Job-Posting-Location/Land-Analyst_R26_0000002731) |
 
 ## About This Role
 
-This financial analyst position at Lennar Corporation was posted on 2026-07-14.
+This corporate finance position at Lennar Corporation was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

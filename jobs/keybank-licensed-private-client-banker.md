@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Marysville, Washington, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Marysville-WA/Licensed-Private-Client-Banker_R-41296) |
+| Location | Redmond, Washington, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Redmond-WA/Licensed-Private-Client-Banker_R-41510) |
 
 ## About This Role
 
-This wealth management / private banking position at KeyBank was posted on 2026-08-04.
+This corporate finance position at KeyBank was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

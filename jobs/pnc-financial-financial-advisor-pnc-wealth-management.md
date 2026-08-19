@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Philadelphia-19116/Financial-Advisor---PNC-Wealth-Management_R230946-1) |
+| Location | Bethesda, Maryland, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/MD---Bethesda-20814/Financial-Advisor---PNC-Wealth-Management_R232137-1) |
 
 ## About This Role
 
-This wealth management / private banking position at PNC Financial was posted on 2026-07-31.
+This corporate finance position at PNC Financial was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

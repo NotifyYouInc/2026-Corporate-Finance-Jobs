@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000137056376-german-speaking-banking-specialist-associate-income-corporate-actions) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000143029669-german-speaking-banking-specialist-associate-income-corporate-actions) |
 
 ## About This Role
 
-This wealth management / private banking position at Avaloq was posted on 2026-07-10.
+This asset management / portfolio management position at Avaloq was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

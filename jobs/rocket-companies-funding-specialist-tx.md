@@ -5,12 +5,12 @@
 | Company | [Rocket Companies](https://scoutify.ai/companies/quickenloans?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Fort Worth, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Fort-Worth-TX/Funding-Specialist_R-082185-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Fort-Worth-TX/Funding-Specialist--TX-_R-084101-1) |
 
 ## About This Role
 
-This corporate finance position at Rocket Companies was posted on 2026-04-23.
+This corporate finance position at Rocket Companies was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

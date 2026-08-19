@@ -5,12 +5,12 @@
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Langley, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Langley-British-Columbia-Canada/Controller_R26_02502) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Langley-British-Columbia-Canada/Controller_R26_03486-1) |
 
 ## About This Role
 
-This corporate finance position at Regal Rexnord was posted on 2026-05-20.
+This corporate finance position at Regal Rexnord was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

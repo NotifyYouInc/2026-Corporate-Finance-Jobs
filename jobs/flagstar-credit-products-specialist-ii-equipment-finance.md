@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hicksville, New York, United States |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Hicksville100-Duffy-Avenue110025/Credit-Products-Specialist-II---Equipment-Finance_20234) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-United-States/Credit-Products-Specialist-II---Equipment-Finance_20937) |
 
 ## About This Role
 
-This corporate finance position at Flagstar was posted on 2026-06-25.
+This corporate finance position at Flagstar was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [RYZ Labs](https://scoutify.ai/companies/ryz-labs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Argentina |
 | Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.lever.co/RyzLabs/ea6844f3-6cdc-4d9d-b3d3-a610cfcb06d0) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.lever.co/RyzLabs/56921b40-4ee4-4c32-88a8-5e121579be8e) |
 
 ## About This Role
 
-This corporate finance position at RYZ Labs was posted on 2026-06-17.
+This corporate finance position at RYZ Labs was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

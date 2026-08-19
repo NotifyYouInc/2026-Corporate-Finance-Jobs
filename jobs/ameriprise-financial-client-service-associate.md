@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnetonka, Minnesota, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minnetonka-Minnesota/Client-Service-Associate_R26_3093) |
+| Location | Houston, Texas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Houston-Texas/Client-Service-Associate_R26_3185) |
 
 ## About This Role
 
-This wealth management / private banking position at Ameriprise Financial was posted on 2026-08-04.
+This corporate finance position at Ameriprise Financial was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

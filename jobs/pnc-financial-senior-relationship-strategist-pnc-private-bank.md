@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Grand Rapids, Michigan, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/MI---Grand-Rapids-49503/Senior-Relationship-Strategist---PNC-Private-Bank_R229834) |
+| Location | Atlanta, Georgia, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/GA---Atlanta-30309/Senior-Relationship-Manager---PNC-Private-Bank_R199343) |
 
 ## About This Role
 
-This wealth management / private banking position at PNC Financial was posted on 2026-07-22.
+This corporate finance position at PNC Financial was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

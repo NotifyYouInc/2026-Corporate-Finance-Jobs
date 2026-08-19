@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Senior Lifestyle](https://scoutify.ai/companies/seniorlifestyle?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Holland, Michigan, United States |
+| Location | Northville, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorLifestyle1/744000126167769-business-office-manager) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorLifestyle1/744000142979009-business-office-manager) |
 
 ## About This Role
 
-This corporate finance position at Senior Lifestyle was posted on 2026-05-12.
+This corporate finance position at Senior Lifestyle was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Modera Wealth Management](https://scoutify.ai/companies/moderawealthmanagement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Asheville, North Carolina, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/moderawealthmanagement/jobs/5378349008) |
+| Location | Atlanta, Georgia, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/moderawealthmanagement/jobs/5386299008) |
 
 ## About This Role
 
-This wealth management / private banking position at Modera Wealth Management was posted on 2026-08-03.
+This corporate finance position at Modera Wealth Management was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

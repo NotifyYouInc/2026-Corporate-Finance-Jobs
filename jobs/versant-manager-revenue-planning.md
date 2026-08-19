@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Hollywood, California, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000140965104-manager-revenue-planning) |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000142951779-manager-revenue-planning) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Versant was posted on 2026-07-31.
+This corporate finance position at Versant was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

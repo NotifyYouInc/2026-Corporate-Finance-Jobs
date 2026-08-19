@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Music Global](https://scoutify.ai/companies/sony-music-global?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8438683002) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690344002) |
 
 ## About This Role
 
-This corporate finance position at Sony Music Global was posted on 2026-05-23.
+This corporate finance position at Sony Music Global was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

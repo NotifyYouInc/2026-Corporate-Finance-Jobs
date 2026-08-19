@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Financial Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000137798909-officer-2-loan-services) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000143021648-officer-2-loan-services) |
 
 ## About This Role
 
-This financial analyst position at IQ-EQ was posted on 2026-07-15.
+This asset management / portfolio management position at IQ-EQ was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

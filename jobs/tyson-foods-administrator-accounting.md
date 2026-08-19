@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Caseyville, Illinois, United States |
-| Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Caseyville-Plant---Caseyville-Illinois/Administrator-Accounting_R0473748-1) |
+| Location | Springdale, Arkansas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-on-Thompson---Springdale-Arkansas/Administrator-Accounting_R0473838) |
 
 ## About This Role
 
-This accounting position at Tyson Foods was posted on 2026-07-29.
+This corporate finance position at Tyson Foods was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

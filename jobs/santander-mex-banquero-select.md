@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Allende, Veracruz, Mexico |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Allende/MEX-Banquero-Select_Req1595431-1) |
+| Location | Zapopan, Jalisco, Mexico |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Zapopan/MEX-Banquero-Select_Req1600365) |
 
 ## About This Role
 
-This wealth management / private banking position at Santander was posted on 2026-07-23.
+This corporate finance position at Santander was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

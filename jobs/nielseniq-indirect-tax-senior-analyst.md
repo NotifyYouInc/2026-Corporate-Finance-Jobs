@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138196189-indirect-tax-senior-analyst) |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142971810-indirect-tax-senior-analyst) |
 
 ## About This Role
 
-This accounting position at NielsenIQ was posted on 2026-07-16.
+This corporate finance position at NielsenIQ was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Associate, Strategic Finance at LinkedIn
+# Sr. Associate Strategic Finance at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000112815997-sr-associate-strategic-finance) |
+| Location | Sunnyvale, California, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000142934369-sr-associate-strategic-finance) |
 
 ## About This Role
 
-This corporate finance position at LinkedIn was posted on 2026-03-05.
+This strategy & operations position at LinkedIn was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

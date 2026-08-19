@@ -5,12 +5,12 @@
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Bucharest-Romania/Accounts-Payable-Receivable-Analyst-I_R0030000) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Bucharest-Romania/Accounts-Payable-Receivable-Analyst-I_R0031946) |
 
 ## About This Role
 
-This corporate finance position at Solenis was posted on 2026-05-15.
+This corporate finance position at Solenis was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

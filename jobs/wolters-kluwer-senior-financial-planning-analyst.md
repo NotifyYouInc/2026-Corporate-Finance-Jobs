@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Senior-Financial-Planning-Analyst_R0053478) |
+| Location | Cluj-Napoca, Cluj County, Romania |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ROU---Cluj-Napoca/Senior-Financial-Planning-Analyst_R0059084-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Wolters Kluwer was posted on 2026-07-06.
+This corporate finance position at Wolters Kluwer was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

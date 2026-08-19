@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newport Beach, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Newport-Beach-California-United-States-of-America/Chief-of-Staff_JR036446) |
+| Location | New York City, New York, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Chief-of-Staff_JR042187-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-05-08.
+This strategy & operations position at Morgan Stanley was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

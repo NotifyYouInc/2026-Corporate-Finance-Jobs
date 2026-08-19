@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ridgeland, Mississippi, United States |
+| Location | Vienna, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Ridgeland/Wealth-Management-Client-Associate_26028039) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Vienna/Wealth-Management-Client-Associate_26028782) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-08-11.
+This corporate finance position at Bank of America was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

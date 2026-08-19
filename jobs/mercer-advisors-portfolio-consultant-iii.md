@@ -5,12 +5,12 @@
 | Company | [Mercer Advisors](https://scoutify.ai/companies/merceradvisors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/merceradvisors/jobs/5219425008) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/merceradvisors/jobs/5355999008) |
 
 ## About This Role
 
-This corporate finance position at Mercer Advisors was posted on 2026-05-15.
+This corporate finance position at Mercer Advisors was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

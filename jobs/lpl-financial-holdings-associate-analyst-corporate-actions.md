@@ -1,16 +1,16 @@
-# Associate Analyst - Corporate Actions at LPL Financial Holdings
+# Associate Analyst, Corporate Actions at LPL Financial Holdings
 
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/Associate-Analyst---Corporate-Actions_R-052672-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/Associate-Analyst--Corporate-Actions_R-052705-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-08-07.
+This corporate finance position at LPL Financial Holdings was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

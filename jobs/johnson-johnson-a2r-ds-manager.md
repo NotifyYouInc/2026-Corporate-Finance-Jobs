@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Raynham, Massachusetts, United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/A2R-DS-Manager_R-078361-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bogot-Distrito-Capital-Colombia/A2R-DS-Manager_R-090220-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-06-09.
+This corporate finance position at Johnson & Johnson was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Northbrook, Illinois, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Northbrook/Senior-Analyst--FP-A_R0983744-1) |
+| Location | Hartford, Connecticut, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Senior-Analyst--FP-A_R0995201) |
 
 ## About This Role
 
-This fp&a / strategic finance position at CVS Health was posted on 2026-08-03.
+This corporate finance position at CVS Health was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

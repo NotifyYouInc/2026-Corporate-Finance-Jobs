@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gatineau, Quebec, Canada |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Gatineau/Conseiller-ou-conseillre--finances-personnelles_R2609756-1) |
+| Location | Trois-Rivières, Quebec, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Trois-Rivires/Conseiller-ou-conseillre--Finances-personnelles_R2610012-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Desjardins was posted on 2026-08-01.
+This corporate finance position at Desjardins was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

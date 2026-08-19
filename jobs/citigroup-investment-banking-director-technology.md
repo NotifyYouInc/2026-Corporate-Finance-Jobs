@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Investment-Banking-Director---Technology_26946940) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Investment-Banking-Director---Technology_26985011) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-16.
+This corporate finance position at Citigroup was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

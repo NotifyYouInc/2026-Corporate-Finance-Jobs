@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Orlando-Florida/P1-Advisor-Non-Exempt_R26_3075) |
+| Location | St. Charles, Maryland, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/St-Charles-Illinois/P1-Advisor-Non-Exempt_R26_3205) |
 
 ## About This Role
 
-This wealth management / private banking position at Ameriprise Financial was posted on 2026-08-04.
+This corporate finance position at Ameriprise Financial was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [KordaMentha](https://scoutify.ai/companies/kordamentha?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kordamentha/6000000001301164-asset-manager) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kordamentha/6000000001306543-asset-manager) |
 
 ## About This Role
 
-This asset management / portfolio management position at KordaMentha was posted on 2026-08-10.
+This asset management / portfolio management position at KordaMentha was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

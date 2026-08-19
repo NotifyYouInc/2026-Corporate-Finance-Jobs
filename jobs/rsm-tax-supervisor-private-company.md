@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Salt Lake City, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Tax-Supervisor---Private-Company_JR113407) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Salt-Lake-City/Tax-Supervisor---Private-Company_JR104672-1) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-05-12.
+This corporate finance position at RSM was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

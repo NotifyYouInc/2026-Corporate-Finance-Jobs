@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Georgia |
 | Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Bangkok/Accountant_20097134-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Georgia/Accountant_20091830) |
 
 ## About This Role
 
-This corporate finance position at Acciona was posted on 2026-06-18.
+This corporate finance position at Acciona was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

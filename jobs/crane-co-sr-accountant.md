@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crane Co.](https://scoutify.ai/companies/cranecompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indiana, US |
+| Location | Twinsburg, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Brazil-Indiana/Sr-Accountant_JR101178) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/70900-USA7900-VS-USA_TWINSBURG-OH/Sr-Accountant_JR101746) |
 
 ## About This Role
 
-This corporate finance position at Crane Co. was posted on 2026-03-06.
+This corporate finance position at Crane Co. was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

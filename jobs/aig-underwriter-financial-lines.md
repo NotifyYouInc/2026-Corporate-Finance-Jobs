@@ -1,16 +1,16 @@
-# Underwriter, Financial Lines at AIG
+# Underwriter Financial Lines at AIG
 
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Singapore/Underwriter--Financial-Lines_JR2602143) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Bogota/Underwriter-Financial-Lines_JR2601032) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-06-08.
+This actuary / insurance analytics position at AIG was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

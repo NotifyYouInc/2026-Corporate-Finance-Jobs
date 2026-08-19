@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsylvania, US |
+| Location | Louisville, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Wexford/Client-Specialist_R2026837-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Louisville/Client-Specialist_R2026861-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-08-05.
+This corporate finance position at Baird was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

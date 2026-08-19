@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dublin, California, United States |
-| Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Accounting-Supervisor_20184752) |
+| Category | Corporate Finance |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Accounting-Supervisor_20185391) |
 
 ## About This Role
 
-This accounting position at Cardinal Health was posted on 2026-07-31.
+This corporate finance position at Cardinal Health was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

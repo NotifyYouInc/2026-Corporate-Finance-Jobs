@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boca Raton, Florida, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Boca-Raton-Florida-United-States-of-America/Business-Service-Officer_JR041877-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Charleston-West-Virginia-United-States-of-America/Business-Service-Officer_JR041603-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-08-07.
+This corporate finance position at Morgan Stanley was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

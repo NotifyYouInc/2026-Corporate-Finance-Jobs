@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Senior plc](https://scoutify.ai/companies/seniorplc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sharon, Pennsylvania, United States |
+| Location | Burbank, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorPlc1/3743990013011426-controller) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SeniorPlc1/3743990014541756-controller) |
 
 ## About This Role
 
-This corporate finance position at Senior plc was posted on 2026-05-06.
+This corporate finance position at Senior plc was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Somerville, Massachusetts, United States |
-| Category | Compliance & Risk Management |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://careers.formlabs.com/job/8097540/apply/?gh_jid=8097540) |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://careers.formlabs.com/job/8122186/apply/?gh_jid=8122186) |
 
 ## About This Role
 
-This compliance & risk management position at Formlabs was posted on 2026-07-30.
+This corporate finance position at Formlabs was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

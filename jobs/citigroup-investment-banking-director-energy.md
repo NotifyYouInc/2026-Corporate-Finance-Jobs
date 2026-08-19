@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Investment-Banking-Director---Energy_26947894) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Investment-Banking-Director---Energy_26985542) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-20.
+This corporate finance position at Citigroup was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
