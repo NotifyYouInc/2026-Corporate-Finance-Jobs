@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Irvine, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Taiwan-Taipei/Senior-Analyst--Finance_Req-45704) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Senior-Analyst--Finance_Req-50039) |
 
 ## About This Role
 
-This corporate finance position at Edwards Lifesciences was posted on 2026-02-06.
+This corporate finance position at Edwards Lifesciences was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

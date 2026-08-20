@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Arkansas, US |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Sr-Controller_R0470419-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Sr-Controller_R0475182-1) |
 
 ## About This Role
 
-This accounting position at Tyson Foods was posted on 2026-07-17.
+This accounting position at Tyson Foods was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

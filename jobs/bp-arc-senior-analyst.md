@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/ARC-Senior-Analyst_RQ111754-1) |
+| Category | Accounting |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/ARC-Senior-Analyst_RQ114449-1) |
 
 ## About This Role
 
-This corporate finance position at BP was posted on 2026-06-05.
+This accounting position at BP was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

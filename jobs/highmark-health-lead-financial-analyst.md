@@ -5,12 +5,12 @@
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Arkansas, US |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Lead-Financial-Analyst_J281019) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Lead-Financial-Analyst_J285822) |
 
 ## About This Role
 
-This corporate finance position at Highmark Health was posted on 2026-05-14.
+This corporate finance position at Highmark Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [fi](https://scoutify.ai/companies/fi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.lever.co/fi/976f592a-2087-457c-b7cf-c1ecdcd94070) |
+| Category | Accounting |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.lever.co/fi/353d04f8-a1d4-489a-836a-ac6f4a6d7443) |
 
 ## About This Role
 
-This corporate finance position at fi was posted on 2026-05-21.
+This accounting position at fi was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

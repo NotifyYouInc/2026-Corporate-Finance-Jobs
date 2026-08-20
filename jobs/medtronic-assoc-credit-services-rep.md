@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Assoc-Credit-Services-Rep_R63624-2) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Accounting |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Assoc-Credit-Services-Rep_R70666-2) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-04-07.
+This accounting position at Medtronic was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

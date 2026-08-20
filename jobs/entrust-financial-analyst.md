@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Entrust](https://scoutify.ai/companies/entrust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shakopee, Minnesota, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Financial-Analyst_R004279) |
+| Category | Corporate Finance |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Financial-Analyst_R004327) |
 
 ## About This Role
 
-This financial analyst position at Entrust was posted on 2026-07-21.
+This corporate finance position at Entrust was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

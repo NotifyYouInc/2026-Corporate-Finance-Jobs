@@ -5,12 +5,12 @@
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Charlotte-NC---1025-Morehead-Medical-Dr/Financial-Coordinator_R253985) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Financial-Coordinator_R261190) |
 
 ## About This Role
 
-This corporate finance position at Advocate Health was posted on 2026-07-30.
+This corporate finance position at Advocate Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

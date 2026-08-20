@@ -5,12 +5,12 @@
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/a19887d2-bbf8-42a5-b431-a2e16d8132c4) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/3c07323e-04da-4fff-b925-a60294941040) |
 
 ## About This Role
 
-This corporate finance position at OpenAI was posted on 2026-03-06.
+This corporate finance position at OpenAI was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

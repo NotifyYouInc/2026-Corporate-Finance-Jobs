@@ -5,12 +5,12 @@
 | Company | [TAL](https://scoutify.ai/companies/tal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000140597359-actuarial-analyst) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000143217959-actuarial-analyst) |
 
 ## About This Role
 
-This actuary / insurance analytics position at TAL was posted on 2026-07-30.
+This actuary / insurance analytics position at TAL was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

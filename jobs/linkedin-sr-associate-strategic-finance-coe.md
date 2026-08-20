@@ -1,16 +1,16 @@
-# Sr. Associate, Strategic Finance - COE  at LinkedIn
+# Sr. Associate Strategic Finance COE at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000120037769-sr-associate-strategic-finance-coe) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Strategy & Operations |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000143226919-sr-associate-strategic-finance-coe) |
 
 ## About This Role
 
-This corporate finance position at LinkedIn was posted on 2026-04-10.
+This strategy & operations position at LinkedIn was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

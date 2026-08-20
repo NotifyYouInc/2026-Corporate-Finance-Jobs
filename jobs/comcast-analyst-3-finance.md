@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | West Palm Beach, Florida, United States |
+| Location | Colorado, US |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---West-Palm-Beach-1401-Northpoint-Parkway/Analyst-3--Finance_R438827) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Denver-8000-E-Iliff-Ave/Analyst-3--Finance_R442706) |
 
 ## About This Role
 
-This corporate finance position at Comcast was posted on 2026-06-10.
+This corporate finance position at Comcast was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

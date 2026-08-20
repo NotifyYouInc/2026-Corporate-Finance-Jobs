@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Newmarket-Ontario-CA/Assistant-Controller_R00255120-1) |
+| Location | Troy, Michigan, United States |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Troy-Michigan-US/Assistant-Controller_R00256210) |
 
 ## About This Role
 
-This corporate finance position at Magna was posted on 2026-08-04.
+This accounting position at Magna was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | National Capital Region, PH |
-| Category | Compliance & Risk Management |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/Tax-Compliance-Analyst_JR-202614582) |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/Tax-Compliance-Analyst_JR-202617743) |
 
 ## About This Role
 
-This compliance & risk management position at General Motors was posted on 2026-07-23.
+This accounting position at General Motors was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

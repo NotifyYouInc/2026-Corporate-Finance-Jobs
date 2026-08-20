@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEI Investments](https://scoutify.ai/companies/sei-investments?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pennsylvania, US |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Specialist-I--Financial-Reporting_R0036445) |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Specialist-I--Financial-Reporting_R0037456) |
 
 ## About This Role
 
-This corporate finance position at SEI Investments was posted on 2026-06-09.
+This accounting position at SEI Investments was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

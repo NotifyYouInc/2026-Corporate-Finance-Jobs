@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tlaquepaque, Jalisco, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/Collections-Analyst_3162162-1) |
+| Category | Accounting |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/Collections-Analyst_3162117-2) |
 
 ## About This Role
 
-This corporate finance position at Hewlett Packard (HP) was posted on 2026-06-25.
+This accounting position at Hewlett Packard (HP) was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

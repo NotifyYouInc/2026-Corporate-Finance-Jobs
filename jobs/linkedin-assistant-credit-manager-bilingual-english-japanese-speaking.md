@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000141840929-assistant-credit-manager-bilingual-english-japanese-speaking) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000143203591-assistant-credit-manager-bilingual-english-japanese-speaking) |
 
 ## About This Role
 
-This corporate finance position at LinkedIn was posted on 2026-08-06.
+This corporate finance position at LinkedIn was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

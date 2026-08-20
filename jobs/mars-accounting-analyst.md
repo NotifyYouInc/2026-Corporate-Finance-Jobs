@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guararema, São Paulo, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/BRA-Sao-Paulo-Guararema/Accounting-Analyst_R150990-1) |
+| Location | Mercedes, Buenos Aires, Argentina |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/ARG-Buenos-Aires-Mercedes/Accounting-Analyst_R162535-1) |
 
 ## About This Role
 
-This corporate finance position at Mars was posted on 2026-03-25.
+This accounting position at Mars was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Broomfield, Colorado, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Broomfield-CO/Accountant_JR0000041782) |
+| Location | Mörfelden-Walldorf, Hesse, Germany |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Hesse-DE/Accountant_JR0000044970) |
 
 ## About This Role
 
-This corporate finance position at Marmon Holdings was posted on 2026-03-14.
+This accounting position at Marmon Holdings was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

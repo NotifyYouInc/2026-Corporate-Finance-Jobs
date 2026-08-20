@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Birmingham, Alabama, United States |
+| Location | Hoover, Alabama, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Financial-Planning-and-Analysis-Analyst_R103491-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/Financial-Planning-and-Analysis-Analyst_R104939-1) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-06-24.
+This corporate finance position at Regions Bank was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

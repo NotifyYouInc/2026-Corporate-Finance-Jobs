@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Poland |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Poland---Remote/Finance-Manager_26WD97758-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Finance-Manager_26WD100502) |
 
 ## About This Role
 
-This corporate finance position at Autodesk was posted on 2026-05-28.
+This corporate finance position at Autodesk was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

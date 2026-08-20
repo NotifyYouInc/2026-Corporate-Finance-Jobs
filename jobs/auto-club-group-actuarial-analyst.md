@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Group](https://scoutify.ai/companies/acg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dearborn, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://acg.wd1.myworkdayjobs.com/Careers/job/MI-Admin-Office-Building-AOB/Actuarial-Analyst_JR16514) |
+| Location | Michigan, US |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://acg.wd1.myworkdayjobs.com/Careers/job/MI-Admin-Office-Building-AOB/Actuarial-Analyst_JR17307) |
 
 ## About This Role
 
-This corporate finance position at Auto Club Group was posted on 2026-06-08.
+This actuary / insurance analytics position at Auto Club Group was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

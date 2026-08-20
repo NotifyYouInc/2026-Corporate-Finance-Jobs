@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Spain |
+| Location | Kunshan, Jiangsu, China |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Asturias-Spain/Plant-Cost-Analyst_R18325) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Kunshan-China/Plant-Cost-Analyst_R20772) |
 
 ## About This Role
 
-This corporate finance position at International Flavors & Fragrances was posted on 2026-06-01.
+This corporate finance position at International Flavors & Fragrances was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

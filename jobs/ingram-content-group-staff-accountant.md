@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ingram Content Group](https://scoutify.ai/companies/ingramcontentgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | La Vergne, Tennessee, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000142945859-staff-accountant) |
+| Category | Accounting |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000143164439-staff-accountant) |
 
 ## About This Role
 
-This corporate finance position at Ingram Content Group was posted on 2026-08-11.
+This accounting position at Ingram Content Group was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

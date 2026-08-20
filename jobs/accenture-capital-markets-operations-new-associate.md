@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Capital-Markets-Operations-New-Associate_AIOC-S01658861-1) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Capital-Markets-Operations-New-Associate_AIOC-S01660842-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Accenture was posted on 2026-07-31.
+This treasury & capital markets position at Accenture was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

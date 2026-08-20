@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Muar, Johor, Malaysia |
+| Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Muar/Personal-Financial-Consultant_JR00008810-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Hong-Kong/Personal-Financial-Consultant_JR00010187) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-06-25.
+This corporate finance position at OCBC was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

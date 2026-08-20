@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8568304002) |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8689530002) |
 
 ## About This Role
 
-This corporate finance position at WPP was posted on 2026-05-29.
+This accounting position at WPP was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

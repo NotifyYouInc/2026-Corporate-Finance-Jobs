@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/United-States/Account-Partnership---Specialist_JR-024560) |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/United-States/Account-Partnership---Administrator_JR-025898) |
 
 ## About This Role
 
-This corporate finance position at WGU was posted on 2026-03-10.
+This accounting position at WGU was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

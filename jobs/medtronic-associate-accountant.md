@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Associate-Accountant_R70457-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Taipei-Taipei-Taiwan/Associate-Accountant_R74368-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-06-26.
+This accounting position at Medtronic was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

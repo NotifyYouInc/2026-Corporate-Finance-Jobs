@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Venture Capital / Private Equity |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000138562090-senior-associate-genesis-portfolio-operations) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000143233469-senior-associate-genesis-portfolio-operations) |
 
 ## About This Role
 
-This venture capital / private equity position at MUFG Investor Services was posted on 2026-07-20.
+This asset management / portfolio management position at MUFG Investor Services was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

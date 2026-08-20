@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Auburn, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Redmond-WA/Licensed-Private-Client-Banker_R-41510) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Auburn-WA/Licensed-Private-Client-Banker_R-41565) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-08-11.
+This corporate finance position at KeyBank was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

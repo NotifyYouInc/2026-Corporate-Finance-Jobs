@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tyson & Mendes](https://scoutify.ai/companies/tyson-mendes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Diego, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tysonmendesllp/jobs/5236208008) |
+| Category | Accounting |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tysonmendesllp/jobs/5387703008) |
 
 ## About This Role
 
-This corporate finance position at Tyson & Mendes was posted on 2026-05-29.
+This accounting position at Tyson & Mendes was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

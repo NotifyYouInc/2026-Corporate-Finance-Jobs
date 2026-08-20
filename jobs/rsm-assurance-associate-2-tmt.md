@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Assurance-Associate-2---TMT_JR117989) |
+| Location | Gurugram, Haryana, India |
+| Category | Accounting |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Assurance-Associate-2---TMT_JR120620) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-06-19.
+This accounting position at RSM was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

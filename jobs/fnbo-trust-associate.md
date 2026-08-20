@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FNBO](https://scoutify.ai/companies/firstnational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Kearney-NE---Main-Branch/Trust-Associate_R-20261206) |
+| Location | Kansas City, Missouri, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Kansas-City-MO---1-Ward-Parkway/Trust-Associate_R-20261402) |
 
 ## About This Role
 
-This wealth management / private banking position at FNBO was posted on 2026-07-21.
+This corporate finance position at FNBO was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

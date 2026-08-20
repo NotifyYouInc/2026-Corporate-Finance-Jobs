@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Evansville, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Cincinnati/Trust-Associate_R2026363-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Evansville/Trust-Associate_R2026866-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-03-19.
+This corporate finance position at Baird was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

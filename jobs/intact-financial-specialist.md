@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | Accounting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-2020-Robert-Bourassa/Financial-Specialist_R154885) |
+| Location | 2 locations |
+| Category | Corporate Finance |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Financial-Specialist_R154958) |
 
 ## About This Role
 
-This accounting position at Intact was posted on 2026-08-04.
+This corporate finance position at Intact was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

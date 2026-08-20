@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Wilmington, North Carolina, United States |
 | Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Alternatives-Fund-Accounting_R265081) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Wilmington-DE/Associate--Alternatives-Fund-Accounting_R265814) |
 
 ## About This Role
 
-This accounting position at Blackrock was posted on 2026-07-06.
+This accounting position at Blackrock was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

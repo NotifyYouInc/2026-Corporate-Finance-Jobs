@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Aruba |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Oranjestad-West-Aruba/Relationship-Manager-Financial-Solutions_R-0000164207) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Oranjestad-West-Aruba/Relationship-Manager-Financial-Solutions_R-0000184035) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-17.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

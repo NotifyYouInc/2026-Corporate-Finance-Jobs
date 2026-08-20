@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Medellín, Antioquia, Colombia |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Medellin--Colombia/Business-Controlling-Analyst_Essity263894) |
+| Location | 6 locations |
+| Category | Corporate Finance |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Lampa-Chile/Business-Controlling-Analyst_Essity264300) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Essity was posted on 2026-07-15.
+This corporate finance position at Essity was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

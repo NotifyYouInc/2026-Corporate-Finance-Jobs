@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Universal City, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000128788930-director-finance) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000143190012-director-finance) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-05-27.
+This corporate finance position at NBCUniversal was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Niagara Bottling](https://scoutify.ai/companies/niagarawater?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Diamond Bar, California, United States |
 | Category | Accounting |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/Accounts-Payable-Associate-II_R55502) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/Accounts-Payable-Associate-II_R56201) |
 
 ## About This Role
 
-This accounting position at Niagara Bottling was posted on 2026-07-09.
+This accounting position at Niagara Bottling was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

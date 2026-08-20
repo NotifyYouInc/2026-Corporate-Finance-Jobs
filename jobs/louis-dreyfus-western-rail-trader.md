@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Sales & Trading |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000140560101-western-rail-trader) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000143186969-western-rail-trader) |
 
 ## About This Role
 
-This sales & trading position at Louis Dreyfus was posted on 2026-07-29.
+This sales & trading position at Louis Dreyfus was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

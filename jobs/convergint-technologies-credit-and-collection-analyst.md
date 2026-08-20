@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Convergint Technologies](https://scoutify.ai/companies/convergint-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Schaumburg, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=0e9448c8-9371-4366-bbc2-33a8d8ad589e) |
+| Category | Accounting |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1074cvtg/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d/OpportunityDetail?opportunityId=4ae0c694-d0b5-431b-9c54-e6e8a099799f) |
 
 ## About This Role
 
-This corporate finance position at Convergint Technologies was posted on 2026-05-27.
+This accounting position at Convergint Technologies was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
