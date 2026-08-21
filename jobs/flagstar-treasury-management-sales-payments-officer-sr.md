@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/New-York1400-Broadway114025/Treasury-Management-Sales---Payments-Officer-Sr_19627) |
+| Location | 2 locations |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/New-York1400-Broadway114025/Treasury-Management-Sales---Payments-Officer-Sr_20982) |
 
 ## About This Role
 
-This corporate finance position at Flagstar was posted on 2026-04-09.
+This treasury & capital markets position at Flagstar was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

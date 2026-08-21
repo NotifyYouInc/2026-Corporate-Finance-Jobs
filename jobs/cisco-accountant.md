@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Accountant_2014296-1) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Accountant_2020672-1) |
 
 ## About This Role
 
-This corporate finance position at Cisco was posted on 2026-05-11.
+This accounting position at Cisco was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

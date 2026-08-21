@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Houston-Texas-United-States-of-America/Local-Division-Controller_JR00027395) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Seoul-Seoul-Korea/Local-Division-Controller_JR00044175) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-03-10.
+This accounting position at ABB was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

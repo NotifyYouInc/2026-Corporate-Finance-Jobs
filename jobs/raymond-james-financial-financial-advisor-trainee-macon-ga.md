@@ -5,12 +5,12 @@
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Macon, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Macon-Georgia---United-States/Financial-Advisor-Trainee--Macon--GA-_R-0012369) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Macon-Georgia---United-States/Financial-Advisor-Trainee--Macon--GA-_R-0012483) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-08-04.
+This corporate finance position at Raymond James Financial was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

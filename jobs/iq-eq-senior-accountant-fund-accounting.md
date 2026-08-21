@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pasig City, National Capital Region, Philippines |
-| Category | Venture Capital / Private Equity |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000142783789-senior-accountant-fund-accounting) |
+| Location | Hyderabad, Telangana, India |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000143445429-senior-accountant-fund-accounting) |
 
 ## About This Role
 
-This venture capital / private equity position at IQ-EQ was posted on 2026-08-11.
+This accounting position at IQ-EQ was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

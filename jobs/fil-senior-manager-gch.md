@@ -1,16 +1,16 @@
-# Senior Manager- GCH at Fil
+# Senior Manager - GCH at Fil
 
 | Field | Details |
 |-------|---------|
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Dalian, Liaoning, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Senior-Manager--GCH_J65384-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Dalian-Office/Senior-Manager---GCH_J70643) |
 
 ## About This Role
 
-This corporate finance position at Fil was posted on 2026-04-09.
+This corporate finance position at Fil was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsylvania, US |
+| Location | Plano, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Newtown-Square-Pennsylvania-United-States-of-America/Registered-Client-Service-Associate_JR042088-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Plano-Texas-United-States-of-America/Registered-Client-Service-Associate_JR042260) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-08-11.
+This corporate finance position at Morgan Stanley was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

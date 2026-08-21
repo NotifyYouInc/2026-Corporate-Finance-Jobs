@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000134494826-analista-senior-de-tesoreria) |
+| Location | Mexico |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000143352674-analista-senior-de-tesoreria) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-06-26.
+This treasury & capital markets position at Louis Dreyfus was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United Kingdom |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/United-Kingdom/Decision-Support-Analyst_R113032-2) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Johannesburg/Decision-Support-Analyst_R116772) |
 
 ## About This Role
 
-This corporate finance position at LexisNexis Risk Solutions was posted on 2026-05-01.
+This corporate finance position at LexisNexis Risk Solutions was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

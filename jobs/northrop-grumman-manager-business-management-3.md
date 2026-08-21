@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Manager-Business-Management-3_R10238577) |
+| Location | Melbourne, Florida, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Manager-Business-Management-3_R10233975-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Northrop Grumman was posted on 2026-07-06.
+This corporate finance position at Northrop Grumman was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

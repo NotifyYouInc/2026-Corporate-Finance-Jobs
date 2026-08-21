@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nevada, US |
-| Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---Nevada/LN-Venues--Staff-Accountant-II_JR-92142) |
+| Location | Dallas, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---Tennessee/LN-Venues--Staff-Accountant-II_JR-92369-1) |
 
 ## About This Role
 
-This corporate finance position at Live Nation was posted on 2026-08-07.
+This accounting position at Live Nation was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

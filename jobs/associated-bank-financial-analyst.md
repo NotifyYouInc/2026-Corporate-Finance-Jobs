@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Associated Bank](https://scoutify.ai/companies/associatedbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Illinois, US |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/WI-Green-Bay/Financial-Analyst_JR105885) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/US-WI-Remote/Financial-Analyst_JR106274) |
 
 ## About This Role
 
-This corporate finance position at Associated Bank was posted on 2026-06-15.
+This corporate finance position at Associated Bank was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Duluth, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Duluth-GA-USA/Staff-Accountant_R26_0000005263) |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Duluth-GA-USA/Staff-Accountant_R26_0000026647) |
 
 ## About This Role
 
-This corporate finance position at Genuine Parts Company was posted on 2026-02-16.
+This accounting position at Genuine Parts Company was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

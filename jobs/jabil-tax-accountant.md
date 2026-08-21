@@ -1,16 +1,16 @@
-# Tax Accountant at Jabil
+# Tax accountant at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Tax-Accountant_J2441052-1) |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Tax-accountant_J2460960-1) |
 
 ## About This Role
 
-This corporate finance position at Jabil was posted on 2026-02-27.
+This accounting position at Jabil was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Louisiana State University](https://scoutify.ai/companies/louisiana-state-university?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Baton Rouge, Louisiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://lsu.wd1.myworkdayjobs.com/lsu/job/0101-Renewable-Natural-Resources-Building/Accountant-1_R00113910) |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://lsu.wd1.myworkdayjobs.com/lsu/job/Renewable-Natural-Resources-Building/Accountant-1_R00118646) |
 
 ## About This Role
 
-This corporate finance position at Louisiana State University was posted on 2026-03-13.
+This accounting position at Louisiana State University was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

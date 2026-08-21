@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Waco, Texas, United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Waco-Texas-United-States-of-America/Client-Service-Associate_JR040202-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Honolulu-Hawaii-United-States-of-America/Client-Service-Associate_JR041899) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-08-11.
+This corporate finance position at Morgan Stanley was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

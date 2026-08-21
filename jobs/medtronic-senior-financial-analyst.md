@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Heerlen, Limburg, The Netherlands |
+| Location | Fridley, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Senior-Financial-Analyst_R72986-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Senior-Financial-Analyst_R74696-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-08-09.
+This corporate finance position at Medtronic was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

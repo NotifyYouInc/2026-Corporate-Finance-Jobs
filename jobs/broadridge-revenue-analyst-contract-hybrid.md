@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Edgewood, Maryland, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Revenue-Analyst---Contract--Hybrid-_JR1080500-1) |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Revenue-Analyst---Contract--Hybrid-_JR1085078) |
 
 ## About This Role
 
-This corporate finance position at Broadridge was posted on 2026-02-23.
+This accounting position at Broadridge was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Costa Rica |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Accounts-Payable-Representative-III_R-01357146-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Accounts-Payable-Representative-III_R-01361727) |
 
 ## About This Role
 
-This accounting position at Thermo Fisher Scientific was posted on 2026-07-03.
+This accounting position at Thermo Fisher Scientific was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

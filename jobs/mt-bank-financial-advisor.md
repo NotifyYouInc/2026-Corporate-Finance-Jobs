@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Parsippany, New Jersey, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Parsippany-NJ/Financial-Advisor_R84568-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/New-York-NY/Financial-Advisor_R88797) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-04-02.
+This corporate finance position at M&T Bank was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

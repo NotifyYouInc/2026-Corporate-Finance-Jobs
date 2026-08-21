@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Louis, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Senior-Client-Accountant_R325865-1) |
+| Location | Tempe, Arizona, United States |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/Senior-Client-Accountant_R329153) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-06-24.
+This accounting position at Cushman & Wakefield was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

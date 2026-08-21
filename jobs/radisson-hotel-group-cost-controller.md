@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nadi, Western, Fiji |
+| Location | Philippines |
 | Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000139922306-cost-controller) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000143435599-cost-controller) |
 
 ## About This Role
 
-This accounting position at Radisson Hotel Group was posted on 2026-07-27.
+This accounting position at Radisson Hotel Group was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

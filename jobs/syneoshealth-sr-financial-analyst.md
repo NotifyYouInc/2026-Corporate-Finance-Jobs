@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Morrisville, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/ARG-Buenos-Aires-Hybrid/Sr-Financial-Analyst_25107833-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-NC-Morrisville-Hybrid/Sr-Financial-Analyst_25109948-1) |
 
 ## About This Role
 
-This corporate finance position at Syneoshealth was posted on 2026-04-28.
+This corporate finance position at Syneoshealth was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

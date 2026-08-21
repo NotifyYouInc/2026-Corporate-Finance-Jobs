@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Location | Perak, MY |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Penang/Personal-Financial-Consultant_JR006997) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Perak/Personal-Financial-Consultant_JR007045) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-08-07.
+This corporate finance position at RHB was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

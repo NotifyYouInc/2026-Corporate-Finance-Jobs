@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Battleford, Saskatchewan, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/NORTH-BATTLEFORD-Saskatchewan-Canada/Associate_R-0000183024-2) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate_R-0000184079-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-08-04.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

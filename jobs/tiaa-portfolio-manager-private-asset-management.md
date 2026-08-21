@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Glendale, Arizona, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Glendale-CO---720-South-Colorado-Boulevard/Portfolio-Manager---Private-Asset-Management_R260800016-1) |
+| Location | 3 locations |
+| Category | Corporate Finance |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Chicago-IL-USA/Portfolio-Manager---Private-Asset-Management_R260800099-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at TIAA was posted on 2026-08-07.
+This corporate finance position at TIAA was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

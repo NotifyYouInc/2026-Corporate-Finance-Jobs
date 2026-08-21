@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Tempe, Arizona, United States |
 | Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Operational-Accounting-Associate_R-549611-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/TEMPE-AZ/Operational-Accounting-Associate_R-565734) |
 
 ## About This Role
 
-This accounting position at Wells Fargo was posted on 2026-07-06.
+This accounting position at Wells Fargo was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

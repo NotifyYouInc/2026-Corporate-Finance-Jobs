@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Purchase, New York, United States |
 | Category | Accounting |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Controller_R-288036) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Controller_R-287008-1) |
 
 ## About This Role
 
-This accounting position at Mastercard was posted on 2026-08-11.
+This accounting position at Mastercard was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

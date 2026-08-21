@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phu Quoc, An Giang, Vietnam |
+| Location | Chicago, Illinois, United States |
 | Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000140615129-finance-manager) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000143403009-finance-manager) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-30.
+This accounting position at ACCOR was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

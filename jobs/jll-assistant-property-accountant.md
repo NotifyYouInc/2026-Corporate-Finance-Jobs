@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Norwich, England, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Norfolk-GBR/Assistant-Property-Accountant_REQ519243) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Norfolk-GBR/Assistant-Property-Accountant_REQ525586) |
 
 ## About This Role
 
-This accounting position at JLL was posted on 2026-07-07.
+This accounting position at JLL was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

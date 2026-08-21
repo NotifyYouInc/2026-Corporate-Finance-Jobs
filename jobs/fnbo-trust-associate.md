@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [FNBO](https://scoutify.ai/companies/firstnational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | Omaha, Nebraska, United States |
 | Category | Corporate Finance |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Kansas-City-MO---1-Ward-Parkway/Trust-Associate_R-20261402) |
+| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Business--Park/Trust-Associate_R-20261428) |
 
 ## About This Role
 

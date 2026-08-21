@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roofstock](https://scoutify.ai/companies/roofstock?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oakland, California, United States |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roofstock/jobs/8550892002) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/roofstock/jobs/8706240002) |
 
 ## About This Role
 
-This corporate finance position at Roofstock was posted on 2026-05-18.
+This corporate finance position at Roofstock was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

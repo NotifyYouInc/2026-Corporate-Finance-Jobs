@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Alexandria, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-Australia-Sydney/Financial-Analyst_R0161120) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Alexandria/Financial-Analyst_R0168282) |
 
 ## About This Role
 
-This corporate finance position at Amentum was posted on 2026-05-12.
+This corporate finance position at Amentum was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

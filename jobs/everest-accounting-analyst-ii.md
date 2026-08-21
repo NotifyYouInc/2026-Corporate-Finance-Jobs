@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everest](https://scoutify.ai/companies/everestre?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Warren, Michigan, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/Accounting-Analyst-II_R7353-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/Dublin-Ireland/Accounting-Analyst-II_R7351-1) |
 
 ## About This Role
 
-This accounting position at Everest was posted on 2026-07-30.
+This accounting position at Everest was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Agibank](https://scoutify.ai/companies/agibank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5099325008) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5386105008) |
 
 ## About This Role
 
-This corporate finance position at Agibank was posted on 2026-02-10.
+This corporate finance position at Agibank was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

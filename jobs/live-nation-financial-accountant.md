@@ -5,12 +5,12 @@
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/London-UK/Financial-Accountant_JR-91681) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/London-Stockwell-Road-SW9/Financial-Accountant_JR-92468-1) |
 
 ## About This Role
 
-This accounting position at Live Nation was posted on 2026-07-15.
+This accounting position at Live Nation was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

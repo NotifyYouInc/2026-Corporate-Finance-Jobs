@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cedar Rapids, Iowa, United States |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/IA-Cedar-Rapids/Associate-Financial-Advisor_R2026115-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Associate-Financial-Advisor_R2026874) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-03-12.
+This corporate finance position at Baird was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

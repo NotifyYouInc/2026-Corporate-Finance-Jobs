@@ -1,16 +1,16 @@
-# Wealth Advisor Director at Bank of Montreal
+# Wealth Advisor - Director at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barrington, Rhode Island, United States |
+| Location | Hinsdale, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Barrington-IL-USA/Wealth-Advisor-Director_R260023609) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Hinsdale-IL-USA/Wealth-Advisor---Director_R260023857) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-08-11.
+This corporate finance position at Bank of Montreal was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

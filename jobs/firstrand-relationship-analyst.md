@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lusaka, Lusaka Province, Zambia |
+| Location | Windhoek, Khomas Region, Namibia |
 | Category | Corporate Finance |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Lusaka/Relationship-Analyst_R52482) |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Windhoek/Relationship-Analyst_R52590) |
 
 ## About This Role
 

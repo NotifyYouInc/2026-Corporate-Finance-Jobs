@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Capital-Markets---Risk_R242963-2) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Capital-Markets---Risk_R249058-2) |
 
 ## About This Role
 
-This corporate finance position at Capital One was posted on 2026-05-19.
+This treasury & capital markets position at Capital One was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

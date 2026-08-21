@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
-| Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/7507482) |
+| Location | Hong Kong, Hong Kong |
+| Category | Sales & Trading |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/4782837) |
 
 ## About This Role
 
-This corporate finance position at Flow Traders was posted on 2026-03-31.
+This sales & trading position at Flow Traders was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

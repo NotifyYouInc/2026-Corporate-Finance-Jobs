@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Qubec-Qubec/Tarificateur-trice-_JR10026024) |
+| Location | 2 locations |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Tarificateur-trice-_JR10027413-1) |
 
 ## About This Role
 
-This corporate finance position at Industrial Alliance was posted on 2026-03-31.
+This actuary / insurance analytics position at Industrial Alliance was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

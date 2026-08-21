@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Dallas, Texas, United States |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138415959-director-management-company-accounting-private-equity-funds) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000143359509-director-management-company-accounting-private-equity-funds) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-17.
+This accounting position at IQ-EQ was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Perai, Penang, Malaysia |
+| Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Finance-Manager_WD227097) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Finance-Manager_WD226321) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-08-10.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

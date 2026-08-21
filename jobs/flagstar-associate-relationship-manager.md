@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Account Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/New-York1400-Broadway114025/Associate-Relationship-Manager_20816) |
+| Location | 4 locations |
+| Category | Corporate Finance |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/New-York1400-Broadway114025/Associate-Relationship-Manager_20422) |
 
 ## About This Role
 
-This account manager position at Flagstar was posted on 2026-07-31.
+This corporate finance position at Flagstar was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

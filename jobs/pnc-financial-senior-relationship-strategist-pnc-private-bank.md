@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/GA---Atlanta-30309/Senior-Relationship-Manager---PNC-Private-Bank_R199343) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Jacksonville-32256/Senior-Relationship-Strategist---PNC-Private-Bank_R232430-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-08-12.
+This corporate finance position at PNC Financial was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

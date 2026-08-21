@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Charlottesville, Virginia, United States |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Westin-Tampa-Bay/Director-of-Finance_R0064412-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Virginia-Guesthouse-at-UVA/Director-of-Finance_R0065618) |
 
 ## About This Role
 
-This accounting position at Benchmark was posted on 2026-07-03.
+This accounting position at Benchmark was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

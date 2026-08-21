@@ -5,12 +5,12 @@
 | Company | [Bering Straits Native Corporation](https://scoutify.ai/companies/bering-straits-native-corporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Anchorage, Alaska, United States |
 | Category | Accounting |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=bea04bf9-3e0f-4916-8e27-e168a58172d3) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=f772b6ee-c9aa-4d5b-a356-91b425584f60) |
 
 ## About This Role
 
-This accounting position at Bering Straits Native Corporation was posted on 2026-07-28.
+This accounting position at Bering Straits Native Corporation was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

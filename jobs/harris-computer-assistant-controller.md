@@ -5,12 +5,12 @@
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Assistant-Controller_R0044766) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ottawa-Ontario/Assistant-Controller_R0045761) |
 
 ## About This Role
 
-This accounting position at Harris Computer was posted on 2026-07-03.
+This accounting position at Harris Computer was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

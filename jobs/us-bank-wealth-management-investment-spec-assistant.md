@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Tempe, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Wealth-Management-Investment-Spec-Assistant_2026-0023199) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tempe-AZ/Wealth-Management-Investment-Spec-Assistant_2026-0024489) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-08-04.
+This corporate finance position at U.S. Bank was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/MD---Bethesda-20814/Financial-Advisor---PNC-Wealth-Management_R232137-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Austin-78745/Financial-Advisor---PNC-Wealth-Management_R232472-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-08-11.
+This corporate finance position at PNC Financial was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

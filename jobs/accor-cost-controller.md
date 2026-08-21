@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Accounting |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000143197309-cost-controller) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000143389708-cost-controller) |
 
 ## About This Role
 

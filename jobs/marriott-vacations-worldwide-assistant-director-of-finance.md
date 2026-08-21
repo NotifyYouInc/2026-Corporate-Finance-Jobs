@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott Vacations Worldwide](https://scoutify.ai/companies/mymvw?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Hawaii, US |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Assistant-Director-of-Finance_JR93116) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Waiohai-Beach-Club/Assistant-Director-of-Finance_JR93146) |
 
 ## About This Role
 
-This corporate finance position at Marriott Vacations Worldwide was posted on 2026-08-11.
+This corporate finance position at Marriott Vacations Worldwide was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

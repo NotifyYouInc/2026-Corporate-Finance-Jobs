@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clifford Chance](https://scoutify.ai/companies/cliffordchance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000126358859-billing-coordinator) |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000143377594-billing-coordinator) |
 
 ## About This Role
 
-This corporate finance position at Clifford Chance was posted on 2026-05-13.
+This accounting position at Clifford Chance was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

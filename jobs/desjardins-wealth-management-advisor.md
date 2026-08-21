@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | Québec, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Brossard/Conseiller-ou-conseillre--Gestion-de-patrimoine--Service-Signature_R2601752) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Conseiller-ou-conseillre--Gestion-de-patrimoine--Dmarrage-vie-financire-et-milieu-de-vie-active_R2610132) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-08-08.
+This corporate finance position at Desjardins was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Iowa State University](https://scoutify.ai/companies/iowa-state-university?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ames, Iowa, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Grants-Finance-Specialist_R18913) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Grants-Finance-Specialist_R19748) |
 
 ## About This Role
 
-This corporate finance position at Iowa State University was posted on 2026-04-03.
+This accounting position at Iowa State University was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

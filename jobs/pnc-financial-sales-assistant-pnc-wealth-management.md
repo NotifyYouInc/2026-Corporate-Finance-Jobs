@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Cleveland, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Sales-Assistant---PNC-Wealth-Management_R221540-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/Sales-Assistant---PNC-Wealth-Management_R232163-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-05-05.
+This corporate finance position at PNC Financial was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
