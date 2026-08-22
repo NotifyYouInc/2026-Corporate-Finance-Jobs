@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Towson, Maryland, United States |
+| Location | Walnut Creek, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Towson/Relationship-Manager_26028972) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Walnut-Creek/Relationship-Manager_26029079) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-08-12.
+This corporate finance position at Bank of America was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

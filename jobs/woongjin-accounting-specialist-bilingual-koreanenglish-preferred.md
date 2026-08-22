@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chatsworth, California, United States |
 | Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000143403465-accounting-specialist-bilingual-koreanenglish-preferred) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000143616919-accounting-specialist-bilingual-koreanenglish-preferred) |
 
 ## About This Role
 
-This accounting position at Woongjin was posted on 2026-08-13.
+This accounting position at Woongjin was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

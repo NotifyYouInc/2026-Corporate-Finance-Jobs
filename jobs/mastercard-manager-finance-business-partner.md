@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Manager--Finance-Business-Partner_R-288217) |
+| Location | Purchase, New York, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Finance-Business-Partner_R-287202) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Mastercard was posted on 2026-08-11.
+This corporate finance position at Mastercard was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

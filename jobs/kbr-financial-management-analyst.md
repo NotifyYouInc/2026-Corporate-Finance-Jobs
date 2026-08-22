@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Alexandria, Virginia, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Alexandria-Virginia/Financial-Management-Analyst_R2124155) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Redstone-Arsenal-Alabama/Financial-Management-Analyst_R2128366) |
 
 ## About This Role
 
-This corporate finance position at KBR was posted on 2026-05-22.
+This corporate finance position at KBR was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

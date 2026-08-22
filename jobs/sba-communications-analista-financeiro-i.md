@@ -5,12 +5,12 @@
 | Company | [SBA Communications](https://scoutify.ai/companies/sba-communications?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://sbasite.wd5.myworkdayjobs.com/sba_communications_careers/job/So-Paulo-Brazil-Main-Office/Analista-Financeiro-I_JR102448) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://sbasite.wd5.myworkdayjobs.com/sba_communications_careers/job/So-Paulo-Brazil-Main-Office/Analista-Financeiro-I_JR102526) |
 
 ## About This Role
 
-This corporate finance position at SBA Communications was posted on 2026-06-26.
+This corporate finance position at SBA Communications was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

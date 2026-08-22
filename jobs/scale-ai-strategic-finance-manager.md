@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scale AI](https://scoutify.ai/companies/scaleai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4655225005) |
+| Location | San Francisco, California, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4722944005) |
 
 ## About This Role
 
-This corporate finance position at Scale AI was posted on 2026-02-09.
+This strategy & operations position at Scale AI was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

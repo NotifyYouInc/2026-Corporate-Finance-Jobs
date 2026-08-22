@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clayton](https://scoutify.ai/companies/claytonhomes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Perris, California, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Perris-CA/Cost-Analyst_JR132554) |
+| Location | Addison, Illinois, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Addison-AL/Cost-Analyst_JR133475) |
 
 ## About This Role
 
-This financial analyst position at Clayton was posted on 2026-07-16.
+This corporate finance position at Clayton was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

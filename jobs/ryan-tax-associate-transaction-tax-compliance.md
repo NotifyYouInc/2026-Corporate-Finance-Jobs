@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ryan](https://scoutify.ai/companies/ryan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Manila/Tax-Associate--Transaction-Tax-Compliance_R0019588) |
+| Category | Accounting |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Manila/Tax-Associate--Transaction-Tax-Compliance_R0020105) |
 
 ## About This Role
 
-This corporate finance position at Ryan was posted on 2026-05-13.
+This accounting position at Ryan was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

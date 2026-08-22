@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Prysmian Cables & Systems](https://scoutify.ai/companies/prysmian-cables-systems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Bogot/Finance-Analyst_R-31449) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Bogot/Finance-Analyst_R-35889) |
 
 ## About This Role
 
-This corporate finance position at Prysmian Cables & Systems was posted on 2026-03-06.
+This corporate finance position at Prysmian Cables & Systems was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

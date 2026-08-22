@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Senior-Wealth-Advisor-SAFE-Act_26952022) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Boca-Raton-Florida-United-States/Senior-Wealth-Advisor-SAFE-Act_25924878) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-07.
+This corporate finance position at Citigroup was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

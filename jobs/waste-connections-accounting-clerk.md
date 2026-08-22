@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Louisiana, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/5000-R360-EP-Jennings-Office/Accounting-Clerk_R-97840) |
+| Location | Rayne, Louisiana, United States |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/6187-Lafayette/Accounting-Clerk_R-102678) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-03-30.
+This accounting position at Waste Connections was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

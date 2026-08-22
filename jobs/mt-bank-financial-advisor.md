@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/New-York-NY/Financial-Advisor_R88797) |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Boston-MA/Financial-Advisor_R89266) |
 
 ## About This Role
 

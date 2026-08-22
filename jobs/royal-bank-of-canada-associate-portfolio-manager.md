@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Québec, Quebec, Canada |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/QUBEC-Quebec-Canada/Associate-Portfolio-Manager_R-0000182609-1) |
+| Location | Waterloo, Ontario, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WATERLOO-Ontario-Canada/Associate-Portfolio-Manager_R-0000184048) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-08-03.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

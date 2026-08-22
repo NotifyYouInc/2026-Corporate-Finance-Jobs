@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000140786499-business-operation-support-ar-bilingual-english-korean) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000143610964-business-operation-support-ar-bilingual-english-korean) |
 
 ## About This Role
 
-This accounting position at Woongjin was posted on 2026-07-30.
+This accounting position at Woongjin was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Accountant (AP) at Flowserve
+# Staff Accountant AP at Flowserve
 
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Kuala-Lumpur-Malaysia/Staff-Accountant--AP-_R-20272) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Kuala-Lumpur-Malaysia/Staff-Accountant-AP_R-20704-1) |
 
 ## About This Role
 
-This accounting position at Flowserve was posted on 2026-07-23.
+This accounting position at Flowserve was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Assurance-Associate-2---Investment-Funds_JR117847) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Assurance-Associate-2---Investment-Funds_JR120615) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-06-19.
+This accounting position at RSM was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Urbandale, Iowa, United States |
+| Location | Cali, Valle del Cauca Department, Colombia |
 | Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Urbandale---Meredith/Staff-Accountant-II_R_358274) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Cali---Calle-67/Staff-Accountant-II_R_359684) |
 
 ## About This Role
 
-This accounting position at Marsh & McLennan Companies was posted on 2026-07-31.
+This accounting position at Marsh & McLennan Companies was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

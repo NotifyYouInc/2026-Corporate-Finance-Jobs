@@ -1,16 +1,16 @@
-# ASSOCIATE BANK FINANCIAL ADVISOR at Wells Fargo
+# Associate Bank Financial Advisor at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Collins, Colorado, United States |
+| Location | Pocatello, Idaho, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/FORT-COLLINS-CO/ASSOCIATE-BANK-FINANCIAL-ADVISOR_R-566321) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/POCATELLO-ID/Associate-Bank-Financial-Advisor_R-566588) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-08-11.
+This corporate finance position at Wells Fargo was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/KY---Louisville-40202/Trust-Real-Estate-Advisor-II_R213496-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Philadelphia-19103/Trust-Real-Estate-Advisor-II_R232823-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-03-04.
+This corporate finance position at PNC Financial was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

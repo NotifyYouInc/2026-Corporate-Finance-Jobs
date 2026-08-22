@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Credit-Officer-II_26029205-2) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/Credit-Officer-II_26029459-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-08-13.
+This corporate finance position at Bank of America was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

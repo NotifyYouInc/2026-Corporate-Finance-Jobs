@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melville, New York, United States |
+| Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Melville-NY---Field-Mgmt/Associate-Financial-Representative_R-053013-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Austin-TX/Associate-Financial-Representative_R-053059-2) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-08-13.
+This corporate finance position at LPL Financial Holdings was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

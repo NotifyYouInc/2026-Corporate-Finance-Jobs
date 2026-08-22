@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jacksonville, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Jacksonville---Florida---Nations-Way/Underwriter_JR26-4066-1) |
+| Location | Fresno, California, United States |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Fresno---California/Underwriter_JR26-5143) |
 
 ## About This Role
 
-This corporate finance position at Ryan Specialty was posted on 2026-02-17.
+This actuary / insurance analytics position at Ryan Specialty was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

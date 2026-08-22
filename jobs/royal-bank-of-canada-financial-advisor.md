@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Abbotsford, British Columbia, Canada |
+| Location | Moose Jaw, Saskatchewan, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/ABBOTSFORD-British-Columbia-Canada/Financial-Advisor_R-0000184026) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MOOSE-JAW-Saskatchewan-Canada/Financial-Advisor_R-0000183867) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-08-13.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

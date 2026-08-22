@@ -5,12 +5,12 @@
 | Company | [Lila Sciences](https://scoutify.ai/companies/lilasciences?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lilasciences/jobs/4184608009) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lilasciences/jobs/4359832009) |
 
 ## About This Role
 
-This corporate finance position at Lila Sciences was posted on 2026-03-17.
+This corporate finance position at Lila Sciences was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

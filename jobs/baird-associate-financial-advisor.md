@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Corporate Finance |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Associate-Financial-Advisor_R2026874) |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Pittsburgh-Riverfront/Associate-Financial-Advisor_R2026880-1) |
 
 ## About This Role
 

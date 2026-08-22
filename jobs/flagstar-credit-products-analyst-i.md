@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Englewood, Colorado, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Englewood8310-South-Valley-Highway/Credit-Products-Analyst-I_20165) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Beverly-Hills9665-Wilshire-Boulevard114056/Credit-Products-Analyst-I_20970) |
 
 ## About This Role
 
-This corporate finance position at Flagstar was posted on 2026-06-16.
+This corporate finance position at Flagstar was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

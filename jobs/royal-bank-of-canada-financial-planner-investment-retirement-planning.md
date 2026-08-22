@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dryden, Ontario, Canada |
+| Location | Winnipeg, Manitoba, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/DRYDEN-Ontario-Canada/Financial-Planner--Investment---Retirement-Planning_R-0000182784) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WINNIPEG-Manitoba-Canada/Financial-Planner--Investment---Retirement-Planning_R-0000184393) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-08-04.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Québec, Quebec, Canada |
+| Location | La Malbaie, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Conseiller-ou-conseillre--Gestion-de-patrimoine--Dmarrage-vie-financire-et-milieu-de-vie-active_R2610132) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/La-Malbaie/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2610186) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-08-13.
+This corporate finance position at Desjardins was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

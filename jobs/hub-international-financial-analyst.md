@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chilliwack, British Columbia, Canada |
-| Category | Financial Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chilliwack-BC---Hocking-Ave/Financial-Analyst_R0037746) |
+| Location | Pittsburgh, Pennsylvania, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Pittsburgh---PA---2730-Sidney-Street---Suite-330/Financial-Analyst_R0038213) |
 
 ## About This Role
 
-This financial analyst position at HUB International was posted on 2026-07-24.
+This corporate finance position at HUB International was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

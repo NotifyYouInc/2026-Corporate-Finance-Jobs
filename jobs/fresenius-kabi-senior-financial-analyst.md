@@ -5,12 +5,12 @@
 | Company | [Fresenius Kabi](https://scoutify.ai/companies/fresenius-kabi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lake Zurich, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/Lake-Zurich-IL/Senior-Financial-Analyst_R-01021613) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/Lake-Zurich-IL/Senior-Financial-Analyst_R-01028366-1) |
 
 ## About This Role
 
-This corporate finance position at Fresenius Kabi was posted on 2026-03-09.
+This corporate finance position at Fresenius Kabi was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

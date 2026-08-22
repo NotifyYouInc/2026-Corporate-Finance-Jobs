@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tempe, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-WARNERCROS-TEMPE-AZ/Sr-Corporate-Internal-Auditor_R570616-1) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-WARNERCROS-TEMPE-AZ/Corporate-Internal-Auditor_R612949) |
 
 ## About This Role
 
-This corporate finance position at Alimentation Couche-Tard was posted on 2026-03-11.
+This accounting position at Alimentation Couche-Tard was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

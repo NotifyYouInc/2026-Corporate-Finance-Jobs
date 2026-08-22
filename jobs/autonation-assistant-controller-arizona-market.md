@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AutoNation](https://scoutify.ai/companies/autonation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://autonation.wd5.myworkdayjobs.com/careers/job/AutoNation-Honda-Chandler/Assistant-Controller---Arizona-Market_JR2026145940-1) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://autonation.wd5.myworkdayjobs.com/careers/job/AutoNation-Ford-Scottsdale/Assistant-Controller---Arizona-Market_JR2026147191) |
 
 ## About This Role
 
-This accounting position at AutoNation was posted on 2026-07-23.
+This accounting position at AutoNation was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

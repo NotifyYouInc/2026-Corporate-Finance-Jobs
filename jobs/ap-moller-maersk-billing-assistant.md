@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Singapore-Singapore-648165/Billing-Assistant_R183062-1) |
+| Location | Ipojuca, Pernambuco, Brazil |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Brazil-Pernambuco-Ipojuca-55594-900/Billing-Assistant_R192703-1) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-06-08.
+This accounting position at A.P. Moller - Maersk was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

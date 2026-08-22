@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Carolina, US |
-| Category | Financial Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Finance-Analyst_2020504) |
+| Category | Corporate Finance |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Finance-Analyst_2021079-1) |
 
 ## About This Role
 
-This financial analyst position at Cisco was posted on 2026-07-22.
+This corporate finance position at Cisco was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

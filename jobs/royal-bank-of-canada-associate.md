@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Newmarket, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate_R-0000184079-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/NEWMARKET-Ontario-Canada/Associate_R-0000184173) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-08-13.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

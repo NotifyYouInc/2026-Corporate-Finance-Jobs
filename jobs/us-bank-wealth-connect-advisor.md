@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Hopkins, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Wealth-Connect-Advisor_2026-0023196) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Wealth-Connect-Advisor_2026-0024817) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-08-04.
+This corporate finance position at U.S. Bank was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Greenville, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Financial-Analyst_R5048515-2) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/Financial-Analyst_R5050119-1) |
 
 ## About This Role
 
-This corporate finance position at GE Vernova was posted on 2026-07-31.
+This corporate finance position at GE Vernova was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

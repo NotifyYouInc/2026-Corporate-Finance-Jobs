@@ -1,16 +1,16 @@
-# Project Budget Analyst at Thermo Fisher Scientific
+# Project & Budget Analyst at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Project-Budget-Analyst_R-01361927-1) |
+| Location | 2 locations |
+| Category | Corporate Finance |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sofia-Bulgaria/Project---Budget-Analyst_R-01363837) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Thermo Fisher Scientific was posted on 2026-07-31.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

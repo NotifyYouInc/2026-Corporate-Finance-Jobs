@@ -5,12 +5,12 @@
 | Company | [Barings](https://scoutify.ai/companies/barings?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://barings.wd1.myworkdayjobs.com/barings_hires/job/AU---SYDNEY----60-CASTLEREAGH-ST---BARINGS/Senior-Associate--Client-Portfolio-Management_JR_006483) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://barings.wd1.myworkdayjobs.com/barings_hires/job/AU---SYDNEY----60-CASTLEREAGH-ST---BARINGS/Senior-Associate--Client-Portfolio-Management_JR_006627) |
 
 ## About This Role
 
-This corporate finance position at Barings was posted on 2026-03-30.
+This corporate finance position at Barings was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

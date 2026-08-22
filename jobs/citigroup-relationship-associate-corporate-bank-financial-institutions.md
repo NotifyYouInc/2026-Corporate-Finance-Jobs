@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Relationship-Associate---Corporate-Bank---Financial-Institutions_26982130-1) |
+| Category | Corporate Development & M&A |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Relationship-Associate---Corporate-Bank---Financial-Institutions_26982135-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-07-29.
+This corporate development & m&a position at Citigroup was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

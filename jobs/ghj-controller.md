@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ghj](https://scoutify.ai/companies/ghj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/ghj/c6453188-2636-4969-9936-729d21db0dcc) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.lever.co/ghj/e83d76a0-e03f-4f3d-a178-b590b1445198) |
 
 ## About This Role
 
-This corporate finance position at Ghj was posted on 2026-05-18.
+This accounting position at Ghj was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Alajuela, Alajuela Province, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Costa-Rica---Alajuela/Sr-Financial-Analyst_31147217) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Costa-Rica---Alajuela/Sr-Financial-Analyst_31158458) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-04-21.
+This corporate finance position at Abbott was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

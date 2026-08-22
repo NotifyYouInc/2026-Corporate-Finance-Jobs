@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnesota, US |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/St-James-MN/Plant-Controller_R-2026-5446) |
+| Location | St. Charles, Maryland, United States |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/St-Charles-IL/Plant-Controller_R-2026-11161) |
 
 ## About This Role
 
-This corporate finance position at Smithfield Foods was posted on 2026-05-22.
+This accounting position at Smithfield Foods was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

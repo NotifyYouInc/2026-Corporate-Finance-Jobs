@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fannie Mae](https://scoutify.ai/companies/fannie-mae?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/LIHTC-Underwriter---Senior-Associate_JR2615-1) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/LIHTC-Underwriter---Senior-Associate_JR2792) |
 
 ## About This Role
 
-This corporate finance position at Fannie Mae was posted on 2026-06-15.
+This actuary / insurance analytics position at Fannie Mae was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

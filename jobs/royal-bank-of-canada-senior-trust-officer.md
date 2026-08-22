@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/8-MARINA-VIEW-26-01-ASIA-SQUARE-TOWER-1SINGAPORE/Senior-Trust-Officer_R-0000172969) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Trust-Officer_R-0000181294-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-20.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

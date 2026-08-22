@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000134032419-account-payable-representative-rbs) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000143564804-account-payable-representative-rbs) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-06-24.
+This accounting position at SGS was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

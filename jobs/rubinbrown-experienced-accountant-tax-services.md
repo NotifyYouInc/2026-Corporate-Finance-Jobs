@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RubinBrown](https://scoutify.ai/companies/recruiting-ultipro-com-oj92993?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://recruiting.ultipro.com/rub1001rubin/JobBoard/3688e7ba-ac29-44a9-9775-cbd291bb6fa7/OpportunityDetail?opportunityId=b0a1a8c8-be9c-4a7a-b4e2-3d0afbd7d223) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://recruiting.ultipro.com/rub1001rubin/JobBoard/3688e7ba-ac29-44a9-9775-cbd291bb6fa7/OpportunityDetail?opportunityId=b336f1a2-536d-42f5-9fdf-ffa248f3f3ad) |
 
 ## About This Role
 
-This accounting position at RubinBrown was posted on 2026-08-13.
+This accounting position at RubinBrown was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

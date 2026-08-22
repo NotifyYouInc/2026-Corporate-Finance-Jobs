@@ -1,16 +1,16 @@
-# Underwriter E&S Property at AXIS Capital
+# Underwriter -  E&S Property at AXIS Capital
 
 | Field | Details |
 |-------|---------|
 | Company | [AXIS Capital](https://scoutify.ai/companies/axis-capital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Alpharetta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Alpharetta-GA/Underwriter-E-S-Property_REQ06547) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Alpharetta-GA/Underwriter----E-S-Property_REQ06704) |
 
 ## About This Role
 
-This corporate finance position at AXIS Capital was posted on 2026-05-15.
+This actuary / insurance analytics position at AXIS Capital was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

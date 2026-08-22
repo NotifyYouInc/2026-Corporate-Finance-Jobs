@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Financial-Analyst-II---Engines_R64814) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Financial-Analyst-II---Engines_R69895) |
 
 ## About This Role
 
-This corporate finance position at Blue Origin was posted on 2026-06-05.
+This corporate finance position at Blue Origin was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

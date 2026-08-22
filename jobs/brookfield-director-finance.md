@@ -5,12 +5,12 @@
 | Company | [Brookfield](https://scoutify.ai/companies/brookfield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/Director--Finance_R2049086) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/Director--Finance_R2052088) |
 
 ## About This Role
 
-This corporate finance position at Brookfield was posted on 2026-03-12.
+This corporate finance position at Brookfield was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

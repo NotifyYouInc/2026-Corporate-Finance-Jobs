@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Enbridge](https://scoutify.ai/companies/enbridge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Calgary, Alberta, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Advisor-Financial-Reporting_71129-1) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Advisor-Financial-Reporting_72426-1) |
 
 ## About This Role
 
-This corporate finance position at Enbridge was posted on 2026-05-08.
+This accounting position at Enbridge was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

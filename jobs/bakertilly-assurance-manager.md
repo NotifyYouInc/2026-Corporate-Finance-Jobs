@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tempe, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-AZ-Tempe/Assurance-Manager_JR106255) |
+| Location | Frisco, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TX-Frisco/Assurance-Manager_JR107486-1) |
 
 ## About This Role
 
-This corporate finance position at Bakertilly was posted on 2026-04-28.
+This accounting position at Bakertilly was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

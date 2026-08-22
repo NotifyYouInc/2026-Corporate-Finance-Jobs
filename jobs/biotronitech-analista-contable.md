@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Biotronitech](https://scoutify.ai/companies/blancassandovalassociatespa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Comas, Junin, Peru |
+| Location | Santiago de Surco, Lima region, Peru |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000138409499-analista-contable) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000143609849-analista-contable) |
 
 ## About This Role
 
-This accounting position at Biotronitech was posted on 2026-07-17.
+This accounting position at Biotronitech was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

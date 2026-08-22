@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barings](https://scoutify.ai/companies/barings?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hesse, DE |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://barings.wd1.myworkdayjobs.com/barings_hires/job/DE---FRANKFURT--UNTERLINDAU-21-29/Senior-Asset-Manager_JR_005987-2) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://barings.wd1.myworkdayjobs.com/barings_hires/job/AU---SYDNEY----60-CASTLEREAGH-ST---BARINGS/Asset-Manager_JR_006591) |
 
 ## About This Role
 
-This corporate finance position at Barings was posted on 2026-04-23.
+This corporate finance position at Barings was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

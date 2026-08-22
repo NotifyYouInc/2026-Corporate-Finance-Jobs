@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Virtahealth](https://scoutify.ai/companies/virtahealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/virtahealth/a809c1a5-d0ef-4d15-8dd6-e98a6ebbb7b3) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/virtahealth/6be017f5-0878-4b59-8f62-2be9450ddc02) |
 
 ## About This Role
 
-This corporate finance position at Virtahealth was posted on 2026-06-12.
+This accounting position at Virtahealth was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
