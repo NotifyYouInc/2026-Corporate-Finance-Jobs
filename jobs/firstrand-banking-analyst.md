@@ -1,4 +1,4 @@
-# Private Wealth Advisor at FirstRand
+# Banking Analyst at FirstRand
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Corporate Finance |
 | Posted | 2026-08-15 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Private-Wealth-Advisor_R52441) |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Banking-Analyst_R52608) |
 
 ## About This Role
 

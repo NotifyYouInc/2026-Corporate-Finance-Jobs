@@ -1,16 +1,16 @@
-# Private Wealth Advisor at FirstRand
+# Retail Investment Operations Manager at UOB Group
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
 | Posted | 2026-08-15 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Private-Wealth-Advisor_R52441) |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Bangkok-City-Area/Retail-Investment-Operations-Manager_JR93397) |
 
 ## About This Role
 
-This corporate finance position at FirstRand was posted on 2026-08-15.
+This corporate finance position at UOB Group was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

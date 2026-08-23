@@ -1,16 +1,16 @@
-# Accounts Payable at Marriott International
+# Senior Accountant at The Weir Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Pasig City, National Capital Region, Philippines |
 | Category | Accounting |
 | Posted | 2026-08-15 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26103402) |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Pasig-City/Senior-Accountant_R0038976) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-08-15.
+This accounting position at The Weir Group was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

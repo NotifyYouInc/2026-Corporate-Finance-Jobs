@@ -1,16 +1,16 @@
-# Head of Fund Analytics & Automation — Credit Fund at Xsolla
+# Senior Risk Analyst at TC Energy
 
 | Field | Details |
 |-------|---------|
-| Company | [Xsolla](https://scoutify.ai/companies/xsolla?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Company | [TC Energy](https://scoutify.ai/companies/tcenergy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Calgary, Alberta, Canada |
 | Category | Corporate Finance |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.lever.co/xsolla/4889d04f-0e77-4cdb-8724-fd3a63009f7f) |
+| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Senior-Risk-Analyst_JR-10640) |
 
 ## About This Role
 
-This corporate finance position at Xsolla was posted on 2026-08-14.
+This corporate finance position at TC Energy was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

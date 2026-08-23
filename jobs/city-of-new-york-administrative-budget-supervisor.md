@@ -1,4 +1,4 @@
-# Financial Analyst at City of New York
+# Administrative Budget Supervisor at City of New York
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-08-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014614306-financial-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014613916-administrative-budget-supervisor) |
 
 ## About This Role
 

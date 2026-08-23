@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---PUNE-I-GLOBAL-BUSINESS-SERVICES---GBS-INUNE/Financial-Admin-Assistant_R26026675) |
+| Location | Philippines |
+| Category | Accounting |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PH---ALABANG-GLOBAL-BUSINESS-SERVICES---GBS-PHMNT/Financial-Admin-Assistant_R26027734) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-08-07.
+This accounting position at United Parcel Service (UPS) was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

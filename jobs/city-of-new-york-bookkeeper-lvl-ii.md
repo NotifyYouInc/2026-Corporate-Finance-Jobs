@@ -1,16 +1,16 @@
-# Accounts Payable at Marriott International
+# Bookkeeper, Lvl II at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
 | Category | Accounting |
 | Posted | 2026-08-15 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26103402) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014614041-bookkeeper-lvl-ii) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-08-15.
+This accounting position at City of New York was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

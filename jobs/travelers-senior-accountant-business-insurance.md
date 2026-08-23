@@ -1,16 +1,16 @@
-# Senior Accountant at Tyson Foods
+# Senior Accountant - Business Insurance at Travelers
 
 | Field | Details |
 |-------|---------|
-| Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Arkansas, US |
+| Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Hartford, Connecticut, United States |
 | Category | Accounting |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Sr-Accountant_R0473822-1) |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Senior-Accountant---Business-Insurance_R-51941) |
 
 ## About This Role
 
-This accounting position at Tyson Foods was posted on 2026-08-14.
+This accounting position at Travelers was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

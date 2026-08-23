@@ -1,16 +1,16 @@
-# Senior Accountant at Tyson Foods
+# Senior Auditor at Aeci
 
 | Field | Details |
 |-------|---------|
-| Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Arkansas, US |
+| Company | [Aeci](https://scoutify.ai/companies/aeci?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Springfield, Missouri, United States |
 | Category | Accounting |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Sr-Accountant_R0473822-1) |
+| Apply | [View on company site](https://aeci.wd1.myworkdayjobs.com/aeci/job/Springfield-Missouri/Senior-Auditor_REQ-1769) |
 
 ## About This Role
 
-This accounting position at Tyson Foods was posted on 2026-08-14.
+This accounting position at Aeci was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

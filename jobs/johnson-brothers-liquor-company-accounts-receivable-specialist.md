@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Brothers Liquor Company](https://scoutify.ai/companies/johnsonbrothers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minnesota, US |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/St-Paul-MN/Accounts-Receivable-Specialist_R-260527-1433) |
+| Location | Paul, Idaho, United States |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/St-Paul-MN/Accounts-Receivable-Specialist_R-260807-2083) |
 
 ## About This Role
 
-This corporate finance position at Johnson Brothers Liquor Company was posted on 2026-05-28.
+This accounting position at Johnson Brothers Liquor Company was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

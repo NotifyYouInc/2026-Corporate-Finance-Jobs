@@ -1,16 +1,16 @@
-# Intern (Part-Time/Year-Round) - City at City of Oklahoma City
+# Assistant Controller at Connecteam
 
 | Field | Details |
 |-------|---------|
-| Company | [City of Oklahoma City](https://scoutify.ai/companies/ocs-cx-oj78780?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Company | [Connecteam](https://scoutify.ai/companies/connecteam?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Accounting |
 | Posted | 2026-08-16 |
-| Apply | [View on company site](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4110) |
+| Apply | [View on company site](https://connecteam.com/careers/6142780004?gh_jid=6142780004) |
 
 ## About This Role
 
-This accounting position at City of Oklahoma City was posted on 2026-08-16.
+This accounting position at Connecteam was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

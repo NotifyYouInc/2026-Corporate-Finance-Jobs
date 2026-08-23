@@ -1,0 +1,22 @@
+# Fund Accounting Analyst at Blackrock
+
+| Field | Details |
+|-------|---------|
+| Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Birmingham, England, United Kingdom |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/BHX---2-Colmore-Square-2-Colmore-Square-38-Colmore-Circus-Birmingham/Fund-Accounting-Analyst_R266033) |
+
+## About This Role
+
+This accounting position at Blackrock was posted on 2026-08-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

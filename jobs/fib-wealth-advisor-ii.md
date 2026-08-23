@@ -1,16 +1,16 @@
-# Senior Accountant, Staff at Simon
+# Wealth Advisor II at Fib
 
 | Field | Details |
 |-------|---------|
-| Company | [Simon](https://scoutify.ai/companies/simon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Accounting |
+| Company | [Fib](https://scoutify.ai/companies/fib?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Bozeman, Montana, United States |
+| Category | Corporate Finance |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Senior-Accountant--Staff_R13869) |
+| Apply | [View on company site](https://fib.wd1.myworkdayjobs.com/fibcareers/job/Bozeman-MT/Wealth-Advisor-II_2026-15493) |
 
 ## About This Role
 
-This accounting position at Simon was posted on 2026-08-14.
+This corporate finance position at Fib was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

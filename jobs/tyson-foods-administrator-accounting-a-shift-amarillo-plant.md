@@ -1,12 +1,12 @@
-# Senior Accountant at Tyson Foods
+# Administrator Accounting - A Shift - Amarillo Plant at Tyson Foods
 
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Arkansas, US |
+| Location | Amarillo, Texas, United States |
 | Category | Accounting |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Sr-Accountant_R0473822-1) |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Amarillo-Plant---Amarillo-Texas/Administrator-Accounting---A-Shift---Amarillo-Plant_R0476837) |
 
 ## About This Role
 
