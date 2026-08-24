@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZOLL Medical Corporation](https://scoutify.ai/companies/zoll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Runcorn, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Runcorn-Cheshire-United-Kingdom/Finance-Assistant_R19140) |
+| Location | Australia |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/St-Leonards-Australia/Finance-Assistant_R20016) |
 
 ## About This Role
 
-This corporate finance position at ZOLL Medical Corporation was posted on 2026-05-13.
+This accounting position at ZOLL Medical Corporation was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

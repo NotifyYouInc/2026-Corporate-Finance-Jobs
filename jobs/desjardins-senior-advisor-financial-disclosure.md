@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-en-divulgation-financire_R2607786-1) |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Divulgation-des-placements_R2609849) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-06-10.
+This accounting position at Desjardins was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

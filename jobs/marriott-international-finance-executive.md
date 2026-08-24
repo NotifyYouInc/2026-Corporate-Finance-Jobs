@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26100192) |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26103616) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-08-10.
+This accounting position at Marriott International was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

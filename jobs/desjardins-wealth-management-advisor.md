@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | La Malbaie, Quebec, Canada |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/La-Malbaie/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2610186) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Thetford-Mines/Conseiller-ou-conseillre--Gestion-de-patrimoine---Pr-retraite_R2609872) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-08-14.
+This corporate finance position at Desjardins was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

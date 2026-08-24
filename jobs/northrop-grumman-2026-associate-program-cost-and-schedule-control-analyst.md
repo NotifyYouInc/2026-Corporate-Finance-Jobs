@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boulder, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2026-Associate-Program-Cost-and-Schedule-Control-Analyst_R10245141-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2026-Associate-Program-Cost-and-Schedule-Control-Analyst_R10245882) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-08-12.
+This corporate finance position at Northrop Grumman was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

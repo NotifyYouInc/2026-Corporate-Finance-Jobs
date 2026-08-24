@@ -5,12 +5,12 @@
 | Company | [OceanaGold](https://scoutify.ai/companies/oceanagold?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dunedin, Otago, New Zealand |
 | Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OceanaGold/744000143220169-financial-accountant) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OceanaGold/744000143703909-financial-accountant) |
 
 ## About This Role
 
-This accounting position at OceanaGold was posted on 2026-08-13.
+This accounting position at OceanaGold was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

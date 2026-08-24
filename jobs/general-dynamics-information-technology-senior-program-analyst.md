@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington---2530-Crystal-Dr-VAC162/Senior-Program-Analyst_RQ220668-1) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington---2530-Crystal-Dr-VAC162/Senior-Program-Analyst_RQ226419-1) |
 
 ## About This Role
 
-This corporate finance position at General Dynamics Information Technology was posted on 2026-05-25.
+This corporate finance position at General Dynamics Information Technology was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

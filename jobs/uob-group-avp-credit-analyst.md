@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vietnam |
-| Category | Financial Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Ha-Noi-City-Area/AVP--Credit-Analyst_JR91955) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Corporate Finance |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Bangkok-City-Area/AVP--Credit-Analyst_JR93304) |
 
 ## About This Role
 
-This financial analyst position at UOB Group was posted on 2026-07-22.
+This corporate finance position at UOB Group was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

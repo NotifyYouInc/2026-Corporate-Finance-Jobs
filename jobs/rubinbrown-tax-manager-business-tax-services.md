@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [RubinBrown](https://scoutify.ai/companies/recruiting-ultipro-com-oj92993?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Accounting |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://recruiting.ultipro.com/rub1001rubin/JobBoard/3688e7ba-ac29-44a9-9775-cbd291bb6fa7/OpportunityDetail?opportunityId=1120a28b-4565-4958-8219-6a3530b1a86c) |
+| Apply | [View on company site](https://recruiting.ultipro.com/rub1001rubin/JobBoard/3688e7ba-ac29-44a9-9775-cbd291bb6fa7/OpportunityDetail?opportunityId=0132d980-9ccf-4911-ae80-af3b96322731) |
 
 ## About This Role
 
