@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jeffersonville, Indiana, United States |
-| Category | Human Resources / People Ops |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/1-Heartland-Way---JEFFERSONVILLE-IN/Payroll-Specialist_JR114033) |
+| Location | Oklahoma City, Oklahoma, United States |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/100-East-Main-Street---OKLAHOMA-CITY-OK/Payroll-Specialist_JR113991) |
 
 ## About This Role
 
-This human resources / people ops position at Acrisure was posted on 2026-08-07.
+This accounting position at Acrisure was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Daytona Beach, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Deposit-Specialist_R26_0000001557) |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Deposit-Specialist_R26_0000002717) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-04-27.
+This accounting position at Brown & Brown Insurance was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

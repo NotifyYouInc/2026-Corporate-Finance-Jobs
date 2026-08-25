@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | 6 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
+| Posted | 2026-08-17 |
 | Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Saint-Louis/Merrill-Advisor-Development-Program---Financial-Advisor--St-Louis-Metro-Market_26010769-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-23.
+This corporate finance position at Bank of America was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

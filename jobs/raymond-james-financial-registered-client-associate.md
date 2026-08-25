@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Scottsdale, Arizona, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Scottsdale-Arizona---United-States/Registered-Client-Associate_R-0011922) |
+| Location | Salt Lake City, Utah, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Salt-Lake-City-Utah---United-States/Registered-Client-Associate_R-0012604) |
 
 ## About This Role
 
-This wealth management / private banking position at Raymond James Financial was posted on 2026-07-09.
+This corporate finance position at Raymond James Financial was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

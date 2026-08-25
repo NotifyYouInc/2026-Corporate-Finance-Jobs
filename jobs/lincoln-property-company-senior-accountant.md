@@ -5,12 +5,12 @@
 | Company | [Lincoln Property Company](https://scoutify.ai/companies/lpc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lpc/jobs/5190316007) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lpc/jobs/5214000007) |
 
 ## About This Role
 
-This accounting position at Lincoln Property Company was posted on 2026-07-17.
+This accounting position at Lincoln Property Company was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

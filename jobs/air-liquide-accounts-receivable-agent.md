@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Montreal-QC---Boul-Ray-Lawson---Retail-shop/Accounts-Receivable-Agent_R10091596) |
+| Location | Edmonton, Alberta, Canada |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Edmonton-AB---Roper-Rd---Support-functions/Accounts-Receivable-Agent_R10098302-1) |
 
 ## About This Role
 
-This corporate finance position at Air Liquide was posted on 2026-05-12.
+This accounting position at Air Liquide was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

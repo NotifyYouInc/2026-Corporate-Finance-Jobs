@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Arlington, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Project-Analyst-III_R-29439) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Arlington-VA-Alexandria/Project-Analyst-III_R-31208) |
 
 ## About This Role
 
-This corporate finance position at HNTB was posted on 2026-03-10.
+This corporate finance position at HNTB was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

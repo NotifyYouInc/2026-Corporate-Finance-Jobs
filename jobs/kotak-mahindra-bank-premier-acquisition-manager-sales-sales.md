@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jabalpur, Madhya Pradesh, India |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#251724) |
+| Location | Raipur, Chhattisgarh, India |
+| Category | Corporate Finance |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#253932) |
 
 ## About This Role
 
-This wealth management / private banking position at Kotak Mahindra Bank was posted on 2026-07-31.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

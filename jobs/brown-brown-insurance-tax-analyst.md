@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | St. Petersburg, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/St-Petersburg-FL-USA/Tax-Analyst_R26_0000001014-2) |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/St-Petersburg-FL-USA/Tax-Analyst_R26_0000002724) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-03-17.
+This accounting position at Brown & Brown Insurance was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Accounting |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Accounting--Fall-2027-_00023240) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Accounting--Fall-2027-_00023353) |
 
 ## About This Role
 
-This accounting position at Marathon Petroleum was posted on 2026-08-10.
+This accounting position at Marathon Petroleum was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

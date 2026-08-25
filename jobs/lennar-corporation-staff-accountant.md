@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, Washington, United States |
+| Location | Federal Way, Washington, United States |
 | Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Vancouver-WA-Job-Posting-Location/Staff-Accountant_R26_0000003392) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Federal-Way-WA-Job-Posting-Location/Staff-Accountant_R26_0000003728) |
 
 ## About This Role
 
-This accounting position at Lennar Corporation was posted on 2026-07-29.
+This accounting position at Lennar Corporation was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

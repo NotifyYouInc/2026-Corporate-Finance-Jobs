@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Colorado, US |
-| Category | Corporate Finance |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Pikes-Peak-Post-Acute/Business-Office-Manager---Medicaid-Pending-Specialist_JR173202) |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Pikes-Peak-Post-Acute/Business-Office-Manager---Medicaid-Pending-Specialist_JR178666) |
 
 ## About This Role
 
-This corporate finance position at Pacs was posted on 2026-06-20.
+This accounting position at Pacs was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

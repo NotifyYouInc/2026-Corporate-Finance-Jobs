@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toluca, México, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Toluca/Finance-Apprentice--f-m-d-_R_00096465) |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Toluca/Finance-Apprentice--f-m-d-_R_00106018-1) |
 
 ## About This Role
 
-This corporate finance position at Freudenberg Group was posted on 2026-02-19.
+This accounting position at Freudenberg Group was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

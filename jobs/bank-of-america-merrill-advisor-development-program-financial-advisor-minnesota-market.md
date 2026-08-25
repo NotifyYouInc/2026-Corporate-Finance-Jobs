@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wayzata, Minnesota, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Wayzata/Merrill-Advisor-Development-Program---Financial-Advisor--Minnesota-Market_26014369) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Saint-Paul/Merrill-Advisor-Development-Program---Financial-Advisor--Minnesota-Market_26029948) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-21.
+This corporate finance position at Bank of America was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

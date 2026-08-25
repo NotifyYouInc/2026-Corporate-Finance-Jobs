@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/PH-TAGUIG/Asia-Audit-Manager_R01168925) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/IN-BANGALORE/Asia-Audit-Manager_R01169554) |
 
 ## About This Role
 
-This accounting position at 3M Company was posted on 2026-08-04.
+This accounting position at 3M Company was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

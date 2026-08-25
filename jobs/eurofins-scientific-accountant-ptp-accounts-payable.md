@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Braga, Braga, Portugal |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118577897-accountant-ptp-accounts-payable) |
+| Location | Katowice, Silesia, Poland |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000143992309-accountant-ptp-accounts-payable) |
 
 ## About This Role
 
-This corporate finance position at Eurofins Scientific was posted on 2026-04-03.
+This accounting position at Eurofins Scientific was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

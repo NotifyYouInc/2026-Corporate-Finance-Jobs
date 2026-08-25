@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/Associate-Financial-Advisor_R-0000181286) |
+| Location | Bel Air, Maryland, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/128-NORTH-BOND-STREETBEL-AIR/Associate-Financial-Advisor_R-0000182908) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-21.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

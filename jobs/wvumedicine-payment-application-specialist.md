@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WVUMedicine](https://scoutify.ai/companies/wvumedicine?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Morgantown, West Virginia, United States |
+| Location | United States |
 | Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/WVU-Medicine-Financial-Operations-Center/Payment-Application-Specialist_JR26-40607) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/Payment-Application-Specialist_JR26-43061-1) |
 
 ## About This Role
 
-This accounting position at WVUMedicine was posted on 2026-07-21.
+This accounting position at WVUMedicine was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000143753079-payroll-accountant) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000143985674-payroll-accountant) |
 
 ## About This Role
 
-This accounting position at Wix.com was posted on 2026-08-17.
+This accounting position at Wix.com was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

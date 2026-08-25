@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Compeer Financial](https://scoutify.ai/companies/compeerfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 7 locations |
+| Location | Fond du Lac, Wisconsin, United States |
 | Category | Accounting |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/compeerfinancial/jobs/5389979008) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/compeerfinancial/jobs/5389987008) |
 
 ## About This Role
 
-This accounting position at Compeer Financial was posted on 2026-08-15.
+This accounting position at Compeer Financial was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

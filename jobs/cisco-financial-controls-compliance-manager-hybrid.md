@@ -6,7 +6,7 @@
 | Location | Atlanta, Georgia, United States |
 | Category | Accounting |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Atlanta-Georgia-US/Financial-Controls---Compliance-Manager--Hybrid-_2020254-1) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Financial-Controls---Compliance-Manager--Hybrid-_2020385-1) |
 
 ## About This Role
 

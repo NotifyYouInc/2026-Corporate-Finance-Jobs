@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Camarillo, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---West-Lafayette-IN/Financial-Analyst_REQ34516) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Financial-Analyst_REQ36259) |
 
 ## About This Role
 
-This corporate finance position at Teledyne was posted on 2026-06-26.
+This corporate finance position at Teledyne was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

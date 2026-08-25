@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Four Seasons, Missouri, United States |
 | Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Jacksonville/Director-of-Finance_REQ10387655-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Puerto-Rico/Director-of-Finance_REQ10389159) |
 
 ## About This Role
 
-This accounting position at Four Seasons Hotels was posted on 2026-08-13.
+This accounting position at Four Seasons Hotels was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Pennsylvania, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Sr-Manager--FP-A_R433911) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Sr-Manager--FP-A_R442837) |
 
 ## About This Role
 
-This corporate finance position at Comcast was posted on 2026-03-26.
+This corporate finance position at Comcast was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

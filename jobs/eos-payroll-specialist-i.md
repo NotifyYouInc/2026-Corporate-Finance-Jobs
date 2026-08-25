@@ -5,12 +5,12 @@
 | Company | [EOS ](https://scoutify.ai/companies/eos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://eosits.com/company/careers/?gh_jid=8675297002) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://eosits.com/company/careers/?gh_jid=8723300002) |
 
 ## About This Role
 
-This accounting position at EOS  was posted on 2026-08-03.
+This accounting position at EOS  was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

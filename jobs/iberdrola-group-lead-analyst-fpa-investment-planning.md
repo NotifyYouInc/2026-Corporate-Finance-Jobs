@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Orange, California, United States |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
+| Posted | 2026-08-18 |
 | Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/Lead-Analyst---FP-A-Investment-Planning_R-23700) |
 
 ## About This Role
 
-This corporate finance position at Iberdrola Group was posted on 2026-02-18.
+This corporate finance position at Iberdrola Group was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

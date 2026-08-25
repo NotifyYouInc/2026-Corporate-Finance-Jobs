@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | West Des Moines, Iowa, United States |
-| Category | Leadership Development Program |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/West-Des-Moines-Iowa-United-States-of-America/Wealth-Management-Associate_JR041929-1) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Charlotte-North-Carolina-United-States-of-America/Wealth-Management-Associate_JR040249-1) |
 
 ## About This Role
 
-This leadership development program position at Morgan Stanley was posted on 2026-08-07.
+This corporate finance position at Morgan Stanley was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

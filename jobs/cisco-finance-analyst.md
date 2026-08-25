@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | North Carolina, US |
 | Category | Corporate Finance |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Finance-Analyst_2020801-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Finance-Analyst_2018622-1) |
 
 ## About This Role
 
-This corporate finance position at Cisco was posted on 2026-08-17.
+This corporate finance position at Cisco was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Structurer - Director at Citigroup
+# Structurer, Director at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | New York City, New York, United States |
 | Category | Sales & Trading |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Structurer---Director_26976112) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Structurer--Director_26982138) |
 
 ## About This Role
 
-This sales & trading position at Citigroup was posted on 2026-07-02.
+This sales & trading position at Citigroup was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

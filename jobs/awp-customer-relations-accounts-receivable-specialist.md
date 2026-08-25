@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AWP](https://scoutify.ai/companies/awp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Canton, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AWPSafety/744000122117773-customer-relations-accounts-receivable-specialist) |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AWPSafety/744000143937654-customer-relations-accounts-receivable-specialist) |
 
 ## About This Role
 
-This corporate finance position at AWP was posted on 2026-04-21.
+This accounting position at AWP was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

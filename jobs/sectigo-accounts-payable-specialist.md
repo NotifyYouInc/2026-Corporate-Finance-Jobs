@@ -5,12 +5,12 @@
 | Company | [Sectigo](https://scoutify.ai/companies/sectigo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Scottsdale, Arizona, United States |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990014238966-accounts-payable-specialist) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990014639256-accounts-payable-specialist) |
 
 ## About This Role
 
-This accounting position at Sectigo was posted on 2026-07-23.
+This accounting position at Sectigo was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

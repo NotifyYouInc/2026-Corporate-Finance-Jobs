@@ -5,12 +5,12 @@
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/GCM-Client-Administrator-I_R84638-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/GCM-Client-Administrator-I_R89141-1) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-04-01.
+This corporate finance position at M&T Bank was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

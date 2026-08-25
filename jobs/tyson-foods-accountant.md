@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Springdale, Arkansas, United States |
+| Location | New London, Connecticut, United States |
 | Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-on-Thompson---Springdale-Arkansas/Accountant_R0473190) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/New-London-Plant---New-London-Wisconsin/Accountant_R0478594-1) |
 
 ## About This Role
 
-This accounting position at Tyson Foods was posted on 2026-07-29.
+This accounting position at Tyson Foods was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

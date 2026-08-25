@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tucson, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M208--6363-S-Country-Club--BLDG-M208-Ste-121/Analyst--Accounts-Receivable_01827454-1) |
+| Location | Richardson, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C07--1707-Cityline-Dr--CITYLINE-C07/Analyst--Accounts-Receivable_01866056) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-04-09.
+This accounting position at RTX was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

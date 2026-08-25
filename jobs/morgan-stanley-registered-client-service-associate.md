@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Paramus, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Plano-Texas-United-States-of-America/Registered-Client-Service-Associate_JR042260) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Paramus-New-Jersey-United-States-of-America/Registered-Client-Service-Associate_JR042267-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-08-14.
+This corporate finance position at Morgan Stanley was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

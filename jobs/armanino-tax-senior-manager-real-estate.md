@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Philadelphia-Pennsylvania/Tax-Senior-Manager--Real-Estate_JR103826) |
+| Location | 6 locations |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/New-York-City-New-York-Madison-Ave/Tax-Senior-Manager--Real-Estate--REIT-Fund-_JR104219) |
 
 ## About This Role
 
-This corporate finance position at Armanino was posted on 2026-04-17.
+This accounting position at Armanino was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Manager, Financial Analysis and Reporting at AeroVironment
+# Manager – Financial Analysis and Reporting at AeroVironment
 
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Albuquerque, New Mexico, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Albuquerque-NM/Manager--Financial-Analysis-and-Reporting_8246) |
+| Location | Germantown, Maryland, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Germantown-MD/Manager---Financial-Analysis-and-Reporting_8410) |
 
 ## About This Role
 
-This fp&a / strategic finance position at AeroVironment was posted on 2026-07-28.
+This corporate finance position at AeroVironment was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

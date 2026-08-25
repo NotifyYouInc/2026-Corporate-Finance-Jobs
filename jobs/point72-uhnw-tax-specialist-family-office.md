@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Stamford, Connecticut, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8516480002?gh_jid=8516480002) |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8691433002?gh_jid=8691433002) |
 
 ## About This Role
 
-This corporate finance position at Point72 was posted on 2026-05-06.
+This accounting position at Point72 was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

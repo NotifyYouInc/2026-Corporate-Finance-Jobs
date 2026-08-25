@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bannerbank](https://scoutify.ai/companies/bannerbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sacramento, California, United States |
+| Location | Tacoma, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.lever.co/bannerbank/7e784144-985e-45c2-8b4c-52023ad7549f) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.lever.co/bannerbank/4f1da505-c0c6-40fd-a680-2124508f21e6) |
 
 ## About This Role
 
-This corporate finance position at Bannerbank was posted on 2026-08-14.
+This corporate finance position at Bannerbank was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

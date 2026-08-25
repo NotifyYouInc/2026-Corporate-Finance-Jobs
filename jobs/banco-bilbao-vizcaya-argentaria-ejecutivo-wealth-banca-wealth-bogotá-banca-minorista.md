@@ -1,16 +1,16 @@
-# EJECUTIVO WEALTH  - BANCA WEALTH BOGOTÁ - BANCA MINORISTA at Banco Bilbao Vizcaya Argentaria
+# EJECUTIVO WEALTH - BANCA WEALTH BOGOTÁ - BANCA MINORISTA at Banco Bilbao Vizcaya Argentaria
 
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/OFP1---BANCA-WEALTH-BOGOT/EJECUTIVO-WEALTH----BANCA-WEALTH-BOGOT---BANCA-MINORISTA_JR00110037) |
+| Category | Corporate Finance |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/OFP1---BANCA-WEALTH-BOGOT/EJECUTIVO-WEALTH---BANCA-WEALTH-BOGOT---BANCA-MINORISTA_JR00112336) |
 
 ## About This Role
 
-This wealth management / private banking position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-22.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

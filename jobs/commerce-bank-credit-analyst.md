@@ -5,12 +5,12 @@
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Bank-Building-1000-Walnut-64106/Credit-Analyst_38010) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Bank-Building-1000-Walnut-64106/Credit-Analyst_38329) |
 
 ## About This Role
 
-This corporate finance position at Commerce Bank was posted on 2026-05-22.
+This corporate finance position at Commerce Bank was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
