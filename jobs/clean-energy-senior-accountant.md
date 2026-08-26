@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clean Energy](https://scoutify.ai/companies/recruiting2-ultipro-com-oj21522?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/cle1003clean/JobBoard/34c7f7c9-2040-4eae-a7eb-0965869b3fcb/OpportunityDetail?opportunityId=ff64d2bf-26ad-4958-ab68-490cc5d26c99) |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/cle1003clean/JobBoard/34c7f7c9-2040-4eae-a7eb-0965869b3fcb/OpportunityDetail?opportunityId=82f6ad14-b1e7-41ac-835b-d74996e48fc7) |
 
 ## About This Role
 
-This corporate finance position at Clean Energy was posted on 2026-06-22.
+This accounting position at Clean Energy was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

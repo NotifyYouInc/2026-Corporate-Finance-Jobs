@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Wright, Kentucky, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Fort-Wright/Client-Specialist_R2026877) |
+| Location | Seattle, Washington, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WA-Seattle/Client-Specialist_R2026891-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-08-14.
+This wealth management / private banking position at Baird was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

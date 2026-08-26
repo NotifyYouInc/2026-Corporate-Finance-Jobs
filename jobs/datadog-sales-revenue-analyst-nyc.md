@@ -5,12 +5,12 @@
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7587086/?gh_jid=7587086) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8132294/?gh_jid=8132294) |
 
 ## About This Role
 
-This corporate finance position at Datadog was posted on 2026-02-05.
+This corporate finance position at Datadog was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

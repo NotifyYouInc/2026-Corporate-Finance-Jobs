@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sandy Springs, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analyst_R26_0000001566) |
+| Location | California, US |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---California/Risk-Analyst_R26_0000002726) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-04-22.
+This actuary / insurance analytics position at Brown & Brown Insurance was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

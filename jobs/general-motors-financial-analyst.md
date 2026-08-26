@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Luis Potosí, San Luis Potosí, Mexico |
+| Location | Toluca, México, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/San-Luis-Potosi-Mexico/Financial-Analyst_JR-202609618-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Toluca-Mexico-Mexico/Financial-Analyst_JR-202616658) |
 
 ## About This Role
 
-This corporate finance position at General Motors was posted on 2026-06-16.
+This corporate finance position at General Motors was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

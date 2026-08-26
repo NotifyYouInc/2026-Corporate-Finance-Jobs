@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Accounting-Clerk_J2455174) |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Accounting-Clerk_J2461885) |
 
 ## About This Role
 
-This corporate finance position at Jabil was posted on 2026-06-23.
+This accounting position at Jabil was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

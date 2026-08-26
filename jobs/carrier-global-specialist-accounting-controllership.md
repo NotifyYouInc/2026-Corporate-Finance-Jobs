@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Specialist--Accounting---Controllership_30206251-2) |
+| Location | Monterrey, Nuevo León, Mexico |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5028-MSSC-Boulevard-Daz-Ordaz-130-Torre-4-Piso-19-Col-Santa-Maria-Monterrey-Nuevo-Len-Mxico-CP-64650/Specialist--Accounting---Controllership_30214384) |
 
 ## About This Role
 
-This corporate finance position at Carrier Global was posted on 2026-05-15.
+This accounting position at Carrier Global was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

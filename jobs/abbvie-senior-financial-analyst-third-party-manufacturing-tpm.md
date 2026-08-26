@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013827446-senior-financial-analyst-third-party-manufacturing-tpm) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014664446-senior-financial-analyst-third-party-manufacturing-tpm) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-06-28.
+This corporate finance position at AbbVie was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

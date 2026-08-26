@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Partsbase](https://scoutify.ai/companies/partsbase?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Deerfield, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/partsbase/62dd7334-bb03-4be9-851d-2c9d316ef9aa) |
+| Location | United States |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/partsbase/2a9e9c0d-8cf2-4d69-a48f-f400bb16d825) |
 
 ## About This Role
 
-This corporate finance position at Partsbase was posted on 2026-05-19.
+This accounting position at Partsbase was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

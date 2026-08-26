@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lake Forest, California, United States |
+| Location | Calgary, Alberta, Canada |
 | Category | Accounting |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Revenue-Associate_R015041) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Calgary-Canada/Revenue-Associate_R015098) |
 
 ## About This Role
 
-This accounting position at AVEVA was posted on 2026-08-15.
+This accounting position at AVEVA was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

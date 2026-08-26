@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/QUEZON-CITY--PHILIPPINES/Accountant--General-Ledger-_R0073965) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/QUEZON-CITY--PHILIPPINES/Accountant--General-Ledger-_R0074126) |
 
 ## About This Role
 
-This accounting position at Global Payments was posted on 2026-08-14.
+This accounting position at Global Payments was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

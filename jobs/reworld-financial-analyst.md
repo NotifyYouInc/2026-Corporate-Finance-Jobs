@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reworld](https://scoutify.ai/companies/reworld?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Florida, US |
-| Category | Financial Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://reworld.wd5.myworkdayjobs.com/external/job/USA-FL-Works-from-home/Financial-Analyst_JR13651) |
+| Location | Lorton, Virginia, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://reworld.wd5.myworkdayjobs.com/external/job/USA-VA-Lorton/Financial-Analyst_JR13773) |
 
 ## About This Role
 
-This financial analyst position at Reworld was posted on 2026-07-21.
+This corporate finance position at Reworld was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

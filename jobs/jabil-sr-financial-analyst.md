@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Memphis, Tennessee, United States |
+| Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Sr-Financial-Analyst_J2451165-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Baja/Sr-Financial-Analyst_J2461185) |
 
 ## About This Role
 
-This corporate finance position at Jabil was posted on 2026-05-22.
+This corporate finance position at Jabil was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

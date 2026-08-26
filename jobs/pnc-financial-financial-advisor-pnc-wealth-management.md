@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Austin-78745/Financial-Advisor---PNC-Wealth-Management_R232472-1) |
+| Location | 2 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NJ---Hoboken/Financial-Advisor---PNC-Wealth-Management_R233260-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-08-13.
+This wealth management / private banking position at PNC Financial was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

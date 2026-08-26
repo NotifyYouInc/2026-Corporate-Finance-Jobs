@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/WHOLESALE-RISK-ANALYST-I_JR00105496) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/WHOLESALE-RISK-ANALYST-I_JR00112428) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-01.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chiyoda, Tokyo, Japan |
-| Category | Investor Relations |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Assistant-Vice-President--Junior-Corporate-Access-Specialist--Markets_26979783) |
+| Category | Corporate Finance |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Assistant-Vice-President--Junior-Corporate-Access-Specialist--Markets_26983032) |
 
 ## About This Role
 
-This investor relations position at Citigroup was posted on 2026-07-16.
+This corporate finance position at Citigroup was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

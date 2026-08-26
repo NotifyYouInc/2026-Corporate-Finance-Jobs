@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Macon, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Macon/Wealth-Management-Client-Associate_26029540-1) |
+| Location | Mount Pleasant, South Carolina, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Mount-Pleasant/Wealth-Management-Client-Associate_26030089) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-08-17.
+This wealth management / private banking position at Bank of America was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DriveTime](https://scoutify.ai/companies/drivetime?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tempe, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Staff-Accountant-III_R15560) |
+| Category | Accounting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Staff-Accountant-III_R16159) |
 
 ## About This Role
 
-This corporate finance position at DriveTime was posted on 2026-05-29.
+This accounting position at DriveTime was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

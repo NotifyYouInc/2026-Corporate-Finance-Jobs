@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ubud, Bali, Indonesia |
+| Location | Bogor, West Java, Indonesia |
 | Category | Accounting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000138021849-account-payable) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000144222169-account-payable) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-16.
+This accounting position at ACCOR was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

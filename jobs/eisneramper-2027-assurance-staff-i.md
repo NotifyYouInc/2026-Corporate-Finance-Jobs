@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eisneramper](https://scoutify.ai/companies/eisneramper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Baton Rouge, Louisiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/Baton-Rouge/XMLNAME-2027-Assurance-Staff-I_Req-8921) |
+| Location | Iselin, New Jersey, United States |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/Iselin/XMLNAME-2027-Assurance-Staff-I_Req-8775) |
 
 ## About This Role
 
-This corporate finance position at Eisneramper was posted on 2026-05-05.
+This accounting position at Eisneramper was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

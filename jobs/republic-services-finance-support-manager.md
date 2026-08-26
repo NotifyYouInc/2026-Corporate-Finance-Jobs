@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Walnut Creek, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Indianapolis-IN-USA/Finance-Support-Manager_R-175826) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Walnut-Creek-CA-USA/Finance-Support-Manager_R-182268) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-05-28.
+This corporate finance position at Republic Services was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Compliance & Risk Management |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138254059-analyst-regulatory-reporting) |
+| Category | Corporate Finance |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000144227088-analyst-regulatory-reporting) |
 
 ## About This Role
 
-This compliance & risk management position at IQ-EQ was posted on 2026-07-17.
+This corporate finance position at IQ-EQ was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

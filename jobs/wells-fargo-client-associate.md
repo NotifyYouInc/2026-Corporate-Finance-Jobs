@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charleston, South Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLESTON-SC/Client-Associate_R-568246) |
+| Location | Bellevue, Washington, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BELLEVUE-WA/Client-Associate_R-568940) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-08-14.
+This wealth management / private banking position at Wells Fargo was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

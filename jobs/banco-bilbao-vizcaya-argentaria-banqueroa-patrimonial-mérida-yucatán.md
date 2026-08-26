@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mérida, Yucatán, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Yucatn-Mrida-97000/Banquero-a-Patrimonial--Mrida--Yucatn-_JR00104157) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Yucatn-Mrida-97000/Banquero-a-Patrimonial--Mrida--Yucatn-_JR00112459) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-19.
+This wealth management / private banking position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

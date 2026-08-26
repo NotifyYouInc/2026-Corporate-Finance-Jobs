@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Financial-Analyst---CAM-Analyst_R10238309) |
+| Category | Corporate Finance |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Financial-Analyst---CAM-Analyst_R10246408) |
 
 ## About This Role
 
-This financial analyst position at Northrop Grumman was posted on 2026-07-03.
+This corporate finance position at Northrop Grumman was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

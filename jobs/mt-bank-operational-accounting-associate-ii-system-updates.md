@@ -5,12 +5,12 @@
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York, US |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Getzville-NY/Operational-Accounting-Associate-II--System-Updates-_R88170) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Getzville-NY/Operational-Accounting-Associate-II--System-Updates-_R89329) |
 
 ## About This Role
 
-This accounting position at M&T Bank was posted on 2026-07-15.
+This accounting position at M&T Bank was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

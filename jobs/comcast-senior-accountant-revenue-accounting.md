@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Pennsylvania, US |
 | Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Senior-Accountant--Revenue-Accounting_R440921) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Senior-Accountant--Revenue-Accounting_R442980) |
 
 ## About This Role
 
-This accounting position at Comcast was posted on 2026-07-10.
+This accounting position at Comcast was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

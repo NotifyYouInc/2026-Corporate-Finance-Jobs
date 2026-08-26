@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oxford, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110877172-billing-and-revenue-associate) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000144178569-billing-and-revenue-associate) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-02-23.
+This accounting position at NielsenIQ was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

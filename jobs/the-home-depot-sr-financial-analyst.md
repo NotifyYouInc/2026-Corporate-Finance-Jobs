@@ -5,12 +5,12 @@
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/SR-FINANCIAL-ANALYST_Req187945) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/SR-FINANCIAL-ANALYST_Req190418) |
 
 ## About This Role
 
-This corporate finance position at The Home Depot was posted on 2026-07-27.
+This corporate finance position at The Home Depot was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Corteva](https://scoutify.ai/companies/corteva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wilmington, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
+| Category | Accounting |
+| Posted | 2026-08-18 |
 | Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/Wilmington-Delaware-United-States/Tax-Manager_245912W-1) |
 
 ## About This Role
 
-This corporate finance position at Corteva was posted on 2026-03-23.
+This accounting position at Corteva was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

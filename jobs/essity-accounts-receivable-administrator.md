@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Santa-Fe-Ciudad-de-Mxico--Mexico/Accounts-Receivable-Administrator_Essity262883-1) |
+| Location | Fiji |
+| Category | Accounting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Nakasi-Fiji/Accounts-Receivable-Administrator_Essity264568) |
 
 ## About This Role
 
-This corporate finance position at Essity was posted on 2026-06-10.
+This accounting position at Essity was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

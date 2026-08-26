@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KSM](https://scoutify.ai/companies/ksmcpa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Cincinnati/Tax-Intern--Spring-2027-_R-100167) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Indianapolis/Tax-Intern--Spring-2027-_R-100043) |
 
 ## About This Role
 
-This accounting position at KSM was posted on 2026-08-17.
+This accounting position at KSM was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

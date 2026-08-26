@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Lease-Analyst---Senior-Analyst---Finance-Management_R305064) |
+| Category | Accounting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Lease-Analyst---Senior-Analyst---Finance-Management_R333179) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-02-11.
+This accounting position at Cushman & Wakefield was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

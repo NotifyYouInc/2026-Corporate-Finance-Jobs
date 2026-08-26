@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | 2 locations |
 | Category | Sales & Trading |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4924291101) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4955644101) |
 
 ## About This Role
 
-This sales & trading position at StraitsX was posted on 2026-07-10.
+This sales & trading position at StraitsX was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

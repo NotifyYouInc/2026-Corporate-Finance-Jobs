@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/New-York/Manager--FP-A_R1128248) |
+| Location | 4 locations |
+| Category | Corporate Finance |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/New-York/Manager--FP-A_R1129033) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Dentsu was posted on 2026-07-29.
+This corporate finance position at Dentsu was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

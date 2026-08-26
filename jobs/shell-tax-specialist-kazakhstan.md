@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Shell-Business-Operations-DOT/Tax-Specialist-Kazakhstan_R197360) |
+| Location | Poland |
+| Category | Accounting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Shell-Business-Operations-DOT/Tax-Specialist-Kazakhstan_R205777) |
 
 ## About This Role
 
-This corporate finance position at Shell was posted on 2026-06-19.
+This accounting position at Shell was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

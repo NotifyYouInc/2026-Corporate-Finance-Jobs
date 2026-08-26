@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Sales & Trading |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Purchase-New-York-United-States-of-America/Order-Room-ETF-Trading-Support--Assistant-Vice-President_PT-JR041493) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Purchase-New-York-United-States-of-America/Order-Room-ETF-Trading-Support--Assistant-Vice-President_JR042535) |
 
 ## About This Role
 
-This sales & trading position at Morgan Stanley was posted on 2026-07-30.
+This sales & trading position at Morgan Stanley was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

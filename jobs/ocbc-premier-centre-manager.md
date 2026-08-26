@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Petaling-Jaya/Premier-Centre-Manager_JR00010129) |
+| Location | Miri, Sarawak, Malaysia |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Miri/Premier-Centre-Manager_JR00010364) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-08-11.
+This wealth management / private banking position at OCBC was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

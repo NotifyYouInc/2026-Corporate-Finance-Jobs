@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Consultant--Investment-Accounting_097997) |
+| Category | Accounting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Consultant--Investment-Accounting_099574) |
 
 ## About This Role
 
-This corporate finance position at Nationwide was posted on 2026-05-06.
+This accounting position at Nationwide was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

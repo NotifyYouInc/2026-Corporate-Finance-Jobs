@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crusoe](https://scoutify.ai/companies/crusoe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/e355dc90-61fa-43e4-bf00-888308be1d4e) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/6b5fb1dc-c6a1-4f7c-957e-2e91ea38257e) |
 
 ## About This Role
 
-This corporate finance position at Crusoe was posted on 2026-08-17.
+This corporate finance position at Crusoe was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

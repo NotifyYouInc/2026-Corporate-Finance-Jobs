@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwool International](https://scoutify.ai/companies/rockwool-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Klang, Selangor, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Klang/General-Ledger-and-Fixed-Assets-Accountant_R0034919) |
+| Location | Subang Jaya, Selangor, Malaysia |
+| Category | Accounting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Subang-Jaya/General-Ledger-and-Fixed-Assets-Accountant_R0036009) |
 
 ## About This Role
 
-This corporate finance position at Rockwool International was posted on 2026-04-30.
+This accounting position at Rockwool International was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

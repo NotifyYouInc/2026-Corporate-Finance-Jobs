@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Senior-Accountant_R2120243) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Senior-Accountant_R2128540) |
 
 ## About This Role
 
-This corporate finance position at KBR was posted on 2026-03-10.
+This accounting position at KBR was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

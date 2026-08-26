@@ -1,16 +1,16 @@
-# Senior Associate - Financial Services Operations at SS&C Technologies
+# Senior Associate- Financial Services Operations at SS&C Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Pune-India---Commerzone-Building-7/Senior-Associate---Financial-Services-Operations_R44779) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Maharashtra-Navi-Mumbai/Senior-Associate--Financial-Services-Operations_R43414) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-07-29.
+This corporate finance position at SS&C Technologies was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

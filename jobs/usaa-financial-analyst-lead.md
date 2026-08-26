@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 6 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Financial-Analyst-Lead_R0117636) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Financial-Analyst-Lead_R0119359) |
 
 ## About This Role
 
-This corporate finance position at USAA was posted on 2026-05-21.
+This corporate finance position at USAA was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

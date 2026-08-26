@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quincy, Massachusetts, United States |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Core-Operations--Officer_R-786315) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Tokyo-Japan/Core-Operations--Officer_R-796235) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-18.
+This corporate finance position at State Street was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

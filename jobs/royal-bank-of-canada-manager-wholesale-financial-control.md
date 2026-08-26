@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager--Wholesale-Financial-Control_R-0000177928-1) |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager--Wholesale-Financial-Control_R-0000183734-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-22.
+This accounting position at Royal Bank of Canada was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

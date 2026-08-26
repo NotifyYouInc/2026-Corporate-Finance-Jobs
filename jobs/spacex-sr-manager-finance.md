@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8530722002?gh_jid=8530722002) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8726371002?gh_jid=8726371002) |
 
 ## About This Role
 
-This corporate finance position at SpaceX was posted on 2026-04-29.
+This corporate finance position at SpaceX was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

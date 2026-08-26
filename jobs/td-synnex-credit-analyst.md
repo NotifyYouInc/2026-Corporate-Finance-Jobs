@@ -5,12 +5,12 @@
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Alcalda-Benito-Juarez-Mexico/Credit-Analyst_R48630) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Alcalda-Benito-Juarez-Mexico/Credit-Analyst_R52478) |
 
 ## About This Role
 
-This corporate finance position at TD Synnex was posted on 2026-03-17.
+This corporate finance position at TD Synnex was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

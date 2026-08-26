@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hartford, Connecticut, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Manager--Accounting_R-51905) |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Manager--Accounting_R-52129) |
 
 ## About This Role
 
-This corporate finance position at Travelers was posted on 2026-08-11.
+This accounting position at Travelers was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

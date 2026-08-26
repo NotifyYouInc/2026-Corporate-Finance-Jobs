@@ -5,12 +5,12 @@
 | Company | [CRB](https://scoutify.ai/companies/crb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000137536839-accounts-payable-specialist) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000144162170-accounts-payable-specialist) |
 
 ## About This Role
 
-This accounting position at CRB was posted on 2026-07-13.
+This accounting position at CRB was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

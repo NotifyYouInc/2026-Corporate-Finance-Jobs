@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KSM](https://scoutify.ai/companies/ksmcpa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Fort Wayne, Indiana, United States |
 | Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Indianapolis/Audit-Intern--Summer-2027-_R-100113) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Fort-Wayne/Audit-Intern--Summer-2027-_R-100499) |
 
 ## About This Role
 
-This accounting position at KSM was posted on 2026-08-17.
+This accounting position at KSM was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

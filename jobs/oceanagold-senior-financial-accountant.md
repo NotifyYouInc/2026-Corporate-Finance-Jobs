@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OceanaGold](https://scoutify.ai/companies/oceanagold?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kershaw, South Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OceanaGold/744000133693867-senior-financial-accountant) |
+| Location | Dunedin, Otago, New Zealand |
+| Category | Accounting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OceanaGold/744000144207764-senior-financial-accountant) |
 
 ## About This Role
 
-This corporate finance position at OceanaGold was posted on 2026-06-23.
+This accounting position at OceanaGold was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

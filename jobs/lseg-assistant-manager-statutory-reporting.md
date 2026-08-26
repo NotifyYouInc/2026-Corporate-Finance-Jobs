@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
-| Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Assistant-Manager--Statutory-Reporting_R0118340-1) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Assistant-Manager--Statutory-Reporting_R0122233) |
 
 ## About This Role
 
-This corporate finance position at LSEG was posted on 2026-04-15.
+This accounting position at LSEG was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

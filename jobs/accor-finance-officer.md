@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139204812-finance-officer) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000144237169-finance-officer) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-23.
+This accounting position at ACCOR was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
