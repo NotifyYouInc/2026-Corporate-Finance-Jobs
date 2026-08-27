@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citco](https://scoutify.ai/companies/ocs-cx-oj22087?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maharashtra, IN |
-| Category | Corporate Finance |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#17511) |
+| Location | Pune, Maharashtra, India |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#18719) |
 
 ## About This Role
 
-This corporate finance position at Citco was posted on 2026-08-10.
+This accounting position at Citco was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

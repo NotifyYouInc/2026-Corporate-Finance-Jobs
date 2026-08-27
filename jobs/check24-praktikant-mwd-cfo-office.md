@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Germany |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000122174666-praktikant-mwd-cfo-office) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000144505429-praktikant-mwd-cfo-office) |
 
 ## About This Role
 
-This corporate finance position at CHECK24 was posted on 2026-04-22.
+This corporate finance position at CHECK24 was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

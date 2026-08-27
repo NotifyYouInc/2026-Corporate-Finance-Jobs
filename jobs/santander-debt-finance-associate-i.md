@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Debt-Finance-Associate-I_Req1553700) |
+| Category | Investment Banking |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Debt-Finance-Associate-I_Req1599945) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-03-24.
+This investment banking position at Santander was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

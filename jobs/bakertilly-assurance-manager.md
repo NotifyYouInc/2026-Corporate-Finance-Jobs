@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | Overland Park, Kansas, United States |
 | Category | Accounting |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TX-Frisco/Assurance-Manager_JR107486-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-KS-Overland-Park-7285-West-132nd-St/Assurance-Manager_JR107563) |
 
 ## About This Role
 
-This accounting position at Bakertilly was posted on 2026-08-14.
+This accounting position at Bakertilly was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

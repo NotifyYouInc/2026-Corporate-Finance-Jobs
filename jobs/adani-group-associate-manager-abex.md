@@ -1,16 +1,16 @@
-# Associate Manager - ABEX at Adani Group
+# Associate  Manager - ABEX at Adani Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Adani Group](https://scoutify.ai/companies/em2-cx-oj1865?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#49521) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#51915) |
 
 ## About This Role
 
-This treasury & capital markets position at Adani Group was posted on 2026-07-15.
+This accounting position at Adani Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

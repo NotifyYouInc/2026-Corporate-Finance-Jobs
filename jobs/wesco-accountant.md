@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wesco](https://scoutify.ai/companies/us2-cx-oj118628?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore |
+| Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://eklm.fa.us2.oraclecloud.com/jobs/#32269) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://eklm.fa.us2.oraclecloud.com/jobs/#33813) |
 
 ## About This Role
 
-This accounting position at Wesco was posted on 2026-06-10.
+This accounting position at Wesco was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

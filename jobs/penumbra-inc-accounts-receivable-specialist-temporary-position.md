@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Penumbra Inc](https://scoutify.ai/companies/penumbrainc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Alameda, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.lever.co/penumbrainc/da64583f-ec20-4686-a23a-1a0c6778ba02) |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.lever.co/penumbrainc/ed8e8788-1ad3-42a6-b568-7b74dcf7d4ac) |
 
 ## About This Role
 
-This corporate finance position at Penumbra Inc was posted on 2026-02-06.
+This accounting position at Penumbra Inc was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000127917425-senior-financial-analyst-nbc-news-group) |
+| Category | Financial Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000144587715-senior-financial-analyst-nbc-news-group) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-05-22.
+This financial analyst position at NBCUniversal was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Client Assistant Accountant - Funds  at IQ-EQ
+# Client Assistant Accountant - Funds at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000140091217-client-assistant-accountant-funds) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000144557029-client-assistant-accountant-funds) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-27.
+This accounting position at IQ-EQ was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

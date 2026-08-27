@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126624629-pun-ref102332x-2026254638-accounts-receivable-om-invoicing-senior-associate) |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000144514739-pun-ref102332x-2026254638-accounts-receivable-om-invoicing-senior-associate) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-05-15.
+This accounting position at WNS was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

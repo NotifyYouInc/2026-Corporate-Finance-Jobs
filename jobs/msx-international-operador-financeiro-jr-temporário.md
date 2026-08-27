@@ -1,0 +1,22 @@
+# Operador Financeiro Jr. (Temporário) at MSX International
+
+| Field | Details |
+|-------|---------|
+| Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Imperatriz, Maranhão, Brazil |
+| Category | Financial Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014707296-operador-financeiro-jr-temporario) |
+
+## About This Role
+
+This financial analyst position at MSX International was posted on 2026-08-20.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miri, Sarawak, Malaysia |
+| Location | Kuching, Sarawak, Malaysia |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Miri-City-Area/VP--Trade-Sales-Advisory--Transaction-Banking_JR90743) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Kuching-City-Area/VP--Trade-Sales-Advisory--Transaction-Banking_JR93922) |
 
 ## About This Role
 
-This wealth management / private banking position at UOB Group was posted on 2026-07-03.
+This wealth management / private banking position at UOB Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

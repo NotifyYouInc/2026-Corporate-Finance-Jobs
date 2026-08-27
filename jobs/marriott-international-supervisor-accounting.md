@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shaanxi, CN |
+| Location | Kyoto, Kyoto, Japan |
 | Category | Accounting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26076518) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26105649) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-08-04.
+This accounting position at Marriott International was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

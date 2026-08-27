@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/IN-BANGALORE/Specialist-Tax-Accounting_R01165629) |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/IN-BANGALORE/Specialist-Tax-Accounting_R01169898-1) |
 
 ## About This Role
 
-This corporate finance position at 3M Company was posted on 2026-05-26.
+This accounting position at 3M Company was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

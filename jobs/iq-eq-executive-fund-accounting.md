@@ -1,16 +1,16 @@
-# Executive - Fund Accounting  at IQ-EQ
+#  Executive- Fund Accounting at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Port Louis, Port Louis, Mauritius |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000137799295-executive-fund-accounting) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000144564939-executive-fund-accounting) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-15.
+This accounting position at IQ-EQ was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

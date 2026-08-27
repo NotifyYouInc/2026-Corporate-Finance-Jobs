@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
-| Category | Corporate Finance |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Private-Wealth-Advisor_R52441) |
+| Location | Stellenbosch, Western Cape, South Africa |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Stellenbosch/Private-Wealth-Advisor_R52743-1) |
 
 ## About This Role
 
-This corporate finance position at FirstRand was posted on 2026-08-15.
+This wealth management / private banking position at FirstRand was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

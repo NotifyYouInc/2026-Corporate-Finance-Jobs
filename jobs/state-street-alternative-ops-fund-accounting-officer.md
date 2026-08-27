@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Dublin, Leinster, Ireland |
 | Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Philippines-Manila/Alternative-Ops-Fund-Accounting--Officer_R-791313-3) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Alternative-Ops-Fund-Accounting--Officer_R-796184-1) |
 
 ## About This Role
 
-This accounting position at State Street was posted on 2026-08-17.
+This accounting position at State Street was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

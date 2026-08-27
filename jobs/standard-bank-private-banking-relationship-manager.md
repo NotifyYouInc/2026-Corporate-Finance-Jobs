@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Somerset West, Western Cape, South Africa |
+| Location | Hermanus, Western Cape, South Africa |
 | Category | Treasury & Capital Markets |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000142701353-private-banking-relationship-manager) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000144567822-private-banking-relationship-manager) |
 
 ## About This Role
 
-This treasury & capital markets position at Standard Bank was posted on 2026-08-10.
+This treasury & capital markets position at Standard Bank was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Redondo Beach, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Pricing-Cost-Estimating-Manager-2_R10226849-2) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Pricing-Cost-Estimating-Manager-2_R10225563) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-04-07.
+This corporate finance position at Northrop Grumman was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

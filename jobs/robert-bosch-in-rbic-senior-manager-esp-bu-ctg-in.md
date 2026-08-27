@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139963124-in-rbic-senior-manager-esp-bu-ctg-in) |
+| Category | Corporate Finance |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144519799-in-rbic-senior-manager-esp-bu-ctg-in) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Robert Bosch was posted on 2026-07-27.
+This corporate finance position at Robert Bosch was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Madrid, Madrid, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-North-Carolina-Charlotte-28273/Finance-Business-Partner_R193048) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Spain-Madrid-Madrid-28223/Finance-Business-Partner_R193022) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-08-14.
+This corporate finance position at A.P. Moller - Maersk was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

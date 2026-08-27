@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austria |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137815529-business-accountant-general-ledger-wmdiv) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144496309-business-accountant-general-ledger-wmdiv) |
 
 ## About This Role
 
-This accounting position at Robert Bosch was posted on 2026-07-15.
+This accounting position at Robert Bosch was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

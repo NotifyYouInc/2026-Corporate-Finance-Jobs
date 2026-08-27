@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Intime India](https://scoutify.ai/companies/ap1-cx-oj72475?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | India |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15645) |
+| Category | Corporate Finance |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15846) |
 
 ## About This Role
 
-This asset management / portfolio management position at MUFG Intime India was posted on 2026-07-22.
+This corporate finance position at MUFG Intime India was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

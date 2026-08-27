@@ -1,16 +1,16 @@
-# Income Audit at ACCOR
+# Income Audit  at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Makassar, South Sulawesi, Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000132080899-income-audit) |
+| Location | Egypt |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000144475249-income-audit) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-14.
+This accounting position at ACCOR was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Procure-to-Pay-Operations-Associate_AIOC-S01627717-1) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Noida/Procure-to-Pay-Operations-Associate_AIOC-S01661819-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-14.
+This accounting position at Accenture was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

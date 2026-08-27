@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---PUNE-III-GLOBAL-BUSINESS-SVCS---GBS-INMHH/F-A-Senior-Officer_R26027367) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---PUNE-III-GLOBAL-BUSINESS-SVCS---GBS-INMHH/F-A-Senior-Officer_R26029236) |
 
 ## About This Role
 
-This accounting position at United Parcel Service (UPS) was posted on 2026-08-10.
+This accounting position at United Parcel Service (UPS) was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

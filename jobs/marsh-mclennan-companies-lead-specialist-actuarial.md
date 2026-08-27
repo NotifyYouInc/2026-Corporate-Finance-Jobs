@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---DLF-Building/Lead-Specialist---Actuarial_R_359134) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Lead-Specialist---Actuarial_R_362575) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Marsh & McLennan Companies was posted on 2026-07-21.
+This actuary / insurance analytics position at Marsh & McLennan Companies was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Singapore/Assistant-Relationship-Manager_r-19392-2) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Singapore/Assistant-Relationship-Manager_r-19396-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Julius Baer was posted on 2026-08-18.
+This wealth management / private banking position at Julius Baer was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

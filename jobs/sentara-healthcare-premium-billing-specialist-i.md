@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Virginia Beach, Virginia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Virginia-Beach-VA/Premium-Billing-Specialist-I_JR-94552) |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Virginia-Beach-VA/Premium-Billing-Specialist-I_JR-93943-1) |
 
 ## About This Role
 
-This corporate finance position at Sentara Healthcare was posted on 2026-02-25.
+This accounting position at Sentara Healthcare was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

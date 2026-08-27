@@ -1,16 +1,16 @@
-# Contrôleur de gestion sociale (F/H) at Veolia
+# Contrôleur de gestion sociale F/H at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Location | Aubervilliers, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000111891906-controleur-de-gestion-sociale-fh) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000144493669-controleur-de-gestion-sociale-fh) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-02-27.
+This corporate finance position at Veolia was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

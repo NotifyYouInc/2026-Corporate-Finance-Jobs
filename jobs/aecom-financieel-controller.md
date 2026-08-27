@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Leuven, Flanders, Belgium |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000130560370-financieel-controller) |
+| Location | The Hague, South Holland, The Netherlands |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000144540664-financieel-controller) |
 
 ## About This Role
 
-This corporate finance position at AECOM was posted on 2026-06-05.
+This accounting position at AECOM was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

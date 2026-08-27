@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000134506080-payroll-administrator) |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000144581565-payroll-administrator) |
 
 ## About This Role
 
-This corporate finance position at H&M Group was posted on 2026-06-26.
+This accounting position at H&M Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

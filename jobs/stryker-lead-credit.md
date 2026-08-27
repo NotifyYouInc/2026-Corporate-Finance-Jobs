@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-03 |
+| Category | Accounting |
+| Posted | 2026-08-20 |
 | Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Lead-Credit_R560010-1) |
 
 ## About This Role
 
-This corporate finance position at Stryker was posted on 2026-03-03.
+This accounting position at Stryker was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

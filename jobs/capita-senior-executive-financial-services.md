@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capita](https://scoutify.ai/companies/capita?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://capita.wd3.myworkdayjobs.com/capitaglobal/job/Pune/Senior-Executive---Financial-Services_10120212) |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://capita.wd3.myworkdayjobs.com/capitaglobal/job/Pune/Senior-Executive---Financial-Services_10121484) |
 
 ## About This Role
 
-This corporate finance position at Capita was posted on 2026-06-09.
+This accounting position at Capita was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

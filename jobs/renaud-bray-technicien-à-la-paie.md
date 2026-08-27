@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renaud-Bray](https://scoutify.ai/companies/renaudbray?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000133072679-technicien-a-la-paie) |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000144601169-technicien-a-la-paie) |
 
 ## About This Role
 
-This corporate finance position at Renaud-Bray was posted on 2026-06-19.
+This accounting position at Renaud-Bray was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

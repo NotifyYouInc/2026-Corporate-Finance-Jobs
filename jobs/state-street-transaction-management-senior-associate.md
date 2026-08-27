@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/OSLPUN-CWTOP456-9/Transaction-Management---Senior-Associate_R-795541) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Transaction-Management---Senior-Associate_R-795552) |
 
 ## About This Role
 
-This asset management / portfolio management position at State Street was posted on 2026-08-06.
+This corporate finance position at State Street was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

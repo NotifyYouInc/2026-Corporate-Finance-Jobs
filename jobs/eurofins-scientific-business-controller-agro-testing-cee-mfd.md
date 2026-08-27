@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000135436410-business-controller-agro-testing-cee-mfd) |
+| Location | Budapest, Budapest, Hungary |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000144534231-business-controller-agro-testing-cee-mfd) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Eurofins Scientific was posted on 2026-07-02.
+This accounting position at Eurofins Scientific was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

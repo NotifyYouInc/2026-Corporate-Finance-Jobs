@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Manager--Expense-Management_JR00123570) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Sun-Life-Singapore/Manager--Expense-Management_JR00127136) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-05-01.
+This corporate finance position at Sun Life Financial was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

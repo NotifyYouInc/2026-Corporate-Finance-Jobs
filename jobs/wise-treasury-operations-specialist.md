@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Treasury & Capital Markets |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000141629188-treasury-operations-specialist) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000144483918-treasury-operations-specialist) |
 
 ## About This Role
 
-This treasury & capital markets position at WISE was posted on 2026-08-05.
+This treasury & capital markets position at WISE was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

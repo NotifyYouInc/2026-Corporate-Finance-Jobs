@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Prague-Sandoz/FRA-Specialist_REQ-10027894) |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Prague-Sandoz/FRA-Specialist_REQ-10031446) |
 
 ## About This Role
 
-This corporate finance position at Sandoz was posted on 2026-04-29.
+This accounting position at Sandoz was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

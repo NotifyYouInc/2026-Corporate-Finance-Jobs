@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Holman](https://scoutify.ai/companies/holmanautogroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Maple Shade, New Jersey, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Maple-Shade-NJ-US/Accountant---Tax_R0053963) |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Maple-Shade-NJ-US/Accountant---Tax_R0056541) |
 
 ## About This Role
 
-This corporate finance position at Holman was posted on 2026-03-03.
+This accounting position at Holman was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

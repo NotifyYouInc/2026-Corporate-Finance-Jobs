@@ -1,16 +1,16 @@
-# Financieel administratief medewerker at Eurofins Scientific
+# Financieel Administratief Medewerker at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Deventer, Overijssel, The Netherlands |
+| Location | Wageningen, Gelderland, The Netherlands |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000135435970-financieel-administratief-medewerker) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000144534567-financieel-administratief-medewerker) |
 
 ## About This Role
 
-This accounting position at Eurofins Scientific was posted on 2026-07-02.
+This accounting position at Eurofins Scientific was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

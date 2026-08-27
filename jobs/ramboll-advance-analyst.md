@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000134396558-advance-analyst) |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000144488519-advance-analyst) |
 
 ## About This Role
 
-This corporate finance position at Ramboll was posted on 2026-06-26.
+This accounting position at Ramboll was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

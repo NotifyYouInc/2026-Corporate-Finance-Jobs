@@ -5,12 +5,12 @@
 | Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lawrenceville, Georgia, United States |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000135309879-senior-manager-sec-reporting-and-technical-accounting) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000144521129-senior-manager-sec-reporting-and-technical-accounting) |
 
 ## About This Role
 
-This accounting position at National Vision was posted on 2026-07-01.
+This accounting position at National Vision was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

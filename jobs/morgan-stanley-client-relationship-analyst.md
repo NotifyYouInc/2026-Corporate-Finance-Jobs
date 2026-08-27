@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Duncan, Oklahoma, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Duncan-Oklahoma-United-States-of-America/Client-Relationship-Analyst_JR041898) |
+| Location | Louisville, Kentucky, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Louisville-Kentucky-United-States-of-America/Client-Relationship-Analyst_JR042648) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-08-10.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

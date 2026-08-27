@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nicosia, Nicosia, Cyprus |
-| Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000114050335-revenue-accountant) |
+| Location | Romania |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000144566882-revenue-accountant) |
 
 ## About This Role
 
-This corporate finance position at Playtech was posted on 2026-03-11.
+This accounting position at Playtech was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

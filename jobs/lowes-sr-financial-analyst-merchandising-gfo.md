@@ -1,16 +1,16 @@
-# Sr. Financial Analyst - Merchandising GFO at Lowe's
+# Sr Financial Analyst - Merchandising GFO at Lowe's
 
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mooresville, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sr-Financial-Analyst---Merchandising-GFO_JR-02526355) |
+| Category | Financial Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sr-Financial-Analyst---Merchandising-GFO_JR-02618975-1) |
 
 ## About This Role
 
-This corporate finance position at Lowe's was posted on 2026-05-19.
+This financial analyst position at Lowe's was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

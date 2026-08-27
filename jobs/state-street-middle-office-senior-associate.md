@@ -1,16 +1,16 @@
-# Middle Office - Senior Associate at State Street
+# Middle Office, Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Middle-Office---Senior-Associate_R-794371) |
+| Location | Hangzhou, Zhejiang, China |
+| Category | Corporate Finance |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Middle-Office--Senior-Associate_R-794936-1) |
 
 ## About This Role
 
-This accounting position at State Street was posted on 2026-07-21.
+This corporate finance position at State Street was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

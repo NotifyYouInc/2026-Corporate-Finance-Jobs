@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon, Northern Mindanao, Philippines |
 | Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Quezon/DE032898-Record-to-Report-Ops-Sr-Analyst_CXO-132799-S75453-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Quezon/DE032898-Record-to-Report-Ops-Sr-Analyst_CXO-132799-S75454-1) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-07-10.
+This accounting position at Accenture was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

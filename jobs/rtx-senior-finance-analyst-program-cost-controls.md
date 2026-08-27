@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Texas, US |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-REMOTE/Senior-Finance-Analyst--Program-Cost-Controls_01853785) |
+| Location | 8 locations |
+| Category | Financial Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-CHESAPEAKE-305--1100-International-Plz--BLDG-305/Senior-Finance-Analyst--Program-Cost-Controls_01867690) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-06-23.
+This financial analyst position at RTX was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000118836598-coordinator-project-expense-management) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
+| Category | Accounting |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000144564059-coordinator-project-expense-management) |
 
 ## About This Role
 
-This corporate finance position at Psi Cro was posted on 2026-04-06.
+This accounting position at Psi Cro was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

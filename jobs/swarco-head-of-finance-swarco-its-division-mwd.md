@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SWARCO](https://scoutify.ai/companies/swarco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wattens, Tyrol, Austria |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000137378169-head-of-finance-swarco-its-division-mwd) |
+| Category | Corporate Finance |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000144467079-head-of-finance-swarco-its-division-mwd) |
 
 ## About This Role
 
-This fp&a / strategic finance position at SWARCO was posted on 2026-07-13.
+This corporate finance position at SWARCO was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

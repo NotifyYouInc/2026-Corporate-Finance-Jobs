@@ -5,12 +5,12 @@
 | Company | [SWARCO](https://scoutify.ai/companies/swarco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wattens, Tyrol, Austria |
 | Category | Accounting |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000143445299-teamlead-group-accounting-swarco-its-division-mwd) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000144464365-teamlead-group-accounting-swarco-its-division-mwd) |
 
 ## About This Role
 
-This accounting position at SWARCO was posted on 2026-08-14.
+This accounting position at SWARCO was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
