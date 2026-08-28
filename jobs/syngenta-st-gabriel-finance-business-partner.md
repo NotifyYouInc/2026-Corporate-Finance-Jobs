@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Greensboro, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000144171032-st-gabriel-finance-business-partner) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000144763469-st-gabriel-finance-business-partner) |
 
 ## About This Role
 
-This corporate finance position at Syngenta was posted on 2026-08-18.
+This fp&a / strategic finance position at Syngenta was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

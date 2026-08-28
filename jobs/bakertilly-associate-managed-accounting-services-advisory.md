@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/IND-KA-Bangalore---Cherry-Hills/Associate---Managed-Accounting-Services-Advisory_JR106604) |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/IND-KA-Bangalore---Cherry-Hills/Associate---Managed-Accounting-Services-Advisory_JR107579) |
 
 ## About This Role
 
-This corporate finance position at Bakertilly was posted on 2026-06-19.
+This accounting position at Bakertilly was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

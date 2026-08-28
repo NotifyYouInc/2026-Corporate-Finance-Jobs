@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Languageline](https://scoutify.ai/companies/languageline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://languageline.wd5.myworkdayjobs.com/psg_careers/job/PH-PSG-HQ/Senior-Accountant_R11947) |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://languageline.wd5.myworkdayjobs.com/psg_careers/job/Philippines-Remote/Senior-Accountant_R13071) |
 
 ## About This Role
 
-This corporate finance position at Languageline was posted on 2026-02-11.
+This accounting position at Languageline was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

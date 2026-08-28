@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Investment Banking |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Investment-Banking-Analyst---KippsDeSanto---2027_R245937-1) |
+| Category | Corporate Finance |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Investment-Banking-Analyst---KippsDeSanto---2027_R249799-1) |
 
 ## About This Role
 
-This investment banking position at Capital One was posted on 2026-08-11.
+This corporate finance position at Capital One was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

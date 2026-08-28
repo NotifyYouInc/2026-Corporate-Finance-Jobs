@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlottetown, Prince Edward Island, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Charlottetown-PE-CAN/Administration-Assistant_R260014735) |
+| Location | Moncton, New Brunswick, Canada |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Moncton-NB-CAN/Administration-Assistant_R260024548) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-05-14.
+This wealth management / private banking position at Bank of Montreal was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Excelsia Injury Care](https://scoutify.ai/companies/excelsia-injury-care?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pennsylvania, US |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://recruiting.ultipro.com/adv1032avmm/JobBoard/145b5a5a-e521-4e90-9b86-ae9b9be8596b/OpportunityDetail?opportunityId=d1b466a7-a09f-4d42-a43d-c66fd2548169) |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://recruiting.ultipro.com/adv1032avmm/JobBoard/145b5a5a-e521-4e90-9b86-ae9b9be8596b/OpportunityDetail?opportunityId=0996303b-b0cb-4c29-9e76-cd15ceb23399) |
 
 ## About This Role
 
-This corporate finance position at Excelsia Injury Care was posted on 2026-06-08.
+This accounting position at Excelsia Injury Care was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

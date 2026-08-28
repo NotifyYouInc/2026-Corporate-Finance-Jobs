@@ -1,16 +1,16 @@
-# Corporate Accounting  at Stripe
+# Corporate Accounting at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7618067) |
+| Location | San Francisco, California, United States |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8144924) |
 
 ## About This Role
 
-This corporate finance position at Stripe was posted on 2026-02-18.
+This accounting position at Stripe was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

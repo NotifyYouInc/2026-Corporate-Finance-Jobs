@@ -5,12 +5,12 @@
 | Company | [SVA](https://scoutify.ai/companies/recruiting-ultipro-com-oj103867?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://recruiting.ultipro.com/sva1000sva/JobBoard/2db3be96-4ece-41eb-b975-60fddaead530/OpportunityDetail?opportunityId=7e0b0308-9cda-4d90-b504-1b5b8f110cfd) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://recruiting.ultipro.com/sva1000sva/JobBoard/2db3be96-4ece-41eb-b975-60fddaead530/OpportunityDetail?opportunityId=ed47dee5-42e0-440a-b39b-9f9f5f7b4ebb) |
 
 ## About This Role
 
-This accounting position at SVA was posted on 2026-07-24.
+This accounting position at SVA was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

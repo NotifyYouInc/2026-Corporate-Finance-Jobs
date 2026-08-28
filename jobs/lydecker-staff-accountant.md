@@ -5,12 +5,12 @@
 | Company | [Lydecker](https://scoutify.ai/companies/recruiting-ultipro-com-oj65579?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Accounting |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://recruiting.ultipro.com/lyd1001lydr/JobBoard/3617b9b6-4f67-4235-bab5-87355a202415/OpportunityDetail?opportunityId=dd4a5dc3-4f55-418e-8e7f-95a16675405e) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://recruiting.ultipro.com/lyd1001lydr/JobBoard/3617b9b6-4f67-4235-bab5-87355a202415/OpportunityDetail?opportunityId=5f9db367-d9e8-4281-b49b-61ed2c43de04) |
 
 ## About This Role
 
-This accounting position at Lydecker was posted on 2026-08-10.
+This accounting position at Lydecker was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Asset-Servicing-Analyst_26957934-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Asset-Servicing-Analyst-2---C10---CHENNAI_26974752-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-30.
+This corporate finance position at Citigroup was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

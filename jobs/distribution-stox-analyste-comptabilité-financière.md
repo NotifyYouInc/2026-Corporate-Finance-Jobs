@@ -5,12 +5,12 @@
 | Company | [Distribution Stox](https://scoutify.ai/companies/distributionstox2?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boucherville, Quebec, Canada |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DistributionStox2/744000135765339-analyste-comptabilite-financiere) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DistributionStox2/744000144768939-analyste-comptabilite-financiere) |
 
 ## About This Role
 
-This accounting position at Distribution Stox was posted on 2026-07-03.
+This accounting position at Distribution Stox was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

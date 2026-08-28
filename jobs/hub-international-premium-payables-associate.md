@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Riverside, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Riverside-CA/Premium-Payables-Associate_R0038063) |
+| Location | Not specified |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Premium-Payables-Associate_R0036698) |
 
 ## About This Role
 
-This corporate finance position at HUB International was posted on 2026-08-08.
+This accounting position at HUB International was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

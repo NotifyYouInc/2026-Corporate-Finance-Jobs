@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---DS---WROCLAW/Senior-Statutory-Accountant_51569315) |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---DS---WROCLAW/Senior-Statutory-Accountant_51572680) |
 
 ## About This Role
 
-This corporate finance position at DXC Technology was posted on 2026-02-13.
+This accounting position at DXC Technology was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

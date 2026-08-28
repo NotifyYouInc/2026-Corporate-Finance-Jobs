@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Brazil-Sao-Paulo-Sao-Jose-dos-Campos/Sr-Finance-Analyst-Global-PICC-Inventory_2607044420W) |
+| Location | Bengaluru, Karnataka, India |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Sr-Finance-Analyst-Global-PICC-Inventory_2607048180W) |
 
 ## About This Role
 
-This corporate finance position at Kenvue was posted on 2026-03-17.
+This fp&a / strategic finance position at Kenvue was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Financial Analyst at CAE
+# Financial analyst at CAE
 
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Financial-Analyst_120347) |
+| Category | Financial Analyst |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Financial-analyst_123115) |
 
 ## About This Role
 
-This corporate finance position at CAE was posted on 2026-02-23.
+This financial analyst position at CAE was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

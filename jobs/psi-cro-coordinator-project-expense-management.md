@@ -5,12 +5,12 @@
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000144564059-coordinator-project-expense-management) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000144761173-coordinator-project-expense-management) |
 
 ## About This Role
 
-This accounting position at Psi Cro was posted on 2026-08-20.
+This accounting position at Psi Cro was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

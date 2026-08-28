@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lima, Lima Province, Peru |
-| Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Lima-Lima-Peru/Project-Finance-Analyst_JR00043759) |
+| Location | Taiwan |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Taipei-City-Taipei-City-Taiwan/Project-Finance-Analyst_JR00043642) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-08-13.
+This fp&a / strategic finance position at ABB was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

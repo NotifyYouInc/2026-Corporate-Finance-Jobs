@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Enrollment--Billing-Senior-Analyst---Evernorth-Health-Services---Remote_26005856) |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Enrollment--Billing-Senior-Analyst---Evernorth-Health-Services---Remote_26010479-1) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-05-13.
+This accounting position at Cigna was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

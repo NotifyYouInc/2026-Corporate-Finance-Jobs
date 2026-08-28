@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ströer SE & Co. KGaA (Ströer Gruppe)](https://scoutify.ai/companies/strersecokgaastrergruppe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
-| Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000141639469-head-of-accounts-payable-operations-mwd) |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000144725240-head-of-accounts-payable-operations-mwd) |
 
 ## About This Role
 
-This corporate finance position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-08-05.
+This accounting position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Woodland Hills, California, United States |
+| Location | Torrance, California, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Woodland-Hills-CA/PWM-Senior-Private-Wealth-Advisor_2026-0022574-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Torrance-CA/PWM-Senior-Private-Wealth-Advisor_2026-0025919-1) |
 
 ## About This Role
 
-This wealth management / private banking position at U.S. Bank was posted on 2026-08-03.
+This wealth management / private banking position at U.S. Bank was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

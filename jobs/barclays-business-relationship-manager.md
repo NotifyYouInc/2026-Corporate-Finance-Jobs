@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Ipswich-Princes-Street/Business-Relationship-Manager_JR-0000116053) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Oxford-Cornmarket-Street/Business-Relationship-Manager_JR-0000125177) |
 
 ## About This Role
 
-This wealth management / private banking position at Barclays was posted on 2026-07-01.
+This wealth management / private banking position at Barclays was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

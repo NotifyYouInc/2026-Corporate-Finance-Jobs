@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SVA](https://scoutify.ai/companies/recruiting-ultipro-com-oj103867?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brookfield, Wisconsin, United States |
+| Location | Madison, Wisconsin, United States |
 | Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://recruiting.ultipro.com/sva1000sva/JobBoard/2db3be96-4ece-41eb-b975-60fddaead530/OpportunityDetail?opportunityId=51462af1-b152-4cc8-9fda-68e19434ec8f) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://recruiting.ultipro.com/sva1000sva/JobBoard/2db3be96-4ece-41eb-b975-60fddaead530/OpportunityDetail?opportunityId=ac5666b9-3849-44c8-8ac8-bb253f42dd11) |
 
 ## About This Role
 
-This accounting position at SVA was posted on 2026-07-24.
+This accounting position at SVA was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

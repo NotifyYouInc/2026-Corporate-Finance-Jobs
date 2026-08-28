@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pluralsight](https://scoutify.ai/companies/pluralsight?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westlake, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://pluralsight.wd1.myworkdayjobs.com/Careers/job/Hybrid---Texas-Westlake/Senior-FP-A-Analyst_R0014180) |
+| Location | Texas, US |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://pluralsight.wd1.myworkdayjobs.com/Careers/job/Hybrid---Texas-Westlake/Senior-FP-A-Analyst_R0014411) |
 
 ## About This Role
 
-This corporate finance position at Pluralsight was posted on 2026-05-01.
+This fp&a / strategic finance position at Pluralsight was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

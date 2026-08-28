@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Valencia, Valencia, Spain |
 | Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000144479076-payroll-specialist) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000144803649-payroll-specialist) |
 
 ## About This Role
 
-This accounting position at Flywire was posted on 2026-08-20.
+This accounting position at Flywire was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

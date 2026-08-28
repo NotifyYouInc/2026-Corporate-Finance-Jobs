@@ -5,12 +5,12 @@
 | Company | [SVA](https://scoutify.ai/companies/recruiting-ultipro-com-oj103867?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Madison, Wisconsin, United States |
 | Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://recruiting.ultipro.com/sva1000sva/JobBoard/2db3be96-4ece-41eb-b975-60fddaead530/OpportunityDetail?opportunityId=af858fd4-3dfc-466b-b77e-640efa925e54) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://recruiting.ultipro.com/sva1000sva/JobBoard/2db3be96-4ece-41eb-b975-60fddaead530/OpportunityDetail?opportunityId=43a574c0-74e2-451c-a8c6-339c4b638822) |
 
 ## About This Role
 
-This accounting position at SVA was posted on 2026-07-24.
+This accounting position at SVA was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

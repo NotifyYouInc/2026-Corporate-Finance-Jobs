@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mainz, Rheinland-Pfalz, Germany |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000140168298-senior-underwriter-factoring-mwd-in-mainz) |
+| Category | Financial Analyst |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000144760830-senior-underwriter-factoring-mwd-in-mainz) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Coface was posted on 2026-07-28.
+This financial analyst position at Coface was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

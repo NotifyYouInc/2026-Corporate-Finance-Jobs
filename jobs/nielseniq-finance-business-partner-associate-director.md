@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000144545744-finance-business-partner-associate-director) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000144762539-finance-business-partner-associate-director) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-08-20.
+This fp&a / strategic finance position at NielsenIQ was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

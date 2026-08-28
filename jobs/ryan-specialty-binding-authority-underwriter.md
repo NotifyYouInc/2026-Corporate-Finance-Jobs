@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Illinois, US |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/San-Francisco---California---Montgomery/Binding-Authority-Underwriter_JR26-5075-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Remote---Illinois/Binding-Authority-Underwriter_JR26-5136-2) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Ryan Specialty was posted on 2026-08-17.
+This actuary / insurance analytics position at Ryan Specialty was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

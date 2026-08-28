@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Financial Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Valuation-Control-Intermediate-Analyst_26984947) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Valuation-Control-Intermediate-Analyst_26988584) |
 
 ## About This Role
 
-This financial analyst position at Citigroup was posted on 2026-08-20.
+This financial analyst position at Citigroup was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
