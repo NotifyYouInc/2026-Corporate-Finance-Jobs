@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ghj](https://scoutify.ai/companies/ghj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Covington, Kentucky, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.lever.co/ghj/d4f9e1ea-6b75-4f21-81a9-03ccf826fd95) |
+| Location | Bakersfield, California, United States |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.lever.co/ghj/13776009-bb63-4256-802a-4ff4306794fc) |
 
 ## About This Role
 
-This corporate finance position at Ghj was posted on 2026-06-22.
+This accounting position at Ghj was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

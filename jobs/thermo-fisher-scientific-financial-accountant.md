@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Costa Rica |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Financial-Accountant_R-01355910) |
+| Location | Birmingham, England, United Kingdom |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Birmingham-United-Kingdom/Financial-Accountant_R-01364853) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-06-16.
+This accounting position at Thermo Fisher Scientific was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

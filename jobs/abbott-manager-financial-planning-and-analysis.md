@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Santa-Clara/Manager-Financial-Planning-and-Analysis_31153011-1) |
+| Location | Austin, Texas, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Austin--8701-Bee-Caves-Rd/Manager-Financial-Planning-and-Analysis_31158927-1) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-06-10.
+This fp&a / strategic finance position at Abbott was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Paul, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Asian-Foods/Finance-Associate_R252576) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Vancouver-Canada/Finance-Associate_R264125) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-05-27.
+This fp&a / strategic finance position at Sysco was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

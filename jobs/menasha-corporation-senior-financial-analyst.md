@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Menasha Corporation](https://scoutify.ai/companies/menasha?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hartford, Connecticut, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Hartford-Wisconsin/Senior-Financial-Analyst_R12760) |
+| Location | Neenah, Wisconsin, United States |
+| Category | Financial Analyst |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Senior-Financial-Analyst_R15521) |
 
 ## About This Role
 
-This corporate finance position at Menasha Corporation was posted on 2026-02-11.
+This financial analyst position at Menasha Corporation was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

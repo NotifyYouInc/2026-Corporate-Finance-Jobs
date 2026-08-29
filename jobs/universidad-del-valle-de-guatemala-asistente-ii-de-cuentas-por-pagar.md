@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Universidad del Valle de Guatemala](https://scoutify.ai/companies/universidaddelvalledeguatemala?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guatemala City, Guatemala, Guatemala |
-| Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversidadDelValleDeGuatemala/744000142939009-asistente-ii-de-cuentas-por-pagar) |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversidadDelValleDeGuatemala/744000144844039-asistente-ii-de-cuentas-por-pagar) |
 
 ## About This Role
 
-This corporate finance position at Universidad del Valle de Guatemala was posted on 2026-08-11.
+This accounting position at Universidad del Valle de Guatemala was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

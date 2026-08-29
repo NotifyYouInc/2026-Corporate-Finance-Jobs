@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Graybar](https://scoutify.ai/companies/graybar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Denver-CO/Financial-Management-Trainee_R261678) |
+| Location | Sterling, Virginia, United States |
+| Category | Leadership Development Program |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://graybar.wd1.myworkdayjobs.com/Careers/job/Sterling-VA/Financial-Management-Trainee_R263197-1) |
 
 ## About This Role
 
-This corporate finance position at Graybar was posted on 2026-05-22.
+This leadership development program position at Graybar was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

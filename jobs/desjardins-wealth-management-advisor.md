@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Québec, Quebec, Canada |
+| Location | Sainte-Marie, Quebec, Canada |
 | Category | Wealth Management / Private Banking |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2610440) |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Sainte-Marie/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2610436-1) |
 
 ## About This Role
 

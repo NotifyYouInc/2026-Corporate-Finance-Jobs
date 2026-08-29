@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Johnson City, Tennessee, United States |
+| Location | Wayzata, Minnesota, United States |
 | Category | Wealth Management / Private Banking |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Johnson-City/Wealth-Management-Client-Associate_26030683-2) |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Wayzata/Wealth-Management-Client-Associate_26030626) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Financial Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Assistant-Finance-Manager_REQ526525) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tokyo-Japan/Assistant-Finance-Manager_REQ530599) |
 
 ## About This Role
 
-This financial analyst position at JLL was posted on 2026-08-20.
+This fp&a / strategic finance position at JLL was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

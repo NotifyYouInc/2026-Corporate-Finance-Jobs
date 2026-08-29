@@ -1,16 +1,16 @@
-# Sr. Underwriter, Cyber at Howden
+# Sr. Underwriter Cyber at Howden
 
 | Field | Details |
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/New-York--1350-Avenue-Of-The-Americas/Sr-Underwriter--Cyber_R0017657-1) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/New-York--1350-Avenue-Of-The-Americas/VP-Underwriting-Cyber_R0018754-1) |
 
 ## About This Role
 
-This corporate finance position at Howden was posted on 2026-06-02.
+This actuary / insurance analytics position at Howden was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

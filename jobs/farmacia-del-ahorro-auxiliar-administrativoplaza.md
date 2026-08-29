@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Farmacia del Ahorro](https://scoutify.ai/companies/farmacia-del-ahorro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hermosillo, Sonora, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/HERMOSILLO-SONORA/AUXILIAR-ADMINISTRATIVO-PLAZA-_JR167573) |
+| Location | Guanajuato, MX |
+| Category | Accounting |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/LEON-GUANAJUATO/AUXILIAR-ADMINISTRATIVO-PLAZA-_JR173350) |
 
 ## About This Role
 
-This corporate finance position at Farmacia del Ahorro was posted on 2026-05-19.
+This accounting position at Farmacia del Ahorro was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

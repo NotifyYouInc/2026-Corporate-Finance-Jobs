@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Birmingham, Alabama, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Birmingham-Michigan---United-States/Registered-Client-Service-Associate_R-0012320-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Colorado-Springs-Colorado---United-States/Registered-Client-Service-Associate_R-0012700) |
 
 ## About This Role
 
-This wealth management / private banking position at Raymond James Financial was posted on 2026-08-03.
+This wealth management / private banking position at Raymond James Financial was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

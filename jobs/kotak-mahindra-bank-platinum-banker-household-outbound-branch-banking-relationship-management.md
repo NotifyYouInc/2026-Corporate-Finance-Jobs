@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#253746) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#254625) |
 
 ## About This Role
 
-This corporate finance position at Kotak Mahindra Bank was posted on 2026-08-15.
+This wealth management / private banking position at Kotak Mahindra Bank was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

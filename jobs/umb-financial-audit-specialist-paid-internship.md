@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ogden, Utah, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Ogden-UT/Audit-Specialist--Paid-Internship-_R-8239) |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/UT---Ogden---2225-Washington-Blvd/Audit-Specialist--Paid-Internship-_R-9308) |
 
 ## About This Role
 
-This corporate finance position at UMB Financial was posted on 2026-03-06.
+This accounting position at UMB Financial was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

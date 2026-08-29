@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chengdu, Sichuan, China |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Sichuan-Chengdu-610041/Intern_R185682) |
+| Location | Itajaí, Santa Catarina, Brazil |
+| Category | Financial Analyst |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Brazil-Santa-Catarina-Itajai-88317-100/Intern_R193509) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-06-22.
+This financial analyst position at A.P. Moller - Maersk was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

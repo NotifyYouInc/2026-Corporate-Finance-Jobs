@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
+| Category | Investment Banking |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cleveland-OH/Analyst-I-or-II--Financial-Sponsors-Group_R71961) |
 
 ## About This Role
 
-This corporate finance position at Fifth Third Bank was posted on 2026-08-21.
+This investment banking position at Fifth Third Bank was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

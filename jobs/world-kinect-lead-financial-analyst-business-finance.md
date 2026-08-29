@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [World Kinect](https://scoutify.ai/companies/wfscorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Calgary, Alberta, Canada |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/Lead-Financial-Analyst---Business-Finance_R22786) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/CALGARY-CANADA/Lead-Financial-Analyst---Business-Finance_R22903) |
 
 ## About This Role
 
-This fp&a / strategic finance position at World Kinect was posted on 2026-07-28.
+This fp&a / strategic finance position at World Kinect was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

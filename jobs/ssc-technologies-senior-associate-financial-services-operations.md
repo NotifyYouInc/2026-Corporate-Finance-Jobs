@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Navi Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Maharashtra-Navi-Mumbai/Senior-Associate--Financial-Services-Operations_R43414) |
+| Category | Financial Analyst |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Maharashtra-Navi-Mumbai/Senior-Associate--Financial-Services-Operations_R43412) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-08-19.
+This financial analyst position at SS&C Technologies was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

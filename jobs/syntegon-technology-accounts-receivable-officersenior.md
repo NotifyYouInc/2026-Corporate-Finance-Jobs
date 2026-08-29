@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Accounting |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000143433599-accounts-receivable-officersenior) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000144875299-accounts-receivable-officersenior) |
 
 ## About This Role
 
-This accounting position at Syntegon Technology was posted on 2026-08-14.
+This accounting position at Syntegon Technology was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

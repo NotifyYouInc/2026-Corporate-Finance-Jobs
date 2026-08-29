@@ -5,12 +5,12 @@
 | Company | [Aurora Housing Authority](https://scoutify.ai/companies/aurorahousingauthority?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Aurora, Colorado, United States |
 | Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000143934309-project-accountant) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000144844789-project-accountant) |
 
 ## About This Role
 
-This accounting position at Aurora Housing Authority was posted on 2026-08-17.
+This accounting position at Aurora Housing Authority was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Salt-Lake-City-UT/Credit-Specialist_R-137554-1) |
+| Location | Aurora, Colorado, United States |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Aurora-CO/Credit-Specialist_R-139943) |
 
 ## About This Role
 
-This corporate finance position at Ferguson was posted on 2026-06-16.
+This accounting position at Ferguson was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

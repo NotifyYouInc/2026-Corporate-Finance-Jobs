@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alliaxis](https://scoutify.ai/companies/aliaxis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Smithfield, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/AUS-NSW---Smithfield/Accounts-Payable-Officer_R-56954-1) |
+| Category | Accounting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/AUS-NSW---Smithfield/Accounts-Payable-Officer_R-57972-1) |
 
 ## About This Role
 
-This corporate finance position at Alliaxis was posted on 2026-06-16.
+This accounting position at Alliaxis was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

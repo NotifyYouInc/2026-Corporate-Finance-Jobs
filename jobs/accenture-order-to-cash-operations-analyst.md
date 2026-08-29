@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Accounting |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Order-to-Cash-Operations-Analyst_AIOC-S01661914-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Order-to-Cash-Operations-Analyst_AIOC-S01661938-1) |
 
 ## About This Role
 

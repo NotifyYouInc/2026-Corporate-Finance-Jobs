@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
+| Category | Investment Banking |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking---Banker---Power---Utilities--Renewables---VP---New-York_Req1601901) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-08-21.
+This investment banking position at Santander was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

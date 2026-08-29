@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, Ontario, Canada |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/LONDON-Ontario-Canada/Financial-Planner--Relationship-Manager_R-0000184784) |
+| Location | Saskatoon, Saskatchewan, Canada |
+| Category | Account Manager |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/SASKATOON-Saskatchewan-Canada/Financial-Planner--Relationship-Manager_R-0000170478) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-08-19.
+This account manager position at Royal Bank of Canada was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

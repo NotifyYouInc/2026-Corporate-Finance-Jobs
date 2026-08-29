@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26099956) |
+| Location | Singapore, Singapore |
+| Category | Accounting |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26105654) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-08-09.
+This accounting position at Marriott International was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

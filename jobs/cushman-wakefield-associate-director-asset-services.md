@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Baltimore, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---DC---Washington---1100-4th-St-SW/Associate-Director--Asset-Services_R323080) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Baltimore-Maryland-USA/Associate-Director--Asset-Services_R332653) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-06-11.
+This corporate finance position at Cushman & Wakefield was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

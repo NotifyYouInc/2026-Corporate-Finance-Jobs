@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVjy9CCwp4kCm32oqm8m3-tk7W24l5CIAnWQw6xhoEtMEjsA1Ny_i7uViGtdJx_ceBVUHd9x9f079N0Ue6ITIsi2B_hA79mNddaS-X8SEK5W3ZRyLB1FnoU8ZycJzw%3D%3D_V2&loc=US&title=Inventory+Accountant) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdrbBLzmTQ6m0tSd6YvDXS4I6V4p20_osdcbgEDhWWw7EjsA1Ny_ixLFC7XhxBqFtMc91qLuojpfcxyu-HWcIVvMQgWcyubgkaQeiWnXpqKKv4BrRqNJPbwT8aDKbQ%3D%3D_V2&loc=US&title=Inventory+Accountant) |
 
 ## About This Role
 
-This accounting position at Google was posted on 2026-07-20.
+This accounting position at Google was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

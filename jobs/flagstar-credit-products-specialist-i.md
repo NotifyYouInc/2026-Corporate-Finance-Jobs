@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-TX/Credit-Products-Specialist-I_19971) |
+| Location | United States |
+| Category | Financial Analyst |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-United-States/Credit-Products-Specialist-I_21005) |
 
 ## About This Role
 
-This corporate finance position at Flagstar was posted on 2026-05-29.
+This financial analyst position at Flagstar was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

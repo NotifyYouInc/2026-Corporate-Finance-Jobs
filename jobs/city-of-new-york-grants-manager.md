@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014163796-grants-manager) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014782246-grants-manager) |
 
 ## About This Role
 
-This fp&a / strategic finance position at City of New York was posted on 2026-07-18.
+This fp&a / strategic finance position at City of New York was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

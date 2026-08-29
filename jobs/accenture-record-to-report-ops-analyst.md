@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Accounting |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Record-to-Report-Ops-Analyst_AIOC-S01661897-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Record-to-Report-Ops-Analyst_AIOC-S01662003-1) |
 
 ## About This Role
 

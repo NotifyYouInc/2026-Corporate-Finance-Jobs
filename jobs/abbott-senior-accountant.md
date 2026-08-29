@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Alameda, California, United States |
+| Location | Santa Clara, California, United States |
 | Category | Accounting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Senior-Accountant_31157460-2) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Santa-Clara/Senior-Accountant_31158988-2) |
 
 ## About This Role
 
-This accounting position at Abbott was posted on 2026-08-04.
+This accounting position at Abbott was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

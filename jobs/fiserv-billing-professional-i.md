@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | Alpharetta, Georgia, United States |
 | Category | Accounting |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Billing---Professional-I_R-10400812) |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Billing---Professional-I_R-10400810) |
 
 ## About This Role
 

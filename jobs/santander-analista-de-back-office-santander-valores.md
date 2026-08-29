@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Corporate Finance |
+| Category | Investment Banking |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/GARAY-151-PISO-9/Analista-de-Back-Office--Santander-Valores-_Req1601407) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-08-21.
+This investment banking position at Santander was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
