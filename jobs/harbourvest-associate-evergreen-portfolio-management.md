@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Venture Capital / Private Equity |
+| Category | Venture Capital |
 | Posted | 2026-08-22 |
 | Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Associate--Evergreen-Portfolio-Management_R2513) |
 
 ## About This Role
 
-This venture capital / private equity position at HarbourVest was posted on 2026-08-22.
+This venture capital position at HarbourVest was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

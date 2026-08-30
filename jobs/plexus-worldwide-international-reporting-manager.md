@@ -1,16 +1,16 @@
-# Income Auditor  at Radisson Hotel Group
+# International Reporting Manager at Plexus Worldwide
 
 | Field | Details |
 |-------|---------|
-| Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Delhi, Delhi, India |
+| Company | [Plexus Worldwide](https://scoutify.ai/companies/plexus-worldwide?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Scottsdale, Arizona, United States |
 | Category | Accounting |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000144884879-income-auditor) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/plexusworldwidellc/jobs/4719789005) |
 
 ## About This Role
 
-This accounting position at Radisson Hotel Group was posted on 2026-08-22.
+This accounting position at Plexus Worldwide was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

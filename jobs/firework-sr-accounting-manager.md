@@ -1,16 +1,16 @@
-# Senior Accountant - Fund Accounting at Ocorian
+# Sr. Accounting Manager at Firework
 
 | Field | Details |
 |-------|---------|
-| Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Moka, Moka, Mauritius |
+| Company | [Firework](https://scoutify.ai/companies/fireworkhq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | India |
 | Category | Accounting |
-| Posted | 2026-08-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000145030089-senior-accountant-fund-accounting) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.lever.co/fireworkhq/d6780ff0-7f23-4282-a47e-4bf607c86c65) |
 
 ## About This Role
 
-This accounting position at Ocorian was posted on 2026-08-23.
+This accounting position at Firework was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

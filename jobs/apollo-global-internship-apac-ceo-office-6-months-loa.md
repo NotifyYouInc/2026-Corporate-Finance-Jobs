@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apollo Global](https://scoutify.ai/companies/athene?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Venture Capital / Private Equity |
+| Category | Venture Capital |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/Singapore/Internship--APAC-CEO-Office--6-months--LoA-_R254978) |
 
 ## About This Role
 
-This venture capital / private equity position at Apollo Global was posted on 2026-08-21.
+This venture capital position at Apollo Global was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

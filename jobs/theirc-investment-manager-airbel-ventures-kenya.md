@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Theirc](https://scoutify.ai/companies/theirc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nairobi, Nairobi County, Kenya |
-| Category | Venture Capital / Private Equity |
+| Category | Venture Capital |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Nairobi-IHUB-Kenya/Investment-Manager---Airbel-Ventures--Kenya-_JR00004668-1) |
 
 ## About This Role
 
-This venture capital / private equity position at Theirc was posted on 2026-08-21.
+This venture capital position at Theirc was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead- Private Fixed Income Valuation at Sun Life Financial
+# Manager - Finance (Revenue) at Sun Life Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Financial Analyst |
+| Category | Accounting |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Gurugram-Haryana/Lead--Private-Fixed-Income-Valuation_JR00127327) |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Gurugram-Haryana/Manager---Finance--Revenue-_JR00127389) |
 
 ## About This Role
 
-This financial analyst position at Sun Life Financial was posted on 2026-08-23.
+This accounting position at Sun Life Financial was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 
