@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pennsylvania, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Blue-Bell/Federal-Tax-Services-Intern---Summer-2027_JR115801) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Federal-Tax-Services-Intern---Summer-2026_JR109399) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-03-04.
+This accounting position at RSM was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

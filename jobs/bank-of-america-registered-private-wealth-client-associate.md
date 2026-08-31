@@ -5,12 +5,12 @@
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Registered-Private-Wealth-Client-Associate_26026775) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Registered-Private-Wealth-Client-Associate_26030826) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-07-31.
+This wealth management / private banking position at Bank of America was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

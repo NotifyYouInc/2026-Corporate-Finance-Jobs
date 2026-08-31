@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PL---WROCLAW-GLOBAL-BUSINESS-SERVICES---GBS-PLWCW/COD-Administrator--m-f-x-_R26019018) |
+| Category | Accounting |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PL---WROCLAW-GLOBAL-BUSINESS-SERVICES---GBS-PLWCW/COD-Administrator--m-f-x-_R26027505) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-06-18.
+This accounting position at United Parcel Service (UPS) was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

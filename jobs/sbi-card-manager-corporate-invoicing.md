@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SBI Card](https://scoutify.ai/companies/ap1-cx-oj95884?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://edox.fa.ap1.oraclecloud.com/jobs/#21477) |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://edox.fa.ap1.oraclecloud.com/jobs/#21558) |
 
 ## About This Role
 
-This corporate finance position at SBI Card was posted on 2026-08-12.
+This accounting position at SBI Card was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

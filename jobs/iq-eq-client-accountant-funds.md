@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000144496079-client-accountant-funds) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000145215976-client-accountant-funds) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-08-20.
+This accounting position at IQ-EQ was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000143022510-assistant-manager-revenue-accounting-australia-shift-430am-130pm-looking-only-for-ca-freshers-immediate-joiners-job-location-mumbai-thane-hiranandani-estate) |
+| Category | Accounting |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000145038489-assistant-manager-revenue-accounting-australia-shift-430am-130pm-looking-only-for-ca-freshers-immediate-joiners-job-location-mumbai-thane-hiranandani-estate) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-08-12.
+This accounting position at WNS was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

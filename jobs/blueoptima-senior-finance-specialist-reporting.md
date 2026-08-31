@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BlueOptima](https://scoutify.ai/companies/blueoptima?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000125376536-senior-finance-specialist-reporting) |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000145188649-senior-finance-specialist-reporting) |
 
 ## About This Role
 
-This corporate finance position at BlueOptima was posted on 2026-05-08.
+This accounting position at BlueOptima was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

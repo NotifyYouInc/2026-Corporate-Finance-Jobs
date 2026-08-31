@@ -1,16 +1,16 @@
-# Income auditor at ACCOR
+# Income Auditor at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Makkah, Mecca Region, Saudi Arabia |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Accounting |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000141070329-income-auditor) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000145228971-income-auditor) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-01.
+This accounting position at ACCOR was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

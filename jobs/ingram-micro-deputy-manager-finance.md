@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Deputy-Manager---Finance_R-115186) |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Deputy-Manager---Finance_R-115942) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Ingram Micro was posted on 2026-07-27.
+This accounting position at Ingram Micro was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

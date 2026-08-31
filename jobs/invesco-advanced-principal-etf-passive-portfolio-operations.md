@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Accounting |
+| Category | Venture Capital / Private Equity |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Downers-Grove-Illinois/Advanced-Principal--ETF--Passive-Portfolio-Operations_R-14751) |
 
 ## About This Role
 
-This accounting position at Invesco was posted on 2026-08-21.
+This venture capital / private equity position at Invesco was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

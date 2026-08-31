@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hanoi-Hanoi-Vietnam/Accounting-intern_R0126421-1) |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hanoi-Hanoi-Vietnam/Accounting-intern_R0140448) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-04-29.
+This accounting position at Hitachi was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

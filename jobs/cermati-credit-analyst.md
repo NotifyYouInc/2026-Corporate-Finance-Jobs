@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000121675624-credit-analyst) |
+| Category | Financial Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000145125467-credit-analyst) |
 
 ## About This Role
 
-This corporate finance position at Cermati was posted on 2026-04-20.
+This financial analyst position at Cermati was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

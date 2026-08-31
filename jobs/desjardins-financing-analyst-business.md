@@ -1,16 +1,16 @@
-# Financing Analyst (Business), at Desjardins
+# Financing Analyst, Business at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Sainte-Marie/Analyste-en-financement--March-commercial_R2609931) |
+| Location | Laval, Quebec, Canada |
+| Category | Financial Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Laval/Analyste-en-financement--Entreprises_R2609942) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-08-12.
+This financial analyst position at Desjardins was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

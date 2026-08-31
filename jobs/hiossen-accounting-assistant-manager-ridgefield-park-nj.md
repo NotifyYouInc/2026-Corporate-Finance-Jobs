@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hiossen](https://scoutify.ai/companies/recruiting-ultipro-com-oj48904?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ridgefield Park, New Jersey, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://recruiting.ultipro.com/hio1000hiose/JobBoard/9125116f-7c3f-47f9-b72e-ec039d8a8c7e/OpportunityDetail?opportunityId=506a13c3-daa3-49e4-9f36-3f5bb08f07c5) |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://recruiting.ultipro.com/hio1000hiose/JobBoard/9125116f-7c3f-47f9-b72e-ec039d8a8c7e/OpportunityDetail?opportunityId=b972327c-6b0c-417a-b205-3d7fb14ebc87) |
 
 ## About This Role
 
-This corporate finance position at Hiossen was posted on 2026-06-22.
+This accounting position at Hiossen was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

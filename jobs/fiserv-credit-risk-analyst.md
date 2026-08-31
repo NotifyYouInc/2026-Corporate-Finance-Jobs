@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Thāne, Maharashtra, India |
 | Category | Financial Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Credit-Risk-Analyst_R-10399092) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Credit-Risk-Analyst_R-10399037) |
 
 ## About This Role
 
-This financial analyst position at Fiserv was posted on 2026-07-21.
+This financial analyst position at Fiserv was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

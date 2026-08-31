@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Secured-Lending-Underwriter_R-546535) |
+| Location | Hyderabad, Telangana, India |
+| Category | Financial Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Secured-Lending-Underwriter_R-544643-1) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-20.
+This financial analyst position at Wells Fargo was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Executive – Finance & Accounts at Alliaxis
+# Executive - Finance & Accounts at Alliaxis
 
 | Field | Details |
 |-------|---------|
 | Company | [Alliaxis](https://scoutify.ai/companies/aliaxis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Karnataka, IN |
-| Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-KA---Ecity-Corporate/Executive---Finance---Accounts_R-54897) |
+| Category | Accounting |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-KA---Ecity-Corporate/Executive---Finance---Accounts_R-57157-1) |
 
 ## About This Role
 
-This corporate finance position at Alliaxis was posted on 2026-02-25.
+This accounting position at Alliaxis was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# FIELD MANAGER - RURAL at Dr. Reddy's Laboratories
+# Field Manager- Rural at Dr. Reddy's Laboratories
 
 | Field | Details |
 |-------|---------|
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dorāha, Punjab, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000127127929-field-manager-rural) |
+| Location | India |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000145228989-field-manager-rural) |
 
 ## About This Role
 
-This corporate finance position at Dr. Reddy's Laboratories was posted on 2026-05-19.
+This fp&a / strategic finance position at Dr. Reddy's Laboratories was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

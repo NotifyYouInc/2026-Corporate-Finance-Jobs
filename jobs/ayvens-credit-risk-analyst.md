@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Mexico-City/Credit-Risk-Analyst_JR_10040249-1) |
+| Location | Bucharest, București, Romania |
+| Category | Financial Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/LPSC---Bucharest/Credit-Risk-Analyst_JR_10041064-1) |
 
 ## About This Role
 
-This corporate finance position at Ayvens was posted on 2026-08-19.
+This financial analyst position at Ayvens was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

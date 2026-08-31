@@ -5,12 +5,12 @@
 | Company | [Portsmouth Hospitals University NHS Trust](https://scoutify.ai/companies/portsmouthhospitalsuniversitynhstrust?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Portsmouth, England, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PortsmouthHospitalsUniversityNHSTrust/744000144778268-management-accountant-provider-to-provider-agreements) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PortsmouthHospitalsUniversityNHSTrust/744000145245909-management-accountant-provider-to-provider-agreements) |
 
 ## About This Role
 
-This accounting position at Portsmouth Hospitals University NHS Trust was posted on 2026-08-21.
+This accounting position at Portsmouth Hospitals University NHS Trust was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

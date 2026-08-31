@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kunshan, Jiangsu, China |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Accounting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Kunshan-China/Senior-Accountant_R20449) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Bangkok-Sales-Office-Thailand/Senior-Accountant_R20404-1) |
 
 ## About This Role
 
-This accounting position at International Flavors & Fragrances was posted on 2026-08-04.
+This accounting position at International Flavors & Fragrances was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

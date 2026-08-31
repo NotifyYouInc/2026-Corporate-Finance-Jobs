@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allison Transmission](https://scoutify.ai/companies/allisontransmission?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Financial-Analyst_R008048) |
+| Category | Financial Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Financial-Analyst_R008062) |
 
 ## About This Role
 
-This corporate finance position at Allison Transmission was posted on 2026-08-06.
+This financial analyst position at Allison Transmission was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

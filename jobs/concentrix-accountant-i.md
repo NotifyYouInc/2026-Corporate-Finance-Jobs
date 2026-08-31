@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---Millenium-Towers---MT2/Accountant-I_R1736962) |
+| Location | Quezon City, National Capital Region, Philippines |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Quezon-City---Giga-Tower10th11th18th19th-Flr/Accountant-I_R1756084) |
 
 ## About This Role
 
-This corporate finance position at Concentrix was posted on 2026-06-15.
+This accounting position at Concentrix was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

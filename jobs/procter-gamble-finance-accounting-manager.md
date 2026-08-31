@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Cincinnati, Ohio, United States |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Taguig-City/Finance---Accounting-Manager_R000155005) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Finance---Accounting-Manager_R000157456) |
 
 ## About This Role
 
-This accounting position at Procter & Gamble was posted on 2026-07-15.
+This accounting position at Procter & Gamble was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

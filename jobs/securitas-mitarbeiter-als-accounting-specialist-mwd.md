@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Potsdam, Brandenburg, Germany |
 | Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000139015440-mitarbeiter-als-accounting-specialist-mwd) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000145266329-mitarbeiter-als-accounting-specialist-mwd) |
 
 ## About This Role
 
-This accounting position at Securitas was posted on 2026-07-22.
+This accounting position at Securitas was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

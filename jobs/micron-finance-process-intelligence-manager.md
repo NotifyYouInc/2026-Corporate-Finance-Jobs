@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Jose, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Finance-Process-Intelligence-Manager_JR102439) |
+| Location | Hyderabad, Telangana, India |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Finance-Process-Intelligence-Manager_JR108841-1) |
 
 ## About This Role
 
-This corporate finance position at Micron was posted on 2026-05-22.
+This fp&a / strategic finance position at Micron was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

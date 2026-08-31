@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Assistant-Manager---Controllership_REQ481957-1) |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Assistant-Manager---Controllership_REQ528787) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-03-18.
+This accounting position at JLL was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

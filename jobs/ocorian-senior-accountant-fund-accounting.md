@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Moka, Moka, Mauritius |
-| Category | Accounting |
+| Category | Venture Capital / Private Equity |
 | Posted | 2026-08-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000145030089-senior-accountant-fund-accounting) |
 
 ## About This Role
 
-This accounting position at Ocorian was posted on 2026-08-23.
+This venture capital / private equity position at Ocorian was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

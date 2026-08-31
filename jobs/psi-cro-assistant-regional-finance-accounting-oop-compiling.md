@@ -5,12 +5,12 @@
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000144762419-assistant-regional-finance-accounting-oop-compiling) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000145199870-assistant-regional-finance-accounting-oop-compiling) |
 
 ## About This Role
 
-This accounting position at Psi Cro was posted on 2026-08-21.
+This accounting position at Psi Cro was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

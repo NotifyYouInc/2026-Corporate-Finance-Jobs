@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Financial Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---SVK---Bratislava---Pribinova-40/Finance-Analyst_R326974) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Finance-Analyst_GOS-050) |
 
 ## About This Role
 
-This financial analyst position at Cushman & Wakefield was posted on 2026-07-03.
+This financial analyst position at Cushman & Wakefield was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

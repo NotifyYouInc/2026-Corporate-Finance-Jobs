@@ -5,12 +5,12 @@
 | Company | [Healthcare Australia](https://scoutify.ai/companies/healthcareaustralia1?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HealthcareAustralia1/6000000001241517-accounts-receivable-officer-home-care) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HealthcareAustralia1/6000000001343179-accounts-receivable-officer-home-care) |
 
 ## About This Role
 
-This accounting position at Healthcare Australia was posted on 2026-07-17.
+This accounting position at Healthcare Australia was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

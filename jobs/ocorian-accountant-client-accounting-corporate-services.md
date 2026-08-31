@@ -5,12 +5,12 @@
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000137372141-accountant-client-accounting-corporate-services) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000145186989-accountant-client-accounting-corporate-services) |
 
 ## About This Role
 
-This accounting position at Ocorian was posted on 2026-07-13.
+This accounting position at Ocorian was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

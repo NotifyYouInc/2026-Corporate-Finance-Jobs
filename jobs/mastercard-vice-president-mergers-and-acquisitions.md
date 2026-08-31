@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Vice-President--Mergers-and-Acquisitions_R-270500) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Vice-President--Mergers-and-Acquisitions_R-288940) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-02-06.
+This corporate finance position at Mastercard was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

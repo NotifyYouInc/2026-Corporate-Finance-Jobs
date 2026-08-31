@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | Treasury & Capital Markets |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014161396-treasury-analyst) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014800441-treasury-analyst) |
 
 ## About This Role
 
-This treasury & capital markets position at Wabtec was posted on 2026-07-17.
+This treasury & capital markets position at Wabtec was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

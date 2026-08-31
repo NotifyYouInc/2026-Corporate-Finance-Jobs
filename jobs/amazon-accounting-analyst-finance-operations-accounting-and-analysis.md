@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Beijing, CN |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465515/accounting-analyst-finance-operations-accounting-and-analysis) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10511777/accounting-analyst-finance-operations-accounting-and-analysis) |
 
 ## About This Role
 
-This accounting position at Amazon was posted on 2026-07-03.
+This accounting position at Amazon was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

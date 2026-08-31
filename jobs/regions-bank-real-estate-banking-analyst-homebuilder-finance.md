@@ -1,16 +1,16 @@
-# Real Estate Banking Analyst - Homebuilder Finance at Regions Bank
+# Real Estate Banking Analyst- Homebuilder Finance at Regions Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Atlanta-GA---Regions-Plaza-Office/Real-Estate-Banking-Analyst---Homebuilder-Finance_R103162) |
+| Category | Financial Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Atlanta-GA---Regions-Plaza-Office/Real-Estate-Banking-Analyst--Homebuilder-Finance_R105302) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-06-09.
+This financial analyst position at Regions Bank was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

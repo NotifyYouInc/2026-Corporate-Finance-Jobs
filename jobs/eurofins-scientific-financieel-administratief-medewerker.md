@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wageningen, Gelderland, The Netherlands |
 | Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000144534567-financieel-administratief-medewerker) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000145248629-financieel-administratief-medewerker) |
 
 ## About This Role
 
-This accounting position at Eurofins Scientific was posted on 2026-08-20.
+This accounting position at Eurofins Scientific was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# ATPUO - Winter 2027 - ADM2742M - Comptabilité intermediaire I at University of Ottawa
+
+| Field | Details |
+|-------|---------|
+| Company | [University of Ottawa](https://scoutify.ai/companies/university-of-ottawa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Ottawa, Ontario, Canada |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Main-Campus/ATPUO---Winter-2027---ADM2742M---Comptabilit-intermediaire-I_JR38585) |
+
+## About This Role
+
+This accounting position at University of Ottawa was posted on 2026-08-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

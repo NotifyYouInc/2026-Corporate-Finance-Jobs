@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Tallinn/Accountant_JR_10040206) |
+| Location | Ljubljana, Ljubljana, Slovenia |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Ljubljana/Accountant_JR_10039693-1) |
 
 ## About This Role
 
-This corporate finance position at Ayvens was posted on 2026-06-19.
+This accounting position at Ayvens was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
