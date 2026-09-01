@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Analyst--Production-Support_REQ524385) |
+| Location | Los Angeles, California, United States |
+| Category | Investment Banking |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/Analyst--Production-Support_REQ531230) |
 
 ## About This Role
 
-This financial analyst position at JLL was posted on 2026-07-23.
+This investment banking position at JLL was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/US-PA-Philadelphia/Tax-Director--Privately-Held-Business_JR103987) |
+| Location | Atlanta, Georgia, United States |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Atlanta-Georgia/Tax-Director--Privately-Held-Business_JR104235) |
 
 ## About This Role
 
-This corporate finance position at Armanino was posted on 2026-06-15.
+This accounting position at Armanino was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ströer SE & Co. KGaA (Ströer Gruppe)](https://scoutify.ai/companies/strersecokgaastrergruppe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000145234919-bilanzbuchhalter-rechnungswesen-hgbifrs-mwd) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000145434460-bilanzbuchhalter-rechnungswesen-hgbifrs-mwd) |
 
 ## About This Role
 
-This accounting position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-08-24.
+This accounting position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

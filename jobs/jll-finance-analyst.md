@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Finance-Analyst_REQ501761) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Financial Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangkok-THA/Finance-Analyst_REQ531293) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-04-27.
+This financial analyst position at JLL was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

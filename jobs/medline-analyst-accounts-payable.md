@@ -5,12 +5,12 @@
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Analyst-Accounts-Payable_R2616502-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Analyst-Accounts-Payable_R2616204-1) |
 
 ## About This Role
 
-This accounting position at Medline was posted on 2026-08-19.
+This accounting position at Medline was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

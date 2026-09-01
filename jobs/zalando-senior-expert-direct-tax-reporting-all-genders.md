@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zalando](https://scoutify.ai/companies/zalando?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Corporate Finance |
-| Posted | 2026-05-10 |
+| Category | Accounting |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://zalando.wd3.myworkdayjobs.com/zalandositewd/job/Berlin/Senior-Expert-Direct-Tax-Reporting--all-genders-_2723966-1) |
 
 ## About This Role
 
-This corporate finance position at Zalando was posted on 2026-05-10.
+This accounting position at Zalando was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

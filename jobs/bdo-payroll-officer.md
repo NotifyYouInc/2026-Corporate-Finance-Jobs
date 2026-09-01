@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Brisbane-Queensland/Payroll-Officer_JR102779) |
+| Location | 5 locations |
+| Category | Accounting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Brisbane-Queensland/Payroll-Officer_JR103677-1) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-03-11.
+This accounting position at Bdo was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

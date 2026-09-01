@@ -5,12 +5,12 @@
 | Company | [LEONI](https://scoutify.ai/companies/leoni?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dubnica nad Váhom, Trenčín Region, Slovakia |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000140608849-finance-automation-rpa-lead-expert-mfd) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000145447669-finance-automation-rpa-lead-expert-mfd) |
 
 ## About This Role
 
-This fp&a / strategic finance position at LEONI was posted on 2026-07-30.
+This fp&a / strategic finance position at LEONI was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
+| Category | Accounting |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Financial-Analyst-2---General-Ledger--Controllership-_JR119493) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-05-18.
+This accounting position at RSM was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

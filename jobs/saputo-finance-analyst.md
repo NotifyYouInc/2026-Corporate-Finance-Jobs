@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Saputo](https://scoutify.ai/companies/saputo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Weybridge, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Weybridge-Surrey/Finance-Analyst_JR64878) |
+| Location | Fort Lauderdale, Florida, United States |
+| Category | Financial Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Fort-Lauderdale-FL/Finance-Analyst_JR66521) |
 
 ## About This Role
 
-This corporate finance position at Saputo was posted on 2026-06-19.
+This financial analyst position at Saputo was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

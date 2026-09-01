@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Freshwater, New South Wales, Australia |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Freshwater/FP-A-Analyst_R-105222) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Mexico-City---Antara-Tower-A---5th-Floor---Local-Office/FP-A-Analyst_R-106028) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Heinz was posted on 2026-07-30.
+This fp&a / strategic finance position at Heinz was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eisneramper](https://scoutify.ai/companies/eisneramper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Iselin, New Jersey, United States |
+| Location | New Orleans, Louisiana, United States |
 | Category | Accounting |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/Iselin/XMLNAME-2027-Assurance-Staff-I_Req-8775) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/New-Orleans/XMLNAME-2027-Assurance-Staff-I_Req-8926) |
 
 ## About This Role
 
-This accounting position at Eisneramper was posted on 2026-08-18.
+This accounting position at Eisneramper was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

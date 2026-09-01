@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | 6 locations |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Wealth-Strategist-II_R0118149-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Wealth-Strategist-II_R0118287) |
 
 ## About This Role
 
-This wealth management / private banking position at Truist was posted on 2026-08-19.
+This wealth management / private banking position at Truist was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

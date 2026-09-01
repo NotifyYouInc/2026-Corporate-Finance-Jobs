@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tmhcc](https://scoutify.ai/companies/tmhcc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Troy, Michigan, United States |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Remote---USA/Associate-Underwriter_2026-782-2) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Michigan---Troy/Associate-Underwriter_2026-852) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Tmhcc was posted on 2026-08-07.
+This actuary / insurance analytics position at Tmhcc was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

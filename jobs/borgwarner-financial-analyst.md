@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | South Korea |
-| Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Chungju-City---South-Korea/Financial-Analyst_R2026-0651) |
+| Location | Bucharest, București, Romania |
+| Category | Financial Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bucharest---Romania/Financial-Analyst_R2026-3385) |
 
 ## About This Role
 
-This corporate finance position at BorgWarner was posted on 2026-03-20.
+This financial analyst position at BorgWarner was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

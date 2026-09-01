@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/HS-Claim--Analyst_JR-69354) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/HS-Claim--Analyst_JR-68089) |
 
 ## About This Role
 
-This actuary / insurance analytics position at AIA Group was posted on 2026-08-21.
+This actuary / insurance analytics position at AIA Group was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

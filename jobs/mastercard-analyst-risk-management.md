@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Risk-Management_R-286181) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Financial Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia-Bldg-978/Analyst--Risk-Management_R-287451-1) |
 
 ## About This Role
 
-This compliance & risk management position at Mastercard was posted on 2026-07-22.
+This financial analyst position at Mastercard was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

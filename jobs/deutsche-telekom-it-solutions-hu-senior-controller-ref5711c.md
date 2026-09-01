@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
 | Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000139547396-senior-controller-ref5711c) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000145438499-senior-controller-ref5711c) |
 
 ## About This Role
 
-This accounting position at Deutsche Telekom IT Solutions HU was posted on 2026-07-24.
+This accounting position at Deutsche Telekom IT Solutions HU was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

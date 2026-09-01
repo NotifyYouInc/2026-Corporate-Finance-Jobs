@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Germany |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000139233659-team-lead-accounting-mfx) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000145438789-team-lead-accounting-mfx) |
 
 ## About This Role
 
-This accounting position at Scalable Capital was posted on 2026-07-23.
+This accounting position at Scalable Capital was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

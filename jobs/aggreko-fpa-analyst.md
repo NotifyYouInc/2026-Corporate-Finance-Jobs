@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aggreko](https://scoutify.ai/companies/aggreko?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Pearland-TX/FP-A-Analyst_JR20332) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Jaguarina-So-Paulo/Analista-de-FP-A-Junior_JR20318) |
 
 ## About This Role
 
-This corporate finance position at Aggreko was posted on 2026-05-21.
+This fp&a / strategic finance position at Aggreko was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

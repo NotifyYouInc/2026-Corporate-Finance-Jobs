@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sea to Summit](https://scoutify.ai/companies/seatosummitptyltd?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-08-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SeaToSummitPtyLtd/744000143703539-finance-business-partner-apac-12-month-fixed-term-contract) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SeaToSummitPtyLtd/744000145422750-finance-business-partner-apac-12-month-fixed-term-contract) |
 
 ## About This Role
 
-This corporate finance position at Sea to Summit was posted on 2026-08-16.
+This fp&a / strategic finance position at Sea to Summit was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

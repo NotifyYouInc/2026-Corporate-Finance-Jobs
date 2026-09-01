@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Williams](https://scoutify.ai/companies/williams?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/TX-Houston---Tower/Accounting-Analyst-I_R111854) |
+| Location | Tulsa, Oklahoma, United States |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Accounting-Analyst-I_R112568) |
 
 ## About This Role
 
-This corporate finance position at Williams was posted on 2026-04-13.
+This accounting position at Williams was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CSC](https://scoutify.ai/companies/us2-cx-oj26356?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Accounting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://hczw.fa.us2.oraclecloud.com/jobs/#16621) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://hczw.fa.us2.oraclecloud.com/jobs/#16927) |
 
 ## About This Role
 
-This accounting position at CSC was posted on 2026-08-04.
+This accounting position at CSC was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

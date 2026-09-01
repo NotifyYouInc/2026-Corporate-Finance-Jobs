@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Medellín, Antioquia, Colombia |
 | Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CO---MEDELLIN-II-GLOBAL-BUSINESS-SERVICES-GBS-COMEL/GBS-Intermed-A-P-Assoc_R26026270-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CO---MEDELLIN-II-GLOBAL-BUSINESS-SERVICES-GBS-COMEL/GBS-Intermed-A-P-Assoc_R26029107) |
 
 ## About This Role
 
-This accounting position at United Parcel Service (UPS) was posted on 2026-07-31.
+This accounting position at United Parcel Service (UPS) was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

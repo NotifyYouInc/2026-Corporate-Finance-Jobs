@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Actuarial-Associate_R26_0956-1) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Actuarial-Associate_R26_3332) |
 
 ## About This Role
 
-This corporate finance position at Ameriprise Financial was posted on 2026-03-16.
+This actuary / insurance analytics position at Ameriprise Financial was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

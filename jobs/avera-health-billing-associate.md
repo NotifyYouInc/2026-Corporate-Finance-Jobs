@@ -5,12 +5,12 @@
 | Company | [Avera Health](https://scoutify.ai/companies/avera-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sioux Falls, South Dakota, United States |
 | Category | Accounting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://avera.wd5.myworkdayjobs.com/avera-careers/job/Sioux-Falls-SD/Billing-Associate_R-260026018) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://avera.wd5.myworkdayjobs.com/avera-careers/job/Sioux-Falls-SD/Billing-Associate_R-260027820-1) |
 
 ## About This Role
 
-This accounting position at Avera Health was posted on 2026-07-16.
+This accounting position at Avera Health was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

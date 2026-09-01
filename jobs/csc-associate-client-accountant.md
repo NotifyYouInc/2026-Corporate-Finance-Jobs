@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSC](https://scoutify.ai/companies/us2-cx-oj26356?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Luxembourg |
+| Location | India |
 | Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://hczw.fa.us2.oraclecloud.com/jobs/#16463) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://hczw.fa.us2.oraclecloud.com/jobs/#16969) |
 
 ## About This Role
 
-This accounting position at CSC was posted on 2026-07-21.
+This accounting position at CSC was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

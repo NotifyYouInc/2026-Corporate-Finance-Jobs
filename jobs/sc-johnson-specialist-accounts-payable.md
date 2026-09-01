@@ -5,12 +5,12 @@
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Racine, Wisconsin, United States |
 | Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---WI---Racine/Specialist--Accounts-Payable_33658) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---WI---Racine/Specialist--Accounts-Payable_33843) |
 
 ## About This Role
 
-This accounting position at SC Johnson was posted on 2026-07-30.
+This accounting position at SC Johnson was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

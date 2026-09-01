@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bloomington, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Bloomington-Indiana---United-States/Client-Service-Associate_R-0012431) |
+| Location | Clarkston, Georgia, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Clarkston-Michigan---United-States/Client-Service-Associate_R-0012723) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-08-07.
+This wealth management / private banking position at Raymond James Financial was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

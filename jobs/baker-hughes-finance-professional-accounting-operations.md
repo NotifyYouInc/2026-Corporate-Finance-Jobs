@@ -5,12 +5,12 @@
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Professional---Accounting-Operations_R166482) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Professional---Accounting-Operations_R168120) |
 
 ## About This Role
 
-This accounting position at Baker Hughes was posted on 2026-07-15.
+This accounting position at Baker Hughes was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Accountant in opleiding - Audit at FCTB (nu: Deloitte Consulting)
+# Accountant in opleiding Audit at FCTB (nu: Deloitte Consulting)
 
 | Field | Details |
 |-------|---------|
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Utrecht, Utrecht, The Netherlands |
+| Location | Maastricht, Limburg, The Netherlands |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000144761829-accountant-in-opleiding-audit) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000145450505-accountant-in-opleiding-audit) |
 
 ## About This Role
 
-This accounting position at FCTB (nu: Deloitte Consulting) was posted on 2026-08-21.
+This accounting position at FCTB (nu: Deloitte Consulting) was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# SR Analyst, Credit at Baxter International
+# Sr Analyst, Credit at Baxter International
 
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Costa Rica |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/La-Aurora-Heredia/SR-Analyst--Credit_JR-200818) |
+| Location | Heredia, Heredia Province, Costa Rica |
+| Category | Financial Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/La-Aurora-Heredia/Sr-Analyst--Credit_JR-207698) |
 
 ## About This Role
 
-This corporate finance position at Baxter International was posted on 2026-04-27.
+This financial analyst position at Baxter International was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

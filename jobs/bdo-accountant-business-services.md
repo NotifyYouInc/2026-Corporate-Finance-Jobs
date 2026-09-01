@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Melbourne-Victoria/Accountant--Business-Services_JR103223) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Parramatta-New-South-Wales/Accountant--Business-Services_JR103721) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-06-18.
+This accounting position at Bdo was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

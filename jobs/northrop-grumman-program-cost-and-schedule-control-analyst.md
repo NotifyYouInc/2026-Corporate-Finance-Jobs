@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Program-Cost-and-Schedule-Control-Analyst_R10246379) |
+| Location | 3 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Program-Cost-and-Schedule-Control-Analyst_R10247435) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-08-18.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

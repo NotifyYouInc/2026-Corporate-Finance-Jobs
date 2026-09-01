@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gauteng, ZA |
-| Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/South-Africa-Alrode-Alberton/EAMEI-Treasury-Manager_R10084261) |
+| Location | Pune, Maharashtra, India |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/India-Pune/EAMEI-Treasury-Manager_R10088969) |
 
 ## About This Role
 
-This corporate finance position at Air Liquide was posted on 2026-02-09.
+This treasury & capital markets position at Air Liquide was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

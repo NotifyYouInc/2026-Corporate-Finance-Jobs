@@ -5,12 +5,12 @@
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | West Perth, Western Australia, Australia |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001203603-accounts-receivable-officer) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001346351-accounts-receivable-officer) |
 
 ## About This Role
 
-This accounting position at APM Group was posted on 2026-07-02.
+This accounting position at APM Group was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

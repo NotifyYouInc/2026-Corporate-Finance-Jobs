@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pocatello, Idaho, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---ID-Pocatello/Financial-Analyst_38730-1) |
+| Location | United States |
+| Category | Financial Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Financial-Analyst_38809) |
 
 ## About This Role
 
-This corporate finance position at Guidehouse was posted on 2026-04-28.
+This financial analyst position at Guidehouse was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

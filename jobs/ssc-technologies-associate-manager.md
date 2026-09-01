@@ -1,16 +1,16 @@
-# Associate Manager at SS&C Technologies
+# Associate manager at SS&C Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/New-York-NY/Associate-Manager_R44401) |
+| Location | Gurugram, Haryana, India |
+| Category | Financial Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Gurgaon-India/Associate-manager_R45648) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-06-23.
+This financial analyst position at SS&C Technologies was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Program Cost Schedule Control Analyst at Northrop Grumman
+# Program Cost & Schedule Control Analyst at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Northridge, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Program-Cost-Schedule-Control-Analyst_R10225352) |
+| Location | Melbourne, Florida, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Program-Cost---Schedule-Control-Analyst_R10247421) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-04-09.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

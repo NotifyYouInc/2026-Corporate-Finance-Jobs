@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Xiamen, Fujian, China |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Xiamen-Fujian-China/Controlling---Planning-Analyst_R0125250) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Xiamen-Fujian-China/Controlling---Planning-Analyst_R0141643-1) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-04-02.
+This fp&a / strategic finance position at Hitachi was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

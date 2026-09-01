@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bermuda |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Singapore/Actuarial-Senior-Manager_742699WD) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bermuda/Actuarial-Senior-Manager_753631WD-2) |
 
 ## About This Role
 
-This actuary / insurance analytics position at PwC was posted on 2026-07-07.
+This actuary / insurance analytics position at PwC was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

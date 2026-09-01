@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Axle & Manufacturing](https://scoutify.ai/companies/aampower?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Porto, Porto, Portugal |
-| Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Porto-Portugal/Accounts-Payable-Analyst_JREQ-223976) |
+| Category | Accounting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Porto-Portugal/Accounts-Payable-Analyst_JREQ-224433) |
 
 ## About This Role
 
-This corporate finance position at American Axle & Manufacturing was posted on 2026-08-07.
+This accounting position at American Axle & Manufacturing was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

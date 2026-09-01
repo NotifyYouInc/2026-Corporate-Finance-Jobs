@@ -5,12 +5,12 @@
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Accounting |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Assurance-Associate-2---Financial-Institutions_JR119105) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Assurance-Associate-2---Financial-Institutions_JR119097) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-07-26.
+This accounting position at RSM was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

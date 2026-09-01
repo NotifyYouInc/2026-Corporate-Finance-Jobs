@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Eschborn, Hesse, Germany |
-| Category | Compliance & Risk Management |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000139923689-senior-manager-tax-reporting-risk-management-technology-contitech-mwdiverse-ref92559a) |
+| Category | Accounting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000145419659-senior-manager-tax-reporting-risk-management-technology-contitech-mwdiverse-ref92559a) |
 
 ## About This Role
 
-This compliance & risk management position at Continental was posted on 2026-07-27.
+This accounting position at Continental was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

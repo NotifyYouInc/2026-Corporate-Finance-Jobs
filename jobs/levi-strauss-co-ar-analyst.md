@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Levi Strauss & Co.](https://scoutify.ai/companies/levistraussandco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Office-Mexico-DF-Mexico/AR-Analyst_R-0148453) |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Office-Mexico-DF-Mexico/AR-Analyst_R-0156012) |
 
 ## About This Role
 
-This corporate finance position at Levi Strauss & Co. was posted on 2026-02-18.
+This accounting position at Levi Strauss & Co. was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/d0a7e105-ba13-44e7-8571-50a8f43906d0) |
+| Location | London, England, United Kingdom |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/d0079d54-4ee2-4995-b722-48b0fd3deed3) |
 
 ## About This Role
 
-This corporate finance position at Airwallex was posted on 2026-04-28.
+This fp&a / strategic finance position at Airwallex was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
