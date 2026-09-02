@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Malaysia---Petaling-Jaya/Intern---Finance_541343) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Vietnam---Ho-Chi-Minh-City/Intern---Finance_547395) |
 
 ## About This Role
 
-This corporate finance position at Haleon was posted on 2026-04-09.
+This corporate finance position at Haleon was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

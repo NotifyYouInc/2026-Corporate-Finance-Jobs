@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Houston/Private-Client-Advisor-II_26029439) |
+| Location | Seattle, Washington, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Seattle/Private-Client-Advisor-II_26031214) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-08-19.
+This corporate finance position at Bank of America was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

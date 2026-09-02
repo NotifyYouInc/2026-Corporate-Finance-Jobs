@@ -5,12 +5,12 @@
 | Company | [iKhokha](https://scoutify.ai/companies/ikhokha?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | South Africa |
 | Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IKhokha/744000144554119-creditors-team-lead) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IKhokha/744000145657724-creditors-team-lead) |
 
 ## About This Role
 
-This accounting position at iKhokha was posted on 2026-08-20.
+This accounting position at iKhokha was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

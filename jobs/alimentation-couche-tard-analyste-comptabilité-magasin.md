@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Laval, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-QC10000051-CT-Laval-QC/Analyste--Comptabilit-Magasin_R589382) |
+| Category | Accounting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-QC10000051-CT-Laval-QC/Analyste--Comptabilit-Magasin_R615701) |
 
 ## About This Role
 
-This corporate finance position at Alimentation Couche-Tard was posted on 2026-05-15.
+This accounting position at Alimentation Couche-Tard was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

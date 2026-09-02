@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Argentina |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Argentina/Accountant-II_R-01364964) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Accountant-II_R-01365050) |
 
 ## About This Role
 
-This accounting position at Thermo Fisher Scientific was posted on 2026-08-13.
+This accounting position at Thermo Fisher Scientific was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

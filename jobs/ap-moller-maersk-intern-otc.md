@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chengdu, Sichuan, China |
-| Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Sichuan-Chengdu-610041/Intern--OTC_R177964) |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Sichuan-Chengdu-610041/Intern--OTC_R194559) |
 
 ## About This Role
 
-This corporate finance position at A.P. Moller - Maersk was posted on 2026-04-13.
+This accounting position at A.P. Moller - Maersk was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

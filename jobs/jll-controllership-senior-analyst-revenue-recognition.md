@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Controllership-Senior-Analyst---Revenue-Recognition_REQ506063-1) |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Controllership-Senior-Analyst---Revenue-Recognition_REQ523558) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-18.
+This accounting position at JLL was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

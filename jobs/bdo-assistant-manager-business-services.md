@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Brisbane-Queensland/Assistant-Manager--Business-Services_JR103646) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Sydney-New-South-Wales/Assistant-Manager--Business-Services_JR103691) |
 
 ## About This Role
 
-This accounting position at Bdo was posted on 2026-08-11.
+This accounting position at Bdo was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

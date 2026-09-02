@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Cash-Applications-Specialist---Part-Time_R265817-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Waukegan-IL/Cash-Applications-Specialist---Part-Time_R266818-1) |
 
 ## About This Role
 
-This accounting position at Uline was posted on 2026-07-24.
+This accounting position at Uline was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

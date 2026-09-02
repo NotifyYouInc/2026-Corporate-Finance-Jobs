@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Financial-Planning---Analysis-Representa_ATCI-5686552-S2062584) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Corporate Finance |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Financial-Planning---Analysis-Representa_ATCI-5723813-S2066359-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Accenture was posted on 2026-08-04.
+This corporate finance position at Accenture was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

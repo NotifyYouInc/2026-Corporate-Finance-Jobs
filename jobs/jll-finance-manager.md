@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Perth, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Perth-WA/Finance-Manager_REQ526221) |
+| Location | Chicago, Illinois, United States |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Finance-Manager_REQ530410-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-08-05.
+This accounting position at JLL was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

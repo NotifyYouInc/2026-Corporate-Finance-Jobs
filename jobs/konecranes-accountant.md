@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Klang, Selangor, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000132988649-accountant) |
+| Location | Tallinn, Harjumaa, Estonia |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000145670109-accountant) |
 
 ## About This Role
 
-This corporate finance position at Konecranes was posted on 2026-06-19.
+This accounting position at Konecranes was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

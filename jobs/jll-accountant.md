@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangkok-THA/Accountant_REQ525753) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Canberra-ACT/Accountant_REQ528700) |
 
 ## About This Role
 
-This accounting position at JLL was posted on 2026-07-31.
+This accounting position at JLL was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

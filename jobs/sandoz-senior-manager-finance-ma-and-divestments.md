@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Telangana-Sandoz/Senior-Manager-Finance---M-A-and-Divestments_REQ-10029905) |
+| Location | Hyderabad, Telangana, India |
+| Category | Corporate Development & M&A |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Telangana-Sandoz/Senior-Manager-Finance---M-A-and-Divestments_REQ-10031203) |
 
 ## About This Role
 
-This corporate finance position at Sandoz was posted on 2026-06-22.
+This corporate development & m&a position at Sandoz was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

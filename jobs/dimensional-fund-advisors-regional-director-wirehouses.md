@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dimensional Fund Advisors](https://scoutify.ai/companies/dimensional?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Regional-Director--Wirehouses_2026-8869) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Regional-Director--Wirehouses_2026-9032) |
 
 ## About This Role
 
-This corporate finance position at Dimensional Fund Advisors was posted on 2026-05-20.
+This corporate finance position at Dimensional Fund Advisors was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

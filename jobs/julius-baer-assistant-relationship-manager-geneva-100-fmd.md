@@ -5,12 +5,12 @@
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Switzerland |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Geneva/Assistant-Relationship-Manager--Geneva--100---f-m-d-_r-17550-2) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Geneva/Assistant-Relationship-Manager--Geneva--100---f-m-d-_r-19467-1) |
 
 ## About This Role
 
-This corporate finance position at Julius Baer was posted on 2026-02-19.
+This corporate finance position at Julius Baer was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

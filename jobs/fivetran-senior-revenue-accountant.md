@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oakland, California, United States |
+| Location | California, US |
 | Category | Accounting |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7819883003) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7977483003) |
 
 ## About This Role
 
-This accounting position at Fivetran was posted on 2026-07-28.
+This accounting position at Fivetran was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

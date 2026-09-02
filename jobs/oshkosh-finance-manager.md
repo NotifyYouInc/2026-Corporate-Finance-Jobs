@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ogden, Utah, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Ogden-Utah-United-States/Finance-Manager_R44891) |
+| Location | Orlando, Florida, United States |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Finance-Manager_R49479) |
 
 ## About This Role
 
-This corporate finance position at Oshkosh was posted on 2026-03-09.
+This accounting position at Oshkosh was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Washington, US |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/2100-PENNSYLVANIA-AVENUE-NORTHWESTWASHINGTON/Client-Associate_R-0000180695) |
+| Location | Bend, Oregon, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/2220-NORTHWEST-LABICHE-LANEBEND/Client-Associate_R-0000185053) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-07-16.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

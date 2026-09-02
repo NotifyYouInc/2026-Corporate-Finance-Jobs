@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Draper, Utah, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Senior-Revenue-Accountant_R14266) |
+| Category | Accounting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Senior-Revenue-Accountant_R14645) |
 
 ## About This Role
 
-This corporate finance position at Proofpoint was posted on 2026-05-27.
+This accounting position at Proofpoint was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

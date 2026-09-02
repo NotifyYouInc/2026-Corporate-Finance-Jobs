@@ -1,16 +1,16 @@
-# Finance - Executive at ACCOR
+# Finance Executive at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Jaipur, Rajasthan, India |
 | Category | Accounting |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000140147199-finance-executive) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000145687590-finance-executive) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-28.
+This accounting position at ACCOR was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

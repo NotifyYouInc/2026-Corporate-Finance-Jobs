@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/AR-Collection-Analyst_JR0284945-1) |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/AR-Collection-Analyst_JR0286673) |
 
 ## About This Role
 
-This corporate finance position at Intel was posted on 2026-06-19.
+This accounting position at Intel was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Beijing-China/Finance-Operations-Accountant_R1315754) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Beijing-China/Finance-Operations-Accountant_R1317785) |
 
 ## About This Role
 
-This accounting position at Danaher was posted on 2026-07-29.
+This accounting position at Danaher was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

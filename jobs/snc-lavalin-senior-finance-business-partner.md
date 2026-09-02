@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Epsom, England, United Kingdom |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBEpsomWoodcote-Grove/Senior-Finance-Business-Partner_R-162113-1) |
+| Location | United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBUnited-Kingdom/Senior-Finance-Business-Partner_R-159886-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at SNC-Lavalin was posted on 2026-08-25.
+This corporate finance position at SNC-Lavalin was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

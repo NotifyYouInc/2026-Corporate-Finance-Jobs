@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Burnaby, British Columbia, Canada |
+| Location | 6 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BURNABY-British-Columbia-Canada/Associate--Financial-Planning_R-0000158791) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate--Financial-Planning_R-0000185064) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-02-06.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

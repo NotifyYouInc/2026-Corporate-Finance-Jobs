@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phoenix, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Senior-Accountant_R12732) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Senior-Accountant_R13690) |
 
 ## About This Role
 
-This corporate finance position at Western Alliance Bancorporation was posted on 2026-04-01.
+This accounting position at Western Alliance Bancorporation was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Manager--Accounting_JR332986) |
+| Location | Singapore, Singapore |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Manager--Accounting_JR356030) |
 
 ## About This Role
 
-This corporate finance position at Salesforce was posted on 2026-03-12.
+This accounting position at Salesforce was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

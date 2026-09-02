@@ -5,12 +5,12 @@
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Oslo, Oslo, Norway |
 | Category | Investment Banking |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000145214649-summer-intern-capital-markets-2027) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000145677750-summer-intern-capital-markets-2027) |
 
 ## About This Role
 
-This investment banking position at Colliers International UK was posted on 2026-08-24.
+This investment banking position at Colliers International UK was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

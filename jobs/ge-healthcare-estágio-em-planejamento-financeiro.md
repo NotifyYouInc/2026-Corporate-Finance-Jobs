@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Sao-Paulo/Estgio-em-Planejamento-Financeiro_R4032629-1) |
 
 ## About This Role
 
-This corporate finance position at GE HealthCare was posted on 2026-03-06.
+This corporate finance position at GE HealthCare was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

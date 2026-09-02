@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 5 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Accounts-Receivable-Associate---Part-Time_R262787-1) |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Accounts-Receivable-Associate---Part-Time_R266822-1) |
 
 ## About This Role
 
-This corporate finance position at Uline was posted on 2026-04-20.
+This accounting position at Uline was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8560378002?gh_jid=8560378002) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8743240002?gh_jid=8743240002) |
 
 ## About This Role
 
-This corporate finance position at Lyft was posted on 2026-05-21.
+This corporate finance position at Lyft was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

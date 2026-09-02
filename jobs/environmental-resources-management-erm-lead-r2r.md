@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New Delhi, Delhi, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/New-Delhi-India/Lead---R2R_R00030356) |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/New-Delhi-India/Lead---R2R_R00030369-3) |
 
 ## About This Role
 
-This corporate finance position at Environmental Resources Management (ERM) was posted on 2026-05-11.
+This accounting position at Environmental Resources Management (ERM) was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

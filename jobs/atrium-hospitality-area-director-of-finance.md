@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Atrium Hospitality](https://scoutify.ai/companies/atrium-hospitality?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Charleston, South Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/North-Charleston-SC/Area-Director-of-Finance_R47764) |
+| Location | La Vista, Nebraska, United States |
+| Category | Accounting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/La-Vista-NE/Area-Director-of-Finance_R49823) |
 
 ## About This Role
 
-This corporate finance position at Atrium Hospitality was posted on 2026-04-10.
+This accounting position at Atrium Hospitality was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

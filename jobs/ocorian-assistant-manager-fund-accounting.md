@@ -1,16 +1,16 @@
-# Assistant Manager - Fund Accounting  at Ocorian
+# Assistant Manager - Fund Accounting at Ocorian
 
 | Field | Details |
 |-------|---------|
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Moka, Moka, Mauritius |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000139365090-assistant-manager-fund-accounting) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000145683875-assistant-manager-fund-accounting) |
 
 ## About This Role
 
-This accounting position at Ocorian was posted on 2026-07-23.
+This accounting position at Ocorian was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

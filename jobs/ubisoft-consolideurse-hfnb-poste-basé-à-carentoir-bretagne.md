@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Carentoir, Brittany, France |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000134417129-consolideurse-hfnb-poste-base-a-carentoir-bretagne) |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000145699390-consolideurse-hfnb-poste-base-a-carentoir-bretagne) |
 
 ## About This Role
 
-This corporate finance position at Ubisoft was posted on 2026-06-26.
+This accounting position at Ubisoft was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

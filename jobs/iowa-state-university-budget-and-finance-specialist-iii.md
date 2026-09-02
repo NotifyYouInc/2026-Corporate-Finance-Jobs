@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Iowa State University](https://scoutify.ai/companies/iowa-state-university?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ames, Iowa, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Budget-and-Finance-Specialist-III_R19627) |
+| Category | Corporate Finance |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Budget-and-Finance-Specialist-III_R19812) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Iowa State University was posted on 2026-07-21.
+This corporate finance position at Iowa State University was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

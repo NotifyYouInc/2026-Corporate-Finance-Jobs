@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#80996) |
+| Location | Frankfurt am Main, Hesse, Germany |
+| Category | Corporate Finance |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#81021) |
 
 ## About This Role
 
-This treasury & capital markets position at BNY was posted on 2026-08-18.
+This corporate finance position at BNY was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

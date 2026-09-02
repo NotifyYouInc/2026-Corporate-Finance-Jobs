@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/QUEZON-CITY--PHILIPPINES/Accounting-Manager_R0072107) |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/QUEZON-CITY--PHILIPPINES/Accounting-Manager_R0074124) |
 
 ## About This Role
 
-This corporate finance position at Global Payments was posted on 2026-06-04.
+This accounting position at Global Payments was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

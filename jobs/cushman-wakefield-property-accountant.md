@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---FL---Tampa---1001-Water-Street/Property-Accountant_R309726-1) |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Property-Accountant_R329981) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-03-13.
+This accounting position at Cushman & Wakefield was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

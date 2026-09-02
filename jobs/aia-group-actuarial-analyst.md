@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-MY-AIA-Malaysia/Actuarial--Analyst_JR-69219) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/Actuarial--Analyst_JR-69414) |
 
 ## About This Role
 
-This actuary / insurance analytics position at AIA Group was posted on 2026-08-18.
+This actuary / insurance analytics position at AIA Group was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

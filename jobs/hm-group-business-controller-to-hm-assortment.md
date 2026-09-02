@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000135244299-business-controller-to-hm-assortment) |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000145668489-business-controller-to-hm-assortment) |
 
 ## About This Role
 
-This fp&a / strategic finance position at H&M Group was posted on 2026-07-01.
+This accounting position at H&M Group was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

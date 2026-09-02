@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Houston-TX---Field-Mgmt/Advisor-Licensing-Program_R-052417-1) |
+| Location | Austin, Texas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Austin-TX/Advisor-Licensing-Program_R-053274) |
 
 ## About This Role
 
-This wealth management / private banking position at LPL Financial Holdings was posted on 2026-07-22.
+This corporate finance position at LPL Financial Holdings was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

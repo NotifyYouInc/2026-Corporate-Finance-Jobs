@@ -1,16 +1,16 @@
-# Senior Accountant, Real Estate at JPI
+# Senior Accountant- Real Estate at JPI
 
 | Field | Details |
 |-------|---------|
 | Company | [JPI](https://scoutify.ai/companies/jpi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/Senior-Accountant---Corporate---Real-Estate_JR100895) |
+| Category | Accounting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/Senior-Accountant--Real-Estate_JR101408) |
 
 ## About This Role
 
-This corporate finance position at JPI was posted on 2026-05-20.
+This accounting position at JPI was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Brisbane-Queensland/Accountant_JR103339) |
+| Location | Perth, Western Australia, Australia |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Perth-Western-Australia/Accountant_JR103598) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-06-24.
+This accounting position at Bdo was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

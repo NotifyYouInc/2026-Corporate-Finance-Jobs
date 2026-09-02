@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Behavox](https://scoutify.ai/companies/behavox?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/behavox/jobs/8148048) |
+| Location | London, England, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/behavox/jobs/8157807) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Behavox was posted on 2026-08-21.
+This corporate finance position at Behavox was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

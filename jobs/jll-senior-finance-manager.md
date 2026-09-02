@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Financial Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sydney-NSW/Senior-Finance-Manager_REQ522229) |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sydney-NSW/Senior-Finance-Manager_REQ529237) |
 
 ## About This Role
 
-This financial analyst position at JLL was posted on 2026-07-21.
+This accounting position at JLL was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
