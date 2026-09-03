@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Palmdale, California, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Program-Cost-and-Schedule-Control-Analyst_R10247435) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Program-Cost-and-Schedule-Control-Analyst_R10247910) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Northrop Grumman was posted on 2026-08-24.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

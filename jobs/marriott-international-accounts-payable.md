@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | India |
 | Category | Accounting |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26103402) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26108897) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-08-15.
+This accounting position at Marriott International was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

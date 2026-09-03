@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Resorts World Las Vegas](https://scoutify.ai/companies/resorts-world-las-vegas?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Las Vegas, Nevada, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://rwlasvegas.wd501.myworkdayjobs.com/rwlv_external_careers/job/Resorts-World-Las-Vegas/Specialist--Payroll-1_JR-02229) |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://rwlasvegas.wd501.myworkdayjobs.com/rwlv_external_careers/job/Resorts-World-Las-Vegas/Specialist--Payroll_JR-03461) |
 
 ## About This Role
 
-This corporate finance position at Resorts World Las Vegas was posted on 2026-05-19.
+This accounting position at Resorts World Las Vegas was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

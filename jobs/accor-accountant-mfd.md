@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000138590244-accountant-mfd) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000145940780-accountant-mfd) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-20.
+This accounting position at ACCOR was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

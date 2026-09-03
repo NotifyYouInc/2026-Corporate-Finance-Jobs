@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Kerala, IN |
 | Category | Accounting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Accounts-Receivable-Associate_JR148256) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Trivandrum/Accounts-Receivable-Associate_JR156693-1) |
 
 ## About This Role
 
-This accounting position at ICON plc was posted on 2026-07-16.
+This accounting position at ICON plc was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

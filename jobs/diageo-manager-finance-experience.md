@@ -5,12 +5,12 @@
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Manager---Finance-Experience_JR1128325) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Manager---Finance-Experience_JR1128878) |
 
 ## About This Role
 
-This accounting position at Diageo was posted on 2026-08-25.
+This accounting position at Diageo was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

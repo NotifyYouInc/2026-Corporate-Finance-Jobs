@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Hyderabad, Telangana, India |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Japan---Tokyo/Finance-Sr-Manager_R-248511) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Finance-Sr-Manager_R-253186) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Amgen was posted on 2026-08-25.
+This fp&a / strategic finance position at Amgen was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Financial-Accounting-Associate_R-562412) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Financial-Accounting-Associate_R-570925) |
 
 ## About This Role
 
-This accounting position at Wells Fargo was posted on 2026-07-23.
+This accounting position at Wells Fargo was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-#  Accounts Payable Agent  at Expeditors International of Washington
+# Accounts Payable Agent at Expeditors International of Washington
 
 | Field | Details |
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000129869989-accounts-payable-agent) |
+| Location | Nuevo Laredo, Tamaulipas, Mexico |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000145841290-accounts-payable-agent) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-06-02.
+This accounting position at Expeditors International of Washington was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

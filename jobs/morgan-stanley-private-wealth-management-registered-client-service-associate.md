@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Orleans, Louisiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-Orleans-Louisiana-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR042209) |
+| Location | San Francisco, California, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/San-Francisco-California-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR042775) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-08-12.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cedar Rapids, Iowa, United States |
+| Location | Richardson, Texas, United States |
 | Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Analyst--Accounts-Receivable--Hybrid-_01866360) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C07--1707-Cityline-Dr--CITYLINE-C07/Analyst--Accounts-Receivable--Hybrid-_01869533) |
 
 ## About This Role
 
-This accounting position at RTX was posted on 2026-08-13.
+This accounting position at RTX was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

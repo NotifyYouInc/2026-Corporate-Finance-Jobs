@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maharashtra, IN |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/Valuations---Pricing-Specialist--Associate-2_R-791901-1) |
+| Location | Coimbatore, Tamil Nadu, India |
+| Category | Financial Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Coimbatore-India/Valuations---Pricing-Specialist--Associate-2_R-794690-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at State Street was posted on 2026-07-14.
+This financial analyst position at State Street was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

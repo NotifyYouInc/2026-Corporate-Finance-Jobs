@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Transfer-Agency--Senior-Associate_R-791500) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Taipei-Taiwan/Transfer-Agency--Senior-Associate_R-796803) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-02.
+This corporate finance position at State Street was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

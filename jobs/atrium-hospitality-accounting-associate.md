@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Atrium Hospitality](https://scoutify.ai/companies/atrium-hospitality?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Glendale, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Glendale-AZ/Accounting-Associate_R48826) |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Glendale-AZ/Accounting-Associate_R49857) |
 
 ## About This Role
 
-This corporate finance position at Atrium Hospitality was posted on 2026-06-17.
+This accounting position at Atrium Hospitality was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

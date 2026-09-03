@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TAL](https://scoutify.ai/companies/tal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000127775647-technical-underwriting-specialist-group-retrospective-underwriting) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000145902251-technical-underwriting-specialist-group-retrospective-underwriting) |
 
 ## About This Role
 
-This corporate finance position at TAL was posted on 2026-05-22.
+This actuary / insurance analytics position at TAL was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# FINANCE OFFICER at Theirc
+# Finance Officer at Theirc
 
 | Field | Details |
 |-------|---------|
 | Company | [Theirc](https://scoutify.ai/companies/theirc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bunia, Ituri, Democratic Republic of the Congo |
+| Location | Multan, Punjab, Pakistan |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Bunia-Democratic-Republic-of-the-Congo/FINANCE-OFFICER_JR00004049) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Multan-Punjab---Pakistan/Finance-Officer_JR00004749) |
 
 ## About This Role
 
-This accounting position at Theirc was posted on 2026-07-03.
+This accounting position at Theirc was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

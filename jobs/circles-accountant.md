@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Circles](https://scoutify.ai/companies/circles?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/Philippines/Accountant_R-100293) |
+| Location | Singapore, Singapore |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/Singapore/Accountant_R-100444) |
 
 ## About This Role
 
-This corporate finance position at Circles was posted on 2026-04-29.
+This accounting position at Circles was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000144493640-manager-accountant-financial-reporting) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000145895334-manager-accountant-financial-reporting) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-08-20.
+This accounting position at IQ-EQ was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

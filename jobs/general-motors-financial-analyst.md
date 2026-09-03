@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toluca, México, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Toluca-Mexico-Mexico/Financial-Analyst_JR-202616658) |
+| Location | National Capital Region, PH |
+| Category | Financial Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/Financial-Analyst_JR-202618356) |
 
 ## About This Role
 
-This corporate finance position at General Motors was posted on 2026-08-19.
+This financial analyst position at General Motors was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

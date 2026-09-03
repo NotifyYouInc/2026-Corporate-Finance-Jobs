@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Assistant-Finance-Controller_J2447336) |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Assistant-Finance-Controller_J2459517) |
 
 ## About This Role
 
-This corporate finance position at Jabil was posted on 2026-04-21.
+This accounting position at Jabil was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

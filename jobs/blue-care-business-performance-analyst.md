@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Care](https://scoutify.ai/companies/blue-care?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brisbane, Queensland, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Brisbane/Business-Performance-Analyst_JR119041) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Brisbane/Business-Performance-Analyst_JR123479-1) |
 
 ## About This Role
 
-This corporate finance position at Blue Care was posted on 2026-02-20.
+This fp&a / strategic finance position at Blue Care was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

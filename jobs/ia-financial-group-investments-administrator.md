@@ -5,12 +5,12 @@
 | Company | [iA Financial Group](https://scoutify.ai/companies/ia-financial-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/Professional/job/Toronto-Ontario/Investments-Administrator_JR10027246) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/Professional/job/Edmonton-Alberta/Investments-Administrator_JR10027565) |
 
 ## About This Role
 
-This wealth management / private banking position at iA Financial Group was posted on 2026-07-23.
+This wealth management / private banking position at iA Financial Group was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

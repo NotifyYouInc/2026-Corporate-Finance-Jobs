@@ -1,16 +1,16 @@
-# FINANCE ANALYST at Sanofi
+# Finance Analyst at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/FINANCE-ANALYST_R2865543-1) |
+| Category | Financial Analyst |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/Finance-Analyst_R2868004-1) |
 
 ## About This Role
 
-This corporate finance position at Sanofi was posted on 2026-08-12.
+This financial analyst position at Sanofi was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

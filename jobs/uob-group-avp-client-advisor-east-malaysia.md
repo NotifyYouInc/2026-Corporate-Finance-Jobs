@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 6 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-22 |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Kuching-City-Area/AVP--Client-Advisor--East-Malaysia-_JR68850) |
 
 ## About This Role
 
-This corporate finance position at UOB Group was posted on 2026-04-22.
+This wealth management / private banking position at UOB Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

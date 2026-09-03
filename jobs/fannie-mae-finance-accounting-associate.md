@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fannie Mae](https://scoutify.ai/companies/fannie-mae?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Finance---Accounting---Associate_JR2760) |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Finance---Accounting---Associate_JR2781) |
 
 ## About This Role
 
-This corporate finance position at Fannie Mae was posted on 2026-08-07.
+This accounting position at Fannie Mae was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

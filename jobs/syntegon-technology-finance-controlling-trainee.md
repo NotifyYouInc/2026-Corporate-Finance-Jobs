@@ -1,16 +1,16 @@
-# Finance & Controlling Trainee  at Syntegon Technology
+# Finance & Controlling Trainee at Syntegon Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Weert, Limburg, The Netherlands |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000145432479-finance-controlling-trainee) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000145900914-finance-controlling-trainee) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Syntegon Technology was posted on 2026-08-25.
+This fp&a / strategic finance position at Syntegon Technology was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

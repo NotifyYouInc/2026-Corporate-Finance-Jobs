@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
+| Category | Accounting |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/IN---Hyderabad/Cost-Controller_R75726) |
 
 ## About This Role
 
-This corporate finance position at Lonza Group was posted on 2026-04-17.
+This accounting position at Lonza Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

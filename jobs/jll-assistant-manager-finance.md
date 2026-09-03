@@ -1,16 +1,16 @@
-# Assistant Manager Finance at JLL
+# Assistant Manager - Finance at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Noida-UP/Assistant-Manager-Finance_REQ468955) |
+| Location | Gurugram, Haryana, India |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Assistant-Manager---Finance_REQ525556) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-02-20.
+This fp&a / strategic finance position at JLL was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Investment Banking Senior Analyst, Industrials at Citigroup
+# Investment Banking Senior Analyst - Industrials at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Investment Banking |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Senior-Analyst--Industrials_26979836) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Investment-Banking-Senior-Analyst---Industrials_26990572) |
 
 ## About This Role
 
-This investment banking position at Citigroup was posted on 2026-07-20.
+This investment banking position at Citigroup was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

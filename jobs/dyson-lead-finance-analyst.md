@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---Technology-Centre/Lead-Finance-Analyst_JR35654) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---Technology-Centre/Lead-Finance-Analyst_JR38226) |
 
 ## About This Role
 
-This corporate finance position at Dyson was posted on 2026-04-06.
+This fp&a / strategic finance position at Dyson was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

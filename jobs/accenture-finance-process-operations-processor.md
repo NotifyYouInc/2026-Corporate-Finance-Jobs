@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dalian, Liaoning, China |
 | Category | Accounting |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Finance-Process---Operations-Processor_14669426) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Finance-Process---Operations-Processor_14586875) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-08-26.
+This accounting position at Accenture was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

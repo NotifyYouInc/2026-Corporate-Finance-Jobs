@@ -5,12 +5,12 @@
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-06-10 |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Developed-Asia-Rates-Market-Strategist-Hong-Kong/14531) |
 
 ## About This Role
 
-This corporate finance position at Bloomberg was posted on 2026-06-10.
+This corporate finance position at Bloomberg was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

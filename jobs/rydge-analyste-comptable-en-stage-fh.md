@@ -1,16 +1,16 @@
-# Analyste Comptable en stage F/H at Rydge
+# Analyste Comptable en Stage (F/H) at Rydge
 
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Lorient, Brittany, France |
 | Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000139930331-analyste-comptable-en-stage-fh) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000145919819-analyste-comptable-en-stage-fh) |
 
 ## About This Role
 
-This accounting position at Rydge was posted on 2026-07-27.
+This accounting position at Rydge was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

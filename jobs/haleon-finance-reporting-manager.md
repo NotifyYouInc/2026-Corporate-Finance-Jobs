@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Finance-Reporting-Manager_545780) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Finance-Reporting-Manager_547332) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Haleon was posted on 2026-07-11.
+This fp&a / strategic finance position at Haleon was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Soho House & Co.](https://scoutify.ai/companies/soho-house-co?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Accounting |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4953317101) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4961895101) |
 
 ## About This Role
 
-This accounting position at Soho House & Co. was posted on 2026-08-14.
+This accounting position at Soho House & Co. was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

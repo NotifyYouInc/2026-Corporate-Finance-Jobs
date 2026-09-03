@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Malaysia-Kuala-Lumpur-BSC/Analyst--Accounts-Payable_Req-46384-1) |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Malaysia-Kuala-Lumpur-BSC/Analyst--Accounts-Payable_Req-50462) |
 
 ## About This Role
 
-This corporate finance position at Edwards Lifesciences was posted on 2026-03-04.
+This accounting position at Edwards Lifesciences was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

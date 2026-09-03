@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
-| Category | Project Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000141848829-amer-east-service-delivery-lead-project-accounting) |
+| Location | Bucharest, București, Romania |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000145892495-amer-east-service-delivery-lead-project-accounting) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-08-06.
+This accounting position at AECOM was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avient](https://scoutify.ai/companies/ocs-cx-oj8350?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chon Buri, Chon Buri, Thailand |
+| Location | 3 locations |
 | Category | Accounting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#40001233) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#40001349) |
 
 ## About This Role
 
-This accounting position at Avient was posted on 2026-08-04.
+This accounting position at Avient was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

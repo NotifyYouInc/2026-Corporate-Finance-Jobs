@@ -1,16 +1,16 @@
-# Comptable fournisseurs H/F at Spie batignolles
+# Comptable fournisseurs - H/F at Spie batignolles
 
 | Field | Details |
 |-------|---------|
 | Company | [Spie batignolles](https://scoutify.ai/companies/spiebatignolles?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Spie-batignolles/744000145451419-comptable-fournisseurs-hf) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Spie-batignolles/744000145912089-comptable-fournisseurs-hf) |
 
 ## About This Role
 
-This accounting position at Spie batignolles was posted on 2026-08-25.
+This accounting position at Spie batignolles was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

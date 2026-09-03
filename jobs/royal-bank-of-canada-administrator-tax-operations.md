@@ -1,16 +1,16 @@
-# Administrator, Tax Operations at Royal Bank of Canada
+# Administrator - Tax Operations at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Halifax, Nova Scotia, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Administrator--Tax-Operations_R-0000162601-1) |
+| Category | Financial Analyst |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Administrator---Tax-Operations_R-0000184233) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-18.
+This financial analyst position at Royal Bank of Canada was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

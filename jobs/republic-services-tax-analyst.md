@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Tax-Analyst_R-167972-1) |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Tax-Analyst_R-182670) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-02-17.
+This accounting position at Republic Services was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

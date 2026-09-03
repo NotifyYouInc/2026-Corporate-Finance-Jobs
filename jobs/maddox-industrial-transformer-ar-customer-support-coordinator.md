@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Maddox Industrial Transformer](https://scoutify.ai/companies/maddoxindustrialtransformer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Moscow, Idaho, United States |
+| Location | Greer, South Carolina, United States |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/maddoxindustrialtransformer/jobs/4668775007) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/maddoxindustrialtransformer/jobs/4668746007) |
 
 ## About This Role
 
-This accounting position at Maddox Industrial Transformer was posted on 2026-08-25.
+This accounting position at Maddox Industrial Transformer was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

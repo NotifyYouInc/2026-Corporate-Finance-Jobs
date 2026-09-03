@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Pune-India---Commerzone-Building-7/Senior-Associate---Financial-Services-Operations_R44795) |
+| Category | Financial Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Pune-India---Commerzone-Building-7/Senior-Associate---Financial-Services-Operations_R44807) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-08-26.
+This financial analyst position at SS&C Technologies was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

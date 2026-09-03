@@ -5,12 +5,12 @@
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Romania |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000145456209-gl-accountant-with-french) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000145919104-gl-accountant-with-french) |
 
 ## About This Role
 
-This accounting position at Coface was posted on 2026-08-25.
+This accounting position at Coface was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

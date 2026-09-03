@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TOMRA](https://scoutify.ai/companies/tomra?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tomter, Østfold, Norway |
-| Category | Corporate Finance |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000141848294-plant-accountant-and-controller) |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000145949199-plant-accountant-and-controller) |
 
 ## About This Role
 
-This corporate finance position at TOMRA was posted on 2026-08-06.
+This accounting position at TOMRA was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

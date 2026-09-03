@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Leeds, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Leeds-West-Yorkshire-United-Kingdom/SFA--FP-A-Data---Analytics_R-076241-2) |
+| Location | Raynham, Massachusetts, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/SFA--FP-A-Data---Analytics_R-096007-1) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-05-24.
+This fp&a / strategic finance position at Johnson & Johnson was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
