@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Acquisition-Integration-Specialist_2014054-1) |
+| Location | 3 locations |
+| Category | Corporate Development & M&A |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Acquisition-Integration-Specialist_2024046) |
 
 ## About This Role
 
-This corporate finance position at Cisco was posted on 2026-05-22.
+This corporate development & m&a position at Cisco was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

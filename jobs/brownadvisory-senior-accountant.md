@@ -5,12 +5,12 @@
 | Company | [Brownadvisory](https://scoutify.ai/companies/brownadvisory?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Baltimore, Maryland, United States |
 | Category | Accounting |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://brownadvisory.wd1.myworkdayjobs.com/brown/job/Baltimore-MD/Senior-Accountant_JR1778) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://brownadvisory.wd1.myworkdayjobs.com/brown/job/Baltimore-MD/Senior-Accountant_JR1786-6) |
 
 ## About This Role
 
-This accounting position at Brownadvisory was posted on 2026-08-19.
+This accounting position at Brownadvisory was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

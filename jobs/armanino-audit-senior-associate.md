@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | San Jose, California, United States |
 | Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/St-Louis-Missouri/Audit-Senior-Associate_JR104200) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/San-Jose-California/Audit-Senior-Associate_JR104252-1) |
 
 ## About This Role
 
-This accounting position at Armanino was posted on 2026-08-13.
+This accounting position at Armanino was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

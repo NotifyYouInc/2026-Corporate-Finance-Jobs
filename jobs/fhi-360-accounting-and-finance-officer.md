@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Jakarta-Indonesia/Accounting-and-Finance-Officer_Requisition-2026200721) |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Jakarta-Indonesia/Accounting-and-Finance-Officer_Requisition-2026201203) |
 
 ## About This Role
 
-This corporate finance position at Fhi 360 was posted on 2026-04-28.
+This accounting position at Fhi 360 was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/JTC-Summit/Assistant-Manager-Manager--Financial-Planning---Budgeting---2-years-contract-_JR-10000054505) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/JTC-Summit/Assistant-Manager-Manager--Financial-Planning---Budgeting---2-years-contract-_JR-10000054903) |
 
 ## About This Role
 
-This corporate finance position at Economic Development Board was posted on 2026-08-18.
+This fp&a / strategic finance position at Economic Development Board was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

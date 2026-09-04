@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vuori, Inc](https://scoutify.ai/companies/vuori-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Carlsbad, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vuoriinc/744000120032169-sr-manager-fpa-dtc-wholesale) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vuoriinc/744000146079429-sr-manager-fpa-dtc-wholesale) |
 
 ## About This Role
 
-This corporate finance position at Vuori, Inc was posted on 2026-04-10.
+This fp&a / strategic finance position at Vuori, Inc was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

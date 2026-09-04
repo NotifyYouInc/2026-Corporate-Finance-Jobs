@@ -1,16 +1,16 @@
-# Credit - Senior Accountant at Petra Funds Group
+# Credit Senior Accountant  at Petra Funds Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Petra Funds Group](https://scoutify.ai/companies/petrafundsgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/petrafundsgroup/jobs/5279247008) |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/petrafundsgroup/jobs/5408831008) |
 
 ## About This Role
 
-This corporate finance position at Petra Funds Group was posted on 2026-06-24.
+This accounting position at Petra Funds Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

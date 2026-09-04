@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Accounting |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Vancouver-British-Columbia-Canada/Property-Accountant_JR18240) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/Property-Accountant_JR18453) |
 
 ## About This Role
 
-This accounting position at Colliers was posted on 2026-07-28.
+This accounting position at Colliers was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

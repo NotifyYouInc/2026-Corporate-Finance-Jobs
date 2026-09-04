@@ -5,12 +5,12 @@
 | Company | [Audemars Piguet](https://scoutify.ai/companies/audemarspiguet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AudemarsPiguet/744000143753619-senior-accountant) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AudemarsPiguet/744000146108273-senior-accountant) |
 
 ## About This Role
 
-This accounting position at Audemars Piguet was posted on 2026-08-17.
+This accounting position at Audemars Piguet was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

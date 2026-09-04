@@ -1,16 +1,16 @@
-# Senior Revenue Accountant at Riot Games
+# Senior Revenue Accountant  at Riot Games
 
 | Field | Details |
 |-------|---------|
 | Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8104458?gh_jid=8104458) |
+| Location | Los Angeles, California, United States |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8160864?gh_jid=8160864) |
 
 ## About This Role
 
-This corporate finance position at Riot Games was posted on 2026-08-05.
+This accounting position at Riot Games was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

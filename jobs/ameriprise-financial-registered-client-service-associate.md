@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Atlanta-Georgia/Registered-Client-Service-Associate_R26_3393-2) |
+| Location | Southlake, Texas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Southlake-Texas/Registered-Client-Service-Associate_R26_3469) |
 
 ## About This Role
 
-This wealth management / private banking position at Ameriprise Financial was posted on 2026-08-24.
+This corporate finance position at Ameriprise Financial was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

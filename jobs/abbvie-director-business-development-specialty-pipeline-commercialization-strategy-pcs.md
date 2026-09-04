@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Illinois, US |
 | Category | Corporate Development & M&A |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014484406-director-business-development-specialty-pipeline-commercialization-strategy-pcs) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014908246-director-business-development-specialty-pipeline-commercialization-strategy-pcs) |
 
 ## About This Role
 
-This corporate development & m&a position at AbbVie was posted on 2026-08-06.
+This corporate development & m&a position at AbbVie was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Associate-Accounting-Specialist_R2065754) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Accounting-Specialist_R2068209-1) |
 
 ## About This Role
 
-This corporate finance position at Dow was posted on 2026-03-13.
+This accounting position at Dow was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

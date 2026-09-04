@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Ho-Chi-Minh-City-VN-AIA-Vietnam/Intern--Actuarial-IFRS17_JR-64578) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Ho-Chi-Minh-City-VN-AIA-Vietnam/Actuarial-IFRS17-Intern_JR-69516) |
 
 ## About This Role
 
-This corporate finance position at AIA Group was posted on 2026-05-05.
+This corporate finance position at AIA Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

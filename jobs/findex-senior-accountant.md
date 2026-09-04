@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Findex](https://scoutify.ai/companies/ap1-cx-oj37128?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hamilton, Waikato Region, New Zealand |
+| Location | New Zealand |
 | Category | Accounting |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5476) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5519) |
 
 ## About This Role
 
-This accounting position at Findex was posted on 2026-08-11.
+This accounting position at Findex was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

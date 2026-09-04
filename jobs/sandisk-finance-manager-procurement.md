@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milpitas, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000123794949-finance-manager-procurement) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000146071520-finance-manager-procurement) |
 
 ## About This Role
 
-This corporate finance position at SanDisk was posted on 2026-04-29.
+This fp&a / strategic finance position at SanDisk was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

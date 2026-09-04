@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ranchi, Jharkhand, India |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#254995) |
+| Location | Delhi, Delhi, India |
+| Category | Corporate Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#255132) |
 
 ## About This Role
 
-This wealth management / private banking position at Kotak Mahindra Bank was posted on 2026-08-27.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

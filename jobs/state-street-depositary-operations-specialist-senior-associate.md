@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
-| Category | Financial Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Depositary-Operations-Specialist--Senior-Associate_R-796442) |
+| Location | 2 locations |
+| Category | Corporate Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Depositary-Operations-Specialist--Senior-Associate_R-796882) |
 
 ## About This Role
 
-This financial analyst position at State Street was posted on 2026-08-21.
+This corporate finance position at State Street was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

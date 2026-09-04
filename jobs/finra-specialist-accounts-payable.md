@@ -5,12 +5,12 @@
 | Company | [Finra](https://scoutify.ai/companies/finra?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rockville, Maryland, United States |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://finra.wd1.myworkdayjobs.com/finra/job/Rockville-MD-Job-Posting/Specialist--Accounts-Payable_R-010107) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://finra.wd1.myworkdayjobs.com/finra/job/Rockville-MD-Job-Posting/Specialist--Accounts-Payable_R-010213) |
 
 ## About This Role
 
-This accounting position at Finra was posted on 2026-07-17.
+This accounting position at Finra was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

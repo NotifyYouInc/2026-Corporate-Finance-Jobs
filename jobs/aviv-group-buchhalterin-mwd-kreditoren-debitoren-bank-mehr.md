@@ -5,12 +5,12 @@
 | Company | [AVIV Group](https://scoutify.ai/companies/avivgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Leipzig, Saxony, Germany |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AVIVGroup/744000145447219-buchhalterin-mwd-kreditoren-debitoren-bank-mehr) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AVIVGroup/744000146131849-buchhalterin-mwd-kreditoren-debitoren-bank-mehr) |
 
 ## About This Role
 
-This accounting position at AVIV Group was posted on 2026-08-25.
+This accounting position at AVIV Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

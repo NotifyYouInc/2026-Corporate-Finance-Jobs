@@ -1,16 +1,16 @@
-# Collaborateur Comptable Expérimenté F/H at Rydge
+# Collaborateur comptable Expérimenté F/H at Rydge
 
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | La Rochelle, Nouvelle-Aquitaine, France |
+| Location | Longuenesse, Hauts-de-France, France |
 | Category | Accounting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000141419310-collaborateur-comptable-experimente-fh) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000146120854-collaborateur-comptable-experimente-fh) |
 
 ## About This Role
 
-This accounting position at Rydge was posted on 2026-08-04.
+This accounting position at Rydge was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

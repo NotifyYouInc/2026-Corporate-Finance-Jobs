@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Knoxville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LOS-ANGELES-CA/Senior-Client-Associate_R-552950) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/KNOXVILLE-TN/Senior-Client-Associate_R-570948) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-16.
+This corporate finance position at Wells Fargo was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

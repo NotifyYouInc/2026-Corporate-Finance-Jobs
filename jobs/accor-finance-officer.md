@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Darwin, Northern Territory, Australia |
 | Category | Accounting |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000145676820-finance-officer) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000146099551-finance-officer) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-26.
+This accounting position at ACCOR was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

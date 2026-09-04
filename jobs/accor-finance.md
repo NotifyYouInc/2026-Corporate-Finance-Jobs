@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000135413070-finance) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000146099447-finance) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-02.
+This accounting position at ACCOR was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

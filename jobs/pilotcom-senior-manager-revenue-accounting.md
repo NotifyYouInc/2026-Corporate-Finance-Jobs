@@ -5,12 +5,12 @@
 | Company | [Pilot.com](https://scoutify.ai/companies/pilotcom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Accounting |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pilothq/jobs/8722771002) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pilothq/jobs/8758698002) |
 
 ## About This Role
 
-This accounting position at Pilot.com was posted on 2026-08-18.
+This accounting position at Pilot.com was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

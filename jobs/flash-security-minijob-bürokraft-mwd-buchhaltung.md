@@ -5,12 +5,12 @@
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000138260990-minijob-burokraft-mwd-buchhaltung) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000146114770-minijob-burokraft-mwd-buchhaltung) |
 
 ## About This Role
 
-This accounting position at flash-security was posted on 2026-07-17.
+This accounting position at flash-security was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

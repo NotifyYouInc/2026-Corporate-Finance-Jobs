@@ -5,12 +5,12 @@
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Senior-Director--Wealth-Management---Frisco--TX_R260300478-1) |
 
 ## About This Role
 
-This corporate finance position at TIAA was posted on 2026-04-07.
+This corporate finance position at TIAA was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

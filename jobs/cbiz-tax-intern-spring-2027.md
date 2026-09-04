@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CBIZ](https://scoutify.ai/companies/us2-cx-oj18566?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westlake Village, California, United States |
+| Location | Akron, Ohio, United States |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://ebez.fa.us2.oraclecloud.com/jobs/#20923) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ebez.fa.us2.oraclecloud.com/jobs/#20330) |
 
 ## About This Role
 
-This accounting position at CBIZ was posted on 2026-08-25.
+This accounting position at CBIZ was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

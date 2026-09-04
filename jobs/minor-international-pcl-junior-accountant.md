@@ -5,12 +5,12 @@
 | Company | [Minor International PCL](https://scoutify.ai/companies/minorinternationalpcl?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Maroochydore, Queensland, Australia |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000145413554-junior-accountant) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000146114539-junior-accountant) |
 
 ## About This Role
 
-This accounting position at Minor International PCL was posted on 2026-08-25.
+This accounting position at Minor International PCL was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

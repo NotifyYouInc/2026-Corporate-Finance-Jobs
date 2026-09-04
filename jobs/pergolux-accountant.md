@@ -5,12 +5,12 @@
 | Company | [Pergolux](https://scoutify.ai/companies/pergolux?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bielany Wrocławskie, Lower Silesia, Poland |
 | Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/pergolux/944b0f80-3861-4773-a9e9-c861ad748f1b) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pergolux/0cb81b69-d7a5-4f2d-99e4-bd855098c78e) |
 
 ## About This Role
 
-This accounting position at Pergolux was posted on 2026-07-29.
+This accounting position at Pergolux was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

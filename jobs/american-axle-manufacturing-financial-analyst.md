@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Axle & Manufacturing](https://scoutify.ai/companies/aampower?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Detroit, Michigan, United States |
-| Category | Corporate Finance |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Detroit-MI/Financial-Analyst_JREQ-223515-2) |
+| Location | Oleśnica, Lower Silesia, Poland |
+| Category | Financial Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Olesnica-Poland/Financial-Analyst_JREQ-224558) |
 
 ## About This Role
 
-This corporate finance position at American Axle & Manufacturing was posted on 2026-07-30.
+This financial analyst position at American Axle & Manufacturing was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

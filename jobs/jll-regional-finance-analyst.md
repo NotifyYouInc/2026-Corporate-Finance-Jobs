@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Financial Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Regional-Finance-Analyst_REQ530345) |
+| Location | Shah Alam, Selangor, Malaysia |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Shah-Alam-Malaysia/Regional-Finance-Analyst_REQ531385) |
 
 ## About This Role
 
-This financial analyst position at JLL was posted on 2026-08-24.
+This fp&a / strategic finance position at JLL was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

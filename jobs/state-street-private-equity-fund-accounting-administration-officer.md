@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
+| Category | Accounting |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Private-Equity--Fund-Accounting---Administration--Officer_R-789543) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-05.
+This accounting position at State Street was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

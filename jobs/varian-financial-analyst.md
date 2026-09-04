@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-GR/Financial-Analyst_R-28905) |
+| Location | China |
+| Category | Financial Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PEK-CJ/Financial-Analyst_R-30257) |
 
 ## About This Role
 
-This corporate finance position at Varian was posted on 2026-06-05.
+This financial analyst position at Varian was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

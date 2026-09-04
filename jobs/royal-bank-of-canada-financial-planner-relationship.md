@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Financial-Planner-Relationship_R-0000183538-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Financial-Planner-Relationship_R-0000168153-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-08-07.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

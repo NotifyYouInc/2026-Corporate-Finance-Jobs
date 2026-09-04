@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Taipei-Taiwan/Accountant_R553340-1) |
+| Location | Costa Rica |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Antonio-de-Belen-Costa-Rica/Accountant_R569561) |
 
 ## About This Role
 
-This corporate finance position at Stryker was posted on 2026-03-20.
+This accounting position at Stryker was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

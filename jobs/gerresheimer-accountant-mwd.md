@@ -5,12 +5,12 @@
 | Company | [Gerresheimer](https://scoutify.ai/companies/gerresheimer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bünde, North Rhine-Westphalia, Germany |
 | Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gerresheimer/744000137045579-accountant-mwd) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gerresheimer/744000146155109-accountant-mwd) |
 
 ## About This Role
 
-This accounting position at Gerresheimer was posted on 2026-07-10.
+This accounting position at Gerresheimer was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

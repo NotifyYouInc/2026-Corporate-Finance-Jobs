@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Ho-Chi-Minh-City/Accountant_R_00103058) |
+| Location | Jeffersonville, Indiana, United States |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Jeffersonville-IN/Accountant_R_00103903) |
 
 ## About This Role
 
-This corporate finance position at Freudenberg Group was posted on 2026-06-04.
+This accounting position at Freudenberg Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

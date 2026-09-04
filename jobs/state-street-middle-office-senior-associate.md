@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Corporate Finance |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Middle-Office--Senior-Associate_R-796550) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Middle-Office--Senior-Associate_R-796535) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-08-26.
+This corporate finance position at State Street was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

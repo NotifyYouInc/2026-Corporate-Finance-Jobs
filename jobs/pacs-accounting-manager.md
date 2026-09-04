@@ -5,12 +5,12 @@
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
 | Category | Accounting |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/PACS/Accounting-Manager_JR177036-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/PACS/Accounting-Manager_JR180130-1) |
 
 ## About This Role
 
-This accounting position at Pacs was posted on 2026-08-01.
+This accounting position at Pacs was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

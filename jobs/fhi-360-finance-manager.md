@@ -1,16 +1,16 @@
-# FINANCE MANAGER at Fhi 360
+# Finance Manager at Fhi 360
 
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bunia, Ituri, Democratic Republic of the Congo |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Bunia-DRC/FINANCE-MANAGER_Requisition-2026201086) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Jakarta-Indonesia/Finance-Manager_Requisition-2026201188) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Fhi 360 was posted on 2026-07-29.
+This fp&a / strategic finance position at Fhi 360 was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

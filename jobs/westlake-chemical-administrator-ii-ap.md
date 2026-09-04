@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Westlake Chemical](https://scoutify.ai/companies/westlake-chemical?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Stafford, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Stafford-TX/Administrator-II---AP_R32309) |
+| Location | Houston, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/Administrator-II---AP_R33462) |
 
 ## About This Role
 
-This corporate finance position at Westlake Chemical was posted on 2026-05-15.
+This accounting position at Westlake Chemical was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

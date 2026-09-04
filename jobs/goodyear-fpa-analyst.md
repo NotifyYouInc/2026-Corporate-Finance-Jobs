@@ -5,12 +5,12 @@
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/PH-GBS-Manila/FP-A-Analyst_JR-40110260) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/PH-GBS-Manila/FP-A-Analyst_JR-40111789) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Goodyear was posted on 2026-07-02.
+This fp&a / strategic finance position at Goodyear was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

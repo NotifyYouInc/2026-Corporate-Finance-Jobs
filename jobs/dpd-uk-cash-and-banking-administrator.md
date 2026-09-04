@@ -5,12 +5,12 @@
 | Company | [DPD UK](https://scoutify.ai/companies/dpduk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bristol, England, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DPDGroupUK1/744000144729049-cash-and-banking-administrator) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DPDGroupUK1/744000146128973-cash-and-banking-administrator) |
 
 ## About This Role
 
-This accounting position at DPD UK was posted on 2026-08-21.
+This accounting position at DPD UK was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bend, Oregon, United States |
+| Location | San Diego, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/2220-NORTHWEST-LABICHE-LANEBEND/Client-Associate_R-0000185053) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/San-Diego-California-United-States-of-America/Client-Associate_R-0000186129) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-08-25.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

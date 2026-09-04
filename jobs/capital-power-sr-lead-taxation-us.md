@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Power](https://scoutify.ai/companies/capitalpower?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://capitalpower.wd10.myworkdayjobs.com/External/job/Home-Office---USA/Sr-Lead--Taxation--US-_JR806856) |
+| Location | Edmonton, Alberta, Canada |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Sr-Lead--Taxation--US-_JR807154) |
 
 ## About This Role
 
-This corporate finance position at Capital Power was posted on 2026-03-02.
+This accounting position at Capital Power was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
