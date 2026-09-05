@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arisa Health](https://scoutify.ai/companies/arisa-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Springdale, Arkansas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://recruiting.ultipro.com/oza1000/JobBoard/027d36c9-c6b1-72d5-d53f-1559ca224f28/OpportunityDetail?opportunityId=fb04e68e-f32f-4d93-9c4f-0088b80c550e) |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://recruiting.ultipro.com/oza1000/JobBoard/027d36c9-c6b1-72d5-d53f-1559ca224f28/OpportunityDetail?opportunityId=17165d45-f13a-410a-ba28-7fde5d3d5c50) |
 
 ## About This Role
 
-This corporate finance position at Arisa Health was posted on 2026-05-27.
+This accounting position at Arisa Health was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

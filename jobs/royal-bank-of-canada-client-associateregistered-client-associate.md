@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Palm Beach Gardens, Florida, United States |
+| Location | Spokane, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Palm-Beach-Gardens-Florida-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000182895-2) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Spokane-Washington-United-States-of-America/Client-Associate-Registered-Client-Associate_R-0000185796) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-08-07.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Laval, Quebec, Canada |
-| Category | Financial Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-QC10000052-ACT-Laval-QC/Senior-Financial-Analyst--Financial-Information-and-Controls_R604867) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-QC10000052-ACT-Laval-QC/Senior-Financial-Analyst--Financial-Information-and-Controls_R616699) |
 
 ## About This Role
 
-This financial analyst position at Alimentation Couche-Tard was posted on 2026-07-14.
+This fp&a / strategic finance position at Alimentation Couche-Tard was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

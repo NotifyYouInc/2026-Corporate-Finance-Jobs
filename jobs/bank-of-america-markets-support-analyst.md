@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Markets-Support-Analyst_25048389-2) |
+| Location | Jacksonville, Florida, United States |
+| Category | Financial Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Markets-Support-Analyst_26030173-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-31.
+This financial analyst position at Bank of America was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

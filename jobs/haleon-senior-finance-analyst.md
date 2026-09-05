@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Financial Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Malaysia---Petaling-Jaya/Senior-Finance-Analyst-3_546391) |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Malaysia---Petaling-Jaya/Senior-Finance-Analyst_547462) |
 
 ## About This Role
 
-This financial analyst position at Haleon was posted on 2026-07-23.
+This accounting position at Haleon was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

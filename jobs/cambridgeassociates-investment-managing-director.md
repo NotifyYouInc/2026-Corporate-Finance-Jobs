@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cambridgeassociates](https://scoutify.ai/companies/cambridgeassociates?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cambridgeassociates.wd5.myworkdayjobs.com/cambridge_associates/job/Hong-Kong/Investment-Managing-Director_JR0000234) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cambridgeassociates.wd5.myworkdayjobs.com/cambridge_associates/job/Boston/Investment-Managing-Director_JR0000389) |
 
 ## About This Role
 
-This corporate finance position at Cambridgeassociates was posted on 2026-05-05.
+This corporate finance position at Cambridgeassociates was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

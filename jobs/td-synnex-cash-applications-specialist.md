@@ -5,12 +5,12 @@
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/Cash-Applications-Specialist_R48743) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/Cash-Applications-Specialist_R55409) |
 
 ## About This Role
 
-This accounting position at TD Synnex was posted on 2026-08-25.
+This accounting position at TD Synnex was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

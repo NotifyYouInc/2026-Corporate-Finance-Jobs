@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Jose, California, United States |
 | Category | Corporate Development & M&A |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000144179929-senior-director-corporate-development) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000146269529-senior-director-corporate-development) |
 
 ## About This Role
 
-This corporate development & m&a position at Western Digital was posted on 2026-08-18.
+This corporate development & m&a position at Western Digital was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

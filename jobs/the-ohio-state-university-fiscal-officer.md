@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Fiscal-Officer_R151064-1) |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Fiscal-Officer_R157739-1) |
 
 ## About This Role
 
-This corporate finance position at The Ohio State University was posted on 2026-05-13.
+This accounting position at The Ohio State University was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

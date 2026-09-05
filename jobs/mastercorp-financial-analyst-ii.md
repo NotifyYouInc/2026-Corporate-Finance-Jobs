@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercorp](https://scoutify.ai/companies/mastercorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Orlando, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://mastercorp.wd1.myworkdayjobs.com/mc/job/Orlando-FL/Finane-Analyst-II_JR107419) |
+| Category | Financial Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://mastercorp.wd1.myworkdayjobs.com/mc/job/Orlando-FL/Financial-Analyst-II_JR108182) |
 
 ## About This Role
 
-This corporate finance position at Mastercorp was posted on 2026-06-19.
+This financial analyst position at Mastercorp was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

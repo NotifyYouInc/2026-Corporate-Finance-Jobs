@@ -5,12 +5,12 @@
 | Company | [Skilled Wound Care](https://scoutify.ai/companies/skilled-wound-care?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | California, US |
 | Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/skilledwoundcare/jobs/7822934003) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/skilledwoundcare/jobs/7980536003) |
 
 ## About This Role
 
-This accounting position at Skilled Wound Care was posted on 2026-07-31.
+This accounting position at Skilled Wound Care was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

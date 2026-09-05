@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
+| Category | Accounting |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Business-Unit-Accountant_R102342) |
 
 ## About This Role
 
-This corporate finance position at Regions Bank was posted on 2026-04-29.
+This accounting position at Regions Bank was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

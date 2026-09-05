@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Berkadia](https://scoutify.ai/companies/berkadia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Financial Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/berkadia/jobs/7763745003?gh_jid=7763745003) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/berkadia/jobs/7980805003?gh_jid=7980805003) |
 
 ## About This Role
 
-This financial analyst position at Berkadia was posted on 2026-07-06.
+This financial analyst position at Berkadia was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

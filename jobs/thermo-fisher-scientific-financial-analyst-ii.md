@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ottawa, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ottawa-Canada/Financial-Analyst-II_R-01363087) |
+| Location | Greenville, North Carolina, United States |
+| Category | Financial Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Financial-Analyst-II_R-01366081) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-08-12.
+This financial analyst position at Thermo Fisher Scientific was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

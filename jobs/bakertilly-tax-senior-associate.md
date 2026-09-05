@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | Denver, Colorado, United States |
 | Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/Madison-WI/Tax-Senior-Associate_JR107083) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-CO-Denver-675-15th-Street/Tax-Senior-Associate_JR107650) |
 
 ## About This Role
 
-This accounting position at Bakertilly was posted on 2026-07-20.
+This accounting position at Bakertilly was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

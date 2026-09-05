@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/New-York-NY/Managing-Director--Institutional-Municipal-Trading_R0070956) |
+| Location | New York City, New York, United States |
+| Category | Sales & Trading |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/New-York/Managing-Director--Institutional-Municipal-Trading_R0075138) |
 
 ## About This Role
 
-This corporate finance position at Huntington Bancshares was posted on 2026-04-03.
+This sales & trading position at Huntington Bancshares was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

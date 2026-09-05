@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Overland Park, Kansas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Manager--Commissions_REQ348704-1) |
 
 ## About This Role
 
-This corporate finance position at T-Mobile was posted on 2026-05-29.
+This fp&a / strategic finance position at T-Mobile was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

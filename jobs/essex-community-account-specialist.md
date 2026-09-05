@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essex](https://scoutify.ai/companies/essex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | San Jose, California, United States |
 | Category | Accounting |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://essex.wd5.myworkdayjobs.com/essexcareers/job/Los-Angeles---North/Community-Account-Specialist_R9302) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://essex.wd5.myworkdayjobs.com/essexcareers/job/Bay-Area---South/Community-Account-Specialist_R9326) |
 
 ## About This Role
 
-This accounting position at Essex was posted on 2026-08-12.
+This accounting position at Essex was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

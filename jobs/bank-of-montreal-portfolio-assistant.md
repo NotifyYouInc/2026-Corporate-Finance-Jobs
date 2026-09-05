@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barrie, Ontario, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Barrie-ON-CAN/Portfolio-Assistant_R260023372) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Calgary-AB-CAN/Portfolio-Assistant_R260025359) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-08-07.
+This corporate finance position at Bank of Montreal was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cedar Rapids, Iowa, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Lead-Tax-Analyst_R20061610) |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Lead-Tax-Analyst_R20062601-1) |
 
 ## About This Role
 
-This corporate finance position at Transamerica was posted on 2026-05-13.
+This accounting position at Transamerica was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

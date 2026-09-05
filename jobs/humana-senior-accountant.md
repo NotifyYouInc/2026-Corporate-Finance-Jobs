@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Accountant_R-405451) |
+| Location | Louisville, Kentucky, United States |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Accountant_R-427911) |
 
 ## About This Role
 
-This corporate finance position at Humana was posted on 2026-03-04.
+This accounting position at Humana was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

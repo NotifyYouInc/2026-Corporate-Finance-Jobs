@@ -1,16 +1,16 @@
-# Credit Officer II - Registered - Global Wealth & Investment Banking - Securities Based Lending Specialist - New York City at Bank of America
+# Credit Officer II - Registered - Global Wealth & Investment Banking - Securities Based Lending Specialist - Los Angeles at Bank of America
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/NEW-YORK/Credit-Officer-II---Registered---Global-Wealth---Investment-Banking---Securities-Based-Lending-Specialist---New-York-City_26028823) |
+| Location | Los Angeles, California, United States |
+| Category | Investment Banking |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Los-Angeles/Credit-Officer-II---Registered---Global-Wealth---Investment-Banking---Securities-Based-Lending-Specialist---Los-Angeles_26031767) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-08-12.
+This investment banking position at Bank of America was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

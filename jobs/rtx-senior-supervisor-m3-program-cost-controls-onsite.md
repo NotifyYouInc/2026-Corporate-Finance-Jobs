@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Fullerton, California, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Senior-Supervisor--M3---Program-Cost-Controls--ONSITE-_01863808) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Senior-Supervisor--M3---Program-Cost-Controls--ONSITE-_01870671) |
 
 ## About This Role
 
-This fp&a / strategic finance position at RTX was posted on 2026-08-04.
+This fp&a / strategic finance position at RTX was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

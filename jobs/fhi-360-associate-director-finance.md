@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
-| Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Kyiv-Ukraine/Associate-Director--Finance_Requisition-2026200471) |
+| Location | District of Columbia, US |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/US-REMOTE-DC/Associate-Director--Finance_Requisition-2026201187) |
 
 ## About This Role
 
-This corporate finance position at Fhi 360 was posted on 2026-03-20.
+This fp&a / strategic finance position at Fhi 360 was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

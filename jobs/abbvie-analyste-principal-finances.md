@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012658546-analyste-principal-finances) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014936226-analyste-principal-finances) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-04-17.
+This fp&a / strategic finance position at AbbVie was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WalshGroup](https://scoutify.ai/companies/walshgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/FL_Tampa_218096/Project-Accountant-I_JR15742) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://walshgroup.wd12.myworkdayjobs.com/walshgroup/job/IL_Chicago_226001/Project-Accountant-I_JR16263) |
 
 ## About This Role
 
-This accounting position at WalshGroup was posted on 2026-07-20.
+This accounting position at WalshGroup was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

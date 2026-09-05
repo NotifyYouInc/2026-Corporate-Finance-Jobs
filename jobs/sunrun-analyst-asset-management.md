@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-San-Francisco/Analyst--Asset-Management_R70503) |
+| Location | 3 locations |
+| Category | Corporate Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CORPORATE---CA---San-Francisco/Analyst--Asset-Management_R73767) |
 
 ## About This Role
 
-This asset management / portfolio management position at Sunrun was posted on 2026-07-16.
+This corporate finance position at Sunrun was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

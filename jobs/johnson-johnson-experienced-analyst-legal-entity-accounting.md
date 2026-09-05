@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Accounting |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bogot-Distrito-Capital-Colombia/Experienced-Analyst--Legal-Entity-Accounting_R-093879) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bogot-Distrito-Capital-Colombia/Experienced-Analyst--Legal-Entity-Accounting_R-095963) |
 
 ## About This Role
 
-This accounting position at Johnson & Johnson was posted on 2026-08-18.
+This accounting position at Johnson & Johnson was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mirego](https://scoutify.ai/companies/mirego?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Québec, Quebec, Canada |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.lever.co/mirego/4017f0ad-78a5-4a98-89d3-295f35d6343d) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.lever.co/mirego/4962cd1e-8073-40e0-8c40-4744fe24cf60) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Mirego was posted on 2026-07-17.
+This fp&a / strategic finance position at Mirego was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

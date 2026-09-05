@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Financial-Planning---Analysis_R-273244) |
+| Location | Purchase, New York, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Financial-Planning---Analysis_R-289343) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-03-16.
+This fp&a / strategic finance position at Mastercard was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

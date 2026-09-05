@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chelsea, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Joseph-Mercy-Health-System-Hospital-Campus---Chelsea-Mi/Senior-Financial-Analyst_00649722) |
+| Location | United States |
+| Category | Financial Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/THIHA---Finance/Senior-Financial-Analyst_00689307) |
 
 ## About This Role
 
-This corporate finance position at Trinity Health was posted on 2026-03-03.
+This financial analyst position at Trinity Health was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

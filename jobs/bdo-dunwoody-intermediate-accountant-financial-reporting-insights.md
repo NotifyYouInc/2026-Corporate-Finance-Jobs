@@ -1,16 +1,16 @@
-# Intermediate Accountant,  Financial Reporting & Insights at BDO Dunwoody
+# Intermediate Accountant, Financial Reporting & Insights at BDO Dunwoody
 
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Winnipeg, Manitoba, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Winnipeg/Intermediate-Accountant---Financial-Reporting---Insights_JR5474) |
+| Location | Huntsville, Ontario, Canada |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Huntsville/Intermediate-Accountant--Financial-Reporting---Insights_JR6966) |
 
 ## About This Role
 
-This corporate finance position at BDO Dunwoody was posted on 2026-02-25.
+This accounting position at BDO Dunwoody was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nidec](https://scoutify.ai/companies/nidec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lexington, Kentucky, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Accounting-Intern_R0015426) |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Accounting-Intern_R0017315) |
 
 ## About This Role
 
-This corporate finance position at Nidec was posted on 2026-04-28.
+This accounting position at Nidec was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

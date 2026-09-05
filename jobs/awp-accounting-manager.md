@@ -5,12 +5,12 @@
 | Company | [AWP](https://scoutify.ai/companies/awp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Accounting |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AWPSafety/744000142705159-accounting-manager) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AWPSafety/744000146268419-accounting-manager) |
 
 ## About This Role
 
-This accounting position at AWP was posted on 2026-08-10.
+This accounting position at AWP was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

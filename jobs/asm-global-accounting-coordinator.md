@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Albany, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Albany-NY/Accounting-Coordinator_R100123341) |
+| Location | Virginia, US |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Henrico-VA/Accounting-Coordinator_R100125127) |
 
 ## About This Role
 
-This corporate finance position at ASM Global was posted on 2026-06-11.
+This accounting position at ASM Global was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

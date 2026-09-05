@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Victoria, British Columbia, Canada |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VICTORIA-British-Columbia-Canada/Private-Client-Associate_R-0000185677) |
+| Location | Toronto, Ontario, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Private-Client-Associate_R-0000186172) |
 
 ## About This Role
 
-This wealth management / private banking position at Royal Bank of Canada was posted on 2026-08-24.
+This corporate finance position at Royal Bank of Canada was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

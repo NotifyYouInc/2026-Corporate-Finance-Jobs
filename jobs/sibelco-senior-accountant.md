@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sibelco](https://scoutify.ai/companies/sibelco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://sibelco.wd502.myworkdayjobs.com/sibelco-careers/job/SP-Schoolhouse/Senior-Accountant_J017153) |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://sibelco.wd502.myworkdayjobs.com/sibelco-careers/job/SP-Schoolhouse/Senior-Accountant_J017838) |
 
 ## About This Role
 
-This corporate finance position at Sibelco was posted on 2026-05-21.
+This accounting position at Sibelco was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

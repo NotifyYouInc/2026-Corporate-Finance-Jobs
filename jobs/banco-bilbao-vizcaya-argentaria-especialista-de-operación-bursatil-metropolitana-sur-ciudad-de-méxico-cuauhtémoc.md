@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Cuauhtémoc, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Especialista-de-Operacin-Bursatil-Metropolitana-Sur--Ciudad-de-Mxico--Cuauhtmoc-_JR00104885) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-27.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colorado Springs, Colorado, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Colorado-Springs-Colorado---United-States/Registered-Client-Service-Associate_R-0012700) |
+| Location | Eagle, Idaho, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Eagle-Idaho---United-States/Registered-Client-Service-Associate_R-0012777) |
 
 ## About This Role
 
-This wealth management / private banking position at Raymond James Financial was posted on 2026-08-21.
+This corporate finance position at Raymond James Financial was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

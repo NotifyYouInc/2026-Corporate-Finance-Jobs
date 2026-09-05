@@ -1,16 +1,16 @@
-# Treasury Management Officer-Business Banking at UMB Financial
+# Treasury Management Officer - Business Banking at UMB Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Overland-Park-KS/Treasury-Management-Officer-Business-Banking_R-9013) |
+| Location | Missouri, US |
+| Category | Corporate Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/St-Peters-MO/Treasury-Management-Officer---Business-Banking_R-9334) |
 
 ## About This Role
 
-This treasury & capital markets position at UMB Financial was posted on 2026-07-01.
+This corporate finance position at UMB Financial was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

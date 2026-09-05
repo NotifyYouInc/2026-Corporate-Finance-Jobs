@@ -1,16 +1,16 @@
-# Credit Underwriter I - Commercial Real Estate Banking at Bank of America
+# Credit Underwriter I-Commercial Real Estate Banking at Bank of America
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Credit-Underwriter-I---Commercial-Real-Estate-Banking_26012265) |
+| Location | Newport Beach, California, United States |
+| Category | Financial Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Newport-Beach/Credit-Underwriter-I-Commercial-Real-Estate-Banking_26031819) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-22.
+This financial analyst position at Bank of America was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

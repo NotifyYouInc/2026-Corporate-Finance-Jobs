@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Location | 3 locations |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ROU---Cluj-Napoca/Accounting-Manager_R0058667) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Philadelphia-PA/Accounting-Manager_R0059376-2) |
 
 ## About This Role
 
-This accounting position at Wolters Kluwer was posted on 2026-07-23.
+This accounting position at Wolters Kluwer was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Jersey, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Credit-Underwriter-II---Global-Wealth---Investment-Management_26013102) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Financial Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Credit-Underwriter-II---Global-Wealth---Investment-Management_26031723) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-09.
+This financial analyst position at Bank of America was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

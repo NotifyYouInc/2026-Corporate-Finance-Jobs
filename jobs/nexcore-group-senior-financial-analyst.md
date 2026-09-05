@@ -5,12 +5,12 @@
 | Company | [NexCore Group](https://scoutify.ai/companies/nexcoregroup-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
 | Category | Financial Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://nexcoregroup.rec.pro.ukg.net/NGE1000NGEC/JobBoard/65e7019a-6803-40f1-8759-1d79734914b6/OpportunityDetail?opportunityId=53c5dac1-b507-4dc7-bb7c-b573c0dcc9d2) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://nexcoregroup.rec.pro.ukg.net/NGE1000NGEC/JobBoard/65e7019a-6803-40f1-8759-1d79734914b6/OpportunityDetail?opportunityId=e47e6a2a-b3ee-4160-b241-ceb7922dde4d) |
 
 ## About This Role
 
-This financial analyst position at NexCore Group was posted on 2026-08-10.
+This financial analyst position at NexCore Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

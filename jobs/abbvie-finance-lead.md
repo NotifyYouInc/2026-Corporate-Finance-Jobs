@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Illinois, US |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013610286-finance-lead) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014925806-finance-lead) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-06-12.
+This fp&a / strategic finance position at AbbVie was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

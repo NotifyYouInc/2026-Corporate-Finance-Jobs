@@ -1,16 +1,16 @@
-# Accounting Clerk at UAP
+# Accounting clerk at UAP
 
 | Field | Details |
 |-------|---------|
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cambridge, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000116277265-accounting-clerk) |
+| Location | Montréal, Quebec, Canada |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000146242169-accounting-clerk) |
 
 ## About This Role
 
-This corporate finance position at UAP was posted on 2026-03-23.
+This accounting position at UAP was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Paul, Minnesota, United States |
+| Location | Miamisburg, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Saint-Paul/Wealth-Management-Client-Associate_26031251-2) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Miamisburg/Wealth-Management-Client-Associate_26031721) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-08-25.
+This corporate finance position at Bank of America was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

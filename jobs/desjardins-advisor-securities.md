@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Assistant-ou-assistante-en-gestion-de-patrimoine_R2609666) |
+| Category | Corporate Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Assistant-ou-assistante-en-gestion-de-patrimoine_R2610689) |
 
 ## About This Role
 
-This wealth management / private banking position at Desjardins was posted on 2026-08-01.
+This corporate finance position at Desjardins was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

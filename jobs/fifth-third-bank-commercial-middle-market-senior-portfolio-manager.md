@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Jose, California, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/San-Jose-CA/Commercial-Middle-Market-Senior-Portfolio-Manager_R70980) |
+| Category | Financial Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/San-Jose-CA/Commercial-Middle-Market-Senior-Portfolio-Manager_R72297) |
 
 ## About This Role
 
-This asset management / portfolio management position at Fifth Third Bank was posted on 2026-07-23.
+This financial analyst position at Fifth Third Bank was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

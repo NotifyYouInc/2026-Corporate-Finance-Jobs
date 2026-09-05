@@ -5,12 +5,12 @@
 | Company | [Renaud-Bray](https://scoutify.ai/companies/renaudbray?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000144795449-directeur-des-finances) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000146231759-directeur-des-finances) |
 
 ## About This Role
 
-This accounting position at Renaud-Bray was posted on 2026-08-21.
+This accounting position at Renaud-Bray was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

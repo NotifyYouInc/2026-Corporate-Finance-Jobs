@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Shreveport, Louisiana, United States |
 | Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Houston-TX/Staff-Accountant_R100124072-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Shreveport-LA/Staff-Accountant_R100125146) |
 
 ## About This Role
 
-This accounting position at ASM Global was posted on 2026-07-21.
+This accounting position at ASM Global was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

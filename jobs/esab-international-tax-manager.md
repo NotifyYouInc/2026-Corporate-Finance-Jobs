@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ESAB](https://scoutify.ai/companies/esab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bethesda, Maryland, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://esab.wd5.myworkdayjobs.com/esabcareers/job/Bethesda-MD-USA/International-Tax-Manager_R0025247) |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://esab.wd5.myworkdayjobs.com/esabcareers/job/Bethesda-MD-USA/International-Tax-Manager_R0026278) |
 
 ## About This Role
 
-This corporate finance position at ESAB was posted on 2026-04-20.
+This accounting position at ESAB was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

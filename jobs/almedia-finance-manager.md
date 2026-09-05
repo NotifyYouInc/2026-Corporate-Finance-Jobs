@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Almedia](https://scoutify.ai/companies/almedia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/34895e10-4796-43e9-8db8-5db28b2ff699) |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/2d95387a-4468-45d6-a8fe-b3379ba0e610) |
 
 ## About This Role
 
-This corporate finance position at Almedia was posted on 2026-06-16.
+This accounting position at Almedia was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
