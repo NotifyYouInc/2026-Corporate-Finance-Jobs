@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eisneramper](https://scoutify.ai/companies/eisneramper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Baton Rouge, Louisiana, United States |
 | Category | Accounting |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/Philadelphia/XMLNAME-2027-Assurance-Winter-Intern_Req-8516) |
+| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/Baton-Rouge/XMLNAME-2027-Assurance-Winter-Intern_Req-8654) |
 
 ## About This Role
 

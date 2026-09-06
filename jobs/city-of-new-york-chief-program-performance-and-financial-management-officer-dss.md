@@ -1,16 +1,16 @@
-# BUDGET ANALYST at City of New York
+# CHIEF PROGRAM PERFORMANCE AND FINANCIAL MANAGEMENT OFFICER (DSS) at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | FP&A / Strategic Finance |
+| Category | Program Manager |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014937501-budget-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014937276-chief-program-performance-and-financial-management-officer-dss) |
 
 ## About This Role
 
-This fp&a / strategic finance position at City of New York was posted on 2026-08-29.
+This program manager position at City of New York was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

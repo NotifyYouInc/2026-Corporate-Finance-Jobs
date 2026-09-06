@@ -1,16 +1,16 @@
-# BUDGET ANALYST at City of New York
+# Senior Financial Analyst, Procurement at Heinz
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | FP&A / Strategic Finance |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014937501-budget-analyst) |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Senior-Financial-Analyst--Procurement_R-106190) |
 
 ## About This Role
 
-This fp&a / strategic finance position at City of New York was posted on 2026-08-29.
+This fp&a / strategic finance position at Heinz was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

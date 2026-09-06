@@ -1,16 +1,16 @@
-# BUDGET ANALYST at City of New York
+# Analyst Sr - FP&A at AMC Networks
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [AMC Networks](https://scoutify.ai/companies/amcn?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014937501-budget-analyst) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://amcn.wd5.myworkdayjobs.com/amcnetworks/job/New-York-NY/Analyst-Sr---FP-A_R-4981) |
 
 ## About This Role
 
-This fp&a / strategic finance position at City of New York was posted on 2026-08-29.
+This fp&a / strategic finance position at AMC Networks was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

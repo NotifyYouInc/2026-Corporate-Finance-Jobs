@@ -1,16 +1,16 @@
-# BUDGET ANALYST at City of New York
+# Winter 2027 Tax Intern (New York) at Armanino
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | FP&A / Strategic Finance |
+| Category | Accounting |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014937501-budget-analyst) |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/New-York-City-New-York-Madison-Ave/Winter-2027-Tax-Intern--New-York-_JR104259) |
 
 ## About This Role
 
-This fp&a / strategic finance position at City of New York was posted on 2026-08-29.
+This accounting position at Armanino was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

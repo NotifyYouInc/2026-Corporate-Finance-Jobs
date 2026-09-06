@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hartford, Connecticut, United States |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Actuarial-Leadership-Development-Program--ALDP--Intern_R-51329) |
+| Category | Leadership Development Program |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Actuarial-Leadership-Development-Program--ALDP--Intern_R-52299) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Travelers was posted on 2026-07-03.
+This leadership development program position at Travelers was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

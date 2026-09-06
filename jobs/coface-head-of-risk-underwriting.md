@@ -5,12 +5,12 @@
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Financial Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000145885849-head-of-risk-underwriting) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000146304349-head-of-risk-underwriting) |
 
 ## About This Role
 
-This financial analyst position at Coface was posted on 2026-08-27.
+This financial analyst position at Coface was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

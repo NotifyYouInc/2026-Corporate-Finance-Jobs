@@ -1,16 +1,16 @@
-# Credit Manager at ACCOR
+# Finance Coordinator (Humanitarian Project) at Save the Children
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Orleans, Louisiana, United States |
+| Company | [Save the Children](https://scoutify.ai/companies/em2-cx-oj95780?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Indonesia |
 | Category | Accounting |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000146313249-credit-manager) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://hcri.fa.em2.oraclecloud.com/jobs/#17505) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-29.
+This accounting position at Save the Children was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

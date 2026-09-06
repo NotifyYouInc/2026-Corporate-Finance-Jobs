@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miamisburg, Ohio, United States |
+| Location | Washington, US |
 | Category | Corporate Finance |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Miamisburg/Wealth-Management-Client-Associate_26031721) |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Washington/Wealth-Management-Client-Associate_26031261) |
 
 ## About This Role
 

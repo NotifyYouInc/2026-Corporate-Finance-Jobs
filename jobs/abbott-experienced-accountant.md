@@ -1,16 +1,16 @@
-# Finance Manager at ACCOR
+# Experienced Accountant at Abbott
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indonesia |
+| Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Accounting |
 | Posted | 2026-08-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000146335109-finance-manager) |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Egypt---Cairo/Experienced-Accountant_31159497-1) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-30.
+This accounting position at Abbott was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

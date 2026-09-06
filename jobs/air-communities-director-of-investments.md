@@ -1,16 +1,16 @@
-# Accounts Receivable Clerk at ACCOR
+# Director of Investments at AIR Communities
 
 | Field | Details |
 |-------|---------|
-| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Accounting |
+| Category | Venture Capital |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000146313959-accounts-receivable-clerk) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000146315619-director-of-investments) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-29.
+This venture capital position at AIR Communities was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

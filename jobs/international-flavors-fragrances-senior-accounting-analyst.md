@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Arroio do Meio, Rio Grande do Sul, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Arroio-do-Meio-Brazil/Senior-Accounting-Analyst_R17301) |
+| Location | Kunshan, Jiangsu, China |
+| Category | Accounting |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Kunshan-China/Senior-Accounting-Analyst_R21392) |
 
 ## About This Role
 
-This corporate finance position at International Flavors & Fragrances was posted on 2026-05-13.
+This accounting position at International Flavors & Fragrances was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 
