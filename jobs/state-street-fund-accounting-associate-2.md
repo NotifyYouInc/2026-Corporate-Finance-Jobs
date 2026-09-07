@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Fund-Accounting--Associate-2_R-790237) |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Fund-Accounting--Associate-2_R-796554) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-14.
+This accounting position at State Street was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

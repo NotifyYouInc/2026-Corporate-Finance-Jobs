@@ -1,16 +1,16 @@
-# Finance Trainee at Valeo
+# Finance trainee at Valeo
 
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Luis Potosí, San Luis Potosí, Mexico |
-| Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/San-Luis-Potosi/Finance-Trainee_REQ2026079355) |
+| Location | 2 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rakovnik/Finance-trainee_REQ2026080343) |
 
 ## About This Role
 
-This accounting position at Valeo was posted on 2026-07-31.
+This fp&a / strategic finance position at Valeo was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

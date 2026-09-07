@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dubai-Dubai-United-Arab-Emirates/Credit-Services-Representative_R63374-1) |
+| Location | Bucharest, București, Romania |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bucharest-Bucharest-Romania/Credit-Services-Representative_R75801-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-06-11.
+This accounting position at Medtronic was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

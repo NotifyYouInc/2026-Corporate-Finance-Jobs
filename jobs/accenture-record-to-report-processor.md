@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Medellín, Antioquia, Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Medellin-Rivana-2/Record-to-Report-Processor_14473799) |
+| Location | Dalian, Liaoning, China |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Record-to-Report-Processor_14669432) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-06-24.
+This accounting position at Accenture was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Deloitte](https://scoutify.ai/companies/deloitteat?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austria |
 | Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteAT/744000145901986-engagierte-maturantin-all-genders-fur-die-buchhaltung) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteAT/744000146412629-engagierte-maturantin-all-genders-fur-die-buchhaltung) |
 
 ## About This Role
 
-This accounting position at Deloitte was posted on 2026-08-27.
+This accounting position at Deloitte was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

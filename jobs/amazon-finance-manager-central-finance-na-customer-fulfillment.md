@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432280/finance-manager-central-finance-na-customer-fulfillment) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10521401/finance-manager-central-finance-na-customer-fulfillment) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-27.
+This fp&a / strategic finance position at Amazon was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

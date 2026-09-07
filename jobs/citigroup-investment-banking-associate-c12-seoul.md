@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Investment Banking |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Seoul--Korea-Republic-Of/Investment-Banking-Associate---C12---SEOUL_26977909) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Seoul--Korea-Republic-Of/Investment-Banking-Associate---C12---SEOUL_26990951) |
 
 ## About This Role
 
-This investment banking position at Citigroup was posted on 2026-07-14.
+This investment banking position at Citigroup was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

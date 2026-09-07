@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-07 |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Specialist--Finance-Automations_R-14053) |
 
 ## About This Role
 
-This corporate finance position at Invesco was posted on 2026-06-07.
+This fp&a / strategic finance position at Invesco was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

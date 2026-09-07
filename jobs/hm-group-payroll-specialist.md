@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000144523139-payroll-specialist) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000146452460-payroll-specialist) |
 
 ## About This Role
 
-This accounting position at H&M Group was posted on 2026-08-20.
+This human resources / people ops position at H&M Group was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Intern--Financial-Accounting-and-Control_R0118421-1) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Intern--Financial-Accounting-and-Control_R0122365) |
 
 ## About This Role
 
-This corporate finance position at LSEG was posted on 2026-05-05.
+This accounting position at LSEG was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

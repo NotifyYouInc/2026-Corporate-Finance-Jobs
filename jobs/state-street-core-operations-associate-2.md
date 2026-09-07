@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Core-Operations--Associate-2_R-794676) |
+| Location | Hyderabad, Telangana, India |
+| Category | Financial Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Core-Operations--Associate-2_R-796926) |
 
 ## About This Role
 
-This accounting position at State Street was posted on 2026-07-21.
+This financial analyst position at State Street was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

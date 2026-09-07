@@ -5,12 +5,12 @@
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | South Australia, AU |
 | Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Regency-Park-South-Australia-Australia/Accounts-Receivable-Officer---Motion-Industries-Regency-Park_R26_0000024384) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Regency-Park-South-Australia-Australia/Accounts-Receivable-Officer---Motion-Industries-Regency-Park_R26_0000025371) |
 
 ## About This Role
 
-This accounting position at Genuine Parts Company was posted on 2026-07-30.
+This accounting position at Genuine Parts Company was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

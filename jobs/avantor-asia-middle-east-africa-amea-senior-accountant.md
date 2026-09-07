@@ -5,12 +5,12 @@
 | Company | [Avantor Asia Middle East Africa (AMEA)](https://scoutify.ai/companies/avantor-asia-middle-east-africa-amea?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://vwr.wd1.myworkdayjobs.com/avantorjobs/job/Pune-IND/Senior-Accountant_R-174862-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://vwr.wd1.myworkdayjobs.com/avantorjobs/job/Pune-IND/Senior-Accountant_R-174827-1) |
 
 ## About This Role
 
-This accounting position at Avantor Asia Middle East Africa (AMEA) was posted on 2026-08-25.
+This accounting position at Avantor Asia Middle East Africa (AMEA) was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

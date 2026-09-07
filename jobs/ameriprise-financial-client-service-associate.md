@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Dublin, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Houston-Texas/Client-Service-Associate_R26_3185) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Dublin-Ohio/Client-Service-Associate_R26_3486-1) |
 
 ## About This Role
 
-This corporate finance position at Ameriprise Financial was posted on 2026-08-11.
+This corporate finance position at Ameriprise Financial was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Telesure](https://scoutify.ai/companies/telesure?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Gauteng-Johannesburg/Financial-Accountant_JR105470) |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Gauteng-Johannesburg/Financial-Accountant_JR105606) |
 
 ## About This Role
 
-This corporate finance position at Telesure was posted on 2026-08-04.
+This accounting position at Telesure was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

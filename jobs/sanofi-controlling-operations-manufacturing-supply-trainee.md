@@ -1,16 +1,16 @@
-# Controlling Operations Manufacturing & Supply Trainee  at Sanofi
+# Controlling Operations Manufacturing & Supply Trainee at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Controlling-Operations-Manufacturing---Supply-Trainee-_R2869569) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Controlling-Operations-Manufacturing---Supply-Trainee_R2869805) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Sanofi was posted on 2026-08-27.
+This fp&a / strategic finance position at Sanofi was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

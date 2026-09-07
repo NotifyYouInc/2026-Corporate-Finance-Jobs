@@ -1,16 +1,16 @@
-# SENIOR ANALYST at eClerx
+# Senior Analyst at eClerx
 
 | Field | Details |
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84178) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Financial Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#82908) |
 
 ## About This Role
 
-This accounting position at eClerx was posted on 2026-07-27.
+This financial analyst position at eClerx was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

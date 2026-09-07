@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai/Fund-Accounting---or-Reporting-Analyst--AS_R0415258) |
+| Location | Jaipur, Rajasthan, India |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Fund-Accounting---or-Reporting-Analyst--AS_R0423532) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-03-04.
+This accounting position at Deutsche Bank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

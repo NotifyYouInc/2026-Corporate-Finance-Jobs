@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Federal-Tax-Services-Intern---Winter-2027_JR117073) |
+| Location | Baltimore, Maryland, United States |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Baltimore/Federal-Tax-Services-Intern---Winter-2027_JR115912-1) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-05-15.
+This accounting position at RSM was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

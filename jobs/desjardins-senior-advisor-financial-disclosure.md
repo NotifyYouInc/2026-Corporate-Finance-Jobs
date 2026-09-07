@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Divulgation-des-placements_R2609849) |
+| Category | Financial Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Intgration-comptable-des-produits-financiers-et-divulgation-financire_R2609526) |
 
 ## About This Role
 
-This accounting position at Desjardins was posted on 2026-08-17.
+This financial analyst position at Desjardins was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

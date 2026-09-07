@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Philippines-Pasig-1600/Senior-Analyst_R191247) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Chennai-600116/Senior-Analyst_R193872) |
 
 ## About This Role
 
-This accounting position at A.P. Moller - Maersk was posted on 2026-07-31.
+This accounting position at A.P. Moller - Maersk was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

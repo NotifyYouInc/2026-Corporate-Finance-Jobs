@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Wells-Fargo-Strategic-Capital-Vice-President_R-534558) |
+| Category | Venture Capital |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Wells-Fargo-Strategic-Capital-Vice-President_R-571950) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-06.
+This venture capital position at Wells Fargo was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

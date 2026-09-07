@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Poland |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Poland/PTP-Accountant_R0125616) |
+| Location | Wrocław, Lower Silesia, Poland |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Wroclaw-Lower-Silesian-Poland/PTP-Accountant_R0142949) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-04-03.
+This accounting position at Hitachi was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

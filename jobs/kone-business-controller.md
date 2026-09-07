@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Mumbai/Business-Controller_R0660147-1) |
+| Location | Baroda, Madhya Pradesh, India |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Baroda/Business-Controller_R0663768-1) |
 
 ## About This Role
 
-This corporate finance position at Kone was posted on 2026-05-05.
+This accounting position at Kone was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

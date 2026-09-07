@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Financial Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Sydney-Australia/Finance-Manager---ANZ_R00031236-1) |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Sydney-Australia/Finance-Manager---ANZ_R00031843-1) |
 
 ## About This Role
 
-This financial analyst position at Environmental Resources Management (ERM) was posted on 2026-07-17.
+This accounting position at Environmental Resources Management (ERM) was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

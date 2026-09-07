@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intelcom | Dragonfly](https://scoutify.ai/companies/intelcomgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Financial-Planning-and-Analysis--FP-A--Intern_JR110760-1) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Financial-Planning-and-Analysis--FP-A--Intern_JR111554) |
 
 ## About This Role
 
-This corporate finance position at Intelcom | Dragonfly was posted on 2026-04-30.
+This fp&a / strategic finance position at Intelcom | Dragonfly was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

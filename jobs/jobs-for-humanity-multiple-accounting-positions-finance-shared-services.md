@@ -5,12 +5,12 @@
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000138775699-multiple-accounting-positions-finance-shared-services) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000146428870-multiple-accounting-positions-finance-shared-services) |
 
 ## About This Role
 
-This accounting position at Jobs for Humanity was posted on 2026-07-21.
+This accounting position at Jobs for Humanity was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

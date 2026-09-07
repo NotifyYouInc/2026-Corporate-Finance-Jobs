@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Guadalajara-Mexico/Credit-and-Collections-Analyst_R0011989) |
+| Location | China |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Wai-Gao-Qiao-China/Credit-and-Collections-Analyst_R0012309) |
 
 ## About This Role
 
-This corporate finance position at Cognex was posted on 2026-05-01.
+This accounting position at Cognex was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

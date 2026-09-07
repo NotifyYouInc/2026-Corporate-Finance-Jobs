@@ -5,12 +5,12 @@
 | Company | [Griffith University](https://scoutify.ai/companies/griffith-university?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nathan, Queensland, Australia |
 | Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/griffithuniversity/744000145865832-head-of-financial-control) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/griffithuniversity/744000146393660-head-of-financial-control) |
 
 ## About This Role
 
-This accounting position at Griffith University was posted on 2026-08-27.
+This accounting position at Griffith University was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

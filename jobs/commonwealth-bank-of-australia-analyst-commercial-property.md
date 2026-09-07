@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Adelaide, South Australia, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/SA-Adelaide-CBD-Area/Analyst---Commercial-Property_REQ256220) |
+| Category | Financial Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/SA-Adelaide-CBD-Area/Analyst---Commercial-Property_REQ264593) |
 
 ## About This Role
 
-This corporate finance position at Commonwealth Bank of Australia was posted on 2026-04-29.
+This financial analyst position at Commonwealth Bank of Australia was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

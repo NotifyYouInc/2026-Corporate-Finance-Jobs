@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | McLean, Virginia, United States |
 | Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/International-Tax-Business-Intern---Summer-2027_JR117890) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/International-Tax-Business-Intern---Summer-2027_JR115805-1) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-08-24.
+This accounting position at RSM was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcare](https://scoutify.ai/companies/netcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rosebank, Western Cape, South Africa |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://netcare.wd103.myworkdayjobs.com/netcareexternal/job/Netcare-Rosebank-Hospital/Financial-Manager_JR107074) |
+| Location | South Africa |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://netcare.wd103.myworkdayjobs.com/netcareexternal/job/Netcare-Park-Lane-Hospital/Financial-Manager_JR108226) |
 
 ## About This Role
 
-This corporate finance position at Netcare was posted on 2026-06-08.
+This fp&a / strategic finance position at Netcare was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

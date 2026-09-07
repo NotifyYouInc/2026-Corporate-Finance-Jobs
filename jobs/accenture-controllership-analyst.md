@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Controllership-Analyst_AIOC-S01661883-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Controllership-Analyst_AIOC-S01663272-1) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-08-21.
+This accounting position at Accenture was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

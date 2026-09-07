@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
+| Location | Kota Tinggi, Johor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/BKG-BALAKONG-BR/Wealth-Executive_JR0000025878) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/KOT-KOTA-TINGGI-BR/Wealth-Executive_JR0000026135) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-08-13.
+This corporate finance position at Hong Leong Bank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

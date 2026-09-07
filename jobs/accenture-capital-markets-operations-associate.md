@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Capital-Markets-Operations-Associate_AIOC-S01660843-1) |
+| Category | Corporate Finance |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Capital-Markets-Operations-Associate_AIOC-S01663294-1) |
 
 ## About This Role
 
-This treasury & capital markets position at Accenture was posted on 2026-08-12.
+This corporate finance position at Accenture was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
