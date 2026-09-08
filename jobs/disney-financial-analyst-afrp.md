@@ -1,16 +1,16 @@
-# Financial Analyst-AFRP at Disney
+# Financial Analyst – AFRP at Disney
 
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Glendale, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Financial-Analyst-AFRP_10143922) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Financial-Analyst---AFRP_10158823-2) |
 
 ## About This Role
 
-This corporate finance position at Disney was posted on 2026-03-16.
+This accounting position at Disney was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

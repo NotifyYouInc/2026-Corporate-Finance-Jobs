@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Indonesia---Jakarta/Analyst--Credit-Analyst-for-Japanese-Corporate-Banking--Contract-_10076587-WD) |
+| Category | Financial Analyst |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Indonesia---Jakarta/Analyst--Credit-Analyst-for-Japanese-Corporate-Banking--Contract-_10079142-WD) |
 
 ## About This Role
 
-This corporate finance position at Mitsubishi UFG was posted on 2026-05-11.
+This financial analyst position at Mitsubishi UFG was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

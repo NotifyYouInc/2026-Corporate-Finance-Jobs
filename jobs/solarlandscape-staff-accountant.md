@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solarlandscape](https://scoutify.ai/companies/solarlandscape?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Asbury Park, New Jersey, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.lever.co/solarlandscape/73a4b28b-72f8-4d3e-bfea-8de2a9a111df) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.lever.co/solarlandscape/0dca6fbe-d35b-4bcf-8957-0ab3c731afb3) |
 
 ## About This Role
 
-This corporate finance position at Solarlandscape was posted on 2026-06-03.
+This accounting position at Solarlandscape was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Actuarial-Intern--Pricing-_J26714) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Actuarial-Intern--Pricing-_J28630) |
 
 ## About This Role
 
-This corporate finance position at RGA Reinsurance Company was posted on 2026-03-11.
+This corporate finance position at RGA Reinsurance Company was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

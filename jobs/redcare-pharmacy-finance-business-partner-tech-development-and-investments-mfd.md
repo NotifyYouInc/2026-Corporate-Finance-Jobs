@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000134711940-finance-business-partner-tech-development-and-investments-mfd) |
+| Location | Köln, North Rhine-Westphalia, Germany |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000146676910-finance-business-partner-tech-development-and-investments-mfd) |
 
 ## About This Role
 
-This corporate finance position at Redcare Pharmacy was posted on 2026-06-29.
+This fp&a / strategic finance position at Redcare Pharmacy was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

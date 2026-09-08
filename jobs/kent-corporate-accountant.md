@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kent](https://scoutify.ai/companies/ocs-cx-oj59422?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | India |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#6450) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#6948) |
 
 ## About This Role
 
-This accounting position at Kent was posted on 2026-07-07.
+This accounting position at Kent was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

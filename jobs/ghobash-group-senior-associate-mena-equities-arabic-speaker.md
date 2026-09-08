@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ghobash Group](https://scoutify.ai/companies/ghobashgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000135653089-senior-associate-mena-equities-arabic-speaker) |
+| Category | Corporate Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000146642534-senior-associate-mena-equities-arabic-speaker) |
 
 ## About This Role
 
-This asset management / portfolio management position at Ghobash Group was posted on 2026-07-03.
+This corporate finance position at Ghobash Group was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

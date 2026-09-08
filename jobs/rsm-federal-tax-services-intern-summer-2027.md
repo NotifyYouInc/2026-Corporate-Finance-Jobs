@@ -1,16 +1,16 @@
-# Federal Tax Services Intern – Summer 2027 at RSM
+# Federal Tax Services Intern - Summer 2027 at RSM
 
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/Federal-Tax-Services-Intern---Summer-2027_JR115809-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Boston/Federal-Tax-Services-Intern---Summer-2026_JR109267) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-08-31.
+This accounting position at RSM was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stvinc](https://scoutify.ai/companies/stvinc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | Newark, New Jersey, United States |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://stvinc.wd5.myworkdayjobs.com/stv/job/Douglassville-Pennsylvania/Billing-Specialist_JR5915) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://stvinc.wd5.myworkdayjobs.com/stv/job/Douglassville-Pennsylvania/Billing-Specialist_JR6146) |
 
 ## About This Role
 
-This accounting position at Stvinc was posted on 2026-07-17.
+This accounting position at Stvinc was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

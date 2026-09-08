@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Alameda, California, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Senior-Financial-Analyst_31156880-1) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/South-Africa---Johannesburg/Senior-Financial-Analyst_31160799) |
 
 ## About This Role
 
-This financial analyst position at Abbott was posted on 2026-07-23.
+This fp&a / strategic finance position at Abbott was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

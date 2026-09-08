@@ -5,12 +5,12 @@
 | Company | [Constanter Philanthropy Services](https://scoutify.ai/companies/constanterphilanthropyservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Zug, Zug, Switzerland |
 | Category | Corporate Finance |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ConstanterPhilanthropyServices/744000145271914-investment-professional-real-assets) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ConstanterPhilanthropyServices/744000146660416-investment-professional-real-assets) |
 
 ## About This Role
 
-This corporate finance position at Constanter Philanthropy Services was posted on 2026-08-24.
+This corporate finance position at Constanter Philanthropy Services was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

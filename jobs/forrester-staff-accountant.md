@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Forrester](https://scoutify.ai/companies/forrester?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://forrester.wd501.myworkdayjobs.com/careers/job/India/Staff-Accountant_R-101431) |
+| Location | 4 locations |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://forrester.wd501.myworkdayjobs.com/careers/job/Delhi-India/Staff-Accountant_R-101590) |
 
 ## About This Role
 
-This corporate finance position at Forrester was posted on 2026-02-28.
+This accounting position at Forrester was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

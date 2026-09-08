@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Ciudad-de-Mexico-Mexico/Sr-Associate--Business-Planning-and-Financial-Analysis-for-ITCI_R-2026-46195-1) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Ciudad-de-Mexico-Mexico/Sr-Associate--Business-Planning-and-Financial-Analysis-for-ITCI_R-2026-49244-2) |
 
 ## About This Role
 
-This corporate finance position at Alcon was posted on 2026-04-10.
+This fp&a / strategic finance position at Alcon was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

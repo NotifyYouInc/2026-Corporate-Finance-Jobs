@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Fort Lauderdale, Florida, United States |
 | Category | Accounting |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Las-Vegas/FY28-Federal-Tax-Associate--Fall-2027-Jan-2028-_JR112687) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Fort-Lauderdale/Federal-Tax-Associate--Fall-2026-Winter-2027-_JR108004) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-07-28.
+This accounting position at RSM was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

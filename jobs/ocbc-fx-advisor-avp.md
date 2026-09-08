@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/FX-Advisor---AVP_JR00009807) |
+| Category | Corporate Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/FX-Advisor---AVP_JR00010678) |
 
 ## About This Role
 
-This wealth management / private banking position at OCBC was posted on 2026-07-27.
+This corporate finance position at OCBC was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

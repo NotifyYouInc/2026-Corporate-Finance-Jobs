@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Financial-and-Regulatory-Reporting-Senior-Analyst_R0437526) |
+| Category | Financial Analyst |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Financial-and-Regulatory-Reporting-Senior-Analyst_R0444194) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-06-12.
+This financial analyst position at Deutsche Bank was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

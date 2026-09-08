@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/US_HoustonTXMOG_HOU/Cost-Accountant_R-19350) |
+| Location | Coimbatore, Tamil Nadu, India |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Coimbatore-India/Cost-Accountant_R-20792) |
 
 ## About This Role
 
-This corporate finance position at Flowserve was posted on 2026-06-09.
+This accounting position at Flowserve was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

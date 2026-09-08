@@ -5,12 +5,12 @@
 | Company | [Ampol](https://scoutify.ai/companies/ampol?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Fremantle, Western Australia, Australia |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001363327-accounts-and-pricing-analyst) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001364881-accounts-and-pricing-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Ampol was posted on 2026-08-31.
+This fp&a / strategic finance position at Ampol was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

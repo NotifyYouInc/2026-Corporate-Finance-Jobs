@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Fund-Accounting-Analyst-1_26989833) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Fund-Accounting-Analyst-1_26990654) |
 
 ## About This Role
 
-This accounting position at Citigroup was posted on 2026-08-27.
+This accounting position at Citigroup was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

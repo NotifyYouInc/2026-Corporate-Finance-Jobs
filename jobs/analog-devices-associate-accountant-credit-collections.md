@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Bonifacio-Global-City/Associate-Accountant--Credit---Collections_R262341) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Bonifacio-Global-City/Associate-Accountant--Credit---Collections_R265398) |
 
 ## About This Role
 
-This corporate finance position at Analog Devices was posted on 2026-05-19.
+This accounting position at Analog Devices was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

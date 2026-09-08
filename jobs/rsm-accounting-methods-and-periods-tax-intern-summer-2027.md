@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Fort Lauderdale, Florida, United States |
 | Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Accounting-Methods-and-Periods-Tax-Intern---Summer-2027_JR118330) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Fort-Lauderdale/Accounting-Methods-and-Periods-Tax-Intern---Summer-2027_JR118531) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-08-24.
+This accounting position at RSM was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

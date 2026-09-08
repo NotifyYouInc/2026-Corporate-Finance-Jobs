@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marriott Vacations Worldwide](https://scoutify.ai/companies/mymvw?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Bangkok-Direct-Sales/Senior-Accountant-II_JR93074) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Bangkok-Direct-Sales/Senior-Accountant-II_JR93791) |
 
 ## About This Role
 
-This corporate finance position at Marriott Vacations Worldwide was posted on 2026-08-11.
+This accounting position at Marriott Vacations Worldwide was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

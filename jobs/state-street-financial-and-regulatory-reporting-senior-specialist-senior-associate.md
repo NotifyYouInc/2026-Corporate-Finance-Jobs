@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Financial Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Financial-and-Regulatory-Reporting-Senior-Specialist--Senior-Associate_R-796879-1) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Financial-and-Regulatory-Reporting-Senior-Specialist--Senior-Associate_R-797024) |
 
 ## About This Role
 
-This financial analyst position at State Street was posted on 2026-08-28.
+This accounting position at State Street was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

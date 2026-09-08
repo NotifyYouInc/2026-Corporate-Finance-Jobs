@@ -5,12 +5,12 @@
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Washington, US |
 | Category | Corporate Finance |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Washington/Wealth-Management-Client-Associate_26031261) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Washington/Wealth-Management-Client-Associate_26020294) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-08-28.
+This corporate finance position at Bank of America was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

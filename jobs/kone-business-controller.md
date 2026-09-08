@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Baroda, Madhya Pradesh, India |
+| Location | Cairo, Cairo, Egypt |
 | Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Baroda/Business-Controller_R0663768-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Cairo/Business-Controller_R0664082) |
 
 ## About This Role
 
-This accounting position at Kone was posted on 2026-08-31.
+This accounting position at Kone was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

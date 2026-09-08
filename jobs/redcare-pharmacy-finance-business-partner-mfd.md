@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000140618012-finance-business-partner-mfd) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000146675210-finance-business-partner-mfd) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Redcare Pharmacy was posted on 2026-07-30.
+This fp&a / strategic finance position at Redcare Pharmacy was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Findex](https://scoutify.ai/companies/ap1-cx-oj37128?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Queensland, AU |
+| Location | Adelaide, South Australia, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5450) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5525) |
 
 ## About This Role
 
-This corporate finance position at Findex was posted on 2026-08-11.
+This corporate finance position at Findex was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Director--Financial-Analysis_REQ507958-1) |
+| Location | Malaysia |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Penang-Malaysia/Senior-Director--Financial-Analysis_REQ532256) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-04.
+This fp&a / strategic finance position at JLL was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

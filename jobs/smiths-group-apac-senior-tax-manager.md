@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000146120879-apac-senior-tax-manager) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000146678810-apac-senior-tax-manager) |
 
 ## About This Role
 
-This accounting position at Smiths Group was posted on 2026-08-28.
+This accounting position at Smiths Group was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

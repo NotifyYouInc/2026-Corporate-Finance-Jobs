@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Santa-F-Mexico/FP-A-Senior-Analyst_R-159834) |
+| Location | Cairo, Cairo, Egypt |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Cairo-Egypt/FP-A-Senior-Analyst_R-175937-1) |
 
 ## About This Role
 
-This corporate finance position at Mondelez International was posted on 2026-02-26.
+This fp&a / strategic finance position at Mondelez International was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

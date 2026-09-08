@@ -5,12 +5,12 @@
 | Company | [Quince](https://scoutify.ai/companies/quince?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quince/jobs/5263956008) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quince/jobs/5407464008) |
 
 ## About This Role
 
-This accounting position at Quince was posted on 2026-07-16.
+This accounting position at Quince was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

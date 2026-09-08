@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Mumbai-India---Nirlon-Knowledge-Park/Associate-Director_R43872) |
+| Location | Gurugram, Haryana, India |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Gurgaon-India/Associate-Director_R45579) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-06-11.
+This accounting position at SS&C Technologies was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

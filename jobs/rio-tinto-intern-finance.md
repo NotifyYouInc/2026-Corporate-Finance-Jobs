@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/London/Intern---Finance_R51890) |
+| Location | Salt Lake City, Utah, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Salt-Lake-City/Intern---Finance_R64113) |
 
 ## About This Role
 
-This corporate finance position at Rio Tinto was posted on 2026-03-06.
+This fp&a / strategic finance position at Rio Tinto was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

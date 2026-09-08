@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KPMG Australia](https://scoutify.ai/companies/kpmg-australia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Parramatta, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001321626-manager-self-managed-superannuation-funds-smsf) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001366398-manager-self-managed-superannuation-funds-smsf) |
 
 ## About This Role
 
-This accounting position at KPMG Australia was posted on 2026-08-17.
+This accounting position at KPMG Australia was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

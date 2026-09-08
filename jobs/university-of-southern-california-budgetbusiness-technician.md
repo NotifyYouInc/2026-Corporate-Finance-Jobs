@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Southern California](https://scoutify.ai/companies/university-of-southern-california?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
+| Category | Accounting |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/Los-Angeles-CA---Health-Sciences-Campus/Budget-Business-Technician_REQ20175942) |
 
 ## About This Role
 
-This corporate finance position at University of Southern California was posted on 2026-06-09.
+This accounting position at University of Southern California was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

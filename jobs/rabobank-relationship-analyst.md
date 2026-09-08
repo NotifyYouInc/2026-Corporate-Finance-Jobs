@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Esperance, Washington, United States |
+| Location | Rockhampton, Queensland, Australia |
 | Category | Financial Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Esperance---Windich-Street/Relationship-Analyst_JR_00143572) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Rockhampton---Victoria-Parade/Relationship-Analyst_JR_00145199) |
 
 ## About This Role
 
-This financial analyst position at Rabobank was posted on 2026-07-17.
+This financial analyst position at Rabobank was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

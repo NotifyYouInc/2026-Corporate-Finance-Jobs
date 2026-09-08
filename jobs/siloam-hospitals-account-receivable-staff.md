@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Siloam Hospitals](https://scoutify.ai/companies/siloamhospitals?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000001061817-account-receivable-staff) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000001365252-account-receivable-staff) |
 
 ## About This Role
 
-This corporate finance position at Siloam Hospitals was posted on 2026-05-11.
+This accounting position at Siloam Hospitals was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

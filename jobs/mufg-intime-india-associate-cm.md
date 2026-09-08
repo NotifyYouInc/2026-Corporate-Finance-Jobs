@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Intime India](https://scoutify.ai/companies/ap1-cx-oj72475?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15846) |
+| Category | Sales & Trading |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15915) |
 
 ## About This Role
 
-This corporate finance position at MUFG Intime India was posted on 2026-08-20.
+This sales & trading position at MUFG Intime India was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

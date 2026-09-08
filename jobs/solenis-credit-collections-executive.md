@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Makati-Philippines/Credit---Collections-Executive_R0030259) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Makati-Philippines/Credit---Collections-Executive_R0030472) |
 
 ## About This Role
 
-This corporate finance position at Solenis was posted on 2026-06-24.
+This accounting position at Solenis was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

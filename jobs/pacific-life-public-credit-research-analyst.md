@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Newport Beach, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Public-Credit-Research-Analyst_R16916) |
+| Category | Financial Analyst |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Public-Credit-Research-Analyst_R17639) |
 
 ## About This Role
 
-This corporate finance position at Pacific Life was posted on 2026-05-13.
+This financial analyst position at Pacific Life was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

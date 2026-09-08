@@ -1,16 +1,16 @@
-# FInance & Accounting Intern (Day Shift) at General Motors
+# Finance & Accounting Intern (Day shift) at General Motors
 
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/FInance---Accounting-Intern--Day-Shift-_JR-202615936) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/Finance---Accounting-Intern--Day-shift-_JR-202614888) |
 
 ## About This Role
 
-This corporate finance position at General Motors was posted on 2026-08-07.
+This accounting position at General Motors was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avient](https://scoutify.ai/companies/ocs-cx-oj8350?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Shanghai, Shanghai, China |
 | Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#40001349) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#40001369) |
 
 ## About This Role
 
-This accounting position at Avient was posted on 2026-08-27.
+This accounting position at Avient was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

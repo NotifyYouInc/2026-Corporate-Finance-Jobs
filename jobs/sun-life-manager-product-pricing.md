@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong |
+| Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/Manager--Product-Pricing_JR00124918) |
 
 ## About This Role
 
-This corporate finance position at Sun Life was posted on 2026-06-15.
+This corporate finance position at Sun Life was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

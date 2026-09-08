@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Baltimore/Federal-Tax-Services-Intern---Winter-2027_JR115912-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Boston/Federal-Tax-Services-Intern---Winter-2026_JR109265) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-08-31.
+This accounting position at RSM was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

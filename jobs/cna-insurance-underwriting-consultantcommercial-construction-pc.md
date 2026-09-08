@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/US--CA99---Irvine--2-Park-Plaza/Underwriting-Consultant-Commercial-Construction-P-C-_R-7796) |
+| Location | Walnut Creek, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Walnut-Creek-CA-USA/Underwriting-Consultant-Commercial-Construction-P-C-_R-8034) |
 
 ## About This Role
 
-This actuary / insurance analytics position at CNA Insurance was posted on 2026-07-16.
+This corporate finance position at CNA Insurance was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

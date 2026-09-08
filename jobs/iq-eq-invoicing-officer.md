@@ -1,16 +1,16 @@
-#  Invoicing Officer at IQ-EQ
+# Invoicing Officer at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Port Louis, Port Louis, Mauritius |
-| Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000142050770-invoicing-officer) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000146630951-invoicing-officer) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-08-07.
+This accounting position at IQ-EQ was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

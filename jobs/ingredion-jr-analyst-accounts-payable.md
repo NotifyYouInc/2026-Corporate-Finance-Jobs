@@ -1,16 +1,16 @@
-# JR Analyst, Accounts Payable at Ingredion
+# Jr Analyst, Accounts Payable at Ingredion
 
 | Field | Details |
 |-------|---------|
 | Company | [Ingredion](https://scoutify.ai/companies/ingredion?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tulsa, Oklahoma, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Tulsa-OK/JR-Analyst--Accounts-Payable_Req-38256) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Tulsa-OK/Jr-Analyst--Accounts-Payable_Req-39894) |
 
 ## About This Role
 
-This corporate finance position at Ingredion was posted on 2026-04-15.
+This accounting position at Ingredion was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

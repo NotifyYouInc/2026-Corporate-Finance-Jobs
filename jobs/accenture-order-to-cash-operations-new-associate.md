@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Order-to-Cash-Operations-New-Associate_AIOC-S01661995-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Order-to-Cash-Operations-New-Associate_AIOC-S01663422-1) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-08-21.
+This accounting position at Accenture was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

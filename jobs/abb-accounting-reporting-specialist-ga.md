@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Specialist-GA_JR00036904) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Specialist-GA_JR00045221) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-06-15.
+This accounting position at ABB was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

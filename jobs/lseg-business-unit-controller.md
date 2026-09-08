@@ -1,16 +1,16 @@
-# Business Unit controller at LSEG
+# Business Unit Controller at LSEG
 
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Business-Unit-controller_R0122831) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Business-Unit-Controller_R0122628) |
 
 ## About This Role
 
-This accounting position at LSEG was posted on 2026-08-31.
+This accounting position at LSEG was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
+| Category | Financial Analyst |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Senior-Specialist---Market-Risk_R200099-1) |
 
 ## About This Role
 
-This corporate finance position at Shell was posted on 2026-05-13.
+This financial analyst position at Shell was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

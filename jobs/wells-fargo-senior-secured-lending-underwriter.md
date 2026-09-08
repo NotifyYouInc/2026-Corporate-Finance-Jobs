@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ATLANTA-GA/Senior-Secured-Lending-Underwriter_R-561181) |
+| Location | Hyderabad, Telangana, India |
+| Category | Financial Analyst |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Secured-Lending-Underwriter_R-539757) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Wells Fargo was posted on 2026-07-17.
+This financial analyst position at Wells Fargo was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Manager - PEFA at Apex Fund Services
+# Manager- PEFA at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Mumbai-Raiaskaran-Tech-Park/Manager---PEFA_JR-0024463) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore-Fortune-Summit/Manager--PEFA_JR-0024982) |
 
 ## About This Role
 
-This accounting position at Apex Fund Services was posted on 2026-07-03.
+This accounting position at Apex Fund Services was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

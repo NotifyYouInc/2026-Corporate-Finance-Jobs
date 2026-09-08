@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Thousand Oaks, California, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Finance-Manager_R-248189-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Finance-Manager_R-248091) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Amgen was posted on 2026-07-01.
+This fp&a / strategic finance position at Amgen was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
