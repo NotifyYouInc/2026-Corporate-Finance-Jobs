@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Smyrna, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Smyrna-TN/Site-Management-Controller_REQ2026074818-1) |
+| Location | Juárez, Chiapas, Mexico |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Juarez/Site-Management-Controller_REQ2026079502) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-05-14.
+This fp&a / strategic finance position at Valeo was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

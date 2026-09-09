@@ -5,12 +5,12 @@
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hamilton, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000146679619-associate-director-private-client) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000146924094-associate-director-private-client) |
 
 ## About This Role
 
-This corporate finance position at Ocorian was posted on 2026-09-01.
+This corporate finance position at Ocorian was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/TEL-AVIV-GENERAL-OFFICE/Financial-Analyst-Internship_R000152096) |
+| Category | Financial Analyst |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/TEL-AVIV-GENERAL-OFFICE/Financial-Analyst-Internship_R000158442) |
 
 ## About This Role
 
-This corporate finance position at Procter & Gamble was posted on 2026-05-28.
+This financial analyst position at Procter & Gamble was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

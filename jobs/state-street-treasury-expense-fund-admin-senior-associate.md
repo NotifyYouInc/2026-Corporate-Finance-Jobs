@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Financial Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Treasury--Expense---Fund-Admin----Senior-Associate_R-793454) |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Treasury--Expense---Fund-Admin----Senior-Associate_R-797147) |
 
 ## About This Role
 
-This financial analyst position at State Street was posted on 2026-07-03.
+This accounting position at State Street was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

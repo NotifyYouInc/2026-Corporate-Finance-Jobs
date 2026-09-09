@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | British Columbia, CA |
-| Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/British-Columbia/Cost-Controller_20100405) |
+| Location | Brisbane, Queensland, Australia |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Brisbane/Cost-Controller_20101291) |
 
 ## About This Role
 
-This corporate finance position at Acciona was posted on 2026-08-04.
+This fp&a / strategic finance position at Acciona was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

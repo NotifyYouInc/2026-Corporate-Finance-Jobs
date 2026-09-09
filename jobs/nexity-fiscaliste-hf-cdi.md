@@ -5,12 +5,12 @@
 | Company | [Nexity](https://scoutify.ai/companies/nexity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | France |
 | Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nexity/744000135929171-fiscaliste-hf-cdi) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nexity/744000146920089-fiscaliste-hf-cdi) |
 
 ## About This Role
 
-This accounting position at Nexity was posted on 2026-07-06.
+This accounting position at Nexity was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

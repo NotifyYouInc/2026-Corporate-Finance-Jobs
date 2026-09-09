@@ -5,12 +5,12 @@
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Graz, Styria, Austria |
 | Category | Accounting |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000146623191-mitarbeiter-im-rechnungswesen-wmd) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000146893039-mitarbeiter-im-rechnungswesen-wmd) |
 
 ## About This Role
 
-This accounting position at Anton Paar was posted on 2026-09-01.
+This accounting position at Anton Paar was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

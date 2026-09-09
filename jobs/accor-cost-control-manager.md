@@ -1,16 +1,16 @@
-#  Cost Control ,Manager at ACCOR
+# Cost Control Manager at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Egypt |
-| Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000135455994-cost-control-manager) |
+| Location | Giza, Giza, Egypt |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000146958149-cost-control-manager) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-02.
+This fp&a / strategic finance position at ACCOR was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

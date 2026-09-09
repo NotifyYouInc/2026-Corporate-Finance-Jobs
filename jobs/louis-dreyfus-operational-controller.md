@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ukraine |
-| Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000115497896-operational-controller) |
+| Location | Kyiv, Kyiv City, Ukraine |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000146934479-operational-controller) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-03-18.
+This fp&a / strategic finance position at Louis Dreyfus was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

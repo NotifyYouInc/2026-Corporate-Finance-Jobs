@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Thailand |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12D-Floor-5-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Spclst--Accounts-Payable_30210894-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/1449-Moo-5-Bangkadi-Industrial-Park-Tivanon-Road-Bangkadi-Muang-Pathumthani-12000/Spclst--Accounts-Payable_30216668) |
 
 ## About This Role
 
-This accounting position at Carrier Global was posted on 2026-07-13.
+This accounting position at Carrier Global was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

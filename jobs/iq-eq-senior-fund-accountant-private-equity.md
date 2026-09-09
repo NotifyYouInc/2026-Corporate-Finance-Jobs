@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000132772489-senior-fund-accountant-private-equity) |
+| Location | Central, Central and Western, Hong Kong |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000146884394-senior-fund-accountant-private-equity) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-06-18.
+This accounting position at IQ-EQ was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

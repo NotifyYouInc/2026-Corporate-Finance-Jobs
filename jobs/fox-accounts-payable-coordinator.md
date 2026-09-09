@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FOX](https://scoutify.ai/companies/foxfactory?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Baton Rouge, Louisiana, United States |
+| Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-LA-Baton-Rouge/Accounts-Payable-Coordinator_JR112890-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-AL-Trussville/Accounts-Payable-Coordinator_JR113215) |
 
 ## About This Role
 
-This accounting position at FOX was posted on 2026-07-30.
+This accounting position at FOX was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

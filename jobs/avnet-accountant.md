@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Taiwan |
+| Location | Singapore, Singapore |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Accountant_JR-023630) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Lorong-Chuan-Singapore/Accountant_JR-024162) |
 
 ## About This Role
 
-This accounting position at Avnet was posted on 2026-07-13.
+This accounting position at Avnet was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

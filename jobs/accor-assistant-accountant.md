@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney Olympic Park, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000121943958-assistant-accountant) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000146888309-assistant-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-04-21.
+This accounting position at ACCOR was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

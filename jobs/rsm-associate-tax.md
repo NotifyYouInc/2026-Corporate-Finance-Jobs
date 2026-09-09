@@ -5,12 +5,12 @@
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
 | Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Associate-Tax_JR120253) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Associate-Tax_JR120252) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-08-31.
+This accounting position at RSM was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oakville, Ontario, Canada |
-| Category | Financial Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OAKVILLE-Ontario-Canada/Associate_R-0000185148) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate_R-0000186682-2) |
 
 ## About This Role
 
-This financial analyst position at Royal Bank of Canada was posted on 2026-08-21.
+This corporate finance position at Royal Bank of Canada was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

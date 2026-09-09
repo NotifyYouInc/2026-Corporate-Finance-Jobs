@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
-| Category | Account Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Taman-Ponderosa-City-Area/Relationship-Manager_JR91853) |
+| Location | Klang, Selangor, Malaysia |
+| Category | Corporate Finance |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Klang-City-Area/Relationship-Manager_JR94499-1) |
 
 ## About This Role
 
-This account manager position at UOB Group was posted on 2026-07-20.
+This corporate finance position at UOB Group was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

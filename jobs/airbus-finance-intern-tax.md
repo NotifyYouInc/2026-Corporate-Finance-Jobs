@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Finance-intern---Tax_JR10397725) |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Finance-intern---Tax_JR10437216) |
 
 ## About This Role
 
-This corporate finance position at Airbus was posted on 2026-03-16.
+This accounting position at Airbus was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Financial Analyst at Ecolab
+# Sr Financial Analyst at Ecolab
 
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Sr-Financial-Analyst_R00291173) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Sr-Financial-Analyst_R00301446) |
 
 ## About This Role
 
-This corporate finance position at Ecolab was posted on 2026-04-22.
+This fp&a / strategic finance position at Ecolab was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

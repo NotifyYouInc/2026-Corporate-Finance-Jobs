@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/RTP-Finance-Manager---Maternity-Cover-FTC_R-278906) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-06-12.
+This fp&a / strategic finance position at Mastercard was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

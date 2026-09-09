@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Heredia/Order-to-Cash-Processor_14449798) |
+| Location | Medellín, Antioquia, Colombia |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Medellin-Rivana-2/Order-to-Cash-Processor_R00353854-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-06-09.
+This accounting position at Accenture was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

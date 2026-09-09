@@ -5,12 +5,12 @@
 | Company | [AJ Bell](https://scoutify.ai/companies/ajbell1?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000145481289-banking-clerk) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000146910779-banking-clerk) |
 
 ## About This Role
 
-This accounting position at AJ Bell was posted on 2026-08-25.
+This accounting position at AJ Bell was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

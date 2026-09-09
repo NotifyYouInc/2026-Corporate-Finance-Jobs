@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Perth, New York, United States |
 | Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sydney-NSW/Senior-Portfolio-Accountant_REQ529925) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Perth-WA/Senior-Portfolio-Accountant_REQ532476) |
 
 ## About This Role
 
-This accounting position at JLL was posted on 2026-08-24.
+This accounting position at JLL was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

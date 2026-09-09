@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Beijing, Beijing, China |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/USA---Philadelphia-PA/Senior-Accountant_JREQ136110-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R246--Beijing/Senior-Accountant_JREQ136444-1) |
 
 ## About This Role
 
-This accounting position at Clarivate was posted on 2026-07-23.
+This accounting position at Clarivate was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

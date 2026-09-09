@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lendi Group](https://scoutify.ai/companies/lendigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000114887664-commission-consultant-accounting-clerkassistant) |
+| Location | Philippines |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000146841199-commission-consultant-accounting-clerkassistant) |
 
 ## About This Role
 
-This corporate finance position at Lendi Group was posted on 2026-03-16.
+This accounting position at Lendi Group was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

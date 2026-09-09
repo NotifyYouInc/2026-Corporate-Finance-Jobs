@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genius Sports](https://scoutify.ai/companies/genius-sports?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Medellín, Antioquia, Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/geniussports/jobs/7713661003?gh_jid=7713661003) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/geniussports/jobs/7820801003?gh_jid=7820801003) |
 
 ## About This Role
 
-This corporate finance position at Genius Sports was posted on 2026-04-24.
+This accounting position at Genius Sports was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

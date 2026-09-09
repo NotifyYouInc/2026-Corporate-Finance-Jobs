@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Record-to-Report-Ops-Senior-Analyst_AIOC-S01662011-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Record-to-Report-Ops-Senior-Analyst_AIOC-S01663838-1) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-08-21.
+This accounting position at Accenture was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

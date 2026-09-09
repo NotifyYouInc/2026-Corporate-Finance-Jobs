@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000145647439-officer-1-global-treasury-operations-gto) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000146883718-officer-1-global-treasury-operations-gto) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-08-26.
+This corporate finance position at IQ-EQ was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/New-York-NY/Commercial-Credit-Associate_R89328) |
+| Category | Financial Analyst |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/New-York-NY/Commercial-Credit-Associate_R89758) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-08-18.
+This financial analyst position at M&T Bank was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

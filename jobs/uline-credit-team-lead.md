@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 5 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Milton-Ontario/Credit-Team-Lead_R263874) |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Milton-Ontario/Credit-Team-Lead_R267017-1) |
 
 ## About This Role
 
-This corporate finance position at Uline was posted on 2026-05-12.
+This accounting position at Uline was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

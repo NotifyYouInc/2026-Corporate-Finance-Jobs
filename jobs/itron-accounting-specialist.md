@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Liberty Lake, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Washington-Liberty-Lake/Accounting-Specialist_JR102777) |
+| Location | Cork, Munster, Ireland |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/Ireland-Cork/Accounting-Specialist_JR102887-1) |
 
 ## About This Role
 
-This corporate finance position at Itron was posted on 2026-08-07.
+This accounting position at Itron was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

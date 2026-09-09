@@ -5,12 +5,12 @@
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R271--Noida/Accountant_JREQ135231) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R271--Noida/Accountant_JREQ136450) |
 
 ## About This Role
 
-This accounting position at Clarivate was posted on 2026-07-07.
+This accounting position at Clarivate was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

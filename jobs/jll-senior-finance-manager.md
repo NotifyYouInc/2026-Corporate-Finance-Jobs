@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Accounting |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sydney-NSW/Senior-Finance-Manager_REQ529237) |
+| Location | China |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hong-Kong-SAR-China/Senior-Finance-Manager_REQ532208-1) |
 
 ## About This Role
 
-This accounting position at JLL was posted on 2026-08-26.
+This fp&a / strategic finance position at JLL was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

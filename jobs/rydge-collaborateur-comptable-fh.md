@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montévrain, Île-de-France, France |
+| Location | Saint-Claude, Bourgogne, France |
 | Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000138568449-collaborateur-comptable-fh) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000146935411-collaborateur-comptable-fh) |
 
 ## About This Role
 
-This accounting position at Rydge was posted on 2026-07-20.
+This accounting position at Rydge was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

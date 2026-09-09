@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Beijing-China-Central-Place/Investment-Bank---DCM-Local-Intern_R0424276) |
+| Category | Investment Banking |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Beijing-China-Central-Place/Investment-Bank---DCM-Local-Intern_R0424279) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-02-25.
+This investment banking position at Deutsche Bank was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Harrison, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Harrison-OH/Senior-Accountant_JR0000043858) |
+| Location | Paragould, Arkansas, United States |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Paragould-AR/Senior-Accountant_JR0000045469) |
 
 ## About This Role
 
-This corporate finance position at Marmon Holdings was posted on 2026-06-17.
+This accounting position at Marmon Holdings was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

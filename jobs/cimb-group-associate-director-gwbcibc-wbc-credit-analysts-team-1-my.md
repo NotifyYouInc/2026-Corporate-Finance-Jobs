@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CIMB Group](https://scoutify.ai/companies/ap1-cx-oj21920?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://ejox.fa.ap1.oraclecloud.com/jobs/#36527) |
+| Category | Investment Banking |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ejox.fa.ap1.oraclecloud.com/jobs/#37110) |
 
 ## About This Role
 
-This corporate finance position at CIMB Group was posted on 2026-07-29.
+This investment banking position at CIMB Group was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

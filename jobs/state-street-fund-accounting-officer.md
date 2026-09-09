@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Venture Capital / Private Equity |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Taipei-Taiwan/Fund-Accounting--Officer_R-795391) |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Taipei-Taiwan/Fund-Accounting--Officer_R-797104) |
 
 ## About This Role
 
-This venture capital / private equity position at State Street was posted on 2026-07-31.
+This accounting position at State Street was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

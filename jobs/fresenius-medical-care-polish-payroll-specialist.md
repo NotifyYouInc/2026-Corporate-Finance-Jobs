@@ -5,12 +5,12 @@
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Wrocaw-Poland/Polish-Payroll-Specialist_R0267003) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Wrocaw-Poland/Polish-Payroll-Specialist_R0265561) |
 
 ## About This Role
 
-This accounting position at Fresenius Medical Care was posted on 2026-08-21.
+This accounting position at Fresenius Medical Care was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

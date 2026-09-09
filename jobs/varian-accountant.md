@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/BUD-IJ/Accountant_R-27709-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/TPE-DH-337/Accountant_R-29555-1) |
 
 ## About This Role
 
-This corporate finance position at Varian was posted on 2026-04-02.
+This accounting position at Varian was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

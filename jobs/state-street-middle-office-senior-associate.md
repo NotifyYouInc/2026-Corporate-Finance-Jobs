@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Middle-Office--Senior-Associate_R-796352-1) |
+| Category | Financial Analyst |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Middle-Office--Senior-Associate_R-796351-1) |
 
 ## About This Role
 
-This accounting position at State Street was posted on 2026-09-01.
+This financial analyst position at State Street was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

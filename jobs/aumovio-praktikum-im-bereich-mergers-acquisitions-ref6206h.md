@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
-| Category | Corporate Development & M&A |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000145900661-praktikum-im-bereich-mergers-acquisitions-ref6206h) |
+| Category | Corporate Finance |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000146926084-praktikum-im-bereich-mergers-acquisitions-ref6206h) |
 
 ## About This Role
 
-This corporate development & m&a position at Aumovio was posted on 2026-08-27.
+This corporate finance position at Aumovio was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

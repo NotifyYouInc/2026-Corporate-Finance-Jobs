@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Shanghai-Two-IFC/Private-Bank---Relationship-Manager--VP-Director_R0437685-2) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-06-15.
+This corporate finance position at Deutsche Bank was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

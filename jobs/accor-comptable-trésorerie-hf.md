@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Argenteuil, Île-de-France, France |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000135264220-comptable-tresorerie-hf) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000146912969-comptable-tresorerie-hf) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-01.
+This accounting position at ACCOR was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

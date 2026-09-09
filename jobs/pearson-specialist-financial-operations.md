@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pearson](https://scoutify.ai/companies/em3-cx-oj82828?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | China |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Accounting |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#25317) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#25783) |
 
 ## About This Role
 
-This accounting position at Pearson was posted on 2026-08-11.
+This accounting position at Pearson was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

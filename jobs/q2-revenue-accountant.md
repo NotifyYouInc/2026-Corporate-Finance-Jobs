@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Remote-Mexico/Revenue-Accountant_REQ-12196) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Revenue-Accountant_REQ-12750) |
 
 ## About This Role
 
-This corporate finance position at Q2 was posted on 2026-02-11.
+This accounting position at Q2 was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

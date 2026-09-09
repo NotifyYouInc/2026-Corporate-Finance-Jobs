@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Siloam Hospitals](https://scoutify.ai/companies/siloamhospitals?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indonesia |
+| Location | Purwakarta, West Java, Indonesia |
 | Category | Accounting |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000001365252-account-receivable-staff) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000001368741-account-receivable-staff) |
 
 ## About This Role
 
-This accounting position at Siloam Hospitals was posted on 2026-09-01.
+This accounting position at Siloam Hospitals was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

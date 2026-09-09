@@ -5,12 +5,12 @@
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Financial Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Analyst---Credit-Analysis-CAB_24692) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Analyst---Credit-Analysis-CAB_24735-1) |
 
 ## About This Role
 
-This financial analyst position at OneWest Bank was posted on 2026-07-23.
+This financial analyst position at OneWest Bank was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

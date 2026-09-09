@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Somerville, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://careers.formlabs.com/job/8122182/apply/?gh_jid=8122182) |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://careers.formlabs.com/job/8172473/apply/?gh_jid=8172473) |
 
 ## About This Role
 
-This corporate finance position at Formlabs was posted on 2026-08-11.
+This accounting position at Formlabs was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
