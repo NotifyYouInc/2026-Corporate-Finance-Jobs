@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Financial-Reporting---Manager_R-789194) |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Financial-Reporting---Manager_R-797239) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-26.
+This accounting position at State Street was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

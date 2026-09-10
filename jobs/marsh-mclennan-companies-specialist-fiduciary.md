@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Specialist---Fiduciary_R_345596-2) |
+| Location | Pune, Maharashtra, India |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Business-Bay/Specialist---Fiduciary_R_360607-1) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-06-22.
+This accounting position at Marsh & McLennan Companies was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

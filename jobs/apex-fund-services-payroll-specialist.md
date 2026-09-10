@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-19 |
+| Category | Accounting |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Payroll-Specialist_JR-0021714) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-03-19.
+This accounting position at Apex Fund Services was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

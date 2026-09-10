@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kuala-Lumpur/Experienced-Associate----Actuarial--PwC-Acceleration-Center-Kuala-Lumpur-_745818WD-1) |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kuala-Lumpur/Experienced-Associate----Actuarial--PwC-Acceleration-Center-Kuala-Lumpur-_758608WD-1) |
 
 ## About This Role
 
-This actuary / insurance analytics position at PwC was posted on 2026-07-20.
+This corporate finance position at PwC was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

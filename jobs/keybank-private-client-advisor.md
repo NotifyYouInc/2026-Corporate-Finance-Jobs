@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | South Bend, Indiana, United States |
+| Location | Clawson, Michigan, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/South-Bend-IN/Private-Client-Advisor_R-41129) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Clawson-MI/Private-Client-Advisor_R-41893-1) |
 
 ## About This Role
 
-This wealth management / private banking position at KeyBank was posted on 2026-07-23.
+This wealth management / private banking position at KeyBank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

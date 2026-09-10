@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Assistant-Manager--Financial-Accounting-and-Control_R0119222-1) |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Assistant-Manager--Financial-Accounting-and-Control_R0122462-1) |
 
 ## About This Role
 
-This corporate finance position at LSEG was posted on 2026-05-14.
+This accounting position at LSEG was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

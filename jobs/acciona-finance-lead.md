@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Sydney/Finance-Lead_20099730) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Melbourne/Finance-Lead_20101232) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Acciona was posted on 2026-07-24.
+This corporate finance position at Acciona was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

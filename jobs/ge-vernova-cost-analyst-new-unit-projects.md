@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Cost-Analyst---New-Unit-Projects_R5035190-3) |
+| Location | Atlanta, Georgia, United States |
+| Category | Financial Analyst |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Cost-Analyst---New-Unit-Projects_R5051484-2) |
 
 ## About This Role
 
-This corporate finance position at GE Vernova was posted on 2026-04-17.
+This financial analyst position at GE Vernova was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

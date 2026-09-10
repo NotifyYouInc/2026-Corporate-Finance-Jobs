@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Shanghai-Shanghai-China/Finance-Intern_R70038) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Financial Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Taipei-Taipei-Taiwan/Finance-Intern_R76666-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-06-18.
+This financial analyst position at Medtronic was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

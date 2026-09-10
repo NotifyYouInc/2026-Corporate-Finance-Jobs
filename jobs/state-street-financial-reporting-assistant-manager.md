@@ -1,16 +1,16 @@
-# Financial Reporting- Assistant Manager at State Street
+# Financial Reporting - Assistant Manager at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Financial-Reporting--Assistant-Manager_R-793326) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Financial-Reporting---Assistant-Manager_R-797182) |
 
 ## About This Role
 
-This accounting position at State Street was posted on 2026-07-02.
+This accounting position at State Street was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

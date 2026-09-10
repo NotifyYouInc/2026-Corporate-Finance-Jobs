@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000145411759-senior-accountant-fund-accounting-hybrid-day-1-hmo) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000147144489-senior-accountant-fund-accounting-hybrid-day-1-hmo) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-08-25.
+This accounting position at IQ-EQ was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

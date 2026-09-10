@@ -5,12 +5,12 @@
 | Company | [Roland Berger](https://scoutify.ai/companies/rolandberger?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000143232689-specialist-accounting) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000147181996-specialist-accounting) |
 
 ## About This Role
 
-This accounting position at Roland Berger was posted on 2026-08-13.
+This accounting position at Roland Berger was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

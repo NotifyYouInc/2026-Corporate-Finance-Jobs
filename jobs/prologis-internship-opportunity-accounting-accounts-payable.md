@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Prologis](https://scoutify.ai/companies/prologis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Amsterdam-Netherlands/Internship-Opportunity---Accounting--Accounts-Payable-_R6534-1) |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Amsterdam-Netherlands/Internship-Opportunity---Accounting--Accounts-Payable-_R6760-2) |
 
 ## About This Role
 
-This corporate finance position at Prologis was posted on 2026-04-22.
+This accounting position at Prologis was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 5 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Supply-Chain-Financial-Analyst_R263079-2) |
+| Category | Financial Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Supply-Chain-Financial-Analyst_R267117-1) |
 
 ## About This Role
 
-This corporate finance position at Uline was posted on 2026-04-23.
+This financial analyst position at Uline was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

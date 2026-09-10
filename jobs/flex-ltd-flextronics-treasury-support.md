@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Shenzhen/Treasury-Support_WD224045) |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Shenzhen/Treasury-Support_WD228917) |
 
 ## About This Role
 
-This treasury & capital markets position at FLEX LTD. Flextronics was posted on 2026-07-08.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

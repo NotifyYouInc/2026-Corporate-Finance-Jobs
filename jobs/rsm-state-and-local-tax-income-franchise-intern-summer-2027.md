@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Blue Bell, Pennsylvania, United States |
 | Category | Accounting |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/State-and-Local-Tax---Income-Franchise-Intern---Summer-2027_JR117394) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Blue-Bell/State-and-Local-Tax---Income-Franchise-Intern---Summer-2027_JR115792) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-09-01.
+This accounting position at RSM was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

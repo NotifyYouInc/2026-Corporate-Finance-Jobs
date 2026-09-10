@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Costa Mesa, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Sales-Operations-Supervisor_JR202636354) |
+| Category | Operations |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Sales-Operations-Supervisor_JR202638992) |
 
 ## About This Role
 
-This corporate finance position at Auto Club Enterprises was posted on 2026-05-15.
+This operations position at Auto Club Enterprises was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

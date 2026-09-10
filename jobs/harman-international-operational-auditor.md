@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Accounting |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Operational-Auditor/31140) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Operational-Auditor/32756) |
 
 ## About This Role
 
-This accounting position at HARMAN International was posted on 2026-07-18.
+This accounting position at HARMAN International was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

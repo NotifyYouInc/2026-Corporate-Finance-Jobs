@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Coimbatore/Valuations---Pricing---Senior-Associate_R-786558-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Financial Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/Valuations---Pricing---Senior-Associate_R-794205-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-07.
+This financial analyst position at State Street was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Littelfuse](https://scoutify.ai/companies/littelfuse?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Suzhou, Jiangsu, China |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Suzhou/Tax-Intern_JR-111225) |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Suzhou/Tax-Intern_JR-112475) |
 
 ## About This Role
 
-This corporate finance position at Littelfuse was posted on 2026-03-13.
+This accounting position at Littelfuse was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

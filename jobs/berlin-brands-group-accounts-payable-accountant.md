@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Berlin Brands Group](https://scoutify.ai/companies/berlin-brands-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bratislava, Bratislava Region, Slovakia |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/berlinbrands/jobs/5837913004) |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/berlinbrands/jobs/6180324004) |
 
 ## About This Role
 
-This corporate finance position at Berlin Brands Group was posted on 2026-04-30.
+This accounting position at Berlin Brands Group was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

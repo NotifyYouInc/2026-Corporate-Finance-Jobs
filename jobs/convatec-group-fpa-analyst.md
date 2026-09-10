@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ConvaTec Group](https://scoutify.ai/companies/convatec-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/Lisbon-Portugal/FP-A-Analyst_JR00021336) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/Kuala-Lumpur-Malaysia/FP-A-Analyst_JR00021311) |
 
 ## About This Role
 
-This fp&a / strategic finance position at ConvaTec Group was posted on 2026-09-01.
+This corporate finance position at ConvaTec Group was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

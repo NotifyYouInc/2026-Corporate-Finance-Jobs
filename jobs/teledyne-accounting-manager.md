@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Miamisburg, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Accounting-Manager_REQ33428-1) |
+| Location | Hawthorne, California, United States |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Hawthorne-CA-TDY/Accounting-Manager_REQ36548) |
 
 ## About This Role
 
-This corporate finance position at Teledyne was posted on 2026-02-19.
+This accounting position at Teledyne was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

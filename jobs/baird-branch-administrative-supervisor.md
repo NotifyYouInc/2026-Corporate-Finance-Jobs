@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cedar Rapids, Iowa, United States |
+| Location | Edina, Minnesota, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/IA-Cedar-Rapids/Branch-Administrative-Supervisor_R2026823-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/MN-Edina/Branch-Administrative-Supervisor_R2026973-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Baird was posted on 2026-07-30.
+This wealth management / private banking position at Baird was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

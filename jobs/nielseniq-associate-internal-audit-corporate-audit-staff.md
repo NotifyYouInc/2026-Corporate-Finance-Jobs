@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110083235-associate-internal-audit-corporate-audit-staff) |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000147151309-associate-internal-audit-corporate-audit-staff) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-02-19.
+This accounting position at NielsenIQ was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

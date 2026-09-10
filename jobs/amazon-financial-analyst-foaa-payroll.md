@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Financial Analyst |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10525139/financial-analyst-foaa-payroll) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10528190/financial-analyst-foaa-payroll) |
 
 ## About This Role
 
-This financial analyst position at Amazon was posted on 2026-09-02.
+This financial analyst position at Amazon was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

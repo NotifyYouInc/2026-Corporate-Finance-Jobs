@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beca](https://scoutify.ai/companies/beca?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Jakarta-Indonesia/Payroll-Specialist_JR102003) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Auckland-New-Zealand/Payroll-Specialist_JR102279) |
 
 ## About This Role
 
-This accounting position at Beca was posted on 2026-07-27.
+This accounting position at Beca was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

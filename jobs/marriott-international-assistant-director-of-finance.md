@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indonesia |
-| Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26095521) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26112767) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-07-31.
+This corporate finance position at Marriott International was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

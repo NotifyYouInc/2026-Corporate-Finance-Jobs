@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ROU---Cluj-Napoca/Senior-Financial-Planning-Analyst_R0059084-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Financial-Planning-Analyst_R0059709) |
 
 ## About This Role
 
-This corporate finance position at Wolters Kluwer was posted on 2026-08-11.
+This corporate finance position at Wolters Kluwer was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

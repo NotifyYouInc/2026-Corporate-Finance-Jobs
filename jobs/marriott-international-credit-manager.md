@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Dhaka, Dhaka Division, Bangladesh |
 | Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26107084) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26112301) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-08-24.
+This accounting position at Marriott International was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

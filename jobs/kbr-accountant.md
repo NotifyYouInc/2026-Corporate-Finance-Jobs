@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Accountant_R2128283) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chennai-Tamil-Nadu-India/Accountant_R2129047-1) |
 
 ## About This Role
 
-This accounting position at KBR was posted on 2026-08-13.
+This accounting position at KBR was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

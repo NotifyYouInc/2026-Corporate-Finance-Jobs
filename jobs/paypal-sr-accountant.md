@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Accountant_R0136846-1) |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Accountant_R0137306) |
 
 ## About This Role
 
-This corporate finance position at PayPal was posted on 2026-06-26.
+This accounting position at PayPal was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

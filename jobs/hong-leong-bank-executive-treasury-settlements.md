@@ -5,12 +5,12 @@
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/Singapore/Executive----Treasury-Settlements_JR0000024871) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/Singapore/Executive----Treasury-Settlements_JR0000026169) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-05-22.
+This corporate finance position at Hong Leong Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

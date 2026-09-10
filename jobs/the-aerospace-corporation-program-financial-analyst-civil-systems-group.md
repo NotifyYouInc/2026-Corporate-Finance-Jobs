@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Program-Financial-Analyst--Civil-Systems-Group_R015590) |
+| Category | Financial Analyst |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Program-Financial-Analyst--Civil-Systems-Group_R016427) |
 
 ## About This Role
 
-This corporate finance position at The Aerospace Corporation was posted on 2026-06-12.
+This financial analyst position at The Aerospace Corporation was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Blue Care](https://scoutify.ai/companies/blue-care?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Brisbane/Senior-Functional-Analyst_JR121331) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Brisbane/Senior-Functional-Analyst_JR123911-1) |
 
 ## About This Role
 
-This corporate finance position at Blue Care was posted on 2026-05-27.
+This corporate finance position at Blue Care was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

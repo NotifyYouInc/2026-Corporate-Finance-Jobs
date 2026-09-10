@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
-| Category | Venture Capital / Private Equity |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Evansville/Senior-Fund-Accountant_JR-0025575) |
+| Location | Pune, Maharashtra, India |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Senior-Fund-Accountant_JR-0025061) |
 
 ## About This Role
 
-This venture capital / private equity position at Apex Fund Services was posted on 2026-08-22.
+This accounting position at Apex Fund Services was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

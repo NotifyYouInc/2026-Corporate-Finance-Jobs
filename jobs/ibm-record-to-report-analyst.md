@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121532) |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=131593) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-06-24.
+This accounting position at IBM was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

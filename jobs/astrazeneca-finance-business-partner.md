@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milan, Lombardy, Italy |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Italy---Milan/Finance-Business-Partner_R-255315-1) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UAE---Dubai/Finance-Business-Partner_R-259384) |
 
 ## About This Role
 
-This fp&a / strategic finance position at AstraZeneca was posted on 2026-07-31.
+This corporate finance position at AstraZeneca was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

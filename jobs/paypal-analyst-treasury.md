@@ -5,12 +5,12 @@
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Omaha-Nebraska-United-States-of-America/Analyst--Treasury_R0135549-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Omaha-Nebraska-United-States-of-America/Analyst--Treasury_R0137312) |
 
 ## About This Role
 
-This corporate finance position at PayPal was posted on 2026-03-19.
+This corporate finance position at PayPal was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

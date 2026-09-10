@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Senior-Financial-Analyst_JR2026512579-1) |
+| Category | Financial Analyst |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Senior-Financial-Analyst_JR2026521491-1) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-05-30.
+This financial analyst position at Boeing was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

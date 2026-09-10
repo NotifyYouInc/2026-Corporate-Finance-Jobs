@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [APL Logistics](https://scoutify.ai/companies/ap2-cx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://hcut.fa.ap2.oraclecloud.com/jobs/#4656) |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://hcut.fa.ap2.oraclecloud.com/jobs/#4770) |
 
 ## About This Role
 
-This corporate finance position at APL Logistics was posted on 2026-08-12.
+This accounting position at APL Logistics was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

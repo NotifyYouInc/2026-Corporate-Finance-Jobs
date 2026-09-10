@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Financial Analyst |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Index-Manager_330978-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Index-Manager_327977-2) |
 
 ## About This Role
 
-This financial analyst position at S&P Global was posted on 2026-08-29.
+This corporate finance position at S&P Global was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

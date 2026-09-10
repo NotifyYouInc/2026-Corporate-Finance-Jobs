@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mbabane, Hhohho Region, Eswatini |
+| Location | Douglas, Douglas, Isle of Man |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000144796359-tax-manager) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000147161084-tax-manager) |
 
 ## About This Role
 
-This accounting position at Standard Bank was posted on 2026-08-21.
+This accounting position at Standard Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

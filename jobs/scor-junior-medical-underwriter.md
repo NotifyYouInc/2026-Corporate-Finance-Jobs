@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SCOR](https://scoutify.ai/companies/ocs-cx-oj97530?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Germany |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5340) |
+| Location | Madrid, Madrid, Spain |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5346) |
 
 ## About This Role
 
-This actuary / insurance analytics position at SCOR was posted on 2026-08-20.
+This corporate finance position at SCOR was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

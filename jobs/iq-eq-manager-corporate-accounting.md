@@ -1,16 +1,16 @@
-# Manager, Corporate Accounting at IQ-EQ
+# Manager, Corporate Accounting  at IQ-EQ
 
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pasig City, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000137589779-manager-corporate-accounting) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000147161479-manager-corporate-accounting) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-14.
+This accounting position at IQ-EQ was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

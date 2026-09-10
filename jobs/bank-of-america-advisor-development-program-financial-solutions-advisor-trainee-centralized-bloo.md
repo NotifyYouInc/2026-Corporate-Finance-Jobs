@@ -1,16 +1,16 @@
-# Advisor Development Program - Financial Solutions Advisor Trainee (Centralized) - Bloomington Merrill Office at Bank of America
+# Advisor Development Program - Financial Solutions Advisor Trainee (Centralized) - Bloomfield Hills, MI at Bank of America
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bloomington, Minnesota, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Bloomington/Advisor-Development-Program---Financial-Solutions-Advisor-Trainee--Centralized----Bloomington-Merrill-Office_26009945) |
+| Location | Bloomfield Hills, Michigan, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Bloomfield-Hills/Advisor-Development-Program---Financial-Solutions-Advisor-Trainee--Centralized----Bloomfield-Hills--MI_26032492-1) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-17.
+This wealth management / private banking position at Bank of America was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

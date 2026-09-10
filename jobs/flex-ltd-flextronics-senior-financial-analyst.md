@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hungary |
-| Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Hungary-Tab/Senior-Financial-Analyst_WD215238) |
+| Location | Penang, MY |
+| Category | Financial Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Senior-Financial-Analyst_WD227098) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-02-12.
+This financial analyst position at FLEX LTD. Flextronics was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

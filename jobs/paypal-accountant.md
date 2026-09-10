@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Accountant_R0137014) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Accountant_R0137350) |
 
 ## About This Role
 
-This accounting position at PayPal was posted on 2026-07-24.
+This accounting position at PayPal was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

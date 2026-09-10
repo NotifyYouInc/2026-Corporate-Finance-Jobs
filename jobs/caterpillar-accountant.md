@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | East Peoria, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Accountant_R0000386421-1) |
+| Location | Peterborough, England, United Kingdom |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peterborough-United-Kingdom/Accountant_R0000390713) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-08-06.
+This accounting position at Caterpillar was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

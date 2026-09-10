@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Zagreb, Zagreb, Croatia |
 | Category | Accounting |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://flix.careers/job/8768475002?gh_jid=8768475002) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://flix.careers/job/8780986002?gh_jid=8780986002) |
 
 ## About This Role
 
-This accounting position at Flix was posted on 2026-09-01.
+This accounting position at Flix was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

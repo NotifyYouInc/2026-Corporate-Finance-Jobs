@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#254005) |
+| Location | Hisar, Haryana, India |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#255897) |
 
 ## About This Role
 
-This corporate finance position at Kotak Mahindra Bank was posted on 2026-08-18.
+This wealth management / private banking position at Kotak Mahindra Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

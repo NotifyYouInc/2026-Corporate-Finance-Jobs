@@ -5,12 +5,12 @@
 | Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sri Lanka |
 | Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#20715) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21194) |
 
 ## About This Role
 
-This accounting position at MAS Holdings was posted on 2026-07-31.
+This accounting position at MAS Holdings was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

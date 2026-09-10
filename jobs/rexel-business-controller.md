@@ -1,16 +1,16 @@
-# Business Controller  at REXEL
+# Business Controller at REXEL
 
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Deventer, Overijssel, The Netherlands |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000116227992-business-controller) |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000147159409-business-controller) |
 
 ## About This Role
 
-This corporate finance position at REXEL was posted on 2026-03-23.
+This accounting position at REXEL was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

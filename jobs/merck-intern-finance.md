@@ -1,16 +1,16 @@
-# Intern Finance at Merck
+# Intern - Finance at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/POL---Mazowieckie-Wojewodztwo---Warsaw-Trade-Center/Intern-Finance_R412484-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Maharashtra---Mumbai-WeWork/Intern---Finance_R414792) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Merck was posted on 2026-08-21.
+This accounting position at Merck was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

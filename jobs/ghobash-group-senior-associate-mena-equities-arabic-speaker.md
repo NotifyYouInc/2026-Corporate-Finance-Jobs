@@ -5,12 +5,12 @@
 | Company | [Ghobash Group](https://scoutify.ai/companies/ghobashgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Corporate Finance |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000146642534-senior-associate-mena-equities-arabic-speaker) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000147151209-senior-associate-mena-equities-arabic-speaker) |
 
 ## About This Role
 
-This corporate finance position at Ghobash Group was posted on 2026-09-01.
+This corporate finance position at Ghobash Group was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [First National Bank](https://scoutify.ai/companies/fnbcorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Greensburg, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Greensburg-PA/Associate-Financial-Advisor_2026-01361) |
+| Location | Baltimore, Maryland, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Baltimore-MD/Associate-Financial-Advisor_2026-01960) |
 
 ## About This Role
 
-This corporate finance position at First National Bank was posted on 2026-06-09.
+This wealth management / private banking position at First National Bank was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

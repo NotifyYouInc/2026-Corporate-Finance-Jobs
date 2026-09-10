@@ -1,16 +1,16 @@
-# Specialist  - Fund Accounting at Apex Fund Services
+# Specialist-Fund Accounting at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Gujarat, IN |
 | Category | Accounting |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Specialist----Fund-Accounting_JR-0025682) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Gift-City-Hiranandani-Signature/Specialist-Fund-Accounting_JR-0022348-1) |
 
 ## About This Role
 
-This accounting position at Apex Fund Services was posted on 2026-09-02.
+This accounting position at Apex Fund Services was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Accounts-Payable-Specialist_R2614059-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Accounts-Payable-Specialist_R2614626) |
 
 ## About This Role
 
-This accounting position at Cencora was posted on 2026-08-21.
+This accounting position at Cencora was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

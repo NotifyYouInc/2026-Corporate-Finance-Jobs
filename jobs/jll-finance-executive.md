@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Finance-Executive_REQ509148) |
+| Location | Ludhiana, Punjab, India |
+| Category | Financial Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ludhiana-PB/Finance-Executive_REQ529692) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-22.
+This financial analyst position at JLL was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
