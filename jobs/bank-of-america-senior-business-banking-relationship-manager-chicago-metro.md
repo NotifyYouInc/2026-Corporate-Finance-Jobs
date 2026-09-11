@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Account Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Senior-Business-Banking-Relationship-Manager---Chicago-Metro_26023322-2) |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Senior-Business-Banking-Relationship-Manager---Chicago-Metro_26032626) |
 
 ## About This Role
 
-This account manager position at Bank of America was posted on 2026-07-17.
+This corporate finance position at Bank of America was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

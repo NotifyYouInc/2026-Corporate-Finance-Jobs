@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oshawa, Ontario, Canada |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Oshawa-ON-CAN/Client-Service-Assistant_R260019917) |
+| Location | Saskatoon, Saskatchewan, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Saskatoon-SK-CAN/Client-Service-Assistant_R260025667) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of Montreal was posted on 2026-07-03.
+This corporate finance position at Bank of Montreal was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

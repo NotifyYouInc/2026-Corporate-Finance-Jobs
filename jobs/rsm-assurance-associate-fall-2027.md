@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Lauderdale, Florida, United States |
-| Category | Accounting |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Fort-Lauderdale/Assurance-Associate---Fall-2027_JR116533) |
+| Location | San Francisco, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Francisco/Assurance-Associate---Fall-2027_JR118862) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-09-01.
+This corporate finance position at RSM was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

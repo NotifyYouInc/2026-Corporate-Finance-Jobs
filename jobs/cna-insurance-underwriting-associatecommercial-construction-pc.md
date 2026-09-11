@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Lake-Mary-FL-USA/Underwriting-Associate-Commercial-Construction-P-C-_R-7866) |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Underwriting-Associate-Commercial-Construction-P-C-_R-8106) |
 
 ## About This Role
 
-This actuary / insurance analytics position at CNA Insurance was posted on 2026-07-30.
+This corporate finance position at CNA Insurance was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

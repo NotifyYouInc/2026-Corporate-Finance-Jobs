@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ingérop](https://scoutify.ai/companies/ingrop?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rueil-Malmaison, Île-de-France, France |
-| Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ingrop/744000135191569-responsable-comptable-adjoint-referent-sap-finance-fh) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ingrop/744000147446430-responsable-comptable-adjoint-referent-sap-finance-fh) |
 
 ## About This Role
 
-This accounting position at Ingérop was posted on 2026-07-01.
+This corporate finance position at Ingérop was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

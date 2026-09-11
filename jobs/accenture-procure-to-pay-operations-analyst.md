@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/Procure-to-Pay-Operations-Analyst_14453959) |
+| Location | Dalian, Liaoning, China |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Procure-to-Pay-Operations-Analyst_14643192) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-07-03.
+This corporate finance position at Accenture was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

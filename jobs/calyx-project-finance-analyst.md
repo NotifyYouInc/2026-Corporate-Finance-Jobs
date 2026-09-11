@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CALYX](https://scoutify.ai/companies/calyx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nottingham, England, United Kingdom |
+| Location | United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://calyx.wd1.myworkdayjobs.com/perceptive/job/Nottingham-UK/Project-Finance-Analyst_JR104527) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://calyx.wd1.myworkdayjobs.com/perceptive/job/GBR---Decentralized/Project-Finance-Analyst_JR104960) |
 
 ## About This Role
 
-This corporate finance position at CALYX was posted on 2026-02-06.
+This corporate finance position at CALYX was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

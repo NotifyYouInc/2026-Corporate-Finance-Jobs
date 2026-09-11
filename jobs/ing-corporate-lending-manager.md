@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Dublin/Corporate-Lending-Manager_REQ-10112257-2) |
+| Category | Investment Banking |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Dublin/Corporate-Lending-Manager_REQ-10120928-1) |
 
 ## About This Role
 
-This corporate finance position at ING was posted on 2026-03-27.
+This investment banking position at ING was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

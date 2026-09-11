@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smartkarma](https://scoutify.ai/companies/smartkarma?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Venture Capital / Private Equity |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Smartkarma/744000134386982-analyst-asean-private-markets) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Smartkarma/744000147410549-analyst-asean-private-markets) |
 
 ## About This Role
 
-This venture capital / private equity position at Smartkarma was posted on 2026-06-26.
+This corporate finance position at Smartkarma was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

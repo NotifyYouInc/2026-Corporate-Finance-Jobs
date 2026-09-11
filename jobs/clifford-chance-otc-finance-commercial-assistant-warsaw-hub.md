@@ -1,16 +1,16 @@
-# OTC Finance Commercial Assistant, Warsaw Hub at Clifford Chance
+# OTC Finance Commercial Assistant, Warsaw HUB at Clifford Chance
 
 | Field | Details |
 |-------|---------|
 | Company | [Clifford Chance](https://scoutify.ai/companies/cliffordchance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000135448679-otc-finance-commercial-assistant-warsaw-hub) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000147443804-otc-finance-commercial-assistant-warsaw-hub) |
 
 ## About This Role
 
-This accounting position at Clifford Chance was posted on 2026-07-02.
+This corporate finance position at Clifford Chance was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

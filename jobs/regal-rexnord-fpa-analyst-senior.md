@@ -5,12 +5,12 @@
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Pasig-Manila-Philippines/FP-A-Analyst-Senior_R26_01835) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Pasig-Manila-Philippines/FP-A-Analyst-Senior_R26_04599) |
 
 ## About This Role
 
-This corporate finance position at Regal Rexnord was posted on 2026-04-16.
+This corporate finance position at Regal Rexnord was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

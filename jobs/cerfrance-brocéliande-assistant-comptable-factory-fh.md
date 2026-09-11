@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerfrance Brocéliande](https://scoutify.ai/companies/cerfrancebrocliande?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | France |
+| Location | Saint-Aubin-du-Cormier, Brittany, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000117029623-assistant-comptable-factory-fh) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000147421380-assistant-comptable-factory-fh) |
 
 ## About This Role
 
-This corporate finance position at Cerfrance Brocéliande was posted on 2026-03-26.
+This corporate finance position at Cerfrance Brocéliande was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AVP - Private Bank Executive at Barclays
+# AVP- Private Bank Executive at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/AVP---Private-Bank-Executive_JR-0000104112) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/AVP--Private-Bank-Executive_JR-0000104110) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-09-01.
+This corporate finance position at Barclays was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/London-Park-Lane/Finance-Manager_REQ10378880) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Mumbai/Finance-Manager_REQ10390918) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-04-30.
+This corporate finance position at Four Seasons Hotels was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Ft-Lauderdale-FL/Community-Banking-Business-Services-Officer--Portfolio-Manager-IV_R0114564) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Houston-TX/Senior-Portfolio-Manager---Middle-Market-Credit-Delivery_R0118857) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-05-13.
+This corporate finance position at Truist was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

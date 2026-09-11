@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
-| Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000145207699-assistant-financial-controller) |
+| Location | South Brisbane, Queensland, Australia |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000147416590-assistant-financial-controller) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-24.
+This corporate finance position at ACCOR was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

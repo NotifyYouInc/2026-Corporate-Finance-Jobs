@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Financial Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Financial-Analyst_R-01359441) |
+| Location | South Korea |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Gangnam-gu-Korea-Republic-of/Financial-Analyst_R-01366483-1) |
 
 ## About This Role
 
-This financial analyst position at Thermo Fisher Scientific was posted on 2026-07-15.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chengdu, Sichuan, China |
-| Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473329/ap-analyst-japan-finance-operation-apac-retail-ap-team) |
+| Location | China |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10529605/ap-analyst-japan-finance-operation-apac-retail-ap-team) |
 
 ## About This Role
 
-This accounting position at Amazon was posted on 2026-07-14.
+This corporate finance position at Amazon was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

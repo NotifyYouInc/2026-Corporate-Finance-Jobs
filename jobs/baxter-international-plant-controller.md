@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mountain Home, Idaho, United States |
-| Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Mountain-Home-Arkansas/Plant-Controller_JR-206214-1) |
+| Location | Medina, Ohio, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Medina-New-York/Plant-Controller_JR-208628-1) |
 
 ## About This Role
 
-This accounting position at Baxter International was posted on 2026-07-23.
+This corporate finance position at Baxter International was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

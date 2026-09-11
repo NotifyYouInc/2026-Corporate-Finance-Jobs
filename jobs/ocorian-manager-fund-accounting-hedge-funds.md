@@ -5,12 +5,12 @@
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Moka, Moka, Mauritius |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000142054007-manager-fund-accounting-hedge-funds) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000147476315-manager-fund-accounting-hedge-funds) |
 
 ## About This Role
 
-This corporate finance position at Ocorian was posted on 2026-08-07.
+This corporate finance position at Ocorian was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

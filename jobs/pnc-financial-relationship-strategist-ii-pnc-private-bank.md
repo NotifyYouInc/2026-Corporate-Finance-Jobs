@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Relationship-Strategist-II---PNC-Private-Bank_R233006-1) |
+| Location | Sarasota, Florida, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Sarasota-34236/Relationship-Strategist-II---PNC-Private-Bank_R234642-2) |
 
 ## About This Role
 
-This wealth management / private banking position at PNC Financial was posted on 2026-08-21.
+This corporate finance position at PNC Financial was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Fund-Accounting-Analyst-2_26969242) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Fund-Accounting-Analyst-2_26990284) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-09.
+This corporate finance position at Citigroup was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

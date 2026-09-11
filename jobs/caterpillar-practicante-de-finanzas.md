@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Santa Catarina, Nuevo León, Mexico |
+| Location | Coahuila, MX |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Santa-Catarina-Nuevo-Len/Practicante-de-Finanzas_R0000355252) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Acuna-Coahuila/Practicante-de-Finanzas_R0000392416) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-04.
+This corporate finance position at Caterpillar was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tukwila, Washington, United States |
+| Location | Hazelwood, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Senior-Accountant_JR2026504156) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Senior-Accountant_JR2026522750-1) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-04-03.
+This corporate finance position at Boeing was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rivers Casino](https://scoutify.ai/companies/rivers-casino?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Schenectady, New York, United States |
-| Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://rushst.rec.pro.ukg.net/RIV1014RIVCA/JobBoard/27a20bf0-126e-44c7-a462-00944f601b0c/OpportunityDetail?opportunityId=0b73ee27-2ffb-4e8f-9b9c-61efd77c8297) |
+| Location | Des Plaines, Illinois, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://rushst.rec.pro.ukg.net/RIV1014RIVCA/JobBoard/27a20bf0-126e-44c7-a462-00944f601b0c/OpportunityDetail?opportunityId=8f21ff34-4a45-472b-b920-4082ab8225be) |
 
 ## About This Role
 
-This accounting position at Rivers Casino was posted on 2026-07-24.
+This corporate finance position at Rivers Casino was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

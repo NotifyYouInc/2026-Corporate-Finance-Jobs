@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lucile Packard Children's Hospital Stanford](https://scoutify.ai/companies/lucilepackardchildrenshospitalstanford?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Menlo Park, California, United States |
-| Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990014355236-supervisor-accounts-payable) |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990015063691-supervisor-accounts-payable) |
 
 ## About This Role
 
-This accounting position at Lucile Packard Children's Hospital Stanford was posted on 2026-07-29.
+This corporate finance position at Lucile Packard Children's Hospital Stanford was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

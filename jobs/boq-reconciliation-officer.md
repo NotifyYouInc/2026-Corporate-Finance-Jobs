@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boq](https://scoutify.ai/companies/boq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Brisbane-Office---Newstead-Village/Reconciliation-Officer_JR101324) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Brisbane-Office---Newstead-Village/Reconciliation-Officer_JR101903) |
 
 ## About This Role
 
-This corporate finance position at Boq was posted on 2026-04-28.
+This corporate finance position at Boq was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

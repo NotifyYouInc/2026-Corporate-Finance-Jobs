@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Sydney-Australia/Finance-Analyst_R566354-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Sydney-Australia/Finance-Analyst_R571675-1) |
 
 ## About This Role
 
-This corporate finance position at Stryker was posted on 2026-05-29.
+This corporate finance position at Stryker was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

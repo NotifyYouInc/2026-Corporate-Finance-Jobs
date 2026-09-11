@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Findlay, Ohio, United States |
-| Category | Accounting |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Associate-Accountant--Intern-to-FT-Conversion-_00023289) |
+| Location | Texas City, Texas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Texas-City-Texas/Associate-Accountant--Intern-to-FT-Conversion-_00023745) |
 
 ## About This Role
 
-This accounting position at Marathon Petroleum was posted on 2026-08-15.
+This corporate finance position at Marathon Petroleum was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Save the Children](https://scoutify.ai/companies/em2-cx-oj95780?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cairo, Cairo, Egypt |
-| Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://hcri.fa.em2.oraclecloud.com/jobs/#17036) |
+| Location | Lebanon |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://hcri.fa.em2.oraclecloud.com/jobs/#17593) |
 
 ## About This Role
 
-This accounting position at Save the Children was posted on 2026-07-13.
+This corporate finance position at Save the Children was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

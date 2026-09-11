@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Melbourn, England, United Kingdom |
-| Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000144731700-accounts-payable-facilitator-12-month-ftc) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000147466959-accounts-payable-facilitator-12-month-ftc) |
 
 ## About This Role
 
-This accounting position at PA Consulting was posted on 2026-08-21.
+This corporate finance position at PA Consulting was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

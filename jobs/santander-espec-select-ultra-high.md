@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Salvador, Bahia, Brazil |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Select-Ultra-High_Req1574939-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SALVADOR/Espec-Select-Ultra-High_Req1608011) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-05-05.
+This corporate finance position at Santander was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

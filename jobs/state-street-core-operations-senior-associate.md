@@ -1,16 +1,16 @@
-# Core Operations, Senior Associate at State Street
+# Core Operations - Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Chennai-India/Core-Operations--Senior-Associate_R-792349) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/Core-Operations---Senior-Associate_R-797403) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-12.
+This corporate finance position at State Street was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

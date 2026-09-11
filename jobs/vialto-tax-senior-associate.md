@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vialto](https://scoutify.ai/companies/vialto?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Berlin/Tax-Senior-Associate_REQ908177) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Tax-Senior-Associate_REQ908421) |
 
 ## About This Role
 
-This corporate finance position at Vialto was posted on 2026-06-19.
+This corporate finance position at Vialto was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

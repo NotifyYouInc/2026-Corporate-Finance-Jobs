@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ideal Dental](https://scoutify.ai/companies/ideal-dental?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ideal%20dental/53f16ee1-e264-495c-86fc-c4acd23a4936) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ideal%20dental/e095bb60-d151-4c2a-bb27-3aa8e26a3370) |
 
 ## About This Role
 
-This corporate finance position at Ideal Dental was posted on 2026-02-04.
+This corporate finance position at Ideal Dental was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

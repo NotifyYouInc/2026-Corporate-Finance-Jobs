@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trulioo](https://scoutify.ai/companies/trulioo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Accounting |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/trulioo/ed4db114-b907-4a6b-8a57-3b03ebd0e9e3) |
+| Location | San Diego, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trulioo/9d794945-e43b-407a-97cd-331824c05b1a) |
 
 ## About This Role
 
-This accounting position at Trulioo was posted on 2026-09-01.
+This corporate finance position at Trulioo was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

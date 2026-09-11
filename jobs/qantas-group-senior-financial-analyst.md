@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001264275-senior-financial-analyst) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001375924-senior-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Qantas Group was posted on 2026-07-28.
+This corporate finance position at Qantas Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

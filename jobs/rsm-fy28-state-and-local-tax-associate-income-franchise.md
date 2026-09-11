@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Stamford, Connecticut, United States |
-| Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Stamford/FY28-State-and-Local-Tax-Associate---Income-Franchise_JR116053) |
+| Location | Seattle, Washington, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Seattle/FY28-State-and-Local-Tax-Associate---Income-Franchise_JR120367) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-07-20.
+This corporate finance position at RSM was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

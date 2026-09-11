@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Germany |
-| Category | Human Resources / People Ops |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000146405219-senior-payroll-specialist) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000147469039-senior-payroll-specialist) |
 
 ## About This Role
 
-This human resources / people ops position at Intuitive Surgical was posted on 2026-08-31.
+This corporate finance position at Intuitive Surgical was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

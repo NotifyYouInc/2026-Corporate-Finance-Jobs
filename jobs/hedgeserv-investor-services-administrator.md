@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hedgeserv](https://scoutify.ai/companies/hedgeserv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Luxembourg |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Dallas-TX/Investor-Services-Administrator_R6539) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Luxembourg/Investor-Services-Administrator_R6895) |
 
 ## About This Role
 
-This corporate finance position at Hedgeserv was posted on 2026-05-13.
+This corporate finance position at Hedgeserv was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Longmont, Colorado, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Longmont-CO/Financial-Analyst-II_R64788) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Financial-Analyst-II_R64142) |
 
 ## About This Role
 
-This corporate finance position at Blue Origin was posted on 2026-05-20.
+This corporate finance position at Blue Origin was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

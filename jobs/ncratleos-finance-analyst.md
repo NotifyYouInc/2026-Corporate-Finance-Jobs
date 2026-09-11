@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ncratleos](https://scoutify.ai/companies/ncratleos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | India |
 | Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/MUMBAI-IND/Finance-Analyst_R1153429) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/INDIA-VIRTUAL-IND/Finance-Analyst--AR-process-_R1154149) |
 
 ## About This Role
 
-This corporate finance position at Ncratleos was posted on 2026-06-22.
+This corporate finance position at Ncratleos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

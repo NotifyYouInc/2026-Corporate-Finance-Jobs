@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlottesville, Virginia, United States |
-| Category | Accounting |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Virginia-Guesthouse-at-UVA/Director-of-Finance_R0065618) |
+| Location | Naples, Florida, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Naples-Bay-Resort/Director-of-Finance_R0066320) |
 
 ## About This Role
 
-This accounting position at Benchmark was posted on 2026-08-14.
+This corporate finance position at Benchmark was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Senior-Accountant--Canadian-Tax-Services_JR6965) |
+| Location | Toronto, Ontario, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Senior-Accountant--Canadian-Tax-Services_JR7011) |
 
 ## About This Role
 
-This accounting position at BDO Dunwoody was posted on 2026-08-28.
+This corporate finance position at BDO Dunwoody was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

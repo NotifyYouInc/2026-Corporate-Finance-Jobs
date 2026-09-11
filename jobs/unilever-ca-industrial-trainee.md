@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/UniOps-Bangalore-Centre/CA-Industrial-Trainee_R-1178437) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Uniops-Bangalore-Centre/CA-Industrial-Trainee_R-1187862) |
 
 ## About This Role
 
-This corporate finance position at Unilever was posted on 2026-03-24.
+This corporate finance position at Unilever was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

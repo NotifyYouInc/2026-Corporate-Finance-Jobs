@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning---Analysis-Analyst_JR00043664) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning---Analysis-Analyst_JR00046362) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-08-17.
+This corporate finance position at ABB was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

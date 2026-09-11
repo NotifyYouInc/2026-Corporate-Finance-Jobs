@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smartkarma](https://scoutify.ai/companies/smartkarma?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Financial Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Smartkarma/744000134387869-research-analyst) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Smartkarma/744000147410709-research-analyst) |
 
 ## About This Role
 
-This financial analyst position at Smartkarma was posted on 2026-06-26.
+This corporate finance position at Smartkarma was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

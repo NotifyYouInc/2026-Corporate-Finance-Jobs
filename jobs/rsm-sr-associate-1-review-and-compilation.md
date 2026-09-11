@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Accounting |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Sr-Associate-1--Review-and-Compilation_JR121040) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Sr-Associate-1--Review-and-Compilation_JR121042) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-09-02.
+This corporate finance position at RSM was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

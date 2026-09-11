@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7998127?gh_jid=7998127) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/8177018?gh_jid=8177018) |
 
 ## About This Role
 
-This corporate finance position at Ripple was posted on 2026-06-14.
+This corporate finance position at Ripple was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

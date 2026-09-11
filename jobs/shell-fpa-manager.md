@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/FP-A-Manager_R209090-1) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Shell-Centre-Kuala-Lumpur/FP-A-Manager_R210451) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Shell was posted on 2026-09-02.
+This corporate finance position at Shell was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

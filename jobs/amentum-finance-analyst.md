@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-Guam/Finance-Analyst_R0162553) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-HI-Honolulu/Finance-Analyst_R0169929) |
 
 ## About This Role
 
-This corporate finance position at Amentum was posted on 2026-06-07.
+This corporate finance position at Amentum was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

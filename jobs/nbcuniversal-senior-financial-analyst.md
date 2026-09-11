@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000135274644-senior-financial-analyst) |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000147350114-senior-financial-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at NBCUniversal was posted on 2026-07-01.
+This corporate finance position at NBCUniversal was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

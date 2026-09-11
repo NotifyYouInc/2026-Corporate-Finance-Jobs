@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/San-Luis-Potosi/Site-Business-Management-Controller_REQ2026070088) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/San-Luis-Potosi/Site-Business-Management-Controller_REQ2026079958) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-02-11.
+This corporate finance position at Valeo was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

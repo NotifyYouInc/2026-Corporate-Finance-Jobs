@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nantes, Pays de la Loire, France |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146661110-cdd-financial-business-partner-hf) |
+| Location | Lyon, Rhône-Alpes, France |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000147454269-cdd-financial-business-partner-hf) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Devoteam was posted on 2026-09-01.
+This corporate finance position at Devoteam was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

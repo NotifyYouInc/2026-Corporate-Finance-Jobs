@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Sr-Accountant_R304702) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Sr-Accountant_R335409) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-02-11.
+This corporate finance position at Cushman & Wakefield was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

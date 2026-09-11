@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tianjin, Tianjin, China |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000107211135-accountant) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000147477230-accountant) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-02-04.
+This corporate finance position at Louis Dreyfus was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

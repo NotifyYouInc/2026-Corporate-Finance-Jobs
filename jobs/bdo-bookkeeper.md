@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cairns, Queensland, Australia |
+| Location | Hobart, Tasmania, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Cairns-Queensland/Bookkeeper_JR103122) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Hobart-Tasmania/Bookkeeper_JR103847) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-05-01.
+This corporate finance position at Bdo was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
