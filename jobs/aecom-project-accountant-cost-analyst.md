@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Diego, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000132504039-project-accountant-cost-analyst) |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000147587609-project-accountant-cost-analyst) |
 
 ## About This Role
 
-This corporate finance position at AECOM was posted on 2026-06-16.
+This accounting position at AECOM was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

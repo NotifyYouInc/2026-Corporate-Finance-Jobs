@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cleveland, Ohio, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Cleveland-Ohio-United-States-of-America/Business-Service-Officer_JR041565-2) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Cincinnati-Ohio-United-States-of-America/Business-Service-Officer_JR043263) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-08-12.
+This corporate finance position at Morgan Stanley was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

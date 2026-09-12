@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accounting-Associate_R0000377018) |
+| Category | Accounting |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accounting-Associate_R0000318410) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar Inc. was posted on 2026-06-18.
+This accounting position at Caterpillar Inc. was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

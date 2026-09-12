@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Purchase, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Vice-President--Mergers-and-Acquisitions_R-288940) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Vice-President--Mergers-and-Acquisitions_R-290049) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-08-24.
+This corporate finance position at Mastercard was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

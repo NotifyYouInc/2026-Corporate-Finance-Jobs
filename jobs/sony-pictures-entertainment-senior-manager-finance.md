@@ -5,12 +5,12 @@
 | Company | [Sony Pictures Entertainment](https://scoutify.ai/companies/spe?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Culver City, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/Culver-City-California/Senior-Manager--Finance_JR111992-2) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/Culver-City-California/Senior-Manager--Finance_JR114301) |
 
 ## About This Role
 
-This corporate finance position at Sony Pictures Entertainment was posted on 2026-03-20.
+This corporate finance position at Sony Pictures Entertainment was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

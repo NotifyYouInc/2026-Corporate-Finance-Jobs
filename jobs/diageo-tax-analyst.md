@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Budapest-Hungary/Tax-Analyst_JR1126677) |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Budapest-Hungary/Tax-Analyst_JR1129425) |
 
 ## About This Role
 
-This corporate finance position at Diageo was posted on 2026-06-19.
+This accounting position at Diageo was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

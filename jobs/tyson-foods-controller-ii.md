@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Arkansas, US |
+| Location | North Richland Hills, Texas, United States |
 | Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Controller-II_R0477435) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/North-Richland-Hills-Plant---N-Richland-Hills-Texas/Controller-II_R0480713-1) |
 
 ## About This Role
 
-This accounting position at Tyson Foods was posted on 2026-08-20.
+This accounting position at Tyson Foods was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

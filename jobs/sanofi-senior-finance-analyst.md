@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/Senior-Finance-Analyst_R2846569) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/Senior-Finance-Analyst_R2870476) |
 
 ## About This Role
 
-This corporate finance position at Sanofi was posted on 2026-03-13.
+This corporate finance position at Sanofi was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

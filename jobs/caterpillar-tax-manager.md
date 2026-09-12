@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Peterborough, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peterborough-United-Kingdom/Tax-Manager_R0000371770) |
+| Location | 3 locations |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/USA---TX---Irving---Walnut-Hill/Tax-Manager_R0000391726) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-05-27.
+This accounting position at Caterpillar was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

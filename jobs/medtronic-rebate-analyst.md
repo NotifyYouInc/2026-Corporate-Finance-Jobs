@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Rebate-Analyst_R72385-1) |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Rebate-Analyst_R76633) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-08-13.
+This accounting position at Medtronic was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

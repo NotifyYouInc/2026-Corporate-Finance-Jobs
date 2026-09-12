@@ -1,16 +1,16 @@
-# Director of Finance (Etihad Park- Food & Beverage) at ASM Global
+# Director of Finance | Etihad Park- Food & Beverage at ASM Global
 
 | Field | Details |
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Director-of-Finance--Etihad-Park--Food---Beverage-_R100121560) |
+| Location | New York City, New York, United States |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Director-of-Finance---Etihad-Park--Food---Beverage_R100125278-1) |
 
 ## About This Role
 
-This corporate finance position at ASM Global was posted on 2026-03-26.
+This accounting position at ASM Global was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

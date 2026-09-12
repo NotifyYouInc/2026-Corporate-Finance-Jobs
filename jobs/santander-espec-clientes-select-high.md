@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Goiânia, Goiás, Brazil |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/GOIANIA/Espec-Clientes-Select-High_Req1601895) |
+| Location | São José do Rio Preto, São Paulo, Brazil |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-JOSE-DO-RIO-PRETO/Espec-Clientes-Select-High_Req1610494) |
 
 ## About This Role
 
-This wealth management / private banking position at Santander was posted on 2026-08-21.
+This corporate finance position at Santander was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

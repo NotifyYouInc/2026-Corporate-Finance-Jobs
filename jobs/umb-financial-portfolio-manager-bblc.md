@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Aurora, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Lubbock-TX/Portfolio-Manager---BBLC_R-9182) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Aurora-CO/Portfolio-Manager---BBLC_R-9378) |
 
 ## About This Role
 
-This corporate finance position at UMB Financial was posted on 2026-08-05.
+This corporate finance position at UMB Financial was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

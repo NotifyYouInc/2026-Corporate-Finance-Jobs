@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vinton, Virginia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013716866-lead-revenue-audit-clerk) |
+| Location | Cincinnati, Ohio, United States |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990015084997-lead-revenue-audit-clerk) |
 
 ## About This Role
 
-This corporate finance position at Boyd Gaming was posted on 2026-06-20.
+This accounting position at Boyd Gaming was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

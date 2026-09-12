@@ -5,12 +5,12 @@
 | Company | [Constellation Brands](https://scoutify.ai/companies/cbrands?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sonora, MX |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Obregon-Sonora-Mexico/Practicante--Finanzas_R-40327) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Obregon-Sonora-Mexico/Practicante--Finanzas_R-41177) |
 
 ## About This Role
 
-This corporate finance position at Constellation Brands was posted on 2026-05-19.
+This corporate finance position at Constellation Brands was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

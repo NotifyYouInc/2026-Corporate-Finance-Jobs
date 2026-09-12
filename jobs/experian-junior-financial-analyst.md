@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Financial Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000145262851-junior-financial-analyst) |
+| Category | Corporate Finance |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000147633669-junior-financial-analyst) |
 
 ## About This Role
 
-This financial analyst position at Experian was posted on 2026-08-24.
+This corporate finance position at Experian was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

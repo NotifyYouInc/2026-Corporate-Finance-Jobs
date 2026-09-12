@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Louisiana State University](https://scoutify.ai/companies/louisiana-state-university?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Baton Rouge, Louisiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://lsu.wd1.myworkdayjobs.com/lsu/job/0202-JW-Nicholson-Hall/Grants-Manager----Manager-of-Grant-and-Travel-administration-_R00114317) |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://lsu.wd1.myworkdayjobs.com/lsu/job/0202-JW-Nicholson-Hall/Grants-Manager----Manager-of-Grant-and-Travel-administration-_R00120246) |
 
 ## About This Role
 
-This corporate finance position at Louisiana State University was posted on 2026-04-03.
+This accounting position at Louisiana State University was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Boston/International-Tax-Intern---Summer-2027_JR120381) |
+| Location | San Francisco, California, United States |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Francisco/International-Tax-Intern---Summer-2027_JR121124) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-09-03.
+This accounting position at RSM was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/AP-Specialist_R266817) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Monterrey-NLE/AP-Specialist_R267157) |
 
 ## About This Role
 
-This accounting position at Uline was posted on 2026-08-26.
+This accounting position at Uline was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

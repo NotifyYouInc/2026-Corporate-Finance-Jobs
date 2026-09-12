@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bridgewater Bank](https://scoutify.ai/companies/recruiting2-ultipro-com-oj16663?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/bri1025bridg/JobBoard/c03155e6-0f7c-455b-8f80-d95807d74e0c/OpportunityDetail?opportunityId=fe662adf-ad3d-4291-bbd3-e72dfe5a7c7b) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/bri1025bridg/JobBoard/c03155e6-0f7c-455b-8f80-d95807d74e0c/OpportunityDetail?opportunityId=a01beede-f5b6-4d94-90dd-3288c34f0cd3) |
 
 ## About This Role
 
-This treasury & capital markets position at Bridgewater Bank was posted on 2026-07-17.
+This corporate finance position at Bridgewater Bank was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

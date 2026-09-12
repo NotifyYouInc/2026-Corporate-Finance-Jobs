@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Anniston, Alabama, United States |
+| Location | Schaumburg, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ANNISTON-AL/Client-Associate_R-570872) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SCHAUMBURG-IL/Client-Associate_R-573001) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-08-27.
+This corporate finance position at Wells Fargo was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Accounting-Associate_R226711-1) |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Accounting-Associate_R234351-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-27.
+This accounting position at PNC Financial was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

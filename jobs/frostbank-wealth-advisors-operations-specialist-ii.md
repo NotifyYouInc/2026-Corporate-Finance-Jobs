@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Worth, Texas, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Fort-Worth-TX---Downtown/Wealth-Advisors-Operations-Specialist-II_R261312-1) |
+| Location | San Antonio, Texas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---Downtown/Wealth-Advisors-Operations-Specialist-II_R261660) |
 
 ## About This Role
 
-This wealth management / private banking position at Frostbank was posted on 2026-07-31.
+This corporate finance position at Frostbank was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

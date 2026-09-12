@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Tacoma, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/Associate-Wealth-Banking-Specialist--SAFE-_R-566097) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/TACOMA-WA/Associate-Wealth-Banking-Specialist--SAFE-_R-572451) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-08-10.
+This corporate finance position at Wells Fargo was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Philadelphia-Pennsylvania/Private-Wealth-Associate_R0019643-1) |
+| Location | Los Angeles, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Los-Angeles-California/Private-Wealth-Associate_R0019753-2) |
 
 ## About This Role
 
-This wealth management / private banking position at Abglobal was posted on 2026-08-21.
+This corporate finance position at Abglobal was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

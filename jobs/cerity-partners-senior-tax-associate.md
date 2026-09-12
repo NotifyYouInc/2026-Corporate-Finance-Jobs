@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerity Partners](https://scoutify.ai/companies/ceritypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Cincinnati-OH/Senior-Tax-Associate_R683) |
+| Location | Boston, Massachusetts, United States |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Boston-MA/Senior-Tax-Associate_R865) |
 
 ## About This Role
 
-This corporate finance position at Cerity Partners was posted on 2026-05-26.
+This accounting position at Cerity Partners was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

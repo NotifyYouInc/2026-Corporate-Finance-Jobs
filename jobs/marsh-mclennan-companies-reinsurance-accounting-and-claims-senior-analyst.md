@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Reinsurance-Accounting-and-Claims-Senior-Analyst_R_361422) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Reinsurance-Accounting-and-Claims-Senior-Analyst_R_361445) |
 
 ## About This Role
 
-This accounting position at Marsh & McLennan Companies was posted on 2026-08-28.
+This accounting position at Marsh & McLennan Companies was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

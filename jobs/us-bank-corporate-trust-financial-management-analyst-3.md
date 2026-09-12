@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saint Paul, Minnesota, United States |
-| Category | Financial Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Corporate-Trust-Financial-Management-Analyst-3_2026-0024218) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Corporate-Trust-Financial-Management-Analyst-3_2026-0027354) |
 
 ## About This Role
 
-This financial analyst position at U.S. Bank was posted on 2026-08-10.
+This corporate finance position at U.S. Bank was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

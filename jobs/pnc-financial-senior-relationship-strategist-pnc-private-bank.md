@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Palm Beach Gardens, Florida, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Palm-Beach-Gardens-33418/Senior-Relationship-Strategist---PNC-Private-Bank_R233926-1) |
+| Location | Phoenix, Arizona, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/AZ---Phoenix/Senior-Relationship-Strategist---PNC-Private-Bank_R235005-1) |
 
 ## About This Role
 
-This wealth management / private banking position at PNC Financial was posted on 2026-08-26.
+This corporate finance position at PNC Financial was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

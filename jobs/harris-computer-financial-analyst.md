@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ontario, CA |
-| Category | Financial Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Financial-Analyst_R0044787) |
+| Location | Ottawa, Ontario, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Financial-Analyst_R0046564) |
 
 ## About This Role
 
-This financial analyst position at Harris Computer was posted on 2026-07-03.
+This corporate finance position at Harris Computer was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

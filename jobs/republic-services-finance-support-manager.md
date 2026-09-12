@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Walnut Creek, California, United States |
+| Location | Redmond, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Walnut-Creek-CA-USA/Finance-Support-Manager_R-182268) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Redmond-WA-USA/Finance-Support-Manager_R-183850-1) |
 
 ## About This Role
 
-This corporate finance position at Republic Services was posted on 2026-08-18.
+This corporate finance position at Republic Services was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

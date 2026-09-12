@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Sales-Coordinator_R260016209) |
+| Category | Sales & Trading |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Sales-Coordinator_R260026153) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-05-28.
+This sales & trading position at Bank of Montreal was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

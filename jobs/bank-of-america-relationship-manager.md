@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Walnut Creek, California, United States |
+| Location | Lexington, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Walnut-Creek/Relationship-Manager_26029079) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Lexington/Relationship-Manager_26032608) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-08-14.
+This corporate finance position at Bank of America was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [James Moore](https://scoutify.ai/companies/jamesmoore-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tallahassee, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jamesmoore.rec.pro.ukg.net/JAM1500JAME/JobBoard/3abd433d-f100-4f95-905d-042b0387e25b/OpportunityDetail?opportunityId=4575733c-588f-4886-978b-faf05df1546e) |
+| Location | Gainesville, Florida, United States |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jamesmoore.rec.pro.ukg.net/JAM1500JAME/JobBoard/3abd433d-f100-4f95-905d-042b0387e25b/OpportunityDetail?opportunityId=912413f1-5125-4ddf-b46e-8724120a9b38) |
 
 ## About This Role
 
-This corporate finance position at James Moore was posted on 2026-06-22.
+This accounting position at James Moore was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

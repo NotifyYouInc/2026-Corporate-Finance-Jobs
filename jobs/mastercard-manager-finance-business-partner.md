@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Purchase, New York, United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Finance-Business-Partner_R-287202) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Manager--Finance-Business-Partner_R-289263) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-08-14.
+This corporate finance position at Mastercard was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

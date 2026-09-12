@@ -1,0 +1,22 @@
+# Sr. Multifamily Property Accountant at Empire State Realty Trust
+
+| Field | Details |
+|-------|---------|
+| Company | [Empire State Realty Trust](https://scoutify.ai/companies/esrtreit?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | New York City, New York, United States |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.lever.co/esrtreit/6c904901-1638-42ad-a0d5-c51f92fe88ef) |
+
+## About This Role
+
+This accounting position at Empire State Realty Trust was posted on 2026-09-04.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

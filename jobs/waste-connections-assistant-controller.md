@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/7300-Vancouver/Assistant-Controller_R-102278-1) |
+| Location | Calgary, Alberta, Canada |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/7400-Calgary/Assistant-Controller_R-103447) |
 
 ## About This Role
 
-This corporate finance position at Waste Connections was posted on 2026-08-05.
+This accounting position at Waste Connections was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

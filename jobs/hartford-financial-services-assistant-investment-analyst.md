@@ -5,12 +5,12 @@
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hartford, Connecticut, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Assistant-Investment-Analyst_R2626384) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Assistant-Investment-Analyst_R2626690) |
 
 ## About This Role
 
-This corporate finance position at Hartford Financial Services was posted on 2026-08-14.
+This corporate finance position at Hartford Financial Services was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
