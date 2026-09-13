@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Whippany, New Jersey, United States |
-| Category | Accounting |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Internal-Audit-Analyst-Summer-Internship-Program-Whippany_JR-0000123225) |
 
 ## About This Role
 
-This accounting position at Barclays was posted on 2026-09-04.
+This compliance & risk management position at Barclays was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

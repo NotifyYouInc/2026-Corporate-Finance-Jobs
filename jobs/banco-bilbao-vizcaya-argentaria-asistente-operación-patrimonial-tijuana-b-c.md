@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tijuana, Baja California, Mexico |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Baja-California-Tijuana-22010/Asistente-Operacin-Patrimonial--Tijuana--B-C-_JR00112980-1) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-04.
+This wealth management / private banking position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

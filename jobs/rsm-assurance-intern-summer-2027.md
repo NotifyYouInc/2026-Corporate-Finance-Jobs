@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Denver, Colorado, United States |
 | Category | Accounting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Philadelphia/Assurance-Intern---Summer-2027_JR115779) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Assurance-Intern---Summer-2027_JR117021) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-09-03.
+This accounting position at RSM was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

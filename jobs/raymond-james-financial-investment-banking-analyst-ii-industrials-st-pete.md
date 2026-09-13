@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Florida, US |
-| Category | Corporate Finance |
+| Category | Investment Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Investment-Banking-Analyst-II---Industrials--St-Pete-_R-0012895) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-09-04.
+This investment banking position at Raymond James Financial was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

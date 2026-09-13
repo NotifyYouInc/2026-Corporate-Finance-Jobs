@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Prysmian Cables & Systems](https://scoutify.ai/companies/prysmian-cables-systems?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kentucky, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/Accounts-Payable-Specialist_R-30744-1) |
+| Location | Liverpool, New South Wales, Australia |
+| Category | Accounting |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Liverpool-AU/Accounts-Payable-Specialist_R-36381) |
 
 ## About This Role
 
-This corporate finance position at Prysmian Cables & Systems was posted on 2026-03-06.
+This accounting position at Prysmian Cables & Systems was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Powell, Ohio, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Powell/Premier-Client-Banker---PNC-Wealth-Management_R234481-2) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-09-04.
+This wealth management / private banking position at PNC Financial was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

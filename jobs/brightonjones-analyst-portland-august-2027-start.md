@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brightonjones](https://scoutify.ai/companies/brightonjones?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.lever.co/brightonjones/3010cf21-d19a-4b8c-b617-957ac5bfde7a) |
 
 ## About This Role
 
-This corporate finance position at Brightonjones was posted on 2026-09-04.
+This wealth management / private banking position at Brightonjones was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

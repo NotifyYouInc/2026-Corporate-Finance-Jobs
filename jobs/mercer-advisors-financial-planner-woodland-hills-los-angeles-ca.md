@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mercer Advisors](https://scoutify.ai/companies/merceradvisors?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Woodland Hills, California, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/merceradvisors/jobs/5413194008) |
 
 ## About This Role
 
-This corporate finance position at Mercer Advisors was posted on 2026-09-04.
+This wealth management / private banking position at Mercer Advisors was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

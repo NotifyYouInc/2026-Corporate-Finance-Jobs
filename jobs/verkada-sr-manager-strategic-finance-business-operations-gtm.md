@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Corporate Finance |
+| Category | Strategy & Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5231248007) |
 
 ## About This Role
 
-This corporate finance position at Verkada was posted on 2026-09-04.
+This strategy & operations position at Verkada was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

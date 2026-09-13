@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cedar Rapids, Iowa, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Senior-Tax-Accountant_R20061611) |
+| Category | Accounting |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Senior-Tax-Accountant_R20062691) |
 
 ## About This Role
 
-This corporate finance position at Transamerica was posted on 2026-05-13.
+This accounting position at Transamerica was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Hope](https://scoutify.ai/companies/recruiting-ultipro-com-oj9974?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://recruiting.ultipro.com/nar1001narb/JobBoard/13f4ecf9-2db0-40b8-bfc7-d831c72b6e32/OpportunityDetail?opportunityId=f83047e5-4871-41ba-b066-91fee171df72) |
 
 ## About This Role
 
-This corporate finance position at Bank of Hope was posted on 2026-09-04.
+This wealth management / private banking position at Bank of Hope was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

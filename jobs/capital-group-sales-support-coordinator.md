@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/San-Antonio/Sales-Support-Coordinator_JR7259) |
 
 ## About This Role
 
-This corporate finance position at Capital Group was posted on 2026-09-04.
+This wealth management / private banking position at Capital Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

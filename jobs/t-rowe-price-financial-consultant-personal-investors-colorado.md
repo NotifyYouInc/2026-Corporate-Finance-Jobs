@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T. Rowe Price](https://scoutify.ai/companies/t-rowe-price?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Colorado-Springs-CO/Financial-Consultant--Personal-Investors----Colorado_83531-1) |
 
 ## About This Role
 
-This corporate finance position at T. Rowe Price was posted on 2026-09-04.
+This wealth management / private banking position at T. Rowe Price was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/San-Francisco-CA-USA/Premier-Client-Specialist_R260026121) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-09-04.
+This wealth management / private banking position at Bank of Montreal was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

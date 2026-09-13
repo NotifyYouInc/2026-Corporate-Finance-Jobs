@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cibc](https://scoutify.ai/companies/cibc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://cibc.wd3.myworkdayjobs.com/campus/job/XMLNAME-2026-Summer-Intern---Private-Wealth_2520352) |
 
 ## About This Role
 
-This corporate finance position at Cibc was posted on 2026-09-04.
+This wealth management / private banking position at Cibc was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

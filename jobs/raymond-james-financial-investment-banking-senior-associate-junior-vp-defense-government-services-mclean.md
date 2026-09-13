@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Corporate Finance |
+| Category | Investment Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Mc-Lean-Virginia---United-States/Investment-Banking-Senior-Associate--Junior-VP---Defense---Government-Services--McLean--VA-_R-0012893) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-09-04.
+This investment banking position at Raymond James Financial was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
-| Category | Corporate Finance |
+| Category | Strategy & Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Strategic-Finance-Director_00023891) |
 
 ## About This Role
 
-This corporate finance position at Marathon Petroleum was posted on 2026-09-04.
+This strategy & operations position at Marathon Petroleum was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

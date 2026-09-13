@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Associated Bank](https://scoutify.ai/companies/associatedbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Green Bay, Wisconsin, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Green-Bay-200-Adams/Senior-Fiduciary-Officer_JR106377) |
 
 ## About This Role
 
-This corporate finance position at Associated Bank was posted on 2026-09-04.
+This wealth management / private banking position at Associated Bank was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

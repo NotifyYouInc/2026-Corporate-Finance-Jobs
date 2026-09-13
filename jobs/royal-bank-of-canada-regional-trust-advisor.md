@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OTTAWA-Ontario-Canada/Regional-Trust-Advisor_R-0000186655-2) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-09-04.
+This wealth management / private banking position at Royal Bank of Canada was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

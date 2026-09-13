@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/position/4684187006?gh_jid=4684187006) |
+| Location | Israel |
+| Category | Accounting |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position?gh_jid=4711456006) |
 
 ## About This Role
 
-This corporate finance position at Fireblocks was posted on 2026-05-28.
+This accounting position at Fireblocks was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

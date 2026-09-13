@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Corporate Finance |
+| Category | Strategy & Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Senior-Financial-Analyst--Transformation-and-Value-Realization_JR0153342-1) |
 
 ## About This Role
 
-This corporate finance position at McKesson was posted on 2026-09-04.
+This strategy & operations position at McKesson was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

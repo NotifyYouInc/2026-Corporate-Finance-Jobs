@@ -1,16 +1,16 @@
-# BUDGET ANALYST at City of New York
+# Budget Analyst at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014937501-budget-analyst) |
+| Category | Corporate Finance |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015092746-budget-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at City of New York was posted on 2026-08-29.
+This corporate finance position at City of New York was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

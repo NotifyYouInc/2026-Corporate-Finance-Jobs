@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Account-Officer-Specialist_R72483) |
 
 ## About This Role
 
-This corporate finance position at Fifth Third Bank was posted on 2026-09-04.
+This wealth management / private banking position at Fifth Third Bank was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

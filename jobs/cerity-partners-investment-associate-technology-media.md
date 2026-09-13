@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cerity Partners](https://scoutify.ai/companies/ceritypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
-| Category | Corporate Finance |
+| Category | Venture Capital |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/San-Francisco-CA/Investment-Associate---Technology---Media_R868) |
 
 ## About This Role
 
-This corporate finance position at Cerity Partners was posted on 2026-09-04.
+This venture capital position at Cerity Partners was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

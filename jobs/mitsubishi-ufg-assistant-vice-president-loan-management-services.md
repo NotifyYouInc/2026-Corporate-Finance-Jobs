@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
+| Category | Investment Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/Assistant-Vice-President--Loan-Management-Services_10079220-WD) |
 
 ## About This Role
 
-This corporate finance position at Mitsubishi UFG was posted on 2026-09-04.
+This investment banking position at Mitsubishi UFG was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

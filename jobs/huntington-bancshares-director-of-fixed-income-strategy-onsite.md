@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
-| Category | Corporate Finance |
+| Category | Strategy & Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Cincinnati-Main-Vine-Bo-S-OhKy/Director-of-Fixed-Income-Strategy--Onsite_R0074737-1) |
 
 ## About This Role
 
-This corporate finance position at Huntington Bancshares was posted on 2026-09-04.
+This strategy & operations position at Huntington Bancshares was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

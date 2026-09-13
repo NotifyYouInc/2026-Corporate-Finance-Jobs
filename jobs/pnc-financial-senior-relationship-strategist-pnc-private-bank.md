@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Phoenix, Arizona, United States |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/AZ---Phoenix/Senior-Relationship-Strategist---PNC-Private-Bank_R235005-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-09-04.
+This wealth management / private banking position at PNC Financial was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

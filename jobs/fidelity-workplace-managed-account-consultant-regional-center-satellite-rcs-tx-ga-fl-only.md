@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
-| Category | Corporate Finance |
+| Category | Wealth Management / Private Banking |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Houston-TX/Workplace-Managed-Account-Consultant---Regional-Center-Satellite--RCS-TX--GA----FL-ONLY-_2133916) |
 
 ## About This Role
 
-This corporate finance position at Fidelity was posted on 2026-09-04.
+This wealth management / private banking position at Fidelity was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

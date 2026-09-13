@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Accounting |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Financial---Regulatory-Reporting-Associate_2026-0022220-1) |
 
 ## About This Role
 
-This accounting position at U.S. Bancorp was posted on 2026-09-04.
+This compliance & risk management position at U.S. Bancorp was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

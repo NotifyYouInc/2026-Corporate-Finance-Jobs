@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pimacounty](https://scoutify.ai/companies/pimacounty?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tucson, Arizona, United States |
-| Category | Accounting |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Accountant-II---Finance---Risk-Management_JR104343) |
 
 ## About This Role
 
-This accounting position at Pimacounty was posted on 2026-09-04.
+This compliance & risk management position at Pimacounty was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
