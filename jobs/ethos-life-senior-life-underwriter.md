@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8598078002) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8782307002) |
 
 ## About This Role
 
-This corporate finance position at Ethos Life was posted on 2026-06-19.
+This actuary / insurance analytics position at Ethos Life was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

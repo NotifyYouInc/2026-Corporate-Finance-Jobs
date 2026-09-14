@@ -5,12 +5,12 @@
 | Company | [Kalshi](https://scoutify.ai/companies/kalshi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Accounting |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kalshi/c3b90847-4936-4f09-8960-0c960be3aad6) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kalshi/346145cd-5542-45fe-93f6-066f64619963) |
 
 ## About This Role
 
-This accounting position at Kalshi was posted on 2026-08-14.
+This accounting position at Kalshi was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

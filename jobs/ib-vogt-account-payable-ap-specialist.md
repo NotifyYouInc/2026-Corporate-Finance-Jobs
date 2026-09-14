@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ib vogt](https://scoutify.ai/companies/ibvogt?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ib-vogt-GmbH/744000110583744-account-payable-ap-specialist) |
+| Category | Accounting |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ib-vogt-GmbH/744000147836959-account-payable-ap-specialist) |
 
 ## About This Role
 
-This corporate finance position at ib vogt was posted on 2026-02-23.
+This accounting position at ib vogt was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

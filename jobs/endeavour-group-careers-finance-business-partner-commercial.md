@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000146391449-finance-business-partner-commercial) |
+| Location | Richmond, Victoria, Australia |
+| Category | Corporate Finance |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000147805026-finance-business-partner-commercial) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Endeavour Group Careers was posted on 2026-08-31.
+This corporate finance position at Endeavour Group Careers was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

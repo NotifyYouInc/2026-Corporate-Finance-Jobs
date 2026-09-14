@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad-Sy-No-53/Fund-Accountant---Closed-Ended_JR-0024919) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Kolkata-Biswa-Bangla-Sarani/Fund-Accountant---Closed-Ended_JR-0025310) |
 
 ## About This Role
 
-This accounting position at Apex Fund Services was posted on 2026-08-27.
+This accounting position at Apex Fund Services was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

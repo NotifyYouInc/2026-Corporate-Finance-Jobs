@@ -1,16 +1,16 @@
-# Fund Accounting Manager  at Ocorian
+# Fund Accounting Manager at Ocorian
 
 | Field | Details |
 |-------|---------|
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mauritius |
-| Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000111006543-fund-accounting-manager) |
+| Location | Belfast, Northern Ireland, United Kingdom |
+| Category | Accounting |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000147899509-fund-accounting-manager) |
 
 ## About This Role
 
-This corporate finance position at Ocorian was posted on 2026-02-24.
+This accounting position at Ocorian was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

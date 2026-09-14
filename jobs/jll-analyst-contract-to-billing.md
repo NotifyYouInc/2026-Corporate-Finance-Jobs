@@ -1,16 +1,16 @@
-# Analyst -  Contract to Billing at JLL
+# Analyst - Contract to Billing at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst----Contract-to-Billing_REQ524808) |
+| Category | Accounting |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst---Contract-to-Billing_REQ531895) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-08-06.
+This accounting position at JLL was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

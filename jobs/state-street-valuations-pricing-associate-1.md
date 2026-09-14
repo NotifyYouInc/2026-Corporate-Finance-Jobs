@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Luxembourg |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Valuations---Pricing--Associate-1_R-790746) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Luxembourg-Luxembourg/Valuations---Pricing--Associate-1_R-796932) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-19.
+This corporate finance position at State Street was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

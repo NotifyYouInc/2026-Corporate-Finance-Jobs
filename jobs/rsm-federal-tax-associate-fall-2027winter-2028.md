@@ -1,16 +1,16 @@
-# Federal Tax Associate - Fall 2027/Winter 2028 at RSM
+# Federal Tax Associate (Fall 2027/Winter 2028) at RSM
 
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Blue Bell, Pennsylvania, United States |
+| Location | San Diego, California, United States |
 | Category | Accounting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Blue-Bell/Federal-Tax-Associate---Fall-2027-Winter-2028_JR112596) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Diego/Federal-Tax-Associate--Fall-2025-Winter-2026-_JR106805) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-09-03.
+This accounting position at RSM was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

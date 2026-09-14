@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Financial-Analysis-Advisor_25016584) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Financial-Analysis-Advisor_26010983) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-03-21.
+This corporate finance position at Cigna was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

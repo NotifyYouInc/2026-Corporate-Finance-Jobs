@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/General-Accounting-Professional-Reporting-Specialist_R0115644) |
+| Category | Accounting |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/General-Accounting-Professional-Reporting-Specialist_R0143526) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-02-19.
+This accounting position at Hitachi was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

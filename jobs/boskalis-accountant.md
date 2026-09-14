@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boskalis](https://scoutify.ai/companies/boskalis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boskalis/744000131831059-accountant) |
+| Category | Accounting |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boskalis/744000147858880-accountant) |
 
 ## About This Role
 
-This corporate finance position at Boskalis was posted on 2026-06-12.
+This accounting position at Boskalis was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

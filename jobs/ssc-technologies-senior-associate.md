@@ -5,12 +5,12 @@
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Mumbai-India/Senior-Associate_R28458) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Mumbai-India---Nirlon-Knowledge-Park/Senior-Associate_R45644) |
 
 ## About This Role
 
-This accounting position at SS&C Technologies was posted on 2026-08-27.
+This accounting position at SS&C Technologies was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

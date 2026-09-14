@@ -5,12 +5,12 @@
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paranaque City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Paranaque-City-Philippines/Category-Finance-Analyst_R-175085) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Paranaque-City-Philippines/Category-Finance-Analyst_R-175145) |
 
 ## About This Role
 
-This corporate finance position at Mondelez International was posted on 2026-08-18.
+This corporate finance position at Mondelez International was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New South Wales, AU |
-| Category | Financial Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000147142189-finance-manager-commercial) |
+| Location | Richmond, Victoria, Australia |
+| Category | Corporate Finance |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000147803661-finance-manager-commercial) |
 
 ## About This Role
 
-This financial analyst position at Endeavour Group Careers was posted on 2026-09-03.
+This corporate finance position at Endeavour Group Careers was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

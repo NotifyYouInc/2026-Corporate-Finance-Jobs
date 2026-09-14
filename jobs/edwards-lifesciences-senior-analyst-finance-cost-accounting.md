@@ -1,16 +1,16 @@
-# Senior Analyst, Finance (Cost Accounting) at Edwards Lifesciences
+# Senior Analyst, Finance, Cost Accounting at Edwards Lifesciences
 
 | Field | Details |
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cartago, Cartago Province, Costa Rica |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Costa-Rica-Cartago-BSC/Senior-Analyst--Finance--Cost-Accounting-_Req-45650) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Accounting |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Malaysia-Kuala-Lumpur-BSC/Senior-Analyst--Finance---Cost-Accounting_Req-50439) |
 
 ## About This Role
 
-This corporate finance position at Edwards Lifesciences was posted on 2026-02-20.
+This accounting position at Edwards Lifesciences was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

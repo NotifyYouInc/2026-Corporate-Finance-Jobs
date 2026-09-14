@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wellington, Wellington Region, New Zealand |
-| Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Wellington---97-The-Terrace/Underwriter_R0016745-1) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Auckland---34-Shortland-Street/Underwriter_R0019134-1) |
 
 ## About This Role
 
-This corporate finance position at Howden was posted on 2026-03-18.
+This actuary / insurance analytics position at Howden was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

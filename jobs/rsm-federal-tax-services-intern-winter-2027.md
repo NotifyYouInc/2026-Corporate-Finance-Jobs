@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | San Diego, California, United States |
 | Category | Accounting |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Boston/Federal-Tax-Services-Intern---Winter-2026_JR109265) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Diego/Federal-Tax-Services-Intern---Winter-2027_JR115815) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-09-01.
+This accounting position at RSM was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

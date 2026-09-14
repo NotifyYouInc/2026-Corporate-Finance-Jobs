@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Overland Park, Kansas, United States |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-KS-Overland-Park-7285-West-132nd-St/Assurance-Manager_JR107563) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-MN-Minneapolis/Assurance-Manager_JR107533) |
 
 ## About This Role
 
-This accounting position at Bakertilly was posted on 2026-08-20.
+This accounting position at Bakertilly was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

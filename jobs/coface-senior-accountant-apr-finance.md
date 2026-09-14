@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hong Kong, Hong Kong |
 | Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000145158494-senior-accountant-apr-finance) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000147833569-senior-accountant-apr-finance) |
 
 ## About This Role
 
-This accounting position at Coface was posted on 2026-08-24.
+This accounting position at Coface was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

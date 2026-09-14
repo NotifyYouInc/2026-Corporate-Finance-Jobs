@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cleveland, Ohio, United States |
-| Category | Wealth Management / Private Banking |
+| Category | Corporate Finance |
 | Posted | 2026-09-06 |
 | Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/Investment-Advisor-I_R234787-2) |
 
 ## About This Role
 
-This wealth management / private banking position at PNC Financial was posted on 2026-09-06.
+This corporate finance position at PNC Financial was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

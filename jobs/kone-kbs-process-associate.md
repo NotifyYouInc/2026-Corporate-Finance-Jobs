@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/KBS-Process-Associate_R0661220) |
+| Category | Corporate Finance |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/KBS-Process-Associate_R0663487) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Kone was posted on 2026-07-01.
+This corporate finance position at Kone was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

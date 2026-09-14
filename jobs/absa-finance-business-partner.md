@@ -5,12 +5,12 @@
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/Finance-Business-Partner_R-15988373) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/Finance-Business-Partner_R-15989897-1) |
 
 ## About This Role
 
-This corporate finance position at Absa was posted on 2026-06-24.
+This corporate finance position at Absa was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

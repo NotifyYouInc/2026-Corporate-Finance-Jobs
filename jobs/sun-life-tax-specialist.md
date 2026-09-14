@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | National Capital Region, PH |
-| Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Tax-Specialist_JR00124593) |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Accounting |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Tax-Specialist_JR00127758) |
 
 ## About This Role
 
-This corporate finance position at Sun Life was posted on 2026-06-03.
+This accounting position at Sun Life was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

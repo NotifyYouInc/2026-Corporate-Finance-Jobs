@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gdańsk, Pomerania, Poland |
 | Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/International-Accountant_JR2026522699-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/International-Accountant_JR2026524079-1) |
 
 ## About This Role
 
-This accounting position at Boeing was posted on 2026-08-20.
+This accounting position at Boeing was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

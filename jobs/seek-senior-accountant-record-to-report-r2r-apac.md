@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cremorne, New South Wales, Australia |
 | Category | Accounting |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000140151899-senior-accountant-record-to-report-r2r-apac) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000147835739-senior-accountant-record-to-report-r2r-apac) |
 
 ## About This Role
 
-This accounting position at SEEK was posted on 2026-07-28.
+This accounting position at SEEK was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

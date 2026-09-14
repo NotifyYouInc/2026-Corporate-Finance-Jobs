@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/UK-Financial-Accountant_328644-1) |
+| Category | Accounting |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/UK-Financial-Accountant_331554-1) |
 
 ## About This Role
 
-This corporate finance position at S&P Global was posted on 2026-05-24.
+This accounting position at S&P Global was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

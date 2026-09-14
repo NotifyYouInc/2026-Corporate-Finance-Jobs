@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Findex](https://scoutify.ai/companies/ap1-cx-oj37128?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Inverell, New South Wales, Australia |
 | Category | Accounting |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5495) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5559) |
 
 ## About This Role
 
-This accounting position at Findex was posted on 2026-08-11.
+This accounting position at Findex was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

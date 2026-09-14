@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Wealth Management / Private Banking |
+| Category | Corporate Finance |
 | Posted | 2026-09-05 |
 | Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#256001) |
 
 ## About This Role
 
-This wealth management / private banking position at Kotak Mahindra Bank was posted on 2026-09-05.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 
