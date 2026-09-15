@@ -1,16 +1,16 @@
-# Banking, Investment Banking, Financial Institution Group, Placement Analyst, Milan, Italy 2026 - May Intake at Citigroup
+# Banking, Investment Banking, Financial Institution Group, Placement Analyst, Milan, Italy 2026 - October Intake at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milan, Lombardy, Italy |
-| Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Milan-Milano-Italy/Banking--Investment-Banking--Financial-Institution-Group--Placement-Analyst--Milan--Italy-2026---May-Intake_25908942) |
+| Category | Investment Banking |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Milan-Milano-Italy/Banking--Investment-Banking--Financial-Institution-Group--Placement-Analyst--Milan--Italy-2026---October-Intake_26975851) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-26.
+This investment banking position at Citigroup was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

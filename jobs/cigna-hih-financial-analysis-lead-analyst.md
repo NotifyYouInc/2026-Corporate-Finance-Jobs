@@ -1,16 +1,16 @@
-# HIH - Financial Analysis Lead Analyst at Cigna
+# HIH- Financial Analysis Lead Analyst at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Financial-Analysis-Lead-Analyst_26009318) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH--Financial-Analysis-Lead-Analyst_26004750) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-07-30.
+This corporate finance position at Cigna was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

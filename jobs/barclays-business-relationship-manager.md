@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Account Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Oxford-Cornmarket-Street/Business-Relationship-Manager_JR-0000125177) |
+| Location | United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Southwark-Borough-High-Street/Business-Relationship-Manager_JR-0000129355) |
 
 ## About This Role
 
-This account manager position at Barclays was posted on 2026-08-21.
+This corporate finance position at Barclays was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

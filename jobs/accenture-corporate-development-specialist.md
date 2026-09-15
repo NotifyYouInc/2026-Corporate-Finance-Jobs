@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Corporate Development & M&A |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Corporate-Development-Specialist_R00347270) |
+| Location | Assago, Lombardy, Italy |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago/Corporate-Development-Specialist_R00343269) |
 
 ## About This Role
 
-This corporate development & m&a position at Accenture was posted on 2026-08-28.
+This corporate finance position at Accenture was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

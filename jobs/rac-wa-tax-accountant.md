@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rac WA](https://scoutify.ai/companies/rac-wa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Western Australia, AU |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://racwa.wd3.myworkdayjobs.com/rac-wa/job/West-Perth/Tax-Accountant_JR106174-1) |
+| Location | West Perth, Western Australia, Australia |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://racwa.wd3.myworkdayjobs.com/rac-wa/job/West-Perth/Tax-Accountant_JR106841) |
 
 ## About This Role
 
-This corporate finance position at Rac WA was posted on 2026-03-17.
+This accounting position at Rac WA was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

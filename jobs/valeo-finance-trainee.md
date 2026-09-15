@@ -1,16 +1,16 @@
-# Finance trainee at Valeo
+# Finance Trainee at Valeo
 
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rakovnik/Finance-trainee_REQ2026080343) |
+| Location | Martos, Andalusia, Spain |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/Finance-Trainee_REQ2026080815) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Valeo was posted on 2026-08-31.
+This accounting position at Valeo was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

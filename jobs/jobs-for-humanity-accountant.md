@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Beirut, Beyrouth, Lebanon |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000132340359-accountant) |
+| Location | Jounieh, Mont-Liban, Lebanon |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000148174119-accountant) |
 
 ## About This Role
 
-This corporate finance position at Jobs for Humanity was posted on 2026-06-16.
+This accounting position at Jobs for Humanity was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

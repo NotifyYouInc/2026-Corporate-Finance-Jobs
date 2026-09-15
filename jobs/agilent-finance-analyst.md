@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Penang, MY |
+| Location | Mānesar, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Malaysia-Penang/Finance-Analyst_4039559) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/India-Manesar/Finance-Analyst_4039534) |
 
 ## About This Role
 
-This corporate finance position at Agilent was posted on 2026-09-07.
+This corporate finance position at Agilent was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

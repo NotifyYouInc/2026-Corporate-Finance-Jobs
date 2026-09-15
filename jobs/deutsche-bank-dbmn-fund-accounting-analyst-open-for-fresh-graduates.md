@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-29 |
+| Category | Accounting |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Manila-Net-Quad-Center/DBMN---Fund-Accounting-Analyst--Open-for-Fresh-Graduates-_R0441735) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-06-29.
+This accounting position at Deutsche Bank was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

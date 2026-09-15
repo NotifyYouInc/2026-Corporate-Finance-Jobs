@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Credit---Collections-Analyst_JR347936) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Credit---Collections-Analyst_JR358894) |
 
 ## About This Role
 
-This corporate finance position at Salesforce was posted on 2026-06-25.
+This accounting position at Salesforce was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

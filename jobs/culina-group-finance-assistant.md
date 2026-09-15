@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Culina Group](https://scoutify.ai/companies/culinagroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Skelmersdale, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000122455449-finance-assistant) |
+| Location | Featherstone, England, United Kingdom |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000148148040-finance-assistant) |
 
 ## About This Role
 
-This corporate finance position at Culina Group was posted on 2026-04-23.
+This accounting position at Culina Group was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

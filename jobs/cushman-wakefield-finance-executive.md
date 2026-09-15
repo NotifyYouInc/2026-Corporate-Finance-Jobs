@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Singapore/Finance-Executive_R320992) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Singapore/Finance-Executive_R334116) |
 
 ## About This Role
 
-This accounting position at Cushman & Wakefield was posted on 2026-07-02.
+This accounting position at Cushman & Wakefield was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

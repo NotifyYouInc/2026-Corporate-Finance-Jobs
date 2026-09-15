@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Accounting |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=131593) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=131817) |
 
 ## About This Role
 
-This accounting position at IBM was posted on 2026-09-02.
+This accounting position at IBM was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

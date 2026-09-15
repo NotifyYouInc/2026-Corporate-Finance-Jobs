@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Senior-Finance-Manager_0000031418-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/London/Senior-Finance-Manager_0000037705) |
 
 ## About This Role
 
-This corporate finance position at LEGO was posted on 2026-02-05.
+This corporate finance position at LEGO was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

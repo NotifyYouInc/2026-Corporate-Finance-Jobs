@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Reading-Apex-Plaza/Private-Banking-Executive_JR-0000127771) |
+| Location | Leeds, England, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Leeds-Park-Row/Private-Banking-Executive_JR-0000129416) |
 
 ## About This Role
 
-This wealth management / private banking position at Barclays was posted on 2026-08-21.
+This corporate finance position at Barclays was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

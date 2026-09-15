@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Pharmacy-Underwriting-Summer-Internship-Program_25009496) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Pharmacy-Underwriting-Summer-Internship-Program_26009219) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-02-24.
+This corporate finance position at Cigna was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

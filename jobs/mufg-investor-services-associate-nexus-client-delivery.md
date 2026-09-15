@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000140603279-associate-nexus-client-delivery) |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000148063202-associate-nexus-client-delivery) |
 
 ## About This Role
 
-This accounting position at MUFG Investor Services was posted on 2026-07-30.
+This corporate finance position at MUFG Investor Services was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

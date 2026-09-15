@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cheras, Selangor, Malaysia |
+| Location | Miri, Sarawak, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/MLR-TAMAN-MALURI-CHERAS-BR/Wealth-Executive_JR0000026091) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/MYY-MIRI-BR/Wealth-Executive_JR0000026221) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-09-01.
+This corporate finance position at Hong Leong Bank was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Core Operations - Senior Associate at State Street
+# Core Operations, Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Corporate Finance |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/Core-Operations---Senior-Associate_R-797403) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Core-Operations--Senior-Associate_R-797505-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-09-04.
+This corporate finance position at State Street was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

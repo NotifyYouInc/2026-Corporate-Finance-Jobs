@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/Oconus-India-Bengaluru/Accountant-II_R0160757) |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/Oconus-India-Bengaluru/Accountant-II_R0170092) |
 
 ## About This Role
 
-This corporate finance position at Amentum was posted on 2026-05-12.
+This accounting position at Amentum was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

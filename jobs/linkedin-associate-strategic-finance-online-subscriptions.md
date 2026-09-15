@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Francisco, California, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000144882799-associate-strategic-finance-online-subscriptions) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000147977359-associate-strategic-finance-online-subscriptions) |
 
 ## About This Role
 
-This fp&a / strategic finance position at LinkedIn was posted on 2026-08-22.
+This strategy & operations position at LinkedIn was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

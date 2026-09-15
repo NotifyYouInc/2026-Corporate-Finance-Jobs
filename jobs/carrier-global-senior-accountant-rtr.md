@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3460-6F-15F-Building-A-New-Bund-World-Trade-Center1-No4-Lane-255-Dongyu-Rd-Pudong-District-Shanghai-China/Senior-Accountant--RTR_30207211-1) |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3460-6F-15F-Building-A-New-Bund-World-Trade-Center1-No4-Lane-255-Dongyu-Rd-Pudong-District-Shanghai-China/Senior-Accountant--RTR_30217419) |
 
 ## About This Role
 
-This corporate finance position at Carrier Global was posted on 2026-06-02.
+This accounting position at Carrier Global was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

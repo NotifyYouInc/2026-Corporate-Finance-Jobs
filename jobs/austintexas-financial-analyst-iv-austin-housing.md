@@ -1,16 +1,16 @@
-# Financial Analyst IV, Austin Housing at Austintexas
+# Financial Analyst IV (Austin Housing) at Austintexas
 
 | Field | Details |
 |-------|---------|
 | Company | [Austintexas](https://scoutify.ai/companies/austintexas?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Street-Jones-Building/Financial-Analyst-IV--Austin-Housing_JR104083) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Street-Jones-Building/Financial-Analyst-IV--Austin-Housing-_JR105040) |
 
 ## About This Role
 
-This corporate finance position at Austintexas was posted on 2026-06-08.
+This corporate finance position at Austintexas was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

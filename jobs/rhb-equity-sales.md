@@ -5,12 +5,12 @@
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Sales & Trading |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/DKI-Jakarta/Equity-Sales_JR006878) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/DKI-Jakarta/Equity-Sales_JR007232) |
 
 ## About This Role
 
-This sales & trading position at RHB was posted on 2026-08-26.
+This sales & trading position at RHB was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

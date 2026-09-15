@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Auckland, NZ |
+| Location | Freshwater, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Freshwater/Category-Finance-Manager_R-100840) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Freshwater/Category-Finance-Manager_R-106228) |
 
 ## About This Role
 
-This corporate finance position at Heinz was posted on 2026-03-06.
+This corporate finance position at Heinz was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2_26969109) |
+| Location | Singapore, Singapore |
+| Category | Sales & Trading |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Securities---Derivatives-Analyst-2_26992128) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-06-09.
+This sales & trading position at Citigroup was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

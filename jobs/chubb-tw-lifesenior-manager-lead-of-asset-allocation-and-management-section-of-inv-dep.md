@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chubb](https://scoutify.ai/companies/ocs-cx-oj28119?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taiwan |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#34763) |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#34737) |
 
 ## About This Role
 
-This asset management / portfolio management position at Chubb was posted on 2026-07-15.
+This corporate finance position at Chubb was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Accounting---General-Ledger_JOBREQ_50276024) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Accounting---General-Ledger_JOBREQ_50276026) |
 
 ## About This Role
 
-This accounting position at Renault Group was posted on 2026-08-27.
+This accounting position at Renault Group was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

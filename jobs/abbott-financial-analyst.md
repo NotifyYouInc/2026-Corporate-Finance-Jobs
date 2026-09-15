@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Alameda, California, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Financial-Analyst_31154579-1) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Korea---Seoul/Financial-Analyst_31161032) |
 
 ## About This Role
 
-This financial analyst position at Abbott was posted on 2026-07-01.
+This corporate finance position at Abbott was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

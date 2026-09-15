@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/South-Africa---Johannesburg/Senior-Financial-Analyst_31160799) |
+| Location | Shanghai, Shanghai, China |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Shanghai/Senior-Financial-Analyst_31161472) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Abbott was posted on 2026-09-01.
+This corporate finance position at Abbott was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

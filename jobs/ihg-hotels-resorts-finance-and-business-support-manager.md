@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IHG Hotels & Resorts](https://scoutify.ai/companies/ocs-cx-oj54062?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
-| Category | Accounting |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#167529) |
+| Location | Saudi Arabia |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#166272) |
 
 ## About This Role
 
-This accounting position at IHG Hotels & Resorts was posted on 2026-08-29.
+This corporate finance position at IHG Hotels & Resorts was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

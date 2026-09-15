@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Paisley, Scotland, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Paisley-United-Kingdom/Financial-Accounting-Manager_R-01354231-1) |
+| Location | Quezon City, National Capital Region, Philippines |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Financial-Accounting-Manager_R-01366931) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-06-19.
+This accounting position at Thermo Fisher Scientific was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

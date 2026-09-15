@@ -1,16 +1,16 @@
-# Finance Analyst- Intercompany at ABB
+# Finance Analyst-Intercompany at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Finance-Analyst--Intercompany_JR00044216) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Finance-Analyst-Intercompany_JR00044209) |
 
 ## About This Role
 
-This accounting position at ABB was posted on 2026-08-21.
+This accounting position at ABB was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [TOMRA](https://scoutify.ai/companies/tomra?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Leicester, England, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000143230549-finance-assistant-administrator) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000148193369-finance-assistant-administrator) |
 
 ## About This Role
 
-This accounting position at TOMRA was posted on 2026-08-13.
+This accounting position at TOMRA was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

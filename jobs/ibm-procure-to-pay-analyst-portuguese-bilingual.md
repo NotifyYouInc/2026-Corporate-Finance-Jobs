@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
+| Category | Accounting |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116250) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-06-05.
+This accounting position at IBM was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

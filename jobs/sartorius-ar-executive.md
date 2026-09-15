@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Delhi, Delhi, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Delhi/AR-Executive_R40522-1) |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Delhi/AR-Executive_R42020) |
 
 ## About This Role
 
-This corporate finance position at Sartorius was posted on 2026-05-13.
+This accounting position at Sartorius was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

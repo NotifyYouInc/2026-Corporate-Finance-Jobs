@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Accounting |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Assoc-Credit-Services-Rep_R70666-2) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Assoc-Credit-Services-Rep_R76033) |
 
 ## About This Role
 
-This accounting position at Medtronic was posted on 2026-08-12.
+This accounting position at Medtronic was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Operations-Clearance--Settlement----Trading-Operations---Associate-2_R-794670) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Operations-Clearance--Settlement----Trading-Operations---Associate-2_R-797264-1) |
 
 ## About This Role
 
-This accounting position at State Street was posted on 2026-07-21.
+This accounting position at State Street was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

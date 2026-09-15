@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Accounting |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Sydney-New-South-Wales/Assistant-Manager--Business-Services_JR103691) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Sydney-New-South-Wales/Assistant-Manager--Business-Services_JR103836-1) |
 
 ## About This Role
 
-This accounting position at Bdo was posted on 2026-08-26.
+This accounting position at Bdo was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Manager, Finance at Thermo Fisher Scientific
+# Sr Manager, Finance at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | South Korea |
 | Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Tokyo-Japan/Sr-Manager--Finance_R-01357209) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Gangnam-gu-Korea-Republic-of/Sr-Manager--Finance_R-01366480) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-06-17.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

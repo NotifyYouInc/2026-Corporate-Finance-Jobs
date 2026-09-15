@@ -1,16 +1,16 @@
-# Collaborateur comptable Expérimenté F/H at Rydge
+# Collaborateur Comptable expérimenté F/H at Rydge
 
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Longuenesse, Hauts-de-France, France |
+| Location | Montceau-les-Mines, Bourgogne, France |
 | Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000146120854-collaborateur-comptable-experimente-fh) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000148158349-collaborateur-comptable-experimente-fh) |
 
 ## About This Role
 
-This accounting position at Rydge was posted on 2026-08-28.
+This accounting position at Rydge was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

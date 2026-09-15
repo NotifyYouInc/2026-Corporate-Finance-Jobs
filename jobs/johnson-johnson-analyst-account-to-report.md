@@ -1,16 +1,16 @@
-# Analyst - Account To Report at Johnson & Johnson
+# Analyst - Account to Report at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangalore-Karnataka-India/Analyst---Account-To-Report_R-073927) |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangalore-Karnataka-India/Analyst---Account-to-Report_R-095918) |
 
 ## About This Role
 
-This corporate finance position at Johnson & Johnson was posted on 2026-05-08.
+This accounting position at Johnson & Johnson was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
