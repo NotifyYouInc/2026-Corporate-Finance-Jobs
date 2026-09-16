@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/QUEZON-CITY--PHILIPPINES/Junior-Accountant_R0070864) |
+| Location | Not specified |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Junior-Accountant_R0074852) |
 
 ## About This Role
 
-This corporate finance position at Global Payments was posted on 2026-04-29.
+This accounting position at Global Payments was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

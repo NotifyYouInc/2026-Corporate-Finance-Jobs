@@ -5,12 +5,12 @@
 | Company | [University of Texas at Austin](https://scoutify.ai/companies/university-of-texas-at-austin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/UT-MAIN-CAMPUS/Senior-Financial-Analyst_R_00045750) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Senior-Financial-Analyst_R_00048667) |
 
 ## About This Role
 
-This corporate finance position at University of Texas at Austin was posted on 2026-04-21.
+This corporate finance position at University of Texas at Austin was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

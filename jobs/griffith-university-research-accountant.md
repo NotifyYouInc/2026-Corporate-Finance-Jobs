@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Griffith University](https://scoutify.ai/companies/griffith-university?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nathan, Queensland, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/griffithuniversity/744000131580406-research-accountant) |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/griffithuniversity/744000148406439-research-accountant) |
 
 ## About This Role
 
-This corporate finance position at Griffith University was posted on 2026-06-11.
+This accounting position at Griffith University was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

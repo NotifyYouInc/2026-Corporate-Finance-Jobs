@@ -1,16 +1,16 @@
-# Finance Administrator  at DPD UK
+# Finance Administrator at DPD UK
 
 | Field | Details |
 |-------|---------|
 | Company | [DPD UK](https://scoutify.ai/companies/dpduk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Deeside, Wales, United Kingdom |
+| Location | Romsey, England, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DPDGroupUK1/744000144759199-finance-administrator) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DPDGroupUK1/744000148424318-finance-administrator) |
 
 ## About This Role
 
-This accounting position at DPD UK was posted on 2026-08-21.
+This accounting position at DPD UK was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

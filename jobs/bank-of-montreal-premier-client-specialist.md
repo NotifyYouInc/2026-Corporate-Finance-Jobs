@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/San-Francisco-CA-USA/Premier-Client-Specialist_R260026121) |
+| Location | Sun Prairie, Wisconsin, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Sun-Prairie-WI-USA/Premier-Client-Specialist_R260026255) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of Montreal was posted on 2026-09-04.
+This corporate finance position at Bank of Montreal was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

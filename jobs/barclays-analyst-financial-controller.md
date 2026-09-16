@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst---Financial-Controller_JR-0000108706) |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst---Financial-Controller_JR-0000129282-1) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-05-20.
+This accounting position at Barclays was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

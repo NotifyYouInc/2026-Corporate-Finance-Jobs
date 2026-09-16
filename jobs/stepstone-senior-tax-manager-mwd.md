@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Germany |
-| Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000142184899-senior-tax-manager-mwd) |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000148442809-senior-tax-manager-mwd) |
 
 ## About This Role
 
-This corporate finance position at StepStone was posted on 2026-08-07.
+This accounting position at StepStone was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

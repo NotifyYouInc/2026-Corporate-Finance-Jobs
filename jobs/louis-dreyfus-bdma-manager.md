@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Corporate Finance |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000148162960-bdma-manager) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000148402319-bdma-manager) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-09-08.
+This corporate finance position at Louis Dreyfus was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

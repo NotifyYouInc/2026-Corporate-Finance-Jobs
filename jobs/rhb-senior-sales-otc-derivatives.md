@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Kuala-Lumpur/Senior-Sales--OTC-Derivatives_JR005119) |
+| Category | Sales & Trading |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Kuala-Lumpur/Senior-Sales--OTC-Derivatives_JR006398-1) |
 
 ## About This Role
 
-This corporate finance position at RHB was posted on 2026-03-02.
+This sales & trading position at RHB was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

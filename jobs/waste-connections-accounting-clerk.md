@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waste Connections](https://scoutify.ai/companies/wasteconnections?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rayne, Louisiana, United States |
+| Location | Hobbs, New Mexico, United States |
 | Category | Accounting |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/6187-Lafayette/Accounting-Clerk_R-102678) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/5000-R360-EP-Hobbs-Office/Accounting-Clerk_R-103430) |
 
 ## About This Role
 
-This accounting position at Waste Connections was posted on 2026-08-14.
+This accounting position at Waste Connections was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Accounting |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Senior-Fund-Accountant---Closed-Ended_JR-0024163) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad-Sy-No-53/Senior-Fund-Accountant---Closed-Ended_JR-0021740-1) |
 
 ## About This Role
 
-This accounting position at Apex Fund Services was posted on 2026-09-01.
+This accounting position at Apex Fund Services was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

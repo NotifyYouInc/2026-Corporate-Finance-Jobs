@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Investment Banking |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/OPS-INVESTMENT-BANKING-ASSOCIATE-II_JR00111658) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Tokyo/OPS-INVESTMENT-BANKING-ASSOCIATE-II_JR00099442) |
 
 ## About This Role
 
-This investment banking position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-08.
+This investment banking position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

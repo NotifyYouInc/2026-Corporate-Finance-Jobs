@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eisneramper](https://scoutify.ai/companies/eisneramper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Iselin, New Jersey, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/Iselin/XMLNAME-2027-Tax-Winter-Intern---Financial-Services_Req-8505) |
+| Location | New York City, New York, United States |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/New-York/XMLNAME-2027-Tax-Winter-Intern---Financial-Services_Req-8502) |
 
 ## About This Role
 
-This corporate finance position at Eisneramper was posted on 2026-04-23.
+This accounting position at Eisneramper was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

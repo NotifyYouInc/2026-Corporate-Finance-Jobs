@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Louis, Michigan, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Saint-Louis/Wealth-Management-Client-Associate_26032662) |
+| Location | Tyler, Texas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Tyler/Wealth-Management-Client-Associate_26032657) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-09-04.
+This corporate finance position at Bank of America was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

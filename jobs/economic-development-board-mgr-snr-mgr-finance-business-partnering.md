@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/Mgr---Snr-Mgr--Finance--Procurement-_JR-10000049683) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/Mgr---Snr-Mgr--Finance-Business-Partnering_JR-10000050704) |
 
 ## About This Role
 
-This corporate finance position at Economic Development Board was posted on 2026-04-16.
+This corporate finance position at Economic Development Board was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

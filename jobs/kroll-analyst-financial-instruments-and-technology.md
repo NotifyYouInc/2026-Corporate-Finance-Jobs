@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New Delhi, Delhi, India |
-| Category | Financial Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014523) |
+| Category | Corporate Finance |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21015032) |
 
 ## About This Role
 
-This financial analyst position at Kroll was posted on 2026-06-29.
+This corporate finance position at Kroll was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

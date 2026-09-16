@@ -1,16 +1,16 @@
-# Finance Intern (Summer 2027) at HNTB
+# Finance Intern - Summer 2027 at HNTB
 
 | Field | Details |
 |-------|---------|
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-09-05 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Houston-TX-Fannin/Finance-Intern--Summer-2027-_R-31475-1) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Raleigh-NC/Finance-Intern---Summer-2027_R-31515-1) |
 
 ## About This Role
 
-This corporate finance position at HNTB was posted on 2026-09-05.
+This accounting position at HNTB was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

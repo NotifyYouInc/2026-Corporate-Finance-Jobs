@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Outsourcedstaff](https://scoutify.ai/companies/outsourcedstaff?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.lever.co/outsourcedstaff/b0fc4c93-ee19-41da-9077-de486e3ddf86) |
+| Location | Philippines |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.lever.co/outsourcedstaff/65a6999c-6ec2-40e5-8955-95808295a2e8) |
 
 ## About This Role
 
-This corporate finance position at Outsourcedstaff was posted on 2026-06-24.
+This accounting position at Outsourcedstaff was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

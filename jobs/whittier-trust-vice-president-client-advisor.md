@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Whittier Trust](https://scoutify.ai/companies/recruiting2-ultipro-com-oj119258?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Not specified |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/whi1008whtr/JobBoard/d093c596-db1a-456d-8d2f-86ca20735c6a/OpportunityDetail?opportunityId=fca7186f-81d3-41d2-aa86-dbb500a3ac8a) |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/whi1008whtr/JobBoard/d093c596-db1a-456d-8d2f-86ca20735c6a/OpportunityDetail?opportunityId=9fc5fab5-df20-4fc0-ba1a-7ff6bf0d8d59) |
 
 ## About This Role
 
-This wealth management / private banking position at Whittier Trust was posted on 2026-07-31.
+This corporate finance position at Whittier Trust was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Financial Reporting, Associate 2 at State Street
+# Financial Reporting - Associate 2 at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Sydney-Australia/Financial-Reporting--Associate-2_R-791976-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Financial-Reporting---Associate-2_R-794780-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-09.
+This accounting position at State Street was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

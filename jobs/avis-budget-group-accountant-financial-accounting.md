@@ -1,16 +1,16 @@
-# Accountant - Financial Accounting at Avis Budget Group
+# Accountant, Financial Accounting at Avis Budget Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Avis Budget Group](https://scoutify.ai/companies/avisbudget?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Budapest-Service-Centre/Accountant---Financial-Accounting_R0187119) |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Budapest-Service-Centre/Accountant--Financial-Accounting_R0190630) |
 
 ## About This Role
 
-This corporate finance position at Avis Budget Group was posted on 2026-03-13.
+This accounting position at Avis Budget Group was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

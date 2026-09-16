@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ljubljana, Ljubljana, Slovenia |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Ljubljana/Accountant_JR_10039693-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Kyiv/Accountant_JR_10041465) |
 
 ## About This Role
 
-This accounting position at Ayvens was posted on 2026-08-24.
+This accounting position at Ayvens was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

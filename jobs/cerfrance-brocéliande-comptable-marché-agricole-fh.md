@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerfrance Brocéliande](https://scoutify.ai/companies/cerfrancebrocliande?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Janzé, Brittany, France |
+| Location | Montauban-de-Bretagne, Brittany, France |
 | Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000139937909-comptable-marche-agricole-fh) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000148430375-comptable-marche-agricole-fh) |
 
 ## About This Role
 
-This accounting position at Cerfrance Brocéliande was posted on 2026-07-27.
+This accounting position at Cerfrance Brocéliande was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

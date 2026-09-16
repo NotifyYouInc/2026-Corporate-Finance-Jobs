@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000127826739-financial-project-controller-raumfahrtprojekte-all-gender) |
+| Location | Friedrichshafen, Baden-Wurttemberg, Germany |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148471599-financial-project-controller-raumfahrtprojekte-all-gender) |
 
 ## About This Role
 
-This corporate finance position at ALTEN Canada was posted on 2026-05-22.
+This accounting position at ALTEN Canada was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

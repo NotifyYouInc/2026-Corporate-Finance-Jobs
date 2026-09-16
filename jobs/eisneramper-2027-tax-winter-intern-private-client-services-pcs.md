@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eisneramper](https://scoutify.ai/companies/eisneramper?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Iselin, New Jersey, United States |
+| Location | San Francisco, California, United States |
 | Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/Iselin/XMLNAME-2027-Tax-Winter-Intern---Private-Client-Services--PCS-_Req-8577) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://eisneramper.wd1.myworkdayjobs.com/eisneramperearlycareers/job/San-Francisco/XMLNAME-2027-Tax-Winter-Intern---Private-Client-Services--PCS-_Req-8581) |
 
 ## About This Role
 
-This accounting position at Eisneramper was posted on 2026-08-28.
+This accounting position at Eisneramper was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Conduent](https://scoutify.ai/companies/us2-cx-oj25423?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kochi, Kerala, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#24973) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#25490) |
 
 ## About This Role
 
-This accounting position at Conduent was posted on 2026-09-03.
+This accounting position at Conduent was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Financial-Analyst_R245521) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Corporate Finance |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Financial-Analyst_R240885-1) |
 
 ## About This Role
 
-This financial analyst position at Arrow Electronics was posted on 2026-07-14.
+This corporate finance position at Arrow Electronics was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

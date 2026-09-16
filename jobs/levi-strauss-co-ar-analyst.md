@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Levi Strauss & Co.](https://scoutify.ai/companies/levistraussandco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Office-Mexico-DF-Mexico/AR-Analyst_R-0156012) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/IND-GBS-Office-Bengaluru/AR-Analyst_R-0155974) |
 
 ## About This Role
 
-This accounting position at Levi Strauss & Co. was posted on 2026-08-24.
+This accounting position at Levi Strauss & Co. was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

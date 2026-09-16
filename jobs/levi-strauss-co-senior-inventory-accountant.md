@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Levi Strauss & Co.](https://scoutify.ai/companies/levistraussandco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Office-Mexico-DF-Mexico/Senior-Inventory-Accountant_R-0151456) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Warsaw-Poland/Senior-Inventory-Accountant_R-0156374) |
 
 ## About This Role
 
-This corporate finance position at Levi Strauss & Co. was posted on 2026-04-29.
+This accounting position at Levi Strauss & Co. was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

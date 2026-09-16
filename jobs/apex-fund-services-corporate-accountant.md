@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milan, Lombardy, Italy |
-| Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Milan/Senior-Corporate-Administrator_JR-0022184) |
+| Location | Dalian, Liaoning, China |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Dalian/Corporate-Accountant_JR-0025345) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-04-23.
+This accounting position at Apex Fund Services was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

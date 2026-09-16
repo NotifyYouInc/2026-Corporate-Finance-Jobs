@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSL LifeCare](https://scoutify.ai/companies/rsl-lifecare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New South Wales, AU |
-| Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://rsllc.wd3.myworkdayjobs.com/rsllc/job/St-Leonards/Finance-Discharge-Officer_JR111842) |
+| Location | North Sydney, New South Wales, Australia |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://rsllc.wd3.myworkdayjobs.com/rsllc/job/North-Sydney/Finance-Discharge-Officer_JR113023) |
 
 ## About This Role
 
-This corporate finance position at RSL LifeCare was posted on 2026-03-02.
+This accounting position at RSL LifeCare was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

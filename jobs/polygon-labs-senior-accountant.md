@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Polygon-labs](https://scoutify.ai/companies/polygon-labs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/polygon-labs/31d844f0-d23d-4dc1-8386-e532660cbdea) |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/polygon-labs/8c189331-21ba-4617-93d8-19b1eb6da577) |
 
 ## About This Role
 
-This corporate finance position at Polygon-labs was posted on 2026-04-09.
+This accounting position at Polygon-labs was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

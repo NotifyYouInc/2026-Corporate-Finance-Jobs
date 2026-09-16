@@ -1,16 +1,16 @@
-# General accountant at ACCOR
+# General Accountant at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dukhān, Al-Shahaniya, Qatar |
-| Category | Corporate Finance |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000142513899-general-accountant) |
+| Location | Southampton, England, United Kingdom |
+| Category | Accounting |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000148359079-general-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-08-09.
+This accounting position at ACCOR was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

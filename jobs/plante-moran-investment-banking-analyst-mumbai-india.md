@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Plante Moran](https://scoutify.ai/companies/plantemoran?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-03 |
+| Category | Investment Banking |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Mumbai---Goregaon/Investment-Banking-Analyst---Mumbai---India_JR-02759) |
 
 ## About This Role
 
-This corporate finance position at Plante Moran was posted on 2026-06-03.
+This investment banking position at Plante Moran was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

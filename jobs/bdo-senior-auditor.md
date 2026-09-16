@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Victoria, Australia |
 | Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Sunshine-Coast-Queensland/Senior-Auditor_JR103760) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Melbourne-Victoria/Senior-Auditor_JR103874) |
 
 ## About This Role
 
-This accounting position at Bdo was posted on 2026-08-28.
+This accounting position at Bdo was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

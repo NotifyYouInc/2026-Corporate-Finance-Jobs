@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B7/Business-Finance-Senior-Analyst_R0433061) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai/Business-Finance-Senior-Analyst_R0436337) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-06-09.
+This corporate finance position at Deutsche Bank was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

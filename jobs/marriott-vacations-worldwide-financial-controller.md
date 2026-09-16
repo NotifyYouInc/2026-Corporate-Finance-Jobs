@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott Vacations Worldwide](https://scoutify.ai/companies/mymvw?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Phuket, Phuket, Thailand |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Phuket-Beach-Club/Financial-Controller_JR88535) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Bangkok-Owner-Services/Financial-Controller_JR93962) |
 
 ## About This Role
 
-This corporate finance position at Marriott Vacations Worldwide was posted on 2026-06-09.
+This accounting position at Marriott Vacations Worldwide was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

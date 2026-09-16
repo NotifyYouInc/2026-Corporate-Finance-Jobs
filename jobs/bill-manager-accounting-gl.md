@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BILL](https://scoutify.ai/companies/bill?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | United States |
 | Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://www.bill.com/job?6104347004&gh_jid=6104347004) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.bill.com/job?6186136004&gh_jid=6186136004) |
 
 ## About This Role
 
-This accounting position at BILL was posted on 2026-07-02.
+This accounting position at BILL was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

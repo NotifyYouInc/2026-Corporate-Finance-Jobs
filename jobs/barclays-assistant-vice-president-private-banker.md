@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Assistant-Vice-President---Private-Banker_JR-0000111845-1) |
+| Location | New Delhi, Delhi, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-Delhi-Eros-Corporate-Tower/Vice-President-Private-Banker_JR-0000023860) |
 
 ## About This Role
 
-This wealth management / private banking position at Barclays was posted on 2026-08-24.
+This corporate finance position at Barclays was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

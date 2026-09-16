@@ -5,12 +5,12 @@
 | Company | [Transurban](https://scoutify.ai/companies/transurban?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://transurban.wd3.myworkdayjobs.com/tu_au/job/Melbourne-CBD--Inner-Suburbs-Melbourne-VIC/Senior-Finance-Analyst_R013842-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://transurban.wd3.myworkdayjobs.com/tu_au/job/Melbourne-CBD--Inner-Suburbs-Melbourne-VIC/Senior-Finance-Analyst_R014125-2) |
 
 ## About This Role
 
-This corporate finance position at Transurban was posted on 2026-03-23.
+This corporate finance position at Transurban was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

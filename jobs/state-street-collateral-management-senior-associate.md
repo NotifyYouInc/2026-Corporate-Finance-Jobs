@@ -1,16 +1,16 @@
-# Collateral Management, Senior Associate at State Street
+# Collateral Management - Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Collateral-Management--Senior-Associate_R-795927) |
+| Category | Corporate Finance |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Collateral-Management---Senior-Associate_R-797576) |
 
 ## About This Role
 
-This treasury & capital markets position at State Street was posted on 2026-08-12.
+This corporate finance position at State Street was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Commercial Finance Manager - Wholesale at Puma
+
+| Field | Details |
+|-------|---------|
+| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Manchester, England, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/Manchester/Commercial-Finance-Manager---Wholesale_R43222) |
+
+## About This Role
+
+This corporate finance position at Puma was posted on 2026-09-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

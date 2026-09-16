@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Financial Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/Reconciliation-Analyst_R12170) |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/Reconciliation-Analyst_R12201) |
 
 ## About This Role
 
-This financial analyst position at Clearwateranalytics was posted on 2026-08-27.
+This corporate finance position at Clearwateranalytics was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hayleys](https://scoutify.ai/companies/ap1-cx-oj48070?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sri Lanka |
 | Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://emdm.fa.ap1.oraclecloud.com/jobs/#2765) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://emdm.fa.ap1.oraclecloud.com/jobs/#3047) |
 
 ## About This Role
 
-This accounting position at Hayleys was posted on 2026-08-31.
+This accounting position at Hayleys was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

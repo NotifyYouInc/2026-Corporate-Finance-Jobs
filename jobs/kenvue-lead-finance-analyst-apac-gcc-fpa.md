@@ -5,12 +5,12 @@
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Lead-Finance-Analyst--APAC-GCC-FP-A_2607043526W) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Lead-Finance-Analyst--APAC-GCC-FP-A_2607048783W-1) |
 
 ## About This Role
 
-This corporate finance position at Kenvue was posted on 2026-08-17.
+This corporate finance position at Kenvue was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

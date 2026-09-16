@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Circles](https://scoutify.ai/companies/circles?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Philippines |
 | Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/Singapore/Accountant_R-100444) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/PH-Remote/Accountant_R-100465) |
 
 ## About This Role
 
-This accounting position at Circles was posted on 2026-08-27.
+This accounting position at Circles was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

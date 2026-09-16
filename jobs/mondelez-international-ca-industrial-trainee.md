@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Mumbai-India/CA-Industrial-Trainee_R-173914) |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Mumbai-India/CA-Industrial-Trainee_R-176868) |
 
 ## About This Role
 
-This corporate finance position at Mondelez International was posted on 2026-08-05.
+This accounting position at Mondelez International was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

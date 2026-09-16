@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772362) |
+| Category | Corporate Finance |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788561) |
 
 ## About This Role
 
-This asset management / portfolio management position at JPMorgan Chase was posted on 2026-07-24.
+This corporate finance position at JPMorgan Chase was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

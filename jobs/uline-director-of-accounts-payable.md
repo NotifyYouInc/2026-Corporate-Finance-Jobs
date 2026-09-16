@@ -5,12 +5,12 @@
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 5 locations |
 | Category | Accounting |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Director-of-Accounts-Payable_R266336-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Director-of-Accounts-Payable_R267255-2) |
 
 ## About This Role
 
-This accounting position at Uline was posted on 2026-08-18.
+This accounting position at Uline was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

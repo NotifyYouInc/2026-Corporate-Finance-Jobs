@@ -1,16 +1,16 @@
-# Accounts Payable Specialist at JLL
+# Accounts Payable  Specialist at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Accounting |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Accounts-Payable-Specialist_REQ528863) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Accounts-Payable--Specialist_REQ534159) |
 
 ## About This Role
 
-This accounting position at JLL was posted on 2026-08-18.
+This accounting position at JLL was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

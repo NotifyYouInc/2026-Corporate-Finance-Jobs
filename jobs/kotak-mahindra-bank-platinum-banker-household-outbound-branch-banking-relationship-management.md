@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Thāne, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#256229) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#256417) |
 
 ## About This Role
 
-This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-08.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

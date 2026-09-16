@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Senior-Analyst---Regulatory-Reporting_24378-5) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Lead-Analyst---Regulatory-Reporting_23959-1) |
 
 ## About This Role
 
-This corporate finance position at OneWest Bank was posted on 2026-03-04.
+This corporate finance position at OneWest Bank was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
