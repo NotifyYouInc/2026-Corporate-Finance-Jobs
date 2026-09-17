@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000138988629-order-to-cash-accountant) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000148670690-order-to-cash-accountant) |
 
 ## About This Role
 
-This accounting position at IFS was posted on 2026-07-22.
+This accounting position at IFS was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

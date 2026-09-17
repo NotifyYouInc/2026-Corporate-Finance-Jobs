@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000140099939-sr-analyst-financial-reporting) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000148617299-sr-analyst-financial-reporting) |
 
 ## About This Role
 
-This accounting position at The Wonderful Company was posted on 2026-07-27.
+This accounting position at The Wonderful Company was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

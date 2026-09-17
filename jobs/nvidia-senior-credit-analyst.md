@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Remote/Senior-Credit-Analyst_JR2024643) |
+| Location | Shanghai, Shanghai, China |
+| Category | Financial Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Credit-Analyst_JR2024626-1) |
 
 ## About This Role
 
-This corporate finance position at Nvidia was posted on 2026-09-09.
+This financial analyst position at Nvidia was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

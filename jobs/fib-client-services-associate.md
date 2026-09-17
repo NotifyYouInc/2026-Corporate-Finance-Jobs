@@ -5,12 +5,12 @@
 | Company | [Fib](https://scoutify.ai/companies/fib?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Billings, Montana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://fib.wd1.myworkdayjobs.com/fibcareers/job/Billings-MT/Client-Services-Associate_2026-15476) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://fib.wd1.myworkdayjobs.com/fibcareers/job/Billings-MT/Client-Services-Associate_2026-15615) |
 
 ## About This Role
 
-This corporate finance position at Fib was posted on 2026-08-11.
+This corporate finance position at Fib was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

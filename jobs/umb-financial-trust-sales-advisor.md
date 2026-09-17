@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Fort Worth, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Albuquerque-NM/Trust-Sales-Advisor_R-8209) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/TX---Fort-Worth---777-Main/Trust-Sales-Advisor_R-8248) |
 
 ## About This Role
 
-This corporate finance position at UMB Financial was posted on 2026-02-20.
+This corporate finance position at UMB Financial was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

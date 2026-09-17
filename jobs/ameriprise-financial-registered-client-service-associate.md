@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Southlake, Texas, United States |
+| Location | Dublin, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Southlake-Texas/Registered-Client-Service-Associate_R26_3469) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Dublin-Ohio/Registered-Client-Service-Associate_R26_3626-1) |
 
 ## About This Role
 
-This corporate finance position at Ameriprise Financial was posted on 2026-08-27.
+This corporate finance position at Ameriprise Financial was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

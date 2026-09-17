@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | St. Louis, Missouri, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/St-Louis-Missouri/Audit-Associate_JR103990) |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/St-Louis-Missouri/Audit-Associate_JR104343) |
 
 ## About This Role
 
-This corporate finance position at Armanino was posted on 2026-06-16.
+This accounting position at Armanino was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

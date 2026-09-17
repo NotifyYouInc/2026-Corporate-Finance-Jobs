@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Harjumaa, EE |
+| Location | Hyderabad, Telangana, India |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Harjumaa-Harju-Estonia/Accounts-Payable-Specialist_R0140985) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hyderabad-Telangana-India/Accounts-Payable-Specialist_R0144394) |
 
 ## About This Role
 
-This accounting position at Hitachi was posted on 2026-08-21.
+This accounting position at Hitachi was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

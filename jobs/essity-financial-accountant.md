@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Appleton, Wisconsin, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Appleton-WI/Financial-Accountant_Essity269504-1) |
+| Location | Durban, KwaZulu-Natal, South Africa |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Durban--South-Africa/Financial-Accountant_Essity264674) |
 
 ## About This Role
 
-This corporate finance position at Essity was posted on 2026-02-09.
+This accounting position at Essity was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

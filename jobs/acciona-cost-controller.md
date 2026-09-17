@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Brisbane/Cost-Controller_20101291) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Auckland/Cost-Controller_20101788) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Acciona was posted on 2026-09-02.
+This accounting position at Acciona was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

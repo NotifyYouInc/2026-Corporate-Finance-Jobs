@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Kolkata/Financial-Consulting-Senior-Associate---Finance-as-a-Service_JR118635) |
+| Location | Dubuque, Iowa, United States |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Dubuque/Financial-Consulting-Senior-Associate---Finance-as-a-Service_JR121146) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-05-11.
+This accounting position at RSM was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ahmedabad, Gujarat, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Ahmedabad---Venus-Stratum-GCC/Analyst-I--FP-A_R-102511) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Bengaluru---Brookfield-GCC/Analyst-I--FP-A_R-106528) |
 
 ## About This Role
 
-This corporate finance position at Heinz was posted on 2026-05-02.
+This corporate finance position at Heinz was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

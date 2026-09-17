@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Jose, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000125220975-sr-accountant) |
+| Location | Shah Alam, Selangor, Malaysia |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000148665419-sr-accountant) |
 
 ## About This Role
 
-This corporate finance position at Renesas Electronics was posted on 2026-05-07.
+This accounting position at Renesas Electronics was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Yokohama, Kanagawa, Japan |
-| Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000143027428-) |
+| Location | Japan |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000148629288-) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-08-12.
+This accounting position at SGS was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

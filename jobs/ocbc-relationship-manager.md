@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Cheras, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/BOS-Singapore/Relationship-Manager_JR00010831) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Cheras/Relationship-Manager_JR00009933) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-09-08.
+This corporate finance position at OCBC was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Sydney, New South Wales, Australia |
 | Category | Accounting |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26105654) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26116421) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-08-22.
+This accounting position at Marriott International was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

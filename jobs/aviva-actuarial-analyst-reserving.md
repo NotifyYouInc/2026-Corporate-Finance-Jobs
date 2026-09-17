@@ -5,12 +5,12 @@
 | Company | [Aviva](https://scoutify.ai/companies/aviva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Markham, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Actuarial-Analyst--Reserving_R-167647-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Actuarial-Analyst--Reserving_R-172860) |
 
 ## About This Role
 
-This corporate finance position at Aviva was posted on 2026-04-14.
+This corporate finance position at Aviva was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

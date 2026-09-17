@@ -5,12 +5,12 @@
 | Company | [Citco](https://scoutify.ai/companies/ocs-cx-oj22087?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#18666) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#19186) |
 
 ## About This Role
 
-This accounting position at Citco was posted on 2026-08-24.
+This accounting position at Citco was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

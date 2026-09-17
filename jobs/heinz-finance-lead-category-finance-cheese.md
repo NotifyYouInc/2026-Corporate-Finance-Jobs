@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Finance-Lead--Category-Finance---Cheese_R-105080) |
+| Category | Corporate Finance |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Finance-Lead--Category-Finance---Cheese_R-106505) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Heinz was posted on 2026-07-24.
+This corporate finance position at Heinz was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

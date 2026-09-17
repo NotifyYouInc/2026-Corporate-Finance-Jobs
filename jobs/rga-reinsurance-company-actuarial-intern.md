@@ -5,12 +5,12 @@
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Hong-Kong-Hong-Kong/Actuarial-Intern_J26853) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Hong-Kong-Hong-Kong/Actuarial-Intern_J28790) |
 
 ## About This Role
 
-This corporate finance position at RGA Reinsurance Company was posted on 2026-03-17.
+This corporate finance position at RGA Reinsurance Company was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

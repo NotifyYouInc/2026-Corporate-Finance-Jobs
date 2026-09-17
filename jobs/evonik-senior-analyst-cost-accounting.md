@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evonik](https://scoutify.ai/companies/evonik?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Selangor, MY |
-| Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://evonik.wd3.myworkdayjobs.com/external_careers/job/Selangor/Senior-Analyst--Cost-Accounting_R47500) |
+| Location | Malaysia |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://evonik.wd3.myworkdayjobs.com/external_careers/job/Selangor/Senior-Analyst--Cost-Accounting_R51665) |
 
 ## About This Role
 
-This corporate finance position at Evonik was posted on 2026-03-26.
+This accounting position at Evonik was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

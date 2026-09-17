@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000142369959-assistant-client-accountant) |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000148690610-assistant-client-accountant) |
 
 ## About This Role
 
-This corporate finance position at Colliers International UK was posted on 2026-08-08.
+This accounting position at Colliers International UK was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

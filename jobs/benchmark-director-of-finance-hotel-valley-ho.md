@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Scottsdale, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Hotel-Valley-Ho-Scottsdale-AZ-85251/Director-of-Finance---Hotel-Valley-Ho_R0063722) |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Hotel-Valley-Ho-Scottsdale-AZ-85251/Director-of-Finance---Hotel-Valley-Ho_R0066669) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-06-15.
+This accounting position at Benchmark was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

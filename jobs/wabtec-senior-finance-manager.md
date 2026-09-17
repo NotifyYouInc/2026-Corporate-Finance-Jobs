@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rydalmere, New South Wales, Australia |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014940476-senior-finance-manager) |
+| Category | Financial Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015166016-senior-finance-manager) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Wabtec was posted on 2026-08-31.
+This financial analyst position at Wabtec was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

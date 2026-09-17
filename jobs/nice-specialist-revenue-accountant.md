@@ -1,16 +1,16 @@
-# Specialist Revenue Accountant  at NiCE
+# Specialist Revenue Accountant at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4814695101?gh_jid=4814695101) |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4969547101?gh_jid=4969547101) |
 
 ## About This Role
 
-This corporate finance position at NiCE was posted on 2026-03-23.
+This accounting position at NiCE was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

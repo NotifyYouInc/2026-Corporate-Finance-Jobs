@@ -5,12 +5,12 @@
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Ciudad-de-Mexico-Mexico/Sr-Accounting---Reporting-Specialist---Inventory_R-2026-48405-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Ciudad-de-Mexico-Mexico/Sr-Accounting---Reporting-Specialist---Inventory_R-2026-49514-2) |
 
 ## About This Role
 
-This accounting position at Alcon was posted on 2026-07-13.
+This accounting position at Alcon was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

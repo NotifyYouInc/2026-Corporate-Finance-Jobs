@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pepper-Pike/Merrill-Market-Client-Relationship-Manager_25049252-2) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Merrill-Market-Client-Relationship-Manager_26023734-2) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-03.
+This corporate finance position at Bank of America was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

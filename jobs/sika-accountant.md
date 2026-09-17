@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mongolia |
+| Location | Almaty, Almaty, Kazakhstan |
 | Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000140373999-accountant) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000148682954-accountant) |
 
 ## About This Role
 
-This accounting position at Sika was posted on 2026-07-29.
+This accounting position at Sika was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rolls-Royce](https://scoutify.ai/companies/rollsroyce?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Jakarta/Intern--Finance--Jakarta-_JR6153019) |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Jakarta/Intern--Finance--Jakarta-_JR6159621) |
 
 ## About This Role
 
-This corporate finance position at Rolls-Royce was posted on 2026-05-14.
+This accounting position at Rolls-Royce was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

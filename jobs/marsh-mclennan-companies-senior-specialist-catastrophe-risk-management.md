@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Noida---Sector-135/Senior-Specialist---Catastrophe-Risk-Management_R_343907) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Senior-Specialist---Catastrophe-Risk-Management_R_349162) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-04-06.
+This corporate finance position at Marsh & McLennan Companies was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

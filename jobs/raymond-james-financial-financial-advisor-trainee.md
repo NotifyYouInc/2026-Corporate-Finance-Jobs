@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Myers, Florida, United States |
+| Location | Carlsbad, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Fort-Myers-Florida---United-States/Financial-Advisor-Trainee_R-0010356) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Carlsbad-California---United-States/Financial-Advisor-Trainee_R-0012919) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-04-01.
+This corporate finance position at Raymond James Financial was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

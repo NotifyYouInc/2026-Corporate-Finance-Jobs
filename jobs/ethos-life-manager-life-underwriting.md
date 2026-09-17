@@ -1,16 +1,16 @@
-# Manager, Life Underwriting at Ethos Life
+# Manager- Life Underwriting at Ethos Life
 
 | Field | Details |
 |-------|---------|
 | Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8501298002) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8785896002) |
 
 ## About This Role
 
-This corporate finance position at Ethos Life was posted on 2026-04-21.
+This corporate finance position at Ethos Life was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

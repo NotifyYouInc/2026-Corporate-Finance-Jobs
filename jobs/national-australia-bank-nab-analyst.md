@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-3/Analyst_JR118233) |
+| Location | Gurugram, Haryana, India |
+| Category | Financial Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Analyst_JR121034-1) |
 
 ## About This Role
 
-This corporate finance position at National Australia Bank (NAB) was posted on 2026-08-26.
+This financial analyst position at National Australia Bank (NAB) was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wfp](https://scoutify.ai/companies/wfp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Location | Djibouti, Djibouti, Djibouti |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://wfp.wd3.myworkdayjobs.com/job_openings/job/Colombo-Sri-Lanka-DemSocRep-Of/Finance-Assistant-SC5_JR126143-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://wfp.wd3.myworkdayjobs.com/job_openings/job/Djibouti-Djibouti-The-Republic-Of/Finance-Assistant-SC5_JR126675) |
 
 ## About This Role
 
-This accounting position at Wfp was posted on 2026-08-21.
+This accounting position at Wfp was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

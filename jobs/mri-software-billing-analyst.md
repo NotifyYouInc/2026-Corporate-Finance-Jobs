@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
-| Category | Corporate Finance |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cape-Town-South-Africa-Office/Billing-Analyst_R-109093) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Manila-Philippines/Billing-Analyst_R-108909) |
 
 ## About This Role
 
-This corporate finance position at MRI Software was posted on 2026-08-08.
+This accounting position at MRI Software was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

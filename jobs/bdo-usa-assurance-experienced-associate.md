@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BDO USA](https://scoutify.ai/companies/bdo-usa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ridgeland, Mississippi, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ebqb.fa.us2.oraclecloud.com/jobs/#12050) |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ebqb.fa.us2.oraclecloud.com/jobs/#13954) |
 
 ## About This Role
 
-This corporate finance position at BDO USA was posted on 2026-03-30.
+This accounting position at BDO USA was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

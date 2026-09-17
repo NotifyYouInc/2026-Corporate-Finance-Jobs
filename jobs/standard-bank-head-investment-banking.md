@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kampala, Central Region, Uganda |
-| Category | Investment Banking |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000148169060-head-investment-banking) |
+| Category | Corporate Finance |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000148742689-head-investment-banking) |
 
 ## About This Role
 
-This investment banking position at Standard Bank was posted on 2026-09-08.
+This corporate finance position at Standard Bank was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

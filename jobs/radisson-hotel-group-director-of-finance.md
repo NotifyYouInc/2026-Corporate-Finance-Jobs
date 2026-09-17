@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Delhi, Delhi, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000134471369-director-of-finance) |
+| Location | Taza, Fès-Meknès, Morocco |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000148715231-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at Radisson Hotel Group was posted on 2026-06-26.
+This accounting position at Radisson Hotel Group was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

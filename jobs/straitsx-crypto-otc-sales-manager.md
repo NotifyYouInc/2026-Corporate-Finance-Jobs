@@ -5,12 +5,12 @@
 | Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Sales & Trading |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4955644101) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4972996101) |
 
 ## About This Role
 
-This sales & trading position at StraitsX was posted on 2026-08-19.
+This sales & trading position at StraitsX was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

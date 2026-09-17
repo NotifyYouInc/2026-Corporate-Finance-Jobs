@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Villeroy & Boch](https://scoutify.ai/companies/villeroy-boch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cairo, Cairo, Egypt |
-| Category | Corporate Finance |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://villeroyboch.wd3.myworkdayjobs.com/careers/job/Cairo/Financial-Analyst_JR_9006-1) |
+| Category | Financial Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://villeroyboch.wd3.myworkdayjobs.com/careers/job/Cairo/Financial-Analyst_JR_9590) |
 
 ## About This Role
 
-This corporate finance position at Villeroy & Boch was posted on 2026-06-07.
+This financial analyst position at Villeroy & Boch was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

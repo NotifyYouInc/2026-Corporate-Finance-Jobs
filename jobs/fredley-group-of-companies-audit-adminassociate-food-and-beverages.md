@@ -5,12 +5,12 @@
 | Company | [Fredley Group of Companies](https://scoutify.ai/companies/fredleygroupofcompanies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FredleyGroupOfCompanies/744000145235665-audit-adminassociate-food-and-beverages) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FredleyGroupOfCompanies/744000148680849-audit-adminassociate-food-and-beverages) |
 
 ## About This Role
 
-This accounting position at Fredley Group of Companies was posted on 2026-08-24.
+This accounting position at Fredley Group of Companies was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

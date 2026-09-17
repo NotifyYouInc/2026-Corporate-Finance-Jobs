@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Financial-Planning-Analyst_R0059028-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Financial-Planning-Analyst_R0055325) |
 
 ## About This Role
 
-This corporate finance position at Wolters Kluwer was posted on 2026-08-12.
+This corporate finance position at Wolters Kluwer was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

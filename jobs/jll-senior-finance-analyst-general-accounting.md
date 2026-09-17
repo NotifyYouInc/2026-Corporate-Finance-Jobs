@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Financial Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Finance-Analyst---General-Accounting_REQ518559) |
+| Location | Hyderabad, Telangana, India |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Senior-Finance-Analyst---General-Accounting_REQ533603) |
 
 ## About This Role
 
-This financial analyst position at JLL was posted on 2026-07-15.
+This accounting position at JLL was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

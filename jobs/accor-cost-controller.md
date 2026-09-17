@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indonesia |
+| Location | Saudi Arabia |
 | Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000145888289-cost-controller) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000148734419-cost-controller) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-27.
+This accounting position at ACCOR was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

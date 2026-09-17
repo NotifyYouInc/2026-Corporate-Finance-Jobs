@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/COMMERZ-III-OBEROI-GARDEN-CITY/ISG-Operations---Associate--Fund-Accounting--Mumbai-_JR042688) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/COMMERZ-III-OBEROI-GARDEN-CITY/ISG-Operations---Associate--Fund-Accounting--Mumbai-_JR042689) |
 
 ## About This Role
 
-This accounting position at Morgan Stanley was posted on 2026-08-28.
+This accounting position at Morgan Stanley was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

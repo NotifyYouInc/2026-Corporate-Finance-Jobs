@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ismaning, Bavaria, Germany |
 | Category | Financial Analyst |
-| Posted | 2026-07-03 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Ismaning-Munich-Bavaria/Kredit-Analyst--m-w-d-_R0000380301) |
 
 ## About This Role
 
-This financial analyst position at Caterpillar was posted on 2026-07-03.
+This financial analyst position at Caterpillar was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Japan |
 | Category | Corporate Finance |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000148362530-japan-rd-finance-specialist) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000148627229-japan-rd-finance-specialist) |
 
 ## About This Role
 
-This corporate finance position at Santen Pharmaceutical Co. was posted on 2026-09-09.
+This corporate finance position at Santen Pharmaceutical Co. was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | National Capital Region, PH |
-| Category | Corporate Finance |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Taguig-City-National-Capital-Region-Philippines/Associate-Credit-Services-Representative-Cash-Application--Mid-Shift-_R74216-1) |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Taguig-City-National-Capital-Region-Philippines/Associate-Credit-Services-Representative-Cash-Application--Mid-Shift-_R76685-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-08-10.
+This accounting position at Medtronic was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

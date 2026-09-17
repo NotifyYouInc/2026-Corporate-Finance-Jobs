@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Putrajaya, Putrajaya, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Analyst--Associate--Global-Credit---Ratings-and-Monitoring_R-0000159834) |
+| Category | Financial Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Analyst--Associate--Global-Credit---Ratings-and-Monitoring_R-0000187155) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-02-25.
+This financial analyst position at Royal Bank of Canada was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

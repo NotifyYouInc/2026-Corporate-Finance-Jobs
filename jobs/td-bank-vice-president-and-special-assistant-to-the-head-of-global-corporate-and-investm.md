@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
-| Category | Investment Banking |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Vice-President-and-Special-Assistant-to-the-Head-of-Global-Corporate-and-Investment-Banking-Coverage_R_1504245) |
+| Location | Toronto, Ontario, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Vice-President-and-Special-Assistant-to-the-Head-of-Global-Corporate-and-Investment-Banking-Coverage_R_1510225) |
 
 ## About This Role
 
-This investment banking position at TD Bank was posted on 2026-08-06.
+This corporate finance position at TD Bank was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

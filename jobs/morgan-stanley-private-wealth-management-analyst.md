@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Private-Wealth-Management-Analyst_JR031358-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Private-Wealth-Management-Analyst_JR042085-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-09-08.
+This corporate finance position at Morgan Stanley was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
