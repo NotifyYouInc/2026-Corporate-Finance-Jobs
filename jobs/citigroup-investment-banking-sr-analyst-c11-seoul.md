@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Seoul--Korea-Republic-Of/Investment-Banking-Sr-Analyst---C11---SEOUL_26959532) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Seoul--Korea-Republic-Of/Investment-Banking-Sr-Analyst---C11---SEOUL_26989131) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-06.
+This corporate finance position at Citigroup was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

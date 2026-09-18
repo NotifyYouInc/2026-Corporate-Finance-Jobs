@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Capital-Markets-Services-New-Associate_AIOC-S01663299-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Capital-Markets-Services-New-Associate_AIOC-S01665032-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-08-31.
+This corporate finance position at Accenture was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

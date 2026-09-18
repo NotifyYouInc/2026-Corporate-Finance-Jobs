@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000148685555-billing-specialist-ii) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000148948225-billing-specialist-ii) |
 
 ## About This Role
 
-This accounting position at AECOM was posted on 2026-09-10.
+This accounting position at AECOM was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

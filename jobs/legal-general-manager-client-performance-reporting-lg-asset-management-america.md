@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000121521897-manager-client-performance-reporting-lg-asset-management-america) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000148880260-manager-client-performance-reporting-lg-asset-management-america) |
 
 ## About This Role
 
-This corporate finance position at Legal & General was posted on 2026-04-17.
+This corporate finance position at Legal & General was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

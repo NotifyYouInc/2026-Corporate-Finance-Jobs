@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Calgary, Alberta, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-03-21 |
+| Category | Accounting |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Co-op-or-Intern--Assurance---Calgary--January-2027-_JR6041) |
 
 ## About This Role
 
-This corporate finance position at BDO Dunwoody was posted on 2026-03-21.
+This accounting position at BDO Dunwoody was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

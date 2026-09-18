@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B7/Accounting-Control-Senior-Analyst--AS_R0444254) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B7/Accounting-Control-Senior-Analyst--AS_R0450183) |
 
 ## About This Role
 
-This accounting position at Deutsche Bank was posted on 2026-09-09.
+This accounting position at Deutsche Bank was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

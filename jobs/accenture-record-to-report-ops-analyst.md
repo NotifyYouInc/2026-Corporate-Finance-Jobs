@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Record-to-Report-Ops-Analyst_AIOC-S01664672-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Record-to-Report-Ops-Analyst_AIOC-S01665085-1) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-09-09.
+This accounting position at Accenture was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

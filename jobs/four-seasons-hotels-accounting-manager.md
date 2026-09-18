@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saint Kitts and Nevis |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Nevis/Accounting-Manager_REQ10382147) |
+| Location | Toronto, Ontario, Canada |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Toronto/Accounting-Manager_REQ10391583) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-06-05.
+This accounting position at Four Seasons Hotels was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

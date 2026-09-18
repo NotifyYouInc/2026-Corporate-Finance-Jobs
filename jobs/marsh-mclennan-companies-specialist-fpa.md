@@ -1,16 +1,16 @@
-# Specialist FP&A at Marsh & McLennan Companies
+# Specialist - FP&A at Marsh & McLennan Companies
 
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Lima---Las-Orquideas/Specialist-FP-A_R_345957) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Brussels---Herrmann-Debroux/Specialist---FP-A_R_363218) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-04-23.
+This corporate finance position at Marsh & McLennan Companies was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

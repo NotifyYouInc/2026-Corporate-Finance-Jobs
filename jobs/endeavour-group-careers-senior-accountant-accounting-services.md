@@ -1,16 +1,16 @@
-# Senior Accountant - Accounting Services at Endeavour Group Careers
+# Senior Accountant - Accounting Services  at Endeavour Group Careers
 
 | Field | Details |
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000137588970-senior-accountant-accounting-services) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000148918929-senior-accountant-accounting-services) |
 
 ## About This Role
 
-This accounting position at Endeavour Group Careers was posted on 2026-07-14.
+This accounting position at Endeavour Group Careers was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

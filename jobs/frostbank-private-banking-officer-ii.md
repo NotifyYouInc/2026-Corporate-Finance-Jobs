@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kingwood, West Virginia, United States |
+| Location | Fulshear, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Kingwood-TX/Private-Banking-Officer-II_R261410) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/Fulshear-TX/Private-Banking-Officer-II_R261698) |
 
 ## About This Role
 
-This corporate finance position at Frostbank was posted on 2026-08-07.
+This corporate finance position at Frostbank was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

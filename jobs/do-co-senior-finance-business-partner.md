@@ -5,12 +5,12 @@
 | Company | [DO & CO](https://scoutify.ai/companies/doco1?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DOCO1/744000144556995-senior-finance-business-partner) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DOCO1/744000148974829-senior-finance-business-partner) |
 
 ## About This Role
 
-This corporate finance position at DO & CO was posted on 2026-08-20.
+This corporate finance position at DO & CO was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Walnut-Creek/Merrill-Advisor-Development-Program---Financial-Advisor--East-Bay-Market_26021058) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Walnut-Creek/Merrill-Advisor-Development-Program---Financial-Advisor--East-Bay-Market_26033418) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-17.
+This corporate finance position at Bank of America was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

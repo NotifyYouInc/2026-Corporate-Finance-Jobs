@@ -1,16 +1,16 @@
-# Analyst: Controlling Finance Business Partner at HARMAN International
+# Analyst-Controlling (Finance Business Partner) at HARMAN International
 
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Pune---Maharashtra-India---Old-Mumbai-Pune-Rd/Analyst--Controlling-Finance-Business-Partner_R-53199-2026-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Analyst-Controlling-Finance-Business-Partner/32816) |
 
 ## About This Role
 
-This corporate finance position at HARMAN International was posted on 2026-05-13.
+This corporate finance position at HARMAN International was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

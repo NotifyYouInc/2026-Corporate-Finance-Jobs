@@ -1,16 +1,16 @@
-# Branch Controller at Brink's
+# BRANCH CONTROLLER at Brink's
 
 | Field | Details |
 |-------|---------|
 | Company | [Brink's](https://scoutify.ai/companies/brink-s?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cirebon, West Java, Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://brinks.wd5.myworkdayjobs.com/brinkscareers_row/job/Cirebon/Branch-Controller_R72422) |
+| Location | Jakarta, ID |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://brinks.wd5.myworkdayjobs.com/brinkscareers_row/job/Lebak-Bulus/BRANCH-CONTROLLER_R80247) |
 
 ## About This Role
 
-This corporate finance position at Brink's was posted on 2026-04-13.
+This accounting position at Brink's was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

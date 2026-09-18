@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Diego, California, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Accounting |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Diego/Federal-Tax-Associate--Fall-2025-Winter-2026-_JR106805) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Phoenix/FY28-Federal-Tax-Associate--Summer-2027-Jan-2028-_JR112686) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-09-07.
+This accounting position at RSM was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

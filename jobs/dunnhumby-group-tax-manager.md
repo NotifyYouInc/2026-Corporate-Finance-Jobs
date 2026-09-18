@@ -5,12 +5,12 @@
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7793460003) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7992256003) |
 
 ## About This Role
 
-This accounting position at dunnhumby was posted on 2026-07-03.
+This accounting position at dunnhumby was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Work-From-Home/Accounting-Analyst_R251780) |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Work-From-Home/Accounting-Analyst_R266736) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-05-27.
+This accounting position at Sysco was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analista de Creditos  at Grupo Mariposa
+# ANALISTA DE CREDITOS at Grupo Mariposa
 
 | Field | Details |
 |-------|---------|
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Honduras |
-| Category | Corporate Finance |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990014385315-analista-de-creditos) |
+| Location | San Salvador, San Salvador Department, El Salvador |
+| Category | Financial Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990015194426-analista-de-creditos) |
 
 ## About This Role
 
-This corporate finance position at Grupo Mariposa was posted on 2026-07-31.
+This financial analyst position at Grupo Mariposa was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

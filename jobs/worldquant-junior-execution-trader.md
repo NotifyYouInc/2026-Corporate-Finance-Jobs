@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Singapore, Singapore |
 | Category | Sales & Trading |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4705539006) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4408547006) |
 
 ## About This Role
 
-This sales & trading position at WorldQuant was posted on 2026-08-14.
+This sales & trading position at WorldQuant was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

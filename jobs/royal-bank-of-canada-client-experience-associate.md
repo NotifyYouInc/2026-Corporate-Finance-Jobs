@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Collingwood, Ontario, Canada |
+| Location | Surrey, British Columbia, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/COLLINGWOOD-Ontario-Canada/Client-Experience-Associate_R-0000187097-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/SURREY-British-Columbia-Canada/Client-Experience-Associate_R-0000187554) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-09-09.
+This corporate finance position at Royal Bank of Canada was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

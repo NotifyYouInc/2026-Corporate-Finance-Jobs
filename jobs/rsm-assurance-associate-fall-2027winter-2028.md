@@ -1,16 +1,16 @@
-# Assurance Associate - Fall 2027/Winter 2028 at RSM
+# Assurance Associate (Fall 2027/Winter 2028) at RSM
 
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Accounting |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Irvine/Assurance-Associate---Fall-2027-Winter-2028_JR114555) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Los-Angeles/Assurance-Associate--Fall-2027-Winter-2028-_JR114652) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-09-07.
+This accounting position at RSM was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

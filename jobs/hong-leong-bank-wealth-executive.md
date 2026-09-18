@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bukit Bintang, Kuala Lumpur, Malaysia |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/BBB-BUKIT-BINTANG-BR/Wealth-Executive_JR0000026239) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/PST-J-PETALING-BR/Wealth-Executive_JR0000026252) |
 
 ## About This Role
 
-This corporate finance position at Hong Leong Bank was posted on 2026-09-10.
+This corporate finance position at Hong Leong Bank was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

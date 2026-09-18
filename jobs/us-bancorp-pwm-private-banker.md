@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/PWM-Private-Banker_2026-0012298) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Seattle-WA/PWM-Private-Banker_2026-0028461-1) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bancorp was posted on 2026-05-08.
+This corporate finance position at U.S. Bancorp was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

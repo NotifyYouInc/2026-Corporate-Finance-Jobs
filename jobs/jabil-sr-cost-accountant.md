@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chihuahua, Chihuahua, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Cost-Accountant--Americas-_J2452563) |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Sr-Cost-Accountant_J2463119) |
 
 ## About This Role
 
-This corporate finance position at Jabil was posted on 2026-06-02.
+This accounting position at Jabil was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

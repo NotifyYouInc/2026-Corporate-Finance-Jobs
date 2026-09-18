@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ikano-Retail](https://scoutify.ai/companies/ikano-retail?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Thailand |
+| Location | Philippines |
 | Category | Accounting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ikanoretail/744000147147279-accounting-assistant) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ikanoretail/744000148917609-accounting-assistant) |
 
 ## About This Role
 
-This accounting position at Ikano-Retail was posted on 2026-09-03.
+This accounting position at Ikano-Retail was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pimacounty](https://scoutify.ai/companies/pimacounty?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tucson, Arizona, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Accountant-III---Finance---Risk-Management_JR103832) |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Accountant-III---Finance---Risk-Management_JR104384) |
 
 ## About This Role
 
-This corporate finance position at Pimacounty was posted on 2026-06-26.
+This accounting position at Pimacounty was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

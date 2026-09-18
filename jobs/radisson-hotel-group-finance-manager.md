@@ -5,12 +5,12 @@
 | Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guwahati, Assam, India |
 | Category | Accounting |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000144881829-finance-manager) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000148931760-finance-manager) |
 
 ## About This Role
 
-This accounting position at Radisson Hotel Group was posted on 2026-08-22.
+This accounting position at Radisson Hotel Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

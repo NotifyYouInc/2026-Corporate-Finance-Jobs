@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 11 locations |
+| Location | 8 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVINE-CA/Wealth-Custom-Lending-Specialist_R-534019) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BEVERLY-HILLS-CA/Wealth-Custom-Lending-Specialist_R-571968) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-02.
+This corporate finance position at Wells Fargo was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

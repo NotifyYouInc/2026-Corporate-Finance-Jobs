@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Huntsville, Ontario, Canada |
+| Location | Barrie, Ontario, Canada |
 | Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Huntsville/Intermediate-Accountant--Financial-Reporting---Insights_JR6966) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Barrie/Intermediate-Accountant--Financial-Reporting---Insights_JR7028) |
 
 ## About This Role
 
-This accounting position at BDO Dunwoody was posted on 2026-08-28.
+This accounting position at BDO Dunwoody was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

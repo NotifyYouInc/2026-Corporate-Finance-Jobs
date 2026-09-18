@@ -1,16 +1,16 @@
-# Cash Application Accountant at Flowserve
+# Cash application accountant at Flowserve
 
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Querétaro, Chiapas, Mexico |
 | Category | Accounting |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Queretaro-BSC-Mexico/Cash-Application-Accountant_R-20593) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Queretaro-BSC-Mexico/Cash-application-accountant_R-21054) |
 
 ## About This Role
 
-This accounting position at Flowserve was posted on 2026-08-12.
+This accounting position at Flowserve was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

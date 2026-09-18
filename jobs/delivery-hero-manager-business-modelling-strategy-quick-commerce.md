@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000147416409-manager-business-modelling-strategy-quick-commerce) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000148947119-manager-business-modelling-strategy-quick-commerce) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-09-04.
+This strategy & operations position at Delivery Hero was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

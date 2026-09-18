@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Ridgeland-MS---Renaissance-Office-Jackson-MS/Credit-Products-Commercial-Portfolio-Manager_R104430-1) |
+| Location | Birmingham, Alabama, United States |
+| Category | Financial Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Credit-Products-Commercial-Portfolio-Manager_R105780-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Regions Bank was posted on 2026-07-28.
+This financial analyst position at Regions Bank was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

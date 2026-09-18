@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Intime India](https://scoutify.ai/companies/ap1-cx-oj72475?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | India |
-| Category | Investor Relations |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15677) |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15954) |
 
 ## About This Role
 
-This investor relations position at MUFG Intime India was posted on 2026-07-22.
+This corporate finance position at MUFG Intime India was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

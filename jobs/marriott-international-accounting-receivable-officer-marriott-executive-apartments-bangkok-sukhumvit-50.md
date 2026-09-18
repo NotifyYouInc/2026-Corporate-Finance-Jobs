@@ -5,12 +5,12 @@
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Accounting |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26114445) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26117247) |
 
 ## About This Role
 
-This accounting position at Marriott International was posted on 2026-09-07.
+This accounting position at Marriott International was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

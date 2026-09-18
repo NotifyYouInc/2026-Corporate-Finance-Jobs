@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | National Capital Region, PH |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-07-06 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Finance-Specialist--SFIAA-_JR00125698) |
 
 ## About This Role
 
-This accounting position at Sun Life Financial was posted on 2026-07-06.
+This accounting position at Sun Life Financial was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

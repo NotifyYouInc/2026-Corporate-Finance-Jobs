@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-24 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Commercial-Finance-Specialist_585873-1) |
 
 ## About This Role
 
-This corporate finance position at Philips was posted on 2026-06-24.
+This corporate finance position at Philips was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

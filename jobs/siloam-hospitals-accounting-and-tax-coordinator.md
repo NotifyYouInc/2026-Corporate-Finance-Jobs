@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Siloam Hospitals](https://scoutify.ai/companies/siloamhospitals?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Balikpapan, East Kalimantan, Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000001151955-accounting-and-tax-coordinator) |
+| Location | Indonesia |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000001397668-accounting-and-tax-coordinator) |
 
 ## About This Role
 
-This corporate finance position at Siloam Hospitals was posted on 2026-06-13.
+This accounting position at Siloam Hospitals was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

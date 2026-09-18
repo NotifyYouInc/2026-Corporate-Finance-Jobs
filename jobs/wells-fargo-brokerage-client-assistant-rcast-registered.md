@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saint Louis, Michigan, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAINT-LOUIS-MO/Brokerage-Client-Assistant---RCAST---Registered_R-563309) |
+| Category | Corporate Finance |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAINT-LOUIS-MO/Brokerage-Client-Assistant---RCAST---Registered_R-574024) |
 
 ## About This Role
 
-This wealth management / private banking position at Wells Fargo was posted on 2026-07-28.
+This corporate finance position at Wells Fargo was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

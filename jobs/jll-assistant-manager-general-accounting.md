@@ -1,16 +1,16 @@
-# Assistant Manager – General Accounting at JLL
+# Assistant Manager- General Accounting at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Assistant-Manager---General-Accounting_REQ499682) |
+| Location | Hyderabad, Telangana, India |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Assistant-Manager--General-Accounting_REQ533320) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-04-20.
+This accounting position at JLL was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

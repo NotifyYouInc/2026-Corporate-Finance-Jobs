@@ -5,12 +5,12 @@
 | Company | [Envista](https://scoutify.ai/companies/envista?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | Accounting |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/Czech-Republic-Central-Bohemian-Region-Prague/Senior-Finance-Reporting-Specialist--Regional-GL-Accounting_R5027231) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/Czech-Republic-Central-Bohemian-Region-Prague/Senior-Finance-Reporting-Specialist--Regional-GL-Accounting_R5027286) |
 
 ## About This Role
 
-This accounting position at Envista was posted on 2026-09-02.
+This accounting position at Envista was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

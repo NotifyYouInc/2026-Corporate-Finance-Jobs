@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Beijing-China/Accountant_R48335-1) |
+| Location | Mexico |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Alcalda-Benito-Juarez-Mexico/Accountant_R56161) |
 
 ## About This Role
 
-This corporate finance position at TD Synnex was posted on 2026-03-04.
+This accounting position at TD Synnex was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

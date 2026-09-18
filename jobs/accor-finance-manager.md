@@ -1,16 +1,16 @@
-# Finance Manager at ACCOR
+# FINANCE MANAGER  at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Indonesia |
+| Location | Iskandar Puteri, Johor, Malaysia |
 | Category | Accounting |
-| Posted | 2026-08-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000146335109-finance-manager) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000148980959-finance-manager) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-30.
+This accounting position at ACCOR was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

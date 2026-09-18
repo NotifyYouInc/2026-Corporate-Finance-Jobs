@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015091586-finance-manager-procurement) |
+| Category | Financial Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015193406-finance-manager-procurement) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-09-04.
+This financial analyst position at AbbVie was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

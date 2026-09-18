@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Heerlen, Limburg, The Netherlands |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Senior-Auditor_R67755-1) |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Senior-Auditor_R76698-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-05-28.
+This accounting position at Medtronic was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

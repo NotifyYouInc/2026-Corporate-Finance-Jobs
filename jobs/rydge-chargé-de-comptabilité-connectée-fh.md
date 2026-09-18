@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Clermont-Ferrand, Rhône-Alpes, France |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000116235577-charge-de-comptabilite-connectee-fh) |
+| Location | Moulins, Rhône-Alpes, France |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000148954479-charge-de-comptabilite-connectee-fh) |
 
 ## About This Role
 
-This corporate finance position at Rydge was posted on 2026-03-23.
+This accounting position at Rydge was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SWARCO](https://scoutify.ai/companies/swarco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wattens, Tyrol, Austria |
 | Category | Corporate Finance |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000144467079-head-of-finance-swarco-its-division-mwd) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000148971009-head-of-finance-swarco-its-division-mwd) |
 
 ## About This Role
 
-This corporate finance position at SWARCO was posted on 2026-08-20.
+This corporate finance position at SWARCO was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

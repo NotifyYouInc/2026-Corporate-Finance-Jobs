@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/IND---GBS-Pune-Kharadi/Senior-Process-Associate-ITP_R90992) |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/IND---GBS-Pune-Kharadi/Senior-Process-Associate-ITP_R92275) |
 
 ## About This Role
 
-This corporate finance position at Smith+Nephew was posted on 2026-06-09.
+This accounting position at Smith+Nephew was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

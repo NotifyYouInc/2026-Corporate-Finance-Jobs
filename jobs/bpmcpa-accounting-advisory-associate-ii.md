@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bpmcpa](https://scoutify.ai/companies/bpmcpa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Sioux Falls, South Dakota, United States |
 | Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.lever.co/bpmcpa/a907217a-2987-487c-ac87-f335d383e6cf) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.lever.co/bpmcpa/89735c17-fa26-4fcc-8b86-9376e5f86c85) |
 
 ## About This Role
 
-This accounting position at Bpmcpa was posted on 2026-08-21.
+This accounting position at Bpmcpa was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Jose, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000129848829-technical-accounting-senior-manager) |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000148884089-technical-accounting-senior-manager) |
 
 ## About This Role
 
-This corporate finance position at Solidigm was posted on 2026-06-02.
+This accounting position at Solidigm was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

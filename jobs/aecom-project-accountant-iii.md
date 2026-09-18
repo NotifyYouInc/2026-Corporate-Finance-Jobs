@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123846429-project-accountant-iii) |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000148929359-project-accountant-iii) |
 
 ## About This Role
 
-This corporate finance position at AECOM was posted on 2026-04-30.
+This accounting position at AECOM was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

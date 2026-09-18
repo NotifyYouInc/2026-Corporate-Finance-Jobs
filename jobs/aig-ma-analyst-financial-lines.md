@@ -5,12 +5,12 @@
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/M-A-Analyst--Financial-Lines_JR2601806) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/M-A-Analyst--Financial-Lines_JR2603466) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-05-01.
+This corporate finance position at AIG was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

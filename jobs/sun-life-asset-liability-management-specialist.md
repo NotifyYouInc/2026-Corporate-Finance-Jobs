@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | National Capital Region, PH |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Asset-Liability-Management-Specialist_JR00124336) |
 
 ## About This Role
 
-This corporate finance position at Sun Life was posted on 2026-05-27.
+This corporate finance position at Sun Life was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

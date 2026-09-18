@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-PA-Pittsburgh/Senior-Specialist--Payroll_JR105137) |
+| Location | 3 locations |
+| Category | Accounting |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TX-Austin/Senior-Specialist--Payroll_JR107940) |
 
 ## About This Role
 
-This corporate finance position at Bakertilly was posted on 2026-04-24.
+This accounting position at Bakertilly was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

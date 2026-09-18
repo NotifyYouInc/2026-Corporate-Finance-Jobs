@@ -5,12 +5,12 @@
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/PHL-Shared-Services-Philippines---BGC-Office/Accountant--Accounting-to-Reporting_R0261360-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/PHL-Shared-Services-Philippines---BGC-Office/Accountant--Accounting-to-Reporting_R0266297) |
 
 ## About This Role
 
-This accounting position at Fresenius Medical Care was posted on 2026-07-22.
+This accounting position at Fresenius Medical Care was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

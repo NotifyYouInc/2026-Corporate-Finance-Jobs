@@ -5,12 +5,12 @@
 | Company | [Abu Dhabi Islamic Bank](https://scoutify.ai/companies/em2-cx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United Arab Emirates |
 | Category | Growth Marketing |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://hciq.fa.em2.oraclecloud.com/jobs/#4468) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hciq.fa.em2.oraclecloud.com/jobs/#4628) |
 
 ## About This Role
 
-This growth marketing position at Abu Dhabi Islamic Bank was posted on 2026-07-29.
+This growth marketing position at Abu Dhabi Islamic Bank was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

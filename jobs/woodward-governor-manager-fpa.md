@@ -5,12 +5,12 @@
 | Company | [Woodward Governor](https://scoutify.ai/companies/woodward?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Fort Collins, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus/Manager--FP-A_JR109400) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus/Manager--FP-A_JR113452) |
 
 ## About This Role
 
-This corporate finance position at Woodward Governor was posted on 2026-02-18.
+This corporate finance position at Woodward Governor was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

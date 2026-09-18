@@ -5,12 +5,12 @@
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Delhi, Delhi, India |
 | Category | Corporate Finance |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#255186) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#256683) |
 
 ## About This Role
 
-This corporate finance position at Kotak Mahindra Bank was posted on 2026-08-28.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SWARCO](https://scoutify.ai/companies/swarco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wattens, Tyrol, Austria |
+| Location | Perchtoldsdorf, Lower Austria, Austria |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000137378015-tax-managerin-swarco-its-division-mwd) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000148967813-tax-managerin-swarco-its-division-mwd) |
 
 ## About This Role
 
-This accounting position at SWARCO was posted on 2026-07-13.
+This accounting position at SWARCO was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

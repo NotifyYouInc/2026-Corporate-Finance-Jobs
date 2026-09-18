@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 6 locations |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DES-MOINES-IA/Lead-Equipment-Finance-Underwriter_R-562652) |
+| Location | 5 locations |
+| Category | Financial Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MINNEAPOLIS-MN/Lead-Equipment-Finance-Underwriter_R-574459-1) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Wells Fargo was posted on 2026-07-23.
+This financial analyst position at Wells Fargo was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

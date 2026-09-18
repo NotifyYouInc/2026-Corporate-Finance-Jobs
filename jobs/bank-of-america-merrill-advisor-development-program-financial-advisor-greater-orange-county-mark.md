@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Newport-Beach/Merrill-Advisor-Development-Program---Financial-Advisor--Greater-Orange-County-Market_26010580) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Newport-Beach/Merrill-Advisor-Development-Program---Financial-Advisor--Greater-Orange-County-Market_26033420-1) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-23.
+This corporate finance position at Bank of America was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

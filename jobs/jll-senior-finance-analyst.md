@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | South San Francisco, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/South-San-Francisco-CA/Senior-Finance-Analyst_REQ516100) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Financial Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Senior-Finance-Analyst_REQ534563-1) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-22.
+This financial analyst position at JLL was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

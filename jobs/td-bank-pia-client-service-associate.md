@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edmonton, Alberta, Canada |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/PIA-Client-Service-Associate_R_1508249) |
+| Location | Red Deer, Alberta, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Red-Deer-Alberta/PIA-Client-Service-Associate_R_1510059) |
 
 ## About This Role
 
-This wealth management / private banking position at TD Bank was posted on 2026-09-04.
+This corporate finance position at TD Bank was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Guangzhou, Guangdong, China |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Guangzhou-CN-AIA-China/-_JR-68950) |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Guangzhou-CN-AIA-China/-_JR-70026) |
 
 ## About This Role
 
-This actuary / insurance analytics position at AIA Group was posted on 2026-08-10.
+This corporate finance position at AIA Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
