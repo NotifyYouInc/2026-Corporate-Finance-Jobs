@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/Regional-Treasury-Center-Senior-Analyst_R2860536) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/Regional-Treasury-Center-Senior-Analyst_R2870703) |
 
 ## About This Role
 
-This corporate finance position at Sanofi was posted on 2026-06-12.
+This corporate finance position at Sanofi was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

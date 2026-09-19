@@ -1,16 +1,16 @@
-# Finance Sr Manager at Amgen
+# Finance Sr. Manager at Amgen
 
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Finance-Sr-Manager_R-253186) |
+| Location | Holly Springs, North Carolina, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---North-Carolina---Holly-Springs/Finance-Sr-Manager_R-253058-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Amgen was posted on 2026-08-27.
+This corporate finance position at Amgen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

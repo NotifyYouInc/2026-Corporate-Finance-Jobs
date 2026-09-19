@@ -1,0 +1,22 @@
+# Securities Operations Associate II at Fidelity National Information Services
+
+| Field | Details |
+|-------|---------|
+| Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | Financial Analyst |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/CAN-TRNT-5000-Ste-900/Securities-Operations-Associate-II_JR0308003) |
+
+## About This Role
+
+This financial analyst position at Fidelity National Information Services was posted on 2026-09-12.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

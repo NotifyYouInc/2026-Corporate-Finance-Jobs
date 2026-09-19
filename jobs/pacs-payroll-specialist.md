@@ -5,12 +5,12 @@
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Accounting |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/PACS/Payroll-Specialist_JR178797) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/PACS/Payroll-Specialist_JR181768) |
 
 ## About This Role
 
-This accounting position at Pacs was posted on 2026-08-18.
+This accounting position at Pacs was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

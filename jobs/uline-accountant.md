@@ -5,12 +5,12 @@
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 5 locations |
 | Category | Accounting |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Milton-Ontario/Accountant_R267018-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Accountant_R267359) |
 
 ## About This Role
 
-This accounting position at Uline was posted on 2026-09-02.
+This accounting position at Uline was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

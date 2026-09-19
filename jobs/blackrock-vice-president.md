@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Vice-President_R264852) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Vice-President_R266404) |
 
 ## About This Role
 
-This corporate finance position at Blackrock was posted on 2026-06-19.
+This corporate finance position at Blackrock was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Yakima, Washington, United States |
+| Location | Paul, Idaho, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WA-Yakima/Financial-Advisor-in-Training_R2026316-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/MN-St-Paul/Financial-Advisor-in-Training_R20261015-2) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-03-04.
+This corporate finance position at Baird was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

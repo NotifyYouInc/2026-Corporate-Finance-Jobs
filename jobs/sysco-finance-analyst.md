@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Hampton-Roads/Finance-Analyst_R252207) |
+| Location | Minnesota, US |
+| Category | Financial Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Minnesota/Finance-Analyst_R267115) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-05-20.
+This financial analyst position at Sysco was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

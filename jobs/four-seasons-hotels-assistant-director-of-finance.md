@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tunis, Tunis Governorate, Tunisia |
+| Location | Wyoming, US |
 | Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Tunis/Assistant-Director-of-Finance_REQ10387568) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Jackson-Hole/Assistant-Director-of-Finance_REQ10391681) |
 
 ## About This Role
 
-This accounting position at Four Seasons Hotels was posted on 2026-07-31.
+This accounting position at Four Seasons Hotels was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

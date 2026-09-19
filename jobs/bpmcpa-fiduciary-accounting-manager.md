@@ -5,12 +5,12 @@
 | Company | [Bpmcpa](https://scoutify.ai/companies/bpmcpa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | California, US |
 | Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.lever.co/bpmcpa/c2dfd0b0-37ed-4193-b01a-4a81f8fa7f76) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.lever.co/bpmcpa/f552fd88-5885-46ea-aab5-216a85e03cab) |
 
 ## About This Role
 
-This accounting position at Bpmcpa was posted on 2026-08-13.
+This accounting position at Bpmcpa was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

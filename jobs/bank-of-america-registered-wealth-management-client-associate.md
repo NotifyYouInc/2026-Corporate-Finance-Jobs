@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vienna, Virginia, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Vienna/Registered-Wealth-Management-Client-Associate_26032625) |
+| Location | 3 locations |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Manchester/Registered-Wealth-Management-Client-Associate_26033609-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-09-04.
+This corporate finance position at Bank of America was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

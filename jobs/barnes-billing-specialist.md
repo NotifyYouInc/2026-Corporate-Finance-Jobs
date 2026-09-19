@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barnes](https://scoutify.ai/companies/barnes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/barnes/a87db157-ca4c-4f7d-b2d9-7d576de555c1) |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/barnes/fcfecac4-c2a7-45b2-82c8-fc892ddbf432) |
 
 ## About This Role
 
-This corporate finance position at Barnes was posted on 2026-06-22.
+This accounting position at Barnes was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

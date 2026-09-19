@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Riverwoods, Illinois, United States |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Riverwoods-IL/Director--Financial-Planning_R0057826) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Director--Financial-Planning_R0059640-1) |
 
 ## About This Role
 
-This corporate finance position at Wolters Kluwer was posted on 2026-06-17.
+This corporate finance position at Wolters Kluwer was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Cuajimalpa-de-Morelos-CDMX/Funding-Analyst_DT-16936) |
+| Category | Financial Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Cuajimalpa-de-Morelos-CDMX/Funding-Analyst_DT-19470) |
 
 ## About This Role
 
-This corporate finance position at Daimler Truck was posted on 2026-04-20.
+This financial analyst position at Daimler Truck was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

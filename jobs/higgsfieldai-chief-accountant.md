@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Higgsfieldai](https://scoutify.ai/companies/higgsfieldai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Almaty, Almaty, Kazakhstan |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
+| Category | Accounting |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/higgsfieldai/8d6730fb-d6e0-4ca9-80be-bd637168e91c) |
 
 ## About This Role
 
-This corporate finance position at Higgsfieldai was posted on 2026-04-27.
+This accounting position at Higgsfieldai was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Fort Wright, Kentucky, United States |
+| Location | Evansville, Indiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Fort-Wright/Branch-Operations-Assistant_R2026980-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Evansville/Branch-Operations-Assistant_R20261010-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-09-03.
+This corporate finance position at Baird was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

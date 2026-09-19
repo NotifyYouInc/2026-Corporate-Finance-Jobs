@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lino Lakes, Minnesota, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LINO-LAKES-MN/Associate-Bank-Financial-Advisor_R-572416) |
+| Location | Dallas, Texas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/DALLAS-TX/Associate-Bank-Financial-Advisor_R-573915-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Wells Fargo was posted on 2026-09-04.
+This corporate finance position at Wells Fargo was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

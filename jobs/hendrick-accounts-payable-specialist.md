@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hendrick](https://scoutify.ai/companies/hendrick?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Overland Park, Kansas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://hendrick.wd5.myworkdayjobs.com/hendrickcareers/job/Kansas-City-Consolidated-Accounting-Office/Accounts-Payable-Specialist_R-80565) |
+| Location | Atlanta, Georgia, United States |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hendrick.wd5.myworkdayjobs.com/hendrickcareers/job/Atlanta-Consolidated-Accounting-Office/Accounts-Payable-Specialist_R-83315) |
 
 ## About This Role
 
-This corporate finance position at Hendrick was posted on 2026-05-15.
+This accounting position at Hendrick was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

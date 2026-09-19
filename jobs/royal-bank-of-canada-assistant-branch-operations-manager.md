@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Ottawa, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Assistant-Branch-Operations-Manager_R-0000161805) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OTTAWA-Ontario-Canada/Assistant-Branch-Operations-Manager_R-0000186663-2) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-13.
+This corporate finance position at Royal Bank of Canada was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

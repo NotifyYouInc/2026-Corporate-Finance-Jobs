@@ -1,16 +1,16 @@
-# Senior Underwriter / Account Executive Officer Commercial Accounts at Travelers
+# Senior Underwriter / Account Executive Officer - Commercial Accounts at Travelers
 
 | Field | Details |
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/WA---Spokane-Valley/Senior-Underwriter---Account-Executive-Officer-Commercial-Accounts_R-51533) |
+| Location | Alpharetta, Georgia, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Alpharetta/Senior-Underwriter---Account-Executive-Officer---Commercial-Accounts_R-52561) |
 
 ## About This Role
 
-This account executive position at Travelers was posted on 2026-07-17.
+This corporate finance position at Travelers was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

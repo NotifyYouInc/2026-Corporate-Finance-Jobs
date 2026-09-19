@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ATLANTA-GA/Senior-Lead-Commercial-Banking-Portfolio-Manager_R-552857) |
+| Location | 3 locations |
+| Category | Financial Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MINNEAPOLIS-MN/Senior-Lead-Commercial-Banking-Portfolio-Manager_R-573935) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-11.
+This financial analyst position at Wells Fargo was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

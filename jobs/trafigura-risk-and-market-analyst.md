@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trafigura](https://scoutify.ai/companies/trafigura?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://trafigura.wd3.myworkdayjobs.com/trafiguracareersite/job/Montevideo-Uruguay/Risk-and-Market-Analyst_R-018051-1) |
+| Category | Financial Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://trafigura.wd3.myworkdayjobs.com/trafiguracareersite/job/Montevideo-Uruguay/Risk-and-Market-Analyst_R-018719) |
 
 ## About This Role
 
-This corporate finance position at Trafigura was posted on 2026-05-20.
+This financial analyst position at Trafigura was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

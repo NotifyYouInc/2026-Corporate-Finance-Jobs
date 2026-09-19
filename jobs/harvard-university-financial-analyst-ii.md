@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014568226-financial-analyst-ii) |
+| Category | Financial Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990015215606-financial-analyst-ii) |
 
 ## About This Role
 
-This corporate finance position at Harvard University was posted on 2026-08-12.
+This financial analyst position at Harvard University was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

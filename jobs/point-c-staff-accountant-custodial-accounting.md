@@ -5,12 +5,12 @@
 | Company | [Point C](https://scoutify.ai/companies/point-c?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pointc/jobs/5363520008) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pointc/jobs/5418668008) |
 
 ## About This Role
 
-This accounting position at Point C was posted on 2026-07-22.
+This accounting position at Point C was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

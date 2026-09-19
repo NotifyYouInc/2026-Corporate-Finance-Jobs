@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Livonia, Michigan, United States |
-| Category | Human Resources / People Ops |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/Payroll-Analyst--Hybrid--Livonia--MI-_00671309) |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/Payroll-Analyst--Hybrid--Livonia--MI-_00690094) |
 
 ## About This Role
 
-This human resources / people ops position at Trinity Health was posted on 2026-08-07.
+This accounting position at Trinity Health was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

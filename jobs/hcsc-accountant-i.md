@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Richardson, Texas, United States |
 | Category | Accounting |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Accountant-I_R0055515-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Accountant-I_R0055593) |
 
 ## About This Role
 
-This accounting position at HCSC was posted on 2026-09-04.
+This accounting position at HCSC was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

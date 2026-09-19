@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Green Bay, Wisconsin, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Green-Bay/Client-Specialist_R2026903-1) |
+| Location | Evansville, Indiana, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Evansville/Client-Specialist_R20261009-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Baird was posted on 2026-08-20.
+This corporate finance position at Baird was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

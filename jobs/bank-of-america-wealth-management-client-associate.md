@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tyler, Texas, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Tyler/Wealth-Management-Client-Associate_26032657) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Wealth-Management-Client-Associate_26033571) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-09-08.
+This corporate finance position at Bank of America was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

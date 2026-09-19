@@ -1,16 +1,16 @@
-# Client Administrator at Evelyn Partners
+# Client Administrator  at Evelyn Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Evelyn Partners](https://scoutify.ai/companies/evelynpartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Leeds, England, United Kingdom |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000138806850-client-administrator) |
+| Location | Exeter, England, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000148988673-client-administrator) |
 
 ## About This Role
 
-This wealth management / private banking position at Evelyn Partners was posted on 2026-07-21.
+This corporate finance position at Evelyn Partners was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

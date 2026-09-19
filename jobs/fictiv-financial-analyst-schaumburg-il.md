@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Schaumburg, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8574443002) |
+| Category | Financial Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8770235002) |
 
 ## About This Role
 
-This corporate finance position at Fictiv was posted on 2026-06-02.
+This financial analyst position at Fictiv was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

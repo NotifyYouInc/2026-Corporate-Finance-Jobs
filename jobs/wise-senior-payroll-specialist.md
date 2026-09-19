@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | Austin, Texas, United States |
 | Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000140603992-senior-payroll-specialist) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000149102729-senior-payroll-specialist) |
 
 ## About This Role
 
-This accounting position at WISE was posted on 2026-07-30.
+This accounting position at WISE was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Location | Lake Mary, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/New-York---New-York---1185-Ave-of-Americas/Associate-Underwriter_JR26-5126) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Lake-Mary---Florida/Associate-Underwriter_JR26-5276) |
 
 ## About This Role
 
-This corporate finance position at Ryan Specialty was posted on 2026-09-03.
+This corporate finance position at Ryan Specialty was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

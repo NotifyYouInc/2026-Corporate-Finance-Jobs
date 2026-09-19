@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genworth Financial](https://scoutify.ai/companies/genworth-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Accountant_REQ-260135-1) |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Accountant_REQ-260375-1) |
 
 ## About This Role
 
-This corporate finance position at Genworth Financial was posted on 2026-04-01.
+This accounting position at Genworth Financial was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

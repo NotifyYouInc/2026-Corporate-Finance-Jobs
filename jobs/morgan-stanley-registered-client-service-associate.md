@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Virginia Beach, Virginia, United States |
+| Location | Baltimore, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Virginia-Beach-Virginia-United-States-of-America/Registered-Client-Service-Associate_JR043184) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Registered-Client-Service-Associate_JR043687) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-09-04.
+This corporate finance position at Morgan Stanley was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Actuarial-Assistant_2125027) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Actuarial-Assistant_2135182) |
 
 ## About This Role
 
-This corporate finance position at Fidelity was posted on 2026-02-23.
+This corporate finance position at Fidelity was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

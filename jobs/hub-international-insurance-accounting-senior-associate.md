@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Brentwood, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Brentwood-TN/Insurance-Accounting-Senior-Associate_R0036400-1) |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Brentwood-TN/Senior-Accountant_R0038662) |
 
 ## About This Role
 
-This corporate finance position at HUB International was posted on 2026-05-12.
+This accounting position at HUB International was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

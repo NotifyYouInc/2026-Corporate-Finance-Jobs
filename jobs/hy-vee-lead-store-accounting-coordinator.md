@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hy-Vee](https://scoutify.ai/companies/hy-vee?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Iowa, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Charles-City-Kelly-Street-Charles-City-IA/Lead-Store-Accounting-Coordinator_R223689) |
+| Location | Ottumwa, Iowa, United States |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Ottumwa-1-Quincy-Ave-Ottumwa-IA/Lead-Store-Accounting-Coordinator_R251291-1) |
 
 ## About This Role
 
-This corporate finance position at Hy-Vee was posted on 2026-03-17.
+This accounting position at Hy-Vee was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

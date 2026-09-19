@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lightning AI](https://scoutify.ai/companies/lightning-ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lightningai/jobs/7634572003) |
 
 ## About This Role
 
-This corporate finance position at Lightning AI was posted on 2026-04-24.
+This corporate finance position at Lightning AI was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

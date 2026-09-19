@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lac-Mégantic, Quebec, Canada |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lac-Mgantic/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2610179) |
+| Location | 2 locations |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Cowansville/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2611285) |
 
 ## About This Role
 
-This wealth management / private banking position at Desjardins was posted on 2026-09-03.
+This corporate finance position at Desjardins was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

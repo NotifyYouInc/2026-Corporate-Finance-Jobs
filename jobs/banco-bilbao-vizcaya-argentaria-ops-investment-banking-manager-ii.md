@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lima, Lima Province, Peru |
-| Category | Investment Banking |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/OPS-INVESTMENT-BANKING-MANAGER-II_JR00113947) |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/OPS-INVESTMENT-BANKING-MANAGER-II_JR00113277) |
 
 ## About This Role
 
-This investment banking position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-03.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

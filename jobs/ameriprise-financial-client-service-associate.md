@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, California, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Dublin-Ohio/Client-Service-Associate_R26_3486-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Scottsdale-Arizona/Client-Service-Associate_R26_3682-1) |
 
 ## About This Role
 
-This corporate finance position at Ameriprise Financial was posted on 2026-08-31.
+This corporate finance position at Ameriprise Financial was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

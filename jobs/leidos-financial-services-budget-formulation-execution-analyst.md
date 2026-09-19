@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bethesda, Maryland, United States |
-| Category | Corporate Finance |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Financial-Services-Budget-Formulation---Execution-Analyst_R-00191811) |
+| Category | Financial Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Financial-Services-Budget-Formulation---Execution-Analyst_R-00192130-1) |
 
 ## About This Role
 
-This corporate finance position at Leidos was posted on 2026-09-10.
+This financial analyst position at Leidos was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

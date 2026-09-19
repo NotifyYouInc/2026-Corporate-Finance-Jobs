@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Orange, California, United States |
 | Category | Accounting |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000148880129-accounting-tax-associate-bilingual-korean-english) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000149118070-accounting-tax-associate-bilingual-korean-english) |
 
 ## About This Role
 
-This accounting position at Woongjin was posted on 2026-09-10.
+This accounting position at Woongjin was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
