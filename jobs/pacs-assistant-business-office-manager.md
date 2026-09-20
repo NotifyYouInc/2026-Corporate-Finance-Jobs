@@ -5,12 +5,12 @@
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
 | Category | Accounting |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Pikes-Peak-Post-Acute/Assistant-Business-Office-Manager_JR178667) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Pikes-Peak-Post-Acute/Assistant-Business-Office-Manager_JR181954) |
 
 ## About This Role
 
-This accounting position at Pacs was posted on 2026-08-18.
+This accounting position at Pacs was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

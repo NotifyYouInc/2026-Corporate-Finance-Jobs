@@ -1,16 +1,16 @@
-# BUDGET ANALYST at City of New York
+# Finance Internship - Dunboyne at Merck
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Corona, California, United States |
+| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Dunboyne, Leinster, Ireland |
 | Category | Corporate Finance |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015224356-budget-analyst) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IRL---Meath---Dunboyne/Finance-Internship---Dunboyne_R412502) |
 
 ## About This Role
 
-This corporate finance position at City of New York was posted on 2026-09-12.
+This corporate finance position at Merck was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

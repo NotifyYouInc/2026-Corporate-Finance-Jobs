@@ -1,16 +1,16 @@
-# BUDGET ANALYST at City of New York
+# Head of Finance, UOB Travel Planners at UOB Group
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Corona, California, United States |
+| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Singapore |
 | Category | Corporate Finance |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015224356-budget-analyst) |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/Head-of-Finance--UOB-Travel-Planners_JR95800) |
 
 ## About This Role
 
-This corporate finance position at City of New York was posted on 2026-09-12.
+This corporate finance position at UOB Group was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

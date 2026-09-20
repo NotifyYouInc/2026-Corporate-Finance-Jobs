@@ -1,16 +1,16 @@
-# BUDGET ANALYST at City of New York
+# ACCOUNTING COORDINATOR at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Corona, California, United States |
-| Category | Corporate Finance |
+| Location | New York City, New York, United States |
+| Category | Accounting |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015224356-budget-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015223886-accounting-coordinator) |
 
 ## About This Role
 
-This corporate finance position at City of New York was posted on 2026-09-12.
+This accounting position at City of New York was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

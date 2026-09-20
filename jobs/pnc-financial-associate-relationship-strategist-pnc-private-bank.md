@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Doylestown, Pennsylvania, United States |
+| Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Doylestown/Associate-Relationship-Strategist---PNC-Private-Bank_R224274-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Houston-77056/Associate-Relationship-Strategist---PNC-Private-Bank_R235409-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-01.
+This corporate finance position at PNC Financial was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

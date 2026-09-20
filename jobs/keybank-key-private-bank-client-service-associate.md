@@ -1,12 +1,12 @@
-# Key Private Bank Client Relationship Associate at KeyBank
+# Key Private Bank Client Service Associate at KeyBank
 
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westlake, Ohio, United States |
+| Location | Brooklyn, New York, United States |
 | Category | Corporate Finance |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Westlake-OH/Key-Private-Bank-Client-Relationship-Associate_R-42065) |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Key-Private-Bank-Client-Service-Associate_R-42143) |
 
 ## About This Role
 

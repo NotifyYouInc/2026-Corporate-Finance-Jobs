@@ -1,16 +1,16 @@
-# Wealth Strategist I - PNC Wealth Management at PNC Financial
+# Wealth Strategist I- PNC Wealth Management at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | 10 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Phoenix---East-Camelback-Exec-Suite-AZ014/Wealth-Strategist-I---PNC-Wealth-Management_R226413-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Wealth-Strategist-I--PNC-Wealth-Management_R235107-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-17.
+This corporate finance position at PNC Financial was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

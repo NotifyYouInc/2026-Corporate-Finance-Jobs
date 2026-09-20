@@ -1,16 +1,16 @@
-# Accountant at Smiths Group
+# MNF120 ATM 资深管理师 at Wistron NeWeb
 
 | Field | Details |
 |-------|---------|
-| Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rayong, Rayong, Thailand |
+| Company | [Wistron NeWeb](https://scoutify.ai/companies/wistron-neweb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Vietnam |
 | Category | Accounting |
-| Posted | 2026-09-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000149157259-accountant) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/---/MNF120-ATM-_REQ_260912211) |
 
 ## About This Role
 
-This accounting position at Smiths Group was posted on 2026-09-12.
+This accounting position at Wistron NeWeb was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# BUDGET ANALYST at City of New York
+# Associate Director, Payments/Scheme Economics at Airwallex
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Corona, California, United States |
+| Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015224356-budget-analyst) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/7bf590b2-a94e-4ba3-800c-309025c65c51) |
 
 ## About This Role
 
-This corporate finance position at City of New York was posted on 2026-09-12.
+This corporate finance position at Airwallex was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

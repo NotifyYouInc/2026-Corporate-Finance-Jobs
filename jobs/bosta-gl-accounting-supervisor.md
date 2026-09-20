@@ -1,16 +1,16 @@
-# Accountant at Smiths Group
+# GL Accounting Supervisor at Bosta
 
 | Field | Details |
 |-------|---------|
-| Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rayong, Rayong, Thailand |
+| Company | [Bosta](https://scoutify.ai/companies/bosta?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Accounting |
-| Posted | 2026-09-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000149157259-accountant) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://jobs.lever.co/Bosta/bf00a01f-24d0-49dd-a90a-e262455529d4) |
 
 ## About This Role
 
-This accounting position at Smiths Group was posted on 2026-09-12.
+This accounting position at Bosta was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

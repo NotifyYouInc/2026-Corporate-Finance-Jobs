@@ -1,16 +1,16 @@
-# Bookkeeper II at City of New York
+# Finance Assistant | Defence Tech Company at Gt Hq
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Gt Hq](https://scoutify.ai/companies/gt-hq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Accounting |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015223946-bookkeeper-ii) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/gt-hq/a851307f-f916-4cd6-b5a6-581cdd6d5b89) |
 
 ## About This Role
 
-This accounting position at City of New York was posted on 2026-09-12.
+This accounting position at Gt Hq was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

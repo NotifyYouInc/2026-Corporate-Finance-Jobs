@@ -1,16 +1,16 @@
-# 811-CEC-Relationship Manager-VRM-Digital Banking Kotak 811-VRM at Kotak Mahindra Bank
+# Corporate Development Senior Analyst at Equinix
 
 | Field | Details |
 |-------|---------|
-| Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Minato, Wakayama, Japan |
 | Category | Corporate Finance |
 | Posted | 2026-09-13 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#256956) |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/JP-Minato-ku/Corporate-Development-Senior-Analyst_JR-163362) |
 
 ## About This Role
 
-This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-13.
+This corporate finance position at Equinix was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

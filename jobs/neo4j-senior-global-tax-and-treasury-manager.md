@@ -1,16 +1,16 @@
-# Bookkeeper II at City of New York
+# Senior Global Tax and Treasury Manager at Neo4j
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Neo4j](https://scoutify.ai/companies/neo4j?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | United States |
 | Category | Accounting |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015223946-bookkeeper-ii) |
+| Apply | [View on company site](https://boards.greenhouse.io/neo4j/jobs/4712963006?gh_jid=4712963006) |
 
 ## About This Role
 
-This accounting position at City of New York was posted on 2026-09-12.
+This accounting position at Neo4j was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

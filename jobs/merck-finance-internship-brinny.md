@@ -1,16 +1,16 @@
-# Bookkeeper II at City of New York
+# Finance Internship - Brinny at Merck
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Ireland |
 | Category | Accounting |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015223946-bookkeeper-ii) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IRL---Cork---Brinny/Finance-Internship---Brinny_R413002) |
 
 ## About This Role
 
-This accounting position at City of New York was posted on 2026-09-12.
+This accounting position at Merck was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 
