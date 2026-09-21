@@ -1,16 +1,16 @@
-# Actuarial, Analyst at AIA Group
+# Actuarial Analyst at AIA Group
 
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/Actuarial--Analyst_JR-69414) |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/Actuarial-Analyst_JR-70075-1) |
 
 ## About This Role
 
-This actuary / insurance analytics position at AIA Group was posted on 2026-08-26.
+This corporate finance position at AIA Group was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

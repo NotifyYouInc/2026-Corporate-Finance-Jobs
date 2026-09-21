@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Athens, Attica, Greece |
+| Location | Amman, Amman, Jordan |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107250958-accountant) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149302603-accountant) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-02-04.
+This corporate finance position at Delivery Hero was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

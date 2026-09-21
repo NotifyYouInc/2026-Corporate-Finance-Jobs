@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adani Group](https://scoutify.ai/companies/em2-cx-oj1865?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ahmedabad, Gujarat, India |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#58202) |
 
 ## About This Role
 
-This financial analyst position at Adani Group was posted on 2026-09-12.
+This corporate finance position at Adani Group was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

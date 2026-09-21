@@ -1,16 +1,16 @@
-# Federal Tax Services Intern - Real Estate  -  Summer 2027 at RSM
+# Federal Tax Services Intern - Real Estate - Summer 2027 at RSM
 
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Accounting |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Los-Angeles/Federal-Tax-Services-Intern---Real-Estate-----Summer-2027_JR121254) |
+| Location | Phoenix, Arizona, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Phoenix/Federal-Tax-Services-Intern---Real-Estate---Summer-2027_JR117485-1) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-09-11.
+This corporate finance position at RSM was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

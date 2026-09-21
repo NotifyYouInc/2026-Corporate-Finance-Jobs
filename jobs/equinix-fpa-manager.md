@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Tampa/FP-A-Manager_JR-156777) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Amsterdam/FP-A-Manager_JR-163289) |
 
 ## About This Role
 
-This corporate finance position at Equinix was posted on 2026-02-09.
+This corporate finance position at Equinix was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

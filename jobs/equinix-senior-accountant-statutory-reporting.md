@@ -1,16 +1,16 @@
-# Senior Accountant, Statutory Reporting at Equinix
+# Senior Accountant- Statutory Reporting at Equinix
 
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Senior-Accountant--Statutory-Reporting_JR-163158) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Senior-Accountant--Statutory-Reporting_JR-163443-1) |
 
 ## About This Role
 
-This accounting position at Equinix was posted on 2026-08-31.
+This corporate finance position at Equinix was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

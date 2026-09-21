@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bunia, Ituri, Democratic Republic of the Congo |
-| Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/DRC-Bunia-F-Manzikala-Ave/Finance-Officer_Requisition-2026201026) |
+| Location | Vientiane, Vientiane Prefecture, Laos |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Vientiane-Laos/Finance-Officer_Requisition-2026201243) |
 
 ## About This Role
 
-This accounting position at Fhi 360 was posted on 2026-07-14.
+This corporate finance position at Fhi 360 was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

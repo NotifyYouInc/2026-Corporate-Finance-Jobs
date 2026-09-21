@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [El Paso Electric](https://scoutify.ai/companies/ocs-cx-oj34563?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | El Paso, Texas, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://ibrvjb.fa.ocs.oraclecloud.com/jobs/#2740) |
 
 ## About This Role
 
-This accounting position at El Paso Electric was posted on 2026-09-12.
+This corporate finance position at El Paso Electric was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

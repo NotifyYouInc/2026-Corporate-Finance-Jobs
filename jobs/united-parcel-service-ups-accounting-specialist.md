@@ -1,16 +1,16 @@
-# Accounting Specialist at United Parcel Service (UPS)
+# Accounting specialist at United Parcel Service (UPS)
 
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/GB---MARKEN---LONDON-OFFICE-GBPOW/Accounting-Specialist_R26007406) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/GB---MARKEN---LONDON-OFFICE-GBPOW/Accounting-specialist_R26029850) |
 
 ## About This Role
 
-This corporate finance position at United Parcel Service (UPS) was posted on 2026-03-17.
+This corporate finance position at United Parcel Service (UPS) was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SportsDirect.com Retail](https://scoutify.ai/companies/sportsdirectcomretail?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tallaght, Leinster, Ireland |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000149147909-payroll-administator-dublin) |
 
 ## About This Role
 
-This accounting position at SportsDirect.com Retail was posted on 2026-09-12.
+This corporate finance position at SportsDirect.com Retail was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

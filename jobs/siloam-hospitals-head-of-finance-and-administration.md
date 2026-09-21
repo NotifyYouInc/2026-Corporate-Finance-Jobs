@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Siloam Hospitals](https://scoutify.ai/companies/siloamhospitals?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kupang, East Nusa Tenggara, Indonesia |
-| Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000001342310-head-of-finance-and-administration) |
+| Location | Palembang, South Sumatra, Indonesia |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SiloamCareers/6000000001404288-head-of-finance-and-administration) |
 
 ## About This Role
 
-This accounting position at Siloam Hospitals was posted on 2026-08-24.
+This corporate finance position at Siloam Hospitals was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

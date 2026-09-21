@@ -1,16 +1,16 @@
-# Collaborateur Comptable Expérimenté F/H at Rydge
+# Collaborateur comptable expérimenté F/H at Rydge
 
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | La Roche-sur-Yon, Pays de la Loire, France |
-| Category | Accounting |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000148452821-collaborateur-comptable-experimente-fh) |
+| Location | Mâcon, Bourgogne, France |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000149271865-collaborateur-comptable-experimente-fh) |
 
 ## About This Role
 
-This accounting position at Rydge was posted on 2026-09-09.
+This corporate finance position at Rydge was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

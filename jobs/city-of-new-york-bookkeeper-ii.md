@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015223946-bookkeeper-ii) |
 
 ## About This Role
 
-This accounting position at City of New York was posted on 2026-09-12.
+This corporate finance position at City of New York was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

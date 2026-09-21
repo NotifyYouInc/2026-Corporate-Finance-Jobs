@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renaud-Bray](https://scoutify.ai/companies/renaudbray?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000149145289-commis-administratif-finances) |
 
 ## About This Role
 
-This accounting position at Renaud-Bray was posted on 2026-09-12.
+This corporate finance position at Renaud-Bray was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

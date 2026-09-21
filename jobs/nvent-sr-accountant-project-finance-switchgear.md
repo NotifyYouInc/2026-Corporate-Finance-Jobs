@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Fulton-MO-US/Sr-Accountant--Project-Finance--Switchgear-_R23101-1) |
 
 ## About This Role
 
-This accounting position at nVent was posted on 2026-09-11.
+This corporate finance position at nVent was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

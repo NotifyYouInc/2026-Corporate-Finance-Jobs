@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zurn Elkay Water Solutions](https://scoutify.ai/companies/elkay?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sr-Financial-Analyst_REQ-020068) |
 
 ## About This Role
 
-This financial analyst position at Zurn Elkay Water Solutions was posted on 2026-09-11.
+This corporate finance position at Zurn Elkay Water Solutions was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

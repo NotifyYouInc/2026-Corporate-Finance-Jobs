@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gt Hq](https://scoutify.ai/companies/gt-hq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/gt-hq/a851307f-f916-4cd6-b5a6-581cdd6d5b89) |
 
 ## About This Role
 
-This accounting position at Gt Hq was posted on 2026-09-12.
+This corporate finance position at Gt Hq was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

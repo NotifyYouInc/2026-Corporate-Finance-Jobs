@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Finance-Process-Intelligence-Manager_JR108841-1) |
+| Location | Malaysia |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Finance-Process-Intelligence-Manager_JR111597) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Micron was posted on 2026-08-24.
+This corporate finance position at Micron was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

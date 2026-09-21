@@ -1,16 +1,16 @@
-# Sr Accounts Payable Representative at Thermo Fisher Scientific
+# Sr. Accounts Payable Representative at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Location | Budapest, Budapest, Hungary |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Sr-Accounts-Payable-Representative_R-01345168) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Budapest-Hungary/Sr-Accounts-Payable-Representative_R-01361735-1) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-25.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

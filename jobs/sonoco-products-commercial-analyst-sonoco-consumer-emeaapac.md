@@ -1,16 +1,16 @@
-# Commercial Analyst  – Sonoco Consumer EMEA/APAC at Sonoco Products
+# Commercial Analyst – Sonoco Consumer EMEA/APAC at Sonoco Products
 
 | Field | Details |
 |-------|---------|
 | Company | [Sonoco Products](https://scoutify.ai/companies/sonoco-products?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/FRA---Nantes---D345/Commercial-Analyst----Sonoco-Consumer-EMEA-APAC_JR-159679) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/FRA---Nantes---D345/Commercial-Analyst---Sonoco-Consumer-EMEA-APAC_JR-160422-1) |
 
 ## About This Role
 
-This corporate finance position at Sonoco Products was posted on 2026-08-11.
+This corporate finance position at Sonoco Products was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

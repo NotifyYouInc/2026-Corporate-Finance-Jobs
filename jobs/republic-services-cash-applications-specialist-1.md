@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Las Vegas, Nevada, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Las-Vegas-NV-USA/Cash-Applications-Specialist-1_R-184330) |
 
 ## About This Role
 
-This accounting position at Republic Services was posted on 2026-09-11.
+This corporate finance position at Republic Services was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

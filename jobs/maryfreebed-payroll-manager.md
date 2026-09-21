@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Maryfreebed](https://scoutify.ai/companies/maryfreebed?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Grand Rapids, Michigan, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/Payroll-Manager_JB103234) |
 
 ## About This Role
 
-This accounting position at Maryfreebed was posted on 2026-09-11.
+This corporate finance position at Maryfreebed was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

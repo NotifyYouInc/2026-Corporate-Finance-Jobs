@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | El Paso, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TX-El-Paso-Don-Haskins/Supervisor--Cost-Accounting_20175874-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TX-El-Paso-Don-Haskins/Supervisor--Cost-Accounting_20186962) |
 
 ## About This Role
 
-This corporate finance position at Cardinal Health was posted on 2026-02-19.
+This corporate finance position at Cardinal Health was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

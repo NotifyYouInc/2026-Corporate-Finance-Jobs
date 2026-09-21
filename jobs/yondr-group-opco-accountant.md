@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Yondr Group](https://scoutify.ai/companies/yondr-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/yondrgroup/jobs/4974911101) |
 
 ## About This Role
 
-This accounting position at Yondr Group was posted on 2026-09-11.
+This corporate finance position at Yondr Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

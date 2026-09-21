@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MAZARS](https://scoutify.ai/companies/mazars?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bezannes, Grand Est, France |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000138797829-collaborateur-comptable-junior-sem-reims-2026-hf) |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000149287269-collaborateur-comptable-junior-sem-reims-2026-hf) |
 
 ## About This Role
 
-This digital / performance marketing position at MAZARS was posted on 2026-07-21.
+This corporate finance position at MAZARS was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

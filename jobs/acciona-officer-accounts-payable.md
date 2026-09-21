@@ -5,12 +5,12 @@
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Melbourne/Officer--Accounts-Payable_20095200) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Melbourne/Officer--Accounts-Payable_20099786) |
 
 ## About This Role
 
-This corporate finance position at Acciona was posted on 2026-04-27.
+This corporate finance position at Acciona was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

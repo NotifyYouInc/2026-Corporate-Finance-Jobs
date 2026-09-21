@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Aurora, Colorado, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Aurora-Ontario-CA/Financial-Analyst_R00259740-1) |
 
 ## About This Role
 
-This financial analyst position at Magna was posted on 2026-09-11.
+This corporate finance position at Magna was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

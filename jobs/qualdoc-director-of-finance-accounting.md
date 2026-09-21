@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Charlottesville, Virginia, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://jobs.lever.co/qualdoc/0b8df497-6da0-4186-9d6d-e79e39b66e18) |
 
 ## About This Role
 
-This accounting position at Qualdoc was posted on 2026-09-12.
+This corporate finance position at Qualdoc was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

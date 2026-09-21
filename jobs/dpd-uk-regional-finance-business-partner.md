@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DPD UK](https://scoutify.ai/companies/dpduk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bristol, England, United Kingdom |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DPDGroupUK1/744000146676538-regional-finance-business-partner) |
+| Location | Edinburgh, Scotland, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DPDGroupUK1/744000149291895-regional-finance-business-partner) |
 
 ## About This Role
 
-This fp&a / strategic finance position at DPD UK was posted on 2026-09-01.
+This corporate finance position at DPD UK was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

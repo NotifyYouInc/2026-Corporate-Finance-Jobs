@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Accounting |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Senior-Finance-Analyst---General-Accounting_REQ533603) |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Senior-Finance-Analyst---General-Accounting_REQ534177) |
 
 ## About This Role
 
-This accounting position at JLL was posted on 2026-09-10.
+This corporate finance position at JLL was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

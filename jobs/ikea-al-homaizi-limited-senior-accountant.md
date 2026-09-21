@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IKEA - Al Homaizi Limited](https://scoutify.ai/companies/ikea-al-homaizi-limited?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Amman, Amman, Jordan |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ikea-alhomaizilimited/744000149191288-senior-accountant) |
 
 ## About This Role
 
-This accounting position at IKEA - Al Homaizi Limited was posted on 2026-09-13.
+This corporate finance position at IKEA - Al Homaizi Limited was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Airoli, Maharashtra, India |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Airoli-400708/Customs-Operations-FinOps-Specialist_R196448) |
 
 ## About This Role
 
-This accounting position at A.P. Moller - Maersk was posted on 2026-09-12.
+This corporate finance position at A.P. Moller - Maersk was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

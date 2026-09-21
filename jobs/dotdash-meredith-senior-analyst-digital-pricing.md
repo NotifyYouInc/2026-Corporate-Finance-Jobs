@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DotDash Meredith](https://scoutify.ai/companies/meredith?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://meredith.wd5.myworkdayjobs.com/EXT/job/New-York-NY---225-Liberty-Street/Senior-Analyst--Digital-Pricing_JR15686) |
 
 ## About This Role
 
-This financial analyst position at DotDash Meredith was posted on 2026-09-11.
+This corporate finance position at DotDash Meredith was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

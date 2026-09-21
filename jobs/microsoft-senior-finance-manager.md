@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556985548) |
 
 ## About This Role
 
-This financial analyst position at Microsoft was posted on 2026-09-11.
+This corporate finance position at Microsoft was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

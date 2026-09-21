@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milpitas, California, United States |
-| Category | Financial Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-CA-Milpitas/Financial-Analyst_WD227430) |
+| Location | Penang, MY |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Financial-Analyst_WD228379-1) |
 
 ## About This Role
 
-This financial analyst position at FLEX LTD. Flextronics was posted on 2026-09-01.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Calgary, Alberta, Canada |
-| Category | Accounting |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/CACalgaryGreenLine/Cost-Controller_R-160495) |
+| Location | Toronto, Ontario, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONToronto191-The-West-Mall/Cost-Controller_R-163426) |
 
 ## About This Role
 
-This accounting position at AtkinsRéalis was posted on 2026-07-28.
+This corporate finance position at AtkinsRéalis was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

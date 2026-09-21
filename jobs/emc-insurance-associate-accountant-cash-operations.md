@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EMC Insurance](https://scoutify.ai/companies/emcins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Des Moines, Iowa, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Des-Moines--Corporate-Office/Associate-Accountant-Cash-Operations_R6526) |
 
 ## About This Role
 
-This accounting position at EMC Insurance was posted on 2026-09-12.
+This corporate finance position at EMC Insurance was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

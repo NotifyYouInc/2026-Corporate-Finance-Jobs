@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8165199) |
 
 ## About This Role
 
-This accounting position at Netskope was posted on 2026-09-12.
+This corporate finance position at Netskope was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

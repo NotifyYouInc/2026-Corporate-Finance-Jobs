@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990015225476-business-support-ar-must-bilingual-in-korean) |
 
 ## About This Role
 
-This accounting position at SBT Global, Inc. was posted on 2026-09-12.
+This corporate finance position at SBT Global, Inc. was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

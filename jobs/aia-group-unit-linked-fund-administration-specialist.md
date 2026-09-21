@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/Unit-Linked-Fund-Administration--Specialist_JR-66564) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/Unit-Linked-Fund-Administration--Specialist_JR-70080) |
 
 ## About This Role
 
-This corporate finance position at AIA Group was posted on 2026-05-19.
+This corporate finance position at AIA Group was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

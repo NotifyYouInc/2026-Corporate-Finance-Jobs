@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/MA-Boston---Federal-St/Empower-Accounting-Manager---Boston-Area-Preferred_R0062332) |
 
 ## About This Role
 
-This accounting position at Empower was posted on 2026-09-11.
+This corporate finance position at Empower was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

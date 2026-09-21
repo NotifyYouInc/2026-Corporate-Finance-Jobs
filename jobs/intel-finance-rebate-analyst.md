@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San José, San José, Costa Rica |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Finance-Rebate-Analyst_JR0287140) |
 
 ## About This Role
 
-This financial analyst position at Intel was posted on 2026-09-12.
+This corporate finance position at Intel was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

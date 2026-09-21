@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/SAG-Corp-Comm-Sr-Portfolio-Officer_26031675-2) |
 
 ## About This Role
 
-This financial analyst position at Bank of America was posted on 2026-09-12.
+This corporate finance position at Bank of America was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | California, US |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/91764-CA/Staff-Accountant_R100125410) |
 
 ## About This Role
 
-This accounting position at ASM Global was posted on 2026-09-12.
+This corporate finance position at ASM Global was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

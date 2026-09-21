@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Uttarakhand, IN |
+| Location | Panipat, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#256306) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#257127) |
 
 ## About This Role
 
-This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-08.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

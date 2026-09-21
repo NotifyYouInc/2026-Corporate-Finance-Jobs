@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Prospa](https://scoutify.ai/companies/prospa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-13 |
 | Apply | [View on company site](https://www.prospa.com/about-us/careers?gh_jid=8166459) |
 
 ## About This Role
 
-This financial analyst position at Prospa was posted on 2026-09-13.
+This corporate finance position at Prospa was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

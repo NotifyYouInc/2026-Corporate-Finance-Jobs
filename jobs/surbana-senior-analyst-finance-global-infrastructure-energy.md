@@ -5,12 +5,12 @@
 | Company | [SURBANA](https://scoutify.ai/companies/surbana?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/Melbourne/Senior-Analyst--Finance---Global-Infrastructure---Energy_JR110737) |
 
 ## About This Role
 
-This corporate finance position at SURBANA was posted on 2026-03-30.
+This corporate finance position at SURBANA was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

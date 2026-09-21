@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Osaka, Osaka, Japan |
-| Category | Accounting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000143230119-income-auditor) |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000149246079-income-auditor) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-08-13.
+This corporate finance position at ACCOR was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

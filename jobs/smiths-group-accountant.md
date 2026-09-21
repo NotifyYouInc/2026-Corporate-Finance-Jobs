@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Rayong, Rayong, Thailand |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000149157259-accountant) |
 
 ## About This Role
 
-This accounting position at Smiths Group was posted on 2026-09-12.
+This corporate finance position at Smiths Group was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

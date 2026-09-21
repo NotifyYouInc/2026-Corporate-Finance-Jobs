@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Strategic-Financial-Analyst_00024165) |
 
 ## About This Role
 
-This financial analyst position at Marathon Petroleum was posted on 2026-09-11.
+This corporate finance position at Marathon Petroleum was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

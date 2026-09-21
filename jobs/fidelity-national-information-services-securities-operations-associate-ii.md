@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/CAN-TRNT-5000-Ste-900/Securities-Operations-Associate-II_JR0308003) |
 
 ## About This Role
 
-This financial analyst position at Fidelity National Information Services was posted on 2026-09-12.
+This corporate finance position at Fidelity National Information Services was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

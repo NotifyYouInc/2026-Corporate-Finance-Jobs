@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Newcastle upon Tyne, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/32-GALLOWGATENEWCASTLE-UPON-TYNE/Associate--Wealth-Management_R-0000150178) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-ST-HELENS-PLACELONDON/Associate--Wealth-Management_R-0000187567) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-20.
+This corporate finance position at Royal Bank of Canada was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

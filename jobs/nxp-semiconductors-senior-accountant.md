@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/Senior-Accountant_R-10065588-1) |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/Senior-Accountant_R-10066714-1) |
 
 ## About This Role
 
-This accounting position at NXP Semiconductors was posted on 2026-07-22.
+This corporate finance position at NXP Semiconductors was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

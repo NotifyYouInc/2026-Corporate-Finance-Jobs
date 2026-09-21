@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cabo San Lucas, Baja California Sur, Mexico |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Cabo-Del-Sol/Accounting-Assistant-Manager_REQ10391488) |
 
 ## About This Role
 
-This accounting position at Four Seasons Hotels was posted on 2026-09-12.
+This corporate finance position at Four Seasons Hotels was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

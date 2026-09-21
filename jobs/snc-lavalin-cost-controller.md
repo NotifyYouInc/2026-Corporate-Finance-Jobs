@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CAONMississauga2251-Speakman-Drive/Cost-Controller_R-156355) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CAONToronto191-The-West-Mall/Cost-Controller_R-163426) |
 
 ## About This Role
 
-This corporate finance position at SNC-Lavalin was posted on 2026-05-28.
+This corporate finance position at SNC-Lavalin was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

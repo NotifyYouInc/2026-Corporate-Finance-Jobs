@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Poshmark](https://scoutify.ai/companies/poshmark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Redwood City, California, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/poshmark/121f59b9-a44b-4173-8c59-db3e65428ede) |
 
 ## About This Role
 
-This accounting position at Poshmark was posted on 2026-09-11.
+This corporate finance position at Poshmark was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

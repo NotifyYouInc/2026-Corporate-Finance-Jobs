@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Neo4j](https://scoutify.ai/companies/neo4j?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://boards.greenhouse.io/neo4j/jobs/4712963006?gh_jid=4712963006) |
 
 ## About This Role
 
-This accounting position at Neo4j was posted on 2026-09-12.
+This corporate finance position at Neo4j was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

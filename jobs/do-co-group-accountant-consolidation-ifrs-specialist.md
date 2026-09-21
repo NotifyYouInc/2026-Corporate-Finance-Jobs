@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DO & CO](https://scoutify.ai/companies/doco1?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austria |
-| Category | Accounting |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DOCO1/744000148175030-group-accountant-consolidation-ifrs-specialist) |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DOCO1/744000149307409-group-accountant-consolidation-ifrs-specialist) |
 
 ## About This Role
 
-This accounting position at DO & CO was posted on 2026-09-08.
+This corporate finance position at DO & CO was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

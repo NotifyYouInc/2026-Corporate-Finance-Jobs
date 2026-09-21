@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 3 locations |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Mortgage-Valuation-and-Cash-Flow-Analytics-Consultant_R-574956) |
 
 ## About This Role
 
-This financial analyst position at Wells Fargo was posted on 2026-09-12.
+This corporate finance position at Wells Fargo was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wistron NeWeb](https://scoutify.ai/companies/wistron-neweb?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Vietnam |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/---/MNF120-ATM-_REQ_260912211) |
 
 ## About This Role
 
-This accounting position at Wistron NeWeb was posted on 2026-09-11.
+This corporate finance position at Wistron NeWeb was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

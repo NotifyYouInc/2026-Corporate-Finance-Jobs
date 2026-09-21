@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saudi Arabia |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-13 |
 | Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Amaala/Accounting-Supervisor_REQ10391035) |
 
 ## About This Role
 
-This accounting position at Four Seasons Hotels was posted on 2026-09-13.
+This corporate finance position at Four Seasons Hotels was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 
