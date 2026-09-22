@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000149287519-pension-scheme-technical-loading-actuary) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000149563984-pension-scheme-technical-loading-actuary) |
 
 ## About This Role
 
-This corporate finance position at Legal & General was posted on 2026-09-14.
+This corporate finance position at Legal & General was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Luis Potosí, San Luis Potosí, Mexico |
+| Location | Bekasi, West Java, Indonesia |
 | Category | Corporate Finance |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/San-Luis-Potosi/Finance-Trainee-Apprentice-VIE_REQ2026075394) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bekasi/Finance-Trainee-Apprentice-VIE_REQ2026080845) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-07-30.
+This corporate finance position at Valeo was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

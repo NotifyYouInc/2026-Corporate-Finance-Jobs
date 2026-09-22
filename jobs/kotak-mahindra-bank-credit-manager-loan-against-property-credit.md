@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Financial Analyst |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#256556) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#257240) |
 
 ## About This Role
 
-This financial analyst position at Kotak Mahindra Bank was posted on 2026-09-10.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

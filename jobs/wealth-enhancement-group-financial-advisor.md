@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saginaw, Michigan, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Saginaw-MI/Financial-Advisor_R-102729) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Boca-Raton-FL/Financial-Advisor_R-102734) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-09-11.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

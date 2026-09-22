@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147862954-business-partner-finance-sales-independent-aftermarket-assistant-manager) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149499079-business-partner-finance-sales-independent-aftermarket-assistant-manager) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-09-07.
+This corporate finance position at Robert Bosch was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BEUMER Group](https://scoutify.ai/companies/beumergroup1?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ústí nad Labem, Ústecký kraj, Czechia |
-| Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BEUMERGroup1/744000145447183-senior-accountant-mfd) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BEUMERGroup1/744000149521823-senior-accountant-mfd) |
 
 ## About This Role
 
-This accounting position at BEUMER Group was posted on 2026-08-25.
+This corporate finance position at BEUMER Group was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

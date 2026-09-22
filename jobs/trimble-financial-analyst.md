@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Financial Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Financial-Analyst_R56682) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Financial-Analyst_R57573) |
 
 ## About This Role
 
-This financial analyst position at Trimble was posted on 2026-07-15.
+This corporate finance position at Trimble was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Hyderabad-India/Analyst-ISC-Finance--Hyderabad_R-167466) |
 
 ## About This Role
 
-This corporate finance position at Mondelez International was posted on 2026-05-19.
+This corporate finance position at Mondelez International was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

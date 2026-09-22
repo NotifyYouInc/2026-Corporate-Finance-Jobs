@@ -1,16 +1,16 @@
-# Lead Financial Analyst, FP&A at Broadridge
+# Lead Financial Analyst - FP&A at Broadridge
 
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Lead-Financial-Analyst--FP-A_JR1085471) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Lead-Financial-Analyst---FP-A_JR1085824) |
 
 ## About This Role
 
-This corporate finance position at Broadridge was posted on 2026-09-03.
+This corporate finance position at Broadridge was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

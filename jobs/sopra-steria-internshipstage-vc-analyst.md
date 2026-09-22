@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115241821-internshipstage-vc-analyst) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149533944-internshipstage-vc-analyst) |
 
 ## About This Role
 
-This corporate finance position at Sopra Steria was posted on 2026-03-17.
+This corporate finance position at Sopra Steria was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

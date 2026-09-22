@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000147897649-director-of-finance) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000149525059-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-09-07.
+This corporate finance position at ACCOR was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

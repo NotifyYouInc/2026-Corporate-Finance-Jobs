@@ -1,16 +1,16 @@
-# Financial Analyst - Capital Markets at Cushman & Wakefield
+# Financial Analyst, Capital Markets at Cushman & Wakefield
 
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Houston-Texas-USA/Financial-Analyst---Capital-Markets_R331995) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia-USA/Financial-Analyst--Capital-Markets_R333864) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-08-18.
+This corporate finance position at Cushman & Wakefield was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Comptable gérance H/F CDD 4 mois at Evoriel
+# Comptable gérance H/F - CDD 4 mois at Evoriel
 
 | Field | Details |
 |-------|---------|
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Accounting |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000148963703-comptable-gerance-hf-cdd-4-mois) |
+| Location | Rennes, Brittany, France |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000149540484-comptable-gerance-hf-cdd-4-mois) |
 
 ## About This Role
 
-This accounting position at Evoriel was posted on 2026-09-11.
+This corporate finance position at Evoriel was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

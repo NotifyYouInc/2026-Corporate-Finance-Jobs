@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000135948502-executive-accounts) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000149518729-executive-accounts) |
 
 ## About This Role
 
-This accounting position at Assystem was posted on 2026-07-06.
+This corporate finance position at Assystem was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

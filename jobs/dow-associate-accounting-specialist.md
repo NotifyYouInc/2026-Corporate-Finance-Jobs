@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Accounting-Specialist_R2068209-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Taipei-TWN/Associate-Accounting-Specialist_R2067595) |
 
 ## About This Role
 
-This accounting position at Dow was posted on 2026-08-28.
+This corporate finance position at Dow was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | West Perth, Western Australia, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001402233-group-financial-accountant) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001406100-group-financial-accountant) |
 
 ## About This Role
 
-This corporate finance position at APM Group was posted on 2026-09-14.
+This corporate finance position at APM Group was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

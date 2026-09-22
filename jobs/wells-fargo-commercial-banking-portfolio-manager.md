@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Banking-Portfolio-Manager_R-542318) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Banking-Portfolio-Manager_R-522415-1) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-08.
+This corporate finance position at Wells Fargo was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

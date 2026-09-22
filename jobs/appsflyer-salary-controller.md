@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AppsFlyer](https://scoutify.ai/companies/appsflyer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Herzliya, Tel Aviv, Israel |
-| Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://careers.appsflyer.com/jobs/position/8763495002?gh_jid=8763495002) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://careers.appsflyer.com/jobs/position/8809604002?gh_jid=8809604002) |
 
 ## About This Role
 
-This accounting position at AppsFlyer was posted on 2026-08-31.
+This corporate finance position at AppsFlyer was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

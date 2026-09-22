@@ -5,12 +5,12 @@
 | Company | [Clifford Chance](https://scoutify.ai/companies/cliffordchance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Corporate Finance |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000149266199-finance-analyst) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000149533894-finance-analyst) |
 
 ## About This Role
 
-This corporate finance position at Clifford Chance was posted on 2026-09-14.
+This corporate finance position at Clifford Chance was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

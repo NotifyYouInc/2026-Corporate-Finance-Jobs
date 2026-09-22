@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citco](https://scoutify.ai/companies/ocs-cx-oj22087?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#17226) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#18846) |
 
 ## About This Role
 
-This asset management / portfolio management position at Citco was posted on 2026-07-27.
+This corporate finance position at Citco was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

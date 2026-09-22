@@ -5,12 +5,12 @@
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Staff-Actuary_R26_2028-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Staff-Actuary_R26_3653) |
 
 ## About This Role
 
-This corporate finance position at Ameriprise Financial was posted on 2026-05-29.
+This corporate finance position at Ameriprise Financial was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

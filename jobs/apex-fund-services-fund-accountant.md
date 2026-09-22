@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Accounting |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore-Fortune-Summit/Fund-Accountant_JR-0025399) |
+| Location | Manama, Manama, Bahrain |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Manama/Fund-Accountant_JR-0026037) |
 
 ## About This Role
 
-This accounting position at Apex Fund Services was posted on 2026-09-07.
+This corporate finance position at Apex Fund Services was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

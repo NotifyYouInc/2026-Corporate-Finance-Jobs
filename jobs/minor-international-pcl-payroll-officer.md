@@ -5,12 +5,12 @@
 | Company | [Minor International PCL](https://scoutify.ai/companies/minorinternationalpcl?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Maroochydore, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000149232510-payroll-officer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MinorInternational/744000149495359-payroll-officer) |
 
 ## About This Role
 
-This corporate finance position at Minor International PCL was posted on 2026-09-14.
+This corporate finance position at Minor International PCL was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

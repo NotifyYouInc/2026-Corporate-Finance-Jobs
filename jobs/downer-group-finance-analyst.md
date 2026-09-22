@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Downer Group](https://scoutify.ai/companies/ocs-cx-oj31911?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Maryborough, Queensland, Australia |
-| Category | Financial Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#733175) |
+| Location | Brisbane, Queensland, Australia |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#736429) |
 
 ## About This Role
 
-This financial analyst position at Downer Group was posted on 2026-07-06.
+This corporate finance position at Downer Group was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

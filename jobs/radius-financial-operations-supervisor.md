@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Crewe, England, United Kingdom |
-| Category | Accounting |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000147865399-financial-operations-supervisor) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000149534717-financial-operations-supervisor) |
 
 ## About This Role
 
-This accounting position at Radius was posted on 2026-09-07.
+This corporate finance position at Radius was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mâcon, Bourgogne, France |
 | Category | Corporate Finance |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000149271865-collaborateur-comptable-experimente-fh) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000149514949-collaborateur-comptable-experimente-fh) |
 
 ## About This Role
 
-This corporate finance position at Rydge was posted on 2026-09-14.
+This corporate finance position at Rydge was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

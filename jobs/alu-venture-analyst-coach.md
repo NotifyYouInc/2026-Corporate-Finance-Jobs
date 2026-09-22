@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALU](https://scoutify.ai/companies/alu?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kigali, Kigali, Rwanda |
+| Location | Rwanda |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/alu/jobs/7601019) |
 
 ## About This Role
 
-This corporate finance position at ALU was posted on 2026-05-05.
+This corporate finance position at ALU was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

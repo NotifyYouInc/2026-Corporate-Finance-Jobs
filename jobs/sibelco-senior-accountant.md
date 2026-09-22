@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sibelco](https://scoutify.ai/companies/sibelco?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://sibelco.wd502.myworkdayjobs.com/sibelco-careers/job/SP-Schoolhouse/Senior-Accountant_J017838) |
+| Location | Pasir Gudang, Johor, Malaysia |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://sibelco.wd502.myworkdayjobs.com/sibelco-careers/job/Pasir-Gudang/Senior-Accountant_J018018) |
 
 ## About This Role
 
-This accounting position at Sibelco was posted on 2026-08-28.
+This corporate finance position at Sibelco was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

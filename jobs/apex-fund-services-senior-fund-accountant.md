@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dalian, Liaoning, China |
-| Category | Accounting |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Dalian/Senior-Fund-Accountant_JR-0026265) |
+| Location | Belgrade, Central Serbia, Serbia |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Belgrade/Senior-Fund-Accountant_JR-0026379) |
 
 ## About This Role
 
-This accounting position at Apex Fund Services was posted on 2026-09-11.
+This corporate finance position at Apex Fund Services was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

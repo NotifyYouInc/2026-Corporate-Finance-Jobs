@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shawbrook Bank](https://scoutify.ai/companies/shawbrookbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
-| Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Shawbrook/744000144598438-accounts-payable-support) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Shawbrook/744000149568538-accounts-payable-support) |
 
 ## About This Role
 
-This accounting position at Shawbrook Bank was posted on 2026-08-20.
+This corporate finance position at Shawbrook Bank was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

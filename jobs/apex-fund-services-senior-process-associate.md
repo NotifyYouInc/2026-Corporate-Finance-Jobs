@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
+| Location | Gujarat, IN |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Gujarat/Senior-Process-Associate_JR-0021355) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Gujarat/Senior-Process-Associate_JR-0025259) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-04-16.
+This corporate finance position at Apex Fund Services was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Lynnwood-WA/Wealth-Advisor---Gesa-Credit-Union_R-049498-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Lynnwood-WA/Wealth-Advisor---Gesa-Credit-Union_R-053795-1) |
 
 ## About This Role
 
-This corporate finance position at LPL Financial Holdings was posted on 2026-03-16.
+This corporate finance position at LPL Financial Holdings was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

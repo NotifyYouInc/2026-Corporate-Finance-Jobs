@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Menlo Park, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Shanghai/Senior-Financial-Analyst_31161472) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Menlo-Park/Senior-Financial-Analyst_31161563-1) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-09-08.
+This corporate finance position at Abbott was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

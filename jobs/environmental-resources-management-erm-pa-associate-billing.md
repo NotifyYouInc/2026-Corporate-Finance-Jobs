@@ -5,12 +5,12 @@
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New Delhi, Delhi, India |
 | Category | Corporate Finance |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/New-Delhi-India/PA-Associate-Billing_R00030697-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/New-Delhi-India/PA-Associate-Billing_R00030777-1) |
 
 ## About This Role
 
-This corporate finance position at Environmental Resources Management (ERM) was posted on 2026-08-04.
+This corporate finance position at Environmental Resources Management (ERM) was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

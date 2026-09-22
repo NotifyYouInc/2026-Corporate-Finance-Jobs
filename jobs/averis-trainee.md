@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Averis](https://scoutify.ai/companies/averis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
-| Category | Accounting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://averis.wd3.myworkdayjobs.com/averis/job/Penang/Trainee_R202216) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://averis.wd3.myworkdayjobs.com/averis/job/Kuala-Lumpur/Trainee_R202303) |
 
 ## About This Role
 
-This accounting position at Averis was posted on 2026-09-03.
+This corporate finance position at Averis was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

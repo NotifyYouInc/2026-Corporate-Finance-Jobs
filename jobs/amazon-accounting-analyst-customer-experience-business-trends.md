@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437892/accounting-analyst-customer-experience-business-trends) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10541237/accounting-analyst-customer-experience-business-trends) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-02.
+This corporate finance position at Amazon was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

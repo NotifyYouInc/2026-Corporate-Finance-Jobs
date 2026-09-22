@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bangsar, Kuala Lumpur, Malaysia |
+| Location | Batu Pahat, Johor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Bangsar/PPC-Client-Advisor_JR00006439) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Batu-Pahat/PPC-Client-Advisor_JR00011024) |
 
 ## About This Role
 
-This corporate finance position at OCBC was posted on 2026-03-19.
+This corporate finance position at OCBC was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

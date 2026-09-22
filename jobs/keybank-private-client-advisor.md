@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Canton, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-12 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Seattle-WA/Private-Client-Advisor_R-39652) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Canton-OH/Private-Client-Advisor_R-40304) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-09-12.
+This corporate finance position at KeyBank was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

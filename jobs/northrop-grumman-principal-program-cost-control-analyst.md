@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Woodland Hills, California, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Principal-Program-Cost-Control-Analyst_R10247957) |
+| Location | Rolling Meadows, Illinois, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Principal-Program-Cost-Control-Analyst_R10248776-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Northrop Grumman was posted on 2026-08-26.
+This corporate finance position at Northrop Grumman was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

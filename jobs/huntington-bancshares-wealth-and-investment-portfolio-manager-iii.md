@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Pittsburgh-PA/Wealth-and-Investment-Portfolio-Manager-III_R0071719-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Atlanta-GA/Wealth-and-Investment-Portfolio-Manager-III_R0075669) |
 
 ## About This Role
 
-This corporate finance position at Huntington Bancshares was posted on 2026-04-24.
+This corporate finance position at Huntington Bancshares was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

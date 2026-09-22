@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABEC](https://scoutify.ai/companies/abec1?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cairo, Cairo, Egypt |
-| Category | Accounting |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABEC1/744000147485794-chief-accountant) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABEC1/744000149551859-chief-accountant) |
 
 ## About This Role
 
-This accounting position at ABEC was posted on 2026-09-04.
+This corporate finance position at ABEC was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

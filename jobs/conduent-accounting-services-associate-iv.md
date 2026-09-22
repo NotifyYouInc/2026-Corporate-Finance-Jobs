@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conduent](https://scoutify.ai/companies/us2-cx-oj25423?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Accounting |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#25717) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#25825) |
 
 ## About This Role
 
-This accounting position at Conduent was posted on 2026-09-10.
+This corporate finance position at Conduent was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

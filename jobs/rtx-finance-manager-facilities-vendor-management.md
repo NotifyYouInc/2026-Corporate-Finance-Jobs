@@ -1,16 +1,16 @@
-# Finance Manager -  Facilities Vendor Management at RTX
+# Finance Manager - Facilities Vendor Management at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Financial Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Finance-Manager----Facilities-Vendor-Management_01859697) |
+| Location | Karnataka, IN |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Finance-Manager---Facilities-Vendor-Management_01874862-1) |
 
 ## About This Role
 
-This financial analyst position at RTX was posted on 2026-07-15.
+This corporate finance position at RTX was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

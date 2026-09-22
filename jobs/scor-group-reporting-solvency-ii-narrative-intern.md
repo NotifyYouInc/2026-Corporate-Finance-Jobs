@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SCOR](https://scoutify.ai/companies/ocs-cx-oj97530?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2025-09-23 |
-| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4092) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5380) |
 
 ## About This Role
 
-This actuary / insurance analytics position at SCOR was posted on 2025-09-23.
+This corporate finance position at SCOR was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

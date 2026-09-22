@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Vietnam |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Vietnam/Accountant_REQ10377637) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Minneapolis/Accountant_REQ10391006) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-05-05.
+This corporate finance position at Four Seasons Hotels was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

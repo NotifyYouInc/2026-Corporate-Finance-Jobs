@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Prologis](https://scoutify.ai/companies/prologis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
-| Category | Accounting |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Amsterdam-Netherlands/Senior-Corporate-Accountant_R6754-1) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Mexico-City-Mexico/Senior-Corporate-Accountant_R6739-1) |
 
 ## About This Role
 
-This accounting position at Prologis was posted on 2026-09-07.
+This corporate finance position at Prologis was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

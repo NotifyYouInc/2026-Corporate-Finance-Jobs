@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/EU-CMO---Finance-Business-Partner_545154-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/EU-CMO---Finance-Business-Partner_547940-1) |
 
 ## About This Role
 
-This corporate finance position at Haleon was posted on 2026-06-23.
+This corporate finance position at Haleon was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

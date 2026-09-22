@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westlake Village, California, United States |
+| Location | Florence, Tuscany, Italy |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Westlake-Village/Finance-Intern_REQ10381552) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Florence/Finance-Intern_REQ10391836) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-06-01.
+This corporate finance position at Four Seasons Hotels was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

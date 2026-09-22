@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sydney-NSW/Finance-Manager_REQ531573-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Finance-Manager_REQ532553) |
 
 ## About This Role
 
-This accounting position at JLL was posted on 2026-08-31.
+This corporate finance position at JLL was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

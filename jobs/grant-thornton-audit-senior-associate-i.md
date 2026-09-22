@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grant Thornton](https://scoutify.ai/companies/us2-cx-oj46269?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://ehzq.fa.us2.oraclecloud.com/jobs/#115332) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ehzq.fa.us2.oraclecloud.com/jobs/#115792) |
 
 ## About This Role
 
-This accounting position at Grant Thornton was posted on 2026-08-25.
+This corporate finance position at Grant Thornton was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

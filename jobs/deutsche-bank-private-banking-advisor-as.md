@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | India |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Kodak-House/Private-Banking-Advisor--AS_R0423499) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Ahmadabad/Private-Banking-Advisor--AS_R0450750) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-04-22.
+This corporate finance position at Deutsche Bank was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

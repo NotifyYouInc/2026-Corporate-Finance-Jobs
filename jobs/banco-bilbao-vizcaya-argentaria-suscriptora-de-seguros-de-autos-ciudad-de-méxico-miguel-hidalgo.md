@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
+| Location | Miguel Hidalgo, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/PARQUES-BBVA-BANCOMER/Suscriptor-a-de-Seguros-de-Autos--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00100835) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Suscriptor-a-de-Seguros-de-Autos--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00113445) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-17.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

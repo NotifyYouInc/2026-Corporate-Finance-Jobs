@@ -5,12 +5,12 @@
 | Company | [Rockwool International](https://scoutify.ai/companies/rockwool-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Subang Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Subang-Jaya-Office/Banking-and-Treasury-Accountant_R0033008) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Subang-Jaya/Banking-and-Treasury-Accountant_R0036460) |
 
 ## About This Role
 
-This corporate finance position at Rockwool International was posted on 2026-05-19.
+This corporate finance position at Rockwool International was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

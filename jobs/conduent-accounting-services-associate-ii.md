@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Conduent](https://scoutify.ai/companies/us2-cx-oj25423?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | National Capital Region, PH |
-| Category | Accounting |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#25741) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#25549) |
 
 ## About This Role
 
-This accounting position at Conduent was posted on 2026-09-08.
+This corporate finance position at Conduent was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

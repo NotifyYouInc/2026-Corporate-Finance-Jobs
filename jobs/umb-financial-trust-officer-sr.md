@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Clayton, North Carolina, United States |
+| Location | Fort Worth, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Clayton-MO/Trust-Officer-Sr_R-8942) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Fort-Worth-TX/Trust-Officer-Sr_R-9397) |
 
 ## About This Role
 
-This corporate finance position at UMB Financial was posted on 2026-06-22.
+This corporate finance position at UMB Financial was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

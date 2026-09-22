@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Accounting |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000148441340-comptable) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000149539199-comptable) |
 
 ## About This Role
 
-This accounting position at SIA was posted on 2026-09-09.
+This corporate finance position at SIA was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Client Associate - Part time at Wells Fargo
+# Client Associate - Part-Time at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Winchester, Nevada, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WINCHESTER-VA/Client-Associate---Part-time_R-564212) |
+| Location | New York City, New York, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Client-Associate---Part-Time_R-574379) |
 
 ## About This Role
 
-This wealth management / private banking position at Wells Fargo was posted on 2026-08-03.
+This corporate finance position at Wells Fargo was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
