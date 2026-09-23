@@ -5,12 +5,12 @@
 | Company | [Swiss Life Asset Management](https://scoutify.ai/companies/swiss-life-asset-management?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://swisslife.wd3.myworkdayjobs.com/swiss_life_asset_managers_career_site/job/Lisbon/Fund-Accountant_R11494) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://swisslife.wd3.myworkdayjobs.com/swiss_life_asset_managers_career_site/job/Lisbon/Fund-Accountant_R13068) |
 
 ## About This Role
 
-This corporate finance position at Swiss Life Asset Management was posted on 2026-03-24.
+This corporate finance position at Swiss Life Asset Management was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

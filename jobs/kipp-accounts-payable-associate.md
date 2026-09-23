@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KIPP](https://scoutify.ai/companies/kipp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Newark, New Jersey, United States |
-| Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000146063019-accounts-payable-associate) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000149733789-accounts-payable-associate) |
 
 ## About This Role
 
-This accounting position at KIPP was posted on 2026-08-27.
+This corporate finance position at KIPP was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

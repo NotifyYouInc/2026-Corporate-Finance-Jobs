@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong |
+| Location | Hong Kong, Hong Kong |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Hunghom-Kowloon-Hong-Kong/Actuarial-Analyst_JR00124723) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Hunghom-Kowloon-Hong-Kong/Actuarial-Analyst_JR00127852) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-06-08.
+This corporate finance position at Sun Life Financial was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

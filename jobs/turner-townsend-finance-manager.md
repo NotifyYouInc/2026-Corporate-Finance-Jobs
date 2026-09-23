@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Dearborn, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000128045109-finance-manager) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000149733929-finance-manager) |
 
 ## About This Role
 
-This corporate finance position at Turner & Townsend was posted on 2026-05-25.
+This corporate finance position at Turner & Townsend was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ryan](https://scoutify.ai/companies/ryan?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Pittsburgh/Senior-Consultant--Income-Tax-Compliance_R0019807) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Pittsburgh/Senior-Consultant--Income-Tax-Compliance_R0020028) |
 
 ## About This Role
 
-This corporate finance position at Ryan was posted on 2026-06-11.
+This corporate finance position at Ryan was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evelyn Partners](https://scoutify.ai/companies/evelynpartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000135276705-financial-planning-client-administrator) |
+| Location | Exeter, England, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000149806978-financial-planning-client-administrator) |
 
 ## About This Role
 
-This wealth management / private banking position at Evelyn Partners was posted on 2026-07-01.
+This corporate finance position at Evelyn Partners was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

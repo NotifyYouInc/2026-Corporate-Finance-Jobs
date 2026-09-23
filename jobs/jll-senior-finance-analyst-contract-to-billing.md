@@ -1,16 +1,16 @@
-# Senior finance analyst - Contract to Billing at JLL
+# Senior Finance Analyst – Contract to Billing at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-finance-analyst---Contract-to-Billing_REQ512142-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Finance-Analyst---Contract-to-Billing_REQ534708) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-08.
+This corporate finance position at JLL was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

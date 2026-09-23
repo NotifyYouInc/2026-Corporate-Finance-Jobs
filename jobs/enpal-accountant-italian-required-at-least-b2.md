@@ -5,12 +5,12 @@
 | Company | [enpal](https://scoutify.ai/companies/enpal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tunis, Tunis Governorate, Tunisia |
 | Category | Corporate Finance |
-| Posted | 2026-04-08 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/enpal/e6c9fda0-0d92-4b95-8cd4-6cb1d73e71e5) |
 
 ## About This Role
 
-This corporate finance position at enpal was posted on 2026-04-08.
+This corporate finance position at enpal was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

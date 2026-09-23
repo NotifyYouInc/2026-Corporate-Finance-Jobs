@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Corporate Finance |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Sofia-Bulgaria/Investigator-Payments-Analyst-1---Bulgaria_R1567891) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Sofia-Bulgaria/Investigator-Payments-Analyst-1---Bulgaria_R1569102) |
 
 ## About This Role
 
-This corporate finance position at IQVIA was posted on 2026-09-08.
+This corporate finance position at IQVIA was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

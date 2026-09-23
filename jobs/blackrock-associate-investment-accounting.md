@@ -1,16 +1,16 @@
-# Associate Investment Accounting at Blackrock
+# Associate, Investment Accounting at Blackrock
 
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Gurugram-India/Associate-Investment-Accounting_R263763) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Investment-Accounting_R266322) |
 
 ## About This Role
 
-This corporate finance position at Blackrock was posted on 2026-05-21.
+This corporate finance position at Blackrock was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

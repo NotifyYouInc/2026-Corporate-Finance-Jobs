@@ -5,12 +5,12 @@
 | Company | [AllianceBernstein](https://scoutify.ai/companies/abglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Austin-Texas/Private-Credit-Investors-Summer-Intern_R0018869) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Austin-Texas/Private-Credit-Investors-Summer-Intern_R0019801) |
 
 ## About This Role
 
-This corporate finance position at AllianceBernstein was posted on 2026-09-11.
+This corporate finance position at AllianceBernstein was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

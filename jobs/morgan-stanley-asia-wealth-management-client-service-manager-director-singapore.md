@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/IOI-Central-Boulevard-Towers/Asia-Wealth-Management---Client-Service-Manager--Director--Singapore_JR021668-1) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-03-03.
+This corporate finance position at Morgan Stanley was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

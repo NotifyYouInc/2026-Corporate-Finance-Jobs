@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Forum Energy Technologies](https://scoutify.ai/companies/recruiting-ultipro-com-oj38536?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Not specified |
-| Category | Accounting |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://recruiting.ultipro.com/for1013fet/JobBoard/ef7c2aa4-79a3-4d81-8101-e9c85075c8e5/OpportunityDetail?opportunityId=b5ba4401-891d-4f21-b150-5ff909a2d481) |
+| Location | Broussard, Louisiana, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://recruiting.ultipro.com/for1013fet/JobBoard/ef7c2aa4-79a3-4d81-8101-e9c85075c8e5/OpportunityDetail?opportunityId=c9bd47fd-5c87-4524-bab4-6b33321e980a) |
 
 ## About This Role
 
-This accounting position at Forum Energy Technologies was posted on 2026-09-04.
+This corporate finance position at Forum Energy Technologies was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

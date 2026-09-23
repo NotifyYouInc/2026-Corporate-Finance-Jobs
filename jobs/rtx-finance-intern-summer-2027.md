@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | El Segundo, California, United States |
+| Location | East Hartford, Connecticut, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Finance-Intern--Summer-2027-_01869843-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Finance-Intern--Summer-2027-_01872508) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-09-15.
+This corporate finance position at RTX was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

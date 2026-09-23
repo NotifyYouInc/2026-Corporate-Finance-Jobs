@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hoshiārpur, Punjab, India |
+| Location | Parbhani, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#256690) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#257404) |
 
 ## About This Role
 
-This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-11.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

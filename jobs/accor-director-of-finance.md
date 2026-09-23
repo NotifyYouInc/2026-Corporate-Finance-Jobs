@@ -1,16 +1,16 @@
-# Director of Finance at ACCOR
+# Director of Finance  at ACCOR
 
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000149525059-director-of-finance) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000149745719-director-of-finance) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-09-15.
+This corporate finance position at ACCOR was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

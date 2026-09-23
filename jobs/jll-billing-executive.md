@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Billing-Executive_REQ535270) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chennai-TN/Billing-Executive_REQ535174) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-09-14.
+This corporate finance position at JLL was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000140594969-senior-accountant-asset-owner-solutions) |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000149802799-senior-accountant-asset-owner-solutions) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-07-30.
+This corporate finance position at IQ-EQ was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

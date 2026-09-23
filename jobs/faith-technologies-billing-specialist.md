@@ -5,12 +5,12 @@
 | Company | [Faith Technologies](https://scoutify.ai/companies/faithtechnologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Menasha, Wisconsin, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/Billing-Specialist_R10040-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/Billing-Specialist_R12095-2) |
 
 ## About This Role
 
-This corporate finance position at Faith Technologies was posted on 2026-04-23.
+This corporate finance position at Faith Technologies was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

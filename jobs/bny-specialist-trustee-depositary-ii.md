@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Luxembourg |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#76802) |
+| Location | Frankfurt am Main, Hesse, Germany |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#80647) |
 
 ## About This Role
 
-This asset management / portfolio management position at BNY was posted on 2026-05-08.
+This corporate finance position at BNY was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

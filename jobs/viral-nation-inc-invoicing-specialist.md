@@ -5,12 +5,12 @@
 | Company | [Viral Nation Inc.](https://scoutify.ai/companies/viral-nation-inc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/viralnation/jobs/5120569007) |
 
 ## About This Role
 
-This corporate finance position at Viral Nation Inc. was posted on 2026-04-24.
+This corporate finance position at Viral Nation Inc. was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

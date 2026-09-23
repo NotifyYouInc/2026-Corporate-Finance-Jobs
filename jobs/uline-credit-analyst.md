@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Monterrey-NLE/Credit-Analyst_R266976) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Waukegan-IL/Credit-Analyst_R267459-1) |
 
 ## About This Role
 
-This corporate finance position at Uline was posted on 2026-09-03.
+This corporate finance position at Uline was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

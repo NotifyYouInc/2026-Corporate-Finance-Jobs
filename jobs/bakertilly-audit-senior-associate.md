@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
-| Category | Accounting |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-CA-Pasadena/Audit-Senior-Associate_JR107836) |
+| Location | Philadelphia, Pennsylvania, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-PA-Philadelphia/Audit-Senior-Associate_JR108004) |
 
 ## About This Role
 
-This accounting position at Bakertilly was posted on 2026-09-07.
+This corporate finance position at Bakertilly was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

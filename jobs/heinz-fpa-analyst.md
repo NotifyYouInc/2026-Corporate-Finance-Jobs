@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Mexico-City---Antara-Tower-A---5th-Floor---Local-Office/FP-A-Analyst_R-106028) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Amsterdam/FP-A-Analyst_R-106740-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Heinz was posted on 2026-08-24.
+This corporate finance position at Heinz was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

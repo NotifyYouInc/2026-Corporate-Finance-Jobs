@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/VP--Relationship-Management-Industry-Group---Energy-and-Chemicals--Group-Commercial-Banking_JR93417) |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/VP--Relationship-Management-Industry-Group---Energy-and-Chemicals--Group-Commercial-Banking_JR96205) |
 
 ## About This Role
 
-This wealth management / private banking position at UOB Group was posted on 2026-08-20.
+This corporate finance position at UOB Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

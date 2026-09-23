@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Seoul-Korea/Commercial-Finance-Manager_JR1128255) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Tokyo-Japan/Commercial-Finance-Manager_JR1129493) |
 
 ## About This Role
 
-This corporate finance position at Diageo was posted on 2026-08-13.
+This corporate finance position at Diageo was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

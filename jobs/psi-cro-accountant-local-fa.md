@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000127116025-accountant-local-fa) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000149783059-accountant-local-fa) |
 
 ## About This Role
 
-This corporate finance position at Psi Cro was posted on 2026-05-19.
+This corporate finance position at Psi Cro was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

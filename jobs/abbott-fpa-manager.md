@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Peru---Lima/FP-A-Manager_31149562) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/South-Africa---Johannesburg/FP-A-Manager_31162293) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-05-07.
+This corporate finance position at Abbott was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

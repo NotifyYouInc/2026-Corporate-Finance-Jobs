@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United Kingdom |
+| Location | Cardiff, Wales, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000145700289-senior-finance-analyst) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000149820239-senior-finance-analyst) |
 
 ## About This Role
 
-This corporate finance position at Legal & General was posted on 2026-08-26.
+This corporate finance position at Legal & General was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

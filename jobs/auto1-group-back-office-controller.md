@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Tirana, Tirana, Albania |
-| Category | Accounting |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000145674199-back-office-controller) |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000149835949-back-office-controller) |
 
 ## About This Role
 
-This accounting position at AUTO1 Group was posted on 2026-08-26.
+This corporate finance position at AUTO1 Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

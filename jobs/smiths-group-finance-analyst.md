@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hemel Hempstead, England, United Kingdom |
-| Category | Financial Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000135415599-finance-analyst) |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000149791974-finance-analyst) |
 
 ## About This Role
 
-This financial analyst position at Smiths Group was posted on 2026-07-02.
+This corporate finance position at Smiths Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

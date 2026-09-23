@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | China |
-| Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/HONG-KONG-SAR-China/Senior-Brand-Controller_JR133112-1) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/SEOUL/Senior-Brand-Controller_JR133667) |
 
 ## About This Role
 
-This accounting position at Richemont was posted on 2026-08-31.
+This corporate finance position at Richemont was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

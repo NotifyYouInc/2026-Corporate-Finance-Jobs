@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hytorc South East Asia](https://scoutify.ai/companies/hytorc-south-east-asia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | North Rhine-Westphalia, DE |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://hytorc.rec.pro.ukg.net/UNE1500UNEX/JobBoard/2b7d8849-589b-4d34-a9c1-dd2ff2b8d9ff/OpportunityDetail?opportunityId=a150bfae-15c0-4791-babe-5dcd578c4fca) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://hytorc.rec.pro.ukg.net/UNE1500UNEX/JobBoard/2b7d8849-589b-4d34-a9c1-dd2ff2b8d9ff/OpportunityDetail?opportunityId=02756da3-58c4-4359-8388-1d3aae5a7137) |
 
 ## About This Role
 
-This corporate finance position at Hytorc South East Asia was posted on 2026-02-19.
+This corporate finance position at Hytorc South East Asia was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

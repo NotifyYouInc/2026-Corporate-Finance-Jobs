@@ -5,12 +5,12 @@
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Shanghai/Senior-Finance-Manager---China--FP-A-_265328) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Shanghai/Senior-Finance-Manager---China--FP-A-_265023) |
 
 ## About This Role
 
-This corporate finance position at Covance was posted on 2026-09-14.
+This corporate finance position at Covance was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

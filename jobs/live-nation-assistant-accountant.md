@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Fortitude Valley, Queensland, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Darlinghurst-New-South-Wales-Australia/Assistant-Accountant_JR-92050-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/AU-QLD-Fortitude-Valley---Level-3-47-Warner-Steet/Assistant-Accountant_JR-93148) |
 
 ## About This Role
 
-This corporate finance position at Live Nation was posted on 2026-08-05.
+This corporate finance position at Live Nation was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

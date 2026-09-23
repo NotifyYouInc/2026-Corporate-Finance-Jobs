@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | Layton, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Program-Cost-Schedule-Control-Analyst-Program-Cost-Schedule-Control-Analyst_R10237943) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Layton/XMLNAME-2027-Associate-Program-Cost-Schedule-Control-Analyst-Program-Cost-Schedule-Control-Analyst_R10251032) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-06-26.
+This corporate finance position at Northrop Grumman was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

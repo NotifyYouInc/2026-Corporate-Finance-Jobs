@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Financial Analyst |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Order-to-Cash-Operations-New-Associate_AIOC-S01664833-1) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Order-to-Cash-Operations-New-Associate_AIOC-S01665923-1) |
 
 ## About This Role
 
-This financial analyst position at Accenture was posted on 2026-09-10.
+This corporate finance position at Accenture was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

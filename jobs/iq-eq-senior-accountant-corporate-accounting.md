@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Accounting |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000148925190-senior-accountant-corporate-accounting) |
+| Location | Port Louis, Port Louis, Mauritius |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000149779589-senior-accountant-corporate-accounting) |
 
 ## About This Role
 
-This accounting position at IQ-EQ was posted on 2026-09-11.
+This corporate finance position at IQ-EQ was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

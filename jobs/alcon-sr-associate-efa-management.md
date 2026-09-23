@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Ciudad-de-Mexico-Mexico/Sr-Associate--EFA-Management_R-2026-46251) |
 
 ## About This Role
 
-This corporate finance position at Alcon was posted on 2026-04-10.
+This corporate finance position at Alcon was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San Luis Potosí, San Luis Potosí, Mexico |
-| Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/San-Luis-Potosi/Site-Industrial-Management-Controller_REQ2026077866) |
+| Location | Juárez, Chiapas, Mexico |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Juarez/Site-Industrial-Management-Controller_REQ2026079515) |
 
 ## About This Role
 
-This accounting position at Valeo was posted on 2026-07-10.
+This corporate finance position at Valeo was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

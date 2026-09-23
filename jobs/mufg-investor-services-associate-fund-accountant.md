@@ -1,16 +1,16 @@
-# Associate, Fund Accountant at MUFG Investor Services
+# Associate, Fund Accountant  at MUFG Investor Services
 
 | Field | Details |
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
-| Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000143732589-associate-fund-accountant) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000149763739-associate-fund-accountant) |
 
 ## About This Role
 
-This accounting position at MUFG Investor Services was posted on 2026-08-17.
+This corporate finance position at MUFG Investor Services was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

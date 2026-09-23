@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MAZARS](https://scoutify.ai/companies/mazars?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Pérols, Occitanie, France |
-| Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000138256684-collaborateur-confirme-en-expertise-comptable-montpellier-2026-hf) |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000149799409-collaborateur-confirme-en-expertise-comptable-montpellier-2026-hf) |
 
 ## About This Role
 
-This accounting position at MAZARS was posted on 2026-07-17.
+This corporate finance position at MAZARS was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

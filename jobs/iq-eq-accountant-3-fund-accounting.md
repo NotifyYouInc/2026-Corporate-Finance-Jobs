@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Philippines |
+| Location | Port Louis, Port Louis, Mauritius |
 | Category | Corporate Finance |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000149515829-accountant-3-fund-accounting) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000149779689-accountant-3-fund-accounting) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-09-15.
+This corporate finance position at IQ-EQ was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

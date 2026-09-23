@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Surat, Gujarat, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#243839) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#257440) |
 
 ## About This Role
 
-This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-14.
+This corporate finance position at Kotak Mahindra Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

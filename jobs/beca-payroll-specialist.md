@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beca](https://scoutify.ai/companies/beca?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Auckland, Auckland, New Zealand |
-| Category | Accounting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Auckland-New-Zealand/Payroll-Specialist_JR102279) |
+| Location | 2 locations |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Melbourne-Australia/Payroll-Specialist_JR102290) |
 
 ## About This Role
 
-This accounting position at Beca was posted on 2026-09-03.
+This corporate finance position at Beca was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

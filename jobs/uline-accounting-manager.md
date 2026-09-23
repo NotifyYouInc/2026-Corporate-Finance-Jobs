@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 5 locations |
-| Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Accounting-Manager_R266589-1) |
+| Location | 4 locations |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Accounting-Manager_R267464-1) |
 
 ## About This Role
 
-This accounting position at Uline was posted on 2026-08-17.
+This corporate finance position at Uline was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

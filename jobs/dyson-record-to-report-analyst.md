@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Dalian, Liaoning, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/India---Gurgaon-Office/Record-to-Report-Analyst_JR35915) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Dalian-Office/Record-to-Report-Analyst_JR38641) |
 
 ## About This Role
 
-This corporate finance position at Dyson was posted on 2026-04-22.
+This corporate finance position at Dyson was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

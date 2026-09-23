@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Finance-Manager_R64647-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Finance-Manager_R77338-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-04-20.
+This corporate finance position at Medtronic was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

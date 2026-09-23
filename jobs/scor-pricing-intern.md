@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SCOR](https://scoutify.ai/companies/ocs-cx-oj97530?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5175) |
+| Location | Singapore, Singapore |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5411) |
 
 ## About This Role
 
-This actuary / insurance analytics position at SCOR was posted on 2026-07-21.
+This corporate finance position at SCOR was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

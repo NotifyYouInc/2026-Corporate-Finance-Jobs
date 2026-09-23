@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Chiyoda, Tokyo, Japan |
-| Category | Financial Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Director--Research-Analyst--Research_26988791) |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Director--Research-Analyst--Research_26993364) |
 
 ## About This Role
 
-This financial analyst position at Citigroup was posted on 2026-08-21.
+This corporate finance position at Citigroup was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

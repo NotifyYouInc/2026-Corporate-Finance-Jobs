@@ -1,16 +1,16 @@
-# Técnico/a de tesorería. at Veolia
+# Técnico/a de Tesorería. at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Granada, Andalusia, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000117350643-tecnicoa-de-tesoreria) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000149790278-tecnicoa-de-tesoreria) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-03-27.
+This corporate finance position at Veolia was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nigeria |
+| Location | Solwezi, North-Western, Zambia |
 | Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000143356760-private-banker) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000149803170-private-banker) |
 
 ## About This Role
 
-This corporate finance position at Standard Bank was posted on 2026-08-13.
+This corporate finance position at Standard Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

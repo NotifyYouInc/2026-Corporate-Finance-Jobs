@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Florida, US |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Portfolio-Specialist---Asset-Management-Service_R-0012424) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Portfolio-Specialist---Asset-Management-Service_R-0013036) |
 
 ## About This Role
 
-This asset management / portfolio management position at Raymond James Financial was posted on 2026-08-07.
+This corporate finance position at Raymond James Financial was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

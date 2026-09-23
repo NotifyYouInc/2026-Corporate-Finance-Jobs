@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hedgeserv](https://scoutify.ai/companies/hedgeserv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Manila/Private-Equity-Director_R6570) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Dallas-TX/Private-Equity-Director_R6940-1) |
 
 ## About This Role
 
-This corporate finance position at Hedgeserv was posted on 2026-05-28.
+This corporate finance position at Hedgeserv was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

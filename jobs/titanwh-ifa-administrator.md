@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Titanwh](https://scoutify.ai/companies/titanwh?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Basingstoke, England, United Kingdom |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.lever.co/titanwh/ef875a40-eca4-42eb-be38-cf8f1e27c8b4) |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.lever.co/titanwh/06c0f951-2b77-4a6a-a251-78ae7112b1a7) |
 
 ## About This Role
 
-This wealth management / private banking position at Titanwh was posted on 2026-07-27.
+This corporate finance position at Titanwh was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

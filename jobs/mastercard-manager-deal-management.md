@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Waterloo, Wallonia, Belgium |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Deal-Management_R-281236-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Manager--Deal-Management_R-290859) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-06-26.
+This corporate finance position at Mastercard was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

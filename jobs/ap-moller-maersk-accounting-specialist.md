@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/MX---Mexico-City/Accounting-Specialist_R190973-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Accounting-Specialist_R196994) |
 
 ## About This Role
 
-This accounting position at A.P. Moller - Maersk was posted on 2026-08-31.
+This corporate finance position at A.P. Moller - Maersk was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bethesda, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000130296459-financial-analyst-east-real-estate-operations) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000149731959-financial-analyst-east-real-estate-operations) |
 
 ## About This Role
 
-This corporate finance position at AIR Communities was posted on 2026-06-04.
+This corporate finance position at AIR Communities was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
