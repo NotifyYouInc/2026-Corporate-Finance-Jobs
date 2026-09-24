@@ -1,16 +1,16 @@
-# Senior Analyst - MO at Apex Fund Services
+# Senior Analyst  - MO at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad/Senior-Analyst---MO_JR-0020895) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Senior-Analyst----MO_JR-0026336) |
 
 ## About This Role
 
-This corporate finance position at Apex Fund Services was posted on 2026-02-23.
+This corporate finance position at Apex Fund Services was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

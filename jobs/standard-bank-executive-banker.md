@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nigeria |
+| Location | Lusaka, Lusaka Province, Zambia |
 | Category | Corporate Finance |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000148742709-executive-banker) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000150062809-executive-banker) |
 
 ## About This Role
 
-This corporate finance position at Standard Bank was posted on 2026-09-10.
+This corporate finance position at Standard Bank was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

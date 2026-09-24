@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Changsha, Hunan, China |
-| Category | Accounting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141409719-fcm-controller) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000150030679-fcm-controller) |
 
 ## About This Role
 
-This accounting position at Robert Bosch was posted on 2026-08-04.
+This corporate finance position at Robert Bosch was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

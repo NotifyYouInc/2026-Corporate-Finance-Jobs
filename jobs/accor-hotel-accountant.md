@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
-| Category | Accounting |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000148983785-hotel-accountant) |
+| Location | Perth, Western Australia, Australia |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000150003759-hotel-accountant) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-09-11.
+This corporate finance position at ACCOR was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Investment-Support-Analyst_R00314279) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Investment-Support-Analyst_R00357664) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-14.
+This corporate finance position at Accenture was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

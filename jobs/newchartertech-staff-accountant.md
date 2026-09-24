@@ -5,12 +5,12 @@
 | Company | [Newchartertech](https://scoutify.ai/companies/newchartertech?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://newchartertech.wd12.myworkdayjobs.com/newchartertechnologies/job/Hub-Orion-CO---Denver/Staff-Accountant_JR0732-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://newchartertech.wd12.myworkdayjobs.com/newchartertechnologies/job/New-Charter-CO---Denver/Staff-Accountant_JR0910) |
 
 ## About This Role
 
-This corporate finance position at Newchartertech was posted on 2026-05-06.
+This corporate finance position at Newchartertech was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Bangkok-City-Area/Personal-Wealth-Banker_JR95379) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Bangkok-City-Area/Personal-Wealth-Banker_JR96230-1) |
 
 ## About This Role
 
-This wealth management / private banking position at UOB Group was posted on 2026-09-03.
+This corporate finance position at UOB Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

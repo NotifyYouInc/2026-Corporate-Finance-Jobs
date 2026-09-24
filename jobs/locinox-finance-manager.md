@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Locinox](https://scoutify.ai/companies/locinox?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Waregem, Flanders, Belgium |
-| Category | Financial Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Locinox/744000136384651-finance-manager) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Locinox/744000150015547-finance-manager) |
 
 ## About This Role
 
-This financial analyst position at Locinox was posted on 2026-07-08.
+This corporate finance position at Locinox was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

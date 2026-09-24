@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/SYD-BA/Finance-Analyst_R-27362) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/MWA-B/Finance-Analyst_R-30711) |
 
 ## About This Role
 
-This corporate finance position at Varian was posted on 2026-04-09.
+This corporate finance position at Varian was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

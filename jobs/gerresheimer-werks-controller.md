@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gerresheimer](https://scoutify.ai/companies/gerresheimer?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Wertheim, Baden-Wurttemberg, Germany |
-| Category | Accounting |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gerresheimer/744000148972279-werks-controller) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gerresheimer/744000150031629-werks-controller) |
 
 ## About This Role
 
-This accounting position at Gerresheimer was posted on 2026-09-11.
+This corporate finance position at Gerresheimer was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Boston-MA/Senior-Client-Service-Associate_R-102599) |
+| Location | California, US |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Remote/Senior-Client-Service-Associate_R-102741) |
 
 ## About This Role
 
-This wealth management / private banking position at Wealth Enhancement Group was posted on 2026-07-09.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

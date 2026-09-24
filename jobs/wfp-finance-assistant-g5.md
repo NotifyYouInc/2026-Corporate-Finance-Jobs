@@ -1,0 +1,22 @@
+# Finance Assistant, G5 at Wfp
+
+| Field | Details |
+|-------|---------|
+| Company | [Wfp](https://scoutify.ai/companies/wfp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
+| Location | Harare, Harare, Zimbabwe |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://wfp.wd3.myworkdayjobs.com/job_openings/job/Harare-Zimbabwe-The-Republic-Of/Finance-Assistant--G5_JR126691) |
+
+## About This Role
+
+This corporate finance position at Wfp was posted on 2026-09-17.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

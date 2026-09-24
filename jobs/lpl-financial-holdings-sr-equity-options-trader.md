@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Sales & Trading |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/Sr-Equity-Options-Trader_R-053064-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/Sr-Equity-Options-Trader_R-053067-1) |
 
 ## About This Role
 
-This sales & trading position at LPL Financial Holdings was posted on 2026-09-04.
+This sales & trading position at LPL Financial Holdings was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

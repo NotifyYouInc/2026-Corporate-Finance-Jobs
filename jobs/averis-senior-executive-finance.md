@@ -5,12 +5,12 @@
 | Company | [Averis](https://scoutify.ai/companies/averis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://averis.wd3.myworkdayjobs.com/averis/job/Kuala-Lumpur/Senior-Executive--Finance_R196626) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://averis.wd3.myworkdayjobs.com/averis/job/Kuala-Lumpur/Senior-Executive--Finance_R201814) |
 
 ## About This Role
 
-This corporate finance position at Averis was posted on 2026-04-15.
+This corporate finance position at Averis was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

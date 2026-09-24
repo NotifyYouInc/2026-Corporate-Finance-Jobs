@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Singapore, Singapore |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Singapore---Singapore/Director--Financial-Planning---Analysis-Process-Optimization_R-138497) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Financial-Planning---Analysis-Process-Optimization_R-146202) |
 
 ## About This Role
 
-This corporate finance position at Coca-Cola was posted on 2026-04-06.
+This corporate finance position at Coca-Cola was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

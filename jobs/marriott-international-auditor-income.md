@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Yerevan, Yerevan, Armenia |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26118930) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26120219) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-09-15.
+This corporate finance position at Marriott International was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

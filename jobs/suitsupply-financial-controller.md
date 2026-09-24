@@ -5,12 +5,12 @@
 | Company | [Suitsupply](https://scoutify.ai/companies/suitsupply?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://careersatsuitsupply.com/en-us/vacancies/7687347?gh_jid=7687347) |
 
 ## About This Role
 
-This corporate finance position at Suitsupply was posted on 2026-03-06.
+This corporate finance position at Suitsupply was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

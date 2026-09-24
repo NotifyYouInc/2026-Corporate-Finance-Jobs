@@ -5,12 +5,12 @@
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Philippines-Taguig-City/Finance-OJT_R10086710) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Philippines-Taguig-City/Finance-OJT_R10101271) |
 
 ## About This Role
 
-This corporate finance position at Air Liquide was posted on 2026-03-09.
+This corporate finance position at Air Liquide was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

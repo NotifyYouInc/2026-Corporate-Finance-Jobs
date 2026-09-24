@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Juárez, Chiapas, Mexico |
+| Location | Zaragoza, Aragon, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Juarez/Site-Industrial-Management-Controller_REQ2026079515) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Zaragoza/Site-Industrial-Management-Controller_REQ2026080581) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-09-16.
+This corporate finance position at Valeo was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

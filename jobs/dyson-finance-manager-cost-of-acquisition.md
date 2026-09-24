@@ -5,12 +5,12 @@
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Finance-Manager---Cost-of-Acquisition_JR36776) |
 
 ## About This Role
 
-This corporate finance position at Dyson was posted on 2026-06-16.
+This corporate finance position at Dyson was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

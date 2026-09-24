@@ -5,12 +5,12 @@
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Limassol, Limassol, Cyprus |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000111684067-associate-portfolio-operations) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000150052839-associate-portfolio-operations) |
 
 ## About This Role
 
-This corporate finance position at MUFG Investor Services was posted on 2026-02-26.
+This corporate finance position at MUFG Investor Services was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

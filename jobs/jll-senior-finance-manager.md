@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | China |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hong-Kong-SAR-China/Senior-Finance-Manager_REQ532208-1) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hong-Kong-SAR-China/Senior-Finance-Manager_REQ534054) |
 
 ## About This Role
 
-This fp&a / strategic finance position at JLL was posted on 2026-09-02.
+This corporate finance position at JLL was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BSI Group](https://scoutify.ai/companies/bsi-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Accounting |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://bsigroup.wd3.myworkdayjobs.com/bsi_careers/job/Kuala-Lumpur-Malaysia/Billing-Specialist_JR0020740) |
+| Location | Milton Keynes, England, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://bsigroup.wd3.myworkdayjobs.com/bsi_careers/job/Milton-Keynes/Senior-Billing-Specialist_JR0020464) |
 
 ## About This Role
 
-This accounting position at BSI Group was posted on 2026-08-15.
+This corporate finance position at BSI Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Evolution Gaming Group](https://scoutify.ai/companies/evolutiongaminggroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Kaunas, Kaunas, Lithuania |
-| Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000145893339-payroll-accountant) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000150044260-payroll-accountant) |
 
 ## About This Role
 
-This accounting position at Evolution Gaming Group was posted on 2026-08-27.
+This corporate finance position at Evolution Gaming Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

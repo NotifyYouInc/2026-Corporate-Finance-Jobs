@@ -5,12 +5,12 @@
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Georgetown, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Georgetown-Texas---United-States/Financial-Planning-Consultant--Georgetown--TX-_R-0009324) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Georgetown-Texas---United-States/Financial-Planning-Consultant--Georgetown--TX-_R-0013051) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-02-04.
+This corporate finance position at Raymond James Financial was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

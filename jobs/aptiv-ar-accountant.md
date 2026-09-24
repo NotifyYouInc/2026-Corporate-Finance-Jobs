@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ulsan, Ulsan, South Korea |
-| Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Ulsan-Republic-of-Korea/AR-Accountant_J000702785) |
+| Location | Yancheng, Jiangsu, China |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Yancheng-China/AR-Accountant_J000704162) |
 
 ## About This Role
 
-This accounting position at Aptiv was posted on 2026-08-21.
+This corporate finance position at Aptiv was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

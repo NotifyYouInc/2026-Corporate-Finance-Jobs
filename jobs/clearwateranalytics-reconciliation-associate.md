@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Accounting |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Bengaluru/Reconciliation-Associate_R6699-1) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Reconciliation-Associate_R12151) |
 
 ## About This Role
 
-This accounting position at Clearwateranalytics was posted on 2026-09-10.
+This corporate finance position at Clearwateranalytics was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

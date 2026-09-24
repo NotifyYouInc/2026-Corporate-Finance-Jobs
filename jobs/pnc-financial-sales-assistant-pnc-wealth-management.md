@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Louisville, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/IL---Chicago-60606/Sales-Assistant---PNC-Wealth-Management_R232164-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/KY---Louisville-40202/Sales-Assistant---PNC-Wealth-Management_R235755-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-08-25.
+This corporate finance position at PNC Financial was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000146131841-project-finance-manager) |
+| Location | Oxford, England, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000150049806-project-finance-manager) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Psi Cro was posted on 2026-08-28.
+This corporate finance position at Psi Cro was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

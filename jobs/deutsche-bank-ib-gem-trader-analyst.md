@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Singapore, Singapore |
 | Category | Sales & Trading |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Hong-Kong-Intl-Commerce-Ctr/IB---GEM-Trader---Analyst_R0450486) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/IB---GEM-Trader---Analyst_R0450468) |
 
 ## About This Role
 
-This sales & trading position at Deutsche Bank was posted on 2026-09-15.
+This sales & trading position at Deutsche Bank was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

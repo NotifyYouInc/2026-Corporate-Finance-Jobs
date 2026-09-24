@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Citigold-Client-Advisor--North-Asia-_26992099) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Citigold-Client-Advisor--North-Asia-_26995031) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-09-10.
+This corporate finance position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

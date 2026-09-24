@@ -1,16 +1,16 @@
-# Comptable Copropriété H/F at Evoriel
+# Comptable copropriété H/F at Evoriel
 
 | Field | Details |
 |-------|---------|
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Paris, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000131066465-comptable-copropriete-hf) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000150031539-comptable-copropriete-hf) |
 
 ## About This Role
 
-This corporate finance position at Evoriel was posted on 2026-06-09.
+This corporate finance position at Evoriel was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

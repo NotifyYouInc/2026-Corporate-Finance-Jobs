@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Hurghada, Red Sea, Egypt |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000130993426-chief-accountant) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000150046751-chief-accountant) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-09.
+This corporate finance position at ACCOR was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

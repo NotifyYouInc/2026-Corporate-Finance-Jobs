@@ -5,12 +5,12 @@
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000149766221-head-of-risk-underwriting) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000150005119-head-of-risk-underwriting) |
 
 ## About This Role
 
-This corporate finance position at Coface was posted on 2026-09-16.
+This corporate finance position at Coface was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

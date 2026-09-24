@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cabify](https://scoutify.ai/companies/cabify?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chile |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cabify/jobs/8509098002) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cabify/jobs/8816127002) |
 
 ## About This Role
 
-This corporate finance position at Cabify was posted on 2026-04-15.
+This corporate finance position at Cabify was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

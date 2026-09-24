@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Umluj, Tabuk Region, Saudi Arabia |
-| Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000135280117-cost-controller-fairmont-the-red-sea) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000150025883-cost-controller-fairmont-the-red-sea) |
 
 ## About This Role
 
-This accounting position at ACCOR was posted on 2026-07-01.
+This corporate finance position at ACCOR was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

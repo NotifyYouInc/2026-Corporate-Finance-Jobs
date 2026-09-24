@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
+| Location | 10 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LOS-ANGELES-CA/Director--Supply-Chain-Finance-Originations_R-534762) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHICAGO-IL/Director--Supply-Chain-Finance-Originations_R-574591-1) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-11.
+This corporate finance position at Wells Fargo was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

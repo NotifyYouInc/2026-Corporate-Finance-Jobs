@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Accounting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484411/senior-tax-analyst-foreign-reporting-compliance-withholding-tax) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10551450/senior-tax-analyst-foreign-reporting-compliance-withholding-tax) |
 
 ## About This Role
 
-This accounting position at Amazon was posted on 2026-07-27.
+This corporate finance position at Amazon was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

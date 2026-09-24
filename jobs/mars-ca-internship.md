@@ -5,12 +5,12 @@
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/IND-Telangana-Hyderabad/CA-Internship_R148513-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/IND-Telangana-Hyderabad/CA-Internship_R167117-1) |
 
 ## About This Role
 
-This corporate finance position at Mars was posted on 2026-02-19.
+This corporate finance position at Mars was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

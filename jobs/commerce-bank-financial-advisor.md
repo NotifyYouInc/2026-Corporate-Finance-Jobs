@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wentzville, Missouri, United States |
+| Location | Independence, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---St-Charles-County-----Wentzville---Wentzville-63385/Financial-Advisor_37782) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-Eastern-Jackson-County---Independence---Independence-MO-39th-Street-64057/Financial-Advisor---Commerce-Financial-Advisors_38457) |
 
 ## About This Role
 
-This corporate finance position at Commerce Bank was posted on 2026-08-07.
+This corporate finance position at Commerce Bank was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

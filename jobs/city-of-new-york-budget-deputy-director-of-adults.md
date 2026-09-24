@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015295136-budget-deputy-director-of-adults) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015335086-budget-deputy-director-of-adults) |
 
 ## About This Role
 
-This corporate finance position at City of New York was posted on 2026-09-16.
+This corporate finance position at City of New York was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

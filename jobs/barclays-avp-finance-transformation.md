@@ -1,16 +1,16 @@
-# AVP - Finance Transformation at Barclays
+# AVP Finance Transformation at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/AVP---Finance-Transformation_JR-0000111504) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/AVP-Finance-Transformation_JR-0000122431) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-05-26.
+This corporate finance position at Barclays was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

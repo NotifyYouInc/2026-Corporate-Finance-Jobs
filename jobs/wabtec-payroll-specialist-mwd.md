@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Austria |
-| Category | Accounting |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015131436-payroll-specialist-mwd) |
+| Location | Schärding, Upper Austria, Austria |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015331956-payroll-specialist-mwd) |
 
 ## About This Role
 
-This accounting position at Wabtec was posted on 2026-09-09.
+This corporate finance position at Wabtec was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000145689549-senior-finance-transformation-manager) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000150027238-senior-finance-transformation-manager) |
 
 ## About This Role
 
-This corporate finance position at Primark was posted on 2026-08-26.
+This corporate finance position at Primark was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

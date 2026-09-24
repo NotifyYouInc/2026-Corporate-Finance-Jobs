@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Singapore, Singapore |
-| Category | Financial Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#76696) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#76694) |
 
 ## About This Role
 
-This financial analyst position at BNY was posted on 2026-06-17.
+This corporate finance position at BNY was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

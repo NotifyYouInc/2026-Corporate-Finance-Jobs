@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wesco](https://scoutify.ai/companies/us2-cx-oj118628?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | India |
-| Category | Accounting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://eklm.fa.us2.oraclecloud.com/jobs/#33899) |
+| Location | Singapore, Singapore |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://eklm.fa.us2.oraclecloud.com/jobs/#34449) |
 
 ## About This Role
 
-This accounting position at Wesco was posted on 2026-08-21.
+This corporate finance position at Wesco was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
