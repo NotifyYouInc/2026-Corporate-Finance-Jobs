@@ -5,12 +5,12 @@
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Lima/ASISTENTE-CONTABLE-JUNIOR_20095311) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Lima/ASISTENTE-CONTABLE-JUNIOR_20102150) |
 
 ## About This Role
 
-This corporate finance position at Acciona was posted on 2026-04-10.
+This corporate finance position at Acciona was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

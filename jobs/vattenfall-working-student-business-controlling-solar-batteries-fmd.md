@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000133038039-working-student-business-controlling-solar-batteries-fmd) |
+| Location | Hamburg, Hamburg, Germany |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000150275999-working-student-business-controlling-solar-batteries-fmd) |
 
 ## About This Role
 
-This corporate finance position at Vattenfall was posted on 2026-06-19.
+This fp&a / strategic finance position at Vattenfall was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Cumberland, Rhode Island, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Senior-Accounting-Manager_R0870475-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Senior-Accounting-Manager_R1044299) |
 
 ## About This Role
 
-This corporate finance position at CVS Health was posted on 2026-04-06.
+This corporate finance position at CVS Health was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

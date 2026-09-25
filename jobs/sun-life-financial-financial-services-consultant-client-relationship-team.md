@@ -1,16 +1,16 @@
-# Financial Services Consultant - Client Relationship Team at Sun Life Financial
+# Financial Services Consultant, Client Relationship Team at Sun Life Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Montreal-Quebec/Financial-Services-Consultant---Client-Relationship-Team_JR00123054) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Financial-Services-Consultant--Client-Relationship-Team_JR00128048) |
 
 ## About This Role
 
-This corporate finance position at Sun Life Financial was posted on 2026-04-21.
+This corporate finance position at Sun Life Financial was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

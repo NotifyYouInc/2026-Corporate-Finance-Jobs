@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Financial Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/LP-Analyst_R11873) |
+| Location | 2 locations |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/LP-Analyst_R12325) |
 
 ## About This Role
 
-This financial analyst position at Clearwateranalytics was posted on 2026-07-07.
+This corporate finance position at Clearwateranalytics was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

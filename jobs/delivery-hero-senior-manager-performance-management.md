@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132119475-senior-manager-performance-management) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000150225949-senior-manager-performance-management) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-06-15.
+This fp&a / strategic finance position at Delivery Hero was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

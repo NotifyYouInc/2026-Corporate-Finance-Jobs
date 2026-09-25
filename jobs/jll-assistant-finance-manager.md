@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Singapore, Singapore |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tokyo-Japan/Assistant-Finance-Manager_REQ530599) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Assistant-Finance-Manager_REQ535909) |
 
 ## About This Role
 
-This fp&a / strategic finance position at JLL was posted on 2026-08-22.
+This fp&a / strategic finance position at JLL was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

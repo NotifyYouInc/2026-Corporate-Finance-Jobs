@@ -1,16 +1,16 @@
-# Senior Associate, Client Accounting Services-Real Estate at Bakertilly
+# Senior Associate - Client Accounting Services, Real Estate at Bakertilly
 
 | Field | Details |
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TX-Frisco/Senior-Associate--Client-Accounting-Services-Real-Estate_JR104931) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TX-Frisco/Senior-Associate---Client-Accounting-Services--Real-Estate_JR105627) |
 
 ## About This Role
 
-This corporate finance position at Bakertilly was posted on 2026-06-16.
+This corporate finance position at Bakertilly was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

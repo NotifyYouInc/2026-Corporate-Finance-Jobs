@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
-| Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Monterrey-MX/Accounts-Receivable-Associate_R23214) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Monterrey-MX/Accounts-Receivable-Associate_R23389) |
 
 ## About This Role
 
-This accounting position at nVent was posted on 2026-08-25.
+This corporate finance position at nVent was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

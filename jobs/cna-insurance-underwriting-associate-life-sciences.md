@@ -5,12 +5,12 @@
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/New-York-NY-USA/Underwriting-Associate--Life-Sciences-_R-7405) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Littleton-CO-USA/Underwriting-Associate--Life-Sciences-_R-8209) |
 
 ## About This Role
 
-This corporate finance position at CNA Insurance was posted on 2026-05-01.
+This corporate finance position at CNA Insurance was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

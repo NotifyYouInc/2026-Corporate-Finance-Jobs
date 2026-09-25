@@ -1,16 +1,16 @@
-# Collaborateur comptable expérimenté F/H at Rydge
+# Collaborateur Comptable Expérimenté F/H at Rydge
 
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Mâcon, Bourgogne, France |
+| Location | Saintes, Nouvelle-Aquitaine, France |
 | Category | Corporate Finance |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000149514949-collaborateur-comptable-experimente-fh) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000150308429-collaborateur-comptable-experimente-fh) |
 
 ## About This Role
 
-This corporate finance position at Rydge was posted on 2026-09-15.
+This corporate finance position at Rydge was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

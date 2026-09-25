@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Saint Louis, Michigan, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAINT-LOUIS-MO/Brokerage-Client-Assistant---RCAST---Registered_R-574024) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAINT-LOUIS-MO/Brokerage-Client-Assistant---RCAST---Registered_R-575983-1) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-09-10.
+This corporate finance position at Wells Fargo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

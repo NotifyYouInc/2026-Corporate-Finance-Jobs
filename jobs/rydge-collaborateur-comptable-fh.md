@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rydge](https://scoutify.ai/companies/rydge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Saintes, Nouvelle-Aquitaine, France |
-| Category | Accounting |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000148465320-collaborateur-comptable-fh) |
+| Location | Épinal, Grand Est, France |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rydge/744000150305393-collaborateur-comptable-fh) |
 
 ## About This Role
 
-This accounting position at Rydge was posted on 2026-09-09.
+This corporate finance position at Rydge was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Corporate Finance |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Tokyo-Japan/Finance-Manager_R1318413) |
+| Location | Brea, California, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/Finance-Manager_R1317207) |
 
 ## About This Role
 
-This corporate finance position at Danaher was posted on 2026-09-15.
+This fp&a / strategic finance position at Danaher was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

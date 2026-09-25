@@ -5,12 +5,12 @@
 | Company | [Cuscal](https://scoutify.ai/companies/cuscal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000142039469-financial-accountant-6-months-max-term-contract) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000150271269-financial-accountant-6-months-max-term-contract) |
 
 ## About This Role
 
-This corporate finance position at Cuscal was posted on 2026-08-07.
+This corporate finance position at Cuscal was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

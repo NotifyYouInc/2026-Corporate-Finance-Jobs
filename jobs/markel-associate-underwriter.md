@@ -5,12 +5,12 @@
 | Company | [Markel](https://scoutify.ai/companies/markel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Milwaukee-WI/Associate-Underwriter_R0023834) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Associate-Underwriter_R0023790) |
 
 ## About This Role
 
-This corporate finance position at Markel was posted on 2026-09-11.
+This corporate finance position at Markel was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Kidango](https://scoutify.ai/companies/kidango?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Fremont, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.kidango.org/careers/apply?gh_jid=5113003007) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.kidango.org/careers/apply?gh_jid=5241129007) |
 
 ## About This Role
 
-This corporate finance position at Kidango was posted on 2026-04-17.
+This corporate finance position at Kidango was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

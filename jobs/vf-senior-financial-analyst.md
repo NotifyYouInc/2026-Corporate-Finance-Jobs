@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VF](https://scoutify.ai/companies/vfc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/ASIA--CHN--Shanghai--688-Henderson-Office/Senior-Financial-Analyst_R-20260514-0008) |
+| Location | Stabio, Ticino, Switzerland |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/EMEA--CHE--Stabio--VF-Campus-VF1/Senior-Financial-Analyst_R-20260917-0018) |
 
 ## About This Role
 
-This corporate finance position at VF was posted on 2026-05-26.
+This fp&a / strategic finance position at VF was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

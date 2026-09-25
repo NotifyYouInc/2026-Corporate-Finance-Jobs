@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | New York City, New York, United States |
-| Category | Accounting |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014283296-auditor) |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015371056-auditor) |
 
 ## About This Role
 
-This accounting position at City of New York was posted on 2026-07-25.
+This corporate finance position at City of New York was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

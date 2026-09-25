@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Cincinnati, Ohio, United States |
-| Category | Accounting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Cincinnati-OH/Accounting-Manager_R100124960) |
+| Location | Long Beach, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Long-Beach-CA/Accounting-Manager_R100125547) |
 
 ## About This Role
 
-This accounting position at ASM Global was posted on 2026-08-24.
+This corporate finance position at ASM Global was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

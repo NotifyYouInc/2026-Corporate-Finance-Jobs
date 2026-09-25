@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Financial Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Financial-Analyst_R327917) |
+| Location | Philadelphia, Pennsylvania, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania-USA/Financial-Analyst_R337183) |
 
 ## About This Role
 
-This financial analyst position at Cushman & Wakefield was posted on 2026-07-17.
+This corporate finance position at Cushman & Wakefield was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

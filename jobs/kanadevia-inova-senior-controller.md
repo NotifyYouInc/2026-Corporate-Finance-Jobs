@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kanadevia Inova](https://scoutify.ai/companies/kanadeviainova?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Petržalka, Bratislava Region, Slovakia |
-| Category | Corporate Finance |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000142561209-senior-controller) |
+| Location | Levice, Nitra Region, Slovakia |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000150346337-senior-controller) |
 
 ## About This Role
 
-This corporate finance position at Kanadevia Inova was posted on 2026-08-10.
+This fp&a / strategic finance position at Kanadevia Inova was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

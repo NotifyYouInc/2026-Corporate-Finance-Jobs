@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Manager--Financial-Planning---Analysis_R-281351-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Manager--Financial-Planning---Analysis_R-290750) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Mastercard was posted on 2026-07-17.
+This fp&a / strategic finance position at Mastercard was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

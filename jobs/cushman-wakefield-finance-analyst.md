@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United States |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Finance-Analyst_R335407) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Canberra-Australia/Finance-Analyst_R329632) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-09-03.
+This corporate finance position at Cushman & Wakefield was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

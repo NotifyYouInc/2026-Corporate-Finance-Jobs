@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Biotronitech](https://scoutify.ai/companies/blancassandovalassociatespa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Lima, Lima Province, Peru |
-| Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000138418829-asistente-contable-miraflores) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BlancasSandovalAssociatesPA/744000150219269-asistente-contable-miraflores) |
 
 ## About This Role
 
-This accounting position at Biotronitech was posted on 2026-07-17.
+This corporate finance position at Biotronitech was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

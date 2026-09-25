@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Accounting |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Alternative-Ops-Fund-Accounting--Senior-Associate_R-796185-1) |
+| Location | Hangzhou, Zhejiang, China |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Senior-Associate_R-790436-1) |
 
 ## About This Role
 
-This accounting position at State Street was posted on 2026-08-20.
+This corporate finance position at State Street was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

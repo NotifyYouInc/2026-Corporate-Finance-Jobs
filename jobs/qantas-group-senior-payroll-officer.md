@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001247248-senior-payroll-officer) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001417947-senior-payroll-officer) |
 
 ## About This Role
 
-This accounting position at Qantas Group was posted on 2026-07-21.
+This corporate finance position at Qantas Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

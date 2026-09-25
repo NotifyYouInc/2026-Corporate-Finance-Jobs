@@ -5,12 +5,12 @@
 | Company | [Romeu](https://scoutify.ai/companies/romeu?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://romeu.wd3.myworkdayjobs.com/romeu_jobs/job/Bogot/Operations-Control-Adviser_JR01217) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://romeu.wd3.myworkdayjobs.com/romeu_jobs/job/Bogot/Operations-Control-Adviser_JR01522) |
 
 ## About This Role
 
-This corporate finance position at Romeu was posted on 2026-05-05.
+This corporate finance position at Romeu was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

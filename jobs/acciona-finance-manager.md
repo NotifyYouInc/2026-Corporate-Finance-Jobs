@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 4 locations |
-| Category | Financial Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Sydney/Finance-Manager_20099615) |
+| Location | London, England, United Kingdom |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/London/Finance-Manager_20102183) |
 
 ## About This Role
 
-This financial analyst position at Acciona was posted on 2026-07-16.
+This fp&a / strategic finance position at Acciona was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

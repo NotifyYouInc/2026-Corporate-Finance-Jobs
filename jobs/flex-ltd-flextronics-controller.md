@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Milpitas, California, United States |
-| Category | Accounting |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-CA-Milpitas/Controller_WD228338) |
+| Location | Buffalo Grove, Illinois, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-IL-Buffalo-Grove/Controller_WD228961) |
 
 ## About This Role
 
-This accounting position at FLEX LTD. Flextronics was posted on 2026-09-01.
+This corporate finance position at FLEX LTD. Flextronics was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

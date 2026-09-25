@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Financial-Plan---Analysis-Associate_AIOC-S01635891-1) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Financial-Plan---Analysis-Associate_AIOC-S01666091-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-06.
+This fp&a / strategic finance position at Accenture was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

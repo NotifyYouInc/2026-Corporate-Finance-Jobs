@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Universal City, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000149459349-manager-finance) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000150224581-manager-finance) |
 
 ## About This Role
 
-This corporate finance position at NBCUniversal was posted on 2026-09-14.
+This fp&a / strategic finance position at NBCUniversal was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Service Corporation International](https://scoutify.ai/companies/service-corporation-international?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Jefferson, Louisiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://sci.wd5.myworkdayjobs.com/sci/job/TX---Houston/Accountant-II_Req162174) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://sci.wd5.myworkdayjobs.com/sci/job/LA---Jefferson/Accountant-II_Req167028) |
 
 ## About This Role
 
-This corporate finance position at Service Corporation International was posted on 2026-05-08.
+This corporate finance position at Service Corporation International was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

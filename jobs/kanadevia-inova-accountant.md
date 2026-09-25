@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kanadevia Inova](https://scoutify.ai/companies/kanadeviainova?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
-| Category | Accounting |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000140158089-accountant) |
+| Location | Levice, Nitra Region, Slovakia |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000150305049-accountant) |
 
 ## About This Role
 
-This accounting position at Kanadevia Inova was posted on 2026-07-28.
+This corporate finance position at Kanadevia Inova was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

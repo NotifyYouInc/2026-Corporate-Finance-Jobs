@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015334146-financial-planning-analysis-partner-ii) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015367666-financial-planning-analysis-partner-ii) |
 
 ## About This Role
 
-This corporate finance position at The Nielsen Company was posted on 2026-09-17.
+This fp&a / strategic finance position at The Nielsen Company was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

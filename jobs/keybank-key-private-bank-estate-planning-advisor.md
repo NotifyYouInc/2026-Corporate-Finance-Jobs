@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Elkhart, Indiana, United States |
+| Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Elkhart-IN/Key-Private-Bank-Estate-Planning-Advisor_R-37573) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Seattle-WA/Key-Private-Bank-Estate-Planning-Advisor_R-41981) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-05-05.
+This corporate finance position at KeyBank was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

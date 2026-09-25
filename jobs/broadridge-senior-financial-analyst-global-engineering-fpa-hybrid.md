@@ -1,16 +1,16 @@
-# Senior Financial Analyst – Global Engineering FP&A (Hybrid) at Broadridge
+# Senior Financial Analyst - Global Engineering FP&A (Hybrid) at Broadridge
 
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Senior-Financial-Analyst---Global-Engineering-FP-A--Hybrid-_JR1085151) |
+| Location | 3 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Senior-Financial-Analyst---Global-Engineering-FP-A--Hybrid-_JR1085938) |
 
 ## About This Role
 
-This corporate finance position at Broadridge was posted on 2026-08-14.
+This fp&a / strategic finance position at Broadridge was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

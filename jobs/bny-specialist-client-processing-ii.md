@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Berwyn, Illinois, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#77478) |
+| Location | Senningerberg, Luxembourg, Luxembourg |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#76512) |
 
 ## About This Role
 
-This asset management / portfolio management position at BNY was posted on 2026-06-11.
+This corporate finance position at BNY was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

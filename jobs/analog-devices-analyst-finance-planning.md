@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Analyst--Finance-Planning_R262967) |
+| Location | Cavite, Central Luzon, Philippines |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Analyst--Finance-Planning_R265903) |
 
 ## About This Role
 
-This corporate finance position at Analog Devices was posted on 2026-06-22.
+This fp&a / strategic finance position at Analog Devices was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

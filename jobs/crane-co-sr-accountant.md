@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crane Co.](https://scoutify.ai/companies/cranecompany?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Twinsburg, Ohio, United States |
+| Location | Shannon, Munster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/70900-USA7900-VS-USA_TWINSBURG-OH/Sr-Accountant_JR101746) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Shannon-Clare-Ireland/Sr-Accountant_JR102531-1) |
 
 ## About This Role
 
-This corporate finance position at Crane Co. was posted on 2026-08-11.
+This corporate finance position at Crane Co. was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

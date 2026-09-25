@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Organization for Migration](https://scoutify.ai/companies/ocs-cx-oj55254?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Bangui, Bangui, Central African Republic |
 | Category | Corporate Finance |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#22522) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#23037) |
 
 ## About This Role
 
-This corporate finance position at International Organization for Migration was posted on 2026-09-04.
+This corporate finance position at International Organization for Migration was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

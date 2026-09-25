@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBUnited-Kingdom/Senior-Finance-Business-Partner_R-159886-1) |
+| Location | 2 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBEpsomWoodcote-Grove/Senior-Finance-Business-Partner_R-164123) |
 
 ## About This Role
 
-This corporate finance position at AtkinsRéalis was posted on 2026-08-26.
+This fp&a / strategic finance position at AtkinsRéalis was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

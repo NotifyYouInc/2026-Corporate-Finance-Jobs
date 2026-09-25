@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Finance-Process---Ops-Associate_AIOC-S01662955-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Finance-Process---Ops-Senior-Analyst_AIOC-S01628435-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Accenture was posted on 2026-08-27.
+This fp&a / strategic finance position at Accenture was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

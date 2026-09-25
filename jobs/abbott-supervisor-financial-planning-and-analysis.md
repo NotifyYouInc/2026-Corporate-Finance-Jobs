@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Lake Forest, California, United States |
+| Location | Austin, Texas, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Supervisor-Financial-Planning-and-Analysis_31156919-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Austin--8701-Bee-Caves-Rd/Supervisor-Financial-Planning-and-Analysis_31161863-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Abbott was posted on 2026-07-29.
+This fp&a / strategic finance position at Abbott was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

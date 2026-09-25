@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bratislava-Slovakia/Financial-Analyst_R1546326) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wayne-PA-United-States-of-America/Financial-Analyst_R1537820) |
 
 ## About This Role
 
-This corporate finance position at IQVIA was posted on 2026-06-26.
+This corporate finance position at IQVIA was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

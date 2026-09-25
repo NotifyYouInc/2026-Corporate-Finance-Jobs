@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Associate--Solutions-Enablement-Team_R-0000177716) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Associate--Solutions-Enablement-Team_R-0000188026-2) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-06-19.
+This corporate finance position at Royal Bank of Canada was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

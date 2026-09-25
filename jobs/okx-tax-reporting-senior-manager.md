@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OKX](https://scoutify.ai/companies/okx?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Accounting |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/okx/jobs/7990945003) |
+| Location | Singapore, Singapore |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/okx/jobs/7998943003) |
 
 ## About This Role
 
-This accounting position at OKX was posted on 2026-09-10.
+This corporate finance position at OKX was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

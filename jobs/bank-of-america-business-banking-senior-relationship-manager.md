@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Little Rock, Arkansas, United States |
+| Location | New Orleans, Louisiana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Little-Rock/Business-Banking-Senior-Relationship-Manager_26030643-2) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-Orleans/Business-Banking-Senior-Relationship-Manager_26034368) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-08-28.
+This corporate finance position at Bank of America was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

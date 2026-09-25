@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
+| Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/5-Rue-Jean-Monnet-Luxembourg/Manager---Investor-Services_R41739) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Dublin-Ireland/Manager---Investor-Services_R46062) |
 
 ## About This Role
 
-This corporate finance position at SS&C Technologies was posted on 2026-07-29.
+This corporate finance position at SS&C Technologies was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

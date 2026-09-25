@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BDO USA](https://scoutify.ai/companies/bdo-usa?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://ebqb.fa.us2.oraclecloud.com/jobs/#13888) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://ebqb.fa.us2.oraclecloud.com/jobs/#14085) |
 
 ## About This Role
 
-This corporate finance position at BDO USA was posted on 2026-09-04.
+This corporate finance position at BDO USA was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

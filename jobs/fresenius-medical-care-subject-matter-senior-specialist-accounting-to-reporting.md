@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Philippines |
-| Category | Accounting |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/PHL-Shared-Services-Philippines---BGC-Office/Subject-Matter-Senior-Specialist--Accounting-to-Reporting_R0265635) |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/PHL-Shared-Services-Philippines---BGC-Office/Subject-Matter-Senior-Specialist--Accounting-to-Reporting_R0270172) |
 
 ## About This Role
 
-This accounting position at Fresenius Medical Care was posted on 2026-08-26.
+This corporate finance position at Fresenius Medical Care was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

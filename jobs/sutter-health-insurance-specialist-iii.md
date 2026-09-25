@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Sacramento, California, United States |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Insurance-Specialist-III_R-137531) |
+| Location | 2 locations |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Insurance-Specialist-III_R-141168) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Sutter Health was posted on 2026-08-06.
+This corporate finance position at Sutter Health was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

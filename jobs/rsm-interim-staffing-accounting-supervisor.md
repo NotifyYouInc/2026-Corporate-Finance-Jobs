@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 9 locations |
-| Category | Accounting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Boston/Interim-Staffing---Accounting-Supervisor_JR120273) |
+| Location | Houston, Texas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Houston/Interim-Staffing---Accounting-Supervisor_JR121350) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-07-22.
+This corporate finance position at RSM was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

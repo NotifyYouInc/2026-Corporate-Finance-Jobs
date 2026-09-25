@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citco](https://scoutify.ai/companies/ocs-cx-oj22087?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#18523) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#18562) |
 
 ## About This Role
 
-This corporate finance position at Citco was posted on 2026-09-17.
+This corporate finance position at Citco was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

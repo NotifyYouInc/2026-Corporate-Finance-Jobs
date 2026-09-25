@@ -5,12 +5,12 @@
 | Company | [Myhcm](https://scoutify.ai/companies/myhcm?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://myhcm.wd3.myworkdayjobs.com/betway/job/North-London-UK/Associate-Corporate-Development_JR13147) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://myhcm.wd3.myworkdayjobs.com/betway/job/North-London-UK/Associate-Corporate-Development_JR13722) |
 
 ## About This Role
 
-This corporate finance position at Myhcm was posted on 2026-06-23.
+This corporate finance position at Myhcm was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

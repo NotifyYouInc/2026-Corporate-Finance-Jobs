@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Mooresville, North Carolina, United States |
-| Category | Financial Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sr-Financial-Analyst---Merchandising-GFO_JR-02618975-1) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sr-Financial-Analyst---Merchandising-GFO_JR-02651223) |
 
 ## About This Role
 
-This financial analyst position at Lowe's was posted on 2026-08-20.
+This fp&a / strategic finance position at Lowe's was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Rochester, New York, United States |
+| Location | Hauppauge, New York, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Rochester-NY/Commercial-Credit-Senior-Associate_R89481) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Hauppauge-NY/Commercial-Credit-Senior-Associate_R90298) |
 
 ## About This Role
 
-This corporate finance position at M&T Bank was posted on 2026-09-17.
+This corporate finance position at M&T Bank was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

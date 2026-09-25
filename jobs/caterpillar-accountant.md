@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mapleton, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accountant_R0000392927) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mapleton-Illinois/Accountant_R0000392353) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-09-16.
+This corporate finance position at Caterpillar was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hedgeserv](https://scoutify.ai/companies/hedgeserv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Krakow-Poland/Treasury-Associate_R6854) |
+| Location | 2 locations |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Dallas-TX/Treasury-Associate_R6941) |
 
 ## About This Role
 
-This treasury & capital markets position at Hedgeserv was posted on 2026-08-06.
+This corporate finance position at Hedgeserv was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

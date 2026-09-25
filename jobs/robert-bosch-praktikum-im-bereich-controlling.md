@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Germany |
-| Category | Corporate Finance |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148987260-praktikum-im-bereich-controlling) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000150287009-praktikum-im-bereich-controlling) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-09-11.
+This fp&a / strategic finance position at Robert Bosch was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

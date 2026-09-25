@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shreveport, Louisiana, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Shreveport/Wealth-Management-Client-Associate_26033564) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/Wealth-Management-Client-Associate_26034281) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-09-16.
+This corporate finance position at Bank of America was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
