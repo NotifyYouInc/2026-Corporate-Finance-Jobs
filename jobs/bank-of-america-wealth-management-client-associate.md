@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/Wealth-Management-Client-Associate_26034281) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Phoenix/Wealth-Management-Client-Associate_26034598) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-09-17.
+This corporate finance position at Bank of America was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

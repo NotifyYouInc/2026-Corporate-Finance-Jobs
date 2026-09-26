@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Belgrade, Central Serbia, Serbia |
-| Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Belgrade-RS/Junior-Accounts-Payable-Associate--Accounting-Shared-Services_R00252647) |
+| Category | Corporate Finance |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Belgrade-RS/Junior-Accounts-Payable-Associate--Accounting-Shared-Services_R00262067) |
 
 ## About This Role
 
-This accounting position at Magna was posted on 2026-07-23.
+This corporate finance position at Magna was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

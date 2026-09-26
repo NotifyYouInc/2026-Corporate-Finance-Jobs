@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 6 locations |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Finance-Director_REQ504909-1) |
+| Location | 5 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Finance-Director_REQ536617) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-05-12.
+This fp&a / strategic finance position at JLL was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

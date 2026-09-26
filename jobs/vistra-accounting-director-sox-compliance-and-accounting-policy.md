@@ -5,12 +5,12 @@
 | Company | [Vistra](https://scoutify.ai/companies/vst?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Accounting-Director-SOX-Compliance-and-Accounting-Policy_40015089-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Accounting-Director-SOX-Compliance-and-Accounting-Policy_40016660) |
 
 ## About This Role
 
-This corporate finance position at Vistra was posted on 2026-02-26.
+This corporate finance position at Vistra was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

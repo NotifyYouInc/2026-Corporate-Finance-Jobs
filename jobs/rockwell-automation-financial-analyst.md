@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Shanghai-China/Financial-Analyst_R26-4243) |
+| Location | Katowice, Silesia, Poland |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Financial-Analyst_R26-6448-1) |
 
 ## About This Role
 
-This corporate finance position at Rockwell Automation was posted on 2026-06-05.
+This fp&a / strategic finance position at Rockwell Automation was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

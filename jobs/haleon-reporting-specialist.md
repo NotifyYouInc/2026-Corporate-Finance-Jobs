@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Kazakhstan |
+| Location | Poznań, Greater Poland, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Almaty-Manasa/Reporting-Specialist_543466-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Poznan-Business-Garden/Reporting-Specialist_548211) |
 
 ## About This Role
 
-This corporate finance position at Haleon was posted on 2026-05-29.
+This corporate finance position at Haleon was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

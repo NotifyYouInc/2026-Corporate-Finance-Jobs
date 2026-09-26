@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Denver](https://scoutify.ai/companies/denver?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://denver.wd1.myworkdayjobs.com/ccd-denver-denvergov-csc_jobs-civil_service_jobs-police_jobs-fire_jobs/job/Denver-International-Airport/Senior-Accountant---Denver-International-Airport_R0082119) |
+| Category | Corporate Finance |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://denver.wd1.myworkdayjobs.com/ccd-denver-denvergov-csc_jobs-civil_service_jobs-police_jobs-fire_jobs/job/Denver-International-Airport/Senior-Accountant---Denver-International-Airport_R0083088-1) |
 
 ## About This Role
 
-This accounting position at Denver was posted on 2026-07-30.
+This corporate finance position at Denver was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Accounts-Payable-Associate_JR146179) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Mexico-Mexico-City/Accounts-Payable-Associate_JR160490) |
 
 ## About This Role
 
-This accounting position at ICON plc was posted on 2026-07-29.
+This corporate finance position at ICON plc was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lambda](https://scoutify.ai/companies/lambda?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lambda/63bcc12e-c0db-4ae6-bca2-86dad4620487) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lambda/2c7fdae0-67d4-4729-bdf6-036d9d6cea03) |
 
 ## About This Role
 
-This corporate finance position at Lambda was posted on 2026-02-05.
+This corporate finance position at Lambda was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

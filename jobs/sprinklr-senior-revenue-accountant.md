@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Delaware, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Virginia---Remote/Senior-Revenue-Accountant_112826-JOB) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Remote/Senior-Senior-Revenue-Accountant_113509-JOB) |
 
 ## About This Role
 
-This corporate finance position at Sprinklr was posted on 2026-03-04.
+This corporate finance position at Sprinklr was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

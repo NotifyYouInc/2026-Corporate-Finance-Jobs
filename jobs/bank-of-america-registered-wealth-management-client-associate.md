@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Wellesley, Massachusetts, United States |
+| Location | Princeton, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Wellesley-Hills/Registered-Wealth-Management-Client-Associate_26034398) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Princeton/Registered-Wealth-Management-Client-Associate_26034567) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-09-17.
+This corporate finance position at Bank of America was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

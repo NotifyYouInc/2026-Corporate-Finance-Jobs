@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Menlo Park, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Menlo-Park/Senior-Financial-Analyst_31161563-1) |
+| Location | Plymouth, Minnesota, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Senior-Financial-Analyst_31160122-1) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-09-14.
+This fp&a / strategic finance position at Abbott was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

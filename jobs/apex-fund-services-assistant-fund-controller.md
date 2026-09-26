@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Belgrade, Central Serbia, Serbia |
-| Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Belgrade/Assistant-Fund-Controller_JR-0024713) |
+| Category | Corporate Finance |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Belgrade/Assistant-Fund-Controller_JR-0026542) |
 
 ## About This Role
 
-This accounting position at Apex Fund Services was posted on 2026-07-14.
+This corporate finance position at Apex Fund Services was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Elgin, Illinois, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Elgin-IL/Financial-Advisor---Minnesota-Power-Employee-Credit-Union_R-052226-1) |
+| Location | Duluth, Minnesota, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Duluth-MN/Financial-Advisor---Minnesota-Power-Employee-Credit-Union_R-052226-1) |
 
 ## About This Role
 
-This wealth management / private banking position at LPL Financial Holdings was posted on 2026-07-14.
+This corporate finance position at LPL Financial Holdings was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

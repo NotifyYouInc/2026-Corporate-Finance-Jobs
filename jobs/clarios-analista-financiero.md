@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarios](https://scoutify.ai/companies/clarios?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Ciénega de Flores, Nuevo León, Mexico |
+| Location | Nuevo León, Baja California, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Leon-Cienega-de-Flores/Analista-Financiero_WD46898-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Leon-Cienega-de-Flores/Analista-Financiero_WD50325) |
 
 ## About This Role
 
-This corporate finance position at Clarios was posted on 2026-02-19.
+This corporate finance position at Clarios was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerity Partners](https://scoutify.ai/companies/ceritypartners?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Elizabethtown, Kentucky, United States |
+| Location | Bowling Green, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Elizabethtown-KY/Summer-2027-Wealth-Management-Internship_R888) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Bowling-Green-KY/Summer-2027-Wealth-Management-Internship_R920) |
 
 ## About This Role
 
-This corporate finance position at Cerity Partners was posted on 2026-09-11.
+This corporate finance position at Cerity Partners was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

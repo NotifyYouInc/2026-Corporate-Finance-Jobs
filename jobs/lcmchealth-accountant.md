@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lcmchealth](https://scoutify.ai/companies/lcmchealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Westpark, California, United States |
+| Location | Louisiana, US |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://lcmchealth.wd1.myworkdayjobs.com/lcmchealth/job/LCMC---Westpark/Accountant_JR0037477) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://lcmchealth.wd1.myworkdayjobs.com/lcmchealth/job/LCMC---Westpark/Accountant_JR0041604) |
 
 ## About This Role
 
-This corporate finance position at Lcmchealth was posted on 2026-05-01.
+This corporate finance position at Lcmchealth was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Jacksonville, Florida, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Senior-Accountant_JR0306248) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Senior-Accountant_JR0308978) |
 
 ## About This Role
 
-This corporate finance position at Fidelity National Information Services was posted on 2026-04-24.
+This corporate finance position at Fidelity National Information Services was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

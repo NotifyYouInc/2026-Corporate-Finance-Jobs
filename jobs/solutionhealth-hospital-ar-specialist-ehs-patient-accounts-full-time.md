@@ -5,12 +5,12 @@
 | Company | [SolutionHealth](https://scoutify.ai/companies/solutionhealth?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Manchester, New Hampshire, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://solutionhealth.wd1.myworkdayjobs.com/careers/job/Manchester-NH/Hospital-AR-Specialist---EHS-Patient-Accounts---Full-Time_JR10956-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://solutionhealth.wd1.myworkdayjobs.com/careers/job/Manchester-NH/Hospital-AR-Specialist---EHS-Patient-Accounts---Full-Time_JR13457) |
 
 ## About This Role
 
-This corporate finance position at SolutionHealth was posted on 2026-02-18.
+This corporate finance position at SolutionHealth was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

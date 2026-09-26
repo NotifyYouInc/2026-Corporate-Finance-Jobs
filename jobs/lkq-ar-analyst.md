@@ -5,12 +5,12 @@
 | Company | [LKQ](https://scoutify.ai/companies/lkqcorp?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://lkqcorp.wd5.myworkdayjobs.com/ExternalCareerSite-LKQ/job/3102-Nashville-TN---Corporate-Office/AR-Analyst_R70175) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://lkqcorp.wd5.myworkdayjobs.com/ExternalCareerSite-LKQ/job/3102-Nashville-TN---Corporate-Office/AR-Analyst_R72614) |
 
 ## About This Role
 
-This corporate finance position at LKQ was posted on 2026-04-21.
+This corporate finance position at LKQ was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

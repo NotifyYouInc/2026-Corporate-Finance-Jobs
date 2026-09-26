@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Malvern, Arkansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Investment-Trade-Support-Specialist_182258) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Investment-Trade-Support-Specialist_182398) |
 
 ## About This Role
 
-This corporate finance position at Vanguard was posted on 2026-09-11.
+This corporate finance position at Vanguard was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

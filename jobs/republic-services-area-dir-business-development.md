@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Berwyn, Illinois, United States |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Berwyn-PA-USA/Area-Dir-Business-Development_R-179824) |
+| Location | Phoenix, Arizona, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Phoenix-AZ-USA/Area-Dir-Business-Development_R-184521) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Republic Services was posted on 2026-07-21.
+This corporate finance position at Republic Services was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

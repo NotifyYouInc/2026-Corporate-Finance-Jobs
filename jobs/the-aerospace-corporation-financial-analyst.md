@@ -5,12 +5,12 @@
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Financial-Analyst_R015491) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Financial-Analyst_R016643) |
 
 ## About This Role
 
-This corporate finance position at The Aerospace Corporation was posted on 2026-05-27.
+This corporate finance position at The Aerospace Corporation was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

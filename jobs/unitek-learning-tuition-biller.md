@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unitek Learning](https://scoutify.ai/companies/unitek-learning?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Irvine, California, United States |
-| Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/uniteklearning/744000143935049-tuition-biller) |
+| Location | Tempe, Arizona, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/uniteklearning/744000150471939-tuition-biller) |
 
 ## About This Role
 
-This accounting position at Unitek Learning was posted on 2026-08-17.
+This corporate finance position at Unitek Learning was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

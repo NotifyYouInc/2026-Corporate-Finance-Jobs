@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Senior-Functional-Budget-Analyst_R2128306) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Senior-Functional-Budget-Analyst_R2130241) |
 
 ## About This Role
 
-This corporate finance position at KBR was posted on 2026-08-14.
+This fp&a / strategic finance position at KBR was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

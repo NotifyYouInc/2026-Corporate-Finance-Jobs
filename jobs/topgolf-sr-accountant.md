@@ -5,12 +5,12 @@
 | Company | [Topgolf](https://scoutify.ai/companies/topgolf?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://topgolf.wd501.myworkdayjobs.com/topgolfcareers/job/TG---HQ---Dallas-Office/Sr-Accountant_JR2023-18782) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://topgolf.wd501.myworkdayjobs.com/topgolfcareers/job/TG---HQ---Dallas-Office/Sr-Accountant_JR2023-22761) |
 
 ## About This Role
 
-This corporate finance position at Topgolf was posted on 2026-03-06.
+This corporate finance position at Topgolf was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

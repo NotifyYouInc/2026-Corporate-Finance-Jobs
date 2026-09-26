@@ -5,12 +5,12 @@
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Seattle/Credit-Manager_REQ10377346) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Seattle/Credit-Manager_REQ10392559) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-04-14.
+This corporate finance position at Four Seasons Hotels was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

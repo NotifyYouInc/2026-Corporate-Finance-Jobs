@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ledcor Group of Companies](https://scoutify.ai/companies/ledcor-group-of-companies?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Edmonton, Alberta, Canada |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Edmonton-AB/Project-Accountant_R30642) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Denver-CO/Project-Accountant_R30899) |
 
 ## About This Role
 
-This corporate finance position at Ledcor Group of Companies was posted on 2026-09-03.
+This corporate finance position at Ledcor Group of Companies was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

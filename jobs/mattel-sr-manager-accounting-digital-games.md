@@ -1,16 +1,16 @@
-# Sr Manager, Accounting - Digital Games  at Mattel
+# Sr Manager Accounting - Digital Games at Mattel
 
 | Field | Details |
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000146271239-sr-manager-accounting-digital-games) |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000150469517-sr-manager-accounting-digital-games) |
 
 ## About This Role
 
-This accounting position at Mattel was posted on 2026-08-28.
+This corporate finance position at Mattel was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

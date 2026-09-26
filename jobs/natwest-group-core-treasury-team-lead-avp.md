@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Core-Treasury-Team-Lead--AVP_R-00277759) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Core-Treasury-Team-Lead--AVP_R-00285172) |
 
 ## About This Role
 
-This corporate finance position at NatWest Group was posted on 2026-05-06.
+This corporate finance position at NatWest Group was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

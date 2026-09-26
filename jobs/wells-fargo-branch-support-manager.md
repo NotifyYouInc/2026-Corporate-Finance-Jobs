@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | 2 locations |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MINNEAPOLIS-MN/Branch-Support-Manager_R-564932) |
+| Location | 6 locations |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WALTHAM-MA/Branch-Support-Manager_R-575890) |
 
 ## About This Role
 
-This wealth management / private banking position at Wells Fargo was posted on 2026-08-03.
+This corporate finance position at Wells Fargo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

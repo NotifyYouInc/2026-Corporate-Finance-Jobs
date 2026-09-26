@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hedgeserv](https://scoutify.ai/companies/hedgeserv?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Manila/Investor-Services-Manager_R5682) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Krakow-Poland/Manager--Investor-Services_R3781) |
 
 ## About This Role
 
-This corporate finance position at Hedgeserv was posted on 2026-08-26.
+This corporate finance position at Hedgeserv was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Resorts World Las Vegas](https://scoutify.ai/companies/resorts-world-las-vegas?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://rwlasvegas.wd501.myworkdayjobs.com/rwlv_external_careers/job/Resorts-World-Las-Vegas/Accountant--General-Ledger_JR-01873) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://rwlasvegas.wd501.myworkdayjobs.com/rwlv_external_careers/job/Resorts-World-Las-Vegas/Accountant--General-Ledger_JR-03620-1) |
 
 ## About This Role
 
-This corporate finance position at Resorts World Las Vegas was posted on 2026-04-29.
+This corporate finance position at Resorts World Las Vegas was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [American Financial Group](https://scoutify.ai/companies/gaig?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
 | Location | Ohio, US |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
+| Posted | 2026-09-19 |
 | Apply | [View on company site](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Ohio-USA/Financial-Analyst_R9169) |
 
 ## About This Role
 
-This corporate finance position at American Financial Group was posted on 2026-06-26.
+This corporate finance position at American Financial Group was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

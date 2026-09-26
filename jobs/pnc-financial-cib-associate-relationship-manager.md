@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/The-Tower-at-PNC-Plaza-PAA86/C-IB-Associate-Relationship-Manager_R214673-2) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/GA---Atlanta-30309/C-IB-Associate-Relationship-Manager_R236099-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-09-03.
+This corporate finance position at PNC Financial was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

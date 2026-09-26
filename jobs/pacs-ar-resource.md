@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | California, US |
-| Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---California/AR-Resource_JR179839) |
+| Location | Not specified |
+| Category | Corporate Finance |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/PACS/AR-Resource_JR182731) |
 
 ## About This Role
 
-This accounting position at Pacs was posted on 2026-08-25.
+This corporate finance position at Pacs was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

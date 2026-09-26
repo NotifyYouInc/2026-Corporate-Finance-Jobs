@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Buffalo Grove, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-IL-Buffalo-Grove/Controller_WD228961) |
+| Location | Milpitas, California, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-CA-Milpitas/Controller_WD229067-1) |
 
 ## About This Role
 
-This corporate finance position at FLEX LTD. Flextronics was posted on 2026-09-17.
+This fp&a / strategic finance position at FLEX LTD. Flextronics was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

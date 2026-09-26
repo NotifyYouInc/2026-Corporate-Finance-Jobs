@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Coaticook, Quebec, Canada |
+| Location | Québec, Quebec, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Coaticook/Conseiller-ou-conseillre--Gestion-de-patrimoine_R2611265) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Conseiller-ou-conseillre--Gestion-de-patrimoine--Clientle-retraite_R2611357) |
 
 ## About This Role
 
-This corporate finance position at Desjardins was posted on 2026-09-14.
+This corporate finance position at Desjardins was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

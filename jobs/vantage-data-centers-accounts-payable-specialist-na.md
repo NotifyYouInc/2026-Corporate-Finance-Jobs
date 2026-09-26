@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=corporate-finance-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Denver, Colorado, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Montreal-Quebec/Accounts-Payable-Specialist--NA_R21555) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Denver-Colorado/Accounts-Payable-Specialist--NA_R24783) |
 
 ## About This Role
 
-This corporate finance position at Vantage Data Centers was posted on 2026-02-17.
+This corporate finance position at Vantage Data Centers was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 
